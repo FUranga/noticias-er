@@ -60,7 +60,7 @@ def main():
     html = f"""
 <style>.entry-hero.page-hero-section {{ display:none !important; }}</style>
 <div style="margin:-1px 0 0; background:#fff;">
-  <img src="{WP_URL}/wp-content/uploads/2026/09/casa-gobierno-entre-rios.jpg" alt="Casa de Gobierno de Entre R&iacute;os" title="Foto: Agustingagliardone / Wikimedia Commons (CC BY-SA 3.0)" style="width:100%; max-height:340px; object-fit:cover; display:block;">
+  <img src="{WP_URL}/wp-content/uploads/2026/09/casa-gobierno-entre-rios-2018.jpg" alt="Casa de Gobierno de Entre R&iacute;os" title="Foto: Secretar&iacute;a de Comunicaci&oacute;n del Gobierno de Entre R&iacute;os / Wikimedia Commons (CC BY 2.5 AR)" style="width:100%; max-height:340px; object-fit:cover; display:block;">
   <div style="max-width:640px; margin:0 auto; text-align:center; padding:56px 24px 56px;">
     <div style="width:46px; height:3px; background:{ROJO}; margin:0 auto 26px;"></div>
     <p style="font-family:{SERIF}; font-size:19px; line-height:1.6; color:{TEXT}; margin:0 0 34px;">
