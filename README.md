@@ -42,6 +42,7 @@ docs/
   contenido-historico-fundacion.md  Contenido institucional de FUNDER rescatado de Wayback Machine
   sitio-fundacion.md        Estado, decisiones y gotchas técnicos del sitio de la Fundación
   checklist-sitio-fundacion.md  Pendientes del sitio de la Fundación, agrupados por prioridad
+  prensa-fundacion.md       Contacto de prensa por defecto, reglas de embargo y estado del listado de periodistas de FUNDER
 
 skills/
   redactar-noticia/         Reescribe un comunicado ya elegido por el editor como noticia
@@ -49,6 +50,7 @@ skills/
   mapear-fuentes/           Investiga y mantiene actualizado docs/fuentes.md
   procesar-cablera/         Redacta y publica como borrador los ítems marcados en el panel admin
   aprender-noticiabilidad/  Aprende de lo publicado/descartado y actualiza docs/criterios-noticiabilidad.md
+  armar-gacetilla/          Redacta gacetillas de prensa DE FUNDER hacia otros medios (dirección inversa a las demás skills)
 
 admin/
   index.html                 Panel de curación ("la cablera") — pendientes/a publicar/descartadas

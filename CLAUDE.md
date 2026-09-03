@@ -34,6 +34,8 @@ Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fund
 - `skills/` — skills de Claude Code para el flujo editorial (`redactar-noticia`, `evaluar-comunicado`, `mapear-fuentes`, `procesar-cablera`, `aprender-noticiabilidad`).
 - `docs/sitio-fundacion.md` — estado, decisiones de contenido y gotchas técnicos de WordPress/Kadence del sitio de la Fundación. Leer antes de tocar ese sitio, para no repetir investigación ya hecha (ej. el bug del panel "Additional CSS" del Customizer, o por qué cambiar el idioma vía API no alcanza).
 - `fundacion-wp/` — scripts de mantenimiento del sitio de la Fundación (`desarrolloentrerriano.org`). WordPress y credenciales completamente separados del `pipeline/` del medio.
+- `docs/prensa-fundacion.md` — contacto de prensa por defecto de FUNDER, reglas de embargo, y estado del listado de periodistas (todavía sin cargar). Lo consume la skill `armar-gacetilla`.
+- `skills/armar-gacetilla/` — redacta gacetillas de prensa de FUNDER hacia otros medios (dirección inversa a las skills editoriales del medio: acá FUNDER emite, no recibe). El envío a periodistas todavía no está implementado.
 
 ## Reglas de trabajo específicas del sitio de la Fundación
 
