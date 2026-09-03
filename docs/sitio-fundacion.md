@@ -68,14 +68,35 @@ sesión usó descarga cruda + BeautifulSoup.
   **Verificación**: nunca confiar en el estado "Publicada" de la UI ni en una sola screenshot — siempre
   chequear con un fetch crudo (`Invoke-WebRequest` o equivalente, sin caché de browser/sesión) que el
   string efectivamente esté en el HTML servido.
-- **CSS actualmente en "Additional CSS"** (soluciona la franja gris de título en todas las páginas y las
-  sombras de las tarjetas de artículo):
+- **CSS actualmente en "Additional CSS"**: la primera versión ocultaba `.entry-hero` por completo en
+  todo el sitio para sacar una franja gris fea — pero eso también se llevó puesta la única señal de
+  "en qué página estás" en Novedades/Informes/páginas internas (sin título ni breadcrumb). La versión
+  actual restyle en vez de ocultar: deja el `<h1>` de título visible con fondo blanco/gris muy suave,
+  y solo la portada (id 55) lo sigue ocultando vía el `<style>` scoped que ya trae `armar_home.py`
+  (`.entry-hero.page-hero-section` es más específico que el `.entry-hero` global, así que gana ahí sin
+  conflicto). También agrega un color distintivo (rojo de marca) al ítem de menú activo, porque
+  WordPress ya marca `current-menu-item` en el HTML pero Kadence no lo resalta visualmente por
+  defecto:
   ```css
-  .entry-hero { display: none !important; }
+  .entry-hero { background-color: #ffffff !important; }
+  .entry-hero .hero-section-overlay { background: transparent !important; }
+  body, .site, .site-main, .content-bg-color, .entry-content, .site-below-header-wrap, .content-area { background-color: #ffffff !important; }
   article, .entry, .content-bg, .wp-block-post, article.entry.content-bg { box-shadow: none !important; }
+  #primary-menu > li.current-menu-item > a, #primary-menu > li.current-menu-item > a .nav-drop-title-wrap { color: #B4192B !important; }
   ```
-  (`.entry-hero` sin más cubre tanto `.page-hero-section` como `.post-archive-hero-section`, las dos
-  variantes que usa Kadence para páginas vs. archivos).
+- **Largo del extracto en las tarjetas de archivo (Novedades, categorías) es un setting nativo de
+  Kadence, no CSS**: `wp.customize('post_archive_element_excerpt')`, un objeto `{enabled, words,
+  fullContent}`. Bajado de 55 a 20 palabras porque el extracto por defecto (auto-generado de las
+  primeras 55 palabras del post, sin resumen real) se sentía desprolijo/cortado a mitad de frase.
+- **Comentarios**: desactivados en todo el sitio — `default_comment_status` en `/wp/v2/settings` (para
+  contenido nuevo) más un `comment_status: "closed"` aplicado a todos los posts existentes vía API
+  (las páginas ya vienen con comentarios cerrados por defecto en WordPress).
+- **Categoría "Informes" apunta al archivo nativo de la categoría, no a una página estática**: el ítem
+  de menú "Informes" originalmente apuntaba a una página placeholder ("Próximamente", id 360, ahora en
+  borrador). Se cambió el `menu-item` a `type: "taxonomy", object: "category", object_id: 6` (la
+  categoría se renombró de "Informe" a "Informes" para que coincida con el label del menú; el slug
+  sigue siendo `informe`) — así la página se arma sola con los posts que ya estén categorizados como
+  Informes, sin mantener contenido aparte.
 - **`site_logo` no siempre se guarda de forma confiable clickeando en el Customizer** — funcionó recién
   al hacer `POST /wp-json/wp/v2/settings {"site_logo": <media_id>}` directo por API.
 - **Bulk-edit a "Publicar" desde el listado de wp-admin resetea la fecha (`date`) a "ahora"** si no se

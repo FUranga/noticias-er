@@ -17,7 +17,7 @@ Documento vivo para ir tildando a medida que se completa. No todo es urgente —
 - [ ] **Confirmar datos de contacto vigentes** (teléfono, email, dirección).
 - [ ] **Año de fundación de FUNDER**: confirmado que es 1992 (no 1990 — eso era la fecha de la APF).
 - [ ] **"¿Qué es el CEN?"** (Centro de Estudios Nacionales) — no se pudo recuperar el contenido original, hay que rehacerlo si se quiere esa sección.
-- [ ] **Página "Informes"** — hoy es un placeholder ("Próximamente"). Definir si van a subir informes/publicaciones ahí y en qué formato (PDF descargable, notas largas, etc.).
+- [x] **Página "Informes"** — el placeholder ("Próximamente") pasó a borrador; el ítem de menú ahora apunta al archivo de la categoría "Informes" (6 posts ya categorizados ahí). **Pendiente**: definir si además quieren subir informes/publicaciones en un formato propio (PDF descargable, etc.) más adelante — hoy son solo notas de texto como cualquier otra.
 - [ ] **Filtrar/curar las 54 notas históricas + 20 de Visión Desarrollista** que importamos — quedaron todas publicadas de una, vale la pena que las repases con calma en algún momento (no es urgente, ya están online).
 - [x] **Categorización de los 81 posts** — pasada heurística automática (`categorizar.py`) asignando Opinión/Evento/Informe/Entrevista/Institucional por patrones de título y autor. **Pendiente**: revisión manual, ~44 posts cayeron en el catch-all "Institucional" por defecto.
 
@@ -45,6 +45,10 @@ Documento vivo para ir tildando a medida que se completa. No todo es urgente —
 - [x] Menú con submenú "Sobre".
 - [x] Sección de Novedades dinámica en la portada + archivo completo paginado (9 posts por página).
 - [x] Categorías visibles: Opinión, Evento, Informe, Entrevista, Institucional.
+- [x] Encabezado con título de sección en Novedades/Informes/páginas internas (se había apagado por error junto con el arreglo de la franja gris; ahora vuelve a mostrarse con fondo blanco/gris muy suave, y la portada lo sigue ocultando).
+- [x] Ítem activo del menú resaltado en rojo (no se notaba antes aunque WordPress ya marcaba `current-menu-item`).
+- [x] Largo del extracto en las tarjetas de Novedades acortado (55 → 20 palabras, ajuste nativo de Kadence, no CSS).
+- [x] Comentarios desactivados en todo el sitio (posts existentes + default para contenido nuevo).
 - [ ] **Revisar cómo se ve en celular** (mobile) — todo lo armamos mirando desktop, vale la pena chequear el menú, las tarjetas de Novedades y las fotos en una pantalla chica.
 - [ ] **Página 404** (cuando alguien entra a un link roto) — Kadence trae una por defecto, confirmar que no diga cosas en inglés.
 
