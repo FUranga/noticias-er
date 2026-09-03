@@ -1,0 +1,32 @@
+# CLAUDE.md
+
+Contexto para trabajar en este repo con Claude Code.
+
+## Qué es este proyecto
+
+`[NOMBRE DEL MEDIO]` (nombre todavía provisorio, ver README) es un medio digital en formación para cubrir política y economía institucional de Paraná y Entre Ríos, proyecto de la Fundación para el Desarrollo Entrerriano, editado por Francisco Uranga. Funciona con lógica de agencia: monitorea comunicados de organismos y organizaciones, el editor decide qué es noticiable, un agente de IA lo reescribe en estilo Bloomberg/WSJ, el editor revisa y publica. Contexto completo en `README.md` y `docs/vision-y-etapas.md`.
+
+Estado actual: preoperativo, sin sitio ni infraestructura de publicación todavía. Este repo es planificación + skills editoriales.
+
+## Reglas de trabajo
+
+- **La decisión de qué es noticia es siempre del editor (Francisco), nunca de la IA.** Ninguna skill de este repo debe decidir sola que algo se publica — como mucho, sugiere o resume para agilizar esa decisión (`evaluar-comunicado`), o reescribe algo ya elegido (`redactar-noticia`).
+- **No se publica nada automáticamente.** El resultado de cualquier reescritura es un borrador para revisión editorial, nunca un post final.
+- **No inventar datos.** Si falta una cifra, fecha o dato en la fuente original, se señala como faltante — nunca se completa con una suposición, aunque parezca razonable.
+- **Atribución explícita siempre que el dato venga de la fuente y no de verificación propia** — es la regla central del estilo editorial de este proyecto (ver `docs/estilo-editorial.md`). Un comunicado de gobierno o de una cámara empresaria está escrito para quedar bien; nuestro trabajo es separar el hecho del relato.
+- **No inventar URLs de fuentes.** Al mapear o auditar fuentes (`docs/fuentes.md`, skill `mapear-fuentes`), si no se puede confirmar una URL o un feed RSS con certeza razonable, se marca explícitamente como no confirmado en vez de completar el campo con algo plausible.
+- **Fuera de alcance**: deportes, espectáculos, cultura de entretenimiento. Si aparece contenido de estos temas en una fuente monitoreada, no se convierte en nota.
+- **Agencia, no repetición**: si el hecho ya está bien cubierto por otro medio (sobre todo uno chico/local), preferir linkear y atribuir antes que reescribir sin aportar nada propio. Ver `docs/vision-y-etapas.md` y `docs/aliados-y-financiamiento.md`.
+
+## Dónde está cada cosa
+
+- `docs/vision-y-etapas.md` — visión completa y hoja de ruta por etapas. Leer antes de proponer cualquier funcionalidad nueva, para ubicarla en la etapa que corresponde.
+- `docs/arquitectura-tecnica.md` — decisión de infraestructura (WordPress + pipeline de agencia propio) y el razonamiento detrás. Leer antes de proponer cambios de stack.
+- `docs/estilo-editorial.md` — reglas de redacción compartidas por las skills editoriales. Es la fuente de verdad del estilo; las skills la referencian, no la duplican.
+- `docs/aliados-y-financiamiento.md` — pensamiento en curso sobre alianzas con otros medios/instituciones y vías de sostenibilidad.
+- `docs/fuentes.md` — mapa de organismos y organizaciones a monitorear. Mantenido con la skill `mapear-fuentes`.
+- `skills/` — skills de Claude Code para el flujo editorial (`redactar-noticia`, `evaluar-comunicado`, `mapear-fuentes`).
+
+## Proyecto hermano
+
+`despidos-tracker` (otro repo, no este) usa un patrón similar de curaduría periodística con IA pero para un dominio distinto (despidos/quiebras a nivel nacional) y con otra infraestructura (JSON + GitHub + panel admin propio, sin WordPress). Las skills de ese proyecto sirvieron de punto de partida conceptual para las de acá, pero fueron reescritas por completo — no asumas que las reglas de un proyecto aplican al otro sin chequear `docs/estilo-editorial.md` de este repo primero.
