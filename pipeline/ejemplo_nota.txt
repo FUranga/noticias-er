@@ -1,0 +1,9 @@
+Título: El Gobierno de Entre Ríos anuncia una línea de crédito de 500 millones de pesos para pymes industriales
+
+Bajada: La medida, a cargo del Ministerio de Producción, apunta a financiar capital de trabajo con tasas subsidiadas para empresas del sector manufacturero.
+
+Este es un ejemplo de prueba para confirmar que el pipeline funciona de punta a punta. Reemplazá este archivo por la salida real de la skill redactar-noticia cuando quieras publicar una noticia de verdad.
+
+El Ministerio de Producción, Turismo y Desarrollo Económico habilitó una línea de créditos de 500 millones de pesos destinada a pequeñas y medianas empresas industriales de la provincia, según informó el organismo.
+
+Fuente: comunicado de prensa del Ministerio de Producción, Turismo y Desarrollo Económico de Entre Ríos (ejemplo de prueba, no es una noticia real)

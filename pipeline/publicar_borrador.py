@@ -1,0 +1,112 @@
+"""
+Sube una noticia ya redactada (formato de salida de la skill `redactar-noticia`)
+como borrador (`draft`) en WordPress, via su API REST.
+
+Uso:
+    python publicar_borrador.py nota.txt
+
+El archivo de entrada tiene que tener el formato:
+
+    Titulo: ...
+
+    Bajada: ...
+
+    [Cuerpo en parrafos cortos]
+
+    Fuente: ...
+
+Credenciales en pipeline/.env (nunca se commitea - ver .env.example):
+    WP_URL=https://tu-dominio-temporal.hostingersite.com
+    WP_USER=tu-usuario-de-wordpress
+    WP_APP_PASSWORD=xxxx xxxx xxxx xxxx xxxx xxxx
+"""
+
+import os
+import re
+import sys
+
+import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
+WP_URL = os.environ.get("WP_URL", "").rstrip("/")
+WP_USER = os.environ.get("WP_USER", "")
+WP_APP_PASSWORD = os.environ.get("WP_APP_PASSWORD", "")
+
+
+def parse_nota(texto: str) -> dict:
+    """Separa el texto en titulo / bajada / cuerpo / fuente segun el formato de redactar-noticia."""
+    titulo_m = re.search(r"^T[ií]tulo:\s*(.+)$", texto, re.MULTILINE)
+    bajada_m = re.search(r"^Bajada:\s*(.+)$", texto, re.MULTILINE)
+    fuente_m = re.search(r"^Fuente:\s*(.+)$", texto, re.MULTILINE)
+
+    if not titulo_m:
+        raise ValueError("No encontre una linea 'Titulo:' en el archivo.")
+
+    titulo = titulo_m.group(1).strip()
+    bajada = bajada_m.group(1).strip() if bajada_m else ""
+    fuente = fuente_m.group(1).strip() if fuente_m else ""
+
+    # El cuerpo es todo lo que queda entre la bajada y la linea de fuente.
+    inicio_cuerpo = bajada_m.end() if bajada_m else titulo_m.end()
+    fin_cuerpo = fuente_m.start() if fuente_m else len(texto)
+    cuerpo = texto[inicio_cuerpo:fin_cuerpo].strip()
+
+    return {"titulo": titulo, "bajada": bajada, "cuerpo": cuerpo, "fuente": fuente}
+
+
+def a_html(nota: dict) -> str:
+    """Arma el content HTML del post: bajada en negrita como lead, despues los parrafos del cuerpo."""
+    partes = []
+    if nota["bajada"]:
+        partes.append(f"<p><strong>{nota['bajada']}</strong></p>")
+    for parrafo in nota["cuerpo"].split("\n\n"):
+        parrafo = parrafo.strip()
+        if parrafo:
+            partes.append(f"<p>{parrafo}</p>")
+    if nota["fuente"]:
+        partes.append(f"<p><em>Fuente: {nota['fuente']}</em></p>")
+    return "\n".join(partes)
+
+
+def crear_borrador(nota: dict) -> dict:
+    if not (WP_URL and WP_USER and WP_APP_PASSWORD):
+        raise RuntimeError(
+            "Faltan WP_URL / WP_USER / WP_APP_PASSWORD. Revisa pipeline/.env "
+            "(copia .env.example si todavia no lo creaste)."
+        )
+
+    resp = requests.post(
+        f"{WP_URL}/wp-json/wp/v2/posts",
+        auth=(WP_USER, WP_APP_PASSWORD),
+        json={
+            "title": nota["titulo"],
+            "content": a_html(nota),
+            "status": "draft",
+        },
+        timeout=30,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def main():
+    if len(sys.argv) != 2:
+        print("Uso: python publicar_borrador.py <archivo_de_nota.txt>")
+        sys.exit(1)
+
+    ruta = sys.argv[1]
+    with open(ruta, encoding="utf-8") as f:
+        texto = f.read()
+
+    nota = parse_nota(texto)
+    print(f"Titulo detectado: {nota['titulo']}")
+
+    resultado = crear_borrador(nota)
+    editar_url = f"{WP_URL}/wp-admin/post.php?post={resultado['id']}&action=edit"
+    print(f"Borrador creado (id {resultado['id']}). Revisalo aca:\n{editar_url}")
+
+
+if __name__ == "__main__":
+    main()
