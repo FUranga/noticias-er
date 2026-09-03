@@ -44,9 +44,12 @@ Anotado para evaluar más adelante, no para implementar ahora: además de automa
 
 No es "entrenar un modelo" (no hay fine-tuning) — es afinar por escrito, con el uso real, los criterios que ya hoy `evaluar-comunicado` usa para sugerir. La distinción importante para cuando se evalúe esto: **automatizar hasta "borrador listo en WordPress" es razonable y de bajo riesgo** (un error de más es una nota de más para revisar); **automatizar qué queda realmente en vivo en el sitio sin revisión humana es una decisión de otro nivel** — el costo de un error ahí no es "trabajo de revisión de más", es algo mal publicado con la marca del medio. Recomendación cuando se llegue a este punto: mantener el clic final de publicar en manos humanas incluso con triage y redacción 100% automatizados, y decidir soltarlo (si alguna vez tiene sentido) con datos reales de tasa de acierto, no de entrada.
 
+## Decidido
+- **Hosting**: Hostinger (datacenter São Paulo), una sola cuenta para ambos WordPress (el del medio y el de la Fundación) — más barato que dos cuentas separadas y suficiente para el tráfico esperado en esta etapa.
+- **Sitio de la Fundación** (`desarrolloentrerriano.org`): WordPress + theme Kadence, construido de punta a punta. Detalle en `docs/sitio-fundacion.md`.
+- **Repositorio de GitHub**: ya creado y en uso — [github.com/FUranga/noticias-er](https://github.com/FUranga/noticias-er) (privado).
+
 ## Pendiente de decidir con el usuario
-- Nombre de dominio (atado a la decisión de marca, ver `vision-y-etapas.md`).
-- Hosting de WordPress (gestionado, privado, de bajo costo — no necesita ser potente, no sirve tráfico público).
+- Nombre de dominio del medio (atado a la decisión de marca/nombre, ver `vision-y-etapas.md`) — el dominio del medio en Hostinger sigue siendo el temporal (`maroon-seahorse-965853.hostingersite.com`).
 - Confirmar Next.js + Vercel como stack del frontend, o evaluar alternativas si hay preferencia técnica distinta.
 - ESP de newsletter.
-- Repositorio de GitHub: ya creado y en uso — [github.com/FUranga/noticias-er](https://github.com/FUranga/noticias-er) (privado).

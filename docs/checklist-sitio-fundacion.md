@@ -4,9 +4,9 @@ Documento vivo para ir tildando a medida que se completa. No todo es urgente —
 
 ## 1. Pie de página (footer) — lo más visible que falta
 
-- [ ] **Redes sociales**: íconos con link a Facebook (`facebook.com/desarrolloentrerriano`), Instagram (`@funder_ok`), X/Twitter (`@FunderRU`), YouTube (`@FunderOrg-ER`). Ya los tenemos identificados, solo falta cargarlos.
-- [ ] **Dirección física**: 25 de Mayo 46, planta alta, Paraná, Entre Ríos (ya está en `/contacto/`, falta repetirla en el footer, que es donde la gente la busca por reflejo).
-- [ ] **Teléfono y email**: (0343) 4230844 / funderru@gmail.com — confirmar que sigan vigentes antes de publicarlos en el footer (son de un snapshot de 2019).
+- [x] **Redes sociales**: íconos con link a Facebook (`facebook.com/desarrolloentrerriano`), Instagram (`@funder_ok`), X/Twitter (`@FunderRU`), YouTube (`@FunderOrg-ER`). Cargados en el footer (Kadence `footer_social_items` + `{id}_link` theme mods).
+- [x] **Dirección física**: 25 de Mayo 46, Paraná, Entre Ríos — agregada al footer (junto al copyright, en `footer_html_content`).
+- [x] **Teléfono y email**: (0343) 4230844 / funderru@gmail.com — agregados al footer. **Pendiente**: confirmar que sigan vigentes, son de un snapshot de 2019.
 - [ ] **CUIT / datos legales de la Fundación** — si corresponde mostrarlo públicamente (común en fundaciones argentinas, genera confianza institucional).
 - [ ] **Copyright** — ya está ("© 2026 Fundación para el Desarrollo Entrerriano"), sin el crédito de Kadence.
 - [ ] **Link a Política de Privacidad** — ver punto 3.
@@ -19,6 +19,7 @@ Documento vivo para ir tildando a medida que se completa. No todo es urgente —
 - [ ] **"¿Qué es el CEN?"** (Centro de Estudios Nacionales) — no se pudo recuperar el contenido original, hay que rehacerlo si se quiere esa sección.
 - [ ] **Página "Informes"** — hoy es un placeholder ("Próximamente"). Definir si van a subir informes/publicaciones ahí y en qué formato (PDF descargable, notas largas, etc.).
 - [ ] **Filtrar/curar las 54 notas históricas + 20 de Visión Desarrollista** que importamos — quedaron todas publicadas de una, vale la pena que las repases con calma en algún momento (no es urgente, ya están online).
+- [x] **Categorización de los 81 posts** — pasada heurística automática (`categorizar.py`) asignando Opinión/Evento/Informe/Entrevista/Institucional por patrones de título y autor. **Pendiente**: revisión manual, ~44 posts cayeron en el catch-all "Institucional" por defecto.
 
 ## 3. Legal / cumplimiento — bajo pero real
 
@@ -40,15 +41,16 @@ Documento vivo para ir tildando a medida que se completa. No todo es urgente —
 
 - [x] Logo del theme configurado.
 - [x] Fondos grises eliminados.
+- [x] Sombras en las tarjetas de artículo eliminadas (`article, .entry, .content-bg, .wp-block-post { box-shadow: none !important; }` en Additional CSS).
 - [x] Menú con submenú "Sobre".
-- [x] Sección de Novedades dinámica en la portada + archivo completo paginado.
+- [x] Sección de Novedades dinámica en la portada + archivo completo paginado (9 posts por página).
+- [x] Categorías visibles: Opinión, Evento, Informe, Entrevista, Institucional.
 - [ ] **Revisar cómo se ve en celular** (mobile) — todo lo armamos mirando desktop, vale la pena chequear el menú, las tarjetas de Novedades y las fotos en una pantalla chica.
 - [ ] **Página 404** (cuando alguien entra a un link roto) — Kadence trae una por defecto, confirmar que no diga cosas en inglés.
 
 ## 6. Más adelante (no bloqueante para lanzar)
 
 - [ ] Newsletter / lista de correo (si quieren capturar contactos interesados).
-- [ ] Categorías para diferenciar "Opinión" de "Agenda/Eventos" dentro de Novedades (idea que charlamos).
 - [ ] Sección de transparencia/financiamiento (común en fundaciones serias — quién las financia, balance anual si corresponde).
 - [ ] Formulario de contacto real (hoy `/contacto/` es texto estático, no un formulario que envíe mail).
 

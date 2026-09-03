@@ -6,7 +6,9 @@ Contexto para trabajar en este repo con Claude Code.
 
 `[NOMBRE DEL MEDIO]` (nombre todavía provisorio, ver README) es un medio digital en formación para cubrir política y economía institucional de Paraná y Entre Ríos, proyecto de la Fundación para el Desarrollo Entrerriano, editado por Francisco Uranga. Funciona con lógica de agencia: monitorea comunicados de organismos y organizaciones, el editor decide qué es noticiable, un agente de IA lo reescribe en estilo Bloomberg/WSJ, el editor revisa y publica. Contexto completo en `README.md` y `docs/vision-y-etapas.md`.
 
-Estado actual: WordPress del medio (backend privado) y WordPress de la Fundación (`desarrolloentrerriano.org`, theme Kadence) ya instalados; pipeline de publicación y cablera (`admin/` + `data/backlog.json`) funcionando de punta a punta; frontend público del medio (Next.js/Vercel) todavía no arrancado. Ver README para el detalle actualizado.
+Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fundación (`desarrolloentrerriano.org`, theme Kadence) construido de punta a punta — ver `docs/sitio-fundacion.md`; pipeline de publicación y cablera (`admin/` + `data/backlog.json`) funcionando de punta a punta pero sin ítems reales cargados todavía; frontend público del medio (Next.js/Vercel) todavía no arrancado. Ver README para el detalle actualizado.
+
+**Importante**: son dos WordPress totalmente separados con credenciales separadas — el del medio (`pipeline/.env`) y el de la Fundación (`fundacion-wp/.env`). No confundir ni reusar credenciales entre uno y otro.
 
 ## Reglas de trabajo
 
@@ -30,6 +32,14 @@ Estado actual: WordPress del medio (backend privado) y WordPress de la Fundació
 - `admin/index.html` — panel de curación (noindex, no linkeado públicamente). Escribe directo a GitHub con un PAT guardado en el navegador de quien lo usa.
 - `pipeline/publicar_borrador.py` — sube una nota ya redactada (con imagen opcional) a WordPress como `draft`.
 - `skills/` — skills de Claude Code para el flujo editorial (`redactar-noticia`, `evaluar-comunicado`, `mapear-fuentes`, `procesar-cablera`, `aprender-noticiabilidad`).
+- `docs/sitio-fundacion.md` — estado, decisiones de contenido y gotchas técnicos de WordPress/Kadence del sitio de la Fundación. Leer antes de tocar ese sitio, para no repetir investigación ya hecha (ej. el bug del panel "Additional CSS" del Customizer, o por qué cambiar el idioma vía API no alcanza).
+- `fundacion-wp/` — scripts de mantenimiento del sitio de la Fundación (`desarrolloentrerriano.org`). WordPress y credenciales completamente separados del `pipeline/` del medio.
+
+## Reglas de trabajo específicas del sitio de la Fundación
+
+- **Nunca usar `WebFetch` (ni ninguna herramienta que resuma con un modelo secundario) para recuperar contenido histórico o de otros sitios.** Produce versiones resumidas, no fieles al original. Usar siempre descarga de HTML crudo + extracción con BeautifulSoup del contenedor real del artículo. Ver `docs/sitio-fundacion.md`.
+- **Cualquier imagen en contenido importado debe alojarse en la biblioteca de medios propia**, nunca quedar apuntando (hotlinking) a un dominio de terceros — usar `fundacion-wp/rehost_imagenes.py` como referencia.
+- **Atribución de fotos con licencia CC**: crédito en el atributo `title` del `<img>` (tooltip), no como pie de foto visible, salvo que el editor pida lo contrario.
 
 ## Proyecto hermano
 
