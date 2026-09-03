@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Cablera — panel de curación</title>
+<style>
+  :root { color-scheme: light; }
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 960px; margin: 0 auto; padding: 24px; background: #f7f7f5; color: #1a1a1a; }
+  h1 { font-size: 1.4rem; margin-bottom: 4px; }
+  .sub { color: #666; margin-bottom: 20px; font-size: .9rem; }
+  .tabs { display: flex; gap: 4px; margin-bottom: 16px; border-bottom: 1px solid #ddd; }
+  .tab { padding: 8px 14px; cursor: pointer; border: none; background: none; font-size: .9rem; color: #666; border-bottom: 2px solid transparent; }
+  .tab.active { color: #111; border-bottom-color: #111; font-weight: 600; }
+  .tab .count { color: #999; font-weight: 400; }
+  .item { background: #fff; border: 1px solid #e3e3e0; border-radius: 8px; padding: 14px 16px; margin-bottom: 10px; }
+  .item h3 { margin: 0 0 4px; font-size: 1rem; }
+  .meta { font-size: .8rem; color: #777; margin-bottom: 8px; }
+  .meta a { color: #4a4a9e; }
+  .texto { font-size: .85rem; color: #333; white-space: pre-wrap; max-height: 4.5em; overflow: hidden; margin-bottom: 8px; }
+  .texto.expanded { max-height: none; }
+  .toggle-texto { font-size: .78rem; color: #4a4a9e; cursor: pointer; background: none; border: none; padding: 0; margin-bottom: 8px; display: inline-block; }
+  .actions { display: flex; gap: 8px; }
+  button.action { font-size: .82rem; padding: 6px 12px; border-radius: 6px; border: 1px solid #ccc; background: #fafafa; cursor: pointer; }
+  button.publicar { border-color: #2f7d3c; color: #2f7d3c; }
+  button.descartar { border-color: #a33; color: #a33; }
+  button.reabrir { border-color: #555; color: #555; }
+  .empty { color: #888; font-size: .9rem; padding: 20px 0; }
+  .top-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+  .gear { cursor: pointer; font-size: 1.1rem; background: none; border: none; }
+  dialog { border-radius: 10px; border: 1px solid #ddd; padding: 20px; width: 380px; max-width: 90vw; }
+  dialog label { display: block; font-size: .82rem; margin: 10px 0 4px; color: #444; }
+  dialog input { width: 100%; padding: 6px 8px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 5px; }
+  dialog .row { display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px; }
+  .badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 10px; background: #eee; color: #555; margin-left: 6px; }
+  .status-msg { font-size: .85rem; margin-bottom: 12px; }
+  .status-msg.error { color: #a33; }
+  .status-msg.ok { color: #2f7d3c; }
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <div>
+    <h1>Cablera</h1>
+    <div class="sub">Backlog de comunicados — marcá qué procesar. Esto no publica nada solo: <code>data/backlog.json</code> es la fuente que Claude Code lee para redactar y subir a WordPress como borrador.</div>
+  </div>
+  <button class="gear" id="btnConfig" title="Configuración de GitHub">⚙</button>
+</div>
+
+<div id="statusMsg"></div>
+
+<div class="tabs" id="tabs"></div>
+<div id="list"></div>
+
+<dialog id="configDialog">
+  <h3 style="margin-top:0">Configuración de GitHub</h3>
+  <label>Owner / usuario</label>
+  <input id="cfgOwner" placeholder="FUranga">
+  <label>Repositorio</label>
+  <input id="cfgRepo" placeholder="noticias-er">
+  <label>Rama</label>
+  <input id="cfgBranch" placeholder="main">
+  <label>Ruta al archivo</label>
+  <input id="cfgPath" placeholder="data/backlog.json">
+  <label>Personal Access Token (fine-grained, scope Contents: Read and write, solo sobre este repo)</label>
+  <input id="cfgToken" type="password" placeholder="github_pat_...">
+  <div class="row">
+    <button class="action" id="cfgCancel">Cancelar</button>
+    <button class="action publicar" id="cfgSave">Guardar</button>
+  </div>
+</dialog>
+
+<script>
+const TABS = [
+  { key: 'pendiente', label: 'Pendientes' },
+  { key: 'a_publicar', label: 'A publicar' },
+  { key: 'procesado', label: 'Procesadas' },
+  { key: 'descartado', label: 'Descartadas' },
+];
+
+let activeTab = 'pendiente';
+let items = [];
+let fileSha = null;
+
+function cfg() {
+  return {
+    owner: localStorage.getItem('cablera_owner') || '',
+    repo: localStorage.getItem('cablera_repo') || '',
+    branch: localStorage.getItem('cablera_branch') || 'main',
+    path: localStorage.getItem('cablera_path') || 'data/backlog.json',
+    token: localStorage.getItem('cablera_token') || '',
+  };
+}
+
+function cfgReady() {
+  const c = cfg();
+  return c.owner && c.repo && c.token;
+}
+
+function setStatus(msg, kind) {
+  const el = document.getElementById('statusMsg');
+  el.textContent = msg;
+  el.className = 'status-msg' + (kind ? ' ' + kind : '');
+}
+
+async function ghGet() {
+  const c = cfg();
+  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`;
+  const res = await fetch(url, {
+    headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json' },
+  });
+  if (!res.ok) throw new Error(`GET ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  fileSha = data.sha;
+  const content = decodeURIComponent(escape(atob(data.content)));
+  return JSON.parse(content);
+}
+
+async function ghPut(newItems, message) {
+  const c = cfg();
+  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}`;
+  const body = {
+    message: message || 'Actualizar backlog desde la cablera',
+    content: btoa(unescape(encodeURIComponent(JSON.stringify(newItems, null, 2) + '\n'))),
+    sha: fileSha,
+    branch: c.branch,
+  };
+  const res = await fetch(url, {
+    method: 'PUT',
+    headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json' },
+    body: JSON.stringify(body),
+  });
+  if (!res.ok) throw new Error(`PUT ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  fileSha = data.content.sha;
+}
+
+async function load() {
+  if (!cfgReady()) {
+    setStatus('Configurá el acceso a GitHub con el ícono ⚙ de arriba a la derecha.', 'error');
+    render();
+    return;
+  }
+  try {
+    setStatus('Cargando...');
+    items = await ghGet();
+    setStatus('');
+  } catch (e) {
+    setStatus('Error cargando el backlog: ' + e.message, 'error');
+  }
+  render();
+}
+
+async function setEstado(id, estado, extra) {
+  const it = items.find(i => i.id === id);
+  if (!it) return;
+  const prev = it.estado;
+  it.estado = estado;
+  if (extra) Object.assign(it, extra);
+  render();
+  try {
+    setStatus('Guardando...');
+    await ghPut(items, `Cablera: ${id} → ${estado}`);
+    setStatus('Guardado.', 'ok');
+  } catch (e) {
+    it.estado = prev;
+    setStatus('Error guardando: ' + e.message, 'error');
+    render();
+  }
+}
+
+function descartarConMotivo(id) {
+  const motivo = prompt('¿Por qué lo descartás? (opcional, pero ayuda a que la skill de noticiabilidad aprenda el criterio — dejalo vacío si no querés anotar nada)');
+  setEstado(id, 'descartado', { motivo_descarte: motivo ? motivo.trim() : null });
+}
+
+function renderTabs() {
+  const tabsEl = document.getElementById('tabs');
+  tabsEl.innerHTML = '';
+  TABS.forEach(t => {
+    const count = items.filter(i => i.estado === t.key).length;
+    const btn = document.createElement('button');
+    btn.className = 'tab' + (activeTab === t.key ? ' active' : '');
+    btn.innerHTML = `${t.label} <span class="count">${count}</span>`;
+    btn.onclick = () => { activeTab = t.key; render(); };
+    tabsEl.appendChild(btn);
+  });
+}
+
+function itemActions(it) {
+  const wrap = document.createElement('div');
+  wrap.className = 'actions';
+  if (it.estado === 'pendiente') {
+    wrap.appendChild(mkBtn('Marcar para publicar', 'publicar', () => setEstado(it.id, 'a_publicar')));
+    wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
+  } else if (it.estado === 'a_publicar') {
+    wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => setEstado(it.id, 'pendiente')));
+    wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
+  } else if (it.estado === 'descartado') {
+    wrap.appendChild(mkBtn('Reabrir', 'reabrir', () => setEstado(it.id, 'pendiente')));
+  } else if (it.estado === 'procesado') {
+    if (it.wp_edit_url) {
+      const a = document.createElement('a');
+      a.href = it.wp_edit_url; a.target = '_blank'; a.textContent = 'Ver borrador en WordPress →';
+      a.style.fontSize = '.82rem';
+      wrap.appendChild(a);
+    }
+  }
+  return wrap;
+}
+
+function mkBtn(label, cls, onClick) {
+  const b = document.createElement('button');
+  b.className = 'action ' + cls;
+  b.textContent = label;
+  b.onclick = onClick;
+  return b;
+}
+
+function render() {
+  renderTabs();
+  const list = document.getElementById('list');
+  list.innerHTML = '';
+  const filtered = items.filter(i => i.estado === activeTab);
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="empty">Nada acá por ahora.</div>';
+    return;
+  }
+  filtered.forEach(it => {
+    const div = document.createElement('div');
+    div.className = 'item';
+    const h3 = document.createElement('h3');
+    h3.textContent = it.titulo || '(sin título)';
+    div.appendChild(h3);
+
+    const meta = document.createElement('div');
+    meta.className = 'meta';
+    meta.innerHTML = `${it.fuente || 'fuente desconocida'} · ${it.fecha || ''}` +
+      (it.link ? ` · <a href="${it.link}" target="_blank">ver original</a>` : '') +
+      (it.imagen_url ? ' <span class="badge">tiene imagen</span>' : '');
+    div.appendChild(meta);
+
+    if (it.estado === 'descartado' && it.motivo_descarte) {
+      const m = document.createElement('div');
+      m.className = 'meta';
+      m.innerHTML = `<em>Motivo: ${it.motivo_descarte}</em>`;
+      div.appendChild(m);
+    }
+
+    if (it.texto_original) {
+      const p = document.createElement('div');
+      p.className = 'texto';
+      p.textContent = it.texto_original;
+      div.appendChild(p);
+      const toggle = document.createElement('button');
+      toggle.className = 'toggle-texto';
+      toggle.textContent = 'ver más';
+      toggle.onclick = () => {
+        p.classList.toggle('expanded');
+        toggle.textContent = p.classList.contains('expanded') ? 'ver menos' : 'ver más';
+      };
+      div.appendChild(toggle);
+    }
+
+    div.appendChild(itemActions(it));
+    list.appendChild(div);
+  });
+}
+
+document.getElementById('btnConfig').onclick = () => {
+  const c = cfg();
+  document.getElementById('cfgOwner').value = c.owner;
+  document.getElementById('cfgRepo').value = c.repo;
+  document.getElementById('cfgBranch').value = c.branch;
+  document.getElementById('cfgPath').value = c.path;
+  document.getElementById('cfgToken').value = c.token;
+  document.getElementById('configDialog').showModal();
+};
+document.getElementById('cfgCancel').onclick = () => document.getElementById('configDialog').close();
+document.getElementById('cfgSave').onclick = () => {
+  localStorage.setItem('cablera_owner', document.getElementById('cfgOwner').value.trim());
+  localStorage.setItem('cablera_repo', document.getElementById('cfgRepo').value.trim());
+  localStorage.setItem('cablera_branch', document.getElementById('cfgBranch').value.trim() || 'main');
+  localStorage.setItem('cablera_path', document.getElementById('cfgPath').value.trim() || 'data/backlog.json');
+  localStorage.setItem('cablera_token', document.getElementById('cfgToken').value.trim());
+  document.getElementById('configDialog').close();
+  load();
+};
+
+load();
+</script>
+</body>
+</html>

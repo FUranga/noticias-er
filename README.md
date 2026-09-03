@@ -23,27 +23,44 @@ No competimos con los medios que ya cubren bien un nicho — linkeamos y citamos
 
 ## Estado actual
 
-Preoperativo. Este repo hoy contiene la planificación del proyecto y las skills de Claude Code para el flujo editorial — todavía no hay sitio, ni infraestructura de publicación, ni fuentes verificadas al 100%. Ver [`docs/vision-y-etapas.md`](docs/vision-y-etapas.md) para la hoja de ruta completa.
+- **WordPress del medio** (backend editorial, privado, dominio temporal en Hostinger) — instalado, con la API REST y una Application Password activa para el pipeline.
+- **Sitio de la Fundación** (`desarrolloentrerriano.org`) — WordPress instalado, theme Kadence activado, título/descripción cargados. Falta poblar el contenido (hay una base real recuperada de Wayback Machine en [`docs/contenido-historico-fundacion.md`](docs/contenido-historico-fundacion.md)).
+- **Pipeline de publicación** (`pipeline/`) y **cablera** (`admin/` + `data/backlog.json`) — funcionando de punta a punta: el editor marca ítems en el panel, la skill `procesar-cablera` los redacta y los sube a WordPress como borrador.
+- **Frontend público del medio** (Next.js/Vercel) — todavía no arrancado.
+
+Ver [`docs/vision-y-etapas.md`](docs/vision-y-etapas.md) para la hoja de ruta completa.
 
 ## Estructura del repo
 
 ```
 docs/
   vision-y-etapas.md        Visión del proyecto y hoja de ruta por etapas
-  arquitectura-tecnica.md   Decisión de infraestructura (WordPress + pipeline propio) y por qué
+  arquitectura-tecnica.md   Decisión de infraestructura (WordPress headless + frontend propio) y por qué
   estilo-editorial.md       Reglas de redacción — la referencia de las skills editoriales
   aliados-y-financiamiento.md  Posibles alianzas y vías de sostenibilidad
   fuentes.md                Mapa de organismos/organizaciones a monitorear
+  contenido-historico-fundacion.md  Contenido institucional de FUNDER rescatado de Wayback Machine
 
 skills/
   redactar-noticia/         Reescribe un comunicado ya elegido por el editor como noticia
   evaluar-comunicado/       Resume comunicados entrantes para agilizar el triage editorial
   mapear-fuentes/           Investiga y mantiene actualizado docs/fuentes.md
+  procesar-cablera/         Redacta y publica como borrador los ítems marcados en el panel admin
+  aprender-noticiabilidad/  Aprende de lo publicado/descartado y actualiza docs/criterios-noticiabilidad.md
+
+admin/
+  index.html                 Panel de curación ("la cablera") — pendientes/a publicar/descartadas
+
+data/
+  backlog.json                Backlog de comunicados candidatos, con estado editorial
+
+pipeline/
+  publicar_borrador.py        Sube una nota ya redactada (con imagen opcional) a WordPress como draft
 ```
 
 ## Infraestructura (resumen — detalle en `docs/arquitectura-tecnica.md`)
 
-WordPress autoalojado como backend editorial y sitio público (no un CMS propio desde cero: WordPress ya resuelve roles, revisiones, SEO, seguridad y backups). El motor específico de este proyecto — ingesta de comunicados, triage, reescritura con IA — vive por fuera, en este repo, y publica en WordPress como borrador vía su API REST. El editor revisa y publica desde ahí. Un CMS propio queda para cuando un módulo futuro lo justifique.
+WordPress queda puertas adentro, solo como backend editorial (nunca renderiza el sitio público) — un frontend a medida (Next.js/Vercel) se encarga de todo lo que ve el lector del medio, para no quedar atado a las limitaciones de un theme. La web institucional de la Fundación, en cambio, sí es un WordPress "normal" con theme (Kadence) — no tiene el mismo requisito de diseño a medida. El motor de agencia (cablera → triage → reescritura con IA → borrador en WordPress) vive en este repo y le habla a WordPress por su API REST. El editor siempre revisa y publica desde WordPress — ninguna skill publica directamente.
 
 ## Trabajando con este repo
 

@@ -6,7 +6,7 @@ Contexto para trabajar en este repo con Claude Code.
 
 `[NOMBRE DEL MEDIO]` (nombre todavía provisorio, ver README) es un medio digital en formación para cubrir política y economía institucional de Paraná y Entre Ríos, proyecto de la Fundación para el Desarrollo Entrerriano, editado por Francisco Uranga. Funciona con lógica de agencia: monitorea comunicados de organismos y organizaciones, el editor decide qué es noticiable, un agente de IA lo reescribe en estilo Bloomberg/WSJ, el editor revisa y publica. Contexto completo en `README.md` y `docs/vision-y-etapas.md`.
 
-Estado actual: preoperativo, sin sitio ni infraestructura de publicación todavía. Este repo es planificación + skills editoriales.
+Estado actual: WordPress del medio (backend privado) y WordPress de la Fundación (`desarrolloentrerriano.org`, theme Kadence) ya instalados; pipeline de publicación y cablera (`admin/` + `data/backlog.json`) funcionando de punta a punta; frontend público del medio (Next.js/Vercel) todavía no arrancado. Ver README para el detalle actualizado.
 
 ## Reglas de trabajo
 
@@ -25,7 +25,11 @@ Estado actual: preoperativo, sin sitio ni infraestructura de publicación todav�
 - `docs/estilo-editorial.md` — reglas de redacción compartidas por las skills editoriales. Es la fuente de verdad del estilo; las skills la referencian, no la duplican.
 - `docs/aliados-y-financiamiento.md` — pensamiento en curso sobre alianzas con otros medios/instituciones y vías de sostenibilidad.
 - `docs/fuentes.md` — mapa de organismos y organizaciones a monitorear. Mantenido con la skill `mapear-fuentes`.
-- `skills/` — skills de Claude Code para el flujo editorial (`redactar-noticia`, `evaluar-comunicado`, `mapear-fuentes`).
+- `docs/criterios-noticiabilidad.md` — patrones aprendidos de qué elige publicar el editor. Mantenido con `aprender-noticiabilidad`, consumido por `evaluar-comunicado`.
+- `data/backlog.json` — la cablera: comunicados candidatos con estado editorial (`pendiente`/`a_publicar`/`descartado`/`procesado`). Se edita desde `admin/index.html`, no a mano.
+- `admin/index.html` — panel de curación (noindex, no linkeado públicamente). Escribe directo a GitHub con un PAT guardado en el navegador de quien lo usa.
+- `pipeline/publicar_borrador.py` — sube una nota ya redactada (con imagen opcional) a WordPress como `draft`.
+- `skills/` — skills de Claude Code para el flujo editorial (`redactar-noticia`, `evaluar-comunicado`, `mapear-fuentes`, `procesar-cablera`, `aprender-noticiabilidad`).
 
 ## Proyecto hermano
 

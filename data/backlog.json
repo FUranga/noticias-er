@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ejemplo-001",
+    "fuente": "Ministerio de Producción, Turismo y Desarrollo Económico de Entre Ríos",
+    "titulo": "Ejemplo: el Gobierno anuncia una línea de crédito para pymes industriales",
+    "fecha": "2026-09-01",
+    "link": "https://www.entrerios.gov.ar/minpro/ejemplo",
+    "texto_original": "Pegá acá el texto completo del comunicado si lo tenés, o dejalo vacío si solo tenés el link.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-03T00:00:00Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  }
+]
