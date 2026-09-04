@@ -21,6 +21,7 @@ export type WpPost = {
       alt_text: string;
     }>;
     author?: Array<{ name: string }>;
+    "wp:term"?: Array<Array<{ name: string; slug: string; taxonomy: string }>>;
   };
 };
 
@@ -47,4 +48,9 @@ export function featuredImageUrl(post: WpPost): string | null {
 
 export function authorName(post: WpPost): string | null {
   return post._embedded?.author?.[0]?.name ?? null;
+}
+
+export function categoryName(post: WpPost): string | null {
+  const cat = post._embedded?.["wp:term"]?.[0]?.[0];
+  return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.name : null;
 }

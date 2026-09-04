@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { Header } from "@/components/Header";
-import { getPostBySlug, featuredImageUrl, authorName } from "@/lib/wp";
+import { getPostBySlug, featuredImageUrl, authorName, categoryName } from "@/lib/wp";
 import { formatFecha } from "@/lib/format";
 
 type Props = {
@@ -17,34 +17,40 @@ export default async function NotaPage({ params }: Props) {
 
   const imagen = featuredImageUrl(post);
   const autor = authorName(post);
+  const categoria = categoryName(post);
 
   return (
     <>
       <Header />
-      <main className="mx-auto w-full max-w-2xl flex-1 px-4 py-10">
+      <main className="mx-auto w-full max-w-2xl flex-1 px-4 py-10 sm:px-8">
         <article>
+          {categoria && <p className="kicker mb-2">{categoria}</p>}
           <h1
-            className="font-serif text-4xl font-semibold leading-tight"
+            className="font-serif text-3xl font-bold leading-[1.1] sm:text-4xl"
             dangerouslySetInnerHTML={{ __html: post.title.rendered }}
           />
-          <p className="mt-3 text-sm text-neutral-500">
-            {formatFecha(post.date)}
-            {autor ? ` — ${autor}` : ""}
-          </p>
+          <div className="byline mt-4 flex items-center gap-2 border-b border-neutral-300 pb-4">
+            {autor && <span>Por {autor}</span>}
+            {autor && <span aria-hidden>·</span>}
+            <span>{formatFecha(post.date)}</span>
+          </div>
           {imagen && (
             // eslint-disable-next-line @next/next/no-img-element
             <img
               src={imagen}
               alt=""
-              className="my-6 w-full rounded object-cover"
+              className="mt-6 aspect-[16/9] w-full object-cover"
             />
           )}
           <div
-            className="prose prose-neutral mt-6 max-w-none [&_p]:mb-4 [&_p]:leading-relaxed"
+            className="mt-6 text-lg leading-relaxed text-neutral-900 [&_p]:mb-5"
             dangerouslySetInnerHTML={{ __html: post.content.rendered }}
           />
         </article>
       </main>
+      <footer className="font-ui border-t border-neutral-300 px-4 py-6 text-center text-xs text-neutral-500 sm:px-8">
+        [NOMBRE DEL MEDIO] — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
+      </footer>
     </>
   );
 }
