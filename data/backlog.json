@@ -301,11 +301,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79620",
     "texto_original": "Hasta el sábado 12 de septiembre se podrán postular al cargo de representante regional para el Consejo de Teatro Independiente de Entre Ríos (ConTIER), organismo autárquico que funciona en la órbita de la Secretaría de Cultura de Entre Ríos y se encarga de velar por la protección, promoción y apoyo de la actividad teatral independiente.\n\nLos interesados deberán completar el formulario disponible en las redes sociales del ConTIER. Allí también se encuentran el reglamento, las bases y los requisitos. \n\n Las elecciones serán durante el mes de octubre. Se elegirán 5 representantes -uno por cada región de la provincia- con un mandato de 4 años (período 2027-2030). Asimismo, deberán postularse en binomios de un titular y un suplente por la región que pretenden representar.\n\n Los aspirantes deberán:\n\n- Tener conocimiento de la Ley TIER 10.931 y sus Decretos Reglamentarios.\n\n- Estar inscripto en el Padrón de trabajadores y trabajadores del Teatro Independiente de Entre Ríos por la región por la que se presentan.\n\n- Acreditar una trayectoria teatral comprobable y en continuidad no menor a cinco (5) años.\n\n- Tener la edad mínima de 21 años.\n\n Los departamentos de la provincia están divididos en cinco regiones:\n\nRegión 1: Tala, Uruguay, Victoria y Nogoyá.              \n\nRegión 2: Villaguay, Colón y San Salvador.\n\nRegión 3: Paraná, Diamante y La Paz.\n\nRegión 4: Feliciano, Federal, Federación y Concordia.\n\nRegión 5: Gualeguay, Gualeguaychú e Islas del Ibicuy.\n\n \n\nMás información e inscripción en las redes del ConTIER:\n\n \n\nA ESTE LINK SE ACCEDE A LAS REDES DEL CONTIER Y MÁS INFO",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-04T16:44:06Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Fuera de alcance tematico (convocatoria de teatro independiente -- cultura/espectaculo, excluido explicitamente en CLAUDE.md), mas alla de que el alcance tambien es muy acotado."
   },
   {
     "id": "goberer-79618",
@@ -315,11 +315,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79618",
     "texto_original": "En el marco del Plan integral de intervención hidráulica, el Ente Interprovincial Túnel Subfluvial \"Raúl Uranga - Carlos Sylvestre Begnis\" realizó este viernes tareas de limpieza y desobstrucción de los sistemas de desagüe en distintos sectores de su jurisdicción, en conjunto con Aguas Santafesinas (ASSA).\n\nLa intervención formó parte de las acciones de mantenimiento preventivo que el Ente desarrolla para conservar en condiciones operativas la infraestructura hidráulica del enlace y favorecer el adecuado escurrimiento del agua durante los episodios de lluvia.\n\nPara la ejecución de los trabajos, Aguas Santafesinas aportó personal especializado y un camión desobstructor equipado con tecnología de inyección de agua a alta presión. El procedimiento permitió remover sedimentos y obstrucciones y recuperar la capacidad de conducción de los desagües.\n\nEl operativo comprendió la limpieza de tapas y rejillas selladas ubicadas en las rampas de acceso de las cabeceras entrerriana y santafesina, donde los sistemas de drenaje cumplen un rol fundamental para conducir el agua hacia los sectores de descarga.\n\nAsimismo, las tareas se extendieron al cantero central de la recta santafesina, entre el arroyo Las Sandías y la estación de peaje, donde fueron intervenidos los 12 desagües existentes.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-04T16:44:06Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Mantenimiento preventivo de rutina (desagues del Tunel Subfluvial), sin dato de impacto -- mismo patron que CGE/desagues."
   },
   {
     "id": "goberer-79615",
@@ -343,11 +343,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79614",
     "texto_original": "El Instituto Becario Provincial dio a conocer el cronograma correspondiente al mes de septiembre. Se abonará en tres tramos y, como es habitual, por finalización de DNI del solicitante.\n\nEl director ejecutivo del Becario, Mariano Berdiñas, sostuvo que \"desde este lunes y hasta el miércoles inclusive se abonarán las becas correspondientes a nivel secundario, terciario y universitario; tanto nuevas como renovaciones\", explicó.\n\nBerdiñas recordó que \"el equipo continúa trabajando en la evaluación y análisis de presentaciones. Por ello, es muy importante que vayan consultando en la APP, con su usuario y contraseña, para dar seguimiento a su presentación. En caso de estar aprobada, allí se podrá observar la fecha de cobro según la finalización del documento. Siempre  a través del Banco Entre Ríos\", concluyó.\n\nCronograma septiembre\n\nLunes 7: DNI finalizados en 0, 1, 2 y 3.\n\nMartes 8: DNI finalizados en 4, 5 y 6.\n\nMiércoles 9: DNI finalizados en 7, 8 y 9.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-04T16:44:06Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Puro cronograma de tramite (pagos de becas por DNI), sin interes editorial como nota -- mismo patron que ATER."
   },
   {
     "id": "goberer-79612",
@@ -357,11 +357,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79612",
     "texto_original": "La intervención contempla una inversión de 94 millones de pesos y permitirá mejorar las condiciones edilicias, de seguridad y accesibilidad de la institución, que cuenta con 90 estudiantes.\n\nEn el marco de la planificación de obras en materia de infraestructura escolar, el Gobierno de Entre Ríos avanzará con el procedimiento para ejecutar obras de reparación y mejora de la accesibilidad en la escuela de educación integral N° 14 María Montessori de Santa Elena, departamento La Paz. La intervención cuenta con un presupuesto oficial de 94 millones de pesos y permitirá adecuar distintos sectores del edificio con espacios más seguros, funcionales y accesibles para el desarrollo de las actividades.\n\nEl establecimiento se encuentra ubicado en la intersección de las calles Mariano Moreno y Lisandro de la Torre y alberga a estudiantes con necesidades educativas específicas contando con una matrícula de 90 alumnos. A partir de un relevamiento realizado por el equipo zonal departamental de Arquitectura, se identificaron distintas patologías edilicias vinculadas al paso del tiempo, principalmente con las instalaciones eléctricas y sanitarios.\n\nEl proyecto contempla la refuncionalización del grupo sanitario, además del cambio de tableros eléctricos y cableado, junto con reparaciones de aberturas, solados y zócalos. También, se reubicará la bomba del tanque cisterna y se reacondicionará el sanitario del nivel inicial, que se encuentra en desuso. En total, se intervendrán 49 metros cuadrados del establecimiento.\n\nEn este sentido, el ministro de Planeamiento e Infraestructura, Hernán Jacob, destacó que \"En esta escuela, la intervención responde a necesidades concretas detectadas en el edificio y forma parte de una planificación que busca mejorar las condiciones edilicias y generar entornos educativos más seguros, accesibles y adecuados para estudiantes y docentes\". Asimismo, sostuvo que \"mejorar la infraestructura educativa significa generar condiciones concretas para que cada estudiante pueda aprender y desarrollarse en espacios seguros, accesibles y adecuados\".\n\nLa apertura de sobres correspondiente al procedimiento administrativo de concurso de precios se realizará el miércoles 9 de septiembre a las 10, en las oficinas de la Dirección General de Arquitectura y Construcciones. La obra tendrá un plazo de ejecución de 180 días corridos.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-04T16:44:06Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Obra puntual con monto real (94M) pero mismo patron de 'programa en curso' ya documentado (Enersa): si se escribe una nota por cada obra escolar de este tamano no escala. Se guarda el dato para una futura nota agregada de inversion en infraestructura escolar."
   },
   {
     "id": "goberer-79611",
