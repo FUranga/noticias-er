@@ -1,6 +1,6 @@
 # Temas a seguir
 
-Listado de pistas, ángulos secundarios o menciones sueltas que aparecen al evaluar o redactar una nota, y que sugieren una historia propia sin ser todavía noticiables por sí solas. No es la cablera (`data/backlog.json` es para comunicados ya recibidos y con estado editorial) — esto es para **indicios** que todavía no son un comunicado ni una nota, solo una pista a perseguir.
+Listado de pistas, ángulos secundarios, menciones sueltas y observaciones que aparecen al evaluar o redactar una nota — no hace falta que sugieran una historia propia clara, alcanza con que parezcan datos que podrían servir de contexto más adelante. No es la cablera (`data/backlog.json` es para comunicados ya recibidos y con estado editorial, y conserva todo lo que entra, se publique o no) — esto es para **indicios** que todavía no son un comunicado ni una nota, solo una pista o una observación a guardar.
 
 Sirve para dos cosas: no perder el hilo de algo que apareció al pasar, y (más adelante, si el medio suma periodistas propios) tener un banco de temas para asignar cobertura.
 
@@ -12,6 +12,8 @@ Se agrega un ítem cuando, evaluando un comunicado (skill `evaluar-comunicado`) 
 - Una **mención suelta** (un nombre, una cifra, una situación mencionada al pasar) que sugiere que hay más para investigar.
 
 Antes de agregarlo acá, si hay indicio de que el tema ya tuvo repercusión en otro lado (otro medio, redes, un organismo distinto), vale la pena buscarlo — puede que ya haya material para armar la nota ahora en vez de dejarla pendiente.
+
+**Vara baja, a propósito (2026-09-04, definido por Francisco)**: el objetivo de fondo es documentar todo lo que pueda servir de contexto a futuro, incluso lo que hoy no se convierte en nada — la lógica es "vamos documentando todo, incluso lo que no publicamos, porque puede ser que algún día de ahí saquemos contexto o historias". Esto es deliberadamente más laxo que "sugiere una historia propia": también entra acá una fecha prometida por un organismo que valga la pena chequear más adelante si se cumplió o se retrasó, un patrón de tipo de anuncio que se repite, o una mención que suena rara/controvertida aunque no esté claro por qué todavía. No hace falta que se vea como pista de investigación clara — alcanza con que parezca información que podría valer la pena releer con el tiempo. El diseño de un archivo más estructurado (patrones agregados, tipos de anuncio, seguimiento de fechas) queda para más adelante — por ahora esto es donde se acumula.
 
 Cada ítem lleva: fecha, tema, de qué comunicado/nota salió, por qué es interesante, estado.
 
