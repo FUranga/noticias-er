@@ -10,6 +10,8 @@ Dos razones, una decidida y otra en evaluación:
 1. **Uso propio de Francisco, ya**: tener a mano qué va a pasar y cuándo, para no perderlo de vista — por ejemplo al armar un newsletter a futuro, o para volver a chequear un trámite legislativo que quedó abierto.
 2. **Posible sección pública de agenda** (legislativa u otra) — todavía sin decidir si se implementa ni cómo. No construir la sección todavía; solo juntar los datos para no tener que reconstruir el historial cuando se decida.
 
+**Conexión con un futuro newsletter** (2026-09-04): cuando se piense el formato de newsletter (ver `docs/vision-y-etapas.md`, Etapa 1), probablemente valga la pena incluir fechas clave/de servicio (vencimientos, plazos) además de los hechos noticiosos — por eso `tipo: "plazo"` no se limita a lo legislativo, también entra ahí un vencimiento impositivo (ver ejemplo de ATER más abajo) u otro dato de servicio, aunque nunca se haya convertido en nota propia. Es bueno tener las fechas clave registradas incluso si al final no se usan.
+
 ## Cómo se usa
 
 Dos caminos, complementarios — no son alternativos, cada uno cubre un caso distinto:

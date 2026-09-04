@@ -19,4 +19,12 @@ Cada ítem lleva: fecha, tema, de qué comunicado/nota salió, por qué es inter
 
 ## Temas
 
-*(vacío todavía — se completa a medida que aparezcan indicios evaluando comunicados o redactando notas)*
+### 2026-09-04 — Conflicto de la DPV con el avance de Consorcios Camineros
+**De**: `senadoer-el-senado-sanciono-la-ley-de-consorcios-camineros` (comunicado del Senado de ER, 1/9/2026).
+**Por qué es interesante**: el comunicado oficial presenta la sanción como aprobación institucional sin sobresaltos. Una búsqueda en medios locales (bicameral.com.ar) confirma que la votación del 1/9 ocurrió **mientras trabajadores de la Dirección Provincial de Vialidad (DPV) protestaban** contra la reestructuración del organismo y puntualmente contra el avance de los Consorcios Camineros — el comunicado del Senado no lo menciona. Además, ya se confirmó que la ley tuvo **sanción definitiva** (media sanción de Diputados + sanción del Senado) y pasó al Poder Ejecutivo para su promulgación — no vuelve a Diputados, como se especulaba antes de chequear.
+**Estado**: `en investigación` — pendiente decidir si arma una nota propia conectando la sanción + el conflicto de la DPV + lo que quedó pendiente en la misma sesión (modificación a la Ley de Municipios, expediente 26.785 de Dal Molín). Ojo con oportunidad: ya lo cubrieron medios chicos de ER desde el 1-2/9, así que el valor agregado tiene que ser conectar los puntos, no repetir.
+
+### 2026-09-04 — Proyecto de alivio fiscal a comercios, estado sin confirmar
+**De**: `senadoer-senadores-se-reuniran-en-comisiones-y-tendran-sesion-ordinaria` (comunicado del Senado de ER, 28/8/2026, descartado como nota por ser agenda vencida).
+**Por qué es interesante**: mencionaba que la Comisión de Presupuesto y Hacienda trataría el 26/8 el expediente N° 29.362 — un proyecto del Poder Ejecutivo (con media sanción de Diputados) con "medidas tributarias orientadas a aliviar la carga fiscal que recae sobre la actividad comercial" en la provincia, con foco en pequeños contribuyentes y comercios de cercanía. No apareció en ningún comunicado posterior si se trató, dictaminó o votó.
+**Estado**: `para investigar` — chequear si hubo despacho de comisión o tratamiento en el recinto en sesiones posteriores.
