@@ -67,6 +67,18 @@ El mapa de fuentes (`fuentes.md`) también va a incluir monitoreo de medios (nac
 - **Cuanto más chico el medio de origen, más cuidado.** Reescribir sin agregar nada propio le saca tráfico a un actor con menos recursos que nosotros — y va en contra del principio de "agencia, no repetición" (`vision-y-etapas.md`). Ante la duda con un medio hiperlocal, mejor linkear que reescribir.
 - **Empresas locales**: para hechos societarios (presentaciones regulatorias, causas judiciales, inversiones), preferir el documento público original cuando exista, citándolo directamente, antes que solo la nota de prensa especializada que lo resume.
 
+## Comunicados legislativos (Senado, Diputados, Concejo Deliberante)
+
+Es una extensión puntual de la regla "anuncio vs. hecho consumado" — acá el error típico es más específico y más fácil de cometer sin darse cuenta.
+
+- **Precisar exactamente en qué etapa del proceso está la norma.** Un proyecto de ley pasa por etapas bien distintas, y un comunicado de una sola cámara casi nunca dice "esto es lo que falta" — hay que inferirlo del propio proceso legislativo:
+  - Proyecto presentado / con dictamen de comisión (todavía no se votó en el recinto).
+  - **Media sanción** (aprobado por una cámara, falta la otra) — esto NO es una ley todavía. Un comunicado del Senado que dice "el Senado sancionó..." o "aprobó..." un proyecto que todavía tiene que pasar por Diputados (o viceversa) es media sanción, no sanción definitiva.
+  - **Sanción definitiva** (aprobado por ambas cámaras) — recién ahí es correcto decir que el Poder Legislativo "convirtió en ley" algo, aunque **todavía no es una ley vigente**.
+  - **Promulgación** (el Poder Ejecutivo la convierte en norma vigente) o **veto**. Sin esto, no se puede escribir "es ley" en tiempo presente como hecho consumado y vigente.
+  - **Título y cuerpo tienen que reflejar la etapa real** ("dio media sanción a...", no "sancionó la ley de..." si todavía falta la otra cámara) y **señalar explícitamente qué falta** ("el proyecto pasa ahora a Diputados para su tratamiento" / "resta la promulgación del Poder Ejecutivo") — es información que el lector necesita y que el comunicado de una sola cámara casi nunca aclara sin que se la busque.
+- **Complementar con antecedentes, no solo el comunicado del día.** Un comunicado legislativo aislado rara vez cuenta la historia completa — buscar: ¿hubo cobertura previa de este mismo proyecto (en `docs/temas-a-seguir.md`, en el propio `data/backlog.json`, o en otro medio)? ¿Quién impulsó el proyecto originalmente y por qué? ¿Hubo objeciones o un tratamiento más largo de lo esperado? Sumar ese contexto (atribuido, si viene de otra fuente) es lo que separa una nota agencia real de una reescritura del comunicado.
+
 ## Cómo evoluciona este documento
 
 Estas reglas van a afinarse con el uso real — cuando aparezcan casos límite (comunicados ambiguos, conflictos de versiones, jerarquía de fuentes cuando haya más de una por hecho), documentalos acá con un ejemplo concreto, siguiendo el mismo criterio con el que se armó el estilo del proyecto hermano `despidos-tracker`.
