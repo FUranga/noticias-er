@@ -1,0 +1,68 @@
+[
+  {
+    "id": "un-dia-de-pelicula-colonia-celina-2026-09-09",
+    "fecha": "2026-09-09",
+    "evento": "El programa \"Un Día de Película\" (Iaaer) visita la Escuela Primaria N° 46 Olegario Víctor Andrade, en Colonia Celina",
+    "tipo": "evento",
+    "fuente": "Gobierno de Entre Ríos (Iaaer)",
+    "origen_id": "goberer-79597",
+    "detalle": "Mencionado al cierre del comunicado sobre la visita anterior del programa a Lucas Norte (departamento Villaguay), descartado como noticia por ser autopromoción de un programa en curso.",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "villa-urquiza-festejos-173-aniversario-hasta-2026-09-20",
+    "fecha": "2026-09-20",
+    "evento": "Cierra el programa de actividades conmemorativas por el 173º aniversario de Villa Urquiza",
+    "tipo": "evento",
+    "fuente": "Cámara de Senadores de Entre Ríos / Municipalidad de Villa Urquiza",
+    "origen_id": "senadoer-villa-urquiza-celebro-su-173o-aniversario-con-la-presencia-de-la-vicegobernadora",
+    "detalle": "El acto protocolar del 1/9 fue el arranque; el comunicado dice que la programación sigue en distintos espacios de Villa Urquiza hasta el 20/9.",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-er-expediente-26785-transparencia-etica-publica",
+    "fecha": null,
+    "evento": "Tratamiento del expediente N° 26.785 (transparencia y ética pública) en el Senado de ER",
+    "tipo": "sesión legislativa",
+    "fuente": "Cámara de Senadores de Entre Ríos",
+    "origen_id": "senadoer-el-senado-sanciono-la-ley-de-consorcios-camineros",
+    "detalle": "El senador Rubén Dal Molín (Federación – Juntos por Entre Ríos) pidió su tratamiento en la próxima sesión, con o sin despacho de comisión (sesión del 1/9/2026).",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-er-ley-municipios-cajas-jubilaciones-a-diputados",
+    "fecha": null,
+    "evento": "Diputados trata la modificación al artículo 192 de la Ley Orgánica de Municipios (cajas de jubilaciones municipales)",
+    "tipo": "trámite en comisión",
+    "fuente": "Cámara de Senadores de Entre Ríos",
+    "origen_id": "senadoer-el-senado-sanciono-la-ley-de-consorcios-camineros",
+    "detalle": "Proyecto del senador Gustavo Vergara (Diamante – Juntos por Entre Ríos), expediente N° 15.715. Obtuvo media sanción en el Senado el 1/9/2026 y pasó a Diputados en revisión.",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-er-consorcios-camineros-estado-legislativo-a-confirmar",
+    "fecha": null,
+    "evento": "Confirmar el estado legislativo real del proyecto de Consorcios Camineros (¿ley definitiva o vuelve a Diputados?)",
+    "tipo": "trámite en comisión",
+    "fuente": "Cámara de Senadores de Entre Ríos",
+    "origen_id": "senadoer-el-senado-sanciono-la-ley-de-consorcios-camineros",
+    "detalle": "El comunicado del 1/9/2026 titula \"el Senado sancionó la ley\", pero el propio texto dice que el Senado rechazó en particular los títulos I y III respecto de lo que vino con media sanción de Diputados -- no queda claro si eso implica que vuelve a Diputados para revisión (ver cuidado documentado en docs/estilo-editorial.md sobre media sanción vs. ley).",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-er-reforma-ley-obras-publicas-comision",
+    "fecha": null,
+    "evento": "Sigue el tratamiento en comisión de la reforma a la Ley de Obras Públicas (N° 6.351)",
+    "tipo": "trámite en comisión",
+    "fuente": "Cámara de Senadores de Entre Ríos",
+    "origen_id": "senadoer-senadores-escucharon-al-ministro-de-planeamiento-por-la-modificacion-de-la-ley-de-obras-publicas",
+    "detalle": "Comisión recibió el 1/9/2026 al ministro de Planeamiento e Infraestructura; el proyecto (licitaciones abiertas para mantenimiento, contratos CReMa, cambios en mora e intereses) sigue sin dictamen, \"continuará siendo analizada en próximas reuniones\".",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  }
+]

@@ -26,7 +26,9 @@ Contexto: `Agencia Entrerriana` funciona como una agencia (ver `docs/vision-y-et
 
 4. **Marcar duplicados o continuaciones**: si dos comunicados del lote parecen ser sobre el mismo hecho (dos organismos comunicando lo mismo desde ángulos distintos, o una continuación de algo ya cubierto), señalarlo explícitamente en vez de tratarlos como ítems independientes.
 
-5. **Formato de salida**, por cada ítem:
+5. **Registrar hechos futuros con fecha o "próximo paso" concreto en `data/agenda.json`** (ver `docs/agenda.md` para el esquema — no la dupliques acá, aplicala). Esto es independiente de la decisión de noticiabilidad: se guarda aunque el ítem termine descartado como nota. Ejemplos de lo que entra: una visita/evento programado ("el próximo miércoles..."), una sesión o tratamiento pendiente ("se pedirá su tratamiento en la próxima sesión"), un trámite que pasa a otra instancia (media sanción que va a la otra cámara), un plazo o vencimiento. Señalar en la respuesta al usuario qué ítems se agregaron a la agenda, además del resumen de triage.
+
+6. **Formato de salida**, por cada ítem:
    ```
    [Organismo] — [link o "sin link"]
    Hecho: [una oración, sin relleno institucional]
@@ -36,4 +38,4 @@ Contexto: `Agencia Entrerriana` funciona como una agencia (ver `docs/vision-y-et
    ```
    Al final del lote, si hay ítems que parecen la misma historia, agregar una línea aparte señalando cuáles.
 
-6. **No reescribas la noticia en este paso.** Si el usuario quiere avanzar con uno o más ítems del lote, señalale que puede pedir la reescritura completa con la skill `redactar-noticia` sobre esos ítems puntuales.
+7. **No reescribas la noticia en este paso.** Si el usuario quiere avanzar con uno o más ítems del lote, señalale que puede pedir la reescritura completa con la skill `redactar-noticia` sobre esos ítems puntuales.

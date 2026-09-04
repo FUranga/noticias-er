@@ -26,6 +26,8 @@
   button.publicar { border-color: #2f7d3c; color: #2f7d3c; }
   button.descartar { border-color: #a33; color: #a33; }
   button.reabrir { border-color: #555; color: #555; }
+  button.agenda { border-color: #b8860b; color: #b8860b; }
+  .badge.agenda-badge { background: #fdf1d6; color: #96700a; }
   .empty { color: #888; font-size: .9rem; padding: 20px 0; }
   .top-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
   .gear { cursor: pointer; font-size: 1.1rem; background: none; border: none; }
@@ -72,6 +74,27 @@
   </div>
 </dialog>
 
+<dialog id="agendaDialog">
+  <h3 style="margin-top:0">Agregar a la agenda</h3>
+  <label>Evento</label>
+  <input id="agEvento" placeholder="Qué va a pasar">
+  <label>Fecha (opcional, AAAA-MM-DD — dejalo vacío si es "próxima sesión" sin fecha exacta)</label>
+  <input id="agFecha" placeholder="2026-09-09">
+  <label>Tipo</label>
+  <select id="agTipo" style="width:100%;padding:6px 8px;box-sizing:border-box;border:1px solid #ccc;border-radius:5px;">
+    <option value="evento">evento</option>
+    <option value="sesión legislativa">sesión legislativa</option>
+    <option value="trámite en comisión">trámite en comisión</option>
+    <option value="plazo">plazo</option>
+  </select>
+  <label>Detalle (opcional)</label>
+  <input id="agDetalle" placeholder="Contexto breve">
+  <div class="row">
+    <button class="action" id="agCancel">Cancelar</button>
+    <button class="action publicar" id="agSave">Guardar</button>
+  </div>
+</dialog>
+
 <script>
 const TABS = [
   { key: 'pendiente', label: 'Pendientes' },
@@ -80,9 +103,12 @@ const TABS = [
   { key: 'descartado', label: 'Descartadas' },
 ];
 
+const AGENDA_PATH = 'data/agenda.json';
+
 let activeTab = 'pendiente';
 let items = [];
 let fileSha = null;
+let agendaIds = new Set(); // origen_id de items que ya estan en la agenda
 
 function cfg() {
   return {
@@ -105,26 +131,25 @@ function setStatus(msg, kind) {
   el.className = 'status-msg' + (kind ? ' ' + kind : '');
 }
 
-async function ghGet() {
+async function ghGetPath(path) {
   const c = cfg();
-  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`;
+  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${path}?ref=${encodeURIComponent(c.branch)}`;
   const res = await fetch(url, {
     headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json' },
   });
   if (!res.ok) throw new Error(`GET ${res.status}: ${await res.text()}`);
   const data = await res.json();
-  fileSha = data.sha;
   const content = decodeURIComponent(escape(atob(data.content)));
-  return JSON.parse(content);
+  return { data: JSON.parse(content), sha: data.sha };
 }
 
-async function ghPut(newItems, message) {
+async function ghPutPath(path, sha, newContent, message) {
   const c = cfg();
-  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}`;
+  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${path}`;
   const body = {
-    message: message || 'Actualizar backlog desde la cablera',
-    content: btoa(unescape(encodeURIComponent(JSON.stringify(newItems, null, 2) + '\n'))),
-    sha: fileSha,
+    message,
+    content: btoa(unescape(encodeURIComponent(JSON.stringify(newContent, null, 2) + '\n'))),
+    sha,
     branch: c.branch,
   };
   const res = await fetch(url, {
@@ -134,7 +159,28 @@ async function ghPut(newItems, message) {
   });
   if (!res.ok) throw new Error(`PUT ${res.status}: ${await res.text()}`);
   const data = await res.json();
-  fileSha = data.content.sha;
+  return data.content.sha;
+}
+
+async function ghGet() {
+  const c = cfg();
+  const { data, sha } = await ghGetPath(c.path);
+  fileSha = sha;
+  return data;
+}
+
+async function ghPut(newItems, message) {
+  fileSha = await ghPutPath(cfg().path, fileSha, newItems, message || 'Actualizar backlog desde la cablera');
+}
+
+async function loadAgendaIds() {
+  try {
+    const { data } = await ghGetPath(AGENDA_PATH);
+    agendaIds = new Set(data.map(a => a.origen_id).filter(Boolean));
+  } catch (e) {
+    // best-effort: si data/agenda.json todavia no existe o falla, seguimos sin badges
+    agendaIds = new Set();
+  }
 }
 
 async function load() {
@@ -146,6 +192,7 @@ async function load() {
   try {
     setStatus('Cargando...');
     items = await ghGet();
+    await loadAgendaIds();
     setStatus('');
   } catch (e) {
     setStatus('Error cargando el backlog: ' + e.message, 'error');
@@ -208,6 +255,9 @@ function itemActions(it) {
       wrap.appendChild(a);
     }
   }
+  // Independiente del estado de noticiabilidad: cualquier item puede tener
+  // ademas un hecho futuro para la agenda (ver docs/agenda.md).
+  wrap.appendChild(mkBtn(agendaIds.has(it.id) ? 'Agregar otro a agenda' : 'Agregar a agenda', 'agenda', () => abrirAgenda(it)));
   return wrap;
 }
 
@@ -239,7 +289,8 @@ function render() {
     meta.className = 'meta';
     meta.innerHTML = `${it.fuente || 'fuente desconocida'} · ${it.fecha || ''}` +
       (it.link ? ` · <a href="${it.link}" target="_blank">ver original</a>` : '') +
-      (it.imagen_url ? ' <span class="badge">tiene imagen</span>' : '');
+      (it.imagen_url ? ' <span class="badge">tiene imagen</span>' : '') +
+      (agendaIds.has(it.id) ? ' <span class="badge agenda-badge">en agenda</span>' : '');
     div.appendChild(meta);
 
     if (it.estado === 'descartado' && it.motivo_descarte) {
@@ -278,6 +329,50 @@ document.getElementById('btnConfig').onclick = () => {
   document.getElementById('cfgToken').value = c.token;
   document.getElementById('configDialog').showModal();
 };
+let agendaTargetItem = null;
+
+function abrirAgenda(it) {
+  agendaTargetItem = it;
+  document.getElementById('agEvento').value = it.titulo || '';
+  document.getElementById('agFecha').value = '';
+  document.getElementById('agTipo').value = 'evento';
+  document.getElementById('agDetalle').value = '';
+  document.getElementById('agendaDialog').showModal();
+}
+
+document.getElementById('agCancel').onclick = () => document.getElementById('agendaDialog').close();
+document.getElementById('agSave').onclick = async () => {
+  const it = agendaTargetItem;
+  if (!it) return;
+  const evento = document.getElementById('agEvento').value.trim();
+  if (!evento) { alert('Falta describir el evento.'); return; }
+  const fecha = document.getElementById('agFecha').value.trim() || null;
+  const tipo = document.getElementById('agTipo').value;
+  const detalle = document.getElementById('agDetalle').value.trim() || null;
+  document.getElementById('agendaDialog').close();
+  try {
+    setStatus('Guardando en la agenda...');
+    const { data, sha } = await ghGetPath(AGENDA_PATH);
+    data.push({
+      id: `${it.id}-agenda-${Date.now()}`,
+      fecha,
+      evento,
+      tipo,
+      fuente: it.fuente || '',
+      origen_id: it.id,
+      detalle,
+      agregado_el: new Date().toISOString(),
+      estado: 'pendiente',
+    });
+    await ghPutPath(AGENDA_PATH, sha, data, `Agenda: agregar "${evento}" (desde ${it.id})`);
+    agendaIds.add(it.id);
+    setStatus('Agregado a la agenda.', 'ok');
+    render();
+  } catch (e) {
+    setStatus('Error guardando en la agenda: ' + e.message, 'error');
+  }
+};
+
 document.getElementById('cfgCancel').onclick = () => document.getElementById('configDialog').close();
 document.getElementById('cfgSave').onclick = () => {
   localStorage.setItem('cablera_owner', document.getElementById('cfgOwner').value.trim());
