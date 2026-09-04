@@ -7,11 +7,11 @@
     "link": "https://www.entrerios.gov.ar/minpro/ejemplo",
     "texto_original": "Pegá acá el texto completo del comunicado si lo tenés, o dejalo vacío si solo tenés el link.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-03T00:00:00Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "\"relleno institucional redactado para quedar bien\""
   },
   {
     "id": "goberer-79601",
