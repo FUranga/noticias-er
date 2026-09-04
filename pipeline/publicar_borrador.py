@@ -65,10 +65,15 @@ def parse_nota(texto: str) -> dict:
 
 
 def a_html(nota: dict) -> str:
-    """Arma el content HTML del post: bajada en negrita como lead, despues los parrafos del cuerpo."""
+    """Arma el content HTML del post: solo los parrafos del cuerpo.
+
+    La bajada NO se repite aca -- vive unicamente en el campo "excerpt" de
+    WordPress, y el frontend la muestra como elemento propio debajo del
+    titulo (ver frontend/src/app/nota/[slug]/page.tsx). Duplicarla como
+    primer parrafo en negrita del content se veia repetida en el editor
+    de WordPress.
+    """
     partes = []
-    if nota["bajada"]:
-        partes.append(f"<p><strong>{nota['bajada']}</strong></p>")
     for parrafo in nota["cuerpo"].split("\n\n"):
         parrafo = parrafo.strip()
         if parrafo:

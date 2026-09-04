@@ -45,6 +45,8 @@ Si después de sacar el relleno institucional no queda un hecho concreto, probab
 - "El proyecto generará 300 empleos, según el Ministerio de Producción" — no "El proyecto generará 300 empleos."
 - "La medida busca reducir la informalidad laboral, de acuerdo con la Legislatura" — no presentarlo como un resultado ya verificado.
 - Si dos organismos dan versiones distintas de un mismo hecho (por ejemplo, gobierno y sindicato sobre el mismo conflicto), no elegir una versión en silencio — mostrar ambas, atribuidas.
+- **Atribuir una interpretación "de contexto" (no solo logros o cifras) es una opción válida, no una regla fija — depende del caso** (2026-09-04, corregido por Francisco tras una primera versión de esta nota que lo planteaba como regla general). En un párrafo de "por qué importa" (nut graf), a veces conviene atribuir la interpretación a quien la sugirió en vez de afirmarla en voz del medio — ej. "el ministro destacó que representaba un cambio hacia..." en vez de asumirlo como hecho objetivo — pero es un juicio editorial caso por caso, no algo a aplicar mecánicamente siempre que una interpretación no sea 100% verificable de forma independiente.
+- **Ante dos cifras para el mismo dato — una exacta propia y una redondeada de la fuente — preferir la exacta**, aunque la fuente (el comunicado) haya usado la redondeada. Caso real: un comunicado decía "10% más" en una comparación interanual; con la serie completa del organismo correspondiente se pudo calcular el dato exacto (9,3%) y Francisco lo prefirió al redondeo del comunicado.
 
 Esto es el corazón del valor editorial: cualquiera puede copiar un comunicado. Nuestro trabajo es dejar claro qué es verificable y qué es la versión de quien lo emitió.
 

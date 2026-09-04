@@ -30,6 +30,12 @@ export default async function NotaPage({ params }: Props) {
             className="font-headline text-3xl font-bold leading-[1.1] sm:text-4xl"
             dangerouslySetInnerHTML={{ __html: post.title.rendered }}
           />
+          {post.excerpt.rendered && (
+            <div
+              className="font-ui mt-3 text-lg leading-snug text-neutral-700 [&_p]:m-0"
+              dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}
+            />
+          )}
           <div className="byline mt-4 flex items-center gap-2 border-b border-neutral-300 pb-4">
             {autor && <span>Por {autor}</span>}
             {autor && <span aria-hidden>·</span>}
