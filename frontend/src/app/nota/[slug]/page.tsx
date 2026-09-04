@@ -26,7 +26,7 @@ export default async function NotaPage({ params }: Props) {
         <article>
           {categoria && <p className="kicker mb-2">{categoria}</p>}
           <h1
-            className="font-serif text-3xl font-bold leading-[1.1] sm:text-4xl"
+            className="font-headline text-3xl font-bold leading-[1.1] sm:text-4xl"
             dangerouslySetInnerHTML={{ __html: post.title.rendered }}
           />
           <div className="byline mt-4 flex items-center gap-2 border-b border-neutral-300 pb-4">

@@ -120,6 +120,7 @@ def crear_borrador(nota: dict, imagen_id: int | None = None) -> dict:
     payload = {
         "title": nota["titulo"],
         "content": a_html(nota),
+        "excerpt": nota["bajada"],
         "status": "draft",
     }
     if imagen_id:
