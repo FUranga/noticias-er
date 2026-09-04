@@ -51,3 +51,21 @@ pip install -r requirements.txt
 
 - `.env` nunca se commitea (está en `.gitignore`). Si la Application Password se filtra, revocala desde WordPress (Usuarios → Tu perfil → Application Passwords → Revoke) y generá una nueva.
 - Este script es intencionalmente simple (un archivo de texto por nota, ejecución manual) — automatizar la ingesta de comunicados (RSS, scraping) es un paso posterior, no parte de esta primera versión.
+
+## Ingesta automatizada (piloto): Gobierno de Entre Ríos
+
+`monitorear_gobierno_er.py` agrega las noticias nuevas del Gobierno de Entre Ríos directo a `data/backlog.json` en estado `pendiente`, **siempre con texto completo real** — no decide ni publica nada, solo evita cargar a mano lo que ya está en el sitio oficial. Ver `docs/fuentes.md` (sección "Gobierno provincial") para el detalle completo de la investigación.
+
+**Solo carga ítems con texto completo** — nunca un título suelto sin cuerpo (no se inventan datos, ver `CLAUDE.md`). La fuente es una API pública (`/api/public/home/noticias`), liviana (sin navegador), que solo trae las **últimas 6** noticias (sin paginación posible, confirmado). Una vez que una noticia sale de esa ventana, no hay forma de conseguir su texto completo — la página de detalle de cada nota (`/noticias/<id>`) está rota en el sitio de origen, no carga contenido para nadie (confirmado con la consola del navegador limpia, sin errores).
+
+**La mitigación es de frecuencia, no de herramienta**: correr este script seguido (pensado para cada 15 min, automatizado en `.github/workflows/monitorear_gobierno_er.yml` — corre en GitHub Actions, no depende de que tu compu esté prendida ni de que estés logueado) para que casi ninguna nota se escape de la ventana antes de verla. Con el ritmo de publicación observado (~1 nota cada 45 min) alcanza de sobra, aunque no hay garantía matemática de cero pérdidas en un día de mucha actividad.
+
+**Fotos**: no se pre-bajan en esta corrida (se evaluó con Playwright/scraping y se decidió que no vale la pena para las 6 "por las dudas"). Cuando el editor elige una nota para publicar, la skill `procesar-cablera` la busca en vivo con el navegador en ese momento — ver `skills/procesar-cablera/SKILL.md`.
+
+No requiere `.env` (API pública, sin credenciales) ni Playwright. Uso local (además de correr solo en GitHub Actions):
+```
+python monitorear_gobierno_er.py
+```
+Es seguro correrlo varias veces — no duplica ítems ya cargados.
+
+Este es el primer caso de un patrón que se puede repetir para otras fuentes de gobierno (Municipio, Concejo, Legislatura) a medida que se investiguen.

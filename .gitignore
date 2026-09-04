@@ -8,3 +8,4 @@ node_modules/
 __pycache__/
 *.pyc
 pipeline/_tmp_*.txt
+data/imagenes/

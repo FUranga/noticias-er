@@ -31,6 +31,22 @@ No es un CMS, es un flujo de trabajo con soporte de IA. Componentes:
 5. **Publicación como borrador en WordPress**: `pipeline/publicar_borrador.py` sube cada nota (con imagen si se consiguió) vía REST API como post en estado `draft`, nunca publicado. El ítem del backlog pasa a `procesado` con el link directo al borrador.
 6. **Revisión editorial final**: Francisco edita y publica desde el editor nativo de WordPress.
 
+### Estrategia de ingesta de comunicados — por etapas
+
+El mapeo de `docs/fuentes.md` está creciendo rápido (institucionales, sindicatos, cámaras, y pronto partidos políticos, think tanks, empresas, regulatorio/judicial, medios). Conviene agrupar la estrategia de ingesta **por mecanismo**, no por tipo de organización — es lo que realmente determina el costo de automatizar cada una. Auditoría del 2026-09-03 sobre las 4 fuentes institucionales ya mapeadas (Municipio, Legislatura, Concejo, gobierno provincial): ninguna tiene RSS confirmado, y varias bloquean fetch automatizado directamente (403). Esto vale como señal general: no asumir que scraping es la vía fácil para el resto de la lista tampoco.
+
+**Etapa 1 (arrancar acá) — email de prensa.** La mayoría de organismos, sindicatos, cámaras, partidos y think tanks reparten comunicados por mail a listas de prensa — es el mecanismo más universal: no depende de que el sitio tenga RSS ni de que tolere scraping. Francisco da de alta una casilla dedicada y se inscribe en las listas de prensa de las fuentes ya mapeadas (varias ya tienen contacto de prensa confirmado en `fuentes.md`, ej. prensa@senadoer.gob.ar, prensa@caceper.com.ar). Conexión con la cablera en esta etapa: **manual** — copiar/pegar el comunicado relevante en `admin/index.html`, igual que hoy. Menor esfuerzo de build, y ya resuelve el problema real de los sitios sin RSS.
+
+**Etapa 2 — lectura automática de esa casilla (IMAP) → alta automática en el backlog.** Cuando el volumen lo justifique: un script (`pipeline/leer_comunicados_email.py` o similar) que lea por IMAP los mails nuevos y cree ítems `pendiente` en `data/backlog.json` automáticamente — nunca `a_publicar`, eso sigue siendo criterio editorial exclusivo de Francisco. Agrega una pieza nueva de infraestructura (credenciales de email en `pipeline/.env`, parsing de adjuntos/imágenes, deduplicación de reenvíos). No implementar hasta que la Etapa 1 muestre que el volumen de mails lo justifica.
+
+**Etapa 3 — RSS real donde exista.** Confirmado hasta ahora: solo CAMARCO Entre Ríos. Los medios locales/nacionales (a diferencia de los sitios de gobierno) suelen sí tener RSS — buen mecanismo para el monitoreo de medios (no para reescribir, solo para no perder hechos, ver `docs/estilo-editorial.md`). Bajo costo de automatizar con un feed reader estándar, bajo mantenimiento.
+
+**Etapa 4 (último recurso, caso por caso) — scraping de sitios sin mailing ni RSS.** Reservar para 1-2 fuentes de altísimo valor que no ofrezcan ninguna otra vía. Es lo más frágil (se rompe con cada rediseño del sitio) y lo que más mantenimiento pide — no escalar a toda la lista de `fuentes.md`.
+
+**Boletines oficiales y judicial**: tratarlos aparte de "comunicados de prensa" — suelen tener formato estructurado propio (PDF/HTML tabulado por norma/expediente), no una lista de mail. Evaluar mecanismo específico cuando se mapee esa categoría.
+
+**Actualización (2026-09-03) — Gobierno de Entre Ríos terminó resolviéndose distinto al orden de arriba.** Francisco decidió priorizar confiabilidad/control propio por sobre el mecanismo de menor esfuerzo inicial (ver feedback: "arrancar por RSS o scraping de una fuente de alta calidad, no depender de que un tercero te acepte en una lista"). Investigando el sitio (`portal.entrerios.gov.ar`) con la técnica de revisar el historial de Wayback Machine para encontrar rutas `/api/...` no documentadas, apareció una API JSON pública real con texto completo — más confiable que email o RSS, y sin el costo de mantenimiento de un scraper con navegador. Implementado en `pipeline/monitorear_gobierno_er.py`, corriendo cada 15 min en GitHub Actions. Ver `docs/fuentes.md` (sección "Gobierno provincial") para el detalle completo, incluida la técnica de Wayback Machine — **vale la pena probarla primero en cada fuente de gobierno nueva**, antes de asumir que hace falta email o un scraper con navegador.
+
 Este es el nivel "sin costo extra" del pipeline (Opción A): la redacción ocurre dentro de una sesión de Claude Code, no de forma headless. Una **Opción B** más automatizada — el botón "marcar para publicar" del panel disparando directo un GitHub Action que llama a la API de Anthropic (con costo de uso propio, separado de la suscripción de Claude) y sube el borrador sin que nadie abra Claude Code — queda como evolución futura si el volumen lo justifica.
 
 ### Por qué no arrancar con un CMS propio (reemplazar WordPress mismo)
@@ -53,3 +69,4 @@ No es "entrenar un modelo" (no hay fine-tuning) — es afinar por escrito, con e
 - Nombre de dominio del medio (atado a la decisión de marca/nombre, ver `vision-y-etapas.md`) — el dominio del medio en Hostinger sigue siendo el temporal (`maroon-seahorse-965853.hostingersite.com`).
 - Confirmar Next.js + Vercel como stack del frontend, o evaluar alternativas si hay preferencia técnica distinta.
 - ESP de newsletter.
+- Cuándo pasar de Etapa 1 (casilla de prensa, copiar/pegar manual a la cablera) a Etapa 2 (lectura automática por IMAP) — ver "Estrategia de ingesta de comunicados" arriba. Depende del volumen real una vez que la casilla esté activa.

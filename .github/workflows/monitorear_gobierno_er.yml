@@ -1,0 +1,39 @@
+name: Monitorear Gobierno ER
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitorear-gobierno-er
+  cancel-in-progress: false
+
+jobs:
+  monitorear:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - run: python pipeline/monitorear_gobierno_er.py
+
+      - name: Commit y push si hay novedades
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/backlog.json; then
+            echo "Sin cambios en data/backlog.json, no hay nada que commitear."
+          else
+            git add data/backlog.json
+            git commit -m "Cablera: noticias nuevas del Gobierno de ER (automatico)"
+            git push
+          fi

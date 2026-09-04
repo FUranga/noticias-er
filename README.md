@@ -25,7 +25,7 @@ No competimos con los medios que ya cubren bien un nicho — linkeamos y citamos
 
 - **WordPress del medio** (backend editorial, privado, dominio temporal en Hostinger) — instalado, con la API REST y una Application Password activa para el pipeline.
 - **Sitio de la Fundación** (`desarrolloentrerriano.org`, Hostinger São Paulo) — WordPress + theme Kadence, construido de punta a punta: portada, menú (con submenú "Sobre"), archivo de Novedades paginado, categorías, redes sociales y contacto en el footer, y contenido histórico real recuperado (54 notas de FUNDER + 20 de Visión Desarrollista + 1 de Análisis Digital). Detalle completo en [`docs/sitio-fundacion.md`](docs/sitio-fundacion.md), scripts de mantenimiento en [`fundacion-wp/`](fundacion-wp/), pendientes en [`docs/checklist-sitio-fundacion.md`](docs/checklist-sitio-fundacion.md).
-- **Pipeline de publicación** (`pipeline/`) y **cablera** (`admin/` + `data/backlog.json`) — funcionando de punta a punta: el editor marca ítems en el panel, la skill `procesar-cablera` los redacta y los sube a WordPress como borrador. `data/backlog.json` todavía no tiene ítems reales cargados.
+- **Pipeline de publicación** (`pipeline/`) y **cablera** (`admin/` + `data/backlog.json`) — funcionando de punta a punta: el editor marca ítems en el panel, la skill `procesar-cablera` los redacta y los sube a WordPress como borrador. `data/backlog.json` ya tiene ítems reales del Gobierno de Entre Ríos, cargados automáticamente por `pipeline/monitorear_gobierno_er.py` (API pública + scraping con Playwright — ver `docs/fuentes.md`).
 - **Frontend público del medio** (Next.js/Vercel) — todavía no arrancado.
 
 Ver [`docs/vision-y-etapas.md`](docs/vision-y-etapas.md) para la hoja de ruta completa.
@@ -39,6 +39,7 @@ docs/
   estilo-editorial.md       Reglas de redacción — la referencia de las skills editoriales
   aliados-y-financiamiento.md  Posibles alianzas y vías de sostenibilidad
   fuentes.md                Mapa de organismos/organizaciones a monitorear
+  contactos-prensa.md       Lista de contactos de prensa confirmados, para suscribirse a listas de mail
   contenido-historico-fundacion.md  Contenido institucional de FUNDER rescatado de Wayback Machine
   sitio-fundacion.md        Estado, decisiones y gotchas técnicos del sitio de la Fundación
   checklist-sitio-fundacion.md  Pendientes del sitio de la Fundación, agrupados por prioridad
@@ -60,6 +61,7 @@ data/
 
 pipeline/
   publicar_borrador.py        Sube una nota ya redactada (con imagen opcional) a WordPress como draft
+  monitorear_gobierno_er.py   Carga a la cablera las noticias nuevas del Gobierno de ER (API + scraping)
 
 fundacion-wp/
   armar_home.py, armar_menu.py, categorizar.py,
