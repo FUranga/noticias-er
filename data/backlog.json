@@ -49,11 +49,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79599",
     "texto_original": "Desde el Gobierno de Entre Ríos destacaron el resultado de las gestiones para evitar la instalación de la planta de hidrógeno frente a Colón. \"El gobernador encabezó personalmente las conversaciones con el convencimiento de que el camino era el diálogo\", afirmó Mauricio Colello.\n\nEl gobierno de Entre Ríos recibió con satisfacción la decisión de relocalizar en Uruguay el proyecto de planta de hidrógeno que originalmente estaba previsto frente a la ciudad de Colón, al considerar que se trata de una decisión que permite preservar el perfil turístico de una de las ciudades más importantes de la provincia.\n\n \n\n\"El gobernador encabezó personalmente las conversaciones para evitar que esto suceda y lo hizo con el convencimiento de que el camino era la diplomacia, que el camino era el diálogo\", destacó el secretario General de la Gobernación, Mauricio Colello, al ser consultado sobre el tema durante una conferencia de prensa.\n\n \n\nColello remarcó que desde el inicio de la gestión se había advertido el impacto que podía generar la instalación de la planta en el lugar previsto originalmente. \"Desde el día número uno sabíamos la importancia que tenía para la ciudad de Colón, una ciudad esencialmente turística, uno de los destinos más apreciados de la provincia para los turistas que nos visitan, y sabíamos perfectamente el impacto negativo que iba a tener la instalación de la planta en donde se había pensado originalmente\", señaló.\n\n \n\nEn ese sentido, sostuvo que la decisión de avanzar a través del diálogo con las autoridades uruguayas permitió encauzar el planteo de la provincia por la vía diplomática. \"Siempre tuvimos la confianza y la convicción de que eso iba a traer buenos resultados\", afirmó.\n\n \n\nEl funcionario valoró especialmente el trabajo llevado adelante por el gobernador Rogelio Frigerio y señaló que \"por suerte, el tiempo, el trabajo y la diplomacia que llevó el gobernador de forma personal trajeron resultados positivos\".\n\n \n\n\"Logramos lo que queríamos todos los entrerrianos y, en particular, los vecinos de Colón, que era evitar que la planta se instale donde se iba a instalar, con todos los efectos negativos que iba a traer para la ciudad\", concluyó Colello.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-03T23:42:55Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Es solo una reaccion/autoelogio del gobierno provincial (Colello), sin dato nuevo ni anuncio propio. La noticia real de fondo (la relocalizacion de la planta de hidrogeno de HIF Global) se cargo aparte como hidrogeno-colon-01, con Infobae como fuente primaria y fecha real del hecho (2/9), no la fecha de esta reaccion."
   },
   {
     "id": "goberer-79594",
@@ -96,5 +96,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Esto es una accion planificad adel gobierno. No es noticioso. Es autopromocion."
+  },
+  {
+    "id": "hidrogeno-colon-01",
+    "fuente": "Infobae, con reacción del Gobierno de Entre Ríos",
+    "titulo": "Uruguay confirmó que relocalizará la planta de hidrógeno verde que HIF Global proyectaba frente a Colón",
+    "fecha": "2026-09-02",
+    "link": "https://www.infobae.com/america/agencias/2026/09/02/uruguay-confirma-relocalizacion-de-planta-de-hidrogeno-verde/",
+    "texto_original": "El gobierno de Uruguay confirmó que relocalizará la planta de hidrógeno verde que la empresa HIF Global proyectaba instalar frente a las costas de Colón (Entre Ríos), sobre la margen uruguaya del río Uruguay, cerca de Paysandú. La decisión fue comunicada por el canciller uruguayo, Mario Lubetkin, a su par argentino, Pablo Quirno, durante un encuentro en Montevideo. \"El presidente de la República nos dio instrucciones precisas para relocalizar esa planta\", dijo Lubetkin, según Infobae (2/9/2026).\n\nEl proyecto de HIF Global contemplaba, además de la planta de hidrógeno, un parque solar y uno eólico, con capacidad para producir hasta 876.000 toneladas anuales de metanol a partir de hidrógeno verde, a unos tres kilómetros de la costa de Colón.\n\nEl emprendimiento generó reclamos desde Entre Ríos por su impacto visual sobre una zona cuya economía depende del turismo desde hace más de 50 años. La Justicia había intervenido en la disputa en diciembre de 2025, y el gobierno uruguayo evaluaba ubicaciones alternativas desde mayo de 2026, en medio de la presión diplomática argentina. El nuevo emplazamiento sería un predio de ANCAP, la petrolera estatal uruguaya.\n\nReacción del gobierno de Entre Ríos (comunicado del 3/9/2026, goberer-79599, descartado como noticia propia por ser solo reacción sin dato nuevo — se deja la cita atribuida como color): el secretario General de la Gobernación, Mauricio Colello, atribuyó el resultado a gestiones personales del gobernador Rogelio Frigerio: \"El gobernador encabezó personalmente las conversaciones con el convencimiento de que el camino era el diálogo\", dijo Colello en conferencia de prensa. La confirmación de la relocalización, sin embargo, se dio en el marco de una gestión entre las cancillerías de Argentina y Uruguay, según la cobertura de Infobae — no hay confirmación independiente del rol específico que tuvo la gestión provincial en el resultado final.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-04T09:45:00Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Vieja para nuestro ritmo de publicacion: el hecho lo confirmo Uruguay el 2/9 y ya lo cubrieron Infobae, La Nacion, Perfil, etc. el mismo dia. Para cuando lo investigamos y armamos el borrador (4/9) ya tiene 2 dias y esta sobreexpuesta en medios grandes -- no pasa el criterio de oportunidad aunque sea importante y noticiosa. Si vuelve a aparecer un caso similar (reaccion tardia del gobierno sobre un hecho ya cubierto en otro lado), chequear la fecha real del hecho ANTES de invertir tiempo en investigar y redactar, no despues."
   }
 ]

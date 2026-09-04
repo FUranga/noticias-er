@@ -38,6 +38,7 @@ Definir identidad (nombre, marca), infraestructura técnica, mapa de fuentes, es
 
 ### Etapa 4 — Periodismo humano en el terreno
 - Periodistas locales que cubran en persona: reuniones de gobierno, entrevistas, sesiones legislativas y del Concejo.
+- **Adelantable, no depende de tener periodistas propios**: analizar la grabación/transmisión original de conferencias de prensa, audiencias públicas y sesiones legislativas (cuando existan) en vez de depender solo del comunicado/acta que las resume — puede revelar algo que el resumen oficial omite. Ver `docs/criterios-noticiabilidad.md`, sección "Preguntas abiertas".
 - Pedidos de acceso a la información pública.
 - Investigaciones y especiales.
 - **Canal de denuncias/whistleblower** — a diferencia del resto de esta etapa, esto podría adelantarse: no depende de tener redacción propia, solo de un canal seguro y un protocolo claro de manejo. Vale la pena evaluarlo antes que el resto de la etapa 4.
