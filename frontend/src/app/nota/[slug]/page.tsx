@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { Header } from "@/components/Header";
-import { getPostBySlug, featuredImageUrl, authorName, categoryName } from "@/lib/wp";
+import { getPostBySlug, featuredImageUrl, featuredImageCredit, authorName, categoryName } from "@/lib/wp";
 import { formatFecha } from "@/lib/format";
 
 type Props = {
@@ -16,6 +16,7 @@ export default async function NotaPage({ params }: Props) {
   }
 
   const imagen = featuredImageUrl(post);
+  const creditoImagen = featuredImageCredit(post);
   const autor = authorName(post);
   const categoria = categoryName(post);
 
@@ -35,12 +36,19 @@ export default async function NotaPage({ params }: Props) {
             <span>{formatFecha(post.date)}</span>
           </div>
           {imagen && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={imagen}
-              alt=""
-              className="mt-6 aspect-[16/9] w-full object-cover"
-            />
+            <figure className="mt-6">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={imagen}
+                alt=""
+                className="aspect-[16/9] w-full object-cover"
+              />
+              {creditoImagen && (
+                <figcaption className="font-ui mt-1.5 text-xs text-neutral-500">
+                  {creditoImagen}
+                </figcaption>
+              )}
+            </figure>
           )}
           <div
             className="mt-6 text-lg leading-relaxed text-neutral-900 [&_p]:mb-5"

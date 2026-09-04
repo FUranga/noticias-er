@@ -20,6 +20,7 @@ export type WpPost = {
     "wp:featuredmedia"?: Array<{
       source_url: string;
       alt_text: string;
+      caption: { rendered: string };
     }>;
     author?: Array<{ name: string }>;
     "wp:term"?: Array<Array<{ name: string; slug: string; taxonomy: string }>>;
@@ -59,6 +60,19 @@ export async function getPostBySlug(slug: string): Promise<WpPost | null> {
 
 export function featuredImageUrl(post: WpPost): string | null {
   return post._embedded?.["wp:featuredmedia"]?.[0]?.source_url ?? null;
+}
+
+/**
+ * Credito de la foto destacada (ver docs/politica-imagenes.md) -- viene del
+ * campo "caption" del media en WordPress, que publicar_borrador.py completa
+ * al subir la imagen. WordPress lo envuelve en <p>, lo sacamos para mostrarlo
+ * como una linea de texto simple.
+ */
+export function featuredImageCredit(post: WpPost): string | null {
+  const raw = post._embedded?.["wp:featuredmedia"]?.[0]?.caption?.rendered;
+  if (!raw) return null;
+  const texto = raw.replace(/<[^>]+>/g, "").trim();
+  return texto || null;
 }
 
 export function authorName(post: WpPost): string | null {

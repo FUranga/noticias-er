@@ -25,10 +25,12 @@ Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fund
 - `docs/vision-y-etapas.md` — visión completa y hoja de ruta por etapas. Leer antes de proponer cualquier funcionalidad nueva, para ubicarla en la etapa que corresponde.
 - `docs/arquitectura-tecnica.md` — decisión de infraestructura (WordPress + pipeline de agencia propio) y el razonamiento detrás. Leer antes de proponer cambios de stack.
 - `docs/estilo-editorial.md` — reglas de redacción compartidas por las skills editoriales. Es la fuente de verdad del estilo; las skills la referencian, no la duplican.
+- `docs/politica-imagenes.md` — de dónde sale la foto de cada nota del medio (cascada de niveles: fuente propia/redes oficiales → libres de derechos tipo Wikimedia Commons → banco propio curado/stock genérico) y cómo se acredita (visible, distinto del criterio de la Fundación). Consumida por `procesar-cablera` y `pipeline/publicar_borrador.py`.
 - `docs/aliados-y-financiamiento.md` — pensamiento en curso sobre alianzas con otros medios/instituciones y vías de sostenibilidad.
 - `docs/fuentes.md` — mapa de organismos y organizaciones a monitorear. Mantenido con la skill `mapear-fuentes`.
 - `docs/criterios-noticiabilidad.md` — patrones aprendidos de qué elige publicar el editor. Mantenido con `aprender-noticiabilidad`, consumido por `evaluar-comunicado`.
 - `data/backlog.json` — la cablera: comunicados candidatos con estado editorial (`pendiente`/`a_publicar`/`descartado`/`procesado`). Se edita desde `admin/index.html`, no a mano.
+- `data/agenda.json` / `docs/agenda.md` — hechos futuros con fecha (o "próximo paso" sin fecha exacta) mencionados dentro de comunicados: sesiones pendientes, trámites que pasan a otra instancia, eventos programados. Se completa desde `evaluar-comunicado`, independiente de si el comunicado en sí se convierte en nota. Pensado para uso propio de Francisco (newsletter, seguimiento) y como insumo si más adelante se decide una sección pública de agenda.
 - `admin/index.html` — panel de curación (noindex, no linkeado públicamente). Escribe directo a GitHub con un PAT guardado en el navegador de quien lo usa.
 - `pipeline/publicar_borrador.py` — sube una nota ya redactada (con imagen opcional) a WordPress como `draft`.
 - `skills/` — skills de Claude Code para el flujo editorial (`redactar-noticia`, `evaluar-comunicado`, `mapear-fuentes`, `procesar-cablera`, `aprender-noticiabilidad`).

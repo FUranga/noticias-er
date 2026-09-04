@@ -8,4 +8,11 @@ node_modules/
 __pycache__/
 *.pyc
 pipeline/_tmp_*.txt
-data/imagenes/
+data/imagenes/*
+# Excepcion: el banco propio curado (docs/politica-imagenes.md, Nivel 3) SI
+# se versiona -- son fotos reutilizables de la identidad del medio, no
+# descargas de scratch por nota como el resto de data/imagenes/. Un
+# directorio ignorado no se puede "reincluir" por partes, asi que la regla
+# de arriba tiene que ser data/imagenes/* (no data/imagenes/) para que esto
+# funcione.
+!data/imagenes/banco-libre/

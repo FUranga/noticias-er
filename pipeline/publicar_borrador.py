@@ -5,11 +5,16 @@ como borrador (`draft`) en WordPress, via su API REST.
 Uso:
     python publicar_borrador.py nota.txt
     python publicar_borrador.py nota.txt https://ejemplo.org/imagen.jpg
-    python publicar_borrador.py nota.txt C:\ruta\a\imagen_local.jpg
+    python publicar_borrador.py nota.txt C:\ruta\a\imagen_local.jpg "Foto: Gobierno de Entre Rios"
 
 El segundo argumento (opcional) es una imagen destacada: una URL o una ruta
 local. Si se pasa, se sube a la biblioteca de medios de WordPress y se
 asocia al borrador como imagen destacada.
+
+El tercer argumento (opcional, solo tiene efecto si hay imagen) es el
+credito de la foto (ver docs/politica-imagenes.md) -- se guarda como
+"caption" del media en WordPress, y el frontend lo muestra como leyenda
+visible debajo de la imagen.
 
 El archivo de entrada tiene que tener el formato:
 
@@ -17,9 +22,7 @@ El archivo de entrada tiene que tener el formato:
 
     Bajada: ...
 
-    [Cuerpo en parrafos cortos]
-
-    Fuente: ...
+    [Cuerpo en parrafos cortos, con la atribucion de cada dato tejida adentro]
 
 Credenciales en pipeline/.env (nunca se commitea - ver .env.example):
     WP_URL=https://tu-dominio-temporal.hostingersite.com
@@ -44,24 +47,21 @@ WP_APP_PASSWORD = os.environ.get("WP_APP_PASSWORD", "")
 
 
 def parse_nota(texto: str) -> dict:
-    """Separa el texto en titulo / bajada / cuerpo / fuente segun el formato de redactar-noticia."""
+    """Separa el texto en titulo / bajada / cuerpo segun el formato de redactar-noticia."""
     titulo_m = re.search(r"^T[ií]tulo:\s*(.+)$", texto, re.MULTILINE)
     bajada_m = re.search(r"^Bajada:\s*(.+)$", texto, re.MULTILINE)
-    fuente_m = re.search(r"^Fuente:\s*(.+)$", texto, re.MULTILINE)
 
     if not titulo_m:
         raise ValueError("No encontre una linea 'Titulo:' en el archivo.")
 
     titulo = titulo_m.group(1).strip()
     bajada = bajada_m.group(1).strip() if bajada_m else ""
-    fuente = fuente_m.group(1).strip() if fuente_m else ""
 
-    # El cuerpo es todo lo que queda entre la bajada y la linea de fuente.
+    # El cuerpo es todo lo que queda despues de la bajada.
     inicio_cuerpo = bajada_m.end() if bajada_m else titulo_m.end()
-    fin_cuerpo = fuente_m.start() if fuente_m else len(texto)
-    cuerpo = texto[inicio_cuerpo:fin_cuerpo].strip()
+    cuerpo = texto[inicio_cuerpo:].strip()
 
-    return {"titulo": titulo, "bajada": bajada, "cuerpo": cuerpo, "fuente": fuente}
+    return {"titulo": titulo, "bajada": bajada, "cuerpo": cuerpo}
 
 
 def a_html(nota: dict) -> str:
@@ -73,8 +73,6 @@ def a_html(nota: dict) -> str:
         parrafo = parrafo.strip()
         if parrafo:
             partes.append(f"<p>{parrafo}</p>")
-    if nota["fuente"]:
-        partes.append(f"<p><em>Fuente: {nota['fuente']}</em></p>")
     return "\n".join(partes)
 
 
@@ -110,6 +108,17 @@ def subir_imagen_destacada(origen: str) -> int:
     return resp.json()["id"]
 
 
+def set_credito_imagen(imagen_id: int, credito: str) -> None:
+    """Guarda el credito de la foto como 'caption' del media ya subido."""
+    resp = requests.post(
+        f"{WP_URL}/wp-json/wp/v2/media/{imagen_id}",
+        auth=(WP_USER, WP_APP_PASSWORD),
+        json={"caption": credito},
+        timeout=30,
+    )
+    resp.raise_for_status()
+
+
 def crear_borrador(nota: dict, imagen_id: int | None = None) -> dict:
     if not (WP_URL and WP_USER and WP_APP_PASSWORD):
         raise RuntimeError(
@@ -137,12 +146,13 @@ def crear_borrador(nota: dict, imagen_id: int | None = None) -> dict:
 
 
 def main():
-    if len(sys.argv) not in (2, 3):
-        print("Uso: python publicar_borrador.py <archivo_de_nota.txt> [imagen_url_o_ruta]")
+    if len(sys.argv) not in (2, 3, 4):
+        print("Uso: python publicar_borrador.py <archivo_de_nota.txt> [imagen_url_o_ruta] [credito_de_foto]")
         sys.exit(1)
 
     ruta = sys.argv[1]
-    imagen_origen = sys.argv[2] if len(sys.argv) == 3 else None
+    imagen_origen = sys.argv[2] if len(sys.argv) >= 3 else None
+    credito = sys.argv[3] if len(sys.argv) == 4 else None
 
     with open(ruta, encoding="utf-8") as f:
         texto = f.read()
@@ -156,6 +166,9 @@ def main():
             print(f"Subiendo imagen destacada desde: {imagen_origen}")
             imagen_id = subir_imagen_destacada(imagen_origen)
             print(f"Imagen subida (media id {imagen_id})")
+            if credito:
+                set_credito_imagen(imagen_id, credito)
+                print(f"Credito guardado: {credito}")
         except Exception as e:
             print(f"No se pudo subir la imagen ({e}) - sigo sin imagen destacada.")
 
