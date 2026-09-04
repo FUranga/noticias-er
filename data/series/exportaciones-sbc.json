@@ -1,0 +1,1263 @@
+{
+  "_metodologia": {
+    "nombre": "Exportaciones de Servicios Basados en el Conocimiento (SBC) por jurisdiccion",
+    "que_mide": "Valor en millones de dolares (USD) de las exportaciones argentinas de servicios basados en conocimiento (software, servicios informaticos, servicios profesionales, I+D) -- valor TRIMESTRAL puntual (no acumulado, no suma movil). Es un sector de SERVICIOS, distinto de datasets de 'intensidad tecnologica' de manufacturas/bienes (esos no cubren este rubro).",
+    "productor": "Ministerio de Economia de la Nacion (dashboard Power BI publico 'Exportaciones de Servicios Basados en el Conocimiento').",
+    "fuente_dashboard": "https://app.powerbi.com/view?r=eyJrIjoiMDRmMTIxZDMtODI5Ny00ZGYyLWE1ZWMtOTRlMTBlMDNjYjZhIiwidCI6ImNiODg0ZGI1LTI0ODUtNGY5Yi05MzhlLTNlNjIxZjIyMjU3YiIsImMiOjR9",
+    "punto_de_entrada": "https://www.mecon.gob.ar/datos/exportaciones-provinciales",
+    "metodo_de_extraccion": "El panel no tiene funcion de exportar datos ni API publica. Los valores se extrajeron el 2026-09-04 leyendo el arbol de accesibilidad (aria) del grafico ('Valor Trimestral', pestana 'Exportaciones Provinciales'), que expone cada punto de dato con precision completa -- no son lecturas visuales aproximadas. El primer punto se confirmo por hover como '2007-Trim.1' antes de inferir el resto de las etiquetas de periodo (la serie es trimestral continua sin saltos).",
+    "alcance_geografico": "Nacional + 4 jurisdicciones bajadas (Entre Rios, Cordoba, Santa Fe) -- el resto de las provincias NO se bajaron (quedan disponibles en el mismo dashboard si se necesitan mas adelante, siguiendo el mismo metodo).",
+    "periodicidad_dato": "Trimestral. El dashboard tambien ofrece 'Suma Movil 4 Trim.' (TTM) y 'Acumulado Anual' -- no se bajaron esas vistas, se pueden derivar sumando estos valores trimestrales si hace falta.",
+    "periodicidad_actualizacion_fuente": "No especificada explicitamente por el organismo en el dashboard. Ultima actualizacion visible en el panel al 2026-09-04: 24/06/2026.",
+    "unidad": "Millones de dolares (USD).",
+    "cobertura_temporal": "2007-Q1 a 2026-Q1 (77 trimestres), continua sin saltos.",
+    "fecha_extraccion": "2026-09-04",
+    "notas": [
+      "El ultimo trimestre (2026-Q1) de Entre Rios (14.42M) coincide con el dato del comunicado oficial del Gobierno de ER (14M, redondeado) -- confirma consistencia entre fuentes.",
+      "El pico historico de la serie de Entre Rios (2026-Q1, en valor trimestral puntual) no es necesariamente el mismo punto que el record confirmado sobre la 'Suma Movil 4 Trim.' (ver docs/fuentes-datos.md) -- son dos metricas distintas (trimestral puntual vs. TTM), ambas alcanzan su maximo hacia el final de la serie pero no hay que asumir que son el mismo numero.",
+      "No se investigo el rubro/segmento (el dashboard permite filtrar por 'Segmento, Rubro', se bajo 'Todas' sin desagregar)."
+    ]
+  },
+  "series": {
+    "nacional": [
+      {
+        "periodo": "2007-Q1",
+        "valor_millones_usd": 593.848
+      },
+      {
+        "periodo": "2007-Q2",
+        "valor_millones_usd": 692.421
+      },
+      {
+        "periodo": "2007-Q3",
+        "valor_millones_usd": 768.7
+      },
+      {
+        "periodo": "2007-Q4",
+        "valor_millones_usd": 873.934
+      },
+      {
+        "periodo": "2008-Q1",
+        "valor_millones_usd": 785.936
+      },
+      {
+        "periodo": "2008-Q2",
+        "valor_millones_usd": 964.317
+      },
+      {
+        "periodo": "2008-Q3",
+        "valor_millones_usd": 1000.193
+      },
+      {
+        "periodo": "2008-Q4",
+        "valor_millones_usd": 1086.325
+      },
+      {
+        "periodo": "2009-Q1",
+        "valor_millones_usd": 937.366
+      },
+      {
+        "periodo": "2009-Q2",
+        "valor_millones_usd": 946.968
+      },
+      {
+        "periodo": "2009-Q3",
+        "valor_millones_usd": 974.006
+      },
+      {
+        "periodo": "2009-Q4",
+        "valor_millones_usd": 1100.185
+      },
+      {
+        "periodo": "2010-Q1",
+        "valor_millones_usd": 939.817
+      },
+      {
+        "periodo": "2010-Q2",
+        "valor_millones_usd": 1253.217
+      },
+      {
+        "periodo": "2010-Q3",
+        "valor_millones_usd": 1067.819
+      },
+      {
+        "periodo": "2010-Q4",
+        "valor_millones_usd": 1383.798
+      },
+      {
+        "periodo": "2011-Q1",
+        "valor_millones_usd": 1180.168
+      },
+      {
+        "periodo": "2011-Q2",
+        "valor_millones_usd": 1393.769
+      },
+      {
+        "periodo": "2011-Q3",
+        "valor_millones_usd": 1346.353
+      },
+      {
+        "periodo": "2011-Q4",
+        "valor_millones_usd": 1867.506
+      },
+      {
+        "periodo": "2012-Q1",
+        "valor_millones_usd": 1446.543
+      },
+      {
+        "periodo": "2012-Q2",
+        "valor_millones_usd": 1439.173
+      },
+      {
+        "periodo": "2012-Q3",
+        "valor_millones_usd": 1404.197
+      },
+      {
+        "periodo": "2012-Q4",
+        "valor_millones_usd": 1542.79
+      },
+      {
+        "periodo": "2013-Q1",
+        "valor_millones_usd": 1213.001
+      },
+      {
+        "periodo": "2013-Q2",
+        "valor_millones_usd": 1370.47
+      },
+      {
+        "periodo": "2013-Q3",
+        "valor_millones_usd": 1345.579
+      },
+      {
+        "periodo": "2013-Q4",
+        "valor_millones_usd": 1666.05
+      },
+      {
+        "periodo": "2014-Q1",
+        "valor_millones_usd": 1099.426
+      },
+      {
+        "periodo": "2014-Q2",
+        "valor_millones_usd": 1227.918
+      },
+      {
+        "periodo": "2014-Q3",
+        "valor_millones_usd": 1269.14
+      },
+      {
+        "periodo": "2014-Q4",
+        "valor_millones_usd": 1451.623
+      },
+      {
+        "periodo": "2015-Q1",
+        "valor_millones_usd": 1080.555
+      },
+      {
+        "periodo": "2015-Q2",
+        "valor_millones_usd": 1333.023
+      },
+      {
+        "periodo": "2015-Q3",
+        "valor_millones_usd": 1352.973
+      },
+      {
+        "periodo": "2015-Q4",
+        "valor_millones_usd": 1406.927
+      },
+      {
+        "periodo": "2016-Q1",
+        "valor_millones_usd": 1261.793
+      },
+      {
+        "periodo": "2016-Q2",
+        "valor_millones_usd": 1348.159
+      },
+      {
+        "periodo": "2016-Q3",
+        "valor_millones_usd": 1346.655
+      },
+      {
+        "periodo": "2016-Q4",
+        "valor_millones_usd": 1603.643
+      },
+      {
+        "periodo": "2017-Q1",
+        "valor_millones_usd": 1595.768
+      },
+      {
+        "periodo": "2017-Q2",
+        "valor_millones_usd": 1896.319
+      },
+      {
+        "periodo": "2017-Q3",
+        "valor_millones_usd": 1733.676
+      },
+      {
+        "periodo": "2017-Q4",
+        "valor_millones_usd": 1909.885
+      },
+      {
+        "periodo": "2018-Q1",
+        "valor_millones_usd": 1799.741
+      },
+      {
+        "periodo": "2018-Q2",
+        "valor_millones_usd": 1764.804
+      },
+      {
+        "periodo": "2018-Q3",
+        "valor_millones_usd": 1479.62
+      },
+      {
+        "periodo": "2018-Q4",
+        "valor_millones_usd": 1749.31
+      },
+      {
+        "periodo": "2019-Q1",
+        "valor_millones_usd": 1528.446
+      },
+      {
+        "periodo": "2019-Q2",
+        "valor_millones_usd": 1613.088
+      },
+      {
+        "periodo": "2019-Q3",
+        "valor_millones_usd": 1686.199
+      },
+      {
+        "periodo": "2019-Q4",
+        "valor_millones_usd": 1770.025
+      },
+      {
+        "periodo": "2020-Q1",
+        "valor_millones_usd": 1570.524
+      },
+      {
+        "periodo": "2020-Q2",
+        "valor_millones_usd": 1272.782
+      },
+      {
+        "periodo": "2020-Q3",
+        "valor_millones_usd": 1256.789
+      },
+      {
+        "periodo": "2020-Q4",
+        "valor_millones_usd": 1544.192
+      },
+      {
+        "periodo": "2021-Q1",
+        "valor_millones_usd": 1424.295
+      },
+      {
+        "periodo": "2021-Q2",
+        "valor_millones_usd": 1605.927
+      },
+      {
+        "periodo": "2021-Q3",
+        "valor_millones_usd": 1714.765
+      },
+      {
+        "periodo": "2021-Q4",
+        "valor_millones_usd": 1963.768
+      },
+      {
+        "periodo": "2022-Q1",
+        "valor_millones_usd": 1874.301
+      },
+      {
+        "periodo": "2022-Q2",
+        "valor_millones_usd": 1860.57
+      },
+      {
+        "periodo": "2022-Q3",
+        "valor_millones_usd": 1957.365
+      },
+      {
+        "periodo": "2022-Q4",
+        "valor_millones_usd": 2182.266
+      },
+      {
+        "periodo": "2023-Q1",
+        "valor_millones_usd": 1946.53
+      },
+      {
+        "periodo": "2023-Q2",
+        "valor_millones_usd": 2042.789
+      },
+      {
+        "periodo": "2023-Q3",
+        "valor_millones_usd": 1960.669
+      },
+      {
+        "periodo": "2023-Q4",
+        "valor_millones_usd": 2125.786
+      },
+      {
+        "periodo": "2024-Q1",
+        "valor_millones_usd": 1689.634
+      },
+      {
+        "periodo": "2024-Q2",
+        "valor_millones_usd": 1996.585
+      },
+      {
+        "periodo": "2024-Q3",
+        "valor_millones_usd": 2334.511
+      },
+      {
+        "periodo": "2024-Q4",
+        "valor_millones_usd": 2396.622
+      },
+      {
+        "periodo": "2025-Q1",
+        "valor_millones_usd": 2291.655
+      },
+      {
+        "periodo": "2025-Q2",
+        "valor_millones_usd": 2491.7
+      },
+      {
+        "periodo": "2025-Q3",
+        "valor_millones_usd": 2449.016
+      },
+      {
+        "periodo": "2025-Q4",
+        "valor_millones_usd": 2494.495
+      },
+      {
+        "periodo": "2026-Q1",
+        "valor_millones_usd": 2638.962
+      }
+    ],
+    "entre_rios": [
+      {
+        "periodo": "2007-Q1",
+        "valor_millones_usd": 2.859
+      },
+      {
+        "periodo": "2007-Q2",
+        "valor_millones_usd": 3.224
+      },
+      {
+        "periodo": "2007-Q3",
+        "valor_millones_usd": 3.565
+      },
+      {
+        "periodo": "2007-Q4",
+        "valor_millones_usd": 4.277
+      },
+      {
+        "periodo": "2008-Q1",
+        "valor_millones_usd": 3.836
+      },
+      {
+        "periodo": "2008-Q2",
+        "valor_millones_usd": 4.586
+      },
+      {
+        "periodo": "2008-Q3",
+        "valor_millones_usd": 4.757
+      },
+      {
+        "periodo": "2008-Q4",
+        "valor_millones_usd": 5.102
+      },
+      {
+        "periodo": "2009-Q1",
+        "valor_millones_usd": 4.155
+      },
+      {
+        "periodo": "2009-Q2",
+        "valor_millones_usd": 4.587
+      },
+      {
+        "periodo": "2009-Q3",
+        "valor_millones_usd": 4.732
+      },
+      {
+        "periodo": "2009-Q4",
+        "valor_millones_usd": 5.543
+      },
+      {
+        "periodo": "2010-Q1",
+        "valor_millones_usd": 5.201
+      },
+      {
+        "periodo": "2010-Q2",
+        "valor_millones_usd": 7.028
+      },
+      {
+        "periodo": "2010-Q3",
+        "valor_millones_usd": 5.782
+      },
+      {
+        "periodo": "2010-Q4",
+        "valor_millones_usd": 7.41
+      },
+      {
+        "periodo": "2011-Q1",
+        "valor_millones_usd": 7.626
+      },
+      {
+        "periodo": "2011-Q2",
+        "valor_millones_usd": 7.96
+      },
+      {
+        "periodo": "2011-Q3",
+        "valor_millones_usd": 7.956
+      },
+      {
+        "periodo": "2011-Q4",
+        "valor_millones_usd": 11.646
+      },
+      {
+        "periodo": "2012-Q1",
+        "valor_millones_usd": 8.311
+      },
+      {
+        "periodo": "2012-Q2",
+        "valor_millones_usd": 8.348
+      },
+      {
+        "periodo": "2012-Q3",
+        "valor_millones_usd": 8.114
+      },
+      {
+        "periodo": "2012-Q4",
+        "valor_millones_usd": 8.784
+      },
+      {
+        "periodo": "2013-Q1",
+        "valor_millones_usd": 7.271
+      },
+      {
+        "periodo": "2013-Q2",
+        "valor_millones_usd": 8.295
+      },
+      {
+        "periodo": "2013-Q3",
+        "valor_millones_usd": 8.382
+      },
+      {
+        "periodo": "2013-Q4",
+        "valor_millones_usd": 10.145
+      },
+      {
+        "periodo": "2014-Q1",
+        "valor_millones_usd": 6.788
+      },
+      {
+        "periodo": "2014-Q2",
+        "valor_millones_usd": 7.511
+      },
+      {
+        "periodo": "2014-Q3",
+        "valor_millones_usd": 7.642
+      },
+      {
+        "periodo": "2014-Q4",
+        "valor_millones_usd": 9.328
+      },
+      {
+        "periodo": "2015-Q1",
+        "valor_millones_usd": 6.657
+      },
+      {
+        "periodo": "2015-Q2",
+        "valor_millones_usd": 8.095
+      },
+      {
+        "periodo": "2015-Q3",
+        "valor_millones_usd": 8.063
+      },
+      {
+        "periodo": "2015-Q4",
+        "valor_millones_usd": 8.408
+      },
+      {
+        "periodo": "2016-Q1",
+        "valor_millones_usd": 7.66
+      },
+      {
+        "periodo": "2016-Q2",
+        "valor_millones_usd": 8.279
+      },
+      {
+        "periodo": "2016-Q3",
+        "valor_millones_usd": 9.237
+      },
+      {
+        "periodo": "2016-Q4",
+        "valor_millones_usd": 13.016
+      },
+      {
+        "periodo": "2017-Q1",
+        "valor_millones_usd": 9.953
+      },
+      {
+        "periodo": "2017-Q2",
+        "valor_millones_usd": 11.794
+      },
+      {
+        "periodo": "2017-Q3",
+        "valor_millones_usd": 11.84
+      },
+      {
+        "periodo": "2017-Q4",
+        "valor_millones_usd": 14.964
+      },
+      {
+        "periodo": "2018-Q1",
+        "valor_millones_usd": 10.914
+      },
+      {
+        "periodo": "2018-Q2",
+        "valor_millones_usd": 10.493
+      },
+      {
+        "periodo": "2018-Q3",
+        "valor_millones_usd": 8.738
+      },
+      {
+        "periodo": "2018-Q4",
+        "valor_millones_usd": 10.288
+      },
+      {
+        "periodo": "2019-Q1",
+        "valor_millones_usd": 8.333
+      },
+      {
+        "periodo": "2019-Q2",
+        "valor_millones_usd": 8.937
+      },
+      {
+        "periodo": "2019-Q3",
+        "valor_millones_usd": 9.078
+      },
+      {
+        "periodo": "2019-Q4",
+        "valor_millones_usd": 9.529
+      },
+      {
+        "periodo": "2020-Q1",
+        "valor_millones_usd": 8.361
+      },
+      {
+        "periodo": "2020-Q2",
+        "valor_millones_usd": 6.873
+      },
+      {
+        "periodo": "2020-Q3",
+        "valor_millones_usd": 6.823
+      },
+      {
+        "periodo": "2020-Q4",
+        "valor_millones_usd": 8.623
+      },
+      {
+        "periodo": "2021-Q1",
+        "valor_millones_usd": 8.147
+      },
+      {
+        "periodo": "2021-Q2",
+        "valor_millones_usd": 9.102
+      },
+      {
+        "periodo": "2021-Q3",
+        "valor_millones_usd": 9.126
+      },
+      {
+        "periodo": "2021-Q4",
+        "valor_millones_usd": 10.49
+      },
+      {
+        "periodo": "2022-Q1",
+        "valor_millones_usd": 10.038
+      },
+      {
+        "periodo": "2022-Q2",
+        "valor_millones_usd": 9.781
+      },
+      {
+        "periodo": "2022-Q3",
+        "valor_millones_usd": 10.262
+      },
+      {
+        "periodo": "2022-Q4",
+        "valor_millones_usd": 11.722
+      },
+      {
+        "periodo": "2023-Q1",
+        "valor_millones_usd": 10.406
+      },
+      {
+        "periodo": "2023-Q2",
+        "valor_millones_usd": 11.109
+      },
+      {
+        "periodo": "2023-Q3",
+        "valor_millones_usd": 10.636
+      },
+      {
+        "periodo": "2023-Q4",
+        "valor_millones_usd": 11.747
+      },
+      {
+        "periodo": "2024-Q1",
+        "valor_millones_usd": 9.501
+      },
+      {
+        "periodo": "2024-Q2",
+        "valor_millones_usd": 11.172
+      },
+      {
+        "periodo": "2024-Q3",
+        "valor_millones_usd": 13.207
+      },
+      {
+        "periodo": "2024-Q4",
+        "valor_millones_usd": 13.635
+      },
+      {
+        "periodo": "2025-Q1",
+        "valor_millones_usd": 13.187
+      },
+      {
+        "periodo": "2025-Q2",
+        "valor_millones_usd": 14.148
+      },
+      {
+        "periodo": "2025-Q3",
+        "valor_millones_usd": 13.828
+      },
+      {
+        "periodo": "2025-Q4",
+        "valor_millones_usd": 13.981
+      },
+      {
+        "periodo": "2026-Q1",
+        "valor_millones_usd": 14.415
+      }
+    ],
+    "cordoba": [
+      {
+        "periodo": "2007-Q1",
+        "valor_millones_usd": 41.272
+      },
+      {
+        "periodo": "2007-Q2",
+        "valor_millones_usd": 49.457
+      },
+      {
+        "periodo": "2007-Q3",
+        "valor_millones_usd": 56.148
+      },
+      {
+        "periodo": "2007-Q4",
+        "valor_millones_usd": 64.926
+      },
+      {
+        "periodo": "2008-Q1",
+        "valor_millones_usd": 58.897
+      },
+      {
+        "periodo": "2008-Q2",
+        "valor_millones_usd": 72.313
+      },
+      {
+        "periodo": "2008-Q3",
+        "valor_millones_usd": 74.041
+      },
+      {
+        "periodo": "2008-Q4",
+        "valor_millones_usd": 77.226
+      },
+      {
+        "periodo": "2009-Q1",
+        "valor_millones_usd": 67.767
+      },
+      {
+        "periodo": "2009-Q2",
+        "valor_millones_usd": 69.024
+      },
+      {
+        "periodo": "2009-Q3",
+        "valor_millones_usd": 71.954
+      },
+      {
+        "periodo": "2009-Q4",
+        "valor_millones_usd": 78.11
+      },
+      {
+        "periodo": "2010-Q1",
+        "valor_millones_usd": 64.097
+      },
+      {
+        "periodo": "2010-Q2",
+        "valor_millones_usd": 85.985
+      },
+      {
+        "periodo": "2010-Q3",
+        "valor_millones_usd": 71.237
+      },
+      {
+        "periodo": "2010-Q4",
+        "valor_millones_usd": 90.489
+      },
+      {
+        "periodo": "2011-Q1",
+        "valor_millones_usd": 76.216
+      },
+      {
+        "periodo": "2011-Q2",
+        "valor_millones_usd": 91.182
+      },
+      {
+        "periodo": "2011-Q3",
+        "valor_millones_usd": 86.972
+      },
+      {
+        "periodo": "2011-Q4",
+        "valor_millones_usd": 121.605
+      },
+      {
+        "periodo": "2012-Q1",
+        "valor_millones_usd": 95.962
+      },
+      {
+        "periodo": "2012-Q2",
+        "valor_millones_usd": 97.492
+      },
+      {
+        "periodo": "2012-Q3",
+        "valor_millones_usd": 94.677
+      },
+      {
+        "periodo": "2012-Q4",
+        "valor_millones_usd": 107.698
+      },
+      {
+        "periodo": "2013-Q1",
+        "valor_millones_usd": 82.781
+      },
+      {
+        "periodo": "2013-Q2",
+        "valor_millones_usd": 95.359
+      },
+      {
+        "periodo": "2013-Q3",
+        "valor_millones_usd": 94.347
+      },
+      {
+        "periodo": "2013-Q4",
+        "valor_millones_usd": 116.355
+      },
+      {
+        "periodo": "2014-Q1",
+        "valor_millones_usd": 79.967
+      },
+      {
+        "periodo": "2014-Q2",
+        "valor_millones_usd": 89.917
+      },
+      {
+        "periodo": "2014-Q3",
+        "valor_millones_usd": 92.477
+      },
+      {
+        "periodo": "2014-Q4",
+        "valor_millones_usd": 104.949
+      },
+      {
+        "periodo": "2015-Q1",
+        "valor_millones_usd": 76.461
+      },
+      {
+        "periodo": "2015-Q2",
+        "valor_millones_usd": 95.645
+      },
+      {
+        "periodo": "2015-Q3",
+        "valor_millones_usd": 95.489
+      },
+      {
+        "periodo": "2015-Q4",
+        "valor_millones_usd": 99.218
+      },
+      {
+        "periodo": "2016-Q1",
+        "valor_millones_usd": 88.898
+      },
+      {
+        "periodo": "2016-Q2",
+        "valor_millones_usd": 96.434
+      },
+      {
+        "periodo": "2016-Q3",
+        "valor_millones_usd": 97.575
+      },
+      {
+        "periodo": "2016-Q4",
+        "valor_millones_usd": 114.43
+      },
+      {
+        "periodo": "2017-Q1",
+        "valor_millones_usd": 121.419
+      },
+      {
+        "periodo": "2017-Q2",
+        "valor_millones_usd": 147.975
+      },
+      {
+        "periodo": "2017-Q3",
+        "valor_millones_usd": 134.102
+      },
+      {
+        "periodo": "2017-Q4",
+        "valor_millones_usd": 147.181
+      },
+      {
+        "periodo": "2018-Q1",
+        "valor_millones_usd": 136.46
+      },
+      {
+        "periodo": "2018-Q2",
+        "valor_millones_usd": 133.573
+      },
+      {
+        "periodo": "2018-Q3",
+        "valor_millones_usd": 110.544
+      },
+      {
+        "periodo": "2018-Q4",
+        "valor_millones_usd": 128.733
+      },
+      {
+        "periodo": "2019-Q1",
+        "valor_millones_usd": 109.963
+      },
+      {
+        "periodo": "2019-Q2",
+        "valor_millones_usd": 117.971
+      },
+      {
+        "periodo": "2019-Q3",
+        "valor_millones_usd": 124.027
+      },
+      {
+        "periodo": "2019-Q4",
+        "valor_millones_usd": 129.409
+      },
+      {
+        "periodo": "2020-Q1",
+        "valor_millones_usd": 115.147
+      },
+      {
+        "periodo": "2020-Q2",
+        "valor_millones_usd": 96.594
+      },
+      {
+        "periodo": "2020-Q3",
+        "valor_millones_usd": 95.97
+      },
+      {
+        "periodo": "2020-Q4",
+        "valor_millones_usd": 117.26
+      },
+      {
+        "periodo": "2021-Q1",
+        "valor_millones_usd": 108.096
+      },
+      {
+        "periodo": "2021-Q2",
+        "valor_millones_usd": 120.436
+      },
+      {
+        "periodo": "2021-Q3",
+        "valor_millones_usd": 129.077
+      },
+      {
+        "periodo": "2021-Q4",
+        "valor_millones_usd": 145.676
+      },
+      {
+        "periodo": "2022-Q1",
+        "valor_millones_usd": 141.524
+      },
+      {
+        "periodo": "2022-Q2",
+        "valor_millones_usd": 141.418
+      },
+      {
+        "periodo": "2022-Q3",
+        "valor_millones_usd": 147.512
+      },
+      {
+        "periodo": "2022-Q4",
+        "valor_millones_usd": 164.917
+      },
+      {
+        "periodo": "2023-Q1",
+        "valor_millones_usd": 146.928
+      },
+      {
+        "periodo": "2023-Q2",
+        "valor_millones_usd": 155.985
+      },
+      {
+        "periodo": "2023-Q3",
+        "valor_millones_usd": 150.41
+      },
+      {
+        "periodo": "2023-Q4",
+        "valor_millones_usd": 163.373
+      },
+      {
+        "periodo": "2024-Q1",
+        "valor_millones_usd": 129.248
+      },
+      {
+        "periodo": "2024-Q2",
+        "valor_millones_usd": 154.424
+      },
+      {
+        "periodo": "2024-Q3",
+        "valor_millones_usd": 179.667
+      },
+      {
+        "periodo": "2024-Q4",
+        "valor_millones_usd": 184.514
+      },
+      {
+        "periodo": "2025-Q1",
+        "valor_millones_usd": 178.746
+      },
+      {
+        "periodo": "2025-Q2",
+        "valor_millones_usd": 192.463
+      },
+      {
+        "periodo": "2025-Q3",
+        "valor_millones_usd": 188.213
+      },
+      {
+        "periodo": "2025-Q4",
+        "valor_millones_usd": 191.308
+      },
+      {
+        "periodo": "2026-Q1",
+        "valor_millones_usd": 200.429
+      }
+    ],
+    "santa_fe": [
+      {
+        "periodo": "2007-Q1",
+        "valor_millones_usd": 25.072
+      },
+      {
+        "periodo": "2007-Q2",
+        "valor_millones_usd": 30.387
+      },
+      {
+        "periodo": "2007-Q3",
+        "valor_millones_usd": 32.714
+      },
+      {
+        "periodo": "2007-Q4",
+        "valor_millones_usd": 34.832
+      },
+      {
+        "periodo": "2008-Q1",
+        "valor_millones_usd": 31.489
+      },
+      {
+        "periodo": "2008-Q2",
+        "valor_millones_usd": 39.432
+      },
+      {
+        "periodo": "2008-Q3",
+        "valor_millones_usd": 42.829
+      },
+      {
+        "periodo": "2008-Q4",
+        "valor_millones_usd": 48.371
+      },
+      {
+        "periodo": "2009-Q1",
+        "valor_millones_usd": 38.526
+      },
+      {
+        "periodo": "2009-Q2",
+        "valor_millones_usd": 42.554
+      },
+      {
+        "periodo": "2009-Q3",
+        "valor_millones_usd": 41.5
+      },
+      {
+        "periodo": "2009-Q4",
+        "valor_millones_usd": 48.451
+      },
+      {
+        "periodo": "2010-Q1",
+        "valor_millones_usd": 41.04
+      },
+      {
+        "periodo": "2010-Q2",
+        "valor_millones_usd": 54.913
+      },
+      {
+        "periodo": "2010-Q3",
+        "valor_millones_usd": 47.044
+      },
+      {
+        "periodo": "2010-Q4",
+        "valor_millones_usd": 59.761
+      },
+      {
+        "periodo": "2011-Q1",
+        "valor_millones_usd": 53.046
+      },
+      {
+        "periodo": "2011-Q2",
+        "valor_millones_usd": 62.802
+      },
+      {
+        "periodo": "2011-Q3",
+        "valor_millones_usd": 60.371
+      },
+      {
+        "periodo": "2011-Q4",
+        "valor_millones_usd": 83.425
+      },
+      {
+        "periodo": "2012-Q1",
+        "valor_millones_usd": 65.095
+      },
+      {
+        "periodo": "2012-Q2",
+        "valor_millones_usd": 64.253
+      },
+      {
+        "periodo": "2012-Q3",
+        "valor_millones_usd": 62.783
+      },
+      {
+        "periodo": "2012-Q4",
+        "valor_millones_usd": 74.539
+      },
+      {
+        "periodo": "2013-Q1",
+        "valor_millones_usd": 58.055
+      },
+      {
+        "periodo": "2013-Q2",
+        "valor_millones_usd": 67.275
+      },
+      {
+        "periodo": "2013-Q3",
+        "valor_millones_usd": 66.59
+      },
+      {
+        "periodo": "2013-Q4",
+        "valor_millones_usd": 83.069
+      },
+      {
+        "periodo": "2014-Q1",
+        "valor_millones_usd": 52.914
+      },
+      {
+        "periodo": "2014-Q2",
+        "valor_millones_usd": 59.749
+      },
+      {
+        "periodo": "2014-Q3",
+        "valor_millones_usd": 61.641
+      },
+      {
+        "periodo": "2014-Q4",
+        "valor_millones_usd": 70.412
+      },
+      {
+        "periodo": "2015-Q1",
+        "valor_millones_usd": 54.508
+      },
+      {
+        "periodo": "2015-Q2",
+        "valor_millones_usd": 65.798
+      },
+      {
+        "periodo": "2015-Q3",
+        "valor_millones_usd": 66.612
+      },
+      {
+        "periodo": "2015-Q4",
+        "valor_millones_usd": 69.703
+      },
+      {
+        "periodo": "2016-Q1",
+        "valor_millones_usd": 62.519
+      },
+      {
+        "periodo": "2016-Q2",
+        "valor_millones_usd": 67.785
+      },
+      {
+        "periodo": "2016-Q3",
+        "valor_millones_usd": 65.347
+      },
+      {
+        "periodo": "2016-Q4",
+        "valor_millones_usd": 78.436
+      },
+      {
+        "periodo": "2017-Q1",
+        "valor_millones_usd": 78.693
+      },
+      {
+        "periodo": "2017-Q2",
+        "valor_millones_usd": 94.242
+      },
+      {
+        "periodo": "2017-Q3",
+        "valor_millones_usd": 86.227
+      },
+      {
+        "periodo": "2017-Q4",
+        "valor_millones_usd": 95.933
+      },
+      {
+        "periodo": "2018-Q1",
+        "valor_millones_usd": 95.882
+      },
+      {
+        "periodo": "2018-Q2",
+        "valor_millones_usd": 94.344
+      },
+      {
+        "periodo": "2018-Q3",
+        "valor_millones_usd": 78.752
+      },
+      {
+        "periodo": "2018-Q4",
+        "valor_millones_usd": 93.012
+      },
+      {
+        "periodo": "2019-Q1",
+        "valor_millones_usd": 79.143
+      },
+      {
+        "periodo": "2019-Q2",
+        "valor_millones_usd": 82.488
+      },
+      {
+        "periodo": "2019-Q3",
+        "valor_millones_usd": 84.873
+      },
+      {
+        "periodo": "2019-Q4",
+        "valor_millones_usd": 89.352
+      },
+      {
+        "periodo": "2020-Q1",
+        "valor_millones_usd": 79.802
+      },
+      {
+        "periodo": "2020-Q2",
+        "valor_millones_usd": 66.0
+      },
+      {
+        "periodo": "2020-Q3",
+        "valor_millones_usd": 64.65
+      },
+      {
+        "periodo": "2020-Q4",
+        "valor_millones_usd": 79.205
+      },
+      {
+        "periodo": "2021-Q1",
+        "valor_millones_usd": 75.54
+      },
+      {
+        "periodo": "2021-Q2",
+        "valor_millones_usd": 84.972
+      },
+      {
+        "periodo": "2021-Q3",
+        "valor_millones_usd": 89.132
+      },
+      {
+        "periodo": "2021-Q4",
+        "valor_millones_usd": 100.964
+      },
+      {
+        "periodo": "2022-Q1",
+        "valor_millones_usd": 101.896
+      },
+      {
+        "periodo": "2022-Q2",
+        "valor_millones_usd": 97.661
+      },
+      {
+        "periodo": "2022-Q3",
+        "valor_millones_usd": 101.447
+      },
+      {
+        "periodo": "2022-Q4",
+        "valor_millones_usd": 111.031
+      },
+      {
+        "periodo": "2023-Q1",
+        "valor_millones_usd": 99.155
+      },
+      {
+        "periodo": "2023-Q2",
+        "valor_millones_usd": 104.399
+      },
+      {
+        "periodo": "2023-Q3",
+        "valor_millones_usd": 99.884
+      },
+      {
+        "periodo": "2023-Q4",
+        "valor_millones_usd": 107.384
+      },
+      {
+        "periodo": "2024-Q1",
+        "valor_millones_usd": 83.205
+      },
+      {
+        "periodo": "2024-Q2",
+        "valor_millones_usd": 98.743
+      },
+      {
+        "periodo": "2024-Q3",
+        "valor_millones_usd": 116.158
+      },
+      {
+        "periodo": "2024-Q4",
+        "valor_millones_usd": 119.187
+      },
+      {
+        "periodo": "2025-Q1",
+        "valor_millones_usd": 117.244
+      },
+      {
+        "periodo": "2025-Q2",
+        "valor_millones_usd": 129.964
+      },
+      {
+        "periodo": "2025-Q3",
+        "valor_millones_usd": 128.972
+      },
+      {
+        "periodo": "2025-Q4",
+        "valor_millones_usd": 130.533
+      },
+      {
+        "periodo": "2026-Q1",
+        "valor_millones_usd": 139.039
+      }
+    ]
+  }
+}
