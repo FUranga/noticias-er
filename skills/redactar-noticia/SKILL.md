@@ -1,11 +1,11 @@
 ---
 name: redactar-noticia
-description: Reescribe un comunicado de prensa u otra información de origen (gobierno provincial, Municipalidad de Paraná, Legislatura, Concejo Deliberante, cámaras empresarias, sindicatos, ONGs, universidades) como una noticia corta en estilo Bloomberg/WSJ para [NOMBRE DEL MEDIO]. Se usa DESPUÉS de que el editor ya decidió que el comunicado es noticiable — esta skill no decide qué publicar, solo reescribe lo que ya fue seleccionado. Usar cuando el usuario pega un comunicado, un link, o pide "redactar esto como noticia" / "convertir este comunicado en nota".
+description: Reescribe un comunicado de prensa u otra información de origen (gobierno provincial, Municipalidad de Paraná, Legislatura, Concejo Deliberante, cámaras empresarias, sindicatos, ONGs, universidades) como una noticia corta en estilo Bloomberg/WSJ para Agencia Entrerriana. Se usa DESPUÉS de que el editor ya decidió que el comunicado es noticiable — esta skill no decide qué publicar, solo reescribe lo que ya fue seleccionado. Usar cuando el usuario pega un comunicado, un link, o pide "redactar esto como noticia" / "convertir este comunicado en nota".
 ---
 
 # Redactar noticia a partir de un comunicado
 
-Contexto del proyecto: `[NOMBRE DEL MEDIO]` cubre política y economía institucional de Paraná/Entre Ríos, con foco inicial en desarrollo económico (ver `docs/vision-y-etapas.md`). Funciona como una agencia: el editor (Francisco Uranga) elige qué comunicados son noticiables; esta skill toma esa elección y la convierte en una nota lista para revisión editorial, no en un post publicado — el resultado siempre es un borrador para que el editor revise antes de publicar.
+Contexto del proyecto: `Agencia Entrerriana` cubre política y economía institucional de Paraná/Entre Ríos, con foco inicial en desarrollo económico (ver `docs/vision-y-etapas.md`). Funciona como una agencia: el editor (Francisco Uranga) elige qué comunicados son noticiables; esta skill toma esa elección y la convierte en una nota lista para revisión editorial, no en un post publicado — el resultado siempre es un borrador para que el editor revise antes de publicar.
 
 Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este documento no las repite — las aplica.
 

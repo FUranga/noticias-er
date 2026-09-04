@@ -1,6 +1,6 @@
 # Mapa de fuentes
 
-Registro de organismos y organizaciones a monitorear para la cobertura reactiva de `[NOMBRE DEL MEDIO]` (ver `docs/vision-y-etapas.md`). Mantenido con la skill `mapear-fuentes`.
+Registro de organismos y organizaciones a monitorear para la cobertura reactiva de `Agencia Entrerriana` (ver `docs/vision-y-etapas.md`). Mantenido con la skill `mapear-fuentes`.
 
 **Estado de esta primera versión**: armada con una pasada de búsqueda web puntual (no un relevamiento exhaustivo). Las URLs marcadas "confirmado por búsqueda" resolvieron en la búsqueda pero no fueron verificadas ítem por ítem con WebFetch (RSS, estructura de la sección de prensa). Todo lo marcado "no confirmado" necesita trabajo manual o una pasada de `mapear-fuentes`. Priorizar desarrollo económico/producción dentro de cada organismo, por el foco inicial del proyecto.
 

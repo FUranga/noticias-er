@@ -4,7 +4,7 @@ Contexto para trabajar en este repo con Claude Code.
 
 ## Qué es este proyecto
 
-`[NOMBRE DEL MEDIO]` (nombre todavía provisorio, ver README) es un medio digital en formación para cubrir política y economía institucional de Paraná y Entre Ríos, proyecto de la Fundación para el Desarrollo Entrerriano, editado por Francisco Uranga. Funciona con lógica de agencia: monitorea comunicados de organismos y organizaciones, el editor decide qué es noticiable, un agente de IA lo reescribe en estilo Bloomberg/WSJ, el editor revisa y publica. Contexto completo en `README.md` y `docs/vision-y-etapas.md`.
+`Agencia Entrerriana` (nombre todavía provisorio, ver README) es un medio digital en formación para cubrir política y economía institucional de Paraná y Entre Ríos, proyecto de la Fundación para el Desarrollo Entrerriano, editado por Francisco Uranga. Funciona con lógica de agencia: monitorea comunicados de organismos y organizaciones, el editor decide qué es noticiable, un agente de IA lo reescribe en estilo Bloomberg/WSJ, el editor revisa y publica. Contexto completo en `README.md` y `docs/vision-y-etapas.md`.
 
 Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fundación (`desarrolloentrerriano.org`, theme Kadence) construido de punta a punta — ver `docs/sitio-fundacion.md`; pipeline de publicación y cablera (`admin/` + `data/backlog.json`) funcionando de punta a punta pero sin ítems reales cargados todavía; frontend público del medio (Next.js/Vercel) todavía no arrancado. Ver README para el detalle actualizado.
 

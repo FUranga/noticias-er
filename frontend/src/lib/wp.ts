@@ -12,6 +12,7 @@ export type WpPost = {
   id: number;
   slug: string;
   date: string;
+  sticky: boolean;
   title: { rendered: string };
   excerpt: { rendered: string };
   content: { rendered: string };
@@ -35,6 +36,20 @@ async function wpFetch<T>(path: string): Promise<T> {
 
 export async function getPosts(perPage = 10): Promise<WpPost[]> {
   return wpFetch<WpPost[]>(`/posts?per_page=${perPage}&_embed`);
+}
+
+/**
+ * Trae los posts para la portada, con la nota "fijada" (sticky, marcada por
+ * el editor desde WordPress) primero -- sin depender de que sea la mas
+ * reciente. Si no hay ninguna fijada, la mas reciente hace de lead.
+ */
+export async function getPostsParaPortada(perPage = 20): Promise<WpPost[]> {
+  const [fijados, recientes] = await Promise.all([
+    wpFetch<WpPost[]>(`/posts?sticky=true&per_page=5&_embed`),
+    wpFetch<WpPost[]>(`/posts?per_page=${perPage}&_embed`),
+  ]);
+  const idsFijados = new Set(fijados.map((p) => p.id));
+  return [...fijados, ...recientes.filter((p) => !idsFijados.has(p.id))];
 }
 
 export async function getPostBySlug(slug: string): Promise<WpPost | null> {

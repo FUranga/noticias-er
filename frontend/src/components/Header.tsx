@@ -19,15 +19,15 @@ export function Header() {
       </div>
       <div className="px-4 py-8 text-center sm:px-8">
         <Link href="/" className="block">
-          <span className="font-serif text-4xl font-bold tracking-tight sm:text-5xl">
-            [NOMBRE DEL MEDIO]
+          <span className="font-headline text-4xl font-bold tracking-tight sm:text-5xl">
+            Agencia Entrerriana
           </span>
         </Link>
         <p className="font-ui mt-2 text-xs uppercase tracking-[0.2em] text-neutral-500">
-          Política y economía de Paraná y Entre Ríos
+          Noticias de Paraná y la provincia
         </p>
       </div>
-      <div className="border-y border-double border-neutral-800" style={{ borderTopWidth: 4, borderBottomWidth: 1 }} />
+      <div className="border-b-2 border-neutral-900" />
     </header>
   );
 }

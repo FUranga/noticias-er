@@ -2,7 +2,7 @@
 
 Este documento describe el estado y las decisiones detrás del sitio de FUNDER, construido sobre
 WordPress + theme Kadence, hosteado en Hostinger (São Paulo). Es un WordPress "normal" con theme —
-a diferencia del WordPress del medio (`[NOMBRE DEL MEDIO]`), que es headless puertas adentro (ver
+a diferencia del WordPress del medio (`Agencia Entrerriana`), que es headless puertas adentro (ver
 `arquitectura-tecnica.md`). Complementa a `checklist-sitio-fundacion.md` (qué falta) — acá va el *por
 qué* y el *cómo* de lo que ya está hecho.
 

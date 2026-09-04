@@ -15,6 +15,7 @@
   --color-muted: var(--muted);
   --color-accent: var(--accent);
   --font-serif: var(--font-serif);
+  --font-headline: var(--font-headline);
   --font-sans: var(--font-sans);
 }
 

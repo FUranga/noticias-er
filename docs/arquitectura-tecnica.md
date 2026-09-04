@@ -60,6 +60,12 @@ Anotado para evaluar más adelante, no para implementar ahora: además de automa
 
 No es "entrenar un modelo" (no hay fine-tuning) — es afinar por escrito, con el uso real, los criterios que ya hoy `evaluar-comunicado` usa para sugerir. La distinción importante para cuando se evalúe esto: **automatizar hasta "borrador listo en WordPress" es razonable y de bajo riesgo** (un error de más es una nota de más para revisar); **automatizar qué queda realmente en vivo en el sitio sin revisión humana es una decisión de otro nivel** — el costo de un error ahí no es "trabajo de revisión de más", es algo mal publicado con la marca del medio. Recomendación cuando se llegue a este punto: mantener el clic final de publicar en manos humanas incluso con triage y redacción 100% automatizados, y decidir soltarlo (si alguna vez tiene sentido) con datos reales de tasa de acierto, no de entrada.
 
+## Arquitectura de contenido del frontend (2026-09-04)
+
+- **Home**: con control editorial humano, no cronología pura. Implementado con el "sticky post" nativo de WordPress — el editor marca la nota principal desde el checkbox de "fijar" en el editor de WP, sin tocar código. Si no hay ninguna fijada, cae a la más reciente.
+- **Categorías y demás páginas de listado**: la idea por defecto es que sean cronológicas (no curadas a mano como la home) — todavía no implementadas.
+- **Pendiente de pensar más adelante**: posibles "subportadas" por tema/categoría con su propia curación (no solo un listado cronológico), y si conviene automatizar parcialmente la home usando categorías (ej. "la última de cada categoría principal" como fallback) en vez de depender 100% del sticky manual. No implementar hasta que haya más categorías reales en uso.
+
 ## Decidido
 - **Hosting**: Hostinger (datacenter São Paulo), una sola cuenta para ambos WordPress (el del medio y el de la Fundación) — más barato que dos cuentas separadas y suficiente para el tráfico esperado en esta etapa.
 - **Sitio de la Fundación** (`desarrolloentrerriano.org`): WordPress + theme Kadence, construido de punta a punta. Detalle en `docs/sitio-fundacion.md`.

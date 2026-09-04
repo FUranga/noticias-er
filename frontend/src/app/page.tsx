@@ -1,16 +1,76 @@
 import Link from "next/link";
 import { Header } from "@/components/Header";
-import { getPosts, featuredImageUrl, categoryName } from "@/lib/wp";
+import { getPostsParaPortada, featuredImageUrl, categoryName, type WpPost } from "@/lib/wp";
 import { formatFecha } from "@/lib/format";
 
+function ItemTexto({ post }: { post: WpPost }) {
+  return (
+    <li className="border-t border-neutral-300 pt-3 first:border-t-0 first:pt-0">
+      <Link href={`/nota/${post.slug}`} className="group block">
+        {categoryName(post) && <p className="kicker mb-1">{categoryName(post)}</p>}
+        <h3
+          className="font-headline text-base font-bold leading-snug group-hover:underline"
+          dangerouslySetInnerHTML={{ __html: post.title.rendered }}
+        />
+        <p className="byline mt-1">{formatFecha(post.date)}</p>
+      </Link>
+    </li>
+  );
+}
+
+function ItemConMiniatura({ post }: { post: WpPost }) {
+  const imagen = featuredImageUrl(post);
+  return (
+    <li className="border-t border-neutral-300 pt-3 first:border-t-0 first:pt-0">
+      <Link href={`/nota/${post.slug}`} className="group flex gap-3">
+        {imagen && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src={imagen} alt="" className="h-16 w-20 shrink-0 object-cover" />
+        )}
+        <div>
+          {categoryName(post) && <p className="kicker mb-1">{categoryName(post)}</p>}
+          <h3
+            className="font-headline text-base font-bold leading-snug group-hover:underline"
+            dangerouslySetInnerHTML={{ __html: post.title.rendered }}
+          />
+          <p className="byline mt-1">{formatFecha(post.date)}</p>
+        </div>
+      </Link>
+    </li>
+  );
+}
+
+function TarjetaGrilla({ post }: { post: WpPost }) {
+  const imagen = featuredImageUrl(post);
+  return (
+    <li className="border-t border-neutral-300 pt-4">
+      <Link href={`/nota/${post.slug}`} className="group block">
+        {imagen && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src={imagen} alt="" className="mb-3 aspect-[16/10] w-full object-cover" />
+        )}
+        {categoryName(post) && <p className="kicker mb-1.5">{categoryName(post)}</p>}
+        <h3
+          className="font-headline text-lg font-bold leading-tight group-hover:underline"
+          dangerouslySetInnerHTML={{ __html: post.title.rendered }}
+        />
+        <p className="byline mt-1.5">{formatFecha(post.date)}</p>
+      </Link>
+    </li>
+  );
+}
+
 export default async function HomePage() {
-  const posts = await getPosts(20);
-  const [lead, ...resto] = posts;
+  const posts = await getPostsParaPortada();
+  const lead = posts[0];
+  const columnaIzq = posts.slice(1, 4);
+  const columnaDer = posts.slice(4, 7);
+  const grilla = posts.slice(7, 15);
 
   return (
     <>
       <Header />
-      <main className="mx-auto w-full max-w-5xl flex-1 px-4 py-10 sm:px-8">
+      <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-8">
         {!lead && (
           <p className="font-ui py-16 text-center text-neutral-500">
             Todavía no hay notas publicadas.
@@ -18,65 +78,60 @@ export default async function HomePage() {
         )}
 
         {lead && (
-          <article className="border-b border-neutral-300 pb-10">
-            <Link href={`/nota/${lead.slug}`} className="group block">
-              {(() => {
-                const imagen = featuredImageUrl(lead);
-                return imagen ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={imagen}
-                    alt=""
-                    className="mb-5 aspect-[16/9] w-full object-cover"
-                  />
-                ) : null;
-              })()}
-              <div className="mx-auto max-w-3xl text-center">
+          <div className="grid grid-cols-1 gap-x-8 gap-y-10 lg:grid-cols-[1fr_1.7fr_1fr]">
+            <ul>
+              {columnaIzq.map((post) => (
+                <ItemTexto key={post.id} post={post} />
+              ))}
+            </ul>
+
+            <article className="lg:border-x lg:border-neutral-300 lg:px-8">
+              <Link href={`/nota/${lead.slug}`} className="group block">
+                {(() => {
+                  const imagen = featuredImageUrl(lead);
+                  return imagen ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={imagen}
+                      alt=""
+                      className="mb-5 aspect-[16/10] w-full object-cover"
+                    />
+                  ) : null;
+                })()}
                 {categoryName(lead) && <p className="kicker mb-2">{categoryName(lead)}</p>}
                 <h1
-                  className="font-serif text-4xl font-bold leading-[1.08] group-hover:underline sm:text-5xl"
+                  className="font-headline text-3xl font-bold leading-[1.08] group-hover:underline sm:text-4xl"
                   dangerouslySetInnerHTML={{ __html: lead.title.rendered }}
                 />
                 <div
-                  className="mt-4 text-lg leading-snug text-neutral-700 [&_p]:m-0"
+                  className="mt-3 text-base leading-snug text-neutral-700 [&_p]:m-0"
                   dangerouslySetInnerHTML={{ __html: lead.excerpt.rendered }}
                 />
-                <p className="byline mt-4">{formatFecha(lead.date)}</p>
-              </div>
-            </Link>
-          </article>
+                <p className="byline mt-3">{formatFecha(lead.date)}</p>
+              </Link>
+            </article>
+
+            <ul>
+              {columnaDer.map((post) => (
+                <ItemConMiniatura key={post.id} post={post} />
+              ))}
+            </ul>
+          </div>
         )}
 
-        {resto.length > 0 && (
-          <ul className="mt-10 grid grid-cols-1 gap-x-10 gap-y-10 sm:grid-cols-2 lg:grid-cols-3">
-            {resto.map((post) => {
-              const imagen = featuredImageUrl(post);
-              return (
-                <li key={post.id} className="border-t border-neutral-300 pt-5">
-                  <Link href={`/nota/${post.slug}`} className="group block">
-                    {imagen && (
-                      // eslint-disable-next-line @next/next/no-img-element
-                      <img
-                        src={imagen}
-                        alt=""
-                        className="mb-3 aspect-[16/10] w-full object-cover"
-                      />
-                    )}
-                    {categoryName(post) && <p className="kicker mb-1.5">{categoryName(post)}</p>}
-                    <h2
-                      className="font-serif text-xl font-bold leading-tight group-hover:underline"
-                      dangerouslySetInnerHTML={{ __html: post.title.rendered }}
-                    />
-                    <p className="byline mt-2">{formatFecha(post.date)}</p>
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
+        {grilla.length > 0 && (
+          <>
+            <p className="kicker mt-12 border-t-2 border-neutral-900 pt-2">Más noticias</p>
+            <ul className="mt-2 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-3 lg:grid-cols-4">
+              {grilla.map((post) => (
+                <TarjetaGrilla key={post.id} post={post} />
+              ))}
+            </ul>
+          </>
         )}
       </main>
       <footer className="font-ui border-t border-neutral-300 px-4 py-6 text-center text-xs text-neutral-500 sm:px-8">
-        [NOMBRE DEL MEDIO] — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
+        Agencia Entrerriana — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
       </footer>
     </>
   );

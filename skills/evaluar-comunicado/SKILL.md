@@ -5,7 +5,7 @@ description: Resume uno o varios comunicados/novedades entrantes (de gobierno, L
 
 # Evaluar comunicados para triage editorial
 
-Contexto: `[NOMBRE DEL MEDIO]` funciona como una agencia (ver `docs/vision-y-etapas.md`) — recibe comunicados de muchas fuentes y el editor tiene que decidir rápido cuáles reescribir. Con volumen (varios comunicados por día de distintos organismos), leer cada uno entero para decidir es lento. Esta skill arma un resumen de triage: no reescribe la noticia, ayuda a decidir si vale la pena reescribirla.
+Contexto: `Agencia Entrerriana` funciona como una agencia (ver `docs/vision-y-etapas.md`) — recibe comunicados de muchas fuentes y el editor tiene que decidir rápido cuáles reescribir. Con volumen (varios comunicados por día de distintos organismos), leer cada uno entero para decidir es lento. Esta skill arma un resumen de triage: no reescribe la noticia, ayuda a decidir si vale la pena reescribirla.
 
 **Esta skill no reemplaza el criterio editorial.** Da un resumen y una observación, nunca una decisión tomada — el formato de salida siempre deja la decisión al usuario.
 

@@ -1,8 +1,8 @@
-# [NOMBRE DEL MEDIO] (nombre provisorio)
+# Agencia Entrerriana (nombre provisorio)
 
 Un medio digital para cubrir la política y la economía de Paraná y Entre Ríos. Proyecto editorial de la **Fundación para el Desarrollo Entrerriano**, dirigido por **Francisco Uranga**.
 
-> El nombre es lo único que todavía no está definido a propósito — elegirlo es parte del trabajo, no un detalle pendiente. Este documento y el resto del repo usan `[NOMBRE DEL MEDIO]` como placeholder hasta entonces.
+> El nombre es lo único que todavía no está definido a propósito — elegirlo es parte del trabajo, no un detalle pendiente. Este documento y el resto del repo usan `Agencia Entrerriana` como placeholder hasta entonces.
 
 ## El diagnóstico
 

@@ -2,7 +2,7 @@
 
 Scripts de mantenimiento para el sitio institucional de la Fundación (`desarrolloentrerriano.org`,
 WordPress + theme Kadence). Esto es *distinto* del `pipeline/` de la raíz del repo, que es del
-WordPress del medio (`[NOMBRE DEL MEDIO]`) — son dos WordPress separados, dos `.env` separados.
+WordPress del medio (`Agencia Entrerriana`) — son dos WordPress separados, dos `.env` separados.
 
 Contexto completo del sitio (estructura, decisiones de contenido, gotchas) en
 [`../docs/sitio-fundacion.md`](../docs/sitio-fundacion.md). Pendientes en

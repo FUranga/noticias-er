@@ -1,11 +1,11 @@
 ---
 name: mapear-fuentes
-description: Investiga y agrega organismos/organizaciones nuevas al mapa de fuentes de [NOMBRE DEL MEDIO] (docs/fuentes.md) — gobierno provincial, Legislatura, Municipalidad de Paraná, Concejo Deliberante, cámaras empresarias, sindicatos, ONGs, universidades, medios locales. También audita periódicamente el listado existente para detectar links caídos o portales que cambiaron. Usar cuando el usuario menciona una organización que no está en el listado y pide sumarla, o pide "revisar que las fuentes sigan vigentes".
+description: Investiga y agrega organismos/organizaciones nuevas al mapa de fuentes de Agencia Entrerriana (docs/fuentes.md) — gobierno provincial, Legislatura, Municipalidad de Paraná, Concejo Deliberante, cámaras empresarias, sindicatos, ONGs, universidades, medios locales. También audita periódicamente el listado existente para detectar links caídos o portales que cambiaron. Usar cuando el usuario menciona una organización que no está en el listado y pide sumarla, o pide "revisar que las fuentes sigan vigentes".
 ---
 
 # Mapear y mantener el listado de fuentes
 
-Contexto: `docs/fuentes.md` es el registro de organismos y organizaciones a monitorear para la cobertura reactiva de `[NOMBRE DEL MEDIO]` (ver `docs/vision-y-etapas.md`). Es la base de la que se alimenta el triage editorial (`evaluar-comunicado`) — si una fuente relevante no está mapeada, sus comunicados directamente no entran al flujo.
+Contexto: `docs/fuentes.md` es el registro de organismos y organizaciones a monitorear para la cobertura reactiva de `Agencia Entrerriana` (ver `docs/vision-y-etapas.md`). Es la base de la que se alimenta el triage editorial (`evaluar-comunicado`) — si una fuente relevante no está mapeada, sus comunicados directamente no entran al flujo.
 
 ## Agregar una fuente nueva
 

@@ -49,7 +49,7 @@ export default async function NotaPage({ params }: Props) {
         </article>
       </main>
       <footer className="font-ui border-t border-neutral-300 px-4 py-6 text-center text-xs text-neutral-500 sm:px-8">
-        [NOMBRE DEL MEDIO] — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
+        Agencia Entrerriana — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
       </footer>
     </>
   );
