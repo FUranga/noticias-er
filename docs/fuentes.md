@@ -23,10 +23,12 @@ Registro de organismos y organizaciones a monitorear para la cobertura reactiva 
 
 ## Legislatura de Entre Ríos
 
-- **Cámara de Diputados** — https://www.hcder.gov.ar/ (confirmado por búsqueda; tiene sección de prensa según la propia búsqueda).
+- **Cámara de Diputados** — https://www.hcder.gov.ar/ (confirmado por búsqueda; tiene sección de prensa según la propia búsqueda). Sin verificar en detalle — el sitio dio timeout en las pruebas de conexión directa (2026-09-04), revisar más adelante.
 - **Cámara de Senadores** — https://www.senadoer.gob.ar/ (confirmado por búsqueda). Contacto de prensa: prensa@senadoer.gob.ar (según resultado de búsqueda, no verificado directamente).
+  - **Implementado (2026-09-04)**: es WordPress real, con **RSS estándar completo y funcional** en `https://www.senadoer.gob.ar/feed/` — título, fecha, autor y texto completo (`content:encoded`) de las últimas 10 notas, sin autenticación, sin bloqueo. La fuente más simple de todas las auditadas hasta ahora, mucho más fácil que Gobierno de ER (no hizo falta Wayback Machine ni ninguna técnica especial). También tiene la **API REST de WordPress habilitada** (`/wp-json/wp/v2/posts?_embed`), útil para conseguir la foto destacada de una nota puntual sin navegador — ver `skills/procesar-cablera/SKILL.md`.
+  - `pipeline/monitorear_senado_er.py` carga a `data/backlog.json` las notas del feed con texto completo, deduplicado por slug. Corre cada 15 min en GitHub Actions (`.github/workflows/monitorear_senado_er.yml`).
+  - Límite conocido: el feed trae solo las últimas 10 notas por defecto (no confirmada paginación) — correr seguido para no perderse ninguna, igual que con Gobierno de ER.
 - Cobertura agregada de ambas cámaras: https://www.legislaturasconectadas.gob.ar/Legislatura/8/Camara-de-Diputados-Provincia-de-Entre-Rios y https://www.legislaturasconectadas.gob.ar/Legislatura/94/Honorable-Camara-de-Senadores-de-Entre-Rios (portal nacional que agrega prensa legislativa provincial — confirmado por búsqueda, útil como fuente secundaria).
-- RSS: no confirmado.
 
 ## Municipalidad de Paraná
 

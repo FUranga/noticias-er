@@ -68,4 +68,12 @@ python monitorear_gobierno_er.py
 ```
 Es seguro correrlo varias veces — no duplica ítems ya cargados.
 
-Este es el primer caso de un patrón que se puede repetir para otras fuentes de gobierno (Municipio, Concejo, Legislatura) a medida que se investiguen.
+## Ingesta automatizada: Senado de Entre Ríos
+
+`monitorear_senado_er.py` — mismo patrón que el de Gobierno de ER (solo texto completo, sin fotos pre-bajadas, GitHub Actions cada 15 min en `.github/workflows/monitorear_senado_er.yml`), pero mucho más simple de construir: el sitio es WordPress real con **RSS estándar completo** (`senadoer.gob.ar/feed/`, con `content:encoded`) y **API REST habilitada** — no hizo falta investigar nada especial, ni Wayback Machine ni navegador. Ver `docs/fuentes.md` (sección "Legislatura de Entre Ríos").
+
+```
+python monitorear_senado_er.py
+```
+
+Uso: Municipio y Concejo Deliberante quedaron pausados por ahora (Municipio bloqueado por un desafío de Cloudflare que no intentamos sortear; Concejo sin investigar todavía) — Diputados sin verificar (dio timeout). Cuando se retomen, probar primero si también son WordPress con `/feed/` antes de asumir que hace falta algo más elaborado.

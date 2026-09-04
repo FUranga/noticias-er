@@ -9,7 +9,7 @@ function ItemTexto({ post }: { post: WpPost }) {
       <Link href={`/nota/${post.slug}`} className="group block">
         {categoryName(post) && <p className="kicker mb-1">{categoryName(post)}</p>}
         <h3
-          className="font-headline text-base font-bold leading-snug group-hover:underline"
+          className="font-headline text-base font-bold leading-snug transition-colors group-hover:text-neutral-500"
           dangerouslySetInnerHTML={{ __html: post.title.rendered }}
         />
         <p className="byline mt-1">{formatFecha(post.date)}</p>
@@ -30,7 +30,7 @@ function ItemConMiniatura({ post }: { post: WpPost }) {
         <div>
           {categoryName(post) && <p className="kicker mb-1">{categoryName(post)}</p>}
           <h3
-            className="font-headline text-base font-bold leading-snug group-hover:underline"
+            className="font-headline text-base font-bold leading-snug transition-colors group-hover:text-neutral-500"
             dangerouslySetInnerHTML={{ __html: post.title.rendered }}
           />
           <p className="byline mt-1">{formatFecha(post.date)}</p>
@@ -51,7 +51,7 @@ function TarjetaGrilla({ post }: { post: WpPost }) {
         )}
         {categoryName(post) && <p className="kicker mb-1.5">{categoryName(post)}</p>}
         <h3
-          className="font-headline text-lg font-bold leading-tight group-hover:underline"
+          className="font-headline text-lg font-bold leading-tight transition-colors group-hover:text-neutral-500"
           dangerouslySetInnerHTML={{ __html: post.title.rendered }}
         />
         <p className="byline mt-1.5">{formatFecha(post.date)}</p>
@@ -100,7 +100,7 @@ export default async function HomePage() {
                 })()}
                 {categoryName(lead) && <p className="kicker mb-2">{categoryName(lead)}</p>}
                 <h1
-                  className="font-headline text-3xl font-bold leading-[1.08] group-hover:underline sm:text-4xl"
+                  className="font-headline text-3xl font-bold leading-[1.08] transition-colors group-hover:text-neutral-500 sm:text-4xl"
                   dangerouslySetInnerHTML={{ __html: lead.title.rendered }}
                 />
                 <div
