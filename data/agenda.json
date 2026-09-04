@@ -46,13 +46,13 @@
   {
     "id": "senado-er-consorcios-camineros-estado-legislativo-a-confirmar",
     "fecha": null,
-    "evento": "Confirmar el estado legislativo real del proyecto de Consorcios Camineros (¿ley definitiva o vuelve a Diputados?)",
+    "evento": "RESUELTO: Consorcios Camineros tuvo sanción definitiva, pasa al Poder Ejecutivo para promulgación",
     "tipo": "trámite en comisión",
     "fuente": "Cámara de Senadores de Entre Ríos",
     "origen_id": "senadoer-el-senado-sanciono-la-ley-de-consorcios-camineros",
-    "detalle": "El comunicado del 1/9/2026 titula \"el Senado sancionó la ley\", pero el propio texto dice que el Senado rechazó en particular los títulos I y III respecto de lo que vino con media sanción de Diputados -- no queda claro si eso implica que vuelve a Diputados para revisión (ver cuidado documentado en docs/estilo-editorial.md sobre media sanción vs. ley).",
+    "detalle": "Confirmado con búsqueda en medios locales de ER (bicameral.com.ar, apfdigital.com.ar, dosflorines.com.ar) el 2026-09-04: fue sanción definitiva (tenía media sanción de Diputados, el Senado dio sanción final el 1/9), no vuelve a Diputados. Además surgió un ángulo que el comunicado oficial no menciona: la votación ocurrió mientras trabajadores de la DPV protestaban contra la reestructuración del organismo y el avance de los consorcios -- ver docs/temas-a-seguir.md.",
     "agregado_el": "2026-09-04T00:00:00Z",
-    "estado": "pendiente"
+    "estado": "cubierto"
   },
   {
     "id": "senado-er-reforma-ley-obras-publicas-comision",
@@ -62,6 +62,17 @@
     "fuente": "Cámara de Senadores de Entre Ríos",
     "origen_id": "senadoer-senadores-escucharon-al-ministro-de-planeamiento-por-la-modificacion-de-la-ley-de-obras-publicas",
     "detalle": "Comisión recibió el 1/9/2026 al ministro de Planeamiento e Infraestructura; el proyecto (licitaciones abiertas para mantenimiento, contratos CReMa, cambios en mora e intereses) sigue sin dictamen, \"continuará siendo analizada en próximas reuniones\".",
+    "agregado_el": "2026-09-04T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "ater-vencimientos-automotores-embarcaciones-septiembre-2026",
+    "fecha": "2026-09-15",
+    "evento": "Vence la 4ª cuota del Impuesto a los Automotores y la 2ª de Embarcaciones (dígitos 0-4; dígitos 5-9 el 16/9)",
+    "tipo": "plazo",
+    "fuente": "ATER (Administradora Tributaria de Entre Ríos)",
+    "origen_id": "goberer-79605",
+    "detalle": "Descartado como nota (puro recordatorio de trámite, sin interés editorial), pero se guarda la fecha como ejemplo de contenido tipo servicio -- candidato a incluir en un futuro newsletter aunque no se convierta en nota propia.",
     "agregado_el": "2026-09-04T00:00:00Z",
     "estado": "pendiente"
   }
