@@ -29,6 +29,7 @@ Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fund
 - `docs/aliados-y-financiamiento.md` — pensamiento en curso sobre alianzas con otros medios/instituciones y vías de sostenibilidad.
 - `docs/fuentes.md` — mapa de organismos y organizaciones a monitorear. Mantenido con la skill `mapear-fuentes`.
 - `docs/criterios-noticiabilidad.md` — patrones aprendidos de qué elige publicar el editor. Mantenido con `aprender-noticiabilidad`, consumido por `evaluar-comunicado`.
+- `docs/fuentes-datos.md` — registro de fuentes de datos/informes (no de noticias) verificadas para contextualizar cifras en notas económicas, para no repetir la misma búsqueda cada vez.
 - `data/backlog.json` — la cablera: comunicados candidatos con estado editorial (`pendiente`/`a_publicar`/`descartado`/`procesado`). Se edita desde `admin/index.html`, no a mano.
 - `data/agenda.json` / `docs/agenda.md` — hechos futuros con fecha (o "próximo paso" sin fecha exacta) mencionados dentro de comunicados: sesiones pendientes, trámites que pasan a otra instancia, eventos programados. Se completa desde `evaluar-comunicado`, independiente de si el comunicado en sí se convierte en nota. Pensado para uso propio de Francisco (newsletter, seguimiento) y como insumo si más adelante se decide una sección pública de agenda.
 - `admin/index.html` — panel de curación (noindex, no linkeado públicamente). Escribe directo a GitHub con un PAT guardado en el navegador de quien lo usa.
