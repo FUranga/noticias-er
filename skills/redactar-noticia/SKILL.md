@@ -27,8 +27,7 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
    - Título: sujeto + acción + dato principal.
    - Bajada: uno o dos oraciones con lo más relevante que no entró en el título.
    - Cuerpo: pirámide invertida, corto (3-6 párrafos para un comunicado estándar).
-   - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia.
-   - Cierre con la línea de fuente ("Fuente: comunicado de prensa de [organismo]").
+   - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia — tejida en el cuerpo ("según informó...", "de acuerdo con..."), nunca como una línea "Fuente:" separada al final (no es periodístico).
    - Moneda en letras, sin adjetivos calificativos, sin relleno de protocolo.
 
 5. **No inventes lo que falta.** Si el comunicado no trae una cifra, fecha o dato que el título necesitaría, escribí con lo que hay y señalá explícitamente al usuario qué dato falta — no lo completes con una suposición razonable, aunque parezca obvia.
@@ -41,9 +40,7 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
 
    Bajada: ...
 
-   [Cuerpo en párrafos cortos]
-
-   Fuente: comunicado de prensa de [organismo] (o el link, si lo tenés)
+   [Cuerpo en párrafos cortos, con la atribución de cada dato tejida adentro]
    ```
    Si el comunicado no pasó el filtro de calidad del paso 3, no fuerces este formato — explicá qué falta, en una o dos líneas, para que el editor decida si igual quiere una nota con lo que hay o descarta el ítem.
 
