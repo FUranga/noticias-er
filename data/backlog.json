@@ -586,5 +586,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "goberer-79643",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Alerta amarilla por bajas temperaturas para gran parte de la provincia",
+    "fecha": "2026-09-05",
+    "link": "https://portal.entrerios.gov.ar/noticias/79643",
+    "texto_original": "Desde el área de Defensa Civil de la provincia informaron que el Servicio Meteorológico Nacional emitió un alerta amarilla. Toda la provincia, salvo los departamentos Gualeguay y Victoria, estarán en alerta para los grupos de riesgo con efecto leve a moderado en la salud.  Las temperaturas se mantendrán bajas por los próximos días.\n\nLas las recomendaciones frente a un evento de temperatura extrema frío son las siguientes: \nEvitá exponerte por tiempo prolongado al frío en exteriores. En caso de tener que salir, abrigate con muchas capas de ropa liviana.\nGenerá más calor corporal mediante el movimiento (caminar, levantarse y sentarse, mover las extremidades, etc.).\nMantené la casa calefaccionada de forma segura.\nEvitá los cambios bruscos de temperatura.\nTomá mucho líquido y evitá el consumo de bebidas alcohólicas.\nSi estás afectado por el frío, no te automediques, y consultá con un médico o dirigite al centro de salud más cercano.\nSi tenés medicación recetada mantené el plan de acción actualizado.\nNo fumes en ambientes cerrados.\nPrestá especial atención a niños, embarazadas y personas mayores o con enfermedades crónicas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-05T23:04:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
