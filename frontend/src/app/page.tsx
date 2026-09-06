@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { Header } from "@/components/Header";
 import { getPostsParaPortada, featuredImageUrl, categoryName, type WpPost } from "@/lib/wp";
-import { formatFecha } from "@/lib/format";
 
 function ItemTexto({ post }: { post: WpPost }) {
   return (
@@ -12,7 +11,6 @@ function ItemTexto({ post }: { post: WpPost }) {
           className="font-headline text-base font-bold leading-snug transition-colors group-hover:text-neutral-500"
           dangerouslySetInnerHTML={{ __html: post.title.rendered }}
         />
-        <p className="byline mt-1">{formatFecha(post.date)}</p>
       </Link>
     </li>
   );
@@ -33,7 +31,6 @@ function ItemConMiniatura({ post }: { post: WpPost }) {
             className="font-headline text-base font-bold leading-snug transition-colors group-hover:text-neutral-500"
             dangerouslySetInnerHTML={{ __html: post.title.rendered }}
           />
-          <p className="byline mt-1">{formatFecha(post.date)}</p>
         </div>
       </Link>
     </li>
@@ -54,7 +51,6 @@ function TarjetaGrilla({ post }: { post: WpPost }) {
           className="font-headline text-lg font-bold leading-tight transition-colors group-hover:text-neutral-500"
           dangerouslySetInnerHTML={{ __html: post.title.rendered }}
         />
-        <p className="byline mt-1.5">{formatFecha(post.date)}</p>
       </Link>
     </li>
   );
@@ -107,7 +103,6 @@ export default async function HomePage() {
                   className="mt-3 text-base leading-snug text-neutral-700 [&_p]:m-0"
                   dangerouslySetInnerHTML={{ __html: lead.excerpt.rendered }}
                 />
-                <p className="byline mt-3">{formatFecha(lead.date)}</p>
               </Link>
             </article>
 

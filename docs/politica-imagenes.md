@@ -4,12 +4,15 @@ Referencia compartida para la skill `procesar-cablera` (que la aplica) y para `p
 
 Nota: esto refleja el mejor entendimiento de práctica periodística estándar sobre uso de imágenes, no es asesoría legal formal. Si algún caso puntual genera dudas reales de derechos, mejor consultarlo antes de publicar en vez de asumir.
 
-## Crédito de foto
+## Pie de foto
 
-**Visible, debajo de la imagen destacada** (distinto del sitio de la Fundación, que usa un tooltip escondido en `title` — decisión de Francisco, 2026-09-04, por ser un estándar más propio de un medio de noticias). Formato: `Foto: [fuente]`, por ejemplo:
-- `Foto: Gobierno de Entre Ríos`
-- `Foto: Cámara de Senadores de Entre Ríos`
-- `Foto: [Autor] / Wikimedia Commons, CC BY-SA`
+**Visible, debajo de la imagen destacada** (distinto del sitio de la Fundación, que usa un tooltip escondido en `title` — decisión de Francisco, 2026-09-04, por ser un estándar más propio de un medio de noticias).
+
+Formato (decisión de Francisco, 2026-09-05): `{contenido} / {Autor} ({Fuente})` — el pie de foto siempre suma información, no es solo una etiqueta de crédito:
+
+- **Si la foto es del hecho del día** (Nivel 1: foto real del acto/lugar que se cubre): el contenido es una descripción breve de qué muestra la foto. Ej.: `El gobernador Frigerio corta la cinta en la inauguración de MiradorTEC / Gobierno de Entre Ríos`.
+- **Si es una foto de stock/genérica** (Nivel 3, sin relación directa con el hecho puntual): el contenido es un dato relevante de la nota, no una descripción de la imagen (la imagen es ilustrativa, no evidencia del hecho). Ej.: `El sector emplea a 1.923 personas en Entre Ríos / Unsplash`.
+- **Si no hay autor individual identificable** (caso común con fotos institucionales): se omite el autor y queda `{contenido} / {Fuente}`, sin paréntesis.
 
 El crédito se guarda como `caption` del media en WordPress (`pipeline/publicar_borrador.py`, tercer argumento) y el frontend lo renderiza (`frontend/src/lib/wp.ts` → `featuredImageCredit`, usado en `frontend/src/app/nota/[slug]/page.tsx`).
 
