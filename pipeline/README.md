@@ -77,3 +77,15 @@ python monitorear_senado_er.py
 ```
 
 Uso: Municipio y Concejo Deliberante quedaron pausados por ahora (Municipio bloqueado por un desafío de Cloudflare que no intentamos sortear; Concejo sin investigar todavía) — Diputados sin verificar (dio timeout). Cuando se retomen, probar primero si también son WordPress con `/feed/` antes de asumir que hace falta algo más elaborado.
+
+## Ingesta automatizada: Boletín Oficial de Entre Ríos
+
+`monitorear_boletin_er.py` — bastante más elaborado que los dos anteriores: cada edición tiene ~100 páginas y decenas de normas, así que además de detectar novedades aplica un **filtro mecánico de volumen** antes de cargar a la cablera (nunca editorial — ver `docs/boletin-oficial-proceso.md` para el diseño completo, qué se filtra y por qué, y qué prioridad se asigna a lo que sobrevive).
+
+```
+python monitorear_boletin_er.py
+```
+
+Requiere `pypdf` (ya en `requirements.txt`) además de `requests`. **Primera corrida**: arranca desde la edición más reciente del índice, nunca desde el histórico completo (el índice tiene ediciones desde 2020). Automatizado en `.github/workflows/monitorear_boletin_er.yml`, corre una vez por día (a diferencia de los otros dos, que corren cada 15 min — el Boletín se publica una vez por día hábil, no hace falta más frecuencia).
+
+Todo lo filtrado (y un resumen de lo que no se parsea en detalle todavía) queda en `data/log_filtro_boletin.jsonl` — nunca se pierde en silencio, ver el doc de proceso para la idea de revisarlo periódicamente buscando patrones.

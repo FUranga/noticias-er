@@ -42,6 +42,7 @@ docs/
   acceso-informacion-publica.md  Marco legal (Ley 27.275 / Ley 11.191) para pedidos de acceso a la información
   calendario-publicaciones.md  Cronograma de publicaciones periódicas predecibles (INDEC, boletines, rendiciones de cuentas)
   fundacion-agenda-institucional.md  Agenda de reforma institucional para FUNDER (comparativo con Connecticut) — no es cobertura editorial
+  boletin-oficial-proceso.md   Diseño de cómo se filtra y prioriza el Boletín Oficial de ER antes de llegar a la cablera
   contactos-prensa.md       Lista de contactos de prensa confirmados, para suscribirse a listas de mail
   contenido-historico-fundacion.md  Contenido institucional de FUNDER rescatado de Wayback Machine
   sitio-fundacion.md        Estado, decisiones y gotchas técnicos del sitio de la Fundación
@@ -65,6 +66,7 @@ data/
 pipeline/
   publicar_borrador.py        Sube una nota ya redactada (con imagen opcional) a WordPress como draft
   monitorear_gobierno_er.py   Carga a la cablera las noticias nuevas del Gobierno de ER (API + scraping)
+  monitorear_boletin_er.py    Carga a la cablera las normas del Boletín Oficial de ER que sobreviven el filtro mecánico de volumen
 
 fundacion-wp/
   armar_home.py, armar_menu.py, categorizar.py,

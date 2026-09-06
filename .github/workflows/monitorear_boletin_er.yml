@@ -1,0 +1,50 @@
+name: Monitorear Boletín Oficial ER
+
+on:
+  schedule:
+    # 17:00 UTC ~= 14:00 hora Argentina, de lunes a viernes -- una aproximacion
+    # inicial (un solo dato de Last-Modified sugirio publicacion ~13:24 ART).
+    # Ajustar si se observa un patron distinto con mas ediciones. Ver
+    # docs/boletin-oficial-proceso.md, "Horario de corrida".
+    - cron: "0 17 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitorear-boletin-er
+  cancel-in-progress: false
+
+jobs:
+  monitorear:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - run: python pipeline/monitorear_boletin_er.py
+
+      - name: Commit y push si hay novedades
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/backlog.json data/log_filtro_boletin.jsonl && [ -z "$(git status --porcelain data/log_filtro_boletin.jsonl)" ]; then
+            echo "Sin cambios, no hay nada que commitear."
+          else
+            git add data/backlog.json data/log_filtro_boletin.jsonl
+            git commit -m "Cablera: normas nuevas del Boletín Oficial de ER (automatico)"
+            for intento in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "Push rechazado (intento $intento), reintentando con rebase..."
+              git fetch origin main
+              git rebase origin/main
+            done
+          fi
