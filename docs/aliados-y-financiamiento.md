@@ -26,6 +26,15 @@ Es razonable tomar esto como modelo de referencia para etapas 2 en adelante (ali
 - **Otras fundaciones y redes de periodismo** (a nivel nacional/regional: SembraMedia, ICFJ, Google News Initiative, LATAM Fact-Checking Network, etc.): posibles fuentes de financiamiento, capacitación o intercambio de infraestructura — requiere investigación específica, no incluido en esta primera pasada.
 - **Organismos de datos abiertos / transparencia**: si en la etapa de la sección de datos se necesita presión o asesoría para acceso a datos públicos, hay redes de ONGs de transparencia (ej. ACIJ, Directorio Legislativo a nivel nacional) que podrían sumarse como aliados técnicos, no como fuente de noticias.
 
+## Sinergia con la investigación institucional de FUNDER
+
+Distinta de la lógica de "aliados externos" de arriba — acá el aliado es la propia Fundación, en su rol de investigación/advocacy (no de sostén financiero). Funciona en dos direcciones:
+
+1. **El medio alimenta a FUNDER con evidencia real.** La cobertura de rutina sobre órganos de control (Tribunal de Cuentas, OAIP, Poder Judicial, entes autárquicos — ver la sección homónima en `docs/fuentes.md`) va construyendo, nota a nota, el expediente de casos concretos que sostiene cualquier diagnóstico institucional que FUNDER quiera plantear. No hace falta que cada nota mencione una agenda de reforma — el archivo de lo publicado ya es el insumo.
+2. **La investigación de FUNDER genera pistas editoriales.** Un análisis comparado o de política pública que encargue o produzca la Fundación (el primer caso: un estudio de contrapesos institucionales Entre Ríos vs. Connecticut, ver `docs/fundacion-agenda-institucional.md`) casi siempre contiene, de paso, hallazgos verificables y noticiables por sí mismos — esos van a `docs/temas-a-seguir.md`, separados del análisis de reforma en sí.
+
+`docs/fundacion-agenda-institucional.md` es el primer documento de este tipo — una agenda de reforma legislativa para uso de FUNDER, no cobertura editorial. Si esta práctica se repite (nuevos estudios comparados, nuevas propuestas), el patrón de extracción (leads editoriales a un lado, propuesta de reforma al otro) es el mismo que ya se usó ahí; no hace falta una skill dedicada mientras sea un análisis puntual y no una tarea recurrente.
+
 ## Posibles vías de financiamiento (a explorar, no decidido)
 
 - **Financiamiento institucional inicial**: la Fundación para el Desarrollo Entrerriano como sostén de arranque — esto ya es una ventaja de partida frente a un medio nuevo típico.

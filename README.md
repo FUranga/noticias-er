@@ -37,8 +37,11 @@ docs/
   vision-y-etapas.md        Visión del proyecto y hoja de ruta por etapas
   arquitectura-tecnica.md   Decisión de infraestructura (WordPress headless + frontend propio) y por qué
   estilo-editorial.md       Reglas de redacción — la referencia de las skills editoriales
-  aliados-y-financiamiento.md  Posibles alianzas y vías de sostenibilidad
-  fuentes.md                Mapa de organismos/organizaciones a monitorear
+  aliados-y-financiamiento.md  Posibles alianzas y vías de sostenibilidad (incluye la sinergia con FUNDER)
+  fuentes.md                Mapa de organismos/organizaciones a monitorear (provincial, órganos de control, nacional, municipal, privado/sindical, medios)
+  acceso-informacion-publica.md  Marco legal (Ley 27.275 / Ley 11.191) para pedidos de acceso a la información
+  calendario-publicaciones.md  Cronograma de publicaciones periódicas predecibles (INDEC, boletines, rendiciones de cuentas)
+  fundacion-agenda-institucional.md  Agenda de reforma institucional para FUNDER (comparativo con Connecticut) — no es cobertura editorial
   contactos-prensa.md       Lista de contactos de prensa confirmados, para suscribirse a listas de mail
   contenido-historico-fundacion.md  Contenido institucional de FUNDER rescatado de Wayback Machine
   sitio-fundacion.md        Estado, decisiones y gotchas técnicos del sitio de la Fundación

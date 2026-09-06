@@ -40,3 +40,33 @@ Cada ítem lleva: fecha, tema, de qué comunicado/nota salió, por qué es inter
 **De**: `senadoer-senadores-se-reuniran-en-comisiones-y-tendran-sesion-ordinaria` (comunicado del Senado de ER, 28/8/2026, descartado como nota por ser agenda vencida).
 **Por qué es interesante**: mencionaba que la Comisión de Presupuesto y Hacienda trataría el 26/8 el expediente N° 29.362 — un proyecto del Poder Ejecutivo (con media sanción de Diputados) con "medidas tributarias orientadas a aliviar la carga fiscal que recae sobre la actividad comercial" en la provincia, con foco en pequeños contribuyentes y comercios de cercanía. No apareció en ningún comunicado posterior si se trató, dictaminó o votó.
 **Estado**: `para investigar` — chequear si hubo despacho de comisión o tratamiento en el recinto en sesiones posteriores.
+
+### 2026-09-06 — La AGN no auditó fondos nacionales en Entre Ríos en ocho años
+**De**: investigación de mapeo institucional (no de un comunicado) — pedido de acceso a la información de Análisis Digital a la AGN (Ley 27.275), respondido en Nota 164/26-PL (3/7/2026, Actuación 150/26). Ver `docs/fuentes.md` (sección Nacional) y `docs/acceso-informacion-publica.md` para el marco legal del pedido.
+**Por qué es interesante**: desde 2018 la AGN no hizo una sola auditoría directa sobre fondos nacionales en Entre Ríos — ni la tarifa diferencial de Salto Grande (Ley 24.954), ni la deuda provincial (Bono ERF25), ni programas alimentarios, ni obras viales, ni préstamos internacionales ejecutados en la provincia. Hallazgos puntuales ya confirmados: préstamos BID/BIRF con ejecución en ER "fuera de muestra" en todos los ejercicios (caso Hernandarias, 4 ejercicios seguidos, USD 219.260); dos obras hídricas (San José de Feliciano, Villa Elisa) pagadas sin Informe Final de Obra (Resolución 122/2022 AGN); Vialidad Nacional sin auditoría con datos de ER posterior a marzo de 2019 (nada desde la paralización de obras de diciembre 2023). El pedido original (10 puntos) es una plantilla reutilizable — replicarlo cada 1-2 años, actualizando el rango de fechas.
+**Estado**: `para investigar` — evaluar si ya hay material para una nota propia ("ocho años sin auditar") o si conviene esperar la próxima repetición del pedido para tener un dato más fresco.
+
+### 2026-09-06 — Concepción del Uruguay y Victoria no adhirieron ni al Compromiso Provincial de Transparencia
+**De**: investigación de mapeo institucional — datos del Compromiso Provincial de Transparencia y Apertura Gubernamental (`portal.entrerios.gov.ar/transparencia`), distinto de la adhesión formal a la Ley 11.191 (ver `docs/acceso-informacion-publica.md`).
+**Por qué es interesante**: 62 de 84 municipios relevados adhirieron al Compromiso (voluntario, sin costo político real). Concepción del Uruguay (segunda ciudad de la provincia) y Victoria directamente no firmaron — ni siquiera el mínimo. Otro grupo adhirió pero quedó con puntaje 0 (Federación, Nogoyá, Villaguay, entre otros) — "firmaron y no publicaron nada".
+**Estado**: `para investigar` — confirmar vigencia del dato y si hubo pronunciamiento de esos municipios al respecto.
+
+### 2026-09-06 — Paraná adhirió al Compromiso de Transparencia pero no completó sus declaraciones juradas
+**De**: mismo relevamiento que el ítem anterior.
+**Por qué es interesante**: Paraná adhirió y completó Escala Salarial y Nómina de Autoridades, pero las Declaraciones Juradas Sintéticas figuran "en proceso" — puntaje 25/30. Ángulo directo: "Paraná adhirió a la transparencia pero no completa lo que se comprometió a publicar".
+**Estado**: `para investigar` — confirmar si sigue "en proceso" al momento de escribir, y desde cuándo.
+
+### 2026-09-06 — El EPRE no tiene Directorio propio desde 1996
+**De**: investigación comparada con Connecticut, ver `docs/fundacion-agenda-institucional.md`.
+**Por qué es interesante**: el Decreto 1127/96 MEOSP intervino el ente regulador de energía de ER — casi 30 años después sigue sin directorio estatutario, solo un interventor con las facultades del Directorio. Contradicción llamativa: el EPRE sí convoca audiencias públicas de tarifas con defensores del usuario propuestos por colegios profesionales (participación ciudadana real), montadas sobre una estructura de gobierno vaciada.
+**Estado**: `para investigar` — confirmar situación actual del interventor y si hubo algún intento de recomponer el directorio.
+
+### 2026-09-06 — Proyecto de Comisión Bicameral de seguimiento de la Caja de Jubilaciones (Vázquez, en trámite)
+**De**: investigación comparada con Connecticut, ver `docs/fundacion-agenda-institucional.md`.
+**Por qué es interesante**: proyecto presentado en julio de 2026 por la diputada Erica Vázquez (Juntos por Entre Ríos) — 10 legisladores (5 senadores, 5 diputados) respetando representación proporcional de bloques, para seguimiento y evaluación de la Caja de Jubilaciones. Todavía no está aprobado. Es un caso en tiempo real de una comisión de control plural que podría nacer o quedar cajoneada.
+**Estado**: `en investigación` — seguir su trámite parlamentario.
+
+### 2026-09-06 — Uso real de la Ley 10.529 (audiencias públicas) desde 2018, nunca relevado
+**De**: investigación comparada con Connecticut, ver `docs/fundacion-agenda-institucional.md` y `docs/acceso-informacion-publica.md` para el detalle legal de la ley.
+**Por qué es interesante**: no se identificó ningún relevamiento de cuántas audiencias públicas se convocaron en Entre Ríos desde la sanción de la ley en 2018, ni en qué proporción fueron obligatorias vs. facultativas — dato que permitiría medir si el instituto se usa poco por falta de casos obligatorios o por decisión discrecional de no convocarlas. Relacionado: no se encontró antecedente de un acto impugnado judicialmente por omisión de audiencia pública obligatoria (art. 3).
+**Estado**: `para investigar` — pedido de acceso a la información a la autoridad de aplicación de la Ley 10.529 como primer paso.

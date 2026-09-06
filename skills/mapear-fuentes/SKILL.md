@@ -9,7 +9,7 @@ Contexto: `docs/fuentes.md` es el registro de organismos y organizaciones a moni
 
 ## Agregar una fuente nueva
 
-1. **Confirmar la categoría** (usar las mismas de `docs/fuentes.md`: Gobierno provincial, Legislatura de Entre Ríos, Municipalidad de Paraná, Concejo Deliberante de Paraná, Organizaciones privadas/empresarias, Sindicatos, ONGs e instituciones académicas, Medios locales). Si la organización no encaja bien en ninguna, proponé sumar una categoría nueva en vez de forzarla — y avisá al usuario antes de crearla.
+1. **Confirmar la categoría** (usar las mismas de `docs/fuentes.md`: Gobierno provincial, Legislatura de Entre Ríos, Órganos de control/transparencia/justicia (provincial), Municipalidad de Paraná, Concejo Deliberante de Paraná, Nacional (organismos con impacto en ER), Organizaciones privadas/empresarias, Sindicatos, ONGs e instituciones académicas, Medios locales). Si la organización no encaja bien en ninguna, proponé sumar una categoría nueva en vez de forzarla — y avisá al usuario antes de crearla.
 
 2. **Buscar su canal de comunicados/prensa** (WebSearch/WebFetch): portal de noticias/prensa propio, sección de comunicados, o — si no tiene nada formal — su cuenta de redes sociales principal (a falta de mejor opción, es válido registrar eso, pero dejarlo marcado como "sin portal de prensa formal, monitorear redes").
 
@@ -29,3 +29,7 @@ Cuando el usuario pida revisar que las fuentes sigan vigentes:
 4. Reportar al final cuántas se revisaron, cuántas se corrigieron y cuántas quedaron marcadas para revisión manual.
 
 No hace falta reauditar todo el listado en cada pasada — priorizar lo marcado como "no confirmado" y lo que no se revisó hace más tiempo.
+
+## Nota sobre uso de tokens
+
+Mapear una categoría entera (no un organismo puntual) implica muchas búsquedas y WebFetch cuyo resultado intermedio no aporta nada una vez que la entrada ya quedó escrita en `docs/fuentes.md`. Para una pasada grande, preferir correrla como fork (`Agent` con `subagent_type: "fork"`) en vez de inline en la sesión principal — ver `CLAUDE.md`, "Investigación pesada como fork".

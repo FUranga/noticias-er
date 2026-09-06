@@ -19,6 +19,7 @@ Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fund
 - **No inventar URLs de fuentes.** Al mapear o auditar fuentes (`docs/fuentes.md`, skill `mapear-fuentes`), si no se puede confirmar una URL o un feed RSS con certeza razonable, se marca explícitamente como no confirmado en vez de completar el campo con algo plausible.
 - **Fuera de alcance**: deportes, espectáculos, cultura de entretenimiento. Si aparece contenido de estos temas en una fuente monitoreada, no se convierte en nota.
 - **Agencia, no repetición**: si el hecho ya está bien cubierto por otro medio (sobre todo uno chico/local), preferir linkear y atribuir antes que reescribir sin aportar nada propio. Ver `docs/vision-y-etapas.md` y `docs/aliados-y-financiamiento.md`.
+- **Investigación pesada como fork, no inline.** Una auditoría grande de fuentes (una categoría entera, no un organismo puntual) o una investigación legal/comparada de varias fuentes web genera mucho output intermedio de búsqueda que no hace falta que quede en la conversación principal — solo el resultado final que se vuelca al doc correspondiente. Preferir correrla como fork (`Agent` con `subagent_type: "fork"`) cuando el volumen de WebSearch/WebFetch lo justifique.
 
 ## Dónde está cada cosa
 
@@ -27,7 +28,10 @@ Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fund
 - `docs/estilo-editorial.md` — reglas de redacción compartidas por las skills editoriales. Es la fuente de verdad del estilo; las skills la referencian, no la duplican.
 - `docs/politica-imagenes.md` — de dónde sale la foto de cada nota del medio (cascada de niveles: fuente propia/redes oficiales → libres de derechos tipo Wikimedia Commons → banco propio curado/stock genérico) y cómo se acredita (visible, distinto del criterio de la Fundación). Consumida por `procesar-cablera` y `pipeline/publicar_borrador.py`.
 - `docs/aliados-y-financiamiento.md` — pensamiento en curso sobre alianzas con otros medios/instituciones y vías de sostenibilidad.
-- `docs/fuentes.md` — mapa de organismos y organizaciones a monitorear. Mantenido con la skill `mapear-fuentes`.
+- `docs/fuentes.md` — mapa de organismos y organizaciones a monitorear (provincial, órganos de control, nacional, municipal, privado/sindical/académico, medios). Mantenido con la skill `mapear-fuentes`.
+- `docs/acceso-informacion-publica.md` — marco legal (Ley Nacional 27.275, Ley Provincial 11.191, Ley 10.529 de audiencias públicas) para pedidos de acceso a la información pública. Referencia editorial y base del "proyecto paralelo" de acceso a documentos de `docs/vision-y-etapas.md`.
+- `docs/calendario-publicaciones.md` — cronograma de publicaciones periódicas predecibles (INDEC, boletines oficiales, rendiciones de cuentas), para monitoreo proactivo además del reactivo.
+- `docs/fundacion-agenda-institucional.md` — agenda de reforma institucional para FUNDER (comparativo Entre Ríos vs. Connecticut). Es investigación de la Fundación, no cobertura editorial del medio — no aplica la regla de decisión editorial de arriba.
 - `docs/criterios-noticiabilidad.md` — patrones aprendidos de qué elige publicar el editor. Mantenido con `aprender-noticiabilidad`, consumido por `evaluar-comunicado`.
 - `docs/fuentes-datos.md` — registro de fuentes de datos/informes (no de noticias) verificadas para contextualizar cifras en notas económicas, para no repetir la misma búsqueda cada vez.
 - `data/series/` — series de datos históricas descargadas (ej. `exportaciones-sbc.json`), cada una con su propia metodología documentada adentro (fuente, cómo se mide, cómo se extrajo, alcance, periodicidad). Insumo para el "proyecto paralelo" de datos de `docs/vision-y-etapas.md`.
