@@ -9,7 +9,7 @@ Contexto: `admin/index.html` es el panel donde el editor (Francisco) mira `data/
 
 ## Proceso
 
-1. **Leer `data/backlog.json`** y filtrar los ítems con `"estado": "a_publicar"`. Si no hay ninguno, avisar y no hacer nada más.
+1. **Leer `data/backlog.json`** y filtrar los ítems con `"estado": "a_publicar"`. **Excluir los que tengan `"fuente": "Boletín Oficial de Entre Ríos"`** — esos no están listos para redactar directo: "a publicar" en un ítem del Boletín significa "marcado para investigar" (ver `docs/boletin-oficial-proceso.md`), no "noticiable tal cual viene". Necesitan la skill `investigar-boletin` (todavía no construida) antes de pasar por acá — si aparecen en el lote, señalarlos aparte en el reporte final en vez de redactarlos, para que no se cuelen como si fueran un comunicado de prensa común. Si no queda ningún ítem después de esta exclusión, avisar y no hacer nada más.
 
 2. **Para cada ítem**, en orden:
    1. Si tiene `texto_original`, usarlo como material fuente. Si además tiene `link` y el texto parece incompleto (muy corto, cortado), usar WebFetch sobre el `link` para completar — sin pisar lo que el editor ya haya escrito a mano en `texto_original`.

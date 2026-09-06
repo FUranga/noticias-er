@@ -2,11 +2,15 @@ name: Monitorear Boletín Oficial ER
 
 on:
   schedule:
-    # 17:00 UTC ~= 14:00 hora Argentina, de lunes a viernes -- una aproximacion
-    # inicial (un solo dato de Last-Modified sugirio publicacion ~13:24 ART).
-    # Ajustar si se observa un patron distinto con mas ediciones. Ver
+    # Cada 15 min, igual que monitorear_gobierno_er.yml y monitorear_senado_er.yml.
+    # El costo de chequear es minimo (el indice de ediciones es un JSON chico) --
+    # bajar y parsear el PDF de 100 paginas solo se dispara cuando aparece una
+    # edicion nueva de verdad, asi que no hay motivo para chequear con menos
+    # frecuencia. Un dato de Last-Modified sugirio publicacion ~13:24 hora
+    # Argentina para una edicion puntual -- con esta cadencia el lag de deteccion
+    # es de minutos, no depende de acertar el horario exacto. Ver
     # docs/boletin-oficial-proceso.md, "Horario de corrida".
-    - cron: "0 17 * * 1-5"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:

@@ -36,6 +36,11 @@
   dialog input { width: 100%; padding: 6px 8px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 5px; }
   dialog .row { display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px; }
   .badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 10px; background: #eee; color: #555; margin-left: 6px; }
+  .badge.prioridad-alta { background: #fde3e3; color: #a33; }
+  .badge.prioridad-media { background: #eee; color: #666; }
+  .badge.prioridad-baja { background: #eee; color: #999; }
+  .grupo-header { font-size: .85rem; color: #666; margin: 18px 0 8px; text-transform: uppercase; letter-spacing: .04em; }
+  .grupo-header:first-child { margin-top: 0; }
   .status-msg { font-size: .85rem; margin-bottom: 12px; }
   .status-msg.error { color: #a33; }
   .status-msg.ok { color: #2f7d3c; }
@@ -102,6 +107,25 @@ const TABS = [
   { key: 'procesado', label: 'Procesadas' },
   { key: 'descartado', label: 'Descartadas' },
 ];
+
+// Pestañas por fuente: a diferencia de TABS (que filtran por estado), estas
+// muestran TODOS los estados de una fuente puntual juntos, agrupados. Pensada
+// para fuentes con volumen y tratamiento propio (ver docs/boletin-oficial-proceso.md)
+// donde conviene ver el recorrido completo (pendiente → a investigar → procesado/
+// descartado) sin ir cambiando de pestaña de estado. No reemplaza las TABS de
+// arriba -- un ítem del Boletín sigue apareciendo también en su pestaña de estado.
+const TABS_POR_FUENTE = [
+  { key: '__boletin__', label: 'Boletín Oficial', fuente: 'Boletín Oficial de Entre Ríos' },
+];
+
+const GRUPOS_POR_ESTADO = [
+  { estado: 'pendiente', label: 'Pendientes' },
+  { estado: 'a_publicar', label: 'A investigar' },
+  { estado: 'procesado', label: 'Procesadas' },
+  { estado: 'descartado', label: 'Descartadas' },
+];
+
+const PRIORIDAD_ORDEN = { alta: 3, media: 2, baja: 1 };
 
 const AGENDA_PATH = 'data/agenda.json';
 
@@ -226,8 +250,10 @@ function descartarConMotivo(id) {
 function renderTabs() {
   const tabsEl = document.getElementById('tabs');
   tabsEl.innerHTML = '';
-  TABS.forEach(t => {
-    const count = items.filter(i => i.estado === t.key).length;
+  [...TABS, ...TABS_POR_FUENTE].forEach(t => {
+    const count = t.fuente
+      ? items.filter(i => (i.fuente || '') === t.fuente).length
+      : items.filter(i => i.estado === t.key).length;
     const btn = document.createElement('button');
     btn.className = 'tab' + (activeTab === t.key ? ' active' : '');
     btn.innerHTML = `${t.label} <span class="count">${count}</span>`;
@@ -236,11 +262,16 @@ function renderTabs() {
   });
 }
 
+function esBoletin(it) {
+  return (it.fuente || '') === 'Boletín Oficial de Entre Ríos';
+}
+
 function itemActions(it) {
   const wrap = document.createElement('div');
   wrap.className = 'actions';
   if (it.estado === 'pendiente') {
-    wrap.appendChild(mkBtn('Marcar para publicar', 'publicar', () => setEstado(it.id, 'a_publicar')));
+    const label = esBoletin(it) ? 'Marcar para investigar' : 'Marcar para publicar';
+    wrap.appendChild(mkBtn(label, 'publicar', () => setEstado(it.id, 'a_publicar')));
     wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
   } else if (it.estado === 'a_publicar') {
     wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => setEstado(it.id, 'pendiente')));
@@ -269,55 +300,85 @@ function mkBtn(label, cls, onClick) {
   return b;
 }
 
+function buildItemCard(it) {
+  const div = document.createElement('div');
+  div.className = 'item';
+  const h3 = document.createElement('h3');
+  h3.textContent = it.titulo || '(sin título)';
+  div.appendChild(h3);
+
+  const meta = document.createElement('div');
+  meta.className = 'meta';
+  meta.innerHTML = `${it.fuente || 'fuente desconocida'} · ${it.fecha || ''}` +
+    (it.link ? ` · <a href="${it.link}" target="_blank">ver original</a>` : '') +
+    (it.imagen_url ? ' <span class="badge">tiene imagen</span>' : '') +
+    (it.prioridad ? ` <span class="badge prioridad-${it.prioridad}">prioridad ${it.prioridad}</span>` : '') +
+    (agendaIds.has(it.id) ? ' <span class="badge agenda-badge">en agenda</span>' : '');
+  div.appendChild(meta);
+
+  if (it.estado === 'descartado' && it.motivo_descarte) {
+    const m = document.createElement('div');
+    m.className = 'meta';
+    m.innerHTML = `<em>Motivo: ${it.motivo_descarte}</em>`;
+    div.appendChild(m);
+  }
+
+  if (it.texto_original) {
+    const p = document.createElement('div');
+    p.className = 'texto';
+    p.textContent = it.texto_original;
+    div.appendChild(p);
+    const toggle = document.createElement('button');
+    toggle.className = 'toggle-texto';
+    toggle.textContent = 'ver más';
+    toggle.onclick = () => {
+      p.classList.toggle('expanded');
+      toggle.textContent = p.classList.contains('expanded') ? 'ver menos' : 'ver más';
+    };
+    div.appendChild(toggle);
+  }
+
+  div.appendChild(itemActions(it));
+  return div;
+}
+
+function renderPorFuente(fuente) {
+  const list = document.getElementById('list');
+  const itemsFuente = items.filter(i => (i.fuente || '') === fuente);
+  if (itemsFuente.length === 0) {
+    list.innerHTML = '<div class="empty">Nada acá por ahora.</div>';
+    return;
+  }
+  GRUPOS_POR_ESTADO.forEach(g => {
+    const enGrupo = itemsFuente
+      .filter(i => i.estado === g.estado)
+      .sort((a, b) => (PRIORIDAD_ORDEN[b.prioridad] || 0) - (PRIORIDAD_ORDEN[a.prioridad] || 0));
+    if (enGrupo.length === 0) return;
+    const h2 = document.createElement('div');
+    h2.className = 'grupo-header';
+    h2.textContent = `${g.label} (${enGrupo.length})`;
+    list.appendChild(h2);
+    enGrupo.forEach(it => list.appendChild(buildItemCard(it)));
+  });
+}
+
 function render() {
   renderTabs();
   const list = document.getElementById('list');
   list.innerHTML = '';
+
+  const tabPorFuente = TABS_POR_FUENTE.find(t => t.key === activeTab);
+  if (tabPorFuente) {
+    renderPorFuente(tabPorFuente.fuente);
+    return;
+  }
+
   const filtered = items.filter(i => i.estado === activeTab);
   if (filtered.length === 0) {
     list.innerHTML = '<div class="empty">Nada acá por ahora.</div>';
     return;
   }
-  filtered.forEach(it => {
-    const div = document.createElement('div');
-    div.className = 'item';
-    const h3 = document.createElement('h3');
-    h3.textContent = it.titulo || '(sin título)';
-    div.appendChild(h3);
-
-    const meta = document.createElement('div');
-    meta.className = 'meta';
-    meta.innerHTML = `${it.fuente || 'fuente desconocida'} · ${it.fecha || ''}` +
-      (it.link ? ` · <a href="${it.link}" target="_blank">ver original</a>` : '') +
-      (it.imagen_url ? ' <span class="badge">tiene imagen</span>' : '') +
-      (agendaIds.has(it.id) ? ' <span class="badge agenda-badge">en agenda</span>' : '');
-    div.appendChild(meta);
-
-    if (it.estado === 'descartado' && it.motivo_descarte) {
-      const m = document.createElement('div');
-      m.className = 'meta';
-      m.innerHTML = `<em>Motivo: ${it.motivo_descarte}</em>`;
-      div.appendChild(m);
-    }
-
-    if (it.texto_original) {
-      const p = document.createElement('div');
-      p.className = 'texto';
-      p.textContent = it.texto_original;
-      div.appendChild(p);
-      const toggle = document.createElement('button');
-      toggle.className = 'toggle-texto';
-      toggle.textContent = 'ver más';
-      toggle.onclick = () => {
-        p.classList.toggle('expanded');
-        toggle.textContent = p.classList.contains('expanded') ? 'ver menos' : 'ver más';
-      };
-      div.appendChild(toggle);
-    }
-
-    div.appendChild(itemActions(it));
-    list.appendChild(div);
-  });
+  filtered.forEach(it => list.appendChild(buildItemCard(it)));
 }
 
 document.getElementById('btnConfig').onclick = () => {
