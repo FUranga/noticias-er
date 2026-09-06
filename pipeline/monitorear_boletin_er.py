@@ -146,14 +146,15 @@ def url_pdf(fecha_iso: str) -> str:
     return PDF_URL_TPL.format(anio=anio, mes=MESES_ES[fecha.month], dd_mm_aa=dd_mm_aa)
 
 
-def descargar_texto_pdf(url: str) -> str:
+def descargar_pdf(url: str) -> tuple[str, str | None]:
+    """Devuelve (texto_completo, last_modified_header). El Last-Modified se
+    guarda en el log para ir juntando datos reales de horario de publicacion
+    -- ver docs/boletin-oficial-proceso.md, "Horario de corrida"."""
     resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=60)
     resp.raise_for_status()
     reader = PdfReader(io.BytesIO(resp.content))
-    partes = []
-    for pagina in reader.pages:
-        partes.append(pagina.extract_text() or "")
-    return "\n".join(partes)
+    partes = [pagina.extract_text() or "" for pagina in reader.pages]
+    return "\n".join(partes), resp.headers.get("Last-Modified")
 
 
 # --------------------------------------------------------------------------
@@ -347,7 +348,7 @@ def _item_backlog(id_sufijo: str, titulo: str, fecha: str, link: str, cuerpo: st
 def procesar_edicion(nro: int, fecha: str, backlog: list[dict], ids_existentes: set[str]) -> tuple[list[dict], list[dict]]:
     """Devuelve (items_nuevos, entradas_de_log) para una edicion."""
     pdf_url = url_pdf(fecha)
-    texto = descargar_texto_pdf(pdf_url)
+    texto, last_modified = descargar_pdf(pdf_url)
 
     fin_sumario = texto.find("SECCIÓN COMERCIAL")
     fin_seccion_admin = _inicio_real_seccion_comercial(texto) or len(texto)
@@ -393,6 +394,7 @@ def procesar_edicion(nro: int, fecha: str, backlog: list[dict], ids_existentes: 
     no_parseadas = categorias_comerciales_no_parseadas(texto)
     log.append({
         "nro": nro, "fecha": fecha, "tipo": "resumen_edicion",
+        "pdf_last_modified": last_modified,
         "entradas_administrativa": len(entradas),
         "sobrevivientes_administrativa": sum(1 for e in entradas if not (e["categoria"] == "DECRETOS" and RECHAZO_INDIVIDUAL_RE.search(_sin_espacios(e["titulo"])))),
         "licitaciones_encontradas": len(bloque_lic and parsear_licitaciones(bloque_lic) or []),

@@ -2,15 +2,18 @@ name: Monitorear Boletín Oficial ER
 
 on:
   schedule:
-    # Cada 15 min, igual que monitorear_gobierno_er.yml y monitorear_senado_er.yml.
-    # El costo de chequear es minimo (el indice de ediciones es un JSON chico) --
-    # bajar y parsear el PDF de 100 paginas solo se dispara cuando aparece una
-    # edicion nueva de verdad, asi que no hay motivo para chequear con menos
-    # frecuencia. Un dato de Last-Modified sugirio publicacion ~13:24 hora
-    # Argentina para una edicion puntual -- con esta cadencia el lag de deteccion
-    # es de minutos, no depende de acertar el horario exacto. Ver
-    # docs/boletin-oficial-proceso.md, "Horario de corrida".
-    - cron: "*/15 * * * *"
+    # Dos corridas por dia habil (Francisco, 2026-09-06), no cada 15 min como
+    # los otros dos monitores -- a diferencia de un comunicado de prensa, nadie
+    # nos "gana de mano" al Boletin por minutos, y cada corrida levanta un job
+    # completo (checkout + setup de Python + instalar pypdf), no solo un GET
+    # liviano. 12:00 UTC = 09:00 ART (por si sale temprano) y 18:30 UTC = 15:30
+    # ART (con margen sobre el unico dato que tenemos: una edicion quedo con
+    # Last-Modified ~13:24 ART). El script ya guarda el Last-Modified real de
+    # cada edicion nueva en data/log_filtro_boletin.jsonl -- ajustar este
+    # horario cuando haya mas datos reales. Ver docs/boletin-oficial-proceso.md,
+    # "Horario de corrida".
+    - cron: "0 12 * * 1-5"
+    - cron: "30 18 * * 1-5"
   workflow_dispatch: {}
 
 permissions:

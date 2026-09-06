@@ -86,6 +86,6 @@ Uso: Municipio y Concejo Deliberante quedaron pausados por ahora (Municipio bloq
 python monitorear_boletin_er.py
 ```
 
-Requiere `pypdf` (ya en `requirements.txt`) además de `requests`. **Primera corrida**: arranca desde la edición más reciente del índice, nunca desde el histórico completo (el índice tiene ediciones desde 2020). Automatizado en `.github/workflows/monitorear_boletin_er.yml`, corre cada 15 min igual que los otros dos — el chequeo del índice es barato, solo se baja y parsea el PDF completo cuando aparece una edición nueva de verdad.
+Requiere `pypdf` (ya en `requirements.txt`) además de `requests`. **Primera corrida**: arranca desde la edición más reciente del índice, nunca desde el histórico completo (el índice tiene ediciones desde 2020). Automatizado en `.github/workflows/monitorear_boletin_er.yml`, corre dos veces por día hábil (09:00 y 15:30 ART) — a diferencia de los otros dos monitores, acá no hace falta cada 15 min: cada corrida levanta un job completo aunque no haya novedad, y no hay urgencia de detectar una norma nueva por minutos como sí la hay con un comunicado de prensa. Ver `docs/boletin-oficial-proceso.md`, "Horario de corrida".
 
 Todo lo filtrado (y un resumen de lo que no se parsea en detalle todavía) queda en `data/log_filtro_boletin.jsonl` — nunca se pierde en silencio, ver el doc de proceso para la idea de revisarlo periódicamente buscando patrones.
