@@ -39,6 +39,22 @@ Cargar cada edición completa a la cablera (`data/backlog.json`) sin filtrar —
 
 **Todo lo demás que sobrevive** (decretos genéricos sin patrón de alta prioridad, ej. designaciones, cambios de categoría de comuna): prioridad `media` — revisar, no priorizado.
 
+## Qué buscar al triagear un ítem que llegó a la cablera (criterios de `evaluar-boletin`)
+
+Documento vivo — se va a ir afinando con el uso, mismo espíritu que `docs/criterios-noticiabilidad.md` (que sigue siendo la referencia de fondo: las cuatro preguntas — noticioso / importante / oportuno / útil o sorprendente — aplican igual acá). Esto es específicamente lo que ayuda a leer un ítem del Boletín, que no viene con un ángulo pre-armado como un comunicado de prensa.
+
+**Diferencia clave con un comunicado**: un comunicado ya dice "esto es lo importante" (aunque haya que descontarle el relato institucional). Un decreto/ley/resolución no dice nada de eso — es texto legal seco. El trabajo de triage acá es primero **traducir** (qué organismo, qué hace concretamente, en una oración sin "considerandos"), y recién después preguntarse si importa.
+
+**Señales de que puede haber ángulo, por tipo**:
+- **Decretos**: contratación directa vía excepción (¿por qué se evitó la licitación pública?), convenios entre organismos (¿para qué, con qué plata?), designaciones de funcionarios de peso (no un ascenso de rutina), montos grandes en reconocimientos/recuperos, cualquier cosa que revierta o modifique una norma anterior de forma llamativa.
+- **Leyes**: casi siempre ángulo potencial si no es protocolar — pero raramente alcanza para nota directa (ver el caso del Norte Entrerriano abajo). La pregunta clave no es "¿importa?" sino "¿qué se necesita investigar para que esto sea una nota real?".
+- **Resoluciones**: cambios de tarifas/cuadros (impacto directo en la gente), aprobaciones que afectan a un sector regulado.
+- **Licitaciones**: monto (cuanto más alto, más peso), si el objeto es inusual o llamativo para el organismo que licita, si hay antecedentes de la misma obra/compra en `data/backlog.json` o `docs/temas-a-seguir.md`.
+
+**Señales de que probablemente no hay nada** (más allá de lo que ya filtra el mecanismo): decretos administrativos rutinarios que sobrevivieron el filtro por no matchear el patrón exacto pero son del mismo tipo (ej. una variante de "rechazo" con otra redacción), licitaciones de montos chicos y objetos genéricos (insumos de oficina, mantenimiento de rutina) sin nada que las distinga.
+
+**Cómo se sigue mejorando esto**: cuando Francisco descarte o marque "a investigar" un ítem del Boletín y el motivo no esté ya cubierto acá, sumarlo a esta sección con el caso concreto (mismo criterio que el resto del proyecto: nunca una regla sin el ejemplo real detrás).
+
 ## Ejemplo real de por qué esto importa: la ley del "Norte Entrerriano"
 
 En la edición de referencia apareció la Ley Nº 11.303, creando un marco institucional de desarrollo para el Norte Entrerriano — real interés editorial (Francisco, 2026-09-06), pero **no es una nota que se redacte directo del decreto**: el boletín solo da el texto sancionado, sin el contexto de cómo se llegó a esa ley, quién la impulsó, si hubo polémica u opiniones encontradas. Este es el caso general de por qué una norma del Boletín necesita investigación antes de convertirse en nota, a diferencia de un comunicado de prensa que ya viene con el ángulo armado — ver "Qué sigue" más abajo.
@@ -57,7 +73,11 @@ En la edición de referencia apareció la Ley Nº 11.303, creando un marco insti
 
 - **Sección Comercial**: solo Licitaciones se parsea item por item. Edictos judiciales, Personas Jurídicas, y las subcategorías de Organismos Públicos que no son licitaciones (Comunicados, Citaciones, Notificaciones, Decretos, Convocatorias a Elecciones) se descartan en bloque, logueadas solo como categoría + rango de página, sin extraer cada ítem individual. Si en algún momento se decide que alguna de estas vale la pena (ej. Convocatorias a Elecciones), extender el parser siguiendo el mismo patrón que Licitaciones.
 - **Corrección del artefacto de negrita duplicada**: el texto extraído del PDF a veces duplica cada carácter en líneas que en el original están en negrita (ej. "GGOOBBIIEERRNNOO" en vez de "GOBIERNO"). No se corrige sistemáticamente — donde importa (títulos de norma) se toma el título limpio del SUMARIO en vez del cuerpo; en licitaciones puede colar en el título candidato ocasionalmente. Cosmético, no bloqueante.
-- **Skill de investigación** (`investigar-boletin`, con las dos salidas: nota lista vs. entrada en `docs/temas-a-seguir.md`) — diseño acordado con Francisco (2026-09-06), todavía no construida. **La pestaña "Boletín Oficial" del panel admin ya está implementada** (2026-09-06, ver `admin/index.html`): agrupa todos los ítems de esta fuente por estado (Pendientes / A investigar / Procesadas / Descartadas) en una sola vista, ordenados por `prioridad` dentro de cada grupo — además de seguir apareciendo en las pestañas generales por estado. El botón de "marcar para publicar" dice "marcar para investigar" para ítems de esta fuente, para no sugerir que están listos para redactar directo. **Importante**: `procesar-cablera` excluye explícitamente los ítems de esta fuente del estado `a_publicar` (ver `skills/procesar-cablera/SKILL.md`) — necesitan pasar por `investigar-boletin` primero, no por redacción directa.
+- **Skill de investigación** (`investigar-boletin`, con las dos salidas: nota lista vs. entrada en `docs/temas-a-seguir.md`) — diseño acordado con Francisco (2026-09-06), todavía no construida.
+
+**Panel admin (2026-09-06/07, ver `admin/index.html`)**: el Boletín tiene su propia **macro-pestaña** ("Boletín Oficial", junto a "Cablera") que cambia toda la vista, no un filtro adicional — un ítem del Boletín no aparece mezclado en "Cablera" (mismo motivo que el filtro mecánico: evitar volumen). Adentro de esa macro-pestaña están las mismas 4 sub-pestañas de estado (Pendientes / A publicar → mostrada como "A investigar" / Procesadas / Descartadas), ordenadas por `prioridad`. El botón de "marcar para publicar" dice "marcar para investigar" para ítems de esta fuente, para no sugerir que están listos para redactar directo. **Importante**: `procesar-cablera` excluye explícitamente los ítems de esta fuente del estado `a_publicar` (ver `skills/procesar-cablera/SKILL.md`) — necesitan pasar por `investigar-boletin` primero, no por redacción directa.
+
+**Skill `evaluar-boletin`** (nueva, 2026-09-07, ver `skills/evaluar-boletin/SKILL.md`) — triagea los ítems `pendiente` del Boletín con un resumen en limpio (qué dice, sin jerga legal) y una señal de si hay ángulo noticioso potencial, antes de que el editor decida marcarlos "a investigar" o descartarlos. Es el paso intermedio entre el filtro mecánico (`monitorear_boletin_er.py`, sin ningún juicio editorial) y la futura `investigar-boletin` (investigación completa sobre lo ya marcado).
 
 ## Revisión periódica del log de filtrado (idea de Francisco, 2026-09-06, no implementada)
 

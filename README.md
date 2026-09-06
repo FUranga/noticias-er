@@ -43,6 +43,7 @@ docs/
   calendario-publicaciones.md  Cronograma de publicaciones periódicas predecibles (INDEC, boletines, rendiciones de cuentas)
   fundacion-agenda-institucional.md  Agenda de reforma institucional para FUNDER (comparativo con Connecticut) — no es cobertura editorial
   boletin-oficial-proceso.md   Diseño de cómo se filtra y prioriza el Boletín Oficial de ER antes de llegar a la cablera
+  seo-geo.md                Tema crítico a resolver desde el diseño del frontend — SEO clásico y GEO (citabilidad por motores de IA)
   contactos-prensa.md       Lista de contactos de prensa confirmados, para suscribirse a listas de mail
   contenido-historico-fundacion.md  Contenido institucional de FUNDER rescatado de Wayback Machine
   sitio-fundacion.md        Estado, decisiones y gotchas técnicos del sitio de la Fundación
@@ -55,6 +56,7 @@ skills/
   mapear-fuentes/           Investiga y mantiene actualizado docs/fuentes.md
   procesar-cablera/         Redacta y publica como borrador los ítems marcados en el panel admin
   aprender-noticiabilidad/  Aprende de lo publicado/descartado y actualiza docs/criterios-noticiabilidad.md
+  evaluar-boletin/          Triagea los pendientes del Boletín Oficial (texto legal, sin ángulo pre-armado) y señala ángulo noticioso potencial
   armar-gacetilla/          Redacta gacetillas de prensa DE FUNDER hacia otros medios (dirección inversa a las demás skills)
 
 admin/

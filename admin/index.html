@@ -14,6 +14,10 @@
   .tab { padding: 8px 14px; cursor: pointer; border: none; background: none; font-size: .9rem; color: #666; border-bottom: 2px solid transparent; }
   .tab.active { color: #111; border-bottom-color: #111; font-weight: 600; }
   .tab .count { color: #999; font-weight: 400; }
+  .macro-tabs { display: flex; gap: 6px; margin-bottom: 14px; }
+  .macro-tab { padding: 9px 16px; cursor: pointer; border: 1px solid #ddd; border-radius: 8px; background: #fff; font-size: .92rem; font-weight: 600; color: #555; }
+  .macro-tab.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+  .macro-tab .count { font-weight: 400; opacity: .75; }
   .item { background: #fff; border: 1px solid #e3e3e0; border-radius: 8px; padding: 14px 16px; margin-bottom: 10px; }
   .item h3 { margin: 0 0 4px; font-size: 1rem; }
   .meta { font-size: .8rem; color: #777; margin-bottom: 8px; }
@@ -39,8 +43,6 @@
   .badge.prioridad-alta { background: #fde3e3; color: #a33; }
   .badge.prioridad-media { background: #eee; color: #666; }
   .badge.prioridad-baja { background: #eee; color: #999; }
-  .grupo-header { font-size: .85rem; color: #666; margin: 18px 0 8px; text-transform: uppercase; letter-spacing: .04em; }
-  .grupo-header:first-child { margin-top: 0; }
   .status-msg { font-size: .85rem; margin-bottom: 12px; }
   .status-msg.error { color: #a33; }
   .status-msg.ok { color: #2f7d3c; }
@@ -58,6 +60,7 @@
 
 <div id="statusMsg"></div>
 
+<div class="macro-tabs" id="macroTabs"></div>
 <div class="tabs" id="tabs"></div>
 <div id="list"></div>
 
@@ -101,35 +104,30 @@
 </dialog>
 
 <script>
-const TABS = [
+// Macro-pestañas: cambian TODA la vista, no solo un filtro adicional. Cada
+// fuente con volumen y tratamiento propio (ver docs/boletin-oficial-proceso.md)
+// tiene la suya, con sus propias 4 sub-pestañas de estado adentro -- un ítem
+// del Boletín NO aparece en "Cablera" (evita el mismo problema de volumen que
+// ya resolvimos con el filtro mecánico: mezclarlo todo de nuevo en un solo
+// listado). Para sumar una fuente nueva con este tratamiento, agregarla acá.
+const MACROS = [
+  { key: 'general', label: 'Cablera' },
+  { key: 'boletin', label: 'Boletín Oficial', fuente: 'Boletín Oficial de Entre Ríos' },
+];
+
+const ESTADOS = [
   { key: 'pendiente', label: 'Pendientes' },
-  { key: 'a_publicar', label: 'A publicar' },
+  { key: 'a_publicar', label: 'A publicar', labelAlt: 'A investigar' },
   { key: 'procesado', label: 'Procesadas' },
   { key: 'descartado', label: 'Descartadas' },
-];
-
-// Pestañas por fuente: a diferencia de TABS (que filtran por estado), estas
-// muestran TODOS los estados de una fuente puntual juntos, agrupados. Pensada
-// para fuentes con volumen y tratamiento propio (ver docs/boletin-oficial-proceso.md)
-// donde conviene ver el recorrido completo (pendiente → a investigar → procesado/
-// descartado) sin ir cambiando de pestaña de estado. No reemplaza las TABS de
-// arriba -- un ítem del Boletín sigue apareciendo también en su pestaña de estado.
-const TABS_POR_FUENTE = [
-  { key: '__boletin__', label: 'Boletín Oficial', fuente: 'Boletín Oficial de Entre Ríos' },
-];
-
-const GRUPOS_POR_ESTADO = [
-  { estado: 'pendiente', label: 'Pendientes' },
-  { estado: 'a_publicar', label: 'A investigar' },
-  { estado: 'procesado', label: 'Procesadas' },
-  { estado: 'descartado', label: 'Descartadas' },
 ];
 
 const PRIORIDAD_ORDEN = { alta: 3, media: 2, baja: 1 };
 
 const AGENDA_PATH = 'data/agenda.json';
 
-let activeTab = 'pendiente';
+let activeMacro = 'general';
+let activeEstado = 'pendiente';
 let items = [];
 let fileSha = null;
 let agendaIds = new Set(); // origen_id de items que ya estan en la agenda
@@ -247,17 +245,39 @@ function descartarConMotivo(id) {
   setEstado(id, 'descartado', { motivo_descarte: motivo ? motivo.trim() : null });
 }
 
+function itemsEnMacro(macroKey) {
+  const macro = MACROS.find(m => m.key === macroKey);
+  if (macro.fuente) return items.filter(i => (i.fuente || '') === macro.fuente);
+  // "general": todo lo que NO pertenece a ninguna fuente con macro propia.
+  const fuentesConMacroPropia = MACROS.filter(m => m.fuente).map(m => m.fuente);
+  return items.filter(i => !fuentesConMacroPropia.includes(i.fuente || ''));
+}
+
+function renderMacroTabs() {
+  const el = document.getElementById('macroTabs');
+  el.innerHTML = '';
+  MACROS.forEach(m => {
+    const count = itemsEnMacro(m.key).length;
+    const btn = document.createElement('button');
+    btn.className = 'macro-tab' + (activeMacro === m.key ? ' active' : '');
+    btn.innerHTML = `${m.label} <span class="count">${count}</span>`;
+    btn.onclick = () => { activeMacro = m.key; activeEstado = 'pendiente'; render(); };
+    el.appendChild(btn);
+  });
+}
+
 function renderTabs() {
   const tabsEl = document.getElementById('tabs');
   tabsEl.innerHTML = '';
-  [...TABS, ...TABS_POR_FUENTE].forEach(t => {
-    const count = t.fuente
-      ? items.filter(i => (i.fuente || '') === t.fuente).length
-      : items.filter(i => i.estado === t.key).length;
+  const enMacro = itemsEnMacro(activeMacro);
+  const esBoletin = activeMacro === 'boletin';
+  ESTADOS.forEach(e => {
+    const count = enMacro.filter(i => i.estado === e.key).length;
+    const label = esBoletin && e.labelAlt ? e.labelAlt : e.label;
     const btn = document.createElement('button');
-    btn.className = 'tab' + (activeTab === t.key ? ' active' : '');
-    btn.innerHTML = `${t.label} <span class="count">${count}</span>`;
-    btn.onclick = () => { activeTab = t.key; render(); };
+    btn.className = 'tab' + (activeEstado === e.key ? ' active' : '');
+    btn.innerHTML = `${label} <span class="count">${count}</span>`;
+    btn.onclick = () => { activeEstado = e.key; render(); };
     tabsEl.appendChild(btn);
   });
 }
@@ -342,38 +362,14 @@ function buildItemCard(it) {
   return div;
 }
 
-function renderPorFuente(fuente) {
-  const list = document.getElementById('list');
-  const itemsFuente = items.filter(i => (i.fuente || '') === fuente);
-  if (itemsFuente.length === 0) {
-    list.innerHTML = '<div class="empty">Nada acá por ahora.</div>';
-    return;
-  }
-  GRUPOS_POR_ESTADO.forEach(g => {
-    const enGrupo = itemsFuente
-      .filter(i => i.estado === g.estado)
-      .sort((a, b) => (PRIORIDAD_ORDEN[b.prioridad] || 0) - (PRIORIDAD_ORDEN[a.prioridad] || 0));
-    if (enGrupo.length === 0) return;
-    const h2 = document.createElement('div');
-    h2.className = 'grupo-header';
-    h2.textContent = `${g.label} (${enGrupo.length})`;
-    list.appendChild(h2);
-    enGrupo.forEach(it => list.appendChild(buildItemCard(it)));
-  });
-}
-
 function render() {
+  renderMacroTabs();
   renderTabs();
   const list = document.getElementById('list');
   list.innerHTML = '';
-
-  const tabPorFuente = TABS_POR_FUENTE.find(t => t.key === activeTab);
-  if (tabPorFuente) {
-    renderPorFuente(tabPorFuente.fuente);
-    return;
-  }
-
-  const filtered = items.filter(i => i.estado === activeTab);
+  const filtered = itemsEnMacro(activeMacro)
+    .filter(i => i.estado === activeEstado)
+    .sort((a, b) => (PRIORIDAD_ORDEN[b.prioridad] || 0) - (PRIORIDAD_ORDEN[a.prioridad] || 0));
   if (filtered.length === 0) {
     list.innerHTML = '<div class="empty">Nada acá por ahora.</div>';
     return;
