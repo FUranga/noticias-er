@@ -38,7 +38,7 @@ Cuando el hecho puntual no tiene foto propia, pero hay un sujeto identificable (
 - **Wikimedia Commons** — primera opción. Licencia CC clara y verificable por archivo, ya se usó para la Fundación (foto de Casa de Gobierno).
 - **Flickr con filtro de licencia Creative Commons activado** — segunda opción, más variedad de fotógrafos locales, pero hay que revisar la licencia de cada foto puntual (no todo Flickr es libre, el filtro solo acota la búsqueda).
 
-**Crédito**: `Foto: [Autor] / Wikimedia Commons, [licencia]` (ej. `CC BY-SA 4.0`) — siguiendo lo que pida la licencia específica del archivo.
+**Crédito**: `Foto: [Autor] / Wikimedia Commons` — **sin el nombre de la licencia** (decisión de Francisco, 2026-09-07: no hace falta en el pie de foto, alcanza con autor y plataforma; la licencia igual queda registrada en el archivo de origen si hace falta consultarla después). Si el autor es una organización con nombre largo, usar una sigla reconocible para simplificar (ej. `CGE` por Consejo General de Educación de Entre Ríos) en vez del nombre completo.
 
 ### Nivel 3 — foto de concepto genérica
 
@@ -46,7 +46,7 @@ Cuando no hay nada real aplicable (ej. una nota sobre una cifra macro sin sujeto
 - **Banco propio curado** (`data/imagenes/banco-libre/`, ver más abajo) — primera opción, para no partir de cero cada vez y para que las fotos genéricas tengan igual algo de identidad local (paisaje/edificios/agro de la zona) en vez de ser stock global sin relación con Entre Ríos.
 - **Unsplash / Pexels vía API** — fallback si el banco propio no tiene nada que sirva. Requiere API key gratuita que tiene que generar Francisco (cuenta de desarrollador) — no implementado todavía. Ambos bancos tienen licencia de uso comercial libre sin atribución obligatoria, pero igual conviene creditar por prolijidad editorial.
 
-**Crédito**: `Foto: [Autor] / Unsplash` o `Foto: [Autor] / Wikimedia Commons, [licencia]` según de dónde salió.
+**Crédito**: `Foto: [Autor] / Unsplash` o `Foto: [Autor] / Wikimedia Commons` según de dónde salió (sin licencia, ver nota del Nivel 2 arriba).
 
 ## Banco propio curado (Nivel 3)
 
