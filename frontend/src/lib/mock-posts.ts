@@ -6,6 +6,74 @@
 
 import type { WpPost } from "./wp";
 
+// Fotos reales de Entre Ríos (Wikimedia Commons, CC) en vez de picsum.photos
+// al azar -- una foto genérica pero *real y del lugar* lee mucho mejor que
+// una decorativa sin ninguna relación (pedido de Francisco, 2026-09-07: "una
+// forma simple de poner fotos visuales y pertinentes para ER"). Se sirven
+// via Special:FilePath con ancho fijo (recomendado por Wikimedia para no
+// pegarle a los originales a pleno tamaño). Esto sigue siendo demo -- para
+// notas reales rige la cascada de docs/politica-imagenes.md, no esto.
+const FOTOS_POR_CATEGORIA: Record<string, { url: string; credito: string }[]> = {
+  politica: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Entrada%20principal%20de%20la%20Casa%20de%20Gobierno%20de%20Entre%20R%C3%ADos%2C%20en%20la%20ciudad%20de%20Paran%C3%A1..JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Casa%20de%20gobierno%20Entre%20R%C3%ADos%201.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+  ],
+  economia: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20de%20Concordia%20-%20Entre%20R%C3%ADos.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Represa%20Salto%20Grande.jpg?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+  ],
+  justicia: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Paran%C3%A1%2010.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Casa%20de%20gobierno%20Entre%20R%C3%ADos%201.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+  ],
+  municipios: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20de%20Colon%2C%20Entre%20Rios.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Aprender%20(Entre%20R%C3%ADos)%20-%20Villaguay%20-%20Municipalidad.jpg?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+  ],
+  sociedad: [
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Paran%C3%A1%2010.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+    {
+      url: "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20de%20Colon%2C%20Entre%20Rios.JPG?width=1200",
+      credito: "Foto: Wikimedia Commons",
+    },
+  ],
+};
+
+// Rotación simple y determinística dentro del pool de la categoría -- no
+// hace falta random, solo que no se repita siempre la misma.
+function fotoPara(categoriaSlug: string, seed: string): { url: string; credito: string } {
+  const pool = FOTOS_POR_CATEGORIA[categoriaSlug] ?? FOTOS_POR_CATEGORIA.justicia;
+  const hash = [...seed].reduce((acc, c) => acc + c.charCodeAt(0), 0);
+  return pool[hash % pool.length];
+}
+
 function post(p: {
   id: number;
   slug: string;
@@ -18,6 +86,7 @@ function post(p: {
   seedFoto: string;
   autor?: string;
 }): WpPost {
+  const foto = fotoPara(p.categoriaSlug, p.seedFoto);
   return {
     id: p.id,
     slug: p.slug,
@@ -29,9 +98,9 @@ function post(p: {
     _embedded: {
       "wp:featuredmedia": [
         {
-          source_url: `https://picsum.photos/seed/${p.seedFoto}/1200/750`,
+          source_url: foto.url,
           alt_text: "",
-          caption: { rendered: `<p>Foto: Agencia Entrerriana (demo)</p>` },
+          caption: { rendered: `<p>${foto.credito} (demo)</p>` },
         },
       ],
       author: [{ name: p.autor ?? "Redacción" }],

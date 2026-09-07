@@ -30,12 +30,30 @@ function Kicker({ post }: { post: WpPost }) {
   return <p className={`kicker mb-1.5 ${KICKER_POR_SECCION[slug] ?? ""}`}>{nombre}</p>;
 }
 
+// Etiqueta chica de estado -- se usa con cuentagotas (solo el ítem más
+// reciente de la portada), no en cada nota. Un badge en todos lados deja de
+// significar algo.
+function Etiqueta({ texto }: { texto: string }) {
+  return (
+    <span className="kicker kicker-accent mr-2 inline-block rounded-sm border border-accent px-1.5 py-0.5 align-middle">
+      {texto}
+    </span>
+  );
+}
+
+// Patrón real de WSJ/NYT: los titulares de nota destacada van en la serif de
+// título (Playfair), pero los ítems de "brief" (río denso, miniaturas) van en
+// una sans bien negra -- la columna "What's News" del WSJ está tipografiada
+// así, distinta de sus notas de tapa. La variación de tipo de letra, no solo
+// de tamaño, es lo que da la sensación de una portada con más de un registro.
 function Titular({
   post,
   tamaño = "base",
+  familia = "serif",
 }: {
   post: WpPost;
   tamaño?: "xl" | "lg" | "base" | "sm" | "xs";
+  familia?: "serif" | "sans";
 }) {
   const clases = {
     xl: "text-4xl sm:text-5xl leading-[1.02] tracking-tight",
@@ -44,9 +62,10 @@ function Titular({
     sm: "text-base leading-snug",
     xs: "text-[0.95rem] leading-snug",
   }[tamaño];
+  const tipografia = familia === "sans" ? "font-ui" : "font-headline";
   return (
     <h3
-      className={`font-headline font-bold transition-colors group-hover:text-neutral-500 ${clases}`}
+      className={`${tipografia} font-bold transition-colors group-hover:text-neutral-500 ${clases}`}
       dangerouslySetInnerHTML={{ __html: post.title.rendered }}
     />
   );
@@ -55,25 +74,42 @@ function Titular({
 // Ítem de "río": solo texto, sin foto -- la densidad típica de la columna
 // "What's News" del WSJ. El primero de cada lista es levemente más grande,
 // como en una portada real (nunca todos los ítems pesan igual).
-function RioItem({ post, destacado = false }: { post: WpPost; destacado?: boolean }) {
+function RioItem({
+  post,
+  destacado = false,
+  etiqueta,
+}: {
+  post: WpPost;
+  destacado?: boolean;
+  etiqueta?: string;
+}) {
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
       <Link href={`/nota/${post.slug}`} className="group block">
         <Kicker post={post} />
-        <Titular post={post} tamaño={destacado ? "base" : "xs"} />
+        {etiqueta && <Etiqueta texto={etiqueta} />}
+        <Titular post={post} tamaño={destacado ? "base" : "xs"} familia="sans" />
       </Link>
     </li>
   );
 }
 
-function Rio({ posts, titulo }: { posts: WpPost[]; titulo?: string }) {
+function Rio({
+  posts,
+  titulo,
+  etiquetaPrimero,
+}: {
+  posts: WpPost[];
+  titulo?: string;
+  etiquetaPrimero?: string;
+}) {
   if (posts.length === 0) return null;
   return (
     <div>
       {titulo && <p className="kicker border-b-2 border-neutral-900 pb-1.5">{titulo}</p>}
       <ul className={titulo ? "mt-1" : ""}>
         {posts.map((post, i) => (
-          <RioItem key={post.id} post={post} destacado={i === 0} />
+          <RioItem key={post.id} post={post} destacado={i === 0} etiqueta={i === 0 ? etiquetaPrimero : undefined} />
         ))}
       </ul>
     </div>
@@ -113,7 +149,7 @@ function ItemMiniatura({ post }: { post: WpPost }) {
         )}
         <div>
           <Kicker post={post} />
-          <Titular post={post} tamaño="xs" />
+          <Titular post={post} tamaño="xs" familia="sans" />
         </div>
       </Link>
     </li>
@@ -132,6 +168,12 @@ function EncabezadoSeccion({ titulo }: { titulo: string }) {
 // Módulo tipo "sección de diario": una pieza destacada con foto grande a la
 // izquierda + un río a la derecha. La proporción entre columnas varía por
 // sección para que no todas se vean iguales.
+//
+// Evaluado y descartado por ahora (2026-09-07, Francisco): módulos con fondo
+// tinteado/recuadrado tipo WSJ para separar "otro tipo de contenido" -- no
+// aparece así en NYT/WaPo, lee "financiero", y no vamos a tener sección de
+// Opinión que lo justifique. Queda pendiente para re-evaluar más adelante,
+// no descartado para siempre.
 function SeccionDestacada({
   titulo,
   posts,
@@ -155,16 +197,19 @@ function SeccionDestacada({
 }
 
 // Módulo tipo "grilla" -- para secciones donde varias notas pesan parecido,
-// sin una sola destacada, pero con la primera levemente más grande.
+// sin una sola destacada, pero con la primera levemente más grande. Relación
+// de columnas 3/2 (no 50/50) para que no repita la proporción de las otras
+// secciones -- parte de la variedad de anchos que hace de mosaico, no de
+// grilla uniforme.
 function SeccionGrilla({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
   if (posts.length === 0) return null;
   const [primera, ...resto] = posts;
   return (
     <section>
       <EncabezadoSeccion titulo={titulo} />
-      <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-2">
+      <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-[3fr_2fr]">
         <TarjetaFoto post={primera} proporcion="aspect-[4/3]" tamañoTitulo="base" />
-        <ul className="grid grid-cols-1 gap-x-6 sm:grid-cols-2">
+        <ul>
           {resto.map((post) => (
             <RioItem key={post.id} post={post} />
           ))}
@@ -175,17 +220,19 @@ function SeccionGrilla({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
 }
 
 // Módulo tipo "solo texto" -- para la sección más chica, sin fotos, imitando
-// los bloques de "briefs" de una portada real.
+// los bloques de "briefs" de una portada real. Tres columnas (no dos, como
+// las demás secciones) para que la "pared de texto" se sienta distinta del
+// resto, no una repetición del mismo patrón a otra escala.
 function SeccionTexto({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
   if (posts.length === 0) return null;
   return (
     <section>
       <EncabezadoSeccion titulo={titulo} />
-      <div className="mt-4 grid grid-cols-1 gap-x-10 sm:grid-cols-2">
+      <ul className="mt-4 grid grid-cols-1 gap-x-8 sm:grid-cols-3">
         {posts.map((post, i) => (
           <RioItem key={post.id} post={post} destacado={i === 0} />
         ))}
-      </div>
+      </ul>
     </section>
   );
 }
@@ -200,7 +247,7 @@ function MasLeidas({ posts }: { posts: WpPost[] }) {
           <li key={post.id} className="flex gap-3 border-t border-neutral-300 py-3 first:border-t-0">
             <span className="font-headline text-2xl font-bold text-neutral-300">{i + 1}</span>
             <Link href={`/nota/${post.slug}`} className="group block">
-              <Titular post={post} tamaño="xs" />
+              <Titular post={post} tamaño="xs" familia="sans" />
             </Link>
           </li>
         ))}
@@ -244,7 +291,7 @@ export default async function HomePage() {
 
         {lead && (
           <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.6fr_1fr]">
-            <Rio posts={columnaIzq} titulo="Última hora" />
+            <Rio posts={columnaIzq} titulo="Última hora" etiquetaPrimero="Último momento" />
 
             {/* Columna central: contenida entre reglas verticales, foto
                 discreta (no a sangre) -- el tratamiento clásico de apertura
@@ -278,7 +325,7 @@ export default async function HomePage() {
           </div>
         )}
 
-        <SeccionDestacada titulo="Economía" posts={mockEconomia} proporcion="lg:grid-cols-[1.5fr_1fr]" />
+        <SeccionDestacada titulo="Economía" posts={mockEconomia} proporcion="lg:grid-cols-[2fr_1fr]" />
 
         <BannerNewsletter />
 
