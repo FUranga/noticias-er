@@ -2681,11 +2681,11 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFNRSHowNG1YSWN4UUJJdkJVSFFmMjhFZkNJc04xYktKV2NPb0RYUFJUV3dJQkNpeG1PcVpQM2M4N1ZKMTdUZkR0RzJhUkVPRlExbExsQVdIbVVqcE9zME1rYWV1ajA3UWt6U0tYTlBVVkRzMGU4WWtyMFlrZF84TFNpREZTLTBxQWhaNXY4dWZkVC1uMTM2TV9hTUY4clhacnNaZXFIM0EtYW5TZWZvR2hwZ1pTS2xKOW9qeDFIWVNUZEJo?oc=5",
     "texto_original": "Concluyó la misión del Fondo Internacional de Desarrollo Agrícola en Entre Ríos\n  \nelheraldo.com.ar",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "No es notiica, si lo seria el informe quizas",
     "topicos_matcheados": [
       "agro"
     ],
