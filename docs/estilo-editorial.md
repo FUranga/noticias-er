@@ -38,6 +38,28 @@ Los comunicados institucionales tienen un vocabulario propio que no es el de una
 
 Si después de sacar el relleno institucional no queda un hecho concreto, probablemente no es una noticia — es una nota de color o directamente prensa sin sustancia (ver skill `evaluar-comunicado`).
 
+## Nada de números de normas — regla general (Francisco, 2026-09-07)
+
+**No poner en el texto números de resoluciones, decretos, leyes, artículos ni expedientes.** Es lenguaje administrativo, no periodístico — el lector no necesita ni quiere saber que es "la Resolución N° 143/26" o "el Artículo 8° del Decreto N° 943/25". Escribir en lenguaje llano y humano:
+
+- "una resolución del ente regulador de energía" en vez de "la Resolución EPRE N° 143/26".
+- "un decreto nacional de fines de 2025" en vez de "el Decreto PEN N° 943/25".
+- "la ley que aprobó la Legislatura" en vez de "la Ley N° 11.303".
+
+Esto vale para título, bajada y cuerpo por igual. Los links a la fuente se mantienen (el `href` sigue apuntando al documento real), pero el texto visible del link no lleva el número — va la descripción en lenguaje corriente. Excepción: si el propio hecho noticioso *es* el número de la norma (por ejemplo, una nota que compara dos leyes puntuales y el número es lo que el lector necesita para diferenciarlas), ahí sí puede ir — pero es la excepción, no la base.
+
+## Cuadros tarifarios por tramos — no confundir el % de un tramo con lo que paga el usuario (Francisco, 2026-09-07)
+
+Cuando una tarifa tiene tramos de consumo (los primeros X kWh a un precio, los siguientes Y a otro), **el aumento porcentual de un tramo específico no es "lo que van a pagar los usuarios"** — es el aumento del precio unitario de esa porción del consumo. Decir "los usuarios pagarán la electricidad 31,5% más cara" cuando en realidad el 31,5% es el aumento del precio de *solo los primeros 100 kWh* es un error de fondo, no de estilo: la factura total de un usuario real (que combina cargo fijo + varios tramos) sube un porcentaje distinto, generalmente menor, y ese porcentaje además varía mucho según cuánto consuma cada hogar.
+
+**Cómo evitarlo**: calcular el efecto sobre la factura total a un consumo de referencia real (ver más abajo cómo elegir ese consumo), y usar *ese* número como la cifra principal de la nota. Los aumentos por tramo van en el cuerpo como explicación del mecanismo ("el precio del primer tramo subió 31,5%, pero el cargo fijo solo subió 2,9%, por eso la factura completa sube menos"), nunca como la cifra que se presenta como "lo que paga el usuario".
+
+**Buscar el punto de mayor impacto real, no solo el promedio**: en el caso real de esta nota, un hogar de consumo de referencia (250 kWh) tuvo un aumento total de factura de 27,6% — pero los hogares que consumen justo en el límite del bloque que estaba subsidiado el mes anterior (acá, 200 kWh) sintieron mucho más, más de 40%, porque pierden de golpe el descuento sobre esa porción de consumo. Ese "efecto escalón" en el borde del bloque subsidiado suele ser la parte más noticiable del cambio de cuadro tarifario, no el promedio.
+
+**Consumo de referencia para calcular el efecto en la factura total**: no inventar un consumo "típico" a ojo — buscar si existe una fuente que ya haya establecido uno para este tipo de comparación (en este caso, un informe de un consejo empresario provincial usaba 250 kWh mensuales como consumo residencial representativo para comparar tarifas entre provincias bajo el mismo esquema nacional). Si no se encuentra una fuente así, señalarlo como supuesto propio, explícito, no como dato verificado. Y aunque la fuente sea sólida, no la nombres en el cuerpo de la nota si el editor no lo pide — alcanza con usar el número.
+
+**Ni siquiera el número "bien calculado" va en el lede, si el efecto real varía mucho caso a caso** (Francisco, 2026-09-07, corrección sobre la corrección anterior). Con el ejemplo real: 27,6% es un cálculo correcto sobre la factura total a un consumo de referencia — pero seguía siendo engañoso como titular/lede porque el efecto real iba de ~25% en el extremo bajo a más de 40% en el borde del bloque subsidiado. La solución no es "buscar el número correcto para el lede", es **no poner ningún porcentaje puntual en el lede cuando el impacto es disparejo** — el lede lleva la afirmación cualitativa ("un fuerte aumento"), y los números — todos, incluido el "representativo" — van en el cuerpo, en el párrafo donde ya se explicó que el impacto varía y por qué.
+
 ## Atribución — la regla más importante de este dominio
 
 **Todo logro, cifra de impacto o causa que venga de la fuente y no de una verificación independiente tiene que quedar explícitamente atribuido a esa fuente.** No como hecho objetivo del medio.

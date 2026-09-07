@@ -47,6 +47,10 @@ pip install -r requirements.txt
    ```
 4. El script te devuelve el link directo para revisar el borrador en el editor de WordPress. Ahí editás y publicás cuando estés conforme — el script nunca publica solo, siempre crea el post en estado `draft`.
 
+**Antes de correr el script, listar los borradores existentes** (`GET /wp-json/wp/v2/posts?status=draft` con las credenciales de `.env`) si hay chance de que la nota ya se haya subido antes (por ejemplo, si el editor escribió un primer borrador a mano directo en WordPress). `publicar_borrador.py` **siempre crea un post nuevo** — no tiene forma de actualizar uno existente por id. Caso real (2026-09-07): se corrió el script sin chequear y se creó un post duplicado de uno que el editor ya había escrito a mano en WordPress; hubo que mandar el duplicado a la papelera (`DELETE /wp-json/wp/v2/posts/<id>`, sin `force=true` para que sea reversible) y aplicar los cambios sobre el post original (`POST /wp-json/wp/v2/posts/<id>` con `title`/`excerpt`/`content`, sin tocar `status`).
+
+Si estás iterando sobre un borrador ya subido (varias rondas de edición), **releé el post antes de cada actualización** (`GET .../posts/<id>?context=edit`) — el editor puede haber seguido editando a mano en WordPress mientras tanto (incluso puede haber cambiado el `status` a `publish` sin avisar), y una actualización a ciegas pisa esos cambios.
+
 ## Notas
 
 - `.env` nunca se commitea (está en `.gitignore`). Si la Application Password se filtra, revocala desde WordPress (Usuarios → Tu perfil → Application Passwords → Revoke) y generá una nueva.
