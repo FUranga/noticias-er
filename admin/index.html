@@ -34,6 +34,7 @@
   button.agenda { border-color: #b8860b; color: #b8860b; }
   .badge.agenda-badge { background: #fdf1d6; color: #96700a; }
   .badge.wp-badge { background: #e3f0e5; color: #2f7d3c; }
+  .badge.sinfecha { background: #eee; color: #888; }
   .empty { color: #888; font-size: .9rem; padding: 20px 0; }
   .top-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
   .gear { cursor: pointer; font-size: 1.1rem; background: none; border: none; }
@@ -85,11 +86,13 @@
 </dialog>
 
 <dialog id="agendaDialog">
-  <h3 style="margin-top:0">Agregar a la agenda</h3>
+  <h3 style="margin-top:0" id="agendaDialogTitulo">Agregar a la agenda</h3>
   <label>Evento</label>
   <input id="agEvento" placeholder="Qué va a pasar">
   <label>Fecha (opcional, AAAA-MM-DD — dejalo vacío si es "próxima sesión" sin fecha exacta)</label>
   <input id="agFecha" placeholder="2026-09-09">
+  <label>Fuente</label>
+  <input id="agFuente" placeholder="Organismo que lo informó">
   <label>Tipo</label>
   <select id="agTipo" style="width:100%;padding:6px 8px;box-sizing:border-box;border:1px solid #ccc;border-radius:5px;">
     <option value="evento">evento</option>
@@ -108,40 +111,37 @@
 <script>
 // Macro-pestañas: cambian TODA la vista, no solo un filtro adicional. Cada
 // fuente con volumen y tratamiento propio (ver docs/boletin-oficial-proceso.md)
-// tiene la suya, con sus propias sub-pestañas de estado adentro (ver
-// ESTADOS_GENERAL / ESTADOS_BOLETIN más abajo -- no son las mismas) -- un
-// ítem del Boletín NO aparece en "Cablera" (evita el mismo problema de
-// volumen que ya resolvimos con el filtro mecánico: mezclarlo todo de nuevo
-// en un solo listado). Para sumar una fuente nueva con este tratamiento,
-// agregarla acá.
+// tiene la suya -- un ítem del Boletín NO aparece en "Cablera" (evita el
+// mismo problema de volumen que ya resolvimos con el filtro mecánico:
+// mezclarlo todo de nuevo en un solo listado). Para sumar una fuente nueva
+// con este tratamiento, agregarla acá. "agenda" no es una fuente de la
+// cablera -- es su propia vista sobre data/agenda.json, ver renderAgenda().
 const MACROS = [
   { key: 'general', label: 'Cablera' },
   { key: 'boletin', label: 'Boletín Oficial', fuente: 'Boletín Oficial de Entre Ríos' },
+  { key: 'agenda', label: 'Agenda', esAgenda: true },
 ];
 
-// No hay estado "procesado": cuando un item ya tiene un borrador subido a
-// WordPress, se marca con un check visual (wp_edit_url presente) sin sacarlo
-// de su estado editorial -- ver docs/boletin-oficial-proceso.md.
-const ESTADOS_GENERAL = [
-  { key: 'pendiente', label: 'Pendientes' },
-  { key: 'a_publicar', label: 'A publicar' },
-  { key: 'descartado', label: 'Descartadas' },
-];
-
-// El Boletín tiene dos estados positivos reales y distintos, no un relabel
-// del mismo estado: "a_publicar" es listo para redactar con investigación
-// breve, "a_investigar" es un tema de fondo para dejar sobre la mesa que
-// puede llevar más de un día de reporteo.
-const ESTADOS_BOLETIN = [
+// 4 estados reales para toda la cablera (2026-09-07: antes el Boletín tenía
+// "a_investigar" y el resto no -- unificado porque un ítem de cualquier
+// fuente puede necesitar más de un día de reporteo, no es exclusivo del
+// Boletín). No hay estado "procesado": cuando un item ya tiene un borrador
+// subido a WordPress, se marca con un check visual (wp_edit_url presente)
+// sin sacarlo de su estado editorial.
+const ESTADOS = [
   { key: 'pendiente', label: 'Pendientes' },
   { key: 'a_publicar', label: 'A publicar' },
   { key: 'a_investigar', label: 'A investigar' },
   { key: 'descartado', label: 'Descartadas' },
 ];
 
-function estadosDeMacro(macroKey) {
-  return macroKey === 'boletin' ? ESTADOS_BOLETIN : ESTADOS_GENERAL;
-}
+// Estados propios de un ítem de agenda (ver docs/agenda.md) -- distintos de
+// los de la cablera, no confundir.
+const ESTADOS_AGENDA = [
+  { key: 'pendiente', label: 'Pendientes' },
+  { key: 'cubierto', label: 'Cubiertos' },
+  { key: 'vencido_sin_seguimiento', label: 'Vencidos sin seguimiento' },
+];
 
 const PRIORIDAD_ORDEN = { alta: 3, media: 2, baja: 1 };
 
@@ -149,9 +149,12 @@ const AGENDA_PATH = 'data/agenda.json';
 
 let activeMacro = 'general';
 let activeEstado = 'pendiente';
+let activeAgendaEstado = 'pendiente';
 let items = [];
 let fileSha = null;
-let agendaIds = new Set(); // origen_id de items que ya estan en la agenda
+let agendaItems = [];
+let agendaSha = null;
+let agendaIds = new Set(); // origen_id de items de la cablera que ya estan en la agenda
 
 function cfg() {
   return {
@@ -216,14 +219,22 @@ async function ghPut(newItems, message) {
   fileSha = await ghPutPath(cfg().path, fileSha, newItems, message || 'Actualizar backlog desde la cablera');
 }
 
-async function loadAgendaIds() {
+async function loadAgenda() {
   try {
-    const { data } = await ghGetPath(AGENDA_PATH);
+    const { data, sha } = await ghGetPath(AGENDA_PATH);
+    agendaItems = data;
+    agendaSha = sha;
     agendaIds = new Set(data.map(a => a.origen_id).filter(Boolean));
   } catch (e) {
     // best-effort: si data/agenda.json todavia no existe o falla, seguimos sin badges
+    agendaItems = [];
+    agendaSha = null;
     agendaIds = new Set();
   }
+}
+
+async function guardarAgenda(mensaje) {
+  agendaSha = await ghPutPath(AGENDA_PATH, agendaSha, agendaItems, mensaje);
 }
 
 async function load() {
@@ -235,7 +246,7 @@ async function load() {
   try {
     setStatus('Cargando...');
     items = await ghGet();
-    await loadAgendaIds();
+    await loadAgenda();
     setStatus('');
   } catch (e) {
     setStatus('Error cargando el backlog: ' + e.message, 'error');
@@ -278,7 +289,9 @@ function renderMacroTabs() {
   const el = document.getElementById('macroTabs');
   el.innerHTML = '';
   MACROS.forEach(m => {
-    const count = itemsEnMacro(m.key).length;
+    const count = m.esAgenda
+      ? agendaItems.filter(a => a.estado === 'pendiente').length
+      : itemsEnMacro(m.key).length;
     const btn = document.createElement('button');
     btn.className = 'macro-tab' + (activeMacro === m.key ? ' active' : '');
     btn.innerHTML = `${m.label} <span class="count">${count}</span>`;
@@ -290,8 +303,20 @@ function renderMacroTabs() {
 function renderTabs() {
   const tabsEl = document.getElementById('tabs');
   tabsEl.innerHTML = '';
+  const macro = MACROS.find(m => m.key === activeMacro);
+  if (macro.esAgenda) {
+    ESTADOS_AGENDA.forEach(e => {
+      const count = agendaItems.filter(a => a.estado === e.key).length;
+      const btn = document.createElement('button');
+      btn.className = 'tab' + (activeAgendaEstado === e.key ? ' active' : '');
+      btn.innerHTML = `${e.label} <span class="count">${count}</span>`;
+      btn.onclick = () => { activeAgendaEstado = e.key; render(); };
+      tabsEl.appendChild(btn);
+    });
+    return;
+  }
   const enMacro = itemsEnMacro(activeMacro);
-  estadosDeMacro(activeMacro).forEach(e => {
+  ESTADOS.forEach(e => {
     const count = enMacro.filter(i => i.estado === e.key).length;
     const btn = document.createElement('button');
     btn.className = 'tab' + (activeEstado === e.key ? ' active' : '');
@@ -301,21 +326,16 @@ function renderTabs() {
   });
 }
 
-function esBoletin(it) {
-  return (it.fuente || '') === 'Boletín Oficial de Entre Ríos';
-}
-
 function itemActions(it) {
   const wrap = document.createElement('div');
   wrap.className = 'actions';
-  const boletin = esBoletin(it);
   if (it.estado === 'pendiente') {
     wrap.appendChild(mkBtn('Marcar para publicar', 'publicar', () => setEstado(it.id, 'a_publicar')));
-    if (boletin) wrap.appendChild(mkBtn('Marcar para investigar', 'investigar', () => setEstado(it.id, 'a_investigar')));
+    wrap.appendChild(mkBtn('Marcar para investigar', 'investigar', () => setEstado(it.id, 'a_investigar')));
     wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
   } else if (it.estado === 'a_publicar') {
     wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => setEstado(it.id, 'pendiente')));
-    if (boletin) wrap.appendChild(mkBtn('Pasar a investigar', 'investigar', () => setEstado(it.id, 'a_investigar')));
+    wrap.appendChild(mkBtn('Pasar a investigar', 'investigar', () => setEstado(it.id, 'a_investigar')));
     wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
   } else if (it.estado === 'a_investigar') {
     wrap.appendChild(mkBtn('Marcar para publicar', 'publicar', () => setEstado(it.id, 'a_publicar')));
@@ -392,6 +412,12 @@ function buildItemCard(it) {
 
 function render() {
   renderMacroTabs();
+  const macro = MACROS.find(m => m.key === activeMacro);
+  if (macro.esAgenda) {
+    renderTabs();
+    renderAgendaList();
+    return;
+  }
   renderTabs();
   const list = document.getElementById('list');
   list.innerHTML = '';
@@ -412,6 +438,89 @@ function render() {
   filtered.forEach(it => list.appendChild(buildItemCard(it)));
 }
 
+function renderAgendaList() {
+  const list = document.getElementById('list');
+  list.innerHTML = '';
+
+  const addBar = document.createElement('div');
+  addBar.style.marginBottom = '14px';
+  addBar.appendChild(mkBtn('+ Agregar evento', 'publicar', () => abrirAgenda(null)));
+  list.appendChild(addBar);
+
+  const filtered = agendaItems
+    .filter(a => a.estado === activeAgendaEstado)
+    .sort((a, b) => {
+      if (!a.fecha && !b.fecha) return 0;
+      if (!a.fecha) return 1; // sin fecha al final
+      if (!b.fecha) return -1;
+      return a.fecha.localeCompare(b.fecha);
+    });
+  if (filtered.length === 0) {
+    const empty = document.createElement('div');
+    empty.className = 'empty';
+    empty.textContent = 'Nada acá por ahora.';
+    list.appendChild(empty);
+    return;
+  }
+  filtered.forEach(a => list.appendChild(buildAgendaCard(a)));
+}
+
+function buildAgendaCard(a) {
+  const div = document.createElement('div');
+  div.className = 'item';
+  const h3 = document.createElement('h3');
+  h3.textContent = a.evento || '(sin descripción)';
+  div.appendChild(h3);
+
+  const meta = document.createElement('div');
+  meta.className = 'meta';
+  meta.innerHTML = (a.fecha ? a.fecha : '<span class="badge sinfecha">sin fecha exacta</span>') +
+    (a.tipo ? ` · ${a.tipo}` : '') +
+    (a.fuente ? ` · ${a.fuente}` : '') +
+    (a.origen_id ? ` · <a href="#" onclick="return false;" title="${a.origen_id}">ítem de la cablera</a>` : ' · agregado a mano');
+  div.appendChild(meta);
+
+  if (a.detalle) {
+    const p = document.createElement('div');
+    p.className = 'texto';
+    p.style.maxHeight = 'none';
+    p.textContent = a.detalle;
+    div.appendChild(p);
+  }
+
+  const wrap = document.createElement('div');
+  wrap.className = 'actions';
+  if (a.estado === 'pendiente') {
+    wrap.appendChild(mkBtn('Marcar cubierto', 'publicar', () => marcarAgenda(a.id, 'cubierto')));
+    wrap.appendChild(mkBtn('Marcar vencido sin seguimiento', 'descartar', () => marcarAgenda(a.id, 'vencido_sin_seguimiento')));
+  } else {
+    wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => marcarAgenda(a.id, 'pendiente')));
+  }
+  div.appendChild(wrap);
+  return div;
+}
+
+async function marcarAgenda(id, estado) {
+  const a = agendaItems.find(x => x.id === id);
+  if (!a) return;
+  if (estado === 'cubierto') {
+    const link = prompt('¿Link o referencia de la nota que lo cubrió? (opcional)');
+    if (link) a.detalle = (a.detalle ? a.detalle + ' — ' : '') + `Cubierto: ${link.trim()}`;
+  }
+  const prev = a.estado;
+  a.estado = estado;
+  render();
+  try {
+    setStatus('Guardando...');
+    await guardarAgenda(`Agenda: ${id} → ${estado}`);
+    setStatus('Guardado.', 'ok');
+  } catch (e) {
+    a.estado = prev;
+    setStatus('Error guardando: ' + e.message, 'error');
+    render();
+  }
+}
+
 document.getElementById('btnConfig').onclick = () => {
   const c = cfg();
   document.getElementById('cfgOwner').value = c.owner;
@@ -421,12 +530,14 @@ document.getElementById('btnConfig').onclick = () => {
   document.getElementById('cfgToken').value = c.token;
   document.getElementById('configDialog').showModal();
 };
-let agendaTargetItem = null;
+let agendaTargetItem = null; // item de la cablera de origen, o null si es alta manual
 
 function abrirAgenda(it) {
   agendaTargetItem = it;
-  document.getElementById('agEvento').value = it.titulo || '';
+  document.getElementById('agendaDialogTitulo').textContent = it ? 'Agregar a la agenda' : 'Agregar evento a la agenda';
+  document.getElementById('agEvento').value = it ? (it.titulo || '') : '';
   document.getElementById('agFecha').value = '';
+  document.getElementById('agFuente').value = it ? (it.fuente || '') : '';
   document.getElementById('agTipo').value = 'evento';
   document.getElementById('agDetalle').value = '';
   document.getElementById('agendaDialog').showModal();
@@ -434,30 +545,33 @@ function abrirAgenda(it) {
 
 document.getElementById('agCancel').onclick = () => document.getElementById('agendaDialog').close();
 document.getElementById('agSave').onclick = async () => {
-  const it = agendaTargetItem;
-  if (!it) return;
+  const it = agendaTargetItem; // puede ser null (alta manual desde la pestaña Agenda)
   const evento = document.getElementById('agEvento').value.trim();
   if (!evento) { alert('Falta describir el evento.'); return; }
   const fecha = document.getElementById('agFecha').value.trim() || null;
+  const fuente = document.getElementById('agFuente').value.trim();
   const tipo = document.getElementById('agTipo').value;
   const detalle = document.getElementById('agDetalle').value.trim() || null;
   document.getElementById('agendaDialog').close();
+  const nuevo = {
+    id: `${it ? it.id : 'manual'}-agenda-${Date.now()}`,
+    fecha,
+    evento,
+    tipo,
+    fuente,
+    origen_id: it ? it.id : null,
+    detalle,
+    agregado_el: new Date().toISOString(),
+    estado: 'pendiente',
+  };
   try {
     setStatus('Guardando en la agenda...');
+    // Releer antes de escribir -- puede haber cambiado desde que se cargó la pagina.
     const { data, sha } = await ghGetPath(AGENDA_PATH);
-    data.push({
-      id: `${it.id}-agenda-${Date.now()}`,
-      fecha,
-      evento,
-      tipo,
-      fuente: it.fuente || '',
-      origen_id: it.id,
-      detalle,
-      agregado_el: new Date().toISOString(),
-      estado: 'pendiente',
-    });
-    await ghPutPath(AGENDA_PATH, sha, data, `Agenda: agregar "${evento}" (desde ${it.id})`);
-    agendaIds.add(it.id);
+    data.push(nuevo);
+    agendaSha = await ghPutPath(AGENDA_PATH, sha, data, `Agenda: agregar "${evento}"` + (it ? ` (desde ${it.id})` : ' (manual)'));
+    agendaItems = data;
+    if (it) agendaIds.add(it.id);
     setStatus('Agregado a la agenda.', 'ok');
     render();
   } catch (e) {
