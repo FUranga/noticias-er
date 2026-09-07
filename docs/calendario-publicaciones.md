@@ -8,7 +8,7 @@ Se ordena por periodicidad, no por organismo, para que sea más fácil convertir
 
 | Qué | Organismo | Frecuencia |
 |---|---|---|
-| Boletín Oficial de la Nación | Nacional | Diario hábil |
+| Boletín Oficial de la Nación | Nacional | Diario hábil — **implementado 2026-09-07**: `pipeline/monitorear_boletin_nacional.py` filtra solo lo que menciona "Entre Ríos" o "Salto Grande" (ver `docs/fuentes.md`, entrada BORA) |
 | Boletín Oficial de Entre Ríos (Mi Entre Ríos) | Provincial | **Corregido 2026-09-06**: el índice de ediciones muestra publicación en días hábiles consecutivos (no semanal como se creía) — ver `docs/boletin-oficial-proceso.md`. Un dato de `Last-Modified` sugiere publicación ~13:24 hora Argentina. |
 | Boletín Oficial Digital Municipal de Paraná | Municipal | Según publicación (más reciente que el provincial) |
 | Transferencias de coparticipación a provincias | Ministerio de Economía / Nación | Automáticas a diario, informe consolidado mensual |

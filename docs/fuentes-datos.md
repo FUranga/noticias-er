@@ -18,6 +18,14 @@ Distinto de `docs/fuentes.md` (organismos que emiten comunicados, mantenido por 
   - **Récord confirmado para Entre Ríos**: sobre la métrica "Suma Móvil 4 Trim." (TTM) del dashboard, el pico actual (~56M, coincide con el dato anualizado del comunicado oficial) es el máximo de toda la serie histórica — el pico anterior más alto fue ~41M, alrededor de 2019. Es un récord real, no solo crecimiento interanual.
   - Nacional: mismo patrón, la serie completa confirma el récord de USD ~10.085M que ya reportaba Argencon.
 
+## Dirección General de Estadística y Censos de Entre Ríos (DGEC)
+
+Verificado 2026-09-07, a partir de la pregunta de Francisco sobre si valía la pena una fuente propia en vez de esperar que algo aparezca en el portal general de gobierno o en INDEC — en este caso sí: la DGEC (`entrerios.gov.ar/dgec`) publica informes propios (Canasta Básica y Total de Paraná, indicadores laborales, EPH) que **no salen por el portal general de noticias** (`portal.entrerios.gov.ar/noticias/`, cubierto por `pipeline/monitorear_gobierno_er.py`) — son publicaciones técnicas con su propia cadencia, no gacetillas de prensa.
+
+- **Es WordPress real**, con RSS (`entrerios.gov.ar/dgec/feed/`) y REST API (`/dgec/wp-json/wp/v2/posts`) — pero **no sirven para ingesta automática de los informes reales**: el tipo de contenido estándar `post` que exponen ambos mecanismos es un catálogo de datos censales por departamento (más de 500 entradas, la inmensa mayoría cargadas de una vez en julio de 2019, muchas sin título) — no el lugar donde se publican los comunicados de EPH/IPC/canasta básica que sí importan. Esos viven en páginas estáticas del sitio (ej. `/dgec/trabajo/`), fuera del post type estándar de WordPress — no hay RSS/API que avise cuándo se actualizan.
+- **Mecanismo recomendado**: monitoreo por calendario, no por feed — ya está en `docs/calendario-publicaciones.md` (Canasta Básica de Paraná, mensual; EPH trimestral). Revisar la página correspondiente cuando el calendario indica que debería haber salida nueva, en vez de esperar una notificación automática.
+- **Reuniones/agenda**: no aplica — es un organismo técnico de producción de estadísticas, no un ente que tome decisiones en reuniones o audiencias públicas (a diferencia del EPRE). No se buscó nada en ese sentido por no corresponder al tipo de organismo.
+
 ## Cómo se usa
 
 Antes de citar una cifra de este tema en una nota, revisar acá primero — si ya está verificada, ahorra la búsqueda; si no, buscar y agregar la fuente nueva con su fecha de verificación.
