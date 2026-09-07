@@ -3,6 +3,8 @@ import { Header } from "@/components/Header";
 import {
   getPostsParaPortada,
   featuredImageUrl,
+  featuredImageCredit,
+  minutosDeLectura,
   categoryName,
   authorName,
   type WpPost,
@@ -30,13 +32,32 @@ function Kicker({ post }: { post: WpPost }) {
 
 // Etiqueta chica de estado -- se usa con cuentagotas (solo el ítem más
 // reciente de la portada), no en cada nota. Un badge en todos lados deja de
-// significar algo.
+// significar algo. Relleno sólido, no un borde vacío -- un contorno con texto
+// de color adentro termina pareciendo un cupón de descuento, no una etiqueta
+// editorial (ningún diario de referencia la arma así).
 function Etiqueta({ texto }: { texto: string }) {
   return (
-    <span className="kicker kicker-accent mr-2 inline-block rounded-sm border border-accent px-1.5 py-0.5 align-middle">
+    <span className="mr-2 inline-block bg-accent px-1.5 py-0.5 align-middle font-ui text-[0.65rem] font-bold uppercase tracking-[0.07em] text-white">
       {texto}
     </span>
   );
+}
+
+// Detalle chico ("X MIN de lectura") al lado de la bajada -- NYT lo muestra
+// junto a sus notas destacadas ("4 MIN READ"). Da sensación de diario vivo,
+// no es solo decoración.
+function TiempoLectura({ post }: { post: WpPost }) {
+  return <span className="font-ui text-xs text-neutral-500">{minutosDeLectura(post)} min de lectura</span>;
+}
+
+// Crédito de la foto -- dato que ya se junta (ver docs/politica-imagenes.md
+// y featuredImageCredit en wp.ts) pero no se mostraba en ningún lado de la
+// portada. Cualquier diario de referencia siempre acredita la foto, aunque
+// sea chico.
+function CreditoFoto({ post }: { post: WpPost }) {
+  const credito = featuredImageCredit(post);
+  if (!credito) return null;
+  return <p className="font-ui -mt-2 mb-3 text-[0.7rem] text-neutral-400">{credito}</p>;
 }
 
 function Titular({
@@ -106,6 +127,11 @@ function Rio({
   );
 }
 
+// Siempre es la pieza "destacada" de su sección (nunca un ítem chico de
+// grilla) -- por eso, a diferencia del río, siempre lleva bajada y tiempo de
+// lectura. Es la misma distinción real que ya vimos en NYT: no es que
+// "algunas notas tengan bajada al azar", es que la tienen las piezas con
+// tratamiento propio, no los brefs.
 function TarjetaFoto({
   post,
   proporcion = "aspect-[3/2]",
@@ -117,14 +143,24 @@ function TarjetaFoto({
 }) {
   const imagen = featuredImageUrl(post);
   return (
-    <Link href={`/nota/${post.slug}`} className="group block">
-      {imagen && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img src={imagen} alt="" className={`mb-3 w-full object-cover ${proporcion}`} />
-      )}
-      <Kicker post={post} />
-      <Titular post={post} tamaño={tamañoTitulo} />
-    </Link>
+    <div>
+      <Link href={`/nota/${post.slug}`} className="group block">
+        {imagen && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src={imagen} alt="" className={`mb-1.5 w-full object-cover ${proporcion}`} />
+        )}
+      </Link>
+      <CreditoFoto post={post} />
+      <Link href={`/nota/${post.slug}`} className="group block">
+        <Kicker post={post} />
+        <Titular post={post} tamaño={tamañoTitulo} />
+        <div
+          className="mt-1.5 text-[0.9rem] leading-snug text-neutral-700 [&_p]:m-0"
+          dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}
+        />
+        <TiempoLectura post={post} />
+      </Link>
+    </div>
   );
 }
 
@@ -282,7 +318,7 @@ export default async function HomePage() {
         )}
 
         {lead && (
-          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.6fr_1fr]">
+          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.4fr_1fr]">
             <Rio posts={columnaIzq} titulo="Última hora" etiquetaPrimero="Último momento" />
 
             {/* Columna central: contenida entre reglas verticales, foto
@@ -294,18 +330,22 @@ export default async function HomePage() {
                   const imagen = featuredImageUrl(lead);
                   return imagen ? (
                     // eslint-disable-next-line @next/next/no-img-element
-                    <img src={imagen} alt="" className="mb-5 aspect-[3/2] w-full object-cover" />
+                    <img src={imagen} alt="" className="mb-1.5 aspect-[3/2] w-full object-cover" />
                   ) : null;
                 })()}
+              </Link>
+              <CreditoFoto post={lead} />
+              <Link href={`/nota/${lead.slug}`} className="group block">
                 <Kicker post={lead} />
                 <Titular post={lead} tamaño="xl" />
                 <div
                   className="mt-4 max-w-xl text-lg leading-snug text-neutral-700 [&_p]:m-0"
                   dangerouslySetInnerHTML={{ __html: lead.excerpt.rendered }}
                 />
-                {authorName(lead) && (
-                  <p className="byline mt-3">Por {authorName(lead)}</p>
-                )}
+                <div className="mt-3 flex items-center gap-3">
+                  {authorName(lead) && <p className="byline">Por {authorName(lead)}</p>}
+                  <TiempoLectura post={lead} />
+                </div>
               </Link>
             </article>
 

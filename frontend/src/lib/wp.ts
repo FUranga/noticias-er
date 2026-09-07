@@ -92,6 +92,18 @@ export function categoryName(post: WpPost): string | null {
   return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.name : null;
 }
 
+/**
+ * Minutos de lectura estimados a partir del cuerpo -- detalle chico que
+ * ayuda a que la portada se sienta "viva" (NYT lo muestra junto a la bajada
+ * de sus notas destacadas: "4 MIN READ"), no una decoración sin sentido:
+ * a ~200 palabras/min, redondeado hacia arriba, mínimo 1.
+ */
+export function minutosDeLectura(post: WpPost): number {
+  const texto = post.content.rendered.replace(/<[^>]+>/g, " ");
+  const palabras = texto.split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(palabras / 200));
+}
+
 export function categorySlug(post: WpPost): string | null {
   const cat = post._embedded?.["wp:term"]?.[0]?.[0];
   return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.slug : null;
