@@ -3754,11 +3754,11 @@
     "link": "https://www.diariojunio.com.ar/caso-ruiz-orrico-la-defensa-busca-una-reduccion-de-la-pena-y-arcusin-cuestiona-el-planteo/",
     "texto_original": "Tras la decisión del Superior Tribunal de Justicia de aceptar el recurso extraordinario federal y fijar una audiencia para el 23 de septiembre, a las 10 horas, Mario Arcusin, abogado querellante de las familias de las cuatro víctimas fatales del siniestro vial ocurrido en la Ruta Provincial 39, explicó esta mañana a DIARIOJUNIO los pormenores de la presentación de la defensa.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:25Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Policial",
     "topicos_matcheados": [
       "justicia",
       "infraestructura_obra_publica"
