@@ -4,7 +4,6 @@ import {
   getPostsParaPortada,
   featuredImageUrl,
   categoryName,
-  categorySlug,
   authorName,
   type WpPost,
 } from "@/lib/wp";
@@ -16,18 +15,17 @@ import { mockEconomia, mockJusticia, mockMunicipios, mockSociedad } from "@/lib/
 // una pieza destacada y una lista de acompañamiento -- la variación entre
 // módulos es la que da la sensación de portada real, no de feed.
 
-// Cada sección tiene su propio color de kicker, sutil (como los "flags" de
-// color por sección del WSJ) -- no todas las secciones se leen igual.
-const KICKER_POR_SECCION: Record<string, string> = {
-  economia: "kicker-accent-2",
-  justicia: "kicker-accent",
-};
-
+// Verificado 2026-09-07 contra nytimes.com y elpais.com, no a ojo (ver
+// inspección de fuentes reales): el kicker SIEMPRE es sans chico en
+// mayúsculas y tinta casi negra, igual en toda la portada -- no cambia de
+// color por sección. Y el titular SIEMPRE es serif en negrita, nunca itálica
+// ni sans, sin importar si es la nota principal o un ítem de una línea en
+// una lista densa -- lo que varía entre una "nota destacada" y un "brief" es
+// el tamaño, nunca la familia tipográfica.
 function Kicker({ post }: { post: WpPost }) {
   const nombre = categoryName(post);
   if (!nombre) return null;
-  const slug = categorySlug(post) ?? "";
-  return <p className={`kicker mb-1.5 ${KICKER_POR_SECCION[slug] ?? ""}`}>{nombre}</p>;
+  return <p className="kicker mb-1.5">{nombre}</p>;
 }
 
 // Etiqueta chica de estado -- se usa con cuentagotas (solo el ítem más
@@ -41,31 +39,23 @@ function Etiqueta({ texto }: { texto: string }) {
   );
 }
 
-// Patrón real de WSJ/NYT: los titulares de nota destacada van en la serif de
-// título (Playfair), pero los ítems de "brief" (río denso, miniaturas) van en
-// una sans bien negra -- la columna "What's News" del WSJ está tipografiada
-// así, distinta de sus notas de tapa. La variación de tipo de letra, no solo
-// de tamaño, es lo que da la sensación de una portada con más de un registro.
 function Titular({
   post,
   tamaño = "base",
-  familia = "serif",
 }: {
   post: WpPost;
   tamaño?: "xl" | "lg" | "base" | "sm" | "xs";
-  familia?: "serif" | "sans";
 }) {
   const clases = {
-    xl: "text-4xl sm:text-5xl leading-[1.02] tracking-tight",
-    lg: "text-2xl sm:text-[1.75rem] leading-[1.08]",
+    xl: "text-4xl sm:text-5xl leading-[1.03] tracking-tight",
+    lg: "text-2xl sm:text-[1.75rem] leading-[1.1] tracking-tight",
     base: "text-lg leading-tight",
     sm: "text-base leading-snug",
     xs: "text-[0.95rem] leading-snug",
   }[tamaño];
-  const tipografia = familia === "sans" ? "font-ui" : "font-headline";
   return (
     <h3
-      className={`${tipografia} font-bold transition-colors group-hover:text-neutral-500 ${clases}`}
+      className={`font-headline font-bold transition-colors group-hover:text-neutral-500 ${clases}`}
       dangerouslySetInnerHTML={{ __html: post.title.rendered }}
     />
   );
@@ -88,7 +78,7 @@ function RioItem({
       <Link href={`/nota/${post.slug}`} className="group block">
         <Kicker post={post} />
         {etiqueta && <Etiqueta texto={etiqueta} />}
-        <Titular post={post} tamaño={destacado ? "base" : "xs"} familia="sans" />
+        <Titular post={post} tamaño={destacado ? "base" : "xs"} />
       </Link>
     </li>
   );
@@ -149,18 +139,20 @@ function ItemMiniatura({ post }: { post: WpPost }) {
         )}
         <div>
           <Kicker post={post} />
-          <Titular post={post} tamaño="xs" familia="sans" />
+          <Titular post={post} tamaño="xs" />
         </div>
       </Link>
     </li>
   );
 }
 
+// Nada de itálica ni de una tercera voz tipográfica -- mismo tratamiento que
+// el kicker (sans, mayúsculas, negrita, tinta casi negra), solo más grande,
+// igual que como NYT/El País marcan una sección dentro de la portada.
 function EncabezadoSeccion({ titulo }: { titulo: string }) {
   return (
-    <div className="mt-16 flex items-baseline gap-3 border-b-2 border-neutral-900 pb-1.5">
-      <h2 className="font-headline text-xl font-bold italic">{titulo}</h2>
-      <div className="h-px flex-1 bg-neutral-300" />
+    <div className="mt-16 border-b-2 border-neutral-900 pb-1.5">
+      <h2 className="font-ui text-base font-bold uppercase tracking-[0.04em]">{titulo}</h2>
     </div>
   );
 }
@@ -247,7 +239,7 @@ function MasLeidas({ posts }: { posts: WpPost[] }) {
           <li key={post.id} className="flex gap-3 border-t border-neutral-300 py-3 first:border-t-0">
             <span className="font-headline text-2xl font-bold text-neutral-300">{i + 1}</span>
             <Link href={`/nota/${post.slug}`} className="group block">
-              <Titular post={post} tamaño="xs" familia="sans" />
+              <Titular post={post} tamaño="xs" />
             </Link>
           </li>
         ))}

@@ -6,7 +6,6 @@
   --rule: #1a1a1a;
   --muted: #6b6b6b;
   --accent: #8a1f11;
-  --accent-2: #1f3a5f;
 }
 
 @theme inline {
@@ -15,7 +14,6 @@
   --color-rule: var(--rule);
   --color-muted: var(--muted);
   --color-accent: var(--accent);
-  --color-accent-2: var(--accent-2);
   --font-serif: var(--font-serif);
   --font-headline: var(--font-headline);
   --font-sans: var(--font-sans);
@@ -31,21 +29,21 @@ body {
   font-family: var(--font-sans);
 }
 
+/* Verificado 2026-09-07 contra nytimes.com y elpais.com (fuente/color/tamaño
+   reales, no a ojo): el kicker es sans chico en mayúsculas, pero en tinta
+   casi negra -- NO gris apagado, NO un color distinto por sección. El color
+   es la excepción puntual (ver .kicker-accent), no la regla. */
 .kicker {
   font-family: var(--font-sans);
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 700;
-  letter-spacing: 0.11em;
+  letter-spacing: 0.07em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: var(--foreground);
 }
 
 .kicker-accent {
   color: var(--accent);
-}
-
-.kicker-accent-2 {
-  color: var(--accent-2);
 }
 
 .byline {
