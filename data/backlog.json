@@ -2556,11 +2556,11 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV01WNEJPUlB3YTZRRDAzQzlqam92Sm1kMXhUNHdxdVB1aDRna2lzWmRRZ0ZZYjlvY1dmSU9MT3lCbDc2Q25wOHhGMzJnYzR1dm0tNEI3NksxbU9rc1NxNHlQa3M3NUl3VWRxM0lOdlZLaDgtbXhoUXZmOHIybkZrYlIzc254Y0ViOWloMllUWlg5Rkx4TUJKWk42SVFmY3NlOWJzTnMtTGt0NDlnOUI0SXZ0eEgxT1ZnZElKTkI1YlFhLTZ4b3lvQUhhRkk?oc=5",
     "texto_original": "Entre Ríos reforzó la educación ambiental en el Día Provincial de las Áreas Naturales Protegidas\n  \nCuestión Entrerriana",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Promocion del gobierno.",
     "topicos_matcheados": [
       "educacion",
       "ambiente"
