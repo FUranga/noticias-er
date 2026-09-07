@@ -3686,11 +3686,11 @@
     "link": "https://www.diariojunio.com.ar/lo-tomaron-como-que-estabamos-alertando-de-algo-que-no-podia-pasar-y-paso-la-advertencia-que-nadie-escucho/",
     "texto_original": "En vísperas de la reunión que el Concejo Deliberante llevará adelante entre las autoridades del PAMI local y del Sanatorio Concordia, algunas voces comenzaron a alertar sobre la necesidad de que se adopten medidas con urgencia. “Si hay un acuerdo, va a llevar tiempo. Todo esto va a llevar tiempo. Mientras tanto, los jubilados son los que sufren las consecuencias y, en algunos casos, muy graves”, remarcó esta mañana a DIARIOJUNIO el secretario general de ATE (Asociación de Trabajadores del Estado) Concordia, Pedro Pérez. En tanto, Ramón Cabrera, representante de la Mesa de Jubilados y Pensionados de la Plaza 25 de Mayo, manifestó que desde junio que venían entregando notas a todos los concejales reclamando que intervenga el cuerpo deliberativo. Pero no los escucharon. “Lo tomaron como que éramos nosotros, los de la Plaza, que estábamos alertando de algo que no podía pasar. Y pasó”, mencionó.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:25Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "No entendi de que se trataba mal escrita",
     "topicos_matcheados": [
       "empleo",
       "servicios_publicos",
