@@ -2621,11 +2621,11 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzZnMW5KQlQ3a2lMem5MOUZHX0taNEhlRjU1UGw0ejZac1M2bklfYWtxTjROWm5wNmxZb1F0Ukdsbnk4NFpSTlBkd3FveWdWdU8tRmVqSnc1SEREaVFuZm1Lb2tTclQwNEdFMGNKYy1yazJ0SHdFdWhXVDV4UjRYUlR6QmhQOVVaZzBOdFczMXFiYXlsMG1IeUFWeUVNRFQ3UUlFS1MtVzVSQQ?oc=5",
     "texto_original": "Comenzaron las actividades de la Escuela Municipal Multideporte\n  \ngualeguaychu.gov.ar",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Promocion del gobierno.",
     "topicos_matcheados": [
       "educacion"
     ],
