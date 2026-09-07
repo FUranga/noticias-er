@@ -1,6 +1,6 @@
 # Criterios de noticiabilidad (aprendidos con el uso)
 
-Documento vivo. A diferencia de `docs/estilo-editorial.md` (cómo se escribe), esto es sobre **qué elige publicar el editor y qué no** — el criterio real de Francisco, no una regla teórica. Se actualiza con la skill `aprender-noticiabilidad`, a partir de lo que se marca `a_publicar`/`procesado` vs. `descartado` en `data/backlog.json` (con su `motivo_descarte` cuando está anotado).
+Documento vivo. A diferencia de `docs/estilo-editorial.md` (cómo se escribe), esto es sobre **qué elige publicar el editor y qué no** — el criterio real de Francisco, no una regla teórica. Se actualiza con la skill `aprender-noticiabilidad`, a partir de lo que se marca `a_publicar` (con o sin borrador ya subido a WordPress) vs. `descartado` en `data/backlog.json` (con su `motivo_descarte` cuando está anotado).
 
 **Esto es material de apoyo para `evaluar-comunicado`, nunca una regla que decida sola.** La decisión de noticiabilidad sigue siendo siempre del editor — ver `CLAUDE.md`. Este documento sirve para que las sugerencias de `evaluar-comunicado` se parezcan cada vez más a cómo piensa Francisco, no para automatizar la decisión.
 
@@ -44,4 +44,4 @@ Lo que hace que algo sea publicable no es que tenga un dato duro o un organismo 
 
 ## Próxima actualización
 
-Correr `aprender-noticiabilidad` cuando haya un lote nuevo de ítems `descartado`/`procesado` sin analizar todavía — no hace falta esperar un volumen enorme, con 5-10 descartes nuevos ya vale la pena revisar si hay un patrón.
+Correr `aprender-noticiabilidad` cuando haya un lote nuevo de ítems `descartado`/`a_publicar` sin analizar todavía — no hace falta esperar un volumen enorme, con 5-10 descartes nuevos ya vale la pena revisar si hay un patrón.

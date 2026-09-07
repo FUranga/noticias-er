@@ -9,7 +9,7 @@ Contexto: `admin/index.html` es el panel donde el editor (Francisco) mira `data/
 
 ## Proceso
 
-1. **Leer `data/backlog.json`** y filtrar los ítems con `"estado": "a_publicar"`. **Excluir los que tengan `"fuente": "Boletín Oficial de Entre Ríos"`** — esos no están listos para redactar directo: "a publicar" en un ítem del Boletín significa "marcado para investigar" (ver `docs/boletin-oficial-proceso.md`), no "noticiable tal cual viene". Necesitan la skill `investigar-boletin` (todavía no construida) antes de pasar por acá — si aparecen en el lote, señalarlos aparte en el reporte final en vez de redactarlos, para que no se cuelen como si fueran un comunicado de prensa común. Si no queda ningún ítem después de esta exclusión, avisar y no hacer nada más.
+1. **Leer `data/backlog.json`** y filtrar los ítems con `"estado": "a_publicar"`. Los ítems del Boletín Oficial de Entre Ríos con este estado ya vienen así porque el editor específicamente consideró que alcanza con investigación breve (ver `docs/boletin-oficial-proceso.md`) — se procesan igual que cualquier otro ítem, no hace falta excluirlos aparte. Los que el editor marcó `"estado": "a_investigar"` (para reporteo más largo, más de un día) tienen otro estado y por eso no entran en este filtro; quedan esperando la futura skill `investigar-boletin`. Si no queda ningún ítem, avisar y no hacer nada más.
 
 2. **Para cada ítem**, en orden:
    1. Si tiene `texto_original`, usarlo como material fuente. Si además tiene `link` y el texto parece incompleto (muy corto, cortado), usar WebFetch sobre el `link` para completar — sin pisar lo que el editor ya haya escrito a mano en `texto_original`.
@@ -35,7 +35,7 @@ Contexto: `admin/index.html` es el panel donde el editor (Francisco) mira `data/
       Guardarlo en `pipeline/_tmp_<id>.txt` (este patrón de archivo temporal no se commitea — confirmar que `pipeline/_tmp_*.txt` esté en `.gitignore`, agregarlo si no está).
    5. Correr `python publicar_borrador.py pipeline/_tmp_<id>.txt [imagen] [credito]` (con la imagen y su crédito si se consiguieron) desde la carpeta `pipeline/`. Leer la salida para obtener el id del post y el link de edición.
    6. Borrar el archivo temporal.
-   7. **Actualizar `data/backlog.json`**: ese ítem pasa a `"estado": "procesado"`, con `"procesado_el"` en la fecha/hora actual y `"wp_edit_url"` con el link de edición que devolvió el script.
+   7. **Actualizar `data/backlog.json`**: el `"estado"` del ítem **no cambia** (sigue en `"a_publicar"` — es la decisión editorial, no algo que este paso deba tocar). Agregar `"procesado_el"` con la fecha/hora actual y `"wp_edit_url"` con el link de edición que devolvió el script: esa combinación es la marca de "ya tiene borrador en WordPress" que el panel admin muestra como check, sin moverlo de pestaña (ver `docs/boletin-oficial-proceso.md`).
 
 3. **Commitear y pushear** los cambios a `data/backlog.json` en un solo commit al final del lote (no uno por ítem), con mensaje tipo `Cablera: procesados N items (ids: ...)`. Antes de commitear, `git pull` si hace falta — el panel admin escribe directo a GitHub y puede haber cambios ajenos en el medio (mismo chequeo que en los proyectos hermanos: `git fetch origin`, `git status`, y si `origin/main` avanzó, resolver antes de pushear en vez de sobreescribir).
 

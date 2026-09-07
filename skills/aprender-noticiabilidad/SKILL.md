@@ -13,7 +13,7 @@ Contexto: `docs/criterios-noticiabilidad.md` es un documento vivo que intenta ca
 
 1. **Leer `data/backlog.json`.** Separar:
    - **Negativos**: ítems `estado: "descartado"`.
-   - **Positivos**: ítems `estado: "procesado"` (llegaron a convertirse en borrador — el editor los consideró noticiables) y `estado: "a_publicar"` (marcados pero todavía no procesados, también cuentan como positivos).
+   - **Positivos**: ítems `estado: "a_publicar"` — con `wp_edit_url` ya llegaron a convertirse en borrador, sin él todavía están marcados pero no procesados; ambos casos cuentan como positivos (no hay estado `procesado` separado, ver `docs/boletin-oficial-proceso.md`).
    - **Ítems del Boletín Oficial** (`fuente: "Boletín Oficial de Entre Ríos"`): entran al mismo análisis, pero anotá los patrones que salgan de ahí por separado en `docs/boletin-oficial-proceso.md` (sección "Qué buscar al triagear un ítem"), no en este documento — el material es texto legal, no comunicados de prensa, y mezclar los dos tipos de patrón en `docs/criterios-noticiabilidad.md` lo haría más confuso, no más útil.
 
 2. **Para los descartes sin `motivo_descarte`** (campo vacío o null): no inventes el motivo. Si hay pocos (uno a uno es viable), preguntale directamente al usuario: "¿por qué descartaste [título]?" y esperá la respuesta antes de sacar conclusiones sobre ese ítem — no lo uses para el análisis hasta tener el motivo real. Si hay muchos sin motivo, agrupalos por similitud (misma fuente, mismo tipo de comunicado) y preguntá por lote en vez de uno por uno.

@@ -51,8 +51,8 @@ def slug_de_link(link: str) -> str:
     return link.rstrip("/").rsplit("/", 1)[-1]
 
 
-def obtener_noticias() -> list[dict]:
-    resp = requests.get(FEED_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+def obtener_noticias(feed_url: str = FEED_URL) -> list[dict]:
+    resp = requests.get(feed_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
     resp.raise_for_status()
     root = ElementTree.fromstring(resp.content)
 

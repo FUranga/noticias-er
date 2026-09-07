@@ -5,9 +5,9 @@ description: Resume en limpio los ítems "pendiente" del Boletín Oficial de Ent
 
 # Evaluar pendientes del Boletín Oficial
 
-Contexto: `pipeline/monitorear_boletin_er.py` carga a `data/backlog.json` (estado `pendiente`, `fuente: "Boletín Oficial de Entre Ríos"`) las normas que sobreviven un filtro puramente mecánico — no hay ningún juicio editorial en ese paso, solo descarte de categorías estructuralmente sin chance de ser noticia (ver `docs/boletin-oficial-proceso.md`). Esta skill es el primer paso con juicio editorial: un triage rápido para que el editor decida qué marcar "a investigar" (estado `a_publicar`) y qué descartar, sin tener que leer cada decreto entero.
+Contexto: `pipeline/monitorear_boletin_er.py` carga a `data/backlog.json` (estado `pendiente`, `fuente: "Boletín Oficial de Entre Ríos"`) las normas que sobreviven un filtro puramente mecánico — no hay ningún juicio editorial en ese paso, solo descarte de categorías estructuralmente sin chance de ser noticia (ver `docs/boletin-oficial-proceso.md`). Esta skill es el primer paso con juicio editorial: un triage rápido para que el editor decida entre tres caminos — marcar `a_publicar` (alcanza con investigación breve), marcar `a_investigar` (tema de fondo, más de un día de reporteo) o descartar — sin tener que leer cada decreto entero.
 
-**Esta skill no decide ni investiga.** Es el equivalente de `evaluar-comunicado` pero para material legal en vez de comunicados de prensa — dejá la decisión al editor. El siguiente paso después de que algo se marca "a investigar" es una skill separada (`investigar-boletin`, todavía no construida) que sí hace el reporteo real.
+**Esta skill no decide ni investiga.** Es el equivalente de `evaluar-comunicado` pero para material legal en vez de comunicados de prensa — dejá la decisión al editor. Un ítem marcado `a_publicar` sigue el camino normal de `procesar-cablera`. El siguiente paso después de que algo se marca `a_investigar` es una skill separada (`investigar-boletin`, todavía no construida) que sí hace el reporteo real.
 
 ## Diferencia con `evaluar-comunicado`
 
@@ -27,11 +27,10 @@ Un comunicado de prensa ya viene con un ángulo elegido por quien lo emite (aunq
 
    **Nombramientos, ceses y renuncias**: aplicar el chequeo específico de `docs/boletin-oficial-proceso.md`, sección "Foco específico: nombramientos, ceses y renuncias" — nivel del cargo, si es llegada o salida, si el decreto da motivo, antecedentes de conflicto. La gran mayoría es rutina; el objetivo es no dejar pasar en silencio la excepción (cargo de peso, salida sin explicación, algo que no se conocía por otra vía).
 
-4. **Señalar explícitamente si hay ángulo noticioso potencial y cuál sería**, distinguiendo dos casos:
-   - **Podría alcanzar para nota con poco reporteo adicional** (raro, pero pasa con licitaciones bien documentadas o resoluciones de impacto directo tipo tarifas).
-   - **Es candidato a investigación, no a redacción directa** (el caso más común, sobre todo leyes y decretos de fondo — ver el ejemplo del "Norte Entrerriano" en `docs/boletin-oficial-proceso.md`): señalar qué habría que averiguar (quién lo impulsó, antecedentes, si hay voces críticas) para que se convierta en nota real.
-   
-   Si no se identifica ángulo claro, decilo así en vez de forzar uno.
+4. **Señalar explícitamente cuál de los tres caminos corresponde, y por qué**:
+   - **`a_publicar`**: alcanza para nota con poco reporteo adicional (raro, pero pasa con licitaciones bien documentadas o resoluciones de impacto directo tipo tarifas).
+   - **`a_investigar`**: candidato a investigación más larga, no a redacción directa (el caso más común, sobre todo leyes y decretos de fondo — ver el ejemplo del "Norte Entrerriano" en `docs/boletin-oficial-proceso.md`): señalar qué habría que averiguar (quién lo impulsó, antecedentes, si hay voces críticas) para que se convierta en nota real.
+   - **Descartar**: si no se identifica ángulo claro, decilo así en vez de forzar uno.
 
 5. **Usar la `prioridad` que ya viene tageada por el script (alta/media/baja) como primera señal, no como veredicto** — está calculada mecánicamente (ver `docs/boletin-oficial-proceso.md`) y puede no capturar todo. Está bien confirmarla, matizarla o contradecirla en el resumen si el contenido real lo justifica.
 
@@ -44,10 +43,11 @@ Un comunicado de prensa ya viene con un ángulo elegido por quien lo emite (aunq
    Dato duro: [monto/plazo/alcance] | ninguno
    Prioridad del script: alta | media | baja
    Ángulo potencial: [cuál, y qué habría que investigar] | no se identifica ángulo claro
+   Sugerencia: a_publicar | a_investigar | descartar
    ```
    Al final del lote, señalar cuáles parecen más prometedores para revisar primero (no necesariamente los de prioridad "alta" del script — la lectura del contenido puede cambiar eso).
 
-8. **No redactes nada en este paso.** Si el usuario quiere avanzar con un ítem puntual una vez marcado "a investigar" desde el panel, eso es trabajo de la futura skill `investigar-boletin` — no de esta.
+8. **No redactes nada en este paso.** Si el usuario quiere avanzar con un ítem puntual una vez marcado `a_investigar` desde el panel, eso es trabajo de la futura skill `investigar-boletin` — no de esta. Un ítem marcado `a_publicar` sigue el camino normal de `procesar-cablera`, sin paso intermedio.
 
 ## Cómo evoluciona esta skill
 
