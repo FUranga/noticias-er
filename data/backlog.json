@@ -2421,5 +2421,1452 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-e9666ee099c8",
+    "fuente": "Mirador Provincial",
+    "titulo": "Transporte público: suman cinco trámites digitales a la plataforma Mi Entre Ríos",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkdSUS13MUJNbXVMT2NJX2owM2tnYW5JRHRHOTI1SURhdkN6a2RLQ3d1bXlGZll0U24xTC1RNm0yTzJUMjNBcWFkS0ZjVjEwZEFHNm1GTTB6LVBhcVRPSWJlQTk1Zk1fQWVqakcwaDE0ZTUxQ2J3NnZpUW45MlV3T3YwRTd4VVJkUHVzN3czNUczZy1DdG9halZVby1GMWpTcURwQU1CeEVqMElleTBhY0RiX3l2UUVjYnRjYVJBd1J3Q1E?oc=5",
+    "texto_original": "Transporte público: suman cinco trámites digitales a la plataforma Mi Entre Ríos\n  \nMirador Provincial",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ccd279e69f2b",
+    "fuente": "El Día de Gualeguaychú",
+    "titulo": "Entre Ríos moderniza los trámites de Transporte y fortalece la fiscalización con herramientas digitales",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUtNcUl4bnhMeUNrWGZCYVpONlplS3hBT3FUSzdWXzRxdGtPdnRYN3Q1c2NBUXVZRmV5VFgtWnhDaU81WUdlYk1hWUlWX1BPZlRnd0ZMaUJwdjdITmVpM1B6VUZWbXJOX1JuWDZ4NnpVc2JqX3JNbWxVOV8yZEFnVEVuLUl3ZVdIWHZFTjB6QmJ4Yk5kUU4zdWhHZkJUT3BYOHp2cjZDdjgtbEVkVjlPLTUxYzJUS2RhSnlSN2tPWnR6enJxcU1lVUM2QQ?oc=5",
+    "texto_original": "Entre Ríos moderniza los trámites de Transporte y fortalece la fiscalización con herramientas digitales\n  \nEl Día de Gualeguaychú",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-9ab30cea2d7a",
+    "fuente": "La Política Ambiental",
+    "titulo": "Uruguay relocalizará la megaplanta de HIF frente a Entre Ríos, pero el conflicto ambiental todavía no terminó",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakZKanVmaUI1eEFqT0RzZVU1YjZaZ3NLUzJFZTBmVjdhc2FPVXpCSzFSX3pMcEZVNnV3TGpZRmZtdXdZYWozaWNsVHU5QWpyd0ZzUFZTeklNekUyT1N6bDR4ajhrQ3VBVXhsMTMxWlhTVFo4Sm1ZSnNGVHAtNUNUVllpWV9vX19FQXhTUEh3bTZrRGVMSXoyTTFyTW1QRjlhaU00UUVJdEU3MUNWS3dRSWhGWWN1QkNTTWxSQWViZDJ5cXEyY2g1Sw?oc=5",
+    "texto_original": "Uruguay relocalizará la megaplanta de HIF frente a Entre Ríos, pero el conflicto ambiental todavía no terminó\n  \nLa Política Ambiental",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-4f62699a7208",
+    "fuente": "Letra P",
+    "titulo": "Entre Ríos: Marcelo Casaretto, el primer adelantado y el desafío de unificar al peronismo rumbo a 2027",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcHZmeGRNbG9qYWhtb0R1LTJMeDdfUEdoY0pqbG5HSHpBODlYbFFoOXdiSjZEOFBZaXM3dHMyUDhwazVvdjdBbElaZTE0UjRQVmRCa1B4N1lIS2ZuVllzbGwxSkVfZkFhWlNBSEpMbVhkV1dvRm5WRFZXSEdnYTk2WjhXWjV6b21BV0VBY2hvOG1ybjdONEpXaU4za3VxMTR4M1I4ZldOcGdoSmhPTDF3YUY3d3JGSzZCRngtMXA2aVhrUHZzeWl3WlpTWXFqemlHTHZDeTlvSEZmSE3SAdsBQVVfeXFMTXB2ZnhkTWxvamFobW9EdS0yTHg3X1BHaGNKamxuR0h6QTg5WGxRaDl3Yko2RDhQWWlzN3RzMlA4cGs1b3Y3QWxJWmUxNFI0UFZkQmtQeDdZSEtmblZZc2xsMUpFX2ZBYVpTQUhKTG1YZFdXb0ZuVkRWV0hHZ2E5Nlo4V1o1em9tQVdFQWNobzhtcm43TjRKV2lOM2t1cTE0eDNSOGZXTnBnaEpoT0wxd2FGN3dyRks2QkZ4LTFwNmlYa1B2c3lpd1paU1lxanppR0x2Q3k5b0hGZkhN?oc=5",
+    "texto_original": "Entre Ríos: Marcelo Casaretto, el primer adelantado y el desafío de unificar al peronismo rumbo a 2027\n  \nLetra P",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-e32cd8006f10",
+    "fuente": "Bichos de Campo",
+    "titulo": "El modelo cordobés sigue haciendo escuela: Entre Ríos aprobó su propia ley de consorcios camineros, aunque con reparos por la tercerización y el esquema de controles",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUDhXYnJqOVFfV0lOV19zNmdfU3R2dG0tbUUyTEduWmtoYW51Wmk0a05SdnlQT216M0NOQmdsTXJqYy02MFFXX21MN2lkTVBaTUFiWEJGaGUtWDhEcWJiZTFSaWRzM2Fvc1paZXVOWlJIV1N4YWxtVExQR3ZNSVFJcTdLQjFmRVJqbHN1MFZPblRoQjRHNjEzUTNoakY5T3dEVHc5SUNKczlWMkxWNW13bkVIVU9XaDk5OGRFN0Q2ZE5IOUhPd2RGN1k3dEdhYzVOTUJXUW1VWVh3RE1iV0xaMjhFM1VuM1dZLW5qREZQbUZfYzZsanRzSkJvWXgtNmlDV0hJMVhqOGdpMjFvZEVFNXd3UzJpUk12VGQ0?oc=5",
+    "texto_original": "El modelo cordobés sigue haciendo escuela: Entre Ríos aprobó su propia ley de consorcios camineros, aunque con reparos por la tercerización y el esquema de controles\n  \nBichos de Campo",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-76481b7a30d3",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Estudiantes de escuela técnica presentaron un proyecto de robótica con inteligencia artificial",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OEVEc0pxTVB2T3FIeGJJMUdfMXI2WmxwZ21CbEpJNjRQa2dwM2FyVG0tZUM1RGNZMHNveW15a21EMmJLT25mRFpQanB5NnIzdjk2d0RpYTlfUQ?oc=5",
+    "texto_original": "Estudiantes de escuela técnica presentaron un proyecto de robótica con inteligencia artificial\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f1a22e5a76a3",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "Entre Ríos reforzó la educación ambiental en el Día Provincial de las Áreas Naturales Protegidas",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV01WNEJPUlB3YTZRRDAzQzlqam92Sm1kMXhUNHdxdVB1aDRna2lzWmRRZ0ZZYjlvY1dmSU9MT3lCbDc2Q25wOHhGMzJnYzR1dm0tNEI3NksxbU9rc1NxNHlQa3M3NUl3VWRxM0lOdlZLaDgtbXhoUXZmOHIybkZrYlIzc254Y0ViOWloMllUWlg5Rkx4TUJKWk42SVFmY3NlOWJzTnMtTGt0NDlnOUI0SXZ0eEgxT1ZnZElKTkI1YlFhLTZ4b3lvQUhhRkk?oc=5",
+    "texto_original": "Entre Ríos reforzó la educación ambiental en el Día Provincial de las Áreas Naturales Protegidas\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-39bce47739c9",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Con una inversión de más de 100 millones de pesos se pondrá en valor el Centro Cívico Provincial de Concordia",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMEpFWXh6X0diNXFmQ19jU1VnZkppZ1VkaGhwM01JWFJVNHFhOWxpdGZCVjdkR09mclAxNjhDY2xrbEtZeEVoT1hoenhEUFBoQldBRjYzS0NYNk9rM1ppTEhrX3ljSEVnNEwxVmNQTGxNcE9JMGhlS2h0SzNNbWZaa2FncmN5X3hlQmlFNWlQLXRrMGEyYVBNY2sydTVPZmdGQTlXT01vNkZMQ1R5b093ZEdEb3NPSVMyLV9wVzdBZFVtdzNjUFNIUWJmOWQwbUM3RFdiMnJQUXlGcGxDMjI4azV2RFFYTkk0eEdXWmd3NkxLSWdGUHpJ?oc=5",
+    "texto_original": "Con una inversión de más de 100 millones de pesos se pondrá en valor el Centro Cívico Provincial de Concordia\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f0b16c63a389",
+    "fuente": "UNER Medios",
+    "titulo": "Charla: «Salud Digital – Ministerio de Salud de Entre Ríos» en la FIUNER",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVXhFaTBwQXdKS0VyTGprQ1RYUzBGQlh6bTJNMFUtNzhEOWZQR1ZzdWZvTk4zN25CYml1aUFxZDdRSU9ldG9RQWFWc3owZ0FNb1pra2RXLXRDRW8wZFQ1ZFpJc2lPamxWMWpvTEQzMEthY3VDT2x1SUd6LVVTekFUbV9VZGItXzBvZUMzNG01SEtPV2EwRXJxWm0xWdIBoAFBVV95cUxNcnhQRU1jMjNkNkp0WWU0emR6Tl9TUVdXQ1RvaWVBcVNfNjNGMkdteHFZZF9KV2RYX0JEUkpINFh5RXVOQlFISmdUcU5zd0ZfNzlxTnh3SHQ2SlN6YkpGZkFfa05URFFnX0xqZ25YMDV2VHQ1em5VOTZhdUlMa0dUaW5qcFNkQVdVYXRUUjdiTzdtd1pmNGFENGNHNzVMclZf?oc=5",
+    "texto_original": "Charla: «Salud Digital – Ministerio de Salud de Entre Ríos» en la FIUNER\n  \nUNER Medios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "educacion",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f3315f69ae0a",
+    "fuente": "gualeguaychu.gov.ar",
+    "titulo": "Comenzaron las actividades de la Escuela Municipal Multideporte",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzZnMW5KQlQ3a2lMem5MOUZHX0taNEhlRjU1UGw0ejZac1M2bklfYWtxTjROWm5wNmxZb1F0Ukdsbnk4NFpSTlBkd3FveWdWdU8tRmVqSnc1SEREaVFuZm1Lb2tTclQwNEdFMGNKYy1yazJ0SHdFdWhXVDV4UjRYUlR6QmhQOVVaZzBOdFczMXFiYXlsMG1IeUFWeUVNRFQ3UUlFS1MtVzVSQQ?oc=5",
+    "texto_original": "Comenzaron las actividades de la Escuela Municipal Multideporte\n  \ngualeguaychu.gov.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-3894e007a9ee",
+    "fuente": "lagacetaonline.com.ar",
+    "titulo": "La provincia incorporó cinco nuevos trámites digitales para el transporte público en la plataforma Mi Entre Ríos",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZC1Pc1RjbE9HTXNCU0VIb3h6c1hoWkh0dUdlNzlKV2QzY3NFMFlTMHF1d2ZQTnlaaThvVkhGR3BzZlVhRlV1MGZEajl3czdVYzhSZzBHdWtsQms5REo1VXYtazY2MzNaRlRFNjJWN3RpVjFBOTR2bm56LWxrSk5ubEdKQkhEajJBMVI5VkpyMm84Qk11ZnUyS2hYZHRpRGdZcjJoc1ZnanQ5eHNRN3V6MzJXQ0I1TXpYTUVxM1pMTTl4SWVra2tOTlpFS1JVcVViWmN4c1JDWWhJdw?oc=5",
+    "texto_original": "La provincia incorporó cinco nuevos trámites digitales para el transporte público en la plataforma Mi Entre Ríos\n  \nlagacetaonline.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6ab3fdf32b53",
+    "fuente": "Diario El Argentino",
+    "titulo": "Mi Entre Ríos simplificará el trámite digital del beneficio de la tarjeta SUBE para estudiantes de todos los niveles y docentes",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazBQVmZKWlN0UTNXUVMxYWw2bFJMVWtZSDQ1RzZneFpkeUpPaHhIcTE4X3lqZzREOUNDTWxNWnNjTmVlTDBmZzY3M05aZWh4NVNkV1dKTC05cTdzRlFXTFE4SWNhaFdYVWFNY3Zub3kzMjhCczF4ZURkT3RhYXVpcU9jUUNFOWJfS0c2SHBGUTEzZnZSZVlaOFVPcHU1dnNaUGlqTUhaa0NVVDI5NkpmLTJFNU45Zm5NaGFZN3hGdFl6UTJJSVgzd0I2dkdGSC1rVUhNaFYtTlBrQldSWnhOV2lkeXI5X2plblHSAeIBQVVfeXFMUHZIdWtvZnM5RHhfUndFYlo0MFVTNUZMdlRKZVhSQ0dFOEx1MWpIRFdiM0VUeEtybnBySmlxNlRGS2Y3NGotX0JwRm4tUVc2enlGNVNhdXVaX3BOSHg5RXMzSmJReE5CcUlsT1ZQN2JhbVhQZkdGWElael9rYTRfV21BZHdKNDVHQjRqVklVbFN3all6REk3WXNPbmJUeUtSdVlGanpRTkN0RFVENmZPdHhsOUtaN0RMd2x5ZVVxdzZlM1dTRFNWdzNBNXk0aTFaM2pQVzUzZ2JGYl82WEtWSGJSZw?oc=5",
+    "texto_original": "Mi Entre Ríos simplificará el trámite digital del beneficio de la tarjeta SUBE para estudiantes de todos los niveles y docentes\n  \nDiario El Argentino",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-473dacd9992f",
+    "fuente": "elheraldo.com.ar",
+    "titulo": "Concluyó la misión del Fondo Internacional de Desarrollo Agrícola en Entre Ríos",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFNRSHowNG1YSWN4UUJJdkJVSFFmMjhFZkNJc04xYktKV2NPb0RYUFJUV3dJQkNpeG1PcVpQM2M4N1ZKMTdUZkR0RzJhUkVPRlExbExsQVdIbVVqcE9zME1rYWV1ajA3UWt6U0tYTlBVVkRzMGU4WWtyMFlrZF84TFNpREZTLTBxQWhaNXY4dWZkVC1uMTM2TV9hTUY4clhacnNaZXFIM0EtYW5TZWZvR2hwZ1pTS2xKOW9qeDFIWVNUZEJo?oc=5",
+    "texto_original": "Concluyó la misión del Fondo Internacional de Desarrollo Agrícola en Entre Ríos\n  \nelheraldo.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-cf4caba755d0",
+    "fuente": "APFDigital",
+    "titulo": "Incorporan nuevos trámites digitales para el transporte público en la plataforma Mi Entre Ríos",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU2ZfNXZ4Rkt3UnA1ek1VZS01SUZiLWtnTWZEdU1IalpkdkpfTEx6WUlwYUxzaUg5bHhsZTdNLURFUWxGSFNIMWJtTXBoSE9EZzNRUUpDZUNlSkJGeDlKZnVubU95S0ZWdjdwMjZsaWFUZ29meHpzRWtDX2dKbFI5a3EyaXJodnJkSjFUdV9saWhoM1dCNFFNdFBxdlpfcFZPZ3VBcVoxU0dCcXpqRTdVeERWeW1FZzlBVUFibERjZVhMMXEtN1RLQlp5T0FiX0hsTGJ2OVNld0VJbjNYRHNHLUZpbzZlQdIB6wFBVV95cUxOM1FMaWRUdVpKRnlkdEd4VWVJQnFYYjFIOEJsSWkxQXc4OWhucC01Z1hpZjVZZTFROFBESWVYTHo4Y1JDemJ1S1lPYTlTNHpyQ2NTYU1RNUp3WXAwRnN4SEZsdmlpSnE3anViM3pCYm9FaFJkNlRRS09DdUtqTF85NXU3cC1sdjdzeHBLSGMtczJ3Y1ZzX24tNHN6c21FSzVBWXNHQjR4alphNFdWMDQzMUI2SzFyUm1fZ0FkcHI2VHJfVHJzQW1lZjZxY0VXeTJ6d205V1NvVHA3X3N3RE1pa2RNclp2MVlqWHJr?oc=5",
+    "texto_original": "Incorporan nuevos trámites digitales para el transporte público en la plataforma Mi Entre Ríos\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-593be2a965bd",
+    "fuente": "economis.com.ar",
+    "titulo": "agro Entre Ríos archivos",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QZ2hjRHR0UWZwMFFiaURXSnp0Y2Z1cndlQTRyZUpEOUVqdkpXTzhjaC1iQkVPbklEMWstSzJrNnNtWVY1a1NNejlRdE5BYjV6NXo5Nmo0UQ?oc=5",
+    "texto_original": "agro Entre Ríos archivos\n  \neconomis.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f96c99cf4bb5",
+    "fuente": "gualeguaychu.gov.ar",
+    "titulo": "Convocatoria a participar de la consulta pública por el Estudio de Impacto Ambiental sobre colocación de una antena 5G",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUUtwa3poZXI2SHJIR0Z1bmZrdHFURVA4eGpLeUllTXpwb09FcTBtOFhYdjhPc0lCdGl6WDFTdHB0MTY4SEMxR1ZzN3BxbTFEaU54NHhkUDFNeHRSSVktVV9VcHBLSE01VzJXNmxiMGhlSS03QWo1RXQybTduOXFVcjlqbW80UDBBV0M4MTh3LTNmRFVWb0xLMFFtUjlpYlFuaE5rZVYxT1JLOFM4U1NpSzJ1WEZtcFRucDcwVEhVTVNwVExnTnVJajZxQ0xOZlNyNm5HOWFxRmdkN3l3bHlTYlV1MV9ZeF9BZnZvWDBSbDZrQQ?oc=5",
+    "texto_original": "Convocatoria a participar de la consulta pública por el Estudio de Impacto Ambiental sobre colocación de una antena 5G\n  \ngualeguaychu.gov.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-93ce171e9a99",
+    "fuente": "diauno.ar",
+    "titulo": "Charla informativa sobre el Programa de Desarrollo Productivo del Sector Apícola de Entre Ríos",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTdZcVlaUlpwYkdGMHhTTVUwNW1QWnNXLVR5OWQ4MnlpYk5LTEVCU0dNb3FLRmQtdUZ1djhRTjJIOHVGVzZBQ0VER3JiTnhkU0dWdmJZbERnNDZQRjZWN1MwR3RLVXZ6ejNhVmxraTlwNU83QjU1OGx6SnAzZmJxVUxQUXJYTjBjS3Z6Vm5PMHRFZkxJSUlQOW9rUTQxeTVrRkpwdHg3UTU4Sy1yRWpkMUtZVQ?oc=5",
+    "texto_original": "Charla informativa sobre el Programa de Desarrollo Productivo del Sector Apícola de Entre Ríos\n  \ndiauno.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-5e3f55c3811a",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Diputados sesionará con morosidad y discapacidad como temas salientes",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJBVC01WkdjQzJ5OGQybWZEVTI2by1oVV85Ulg1VFNRRHRkcHhPX0VUVHFTeUJOalNBSTlQazlHZEcxQXM5cENnNDFYNjlqb3NFUmp4Vi1sTW1SNVhCZ3hHanZ5U1dQVzItallmdzFkdzFNV2hhZEVoZldNRVE1M1psd1pDMVJEREF1cXlPNGxMcnFLZnF0bzJ1eDVZMW8?oc=5",
+    "texto_original": "Diputados sesionará con morosidad y discapacidad como temas salientes\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-19616f843066",
+    "fuente": "elsindical.com.ar",
+    "titulo": "Entre Ríos: Escándalo de LLA en acto de la juventud al usar el edificio y los recursos de un sindicato intervenido",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZkc3SjQwSEdZN3Uwa2NURUhaa3BENjF4UFFCZ2ZaTEUxRVRSS2Fadnh0Y0ZtaVA4WlhvcDMwVGZmaHU1Tkx6UThocGF4bVVWdjJDaFhuVmVPcWg2RXMxbFNWcDYxaHR0OHlWc3NEdmhRajYyQlM0cGRzQ2lEQkhHZXI0TTUwWi1MY2RDdm9qY09rUmpBUVdnLUVXX2JFUEwxZ1dxOHh4Q3A0R1U1UFJWQXBLQXU0NU1wc3JwemVfVy1IdjQyWnc0Sl85OUNUYjJ6U092ZUZtU2w1M245ME1nQXY1R2M?oc=5",
+    "texto_original": "Entre Ríos: Escándalo de LLA en acto de la juventud al usar el edificio y los recursos de un sindicato intervenido\n  \nelsindical.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8392e0612314",
+    "fuente": "diarioriouruguay.com",
+    "titulo": "Se incorporaron cinco nuevos trámites digitales para el transporte público en “Mi Entre Ríos”",
+    "fecha": "2026-09-07",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGlUSHNVYmxSOEQ5ZDlRMTJpWE41SkFvS012eDRCNkg5QVFZc3VSQnRjcG1jM1c0NEVKLTlUR3F4MXY2cUZfNjhEWHA1TldrM3otVWtzbjl6cmprWExXMHlfaXFncHV5MDdPaFh1dkJhMWs0R010UlR3WDRUbDVwZDRlY3FndE5tbjc2WllPNDlRZDNSam56MDlISjlPdkR5VGdIaUtEa3hXckxJTDc2d2QtNVdqOEF4a2pyVW9sV3l2QUxjOTVVWjMzS0p3d9IBxwFBVV95cUxPN045RVFLWmxTamtfRkNqX1JpU1BhZURoeFhSNVZaa3RnWFRxLWttR2pNZWJLbGNKWlJkcGxRSjlMTzNXX1pfV1RVd1V1RThMTmhzRTNlazVGVWtKOFVTRVZnQW03RFNzdHlDSy1OMWNwU19HVE9RTUFhdjY0Y2h3SURtYTFFamZ0WHd4TklFNllXUDJrMkg1ZHhFd19MWmJTaHFoWEhhbnZxbWRLWWp5Zk1nQW1MNGdiVnNZcGpqeVQ1RjBUcDhj?oc=5",
+    "texto_original": "Se incorporaron cinco nuevos trámites digitales para el transporte público en “Mi Entre Ríos”\n  \ndiarioriouruguay.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-morosidad-un-proyecto-de-bordet-esta-entre-los-casi-50-que-discutira-la-camara-de-diputados",
+    "fuente": "Bicameral",
+    "titulo": "Morosidad: un proyecto de Bordet está entre los casi 50 que discutirá la Cámara de Diputados",
+    "fecha": "2026-09-07",
+    "link": "https://www.bicameral.com.ar/morosidad-un-proyecto-de-bordet-esta-entre-los-casi-50-que-discutira-la-camara-de-diputados/",
+    "texto_original": "Con la intención de evitar la realización de la sesión pedida por la oposición para el próximo 9 de septiembre, en la que proponen tratar el tema del \nsobreendeudamiento familiar\n y una prórroga de la Ley de Emergencia en Discapacidad, el oficialismo abrió el miércoles pasado el debate en las comisiones que serían cabeceras de ambos temas en la Cámara de Diputados de la Nación.\n\nEntre los casi \n50 proyectos relacionados con morosidad\n, hay uno del exgobernador entrerriano, \nGustavo Bordet\n. Se trata de una declaración de Emergencia Financiera para familias, así como la suspensión de ejecuciones de deudas y medidas cautelares. La iniciativa fue ingresada en abril y pasó a tres comisiones:\n\nEn la norma, a la cual tuvo acceso \n\nBicameral\n\n, se declara la urgencia con el objeto de \n\"preservar la continuidad económica, el empleo y la estabilidad social en el marco de la situación económica vigente\"\n, postergando por al menos 180 días las medidas judiciales y administrativas, desde remates hasta inhibiciones o secuestro de bienes. No correrán intereses punitorios y se suspende el curso de la prescripción, con todos aquellos deuddores con ingresos que no superen los 10 salarios mínimos o monotributistas hasta la categoría G.\n\nDe acuerdo al texto, \nquedan excluidos de la suspensión los créditos de naturaleza alimentaria, las obligaciones derivadas de relaciones laborales, las deudas por cuotas alimentarias o indemnizaciones por daños a la persona y los casos donde se acredite riesgo cierto de insolvencia fraudulenta del deudor.\n\n\"En los últimos años se ha verificado una creciente dependencia de los hogares respecto del financiamiento para sostener niveles básicos de consumo. Esta dinámica se ha materializado en un uso intensivo de instrumentos como tarjetas de crédito, préstamos personales y líneas de financiamiento bancario y no bancario, muchas veces bajo condiciones de elevada tasa de interés. Como consecuencia, se ha configurado un escenario de sobreendeudamiento estructural, en el cual una proporción significativa de los ingresos familiares se encuentra comprometida al pago de obligaciones financieras\", indicó Bordet en sus fundamentos. Y agregó: \"\nEste fenómeno no solo impacta en la capacidad de consumo presente, sino que además, reduce los márgenes de resiliencia económica de los hogares frente a contingencias\n, generando un círculo vicioso donde el endeudamiento se retroalimenta con la caída del ingreso disponible. En este marco, la mora en el cumplimiento de obligaciones no responde necesariamente a conductas oportunistas, sino a limitaciones objetivas derivadas del contexto macroeconómico\".\n\nEl exgobernador resaltó que la suspensión transitoria de ejecuciones \"constituye una herramienta de política pública orientada a introducir un mecanismo de alivio y ordenamiento en un escenario de estrés financiero generalizado\". Acotó luego: \"No se trata de desconocer los derechos de los acreedores, sino de establecer un marco temporal de protección que permita reequilibrar las relaciones económicas, evitando soluciones individuales que, en su conjunto, resultan socialmente ineficientes\".\n\nPara cerrar, Bordet subrayó: \"La judicialización masiva de deudas no constituye una solución eficiente ni equitativa. Por el contrario, tiende a consolidar procesos de exclusión económica, al afectar la capacidad de los deudores de reinsertarse en el circuito productivo y financiero. La ejecución compulsiva, en condiciones de deterioro económico, implica en muchos casos la liquidación de activos a valores deprimidos, generando pérdidas tanto para deudores como para acreedores\".\n\nLa entrada \nMorosidad: un proyecto de Bordet está entre los casi 50 que discutirá la Cámara de Diputados\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "comercio",
+      "impuestos",
+      "legislatura",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-bicameral-miranda-quiere-ser-senadora-por-cuarta-vez-y-el-peronismo-de-federal-se-organiza-para-enfrentarla",
+    "fuente": "Bicameral",
+    "titulo": "Miranda quiere ser senadora por cuarta vez y el peronismo de Federal se organiza para enfrentarla",
+    "fecha": "2026-09-07",
+    "link": "https://www.bicameral.com.ar/miranda-quiere-ser-senadora-por-cuarta-vez-y-el-peronismo-de-federal-se-organiza-para-enfrentarla/",
+    "texto_original": "El peronismo de \nFederal \ncomenzó a mostrar sus primeros movimientos de cara a las elecciones de 2027, en un departamento donde tanto oficialismo como oposición tienen mucho por disputar. En primer lugar, la senadora \nNancy Miranda\n, que abandonó el espacio para conformar un bloque unipersonal, dio a conocer que buscaría su reelección para ocupar la banca por cuarta vez consecutiva, al tiempo que sus adversarios internos comienzan a organizarse.\n\n\"Yo me fui del bloque, NO ME FUI DEL PJ, sigo dentro del partido al menos hasta que el tribunal de disciplina diga otra cosa, lo cual hasta la fecha no sucedió. La verdad que volver a aclarar esto ya cansa pero evidentemente estos últimos días les esta llegando a la gente información errónea\", escribió la legisladora en su cuenta personal en los últimos días.\n\nEn ese sentido, la senadora que llegó por el peronismo pero ahora salió de la bancada, mientras se acerca al gobernador Rogelio Frigerio, deslizó que buscaría su tercera reelección: \"Por otro lado \neste mandato como senadora lo finalizo el 10 de diciembre del 2027 y no sólo que puedo volver a presentarme, sino que lo voy a hacer en la próximas elecciones por dentro o por fuera del partido,\n porque este cargo se vota!! Es la gente la que decide\", dijo.\n\nEste fin de semana, al mismo tiempo, \nen la sede del PJ de Federal se llevó a cabo la presentación de un nuevo espacio político que integran diversas agrupaciones\n, con el objetivo de “abrir una nueva etapa de reconstrucción basada en el respeto, el diálogo entre compañeros y compañeras y la construcción colectiva”.\n\nEl Frente de Unidad Justicialista constituye “un espacio de encuentro diario y participación para quienes sienten que es momento de volver a escucharnos y trabajar juntos por la vida partidaria por nuestra comunidad”, según se comunicó oficialmente tras el acto.\n\nLas agrupaciones que lo integran son Lealtad y Compromiso, La Pancho Ramírez, Construyendo raíces, Para volver a creer, Grupo Belgrano y el Consejo Departamental. Entre los dirigentes, referentes y militantes que forman parte se encuentran los concejales Samanta Irurzun y Martín Olier, el ex edil Juan Pablo Marcone, Darío Verón, Patricia Padilla y Julián Ríos, según informó \nPágina Política.\n\nFuera del gobierno local y con una senadora que decidió abrirse sola en la Legislatura, independientemente de su posible sanción o no en el PJ, el peronismo de Federal puso primera de cara a 2027.\n\nLa entrada \nMiranda quiere ser senadora por cuarta vez y el peronismo de Federal se organiza para enfrentarla\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "construccion",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-bicameral-cuales-son-los-consorcios-camineros-en-funcionamiento-y-como-se-constituiran-los-nuevos",
+    "fuente": "Bicameral",
+    "titulo": "Cuáles son los consorcios camineros en funcionamiento y cómo se constituirán los nuevos",
+    "fecha": "2026-09-07",
+    "link": "https://www.bicameral.com.ar/cuales-son-los-consorcios-camineros-en-funcionamiento-y-como-se-constituiran-los-nuevos/",
+    "texto_original": "La Cámara de Senadores de Entre Ríos otorgó la semana pasada la sanción definitiva a la Ley de Consorcios Caminero\ns. La norma crea un régimen que permitirá incorporar asociaciones civiles sin fines de lucro al mantenimiento, reparación y mejora de la red vial de tierra y ripio, bajo la supervisión técnica, administrativa y contable de la Dirección Provincial de Vialidad (DPV). El objetivo es sumar capacidad de gestión, descentralizar las tareas y fortalecer el trabajo conjunto entre el Estado, los productores y las comunidades rurales.\n\nEl director administrador de Vialidad Provincial, Exequiel Donda, destacó que la ley responde a una necesidad histórica de la provincia. \"El espíritu de la ley busca una solución descentralizada, ágil y solidaria que une a vecinos y productores rurales para cuidar y reparar los caminos de la región\", afirmó.\n\nEl Senado sancionó Consorcios Camineros: el peronismo acompañó en general\n\nAdemás, remarcó que el nuevo esquema no reemplaza el rol del Estado, sino que lo fortalece mediante una gestión colaborativa.\n\n\"Vialidad no puede atender la totalidad de la red vial. Estamos hablando de un sistema que fracasó hace muchos años y necesita otro tratamiento. Seguir de la misma manera es continuar con ese fracaso; por eso son necesarias todas las partes: los consorcios, los gobiernos locales y Vialidad trabajando en conjunto\", sostuvo Donda.\n\nActualmente funcionan 10 consorcios camineros, que administran 1.467 kilómetros\n, mientras otros dos se encuentran en proceso de conformación. La sanción de la ley brinda un marco jurídico estable para ampliar este modelo y multiplicar su alcance en distintos puntos de la provincia.\n\nLos consorcios serán entidades de bien público y de servicio comunitario integradas por productores, vecinos y representantes de municipios, comunas y juntas de gobierno, quienes participarán con voz y voto en sus comisiones directivas.\n\nCómo se conformarán\n\nPara constituirse, un consorcio deberá presentar una \nComisión Promotora integrada por al menos siete personas, reunir un mínimo de 20 socios activos y acompañar un croquis con los caminos que propone conservar\n. La DPV tendrá hasta 60 días para evaluar la viabilidad técnica y resolver la solicitud mediante una decisión fundada.\n\nPodrán integrar estas entidades propietarios, arrendatarios e inquilinos de establecimientos rurales ubicados dentro de la jurisdicción del consorcio o hasta 50 kilómetros de los caminos comprendidos.\n\nConsorcios actualmente en funcionamiento\n\nAlarcón: 116 km.\nColonia San Jorge: 101 km.\nCrucesita Octava: 135 km.\nGilbert: 166 km.\nIsleta Norte: 13 km.\nLa Esperanza: 157 km.\nLa Micra: 263 km.\nSanta Anita: 196 km.\nUrdinarrain: 180 km.\nPerdices: 140 km.\nTotal: 1.467 kilómetros.\n\nLa entrada \nCuáles son los consorcios camineros en funcionamiento y cómo se constituirán los nuevos\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "empleo",
+      "servicios_publicos",
+      "municipios",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-proponen-modernizar-el-regimen-de-partidos-entrerrianos-y-permitir-afiliaciones-por-medios-digitales",
+    "fuente": "Bicameral",
+    "titulo": "Proponen \"modernizar\" el régimen de partidos entrerrianos y permitir afiliaciones por medios digitales",
+    "fecha": "2026-09-06",
+    "link": "https://www.bicameral.com.ar/proponen-modernizar-el-regimen-de-partidos-entrerrianos-y-permitir-afiliaciones-por-medios-digitales/",
+    "texto_original": "Un proyecto de ley presentado en el Senado propone \n\"modernizar\"\n el régimen de los partidos políticos provinciales y municipales \n\"mediante procedimientos digitales, seguros, auditables y accesibles para la afiliación, desafiliación, adhesión, presentación documental, consulta ciudadana y control registral de la situación partidaria de las personas electoras en la Provincia\"\n.\n\nLa iniciativa a la cual accedió \n\nBicameral \n\npropone crear el \nSistema Provincial de Participación Política Digital\n, bajo administración funcional del Tribunal Electoral de la Provincia, para la \"recepción, validación, registración, consulta, trazabilidad y archivo de los actos regulados por esta ley\".\n\nEl proyecto de ley pertenece a \nPatricia Díaz,\n senadora paceña que recientemente anunció su salida del bloque peronista para conformar la bancada \"Hacer Futuro\", en sintonía con las pretensiones provinciales de su esposo Daniel Rossi, intendente de Santa Elena.\n\nDe acuerdo al texto que tomó estado parlamentario en la última semana, el sistema deberá permitir, a través de la aplicación y del \nportal web Mi Entre Ríos\n: a) la afiliación y desafiliación digital; b) la presentación de adhesiones y avales cuando corresponda; c) la consulta individual de la situación partidaria; d) la emisión de constancias electrónicas verificables; e) la notificación de altas, bajas, observaciones y modificaciones; f) la presentación digital de documentación partidaria; g) el seguimiento del estado de cada trámite; h) el registro de auditoría de cada operación; e i) la interoperabilidad con otros registros públicos, dentro de las respectivas competencias y con resguardo de los datos personales\n\nAclara que ninguna persona podrá ser afiliada, reafiliada o incorporada a un registro partidario sin una manifestación de voluntad previa, expresa, informada y verificable. \"El sistema deberá impedir duplicidades, conservar evidencia de la operación y habilitar un canal inmediato para denunciar afiliaciones apócrifas, erróneas o no consentidas\", indica.\n\nEn los fundamentos, la senadora dice que la \"finalidad\" de su proyecto es \"que cada entrerriano pueda saber si figura afiliado, decidir libremente su pertenencia política y corregir un registro indebido sin depender de trámites lentos, opacos o exclusivamente presenciales\".\n\n\"La Ley Provincial N° 5.170 fue concebida alrededor de fichas en papel, copias, certificaciones manuales y archivos físicos. \nEsas reglas cumplieron una función histórica, pero hoy pueden complementarse y sustituirse gradualmente mediante herramientas que acrediten identidad, voluntad, integridad y fecha cierta con mayores posibilidades de auditoría\n\", considera.\n\nLa entrada \nProponen \"modernizar\" el régimen de partidos entrerrianos y permitir afiliaciones por medios digitales\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "organos_control",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-bicameral-diputados-entrerrianos-estan-preocupados-por-la-aparicion-del-picudo-rojo",
+    "fuente": "Bicameral",
+    "titulo": "Diputados entrerrianos están preocupados por la aparición del \"picudo rojo\"",
+    "fecha": "2026-09-06",
+    "link": "https://www.bicameral.com.ar/diputados-entrerrianos-estan-preocupados-por-la-aparicion-del-picudo-rojo/",
+    "texto_original": "El Ministerio de Desarrollo Económico de la Provincia de Entre Ríos, a través de sus Secretaría de Ambientes y de Agricultura y junto al Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), confirmaron la primera detección de \nPicudo Rojo de las Palmeras\n en la zona. Lo sucedido generó preocupación y ameritó un proyecto de resolución al respecto en la Cámara de Diputados de la Nación.\n\nLa iniciativa, promovida por \nFrancisco Morchio (La Libertad Avanza)\n, señala que esta especie \"es un escarabajo de gran tamaño y de color rojizo ferruginoso, que pertenece a la familia de los gorgojos y es originario de Asia tropical\". Agrega que su ciclo de vida es una metamorfosis completa, pasando de huevo a larva y de pupa a adulto, \ntranscurriendo casi en su totalidad dentro del tronco de la palmera, situación que dificulta su temprana detección\n: \"La hembra adulta perfora pequeñas heridas en la palmera y deposita entre 300 y 500 huevos en un período de incubación de 2 a 5 días. Posteriormente, las larvas -al poseer mandíbulas potentes- comienzan a triturar y barrenar el interior del tronco de la palmera, \ndestruyendo los vasos conductores\n\".\n\nMorchio resaltó que, con el tiempo, \nla planta pierde la capacidad de generar nuevas hojas, atrayendo bacterias y hongos que aceleran su pudrición\n: \"Fuera de su área de distribución natural, es considerado una plaga por su gran capacidad destructiva de las plantas donde se hospeda. A nivel global, es la plaga más dañina para las palmeras. Se estima que afecta entre 19 y 24 especies de palmera a lo largo de catorce géneros, atacando tanto a variedades ornamentales como comerciales de palmeras, por cuanto el impacto de la plaga resulta significativo en términos económicos, sociales y paisajísticos\".\n\nLa norma cuenta además con el acompañamiento, entre otros, de tres entrerrianos más: \nlos libertarios Beltrán Benedit y Andrés Laumann; y Alicia Fregonese, del PRO.\n\nLa entrada \nDiputados entrerrianos están preocupados por la aparición del \"picudo rojo\"\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "desarrollo_economico",
+      "economia",
+      "comercio",
+      "agro",
+      "legislatura",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-bicameral-a-partir-de-una-iniciativa-estudiantil-proponen-crear-el-museo-historico-de-la-confederacion-argentina",
+    "fuente": "Bicameral",
+    "titulo": "A partir de una iniciativa estudiantil, proponen crear el Museo Histórico de la Confederación Argentina",
+    "fecha": "2026-09-06",
+    "link": "https://www.bicameral.com.ar/a-partir-de-una-iniciativa-estudiantil-proponen-crear-el-museo-historico-de-la-confederacion-argentina/",
+    "texto_original": "Un proyecto de ley presentado en el Senado de Entre Ríos propone crear el \nMuseo Histórico de la Confederación Argentina\n, con el objeto de \"rescatar, conservar, investigar, difundir, democratizar el acceso y promover la memoria histórica, política, institucional, cultural y social\" correspondiente al período de la Confederación Argentina (1852-1861), con \n\"especial énfasis en el rol de Paraná como capital nacional entre 1854 y 1861, y en la contribución de Entre Ríos a la organización constitucional y federal del país\".\n\nLa iniciativa a la cual accedió \n\nBicameral\n\n, que tomó estado parlamentario en la última semana, establece que el Museo funcionará, en una primera etapa, bajo la modalidad de \nmuseo itinerante\n, desarrollando exposiciones temporales, itinerarios temáticos, actividades educativas y recreativas, producciones audiovisuales, intervenciones en el espacio público y acciones digitales interactivas en distintos puntos del territorio provincial.\n\n\"\nLa autoridad de aplicación gestionará la sede permanente del Museo, prioritariamente en la ciudad de Paraná y preferentemente en inmuebles de valor histórico vinculados al período de la Confederación\n. A tal fin, deberá presentar un plan progresivo de establecimiento edilicio ante la Legislatura dentro de los dos (2) años de promulgada la presente ley\", establece la iniciativa que lleva las firmas de \nVíctor Sanzberro y Claudia Silva (Más para Entre Ríos).\n\nMediante el proyecto de ley se crea el Consejo Asesor del Museo Histórico de la Confederación Argentina, de carácter honorario, que tendrá por función \"asesorar a la autoridad de aplicación en materia histórica, museológica, educativa y de difusión\".\n\nEl proyecto de ley tiene su origen en una iniciativa elaborada por \nestudiantes del Instituto San Benito Abad de la localidad de San Benito\n, en el marco del Programa Senado Juvenil 2025. Se destacó que los autores del trabajo –Soñez, Luz Malena; Godoy Berlari, Pilar Angelina y Videla, Mateo Santino–, bajo la asesoría docente del Instituto, \"elaboraron una propuesta sólida, rigurosa y madura, merecedora sin dudas de ser considerada por esta Cámara\".\n\nLa iniciativa que tomó estado parlamentario recientemente fue girada a la Comisión de Legislación General del Senado.\n\nLa entrada \nA partir de una iniciativa estudiantil, proponen crear el Museo Histórico de la Confederación Argentina\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-bicameral-proyecto-de-ley-busca-crear-nuevos-espacios-inclusivos-en-plazas-de-todo-el-pais",
+    "fuente": "Bicameral",
+    "titulo": "Proyecto de ley busca crear nuevos espacios inclusivos en plazas de todo el país",
+    "fecha": "2026-09-05",
+    "link": "https://www.bicameral.com.ar/proyecto-de-ley-busca-crear-nuevos-espacios-inclusivos-en-plazas-de-todo-el-pais/",
+    "texto_original": "Un proyecto de ley presentado en la Cámara de Diputados de la Nación crea el Programa “Jugar es un Derecho”\n, destinado a promover la adecuación, ampliación e incorporación de juegos y espacios lúdicos inclusivos en plazas, parques y demás espacios públicos. Entre otros, está como firmante \nla entrerriana Blanca Osuna, de Unión por la Patria. \n\nSegún la norma, a la cual tuvo acceso \nBicameral\n, el plan tendrá como finalidad \n\"promover que niñas y niños con y sin discapacidad puedan participar conjuntamente de actividades lúdicas, recreativas y de esparcimiento, en condiciones de igualdad, accesibilidad, autonomía y seguridad\"\n. Entre otros puntos, se crea un reconocimiento nacional, con el fin de distinguir anualmente a provincias, municipios, comunas u otras instituciones que desarrollen experiencias destacadas en la materia.\n\n\"En la planificación, implementación y evaluación de las iniciativas desarrolladas en el marco del Programa se promoverá \nla participación de organizaciones representativas de personas con discapacidad, familias, instituciones educativas, organizaciones sociales y comunitarias y demás actores vinculados con la temática\n\", fija el texto. Se elaborarán informes periódicos con jurisdicciones adheridas, cantidad de plazas incorporadas, juegos instalados y principales acción de promoción.\n\n\"Durante años, las políticas vinculadas con la accesibilidad en plazas y parques se concentraron fundamentalmente en incorporar determinados elementos adaptados. \nEse enfoque significó un avance, pero resulta insuficiente\n\", indicaron los firmantes en los argumentos. Y agregaron: \"La inclusión no debe consistir en agregar un elemento aislado para una persona con discapacidad, sino \nen diseñar espacios en los cuales las diferencias no constituyan una barrera para compartir\n. El juego inclusivo permite precisamente eso, que niñas y niños con y sin discapacidad puedan encontrarse, jugar y desarrollar actividades en un mismo espacio. Una hamaca con plataforma para silla de ruedas integrada a la estructura donde se encuentran las hamacas convencionales, una calesita accesible a nivel del piso o una mesa de arena diseñada para diferentes posibilidades de movilidad son ejemplos de una concepción que permite jugar juntos\".\n\nPara cerrar, en los fundamentos se dejó en claro que el objetivo de la ley es que \"la inclusión deje de ser una excepción y pase a formar parte de la planificación habitual de los espacios públicos\".\n\nLa entrada \nProyecto de ley busca crear nuevos espacios inclusivos en plazas de todo el país\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-bicameral-parana-ampliara-la-fiscalizacion-electronica-con-40-nuevos-puntos-de-control",
+    "fuente": "Bicameral",
+    "titulo": "Paraná ampliará la fiscalización electrónica con 40 nuevos puntos de control",
+    "fecha": "2026-09-04",
+    "link": "https://www.bicameral.com.ar/parana-ampliara-la-fiscalizacion-electronica-con-40-nuevos-puntos-de-control/",
+    "texto_original": "La Municipalidad de \nParaná \nampliará el sistema de fiscalización electrónica con \n40 nuevos puntos de control distribuidos en distintos sectores de la ciudad\n. La medida forma parte de las políticas de prevención y seguridad vial impulsadas por la gestión de la intendenta Rosario Romero y busca fortalecer el cumplimiento de las normas para lograr más prevención y menos siniestros viales.\n\nLos nuevos dispositivos permitirán fiscalizar distintas conductas que pueden generar situaciones de riesgo en la vía pública, como el \ncruce de semáforos en rojo, el exceso de velocidad, los giros indebidos y la circulación de transporte pesado en arterias no habilitadas. También se incorporarán controles para detectar el uso del teléfono celular y la falta de cinturón de seguridad durante la conducción.\n\n“Cada medida que tomamos en materia de seguridad vial tiene un objetivo central: prevenir. Queremos una ciudad donde se respeten las normas y donde podamos anticiparnos a las conductas que ponen en riesgo la vida de quienes circulan”, señaló el secretario de Seguridad Vial, Movilidad y Ordenamiento Urbano, Kevin Bolzán.\n\nEl funcionario precisó que la ampliación “se enmarca en el plan de Prevención y Seguridad Vial que lleva adelante la gestión de la intendenta Rosario Romero” y destacó que la incorporación de tecnología permite “fortalecer la presencia del Estado en puntos estratégicos de la ciudad y trabajar sobre aquellas conductas que pueden derivar en siniestros viales”.\n\nMás control en los cruces con semáforos\n\nLa principal ampliación estará vinculada con la fiscalización del cruce de semáforos en rojo, con 38 nuevos puntos distribuidos en diferentes sectores de Paraná.\n\nEntre las intersecciones incluidas se encuentran Almafuerte y Juan B. Mihura; Almafuerte y Gobernador Maya; Almafuerte y Gobernador Mihura; Antonio Crespo y Francisco Soler; Uranga y Francisco Soler; Antonio Crespo y avenida Ramírez; Don Bosco y Gobernador Crespo; avenida Ramírez y El Paracao; Churruarín y Ayacucho; y avenida de las Américas y Pronunciamiento.\n\nTambién se incorporarán controles en corredores de alta circulación como las avenidas Zanni, Almafuerte, Ramírez, Ejército, Don Bosco y de las Américas, entre otras.\nLos dispositivos estarán configurados de acuerdo con las características de cada intersección y permitirán fiscalizar los distintos sentidos de circulación.\n\nVelocidad y maniobras riesgosas\n\nLa ampliación contempla, además, siete nuevos puntos de control de velocidad. Uno de ellos, ubicado sobre avenida Uranga, fue instalado la semana pasada.\n\nAsimismo, se sumarán cinco puntos para detectar giros indebidos, con el propósito de desalentar maniobras que pueden generar situaciones de riesgo para automovilistas, motociclistas, ciclistas y peatones.\n\n“Respetar los límites de velocidad y las indicaciones de los semáforos es una responsabilidad individual que tiene consecuencias sobre toda la comunidad. Por eso, la fiscalización busca generar cambios de conducta y prevenir situaciones que puedan terminar en un accidente”, explicó Bolzán.\n\nTransporte pesado: ordenar la circulación y cuidar las calles\n\nLa Municipalidad incorporará también dos nuevos puntos específicos de fiscalización de transporte pesado, que se sumarán a los controles ya existentes.\n\nLa medida permitirá reforzar la vigilancia sobre camiones y otros vehículos de gran porte en arterias donde su circulación no está habilitada, contribuyendo tanto al ordenamiento del tránsito como al cuidado de la infraestructura vial.\n\nCinturón y celular: dos conductas que también serán fiscalizadas\n\nEl nuevo sistema incluirá dispositivos destinados a verificar el uso del cinturón de seguridad y detectar el uso del teléfono celular mientras se conduce.\n\nLos puntos previstos para este tipo de controles incluyen sectores de Uranga y Soler, en el acceso al Túnel; avenida de las Américas y avenida Ramírez; avenida Ramírez y Uranga; y avenida Almafuerte y avenida Ramírez, entre otros.\n\nLa incorporación de estos controles apunta a desalentar dos conductas que afectan directamente la atención y la capacidad de reacción de quienes conducen.\n\nUna política basada en la prevención\n\nLa ampliación de la fiscalización electrónica forma parte de una estrategia integral que busca combinar tecnología, control y concientización para mejorar la seguridad vial en Paraná.\n\nEl objetivo es claro: más prevención, menos accidentes. Para eso, el Municipio continuará fortaleciendo los controles en los puntos de mayor circulación y trabajando para que el respeto de las normas de tránsito se traduzca en una convivencia vial más segura para todos.\n\nLa entrada \nParaná ampliará la fiscalización electrónica con 40 nuevos puntos de control\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos",
+      "municipios",
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-bicameral-buscan-crear-un-marco-juridico-para-las-empresas-recuperadas-en-entre-rios",
+    "fuente": "Bicameral",
+    "titulo": "Buscan crear un marco jurídico para las empresas recuperadas en Entre Ríos",
+    "fecha": "2026-09-04",
+    "link": "https://www.bicameral.com.ar/buscan-crear-un-marco-juridico-para-las-empresas-recuperadas-en-entre-rios/",
+    "texto_original": "Un proyecto de ley presentado en la Cámara de Diputados de Entre Ríos\n busca establecer un marco jurídico de \"protección, asistencia y continuidad productiva\", destinado a garantizar el mantenimiento y la creación de puestos de empleo mediante \nla recuperación de empresas por parte de sus trabajadores\n.\n\nLa iniciativa fue presentada por \nJuan Rossi (Juntos por Entre Ríos)\n y apunta a las \ncooperativas de trabajo\n, declarando de interés social la recuperación de firmas por parte de sus operarios tras el abandono de sus dueños o la cesación de actividades.\n\nLa norma apunta a \ncrear un registro de sociedades recuperadas, que gozarán de sus derechos plenamente tras la inscripción\n. El Instituto de Promoción Cooperativa y Mutualidades de Entre Ríos (IPCYMER será la autoridad de aplicación y tendrá a su cargo el diseño y la ejecución de políticas públicas operativas que garanticen un \"apoyo integral, coherente y efectivo\" del Estado Provincial.\n\nLas empresas que se anoten tendrán una serie de beneficios, como \npreferencia a la hora de buscar proveedores desde el Estado, un tratamiento fiscal preferencial y acceso a líneas de créditos y subsidios.\n\n\"El escenario socioeconómico nacional, signado por políticas de desregulación, apertura indiscriminada y ahogo a las economías regionales, exige una respuesta institucional desde las provincias afectadas. \nLa quiebra o el abandono de una unidad productiva no solo destruye empleos, sino que también degrada el tejido social, resta capacidad de recaudación y paraliza cadenas de valor\n\", apuntó Rossi en sus fundamentos. Y agregó: \"Frente a esta realidad, el presente proyecto no propone esquemas de estatización, sino una herramienta eficaz y de ordenamiento institucional ante la crisis: transformar un conflicto laboral inminente en una oportunidad de continuidad productiva bajo la gestión cooperativa de sus propios trabajadores\".\n\nEl diputado apuntó que, en el marco de una coyuntura donde los cierres de empresas son cada vez más frecuentes, aquellas recuperadas por sus trabajadores se vuelven unaalternativa para preservar las fuentes laborales y continuar la actividad productiva: \"Si bien existen antecedentes en nuestro país desde la década de 1950, el actual proceso de recuperación de empresas comenzó a desarrollarse a principios de los años noventa y se masificó durante la crisis del 2001, cuando numerosos trabajadores asumieron colectivamente la gestión de establecimientos en crisis o abandonados por sus propietarios\".\n\nLa entrada \nBuscan crear un marco jurídico para las empresas recuperadas en Entre Ríos\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "economia",
+      "empleo",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-piden-informacion-respecto-del-posible-cierre-de-dos-unidades-militares-entrerrianas",
+    "fuente": "Bicameral",
+    "titulo": "Piden información respecto del posible cierre de dos unidades militares entrerrianas",
+    "fecha": "2026-09-04",
+    "link": "https://www.bicameral.com.ar/piden-informacion-respecto-del-posible-cierre-de-dos-unidades-militares-entrerrianas/",
+    "texto_original": "Un pedido de informes ingresado en la Cámara de Diputados de la Nación solicitar al Poder Ejecutivo Nacional que informe sobre la situación del \nRegimiento de Infantería Mecanizado 5 “General. Félix de Olazábal” y del Regimiento de Caballería de Tanques 1 “Coronel Brandsen”\n, ambos con asiento en la ciudad de Villaguay. La solicitud se basa en los rumores de un posible cierre o traslado de las unidades militares.\n\nEl texto, autoría de los justicialistas \nGuillermo Michel y Marianela Marclay\n, apunta a conocer si el gobierno tiene pensada alguna medida alrededor de los mencionados regimientos y, en caso de ser así, conocer los detalles y fundamentos de la determinación. A su vez, saber \nqué sucederá con el personal militar y civil que presta sus funciones y si existe algún tipo de estudio en relación al impacto económico y social \nque podría implicar la reestructuración de las unidades.\n\n\"Más allá de las funciones estratégicas que estas unidades cumplen en materia de Defensa Nacional, ambos regimientos forman parte de la estructura económica y social de Villaguay. \nSu funcionamiento supone puestos de trabajo directos e indirectos, familias radicadas en la ciudad, consumo en comercios y servicios locales y una circulación permanente de recursos que impacta sobre la actividad económica\n. Lo que podría incidir negativamente sobre el empleo, el arraigo territorial y la dinámica socioeconómica de Villaguay\", alertaron los diputados.\n\nPara concluir, los firmantes advirtieron que \"una decisión del Gobierno Nacional que implique reducir significativamente su personal, trasladar las unidades o suprimirlas \nno puede evaluarse exclusivamente desde una perspectiva administrativa o presupuestaria, sin considerar las consecuencias que tendría para una ciudad\n como Villaguay\".\n\nLa entrada \nPiden información respecto del posible cierre de dos unidades militares entrerrianas\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo",
+      "comercio",
+      "impuestos",
+      "gobierno",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-colectivos-12",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Colectivos",
+    "fecha": "2026-09-07",
+    "link": "https://entreriosahora.com/colectivos-12/",
+    "texto_original": "Por obras en los carriles exclusivos de calle Córdoba, modifican los recorridos de las líneas G y P2. La línea G modificará su recorrido y circulará por calles Laprida, Sarmiento, Urquiza y Ameghino, para luego retomar su recorrido habitual. Las paradas provisorias estarán ubicadas en Laprida y Santiago del Estero y Laprida y Mendoza. En tanto, la línea P2, por Almafuerte, circulará por Santa Fe, Alameda de la Federación y Buenos Aires, para luego continuar por su recorrido habitual. La parada provisoria estará ubicada en el Museo de Bellas Artes. Las modificaciones son temporales y se mantendrán mientras continúen los trabajos sobre calle Córdoba, indicó la Municipalidad de Paraná.\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-ceramistas",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Ceramistas",
+    "fecha": "2026-09-07",
+    "link": "https://entreriosahora.com/ceramistas/",
+    "texto_original": "El Encuentro de Ceramistas reunió durante dos jornadas a ceramistas de la región en el Complejo Comunitario del barrio Mitre, de Paraná. La propuesta incluyó talleres, demostraciones, actividades para las infancias y la construcción de un horno comunitario que quedará en el lugar para el uso de los vecinos y ceramistas de la ciudad. La iniciativa fue organizada por la Municipalidad de Paraná, el Complejo Comunitario de barrio Mitre y el Movimiento Hornos Sin Fronteras, con el objetivo de compartir experiencias, intercambiar saberes y fortalecer el vínculo con el oficio. La programación incluyó talleres de Rakú y Engobe, de Cerámica Chaná, modelado de piezas utilitarias y platos inspirados en los irupés del Paraná, una demostración de torno alfarero y una propuesta para las infancias que combinó arcillas y elementos naturales. Además, se realizó el conversatorio “El barro cuenta nuestra historia: Patrimonio, Territorio y Comunidad”, un espacio de intercambio que permitió recuperar y poner en diálogo saberes, experiencias e historias vinculadas a la cerámica y su relación con el territorio, abordando aspectos como la identidad, el patrimonio, la geología y la transmisión de conocimientos a través del barro. La directora de Museos y Patrimonio Histórico de la Municipalidad de Paraná, Gisela Bahler, destacó el valor de que el horno quede a disposición de la comunidad y vinculó las jornadas con “generar mucho sentido de pertenencia, trabajar y madurar la identidad”. En ese sentido, destacó que Paraná cuenta con una materia prima vinculada directamente con su territorio como “la arcilla, que está en todas las barrancas y le permite al ceramista ir, buscar su propia materia prima, y poder producir”, explicó.\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "municipios",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-ni-urribarri-ni-baez-impugnaron-computo-de-las-penas",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Ni Urribarri ni Báez impugnaron cómputo de penas",
+    "fecha": "2026-09-07",
+    "link": "https://entreriosahora.com/ni-urribarri-ni-baez-impugnaron-computo-de-las-penas/",
+    "texto_original": "Las defensas técnicas del exgobernador Sergio Urribarri y del exministro de Cultura y Comunicación, Pedro Ángel Báez, se allanaron al cómputo de los años de condena que se les impuso en el marco del Megajuicio y de ese modo buscan acelerar los tiempos para que se pueda resolver el traslados de sus defendidos de la Unidad Penal N° 1, de Paraná, a la Unidad Penal N° 9, de Gualeguaychú.\n\nAdemás, los defensores renunciaron al plazo de tres días que les otorgaron para impugnar de modo de agilizar el traslado a Gualeguaychú que pidió el propio Servicio Penitenciario de Entre Ríos por sobrepoblación carcelaria en Paraná.\n\nEl avance de ese traslado dependerá de la jueza de Ejecución de Penas y Medidas de Seguridad, Cecilia Bértora, quien de momento no interviene en el expediente, según dijo, por cuanto no ha recibido la comunicación formal de la condena, con la sentencia de la Corte Suprema de Justicia de la Nación, que dejó firme el fallo condenatorio dictado en 2022 por el Tribunal de Juicios y Apelaciones de Paraná.\n\nMegajuicio: cuántos años en la cárcel\n\n \n\nLa presidenta del Tribunal de Juicios y Apelaciones de Paraná María Carolina Castagno hizo saber a los representantes legales de los condenados Sergio Urribarri, dos veces exgobernador de Entre Ríos, exembajador argentino en Israel; el exministro de Comunicación y Cultura, Pedro Báez; y el numerario de la Cámara de Senadores, y cuñado de Urribarri, Juan Pablo Aguilera, que tienen tres días, contados a partir del último sábado, para impugnar el cómputo de la pena que deberán cumplir producto de la condena en el marco del Megajuicio.\n\nUrribarri ya estuvo tras las rejas. Fue detenido el 19 de noviembre de 2024 por resolución de la Cámara de Casación Penal de Paraná a partir de una petición del Ministerio Público Fiscal y recuperó la libertad el 8 de enero de 2025 luego de que la Sala Penal del Superior Tribunal de Justicia (STJ) en feria hiciera lugar a una impugnación extraordinaria. Permaneció 51 días privado de la libertad. Vuelto tras las rejas, el exgobernador estará en la cárcel hasta el 15 de julio de 2034, cuando cumpla la condena a 8 años que recibió en el Megajuicio.\n\nEn el caso de Báez, fue detenido el 22 de noviembre de 2024 y salió para cumplir arresto domiciliario en su vivienda de calle Jozami, en la zona de la Toma Vieja, medida que cumplió hasta este viernes, cuando la Justicia ordenó su alojamiento en la Unidad Penal N° 1. Cumplirá la condena que se le impuso, 6 años y 6 meses de prisión, el 22 de mayo de 2031.\n\nEl cuñado de Urribarri, Aguilera, condenado a 6 años y 6 meses de cárcel, fue detenido el 19 de noviembre de 2024 y alojado en la Unidad Penal N° 1, donde permaneció 51 días hasta que fue liberado el 8 de enero de 2025. Detenido nuevamente el 4 del actual y alojado en la cárcel de Paraná, permanecerá tras las rejas hasta el 12 de enero de 2033.\n\nNinguno impugnó los cómputos, de modo de acelear la intervención del Juzgado de Ejecución de Penas de Paraná para resolver los traslados.\n\n \n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "servicios_publicos",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-la-justicia-anoticia-al-gobierno-de-una-demanda-de-agmer",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "La Justicia anoticia al Gobierno de una demanda de Agmer",
+    "fecha": "2026-09-07",
+    "link": "https://entreriosahora.com/la-justicia-anoticia-al-gobierno-de-una-demanda-de-agmer/",
+    "texto_original": "La primera reunión de la mesa paritaria entre el Gobierno y los gremios docentes, el 2 de marzo, no llegó a un acuerdo, tampoco se lograría en los dos encuentros sucesivos que hubo a lo largo de 2026. Y por eso el Poder Ejecutivo dispuso que los aumentos ofrecidos y rechazados en la mesa paritaria sean pagados por decreto.\n\nEl primero de esos decretos, N° 500, dictado el 6 de marzo último, fue reprochado por inconstitucional en la Justicia por la Asociación Gremial del Magisterio de Entre Ríos (Agmer) en abril último, aunque el planteo estuvo dando vueltas en Tribunales hasta que recaló en la Cámara en lo Contencioso Administrativo de Paraná, que resolvió abocarse al tema y anotició al Gobierno de la demanda.\n\nEn aquel decreto, el Ejecutivo dispuso el pago de una suma fija no remunerativa ni bonificable de $25 mil a maestros y profesores, a partir de los 10 años de antigüedad, “la que continuará integrando la base de cálculo de los adicionales que correspondan”. También, el pago de una suma fija mensual, de carácter no remunerativo y no bonificable, en el Fondo Provincial de Incentivo Docente (Fopid) y Complemento por Conectividad Provincial, y se estableció un tope máximo por docente de $ 60.000), con independencia de la cantidad de cargos y/o horas cátedra que detente.\n\nEsa cifra se integró por los $36.000 correspondientes al Fopid y $24.000 por el Complemento por Conectividad.\n\n“En tiempo y forma venimos por medio del personal a interponer formal acción de inconstitucionalidad contra el Superior Gobierno de la Provincia de Entre Ríos” contra el decreto N° 500 y la resolución N° 2.904 del Consejo General de Educación “en cuanto dispone como condición o calidad de los conceptos” Fopid y Complemento por Conectividad como “no remunerativa”. La petición se hizo “con extensión a cualquier otra norma que dispusiere el pago de incrementos salariales a los trabajadores dependientes del Consejo General de Educación bajo el aludido decreto de no remuneratividad”.\n\nAumentos «en negro»: Agmer fue a la Justicia\n\n \n\nMás aún, en la demanda Agmer pide que “se disponga el pago con carácter remunerativo (en blanco) de las sumas que perciben la totalidad de los trabajadores docentes de la Provincia de Entre Róis en Concepto de Fondo Provincial de Incentivo Docente (Fopid) y de Complemento Provincial de Conectividad, desde el día de su creación y, consecuentemente, se condene a los demandadas a remitir las sumas que correspondan a la Caja de Jubilaciones y Pensiones de Entre Ríos y a las obras sociales de las que son beneficiarios los docentes provinciales, en la proporción que por ley se establece y por el período que va desde el primer pago de los conceptos Fopid y Conectividad con carácter no remunerativo y hasta la efectiva incorporación de la remuneratividad de dichos conceptos en los salarios de los trabajadores activos”.\n\nTambién el sindicato docente pide a la Justicia que se condene al Poder Ejecutivo “a abonar a los actores beneficiarios de la Caja de Jubilaciones en sus haberes previsionales el monto que proporcionalmente les corresponde sobre los rubros Fopid y Conectividad, con más el pago de las sumas retroactivas desde que cada activo dependiente del CGE recibió las sumas no remunerativas de esos conceptos y hasta la efectiva incorporación de la remuneratividad en los salarios de los trabajadores activos de estos items salariales, con más los intereses legales respectivos desde que cada suma es debida”.\n\nEn el escrito de Agmer se señala que no solo se pretende que se declare la inconstitucionalidad de los pagos sino que se obligue al Ejecutivo a blanquear esos montos en negro.\n\n“Estamos en presencia de incrementos salariales instituidos en la norma provincial como ´fondo´ y ´complemento´ pero sin lugar a dudas se instituyen como incrementos salariales de los sueldos de trabajadores del sector docente, lo que es necesario tener claro en el presente, atento a que del modo cómo se han reglamentado resultada manifiestamente contrarios a la Constitución provincial”, señala.\n\nLa Justicia ya corrió traslado de la demanda al Poder Ejecutivo para que conteste los planteamientos formulados por Agmer. Y luego se espera la resolución de la Cámara en lo Contencioso Administrativo.\n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "gobierno",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-venden-pizzas-para-reparar-la-cupula-de-la-catedral",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Venden pizzas para reparar la cúpula de la Catedral",
+    "fecha": "2026-09-07",
+    "link": "https://entreriosahora.com/venden-pizzas-para-reparar-la-cupula-de-la-catedral/",
+    "texto_original": "“Pizzas Catedral. ¿Ya las probaste?”\n\nNo se trata de un emprendimiento particular, ni de una nueva rotisería surgida en la ciudad.\n\nSe trata de una iniciativa lanzada por la Iglesia Catedral Nuestra Señora del Rosario para reunir fondos que permitan costear los trabajos de mantenimiento de la cúpula principal del templo principal de Paraná.\n\n“Pizzas Catedral” se lanzó con una promoción a $7.500 la pizza común; y $9.500 la pizza especial, con un combo a $16.000 (una especial, y una común), con entrega el sábado 19, de 10 a 12,30.\n\n“Estamos realizando tareas de mantenimiento en cúpula y techos. Vamos haciendo un camino según nuestras posibilidades”, cuenta el párroco Fabián Minigutti, que destaca que “todavía no se ha hecho un presupuesto total” de los trabajos que se requieren.\n\nMinigutti ya tiene experiencia en recaudar fondos para obra cuando estuvo a cargo de los trabajos de construcción del Hogar Sacerdotal Jesús Buen Pastor, que se levanta en los terrenos del Centro Mariápolis El Salvador. La misma mecánica de recaudar fondos aplica ahora para los trabajos en la Catedral.\n\nEn 1859 una Bula Papal otorgó a Paraná el rango episcopal, pero la ciudad carecía aún de una nueva catedral. Durante el obispado de monseñor José María Gelabert y Crespo se tomó la decisión y se dieron las condiciones para la construcción de una nueva iglesia matriz. En 1882 se eligió al arquitecto Juan Bautista Arnaldi (1841-1915) para la ejecución del proyecto. La piedra fundamental fue colocada el primer día de 1883, siendo éste el quinto templo que se levantaría en este solar.\n\nEn 2026 inauguran el Hogar Sacerdotal en Mariápolis\n\nEl edificio de dimensiones monumentales se resuelve mediante una planta basilical de 38 metros de frente por 75 metros de fondo, donde se inscribe una cruz latina. Cuenta con una nave central que remata en forma semicircular en el presbiterio, y dos naves laterales, separadas de aquella por una sucesión de 16 columnas de mármol de carrara agrupadas de a par. El templo totaliza 92 columnas, el resto de ellas se materializan en mampostería terminadas con un estucado similar al mármol de carrara, armonizando el conjunto. La altura total llega a los 50 metros.\n\n \n\n \n\nEn 1895 se encomendó al escultor Doménico Di Carli (1829-1912) construir una gigantesca obra de San Pedro. Durante 1896 y 1897 fue realizada en los talleres de él.\n\nEstá ubicada en el atrio de la catedral, es de mármol de carrara, proveniente de Génova, Italia. Tiene 4 metros de altura y su base es de 1,50 metros. Representa los atributos del Papa: tiene la tiara papal, la capa pluvial, el manto, las llaves del Reino en su mano izquierda, y su mano derecha levantada en actitud de bendecir. Representa el poder de atar y desatar, y de cuidar de la Iglesia y su gobierno.\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "presupuesto",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-rossi-hablo-luego-del-encarcelamiento-de-urribarri",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Rossi habló luego del encarcelamiento de Urribarri",
+    "fecha": "2026-09-06",
+    "link": "https://entreriosahora.com/rossi-hablo-luego-del-encarcelamiento-de-urribarri/",
+    "texto_original": "“Esperemos que la Justicia vaya por los verdaderos responsables del saqueo de un presupuesto entero de Entre Ríos”.\n\nEl exvicegobernador de la Provincia y actual intendente de Santa Elena, Domingo Daniel Rossi, se expresó luego de la decisión de la Corte Suprema de Justicia de la Nación que rechazó el recurso extraordinario federal de los condenados en el marco del Megajuicio, entre otros el exgobernador Sergio Urribarri.\n\nRossi habló también de la necesidad de que la causa de los Contratos Truchos en la Legislatura avance más hacia los responsables últimos del desfalco que investiga la Justicia ocurrido entre 2008 y 2018.\n\nDe paso, le pegó a buena parte de la dirigencia del peronismo oriunda de Concordia: el exgobernador Sergio Urribarri, el exsenador Edgardo Kueider, al exgobernador Gustavo Bordet; pero también al exministro de Cultura y Comunicación, Pedro Báez, y al cuñado de Urribarri, Juan Pablo Aguilera.\n\n“Cómo no va a ser Concordia la ciudad más pobre de la Argentina, si durante veinte años la vaciaron? Urribarri, Kueider, Báez, Aguilera, Bordet, Gay, Cresto, Giano y compañía. Unos pocos se hicieron ricos mientras empobrecían al pueblo”, posteó Rossi.\n\nEl viernes, el Tribunal de Juicios y Apelaciones de Paraná ordenó la “inmediata” detención del exgobernador Sergio Urribarri; de su exministro de Cultura y Comunicación, Pedro Ángel Báez, y del cuñado del exmandatario Juan Pablo Aguilera en función del pedido formulado por el Ministerio Público Fiscal al haber quedado firmes las condenas impuestas en 2022 en el Megajuicio.\n\nOrdenan la «inmediata» detención de Urribarri, Báez y Aguilera\n\n \n\nUrribarri fue condenado a la pena de 8 años de cárcel, en tanto que Báez y Aguilera recibieron, cada uno, la pena de 6 años y 6 meses. “En mérito a lo expuesto, habiendo adquirido firmeza la sentencia de condena dictada por éste Tribunal en fecha 07.04.2022, corresponde ordenar la inmediata detención” de Urribarri y Aguilera, “y su alojamiento en la Unidad Penal N° 1, a fin de dar inicio a la ejecución de la pena impuesta”, dice la resolución firmada por los jueces María Carolina Castagno, Elvio Osir Garzón y Julián Carlos Vergara. A la vez, dispuso el traslado de Báez “desde su domicilio ubicado en calle Juan Manuel Jozami 2123 de la ciudad de Paraná, donde se encuentra cumpliendo prisión preventiva bajo modalidad de arresto domiciliario, a la Unidad Penal N° 1, a fin de dar inicio a la ejecución de la pena impuesta”.\n\nEn respuesta al planteo de los defensores Leopoldo Cappa, en representación de Urribarri, y de Ignacio Díaz y José Velázquez, por Báez, el tribunal resolvió: “Atento al cuadro de salud de los condenados Urribarri y Báez, invocado por sus defensas, requiérase al Servicio Penitenciario, que por el área de Sanidad, se proceda a realizar un exhaustivo examen de los nombrados, al momento de su ingreso a la unidad carcelaria, a fin de que se adopten todas las medidas sanitarias necesarias para su adecuado tratamiento intramuros, garantizándose la continuidad de los tratamientos y provisión de la medicación prescripta y su traslado a centros hospitalarios en caso de ser necesario, así como el regimen alimentario indicado, cuyas resultas deberá ser informada”.\n\n \n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "servicios_publicos",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "concordia",
+      "federal",
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-donda-vialidad-no-puede-atender-la-totalidad-de-la-red-vial",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Donda: «Vialidad no puede atender la totalidad de la red vial»",
+    "fecha": "2026-09-06",
+    "link": "https://entreriosahora.com/donda-vialidad-no-puede-atender-la-totalidad-de-la-red-vial/",
+    "texto_original": "La Cámara de Senadores de Entre Ríos otorgó el último miércoles la sanción definitiva a la Ley de Consorcios Camineros, una iniciativa promovida por el gobernador Rogelio Frigerio que representa, dijeron desde el Ejecutivo, “un cambio estructural en la forma de conservar y mejorar los caminos rurales de la provincia”.\n\nLa norma crea un régimen que permitirá incorporar asociaciones civiles sin fines de lucro al mantenimiento, reparación y mejora de la red vial de tierra y ripio, bajo la supervisión técnica, administrativa y contable de la Dirección Provincial de Vialidad (DPV). El objetivo, señalaron, es sumar capacidad de gestión, descentralizar las tareas y fortalecer el trabajo conjunto entre el Estado, los productores y las comunidades rurales.\n\nEl director administrador de Vialidad Provincial, Exequiel Donda, destacó que la ley responde a una necesidad histórica de la provincia. «El espíritu de la ley busca una solución descentralizada, ágil y solidaria que une a vecinos y productores rurales para cuidar y reparar los caminos de la región», afirmó.\n\nAdemás, remarcó que el nuevo esquema no reemplaza el rol del Estado, sino que lo fortalece mediante una gestión colaborativa.\n\n«Vialidad no puede atender la totalidad de la red vial. Estamos hablando de un sistema que fracasó hace muchos años y necesita otro tratamiento. Seguir de la misma manera es continuar con ese fracaso; por eso son necesarias todas las partes: los consorcios, los gobiernos locales y Vialidad trabajando en conjunto», sostuvo Donda.\n\nEntre Ríos posee una de las redes viales rurales más extensas del país: alrededor de 24.000 kilómetros de caminos de tierra, 4.000 kilómetros de ripio o brosa y 2.000 kilómetros pavimentados.\n\nActualmente, funcionan 10 consorcios camineros, que administran 1.467 kilómetros, mientras otros dos se encuentran en proceso de conformación. La sanción de la ley brinda un marco jurídico estable para ampliar este modelo y multiplicar su alcance en distintos puntos de la provincia.\n\nLos consorcios serán entidades de bien público y de servicio comunitario integradas por productores, vecinos y representantes de municipios, comunas y juntas de gobierno, quienes participarán con voz y voto en sus comisiones directivas.\n\nLa ley establece que Vialidad será la autoridad de aplicación y ejercerá el control técnico, contable y administrativo de cada consorcio, con acceso a sus registros financieros, administrativos y de personal.\n\nAsimismo, cuando administren fondos o bienes públicos, las entidades quedarán sujetas al control externo del Tribunal de Cuentas de Entre Ríos, garantizando transparencia en la utilización de los recursos.\n\nLos consorcios podrán ejecutar obras de manera directa o mediante terceros y elaborar proyectos propios, que deberán contar con la aprobación técnica de Vialidad antes de su ejecución.\n\nPara constituirse, un consorcio deberá presentar una Comisión Promotora integrada por al menos siete personas, reunir un mínimo de 20 socios activos y acompañar un croquis con los caminos que propone conservar. La DPV tendrá hasta 60 días para evaluar la viabilidad técnica y resolver la solicitud mediante una decisión fundada.\n\nPodrán integrar estas entidades propietarios, arrendatarios e inquilinos de establecimientos rurales ubicados dentro de la jurisdicción del consorcio o hasta 50 kilómetros de los caminos comprendidos.\n\n \n\nConsorcios actualmente en funcionamiento\n\nAlarcón: 116 km.\n\nColonia San Jorge: 101 km.\n\nCrucesita Octava: 135 km.\n\nGilbert: 166 km.\n\nIsleta Norte: 13 km.\n\nLa Esperanza: 157 km.\n\nLa Micra: 263 km.\n\nSanta Anita: 196 km.\n\nUrdinarrain: 180 km.\n\nPerdices: 140 km.\n\nTotal: 1.467 kilómetros.\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "servicios_publicos",
+      "transparencia",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "organos_control"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-la-suerte-carcelaria-de-urribarri-y-el-cuento-de-la-buena-pipa",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "La suerte carcelaria de Urribarri y el cuento de la buena pipa",
+    "fecha": "2026-09-06",
+    "link": "https://entreriosahora.com/la-suerte-carcelaria-de-urribarri-y-el-cuento-de-la-buena-pipa/",
+    "texto_original": "¿Yo, señor?\n\nNo, señor.\n\nEl cuento de la buena pipa se coló en medio de la definición de la situación carcelaria del exgobernador Sergio Urribarri, y de su exministro de Cultura y Comunicación, Pedro Ángel Báez, más el cuñado del primero, Juan Pablo Aguilera. Los tres resultaron condenados en el Megajuicio que se sustanció entre 2021 y 2022 por graves hechos de corrupción.\n\nUrribarri recibió una pena de 8 años de cárcel; Báez y Aguilera, 6 años y 6 meses de prisión cada uno. Todos recurrieron esas condenas, y esta última semana la Corte Suprema de Justicia de la Nación declaró inadmisibles los recursos extraordinarios que presentaron y, así, dejó firme aquellas condenas.\n\nLo que siguió fue la petición del Ministerio Público Fiscal para que se los detenga y se los derive a la Unidad Penal N°1, de Paraná. El Tribunal de Juicios y Apelaciones de Paraná primero elevó cconsulta a la Sala Penal del Superior Tribunal de Justicia (STJ), y después resolvió hacer lugar al pedido y librar las órdenes de detención de los tres y su alojamiento en la cárcel de la capital provincial.\n\nLos defensores de Urribarri y de Báez acudieron al tribunal y argumentaron razones de salud para evitar el encarcelamiento y solicitaron arresto domiciliario. Pero ese trámite no prosperó.\n\nEn el medio, el Servicio Penitenciario de Entre Ríos anotició al Tribunal de Juicios que en la Unidad Penal de Paraná no sería posible alojar a Urribarri, Báez y Aguilera.\n\nJuan Santiago García, subdirector del Servicio Penitenciario de Entre Ríos, elevó un escrito a la jueza María Carolina Castagno e indicó que la Unidad Penal de Paraná “no reúne las condiciones óptimas para brindar el alojamiento de los nombrados, teniendo en cuenta su edad avanzada y que en la actualidad a la población que aloja dicha institución carcelaria es de 1.066 internos. En este sentido los pabellones se encuentran con alta densidad de población, contando además solo con lugares comunes para que transiten su condena”.\n\nOrdenan la «inmediata» detención de Urribarri, Báez y Aguilera\n\nSugirió derivarlos a la Unidad Penal N° 9, de Gualeguaychú.\n\n¿Quién debería resolver la situación?\n\n“En mérito a lo expuesto, habiendo adquirido firmeza la sentencia de condena dictada por éste Tribunal en fecha 07.04.2022, corresponde ordenar la inmediata detención” de Urribarri y Aguilera, “y su alojamiento en la Unidad Penal N° 1, a fin de dar inicio a la ejecución de la pena impuesta”, dice la resolución firmada por los jueces María Carolina Castagno, Elvio Osir Garzón y Julián Carlos Vergara. A la vez, dispuso el traslado de Báez “desde su domicilio ubicado en calle Juan Manuel Jozami 2123 de la ciudad de Paraná, donde se encuentra cumpliendo prisión preventiva bajo modalidad de arresto domiciliario, a la Unidad Penal N° 1, a fin de dar inicio a la ejecución de la pena impuesta”.\n\nEl Servicio Penitenciario planteó la duda, pero nadie la develó.\n\nLa jueza de Ejecución de Penas de Paraná Cecilia Bértora sostuvo que en el «Juzgado de Ejecución de Penas y Medidas de Seguridad a mi cargo no se ha recibido sentencia y cómputo» de las penas aplicadas.  «Cabe destacar que dicha solicitud ya fue receptada por el Tribunal de Juicio y Apelaciones, habiéndose dispuesto que oportunamente se hará saber a esta Magistratura, para que en el ámbito de las competencias que son propias de este organismo, se decida sobre el particular tomando en consideración los extremos suficientes y necesarios para resolver lo que corresponda legal y adminstrativamente, para mejor resguardo de los derechos del peticionante», expresó la jueza.\n\nY agregó: «Conforme a lo expuesto, no corresponde que me expida, debiendo estarse a la recepción de la documentación mínima necesaria para dar comienzo a la ejecución de la pena, como son la sentencia firme y cómputo de pena -el cual se encuentra en etapa de confección al día de la fecha-«.\n\nLa jueza de Ejecución de Penas dice que no tiene la sentencia\n\n \n\nAl cierre de esta edición, Urribarri, Báez y Aguilera seguían en la Unidad Penal de Paraná a la espera que se resuelva el entuerto judicial, y por eso entre los defensores circuló la posibilidad de presentar un hábeas corpus, que finalmente se desechó.\n\n«No sé cómo van a resolver, no sé cómo van a terminar. No era urgente detenerlos el viernes, a las ocho y media de la noche, porque se generó un kilombo administrativo, máxime cuando no había peligro de fuga. Se había hablado que fuera el lunes la detención, porque formalmente la Corte todavía no ha notificado de la sentencia. Ojalá resuelvan», analizó una fuente que conoce el caso.\n\n \n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-urribarri-fue-detenido-y-trasladado-a-la-unidad-penal",
+    "fuente": "Página Judicial",
+    "titulo": "Urribarri fue detenido y trasladado a la unidad penal",
+    "fecha": "2026-09-05",
+    "link": "https://paginajudicial.com/2026/09/05/urribarri-fue-detenido-y-trasladado-a-la-unidad-penal/",
+    "texto_original": "De la Redacción de Página Judicial\n\n \n\nEl Tribunal de Juicios y Apelaciones de Paraná ordenó este viernes por la noche la detención del ex gobernador Sergio Urribarri, su cuñado Juan Pablo Aguilera y el ex ministro Pedro Báez, \nluego de que la Corte Suprema de Justicia de la Nación rechazara el recurso extraordinario que había interpuesto su defensa para que se revisara la condena que recibieron por delitos de corrupción\n.\n\nUrribarri, Báez y Aguilera fueron condenados por delitos de negociaciones incompatibles con la función pública, peculado y defraudación a la administración pública en cinco causas relacionadas con el desvío de fondos públicos para promocionar su fallida candidatura presidencial en 2015.\n\nEl ex mandatario fue detenido en Concordia, trasladado a la capital provincial y quedó alojado en la unidad penal, luego de pasar la noche en la alcaidía de tribunales. En tanto, Aguilera fue arrestado en General Campos; y Báez, que cumplía prisión preventiva domiciliaria, también fue trasladado a la cárcel de Paraná.\n\nLa medida fue ordenada por el Tribunal de Juicios y Apelaciones, luego de que la Corte Suprema desestimara los recursos extraordinarios que habían presentado los defensores de los ex funcionarios y dejara firma la condena por delitos de corrupción en el ámbito de administración pública. Urribarri deberá purgar una condena de ocho años de cárcel, mientras que Báez y Aguilera cumplirán seis años y seis meses de prisión.\n\nUrribarri y Aguilera ya habían permanecido casi dos meses detenidos en la unidad penal: desde el 19 de noviembre hasta el 8 de enero de 2025\n, en aquella ocasión a partir de una resolución de la Cámara de Casación Penal de Paraná. Báez, por su parte, había sido detenido el 22 de noviembre y, tras pasar unas cuantas semanas en la unidad penal, \nla prisión preventiva se transformó en arresto domiciliario\n, hasta este viernes\n\nLos abogados defensores habían solicitado al Tribunal de Juicios y Apelaciones que los ex funcionarios recibieran el beneficio de la prisión domiciliaria. Por el contrario, los fiscales Patricia Yedro y Gonzalo Badano pidieron formalmente que se dispusiera “la inmediata detención y traslado a la Unidad Penal Número 1 de la ciudad de Paraná”, a lo que finalmente los jueces hicieron lugar.\n\nEl 2022, el tribunal también había condenado a otros ex funcionarios, empresarios y allegados\n, aunque todos recibieron penas de prisión condicional (no efectiva).",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "agro",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-el-caso-urribarri-la-relacion-entre-la-politica-y-la-justicia",
+    "fuente": "Página Judicial",
+    "titulo": "El caso Urribarri, la relación entre la política y la Justicia",
+    "fecha": "2026-09-04",
+    "link": "https://paginajudicial.com/2026/09/04/el-caso-urribarri-la-relacion-entre-la-politica-y-la-justicia/",
+    "texto_original": "Federico Malvasio \n\nDe la Redacción de Página Judicial\n\n \n\nUna infidencia. El 7 de abril de 2022, cuando condenaron a Sergio Urribarri, un importante funcionario vinculado a la comunicación de Horacio Rodríguez Larreta se puso en contacto con este cronista. Seguramente a instancia de Luciano Garro, que por entonces oficiaba de asesor de prensa de Rogelio Frigerio. ¿Motivos? Tener un punto de vista sobre lo que acababa de suceder. El interlocutor estaba impactado. Un ex gobernador, con alguna presencia nacional, era condenado a 8 años de prisión por delitos en el seno de la administración pública. ¿Inquietud? Desde la administración de CABA observaron con preocupación que dentro de los delitos que se le habían imputado a Urribarri estaba el de haber utilizado fondos públicos, a través de la publicaciones en medios de distintos puntos del país, para posicionar su figura a nivel nacional en el marco de una campaña presidencial. El sueño entrerriano. Por esos tiempos, medios de Entre Ríos invitaban a visitar Buenos Aires desde spots y banners en las páginas web. Rodríguez Larreta ya era candidato presidencial y Frigerio, entonces diputado nacional por Entre Ríos, caminaba por las cuchillas de Montiel con traje de candidato a gobernador.\n\nLa Corte Suprema de Justicia decidió este jueves confirmar la condena que, a juzgar por el Código Penal, es similar a la de un homicida. Silvio Díaz atropelló, alcoholizado, a un nene que cruzaba la calle para ingresar a la Escuela Centenario de Paraná. Lo mató. Fue condenado a 8 años y 4 meses.\n\nUrribarri tuvo en suerte cuando ejercía el cargo de gobernador una excelente relación con el procurador general, Jorge García, quien ostenta el monopolio de la acción penal. Llegó a presentar, junto con la vocal Claudia Mizawak y en conferencia, una deplorable ley de narcomenudeo que cuando dio sus primeros pasos el juez federal Leandro Ríos la declaró inconstitucional. (La foto que ilustra esta esta nota es cuando se anuncia la ley)\n\nMientras el procurador general miraba para otro lado ante las fechorías del mandatario que se empezaban a notar en la superficie, dotó al Ministerio Público Fiscal con recursos de todo tipo. Pero García no traicionó. Cuando Urribarri dejó de tener la lapicera y se le complicó el frente judicial, el procurador tiró una soga. El acuerdo que le propuso al entonces presidente de la Cámara de Diputados, su cuñado Juan Pablo Aguilera y su ex ministro, Pedro Báez; consistía en centralizar la culpabilidad de los delitos en la figura de Aguilera, a quien le cabría una condena de cuatro años. Esa propuesta la reveló \nPágina Judicial\n.\n\nEl acuerdo de García que Urribarri no aceptó\n\nUrribarri no aceptó. Los abogados comenzaron una guerra contra el procurador a través de operaciones de prensa difundidas por vulgares comunicadores. García dio rienda suelta a las pesquisas. Cuando el agua llegó al cuello, el ex mandatario requirió los servicios de Fernando Burlando. No es descabellado que haya recurrido a un abogado de la farándula. El kirchnerismo también se permitió inventar vedettes. Urribarri fue una de ellas. No había sido referente de los derechos humanos, pero cuando tuvo la posibilidad de estar con Hebe de Bonafini no se le ocurrió otra cosa que hacerle un guiso y publicarlo en las redes. Pose permanente. Abuso de comunicación.\n\nPero volvamos a García. Es un hombre de la gobernabilidad. Del statu quo. No solo intentó darle una mano a quien lo había provisto de recursos para su organismo, sino que cuando las papas quemaron, como en la causa de los contratos truchos en la Legislatura, también fue el que puso tapa a la olla. Dejó a todos los presidentes de las cámaras fuera del desquicio. Ahora les inventó una causa, pero para salvarlos. Tiene amigos y coterráneos en ese legajo, a los que no le va a fallar.\n\nAdemás de la gobernabilidad, en el jefe de los fiscales prima su ánimo personal. A Gustavo Bordet se la tiene jurada y actúa en consecuencia.\n\nGarcía va contra Bordet\n\nTodo marcha de acuerdo al plan\n\nFrigerio ha dejado trascender, por lo menos en su entorno lo han manifestado, una preocupación por una cultura entrerriana: los gobernadores que terminan sus mandatos terminan imputados.\n\nEs tal el sometimiento de la política a la figura del procurador, que debe ser el único caso, el de García, que prefiere ser juzgado en un juicio político antes que en el Jurado de Enjuiciamiento, donde en su integración prima la comunidad judicial por sobre la política.\n\nUn viejo dirigente, inoxidable en la gestión pública, suele lamentar que el día en que los constituyentes de 2008 levantaron la mano para votar la cláusula de reelección con la limitante de dos mandatos, fue el preciso momento en el que la política se entregó al Poder Judicial.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "legislatura",
+      "justicia",
+      "elecciones",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-la-corte-suprema-confirmo-la-condena-a-urribarri-y-podria-quedar-detenido",
+    "fuente": "Página Judicial",
+    "titulo": "La Corte Suprema confirmó la condena a Urribarri y podría quedar detenido",
+    "fecha": "2026-09-03",
+    "link": "https://paginajudicial.com/2026/09/03/la-corte-suprema-confirmo-la-condena-a-urribarri-y-podria-quedar-detenido/",
+    "texto_original": "De la Redacción de Página Judicial\n\n \n\nLa Corte Suprema de Justicia de la Nación confirmó la condena del ex gobernador Sergio Urribarri por delitos de negociaciones incompatible con la función pública, peculado y defraudación a la administración pública en cinco causas relacionadas con el desvío de fondos públicos para promocionar su fallida candidatura presidencial en 2015.\n\nTambién fueron rechazados los recursos presentados por el ex ministro Pedro Báez y por Juan Pablo Aguilera, cuñado del ex gobernador, que deberán purgar penas de seis años y medio de prisión.\n\nLos supremos rechazaron por inadmisible el recurso extraordinario que habían presentado los abogados del ex gobernador Urribarri apelando al artículo 280 del Código Procesal Civil y Comercial de la Nación, que le concede facultades discrecionales para impugnar el tratamiento de un expediente.\n\nRicardo Lorenzetti se explayó argumentando que “a fin de evitar interpretaciones erróneas acerca del alcance de los fallos de la Corte Suprema que la desestimación de un recurso extraordinario mediante la aplicación de dicha norma no importa confirmar ni afirmar la justicia o el acierto de la decisión recurrida”.\n\nEl 7 de abril de 2022, el tribunal integrado por los jueces José María Chémez, Elvio Garzón y Carolina Castagno condenó al ex gobernador entrerriano a ocho años de prisión e inhabilitación absoluta y perpetua para ejercer cargos públicos.\n\nEl tribunal consideró que Urribarri y Báez, en acuerdo con Juan Pablo Aguilera, pergeñaron un plan para desviar fondos públicos a través de diversas contrataciones de publicidad en la vía pública y en distintos medios de comunicación, la elaboración de productos de imprenta, la publicación de una solicitada en medios nacionales contra los fondos buitres, la difusión de spots con el declamado interés de promocionar a la ciudad de Paraná en el marco de la Cumbre del Mercosur y la instalación de un parador turístico en Mar del Plata.\n\nEl desfalco a la administración pública se calculó en una suma cercana a los 70 millones de pesos, que representaban unos 9 millones de dólares de aquel tiempo. Gran parte de ese dinero habría sido desviado para la promoción de la figura de Urribarri como candidato presidencial, lo que se dio en llamar el sueño entrerriano.\n\nEsta decisión de la Corte Suprema abre la puerta para la detención de Urribarri. Previamente deberá comunicarse el fallo a los tribunales provinciales, aunque desde el Ministerio Público Fiscal pedirán la inmediata detención y alojamiento en cárcel común para el ex gobernador, que permanece en libertad, aunque con algunas restricciones; por ejemplo, tiene prohibido salir de la ciudad de Concordia.\n\nEl mismo tribunal se declaró igualmente culpables al ex funcionario Gustavo Tamay; a la contadora Corina Cargnel, Luciana Belén Almada (pareja de Aguilera), al diseñador gráfico Emiliano Giacopuzzi, señalado como testaferro en la empresa TEP SRL; el pizzero Germán Buffa y al empresario Gerardo Caruso, dueño de El juego en que andamos, la firma que tuvo a su cargo la instalación del parador en la playa de Mar del Plata que se utilizó para promocionar la figura de Urribarri en el verano de 2015. Sus planteos también fueron desestimados por la Corte Suprema.\n\nLa sentencia fue confirmada por la Cámara de Casación Penal el 31 de mayo de 2023, que a su vez denegó la impugnación extraordinaria; y el 17 de abril de 2024 la Sala Penal del Superior Tribunal de Justicia (STJ) rechazó el recurso de queja.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "comercio",
+      "servicios_publicos",
+      "justicia",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-se-pone-en-marcha-el-sistema-acusatorio-federal-en-parana",
+    "fuente": "Página Judicial",
+    "titulo": "Se pone en marcha el sistema acusatorio federal en Entre Ríos",
+    "fecha": "2026-09-02",
+    "link": "https://paginajudicial.com/2026/09/02/se-pone-en-marcha-el-sistema-acusatorio-federal-en-parana/",
+    "texto_original": "Federico Malvasio\n\nDe la Redacción de Página Judicial\n\n \n\nLa noticia llegó en la tarde de este 2 de septiembre. En el Boletín Oficial se publicó \nla resolución 417/2026 del Ministerio de Justicia de la Nación\n donde se pone en vigencia el sistema acusatorio “en la jurisdicción correspondiente a la Cámara Federal de Apelaciones de Paraná, a partir de las 00 horas del 30 de noviembre”.\n\nLa resolución, que lleva la firma del ministro Juan Bautista Mahiques, suma a Entre Ríos a la lista de distritos federales que comprenden las provincias del Chaco, Formosa, Corrientes, Salta, Jujuy, Santa Fe, Mendoza, San Juan, San Luis, Neuquén, Río Negro, Chubut, Santa Cruz, La Pampa, Tierra del Fuego, Antártida e Islas del Atlántico Sur, Misiones, así como también en regiones de la provincia de Buenos Aires, a través de las jurisdicciones de Bahía Blanca, Mar del Plata y San Nicolás de los Arroyos.\n\nSegún se desprende de los argumentos, se ha merituado “la relevancia estratégica” que la jurisdicción correspondiente al Distrito Federal de Paraná comprende la totalidad del territorio de la provincia y “reviste particular relevancia estratégica en razón de su ubicación geográfica y de constituir, a través de su margen oriental, un espacio fronterizo con la República Oriental del Uruguay”. Por otro lado, “a lo largo de dicho límite se emplazan 3 pasos fronterizos terrestres y 8 pasos fluviales, circunstancia que determina una dinámica significativa de circulación de personas, bienes y servicios y una especial complejidad para la prevención, investigación y persecución de delitos de carácter federal, interjurisdiccional y transfronterizo”.\n\n“La jurisdicción -también se subraya- es atravesada en toda su extensión por la Ruta Nacional N° 14, corredor vial de relevancia estratégica que articula la circulación entre la provincia de Entre Ríos y las demás provincias del litoral argentino y constituye una vía de conexión hacia la denominada Triple Frontera”.\n\nEl sistema acusatorio implica un cambio radical en el fuero penal. A partir de la implementación, la figura del fiscal cobra una notable relevancia en la investigación. El monopolio. Con el sistema inquisitivo, que rige en la actualidad, el juez es quien investiga y juzga.\n\nLa puesta en marcha es en el marco de un vertiginoso proceso de designaciones en distintos puntos del país. La semana pasada fue el turno de Pedro Mariano Rebollo para ocupar el cargo de fiscal federal de Gualeguaychú. Los entrerrianos Joaquín Benegas Lynch (La Libertad Avanza), Romina Almeida (La Libertad Avanza) y Adán Bahl (PJ) votaron afirmativamente.\n\nEl procurador general de la Nación interino, Eduardo Casal, convocó a concursos abiertos y públicos de oposición y antecedentes para cubrir vacantes en las fiscalías de Paraná, Victoria y Concordia. \nAquí una nota explicativa de \nPágina Judicial\n\n.\n\nEl ámbito en que se dará el puntapié inicial de la implementación del sistema acusatorio está a cargo del fiscal general, José Ignacio Candioti, que este martes por la noche brindó una entrevista en el ciclo \nPlaza Mansilla\n, que se emite por la radio streaming de \nEl Once\n y se refirió al sistema:",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "gualeguaychú",
+      "federal",
+      "gualeguay",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-la-increible-y-cruenta-historia-de-amparito-la-desalmada",
+    "fuente": "Página Judicial",
+    "titulo": "La increíble y cruenta historia de Amparito la desalmada",
+    "fecha": "2026-09-01",
+    "link": "https://paginajudicial.com/2026/09/01/la-increible-y-cruenta-historia-de-amparito-la-desalmada/",
+    "texto_original": "Juan Cruz Varela\n\nDe la Redacción de Página Judicial\n\n \n\nAlejandra Etelvina Rodríguez carga un apodo que parece la antítesis de la cándida a quien Gabriel García Márquez le dedicara un cuento; antes bien, podría remedar a la desalmada aquella.\n\nEl 26 de agosto, cuando estaba a punto de celebrar una década como la prófuga más buscada de Entre Ríos (¿lo era en verdad?), alias \nAmparito\n fue detenida por la Policía de Entre Ríos, en un operativo que parece haber sido escrito para el cine, en el camping Puente Paranacito, sobre la Ruta Nacional 12, muy cerca de donde ocurrieron los hechos por los que había sido condenada a veinte años de prisión.\n\nSe había escondido sin que pudieran ubicarla durante una década. Sus rastros se perdieron. Se dice que cambió de país. Hasta que un día cometió un error: volvió a casa, y ahí cayó.\n\nTreinta efectivos irrumpieron en el camping en medio de la noche y lograron quebrar un rudimentario aunque efectivo sistema de alarmas que acaso podría haberle permitido escapar y perderse en el monte.\n\nSegún indicaron fuentes policiales a \nPágina Judicial\n, el dato que permitió localizar a \nAmparito\n fue aportado por sus propias hijas. Se presentaron ambas el 1 de mayo ante la comisaría de Ceibas y contaron que habían recibido información que indicaba que su madre, condenada y prófuga, había regresado a Villa Paranacito que se encontraba viviendo en un complejo de cabañas, cobijada por su familia.\n\nEn los meses siguientes, a partir de aquel dato, se sucedieron tareas de vigilancia, seguimientos e intervenciones telefónicas que permitieron identificar a quienes vivían en el lugar y reconstruir los movimientos internos.\n\nLas personas que vivían en el ingreso del predio tenían una vista privilegiada sobre movimientos que podían considerar sospechosos en la ruta; la madre de Rodríguez, a su vez, tenía en su cabaña una especie de cuerda que jalaba ante cualquier sospecha y hacía sonar una campana ubicada a unos cincuenta metros para advertir a la prófuga, que se alojaba en una pequeña casilla de madera emplazada en el fondo del camping. Los policías que ingresaron aquel miércoles a las tres y media de la madrugada encontraron allí una mochila con ropa y elementos de supervivencia que le permitirían, eventualmente, esconderse en el monte, resistir durante unos días y emprender una huida.\n\nAllí la encontraron, pertrechada; así fue su caída, sin resistencia. El final de un derrotero, hasta su alojamiento definitivo en la cárcel de mujeres de Paraná, donde empezará a cumplir una condena de veinte años de prisión.\n\nCondena y fuga\n\nLos hechos por los cuales fue condenada Alejandra Rodríguez ocurrieron en Villa Paranacito, donde vivía con sus hijas, que tenían 13 y 10 años cuando se formalizó la denuncia, en 2014.\n\nFue una maestra de la escuela a la que asistían las niñas quien advirtió que algo no estaba bien e irradió las primeras alertas al Consejo Provincial del Niño, el Adolescente y la Familia (Copnaf), desde donde radicaron la denuncia ante la Policía; e inmediatamente se dio intervención al entonces fiscal auxiliar Pablo Obaid.\n\nDe acuerdo con el testimonio que dieron las nenas en Cámara Gesell, los abusos ocurrían en una casilla de madera que ocupaba un supuesto curandero, Juan Carlos Flores, en el mismo camping en que fue capturada \nAmparito\n, a unos cincuenta metros de la casa donde vivían. Los abusos eran sistemáticos; ella las entregaba como una especie de ofrenda y siempre con la promesa de que cada vez era la última. El fiscal dijo además que la mujer prestaba “colaboración material y moral” al perpetrador y que los abusos se consumaron “previo doblegar la voluntad de las víctimas a través del uso de amenazas y a veces de fuerza material por parte de la madre”.\n\nOperadores judiciales que intervinieron en las distintas instancias del proceso penal, sea en forma directa o a través de distintas resoluciones que les tocó dictar, aseguran que pocas veces han sido testigos de testimonios tan espeluznantes como los de estas niñas.\n\nEl 13 de mayo de 2016, el Tribunal de Juicio y Apelaciones de Gualeguaychú, integrado por los jueces Arturo Exequiel Dumón, Alicia Vivian y Mariano Martínez condenó a Amparito a veinte años de prisión, pero en los meses que siguieron hasta la confirmación de la condena, en diciembre, se fugó.\n\nFlores, el perpetrador de los abusos, fue condenado a diecinueve años de cárcel, fue detenido cuando la sentencia quedó firme y falleció en prisión en 2017.\n\nSe dice –puede que sean habladurías– que \nAmparito\n huyó al Paraguay. ¿Cómo saberlo? Sí se sabe que no salió del país por un paso fronterizo habilitado, estaba en la lista de criminales “más buscados” de la Argentina y se llegó a ofrecer una recompensa de 20 millones de pesos para quien aportara datos sobre su paradero. Nadie lo hizo.\n\nSu detención es un acto reparador para sus hijas, las víctimas, que vivieron años de miedo e incertidumbre. “No se sana, pero se sale adelante”, se esperanzó la mayor en una entrevista que le dio a \nCanal 9\n cuando se conoció la noticia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "justicia",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-procesaron-a-agentes-de-inteligencia-por-crimenes-de-lesa-humanidad",
+    "fuente": "Página Judicial",
+    "titulo": "Procesaron a agentes de inteligencia por crímenes de lesa humanidad",
+    "fecha": "2026-08-31",
+    "link": "https://paginajudicial.com/2026/08/31/procesaron-a-agentes-de-inteligencia-por-crimenes-de-lesa-humanidad/",
+    "texto_original": "Juan Cruz Varela\n\nDe la Redacción de Página Judicial\n\n \n\nLa jueza federal Analía Ramponi dictó el procesamiento de varios ex militares de inteligencia por el encubrimiento del secuestro y la desaparición forzada del soldado Jorge Emilio Papetti, como también por el secuestro y aplicación de torturas a ciudadanos uruguayos, en el marco del Plan Cóndor.\n\nLa medida alcanza a Juan Ignacio Aleman, Jorge Enrique Echeverría, Miguel Ángel Galeano y Horacio Alberto Goris, integrantes del grupo de inteligencia del Regimiento de Concordia, que desempeñó un rol fundamental en el secuestro de militantes, su alojamiento en centros clandestinos de detención, aplicación sistemática de torturas y desaparición de personas.\n\nLa magistrada, en coincidencia con lo que había postulado la fiscal Josefina Minatta, consideró que los represores “formaban parte de un aparato estatal perfectamente organizado y ensamblado, destinado a borrar cualquier tipo de vestigio de lo que consideraban peligroso para la seguridad nacional y que terminó siendo responsable de un genocidio” y resaltó que el área de inteligencia “estaba dotado de una organización estructural (…) y desde su misma conformación aceptó la comisión de diferentes delitos como necesaria para el logro de sus objetivos finales”.\n\nEl aparato represivo era dirigido por Naldo Miguel Dasso, jefe del regimiento, condenado a prisión perpetua por el secuestro, aplicación de torturas y desaparición forzada de personas, y fallecido el 2 de septiembre de 2023.\n\nPero la inteligencia era el sistema nervioso de la represión ilegal, conectando a las máximas autoridades con los centros clandestinos de detención, tortura y desaparición de personas operados por personal de inteligencia.\n\nEl jefe de la banda\n\nEl teniente coronel Naldo Miguel Dasso se presentaba a sí mismo como el dueño de la vida y la muerte de las personas que vivían en el área bajo su comando. Decenas de personas fueron encarceladas en un centro clandestino de detención que funcionaba en el regimiento y el plan sistemático de represión ilegal hizo desaparecer a Sixto Francisco Zalazar, Julio Alberto Solaga y el conscripto Jorge Emilio Papetti.\n\nDasso también había logrado edificar estrechas relaciones con los servicios de inteligencia uruguayos a partir del intercambio de información sobre los antecedentes de personas que aspiraban a trabajar en las obras complementarias del complejo hidroeléctrico binacional de Salto Grande, con acciones impuestas para desarticular el movimiento obrero de la represa e impedir la instalación en Concordia y Salto de militantes nacionales de ambos lados del río.\n\nEn documentos oficiales, además, quedaron registrados varios viajes que Dasso y otros jefes militares hicieron a Salto; como también de militares uruguayos a Concordia, en el marco de lo que se dio en llamar Plan Cóndor.\n\nAl mismo tiempo, cimentaba su imagen pública con el apoyo de entidades y personajes históricamente conservadores, desde la Iglesia hasta la Sociedad Rural, pasando por la Cámara de Comercio y el Rotary Club, entre otros, quienes reivindicaban la “gran obra civil” del jefe de la unidad militar.\n\nEl sistema nervioso\n\nEl teniente primero Jorge Enrique Echeverría era integrante de la plana mayor del regimiento y oficial de inteligencia; era el cerebro de la unidad militar y su función era colectar información en la lucha contra la subversión, a través del secuestro, aplicación de torturas, abusos sexuales y otros métodos ilegales.\n\nEl grupo de inteligencia estaba integrado además por el oficial Juan Ignacio Aleman y los suboficiales auxiliares Miguel Ángel Galeano y Héctor Aníbal Amarillo (fallecido), entre otros militares.\n\nEl capitán Horacio Alberto Goris era jefe de personal en el regimiento; integraba la plana mayor, secundaba a Dasso y su tarea era la administración de los recursos para las acciones de represión ilegal en la jurisdicción.\n\nEl conscripto\n\nEl soldado conscripto Jorge Emilio Papetti fue detenido el 16 de marzo de 1977 mientras estaba de guardia en el Regimiento de Concordia, donde había ingresado once meses atrás. Cuando su madre fue a indagar sobre su situación, Dasso le dijo que había sido arrestado para ser investigado y que se fugó cerca de Villaguay cuando era trasladado a Paraná, esposado y bajo custodia de tres oficiales del regimiento.\n\nEl traslado, según los registros militares, estuvo a cargo de Aleman, como responsable del operativo, y los suboficiales Amarillo y Galeano, que eran auxiliares del grupo de inteligencia del regimiento. Ellos mismos lo han reconocido.\n\nSin embargo, dos personas que compartieron cautiverio con el soldado conscripto dieron otra versión. Ramón Rogelio Ayala y Jorge Martín Ramírez vieron a Papetti en una sesión de tortura en el regimiento y contaron que luego los trasladaron a los tres a la Tortuga Alegre, un camping cerca de Salto Grande, donde fueron nuevamente torturados.\n\nPapetti estaba muy golpeado, prácticamente no podía mantenerse en pie, dijo Ramírez; tenía los ojos cerrados por los golpes, el pecho hundido, sangre en la boca y tosía mucho.\n\nEn una fecha que sería el 19 de marzo los tres fueron trasladados a Paraná. Ramírez iba en un camión tanque; Papetti y Ayala, en el baúl de un Ford Falcon. Al llegar, los alojaron en los cuarteles del ejército, donde permanecieron dos días; hasta que Papetti y Ramírez fueron trasladados a la cárcel.\n\nPapetti fue torturado hasta la muerte en la “unidad familiar”, un sitio dentro de la cárcel de Paraná donde se torturaba a los detenidos. “Escuché que le dio un ataque, se quedó sin aire, empezaron a pegarle en el corazón y se ve que les murió”, contó Ramírez.\n\nLos últimos momentos de Papetti en la cárcel son más borrosos. Ramírez mencionó que en la sala donde ambos eran torturados había al menos seis personas, advirtió que eran militares, aunque no pudo identificar a ninguno.\n\nTres ex militares fueron condenados por la desaparición de Papetti: Dasso, como autor del secuestro y las torturas; y José Anselmo Appelhans, director de la cárcel de Paraná, como autor del secuestro, imposición de tormentos y homicidio doblemente calificado por alevosía y por haber sido cometido por dos o más personas, y recibieron prisión perpetua; y Gonzalo López Belsue, quien lo retiró de la formación, recibió ocho años de prisión como partícipe secundario de los delitos de privación ilegítima de la libertad e imposición de tormentos.\n\nLa jueza Ramponi ahora procesó a Echeverría, Aleman y Galeano como integrantes de una asociación ilícita y encubridores del homicidio de Papetti; y a Goris como coautor del secuestro y aplicación de torturas al conscripto; y les trabó embargos de 30 millones de pesos a cada uno.\n\nLas alas del cóndor\n\nEl 3 de julio de 1977, fuerzas militares argentinas detuvieron en Concordia a Jesús Siverio Suárez Méndez, señalado como miembro de la conducción del Partido Comunista Revolucionario uruguayo y responsable de una célula que integraban su hermano Luis Suárez Méndez, Eduardo Robatto Guerreiro y Luis Urrutia.\n\nLa caída del grupo se produjo de manera fortuita, cuando trabajaban haciendo changas de albañilería en unas cabañas en el Hostal del Río, en el Parque San Carlos, en Concordia, a raíz de un incidente laboral sin relación alguna con la política.\n\nTambién fueron detenidos Brenda Levith, esposa de Luis Suárez Méndez, y el hijo de ambos, de 3 años; María Julia, hermana de Jesús y Luis, de 17 años y sin militancia; y otras dos personas.\n\nEn un primer momento fueron trasladados a la Jefatura Departamental de Policía de Concordia, bajo el mando del inspector Pedro Fernando Campbell, y sometidos a violentos interrogatorios de los que tomaron parte militares uruguayos.\n\nEn los registros policiales, la detención de los militantes uruguayos se registró que habían sido ordenadas por “el jefe de Área 225”, es decir, Dasso; y en el caso de Jesús Suarez Méndez quedó anotado que fue entregado por la Policía de Entre Ríos al teniente primero Aleman.\n\nLa jueza Ramponi aseguró que “tales hechos se dieron en el marco de lo que fue el denominado Plan Cóndor, llevado adelante por los gobiernos uruguayo y argentino durante la última dictadura militar, que tenía como objetivo atacar movimientos guerrilleros, partidos y grupos de izquierda, sindicalistas, religiosos, políticos liberales, entre otros supuestos enemigos de dichos gobiernos autoritarios, a través de grupos de tareas conformados por integrantes de las fuerzas armadas y de seguridad de los Estados mencionados”, con la intervención de policías no identificados, el sargento primero Amarillo, el teniente primero Echeverría, el teniente primero Aleman, Oficial y sargento ayudante Galeano, todos respondiendo a las órdenes de Dasso, el jefe del regimiento.\n\nTambién participaron militares uruguayos: el mayor Waldemar Tarigo y el capitán Ramón Prudencio Barboza, junto con un cabo del área de inteligencia del Batallón de Infantería de Salto no identificado.\n\nLos detenidos fueron torturados con picana y golpeados ferozmente en una casona abandonada, presumiblemente el barrio La Bianca. María Julia fue abusada sexualmente por Amarillo, y también recibió descargas de corriente eléctrica en su cuerpo delante de su hermano Jesús, Robatto y Urrutia, mientras ellos mismos eran sometidos a feroces tormentos.\n\nEsa misma noche fueron trasladados a otro lugar, probablemente hacia el norte de la ciudad, a orillas del río Uruguay, donde otra vez fueron sometidos a torturas.\n\nMaría Julia, su hermano Luis, Brenda Levith y el hijo de ambos permanecieron unos días en la Jefatura Departamental de Policía, hasta que los subieron a una lancha y fueron trasladados a Salto por oficiales del Ejército uruguayo. Una vez en la banda oriental, los cuatro recuperaron la libertad.\n\nEduardo Robatto Guerreiro y Luis Urrutia, en cambio, fueron trasladados clandestinamente al Uruguay por el capitán Barboza a través del puente de Salto Grande.\n\nJesús Silverio Suárez Méndez no fue entregado a la dictadura uruguaya, sino trasladado a Paraná. Según su testimonio, permaneció cinco días encapuchado en una casa ubicada en cercanías de la Base Aérea, luego lo subieron a un avión que aterrizó en el aeropuerto de Don Torcuato y de allí fue a parar a un centro clandestino de detención que sería el Pozo de Quilmes. “Esa misma noche me fugué de ese lugar”, contaría.\n\nLa jueza Ramponi procesó a los represores Echeverría y Aleman como integrantes de una asociación ilícita y autores del secuestro e imposición de torturas contra los militantes uruguayos; y por el abuso en perjuicio de María Julia Suárez Méndez.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "comercio",
+      "impuestos",
+      "servicios_publicos",
+      "justicia",
+      "infraestructura_obra_publica",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "concordia",
+      "federal",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-rosatelli-denuncia-que-el-servicio-penitenciario-no-le-permite-acceder-al-expediente",
+    "fuente": "Página Judicial",
+    "titulo": "Rosatelli denuncia que el Servicio Penitenciario no le permite recibir el expediente",
+    "fecha": "2026-08-29",
+    "link": "https://paginajudicial.com/2026/08/29/rosatelli-denuncia-que-el-servicio-penitenciario-no-le-permite-acceder-al-expediente/",
+    "texto_original": "Juan Cruz Varela\n\nDe la Redacción de Página Judicial\n\n \n\nLos defensores del comisario y abogado Daniel Rosatelli, detenido por presuntas vinculaciones con el narcotráfico, presentaron una queja ante el juez federal Leandro Ríos advirtiendo que las autoridades de la unidad penal retienen “sin invocación de fundamento legal alguno” las copias del expediente que le hicieron llegar para preparar su declaración indagatoria.\n\nLa presentación se formalizó este viernes a última hora, luego de que personal de la unidad penal impidiera el ingreso de dos cuerpos de copias de las piezas más relevantes del expediente, según expusieron los defensores en un escrito.\n\nRosatelli permanece detenido desde el jueves 20 de agosto, \nsospechado de haber organizado la logística para pergeñar el transporte de un cargamento de 1.345 kilos de marihuana en febrero pasado\n.\n\nSi bien se abstuvo de declarar ante el juez, sus defensores adelantaron que podría hacerlo en los próximos días y explicaron que este viernes concurrieron a entregarle copia de las partes relevantes del expediente para que pueda preparar su indagatoria. Sin embargo, “personal de la Unidad Penal Número 1 habría impedido la entrega del referido material y procedido a su retención, invocando genéricamente la existencia de ‘órdenes superiores’, sin individualizar hasta el momento autoridad, orden ni fundamento jurídico concreto que justifique dicha restricción”.\n\nLos defensores intentaron comunicarse con el prefecto Rubén Rodolfo Gómez, director de la unidad penal, para exponer la situación, que calificaron como “un atropello inadmisible”. Pero no obtuvieron respuesta, según dijo uno de ellos a \nPágina Judicial\n.\n\nEs por eso que elevaron la queja ante el juez Ríos para que instruya “con carácter urgente” a las autoridades de la unidad penal que dispongan el reintegro de las copias del expediente a Rosatelli.\n\nEl comisario Rosatelli, hijo de un ex subjefe de la Policía de Entre Ríos, está acusado por su presunta participación en el transporte de 1.345 kilos de marihuana, descubiertos por agentes de la brigada de delitos rurales de La Paz, el 13 de febrero pasado; y por haber atacado violentamente a un hombre que oficio de nexo con el vendedor de la furgoneta utilizada para trasladar la droga, un hecho que habría ocurrido el 12 de noviembre en la sede de Suma de Voluntades, una asociación civil que asiste a personas en situación de vulnerabilidad.\n\nAquella noche de febrero resultó detenido el conductor de la furgoneta, César Leonel Ramírez, un albañil de 34 años, quien permanece en la unidad penal, procesado.\n\nEl sospechoso de ser el jefe del grupo operativo, Juan Esteban Siebenlist Bustos, con antecedentes por delitos rurales y amenazas, se encuentra prófugo.\n\nEn tanto, el resto de los integrantes de ese grupo están detenidos: Claudio David Luna, hijo de un integrante de la organización que había montado una cocina de cocaína en un campo en el acceso norte de Paraná en 2011; Martín Reynaldo Pelizzari, con múltiples antecedentes por estafas; y los hermanos Alan Josías Gabriel Favieri y José Belén Favieri, que cargan condenas por delitos de narcomenudeo.\n\nRosatelli se abstuvo de declarar en su primer encuentro con el juez Ríos, pero sus defensores Damián Petenatti, Rubén Pagliotto y Miguel Ángel Cullen emitieron un comunicado en el que calificaron su detención como una “venganza” por haber impulsado una denuncia contra la cúpula de la División 911 de la Policía de Entre Ríos por presunta malversación de fondos en la administración de adicionales.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "agro",
+      "impuestos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-sorpresa-en-causa-ater-denunciaron-a-casaretto",
+    "fuente": "Página Judicial",
+    "titulo": "Sorpresa en causa ATER: denunciaron a Casaretto",
+    "fecha": "2026-08-28",
+    "link": "https://paginajudicial.com/2026/08/28/sorpresa-en-causa-ater-denunciaron-a-casaretto/",
+    "texto_original": "Federico Malvasio \n\nDe la Redacción de Página Judicial \n\n \n\nEl 30 de junio, \nPágina Judicial\n reveló lo que está sucediendo por estos días: el destino de los implicados en una trama de corrupción entre funcionarios, contadores y contribuyentes (en buena parte empresarios) a través de compensaciones truchas en el seno de ATER. Se trata de una causa que se elevó a juicio en abril de 2021, luego de 7 años de haberse iniciado la pesquisa tras la denuncia del entonces titular de la Administradora Tributaria de Entre Ríos, Marcelo Casaretto.\n\nSe acaba el humo en la causa ATER \n\nMaría Estrella Martínez de Yankelevich era la jefa de una cooperativa delictiva desde su rol de titular del Departamento Despacho de la ATER, según la investigación. En el marco de las herramientas penales, la ex funcionaria se acogió a un juicio abreviado en el que reconoció el delito, como adelantó hace más de un mes este medio. \n\nSin embargo, la noticia de la jornada es que Martínez de Yankelevich presentó una denuncia penal contra Casaretto, que hasta el momento sólo se lo tenía como denunciante. \n\nLa ex jefe de Despacho se presentó ante el fiscal Gonzalo Badano, solicitó que se investigue a Casaretto y expresó que en las maniobras constatadas en su sentencia condenatoria no puede no haber responsabilidad de su superior. En la denuncia, a la que tuvo acceso \nPágina Judicial\n, dijo tener elementos necesarios para demostrar que Casaretto se cobijo y tapó mediante su denuncia penal su participación en dichas compensaciones ficticias. Para eso solicita al Ministerio Público Fiscal que se la convoque a prestar testimonio. \n\nLa jueza Marina Barbagelata determinó que “dentro del organismo recaudador de la provincia de Entre Ríos había un grupo de empleados (…) que con la omisión connivente de Gustavo Alejandro Gioria, (ex) tesorero general de la provincia, registraban fraudulentamente como pagadas, en el sistema informático del fisco provincial, deudas tributarias impagas de ciertos contribuyentes, simulando su pago por compensación, como si el contribuyente hubiese sido titular de un crédito líquido y exigible contra el Estado” y resaltó que los contribuyentes a favor de quienes se registraron los pagos simulados “no sólo no eran proveedores del Estado –con lo que mal podrían tener una acreencia propia– sino que tampoco eran cesionarios de créditos fiscales de terceros”.\n\n \n\nLa denuncia \n\nDenuncia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-ex-trabajadores-de-el-diario-pidieron-al-stj-que-se-cumpla-la-sentencia-que-reconoce-su-derecho-a-las-indemnizaciones",
+    "fuente": "Página Judicial",
+    "titulo": "Ex trabajadores de El Diario pidieron al STJ que se cumpla la sentencia que reconoce su derecho a las indemnizaciones",
+    "fecha": "2026-08-28",
+    "link": "https://paginajudicial.com/2026/08/28/ex-trabajadores-de-el-diario-pidieron-al-stj-que-se-cumpla-la-sentencia-que-reconoce-su-derecho-a-las-indemnizaciones/",
+    "texto_original": "De la Redacción de Página Judicial\n\n \n\nUna veintena de trabajadores despedidos de Sociedad Anónima Entre Ríos (SAER), la empresa editora de \nEl Diario\n, entre ellos periodistas y empleados gráficos, reclamó al Superior Tribunal de Justicia (STJ) por la demora en la ejecución de sentencias firmes que reconocen sus derechos indemnizatorios. Advirtieron que, si las dificultades internas del Poder Judicial están impidiendo hacer efectivas esas decisiones, se configura una “anomalía institucional de extrema gravedad”.\n\nLos ex trabajadores de \nEl Diario\n presentaron formalmente una nota al STJ exponiendo la situación y, tras la notificación, el presidente del alto cuerpo, Germán Carlomagno, se comunicó con uno de los firmantes para interiorizarse sobre el caso.\n\nLos ex trabajadores de \nEl Diario\n fueron despedidos en mayo de 2018 y, luego de transitar las distintas instancias judiciales, obtuvieron sentencias firmes que reconocen su derecho al cobro de las indemnizaciones correspondientes. Sin embargo, transcurrieron ya más de ocho años desde aquellos despidos y las resoluciones judiciales continúan sin hacerse efectivas, pese a que Sociedad Anónima Entre Ríos (SAER) continúa adquiriendo medios por cifras millonarias en moneda extranjera.\n\n“Ocho años de espera. Ocho años en los que la Justicia reconoció nuestros derechos, pero esos derechos permanecen, en los hechos, incumplidos”, señalaron en la nota dirigida al presidente y a los vocales del STJ.\n\nLos firmantes expresaron su “indignación, impotencia y profunda preocupación institucional” y plantearon que las dificultades internas en la organización y funcionamiento de distintos fueros del Poder Judicial estarían generando una virtual paralización en la ejecución de las sentencias.\n\n“Una sentencia que no se ejecuta deja de ser justicia para convertirse en una declaración vacía”, advirtieron.\n\nEn la presentación, los ex trabajadores sostienen que la situación excede sus casos particulares y afecta uno de los pilares esenciales del Estado de Derecho: “Cuando es el propio Poder Judicial el que, por razones de funcionamiento interno, no logra hacer cumplir una sentencia firme dictada por la Justicia, se configura una anomalía institucional de extrema gravedad”, señalaron.\n\nLos trabajadores remarcaron que durante todos estos años recurrieron a las instituciones y respetaron las vías previstas por el sistema judicial. “No recurrimos al escrache, ni a la violencia, ni a vías de hecho. Acudimos a los tribunales, confiamos en las instituciones, transitamos cada instancia procesal y obtuvimos sentencias firmes favorables. Cumplimos con nuestra parte. Sin embargo, seguimos esperando”, expresaron.\n\nTambién señalaron que el paso del tiempo tuvo consecuencias concretas sobre sus vidas. “Mientras los expedientes permanecen inmóviles, nuestras vidas siguen avanzando”, indicaron. En ese sentido, señalaron que algunos compañeros fallecieron sin cobrar lo que la Justicia les había reconocido, mientras que otros atravesaron situaciones de extrema vulnerabilidad económica.\n\nA la situación generada por el incumplimiento de los empresarios –cuyas conductas, según indicaron, son actualmente objeto de investigación en la justicia penal– se sumó una segunda instancia de injusticia: la imposibilidad de hacer efectiva una sentencia firme dictada, precisamente, para reparar aquella vulneración de derechos.\n\n“No pretendemos privilegios ni tratamientos excepcionales. Exigimos únicamente que las sentencias firmes sean cumplidas”, remarcaron.\n\nPor ello, solicitaron al STJ que adopte las medidas que considere pertinentes para remover los obstáculos que impiden la ejecución de las sentencias y garantizar que las decisiones judiciales sean efectivamente cumplidas.\n\nLa nota concluye con una definición que sintetiza el reclamo: “El Poder Judicial no puede, bajo ningún punto de vista, transformarse en un incumplidor de sus propias sentencias”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-reunion-clave-por-pami-manana-se-encontraran-autoridades-de-la-obra-social-y-el-sanatorio-concordia",
+    "fuente": "Diario Junio",
+    "titulo": "Reunión clave por PAMI: mañana se encontrarán autoridades de la obra social y el Sanatorio Concordia",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/reunion-clave-por-pami-manana-se-encontraran-autoridades-de-la-obra-social-y-el-sanatorio-concordia/",
+    "texto_original": "El conflicto por las prestaciones de PAMI en Concordia tendrá mañana, martes, una nueva instancia de diálogo. A las 9:15, autoridades de la UGL Concordia de PAMI y del Sanatorio Concordia se reunirán en la sala de reuniones del Concejo Deliberante, convocadas por el cuerpo de concejales, según pudo saber DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-el-municipio-amplio-el-presupuesto-2026-en-1627-millones-gobierno-y-salud-concentran-la-mayor-parte",
+    "fuente": "Diario Junio",
+    "titulo": "El Municipio amplió el Presupuesto 2026 en $162,7 millones: Gobierno y Salud concentran la mayor parte",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/el-municipio-amplio-el-presupuesto-2026-en-1627-millones-gobierno-y-salud-concentran-la-mayor-parte/",
+    "texto_original": "El Ejecutivo de Concordia amplió en $162,7 millones el Presupuesto de Gastos 2026 y más de $105 millones quedaron concentrados en partidas de Gobierno. Salud sumó otros $34,8 millones, mientras que Desarrollo Humano y el Juzgado de Faltas también recibieron recursos. La modificación invoca la existencia de “nuevos y mayores ingresos con afectación específica”, pero no informa de dónde provienen ni qué gastos concretos se atenderán con el dinero distribuido.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-morosos-informe-cep-mas-del-60-de-los-deudores-en-mora-le-deben-a-billeteras-virtuales",
+    "fuente": "Diario Junio",
+    "titulo": "Morosos, Informe CEP: más del 60% de los deudores en mora le deben a billeteras virtuales",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/morosos-informe-cep-mas-del-60-de-los-deudores-en-mora-le-deben-a-billeteras-virtuales/",
+    "texto_original": "Un reciente informe del Centro de Economía Política Argentina (CEPA) señala en relación a los morosos, el alto incumplimiento en billeteras virtuales.  En rigor, más del 60% de los deudores entrerrianos en mora, pertenecen exclusivamente al segmento de billeteras virtuales, y la gran mayoría de los casos generales se encuentra en situación de cobro \"irrecuperable\".",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-soever-repudio-las-declaraciones-del-presidente-de-la-rural-de-chajari-entre-rios-no-necesita-que-desaparezca-vialidad-necesita-una-vialidad-mas-fuerte",
+    "fuente": "Diario Junio",
+    "titulo": "SOEVER repudió las declaraciones del presidente de la Rural de Chajarí: “Entre Ríos no necesita que desaparezca Vialidad; necesita una Vialidad más fuerte”",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/soever-repudio-las-declaraciones-del-presidente-de-la-rural-de-chajari-entre-rios-no-necesita-que-desaparezca-vialidad-necesita-una-vialidad-mas-fuerte/",
+    "texto_original": "El sindicato respondió a las declaraciones de Héctor Reniero, quien afirmó que “Vialidad tiene que desaparecer”, y advirtió que eliminar o debilitar la Dirección Provincial de Vialidad significaría romper una política pública esencial para Entre Ríos y profundizar la desigualdad territorial.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-kicillof-sigue-su-armado-politico-ahora-le-toca-a-misiones-en-entre-rios-hasta-ahora-nada",
+    "fuente": "Diario Junio",
+    "titulo": "Kicillof sigue su armado político, ahora le toca a Misiones, en Entre Ríos hasta ahora, nada",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/kicillof-sigue-su-armado-politico-ahora-le-toca-a-misiones-en-entre-rios-hasta-ahora-nada/",
+    "texto_original": "El gobernador bonaerense se reunirá con su homólogo Hugo Pasalacqua y tendrá un acto en la sede del PJ provincia. Kicillof, desembarcará el miércoles en Misiones como parte de la estrategia para extender el Movimiento Derecho al Futuro (MDF) por fuera de las fronteras bonaerenses. Tendrá reuniones con intendentes y dirigentes peronistas y un acto político en la sede del PJ provincial. Ya son 7 las provincias que han organizado su visita, Entre Ríos sigue esperando a que su crecimiento desde el pie, encuentre dirigentes capaces de abandonar la angurria, el individualismo, el qué hay para mí y se jueguen por proyectos e ideas de país y de provincia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-concejales-de-concepcion-del-uruguay-se-meten-en-la-discusion-por-la-planta-de-hif-el-rio-uruguay-no-es-una-variable-de-ajuste",
+    "fuente": "Diario Junio",
+    "titulo": "Concejales de Concepción del Uruguay se meten en la discusión por la planta de HIF: “El Río Uruguay no es una variable de ajuste”",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/concejales-de-concepcion-del-uruguay-se-meten-en-la-discusion-por-la-planta-de-hif-el-rio-uruguay-no-es-una-variable-de-ajuste/",
+    "texto_original": "El bloque Juntos por Uruguay PJ respaldó las gestiones judiciales de los legisladores entrerrianos contra el proyecto de HIF Global, luego de que el Gobierno uruguayo confirmara la relocalización de la planta, aunque todavía no hizo oficial dónde se establecerá. En ese marco, los concejales advirtieron que el cambio de ubicación no termina con la discusión por su posible impacto ambiental sobre el Río Uruguay y reclamaron acceso a la información y participación ciudadana antes de cualquier decisión definitiva.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "transparencia",
+      "municipios",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-el-procurador-general-respaldo-la-sentencia-que-permite-continuar-con-el-nuevo-sistema-de-alimentacion-escolar",
+    "fuente": "Diario Junio",
+    "titulo": "El Procurador General respaldó la sentencia que permite continuar con el nuevo sistema de alimentación escolar",
+    "fecha": "2026-09-07",
+    "link": "https://www.diariojunio.com.ar/el-procurador-general-respaldo-la-sentencia-que-permite-continuar-con-el-nuevo-sistema-de-alimentacion-escolar/",
+    "texto_original": "El Procurador General de Entre Ríos, Jorge García, dictaminó ayer que debe confirmarse la sentencia dictada en el marco del amparo por los desayunos y meriendas escolares y consideró que no corresponde hacer lugar a los planteos formulados por los padres, AGMER y la Fundación CAUCE. Además, reconoció que la instrumentación de la política alimentaria corresponde al Poder Ejecutivo y valoró la mesa de diálogo convocada por la Provincia, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-lo-tomaron-como-que-estabamos-alertando-de-algo-que-no-podia-pasar-y-paso-la-advertencia-que-nadie-escucho",
+    "fuente": "Diario Junio",
+    "titulo": "“Lo tomaron como que estábamos alertando de algo que no podía pasar. Y pasó”: la advertencia que nadie escuchó",
+    "fecha": "2026-09-06",
+    "link": "https://www.diariojunio.com.ar/lo-tomaron-como-que-estabamos-alertando-de-algo-que-no-podia-pasar-y-paso-la-advertencia-que-nadie-escucho/",
+    "texto_original": "En vísperas de la reunión que el Concejo Deliberante llevará adelante entre las autoridades del PAMI local y del Sanatorio Concordia, algunas voces comenzaron a alertar sobre la necesidad de que se adopten medidas con urgencia. “Si hay un acuerdo, va a llevar tiempo. Todo esto va a llevar tiempo. Mientras tanto, los jubilados son los que sufren las consecuencias y, en algunos casos, muy graves”, remarcó esta mañana a DIARIOJUNIO el secretario general de ATE (Asociación de Trabajadores del Estado) Concordia, Pedro Pérez. En tanto, Ramón Cabrera, representante de la Mesa de Jubilados y Pensionados de la Plaza 25 de Mayo, manifestó que desde junio que venían entregando notas a todos los concejales reclamando que intervenga el cuerpo deliberativo. Pero no los escucharon. “Lo tomaron como que éramos nosotros, los de la Plaza, que estábamos alertando de algo que no podía pasar. Y pasó”, mencionó.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-investigan-un-presunto-pago-con-cocaina-a-trabajadores-de-la-cosecha-de-concordia",
+    "fuente": "Diario Junio",
+    "titulo": "Investigan un presunto pago con cocaína a trabajadores de la cosecha de Concordia",
+    "fecha": "2026-09-06",
+    "link": "https://www.diariojunio.com.ar/investigan-un-presunto-pago-con-cocaina-a-trabajadores-de-la-cosecha-de-concordia/",
+    "texto_original": "Una investigación llevada adelante por la División Unidad Operativa Federal Concordia de la Policía Federal Argentina, bajo la dirección del Ministerio Público Fiscal, a cargo del Dr. Bernhardt, terminó este viernes 4 de septiembre con la detención de dos personas y el secuestro de cocaína, dinero en efectivo y teléfonos celulares. La investigación apunta a determinar si se entregaba cocaína a cosecheros como parte del pago por sus tareas en establecimientos citrícolas de la región.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "agro",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-el-fida-cerro-su-mision-en-entre-rios-y-destaco-el-potencial-productivo-de-la-provincia",
+    "fuente": "Diario Junio",
+    "titulo": "El FIDA cerró su misión en Entre Ríos y destacó el potencial productivo de la provincia",
+    "fecha": "2026-09-06",
+    "link": "https://www.diariojunio.com.ar/el-fida-cerro-su-mision-en-entre-rios-y-destaco-el-potencial-productivo-de-la-provincia/",
+    "texto_original": "El Fondo Internacional de Desarrollo Agrícola (FIDA) finalizó una misión de trabajo en Entre Ríos, que durante dos semanas incluyó recorridas y reuniones con productores, cooperativas, frigoríficos y organizaciones vinculadas a la agricultura familiar.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "empleo",
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-caso-ruiz-orrico-la-defensa-busca-una-reduccion-de-la-pena-y-arcusin-cuestiona-el-planteo",
+    "fuente": "Diario Junio",
+    "titulo": "Caso Ruiz Orrico: la defensa busca una reducción de la pena y Arcusin cuestiona el planteo",
+    "fecha": "2026-09-05",
+    "link": "https://www.diariojunio.com.ar/caso-ruiz-orrico-la-defensa-busca-una-reduccion-de-la-pena-y-arcusin-cuestiona-el-planteo/",
+    "texto_original": "Tras la decisión del Superior Tribunal de Justicia de aceptar el recurso extraordinario federal y fijar una audiencia para el 23 de septiembre, a las 10 horas, Mario Arcusin, abogado querellante de las familias de las cuatro víctimas fatales del siniestro vial ocurrido en la Ruta Provincial 39, explicó esta mañana a DIARIOJUNIO los pormenores de la presentación de la defensa.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-158742-2",
+    "fuente": "Diario Junio",
+    "titulo": "Distintas varas: para Urribarri llegó el final, Larrocca sigue ganando tiempo y Schmid espera bajo la inquietante sombra del Naranjal de Pereda",
+    "fecha": "2026-09-04",
+    "link": "https://www.diariojunio.com.ar/158742-2/",
+    "texto_original": "Mientras la Corte Suprema cerró esta semana el último capítulo judicial de Sergio Urribarri y dejó firme su condena a ocho años de prisión, Julio César Larrocca continúa transitando el laberinto de los recursos ocho años después de haber sido condenado. En Concordia, otros dos expedientes vuelven a poner en discusión los distintos tiempos y criterios de la Justicia: en Naranjal de Pereda, Casación revocó las absoluciones y condenó a los compradores de terrenos Kaplan y Guidobono como partícipes necesarios del delito de Administración Fraudulenta. En tanto, en la causa por la venta del inmueble de la Mutual de Músicos, Guillermo Schmid fue imputado como partícipe necesario de una operación investigada como irregular, pero hasta ahora su situación procesal no tuvo un desenlace equivalente.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-la-provincia-analiza-sumar-alimentos-frescos-al-desayuno-escolar",
+    "fuente": "Diario Junio",
+    "titulo": "La Provincia analiza sumar alimentos frescos al desayuno escolar",
+    "fecha": "2026-09-05",
+    "link": "https://www.diariojunio.com.ar/la-provincia-analiza-sumar-alimentos-frescos-al-desayuno-escolar/",
+    "texto_original": "La Mesa Interinstitucional para la mejora del sistema de alimentación escolar realizó su segunda reunión de trabajo y avanzó en medidas concretas para fortalecer la calidad nutricional de las prestaciones que reciben los estudiantes entrerrianos. Durante el encuentro hubo coincidencia entre los distintos participantes respecto a la necesidad de mejorar el actual sistema de provisión de alimentos en la provincia, y se destacó la importancia de continuar trabajando de manera articulada para profundizar esas mejoras. Otro de los temas abordados fue la posibilidad de incorporar alimentos frescos al desayuno escolar, como una alternativa para ampliar y diversificar la propuesta alimentaria, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-frigerio-visito-a-victor-velazquez-uno-de-los-grandes-maestros-de-la-musica-popular-argentina",
+    "fuente": "Diario Junio",
+    "titulo": "Frigerio visitó a Víctor Velázquez, uno de los grandes maestros de la música popular argentina",
+    "fecha": "2026-09-05",
+    "link": "https://www.diariojunio.com.ar/frigerio-visito-a-victor-velazquez-uno-de-los-grandes-maestros-de-la-musica-popular-argentina/",
+    "texto_original": "El gobernador Rogelio Frigerio visitó a Víctor Velázquez, cantor, guitarrista, poeta y compositor entrerriano de 95 años, reconocido como una de las grandes figuras del folclore y la música popular argentina. Durante el encuentro, Frigerio compartió una cálida conversación con el artista y destacó su extensa trayectoria, su compromiso con las raíces de nuestra tierra y el enorme aporte de su obra a la cultura provincial y nacional, según información enviada a DIARUIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-urribarri-aguilera-y-baez-pasaron-la-noche-en-la-alcaidia-de-parana-y-esta-manana-seran-derivados-a-la-up1",
+    "fuente": "Diario Junio",
+    "titulo": "Urribarri, Aguilera y Báez pasaron la noche en la Alcaidía de Paraná y esta mañana serán derivados a la UP1",
+    "fecha": "2026-09-05",
+    "link": "https://www.diariojunio.com.ar/urribarri-aguilera-y-baez-pasaron-la-noche-en-la-alcaidia-de-parana-y-esta-manana-seran-derivados-a-la-up1/",
+    "texto_original": "El exgobernador Sergio Daniel Urribarri, su cuñado Juan Pablo Aguilera y el exministro de Cultura y Comunicación, Pedro Ángel Báez, pasaron la noche en la Alcaidía de Paraná y esta mañana serán derivados a la Unidad Penal N° 1 de la capital provincial. Báez fue el primero ingresar: lo hizo a las 21:40, después de llegar en un camión penitenciario. Luego ingresó Aguilera y cerca de las 2 de la madrugada llegó Urribarri, según confirmó ANÁLISIS. Báez ingresó por calle Córdoba. Urribarri y Aguilera, por su parte, llegaron en diferentes patrulleros. El primero en un patrullero de San Salvador -cerca de la 1 de la madrugada- y Urribarri desde Concordia, acompañado por el jefe departamental, comisario José María Rosatelli. Estos dos móviles policiales ingresaron por el portón del garage que tienen los miembros del Superior Tribunal de Justicia, en calle Santa Fe (al lado de la playa de estacionamiento del Colegio de Abogados). Ese lugar tiene acceso a la Alcaidía, hasta donde fue trasladado cada uno a medida que iban ingresando.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "concordia",
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-de-10-000-a-mas-de-80-000-millones-el-sindico-alerto-por-el-fuerte-crecimiento-de-la-deuda-de-oser",
+    "fuente": "Diario Junio",
+    "titulo": "De $10.000 a más de $80.000 millones: el síndico alertó por el fuerte crecimiento de la deuda de OSER",
+    "fecha": "2026-09-04",
+    "link": "https://www.diariojunio.com.ar/de-10-000-a-mas-de-80-000-millones-el-sindico-alerto-por-el-fuerte-crecimiento-de-la-deuda-de-oser/",
+    "texto_original": "El sindico de OSER (Obras Social de Entre Ríos) por la oposición, Pablo Giampaolo, acompañado por el abogado y ex concejal del PJ, Mariano Giampaolo, efectuó declaraciones a la prensa esta mañana en la puerta de la sede de la obra social ubicada en calle Estrada. El síndico dijo que la situación económica y social de la obra social es “grave”. El contador sostuvo que la deuda ha crecido en forma exponencial con los anestesistas, los médicos y los sanatorios. “La deuda ha venido creciendo. En el año 2023 hablamos de una deuda de $ 10.000 millones, en el año 2024 cercana a los $ 56.000 millones y en el 2025 supera los $ 80.000 millones”, explicitó.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-07T22:37:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
   }
 ]

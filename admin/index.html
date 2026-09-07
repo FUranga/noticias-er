@@ -119,6 +119,10 @@
 const MACROS = [
   { key: 'general', label: 'Cablera' },
   { key: 'boletin', label: 'Boletín Oficial', fuente: 'Boletín Oficial de Entre Ríos' },
+  // "Medios" filtra por prefijo de id (todos los items que carga
+  // pipeline/monitorear_medios.py llevan "medios-"), no por un único
+  // "fuente" como el Boletín -- acá hay muchos medios distintos, no uno.
+  { key: 'medios', label: 'Medios', idPrefix: 'medios-' },
   { key: 'agenda', label: 'Agenda', esAgenda: true },
 ];
 
@@ -131,6 +135,21 @@ const MACROS = [
 const ESTADOS = [
   { key: 'pendiente', label: 'Pendientes' },
   { key: 'a_publicar', label: 'A publicar' },
+  { key: 'a_investigar', label: 'A investigar' },
+  { key: 'descartado', label: 'Descartadas' },
+];
+
+// Estados propios de "Medios" -- un ítem que viene de otro medio no se
+// "reescribe" como un comunicado (ver docs/estilo-editorial.md, sección
+// "Medios y empresas como fuente"): la mayoría de las veces el destino
+// correcto es "Referir" (atribuir y linkear -- redes/newsletter/portada
+// como referido), no "A publicar" (que sigue existiendo para el caso raro
+// de una primicia grande que se decide trabajar yendo con el que la rompió
+// primero, ver conversación de diseño 2026-09-07).
+const ESTADOS_MEDIOS = [
+  { key: 'pendiente', label: 'Pendientes' },
+  { key: 'a_publicar', label: 'A publicar' },
+  { key: 'referido', label: 'Referidos' },
   { key: 'a_investigar', label: 'A investigar' },
   { key: 'descartado', label: 'Descartadas' },
 ];
@@ -314,9 +333,14 @@ function descartarConMotivo(id) {
 function itemsEnMacro(macroKey) {
   const macro = MACROS.find(m => m.key === macroKey);
   if (macro.fuente) return items.filter(i => (i.fuente || '') === macro.fuente);
-  // "general": todo lo que NO pertenece a ninguna fuente con macro propia.
+  if (macro.idPrefix) return items.filter(i => (i.id || '').startsWith(macro.idPrefix));
+  // "general": todo lo que NO pertenece a ninguna fuente/prefijo con macro propia.
   const fuentesConMacroPropia = MACROS.filter(m => m.fuente).map(m => m.fuente);
-  return items.filter(i => !fuentesConMacroPropia.includes(i.fuente || ''));
+  const prefijosConMacroPropia = MACROS.filter(m => m.idPrefix).map(m => m.idPrefix);
+  return items.filter(i =>
+    !fuentesConMacroPropia.includes(i.fuente || '') &&
+    !prefijosConMacroPropia.some(p => (i.id || '').startsWith(p))
+  );
 }
 
 function renderMacroTabs() {
@@ -350,7 +374,8 @@ function renderTabs() {
     return;
   }
   const enMacro = itemsEnMacro(activeMacro);
-  ESTADOS.forEach(e => {
+  const estados = macro.idPrefix ? ESTADOS_MEDIOS : ESTADOS;
+  estados.forEach(e => {
     const count = enMacro.filter(i => i.estado === e.key).length;
     const btn = document.createElement('button');
     btn.className = 'tab' + (activeEstado === e.key ? ' active' : '');
@@ -360,21 +385,46 @@ function renderTabs() {
   });
 }
 
+// "Referir" solo tiene sentido para items que vienen de otro medio (ver
+// docs/estilo-editorial.md, "Medios y empresas como fuente") -- se detecta
+// por el prefijo de id que usa pipeline/monitorear_medios.py, no por la
+// pestaña activa (un item de Medios se puede ver desde otro lugar también).
+function esDeMedios(it) {
+  return (it.id || '').startsWith('medios-');
+}
+
+function referirConNota(id) {
+  const nota = prompt('¿Por qué vale la pena referirlo? (opcional, para tener a mano al armar redes/newsletter/portada)');
+  setEstado(id, 'referido', { nota_referido: nota ? nota.trim() : null });
+}
+
 function itemActions(it) {
   const wrap = document.createElement('div');
   wrap.className = 'actions';
+  const deMedios = esDeMedios(it);
   if (it.estado === 'pendiente') {
     wrap.appendChild(mkBtn('Marcar para publicar', 'publicar', () => setEstado(it.id, 'a_publicar')));
+    if (deMedios) wrap.appendChild(mkBtn('Referir', 'agenda', () => referirConNota(it.id)));
     wrap.appendChild(mkBtn('Marcar para investigar', 'investigar', () => setEstado(it.id, 'a_investigar')));
     wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
   } else if (it.estado === 'a_publicar') {
     wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => setEstado(it.id, 'pendiente')));
+    if (deMedios) wrap.appendChild(mkBtn('Referir', 'agenda', () => referirConNota(it.id)));
     wrap.appendChild(mkBtn('Pasar a investigar', 'investigar', () => setEstado(it.id, 'a_investigar')));
     wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
   } else if (it.estado === 'a_investigar') {
     wrap.appendChild(mkBtn('Marcar para publicar', 'publicar', () => setEstado(it.id, 'a_publicar')));
+    if (deMedios) wrap.appendChild(mkBtn('Referir', 'agenda', () => referirConNota(it.id)));
     wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => setEstado(it.id, 'pendiente')));
     wrap.appendChild(mkBtn('Descartar', 'descartar', () => descartarConMotivo(it.id)));
+  } else if (it.estado === 'referido') {
+    wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => setEstado(it.id, 'pendiente')));
+    if (it.nota_referido) {
+      const nota = document.createElement('span');
+      nota.style.cssText = 'font-size:.82rem;color:#777;align-self:center;';
+      nota.textContent = it.nota_referido;
+      wrap.appendChild(nota);
+    }
   } else if (it.estado === 'descartado') {
     wrap.appendChild(mkBtn('Reabrir', 'reabrir', () => setEstado(it.id, 'pendiente')));
   }
