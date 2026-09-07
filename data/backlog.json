@@ -2721,11 +2721,11 @@
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QZ2hjRHR0UWZwMFFiaURXSnp0Y2Z1cndlQTRyZUpEOUVqdkpXTzhjaC1iQkVPbklEMWstSzJrNnNtWVY1a1NNejlRdE5BYjV6NXo5Nmo0UQ?oc=5",
     "texto_original": "agro Entre Ríos archivos\n  \neconomis.com.ar",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "un evento de periodismo agropecuario o algo asi. No.",
     "topicos_matcheados": [
       "agro"
     ],
