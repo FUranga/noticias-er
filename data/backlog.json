@@ -3578,11 +3578,11 @@
     "link": "https://www.diariojunio.com.ar/morosos-informe-cep-mas-del-60-de-los-deudores-en-mora-le-deben-a-billeteras-virtuales/",
     "texto_original": "Un reciente informe del Centro de Economía Política Argentina (CEPA) señala en relación a los morosos, el alto incumplimiento en billeteras virtuales.  En rigor, más del 60% de los deudores entrerrianos en mora, pertenecen exclusivamente al segmento de billeteras virtuales, y la gran mayoría de los casos generales se encuentra en situación de cobro \"irrecuperable\".",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:25Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "esto es inteesante pero no parece centrado en Entre Rios. Ameritaria si tuvieramos datos locales",
     "topicos_matcheados": [
       "politica",
       "economia"
