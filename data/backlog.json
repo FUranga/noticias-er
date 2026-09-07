@@ -3483,7 +3483,8 @@
       "paraná",
       "federal",
       "la paz"
-    ]
+    ],
+    "nota_referido": null
   },
   {
     "id": "medios-pagina-judicial-sorpresa-en-causa-ater-denunciaron-a-casaretto",
@@ -3493,7 +3494,7 @@
     "link": "https://paginajudicial.com/2026/08/28/sorpresa-en-causa-ater-denunciaron-a-casaretto/",
     "texto_original": "Federico Malvasio \n\nDe la Redacción de Página Judicial \n\n \n\nEl 30 de junio, \nPágina Judicial\n reveló lo que está sucediendo por estos días: el destino de los implicados en una trama de corrupción entre funcionarios, contadores y contribuyentes (en buena parte empresarios) a través de compensaciones truchas en el seno de ATER. Se trata de una causa que se elevó a juicio en abril de 2021, luego de 7 años de haberse iniciado la pesquisa tras la denuncia del entonces titular de la Administradora Tributaria de Entre Ríos, Marcelo Casaretto.\n\nSe acaba el humo en la causa ATER \n\nMaría Estrella Martínez de Yankelevich era la jefa de una cooperativa delictiva desde su rol de titular del Departamento Despacho de la ATER, según la investigación. En el marco de las herramientas penales, la ex funcionaria se acogió a un juicio abreviado en el que reconoció el delito, como adelantó hace más de un mes este medio. \n\nSin embargo, la noticia de la jornada es que Martínez de Yankelevich presentó una denuncia penal contra Casaretto, que hasta el momento sólo se lo tenía como denunciante. \n\nLa ex jefe de Despacho se presentó ante el fiscal Gonzalo Badano, solicitó que se investigue a Casaretto y expresó que en las maniobras constatadas en su sentencia condenatoria no puede no haber responsabilidad de su superior. En la denuncia, a la que tuvo acceso \nPágina Judicial\n, dijo tener elementos necesarios para demostrar que Casaretto se cobijo y tapó mediante su denuncia penal su participación en dichas compensaciones ficticias. Para eso solicita al Ministerio Público Fiscal que se la convoque a prestar testimonio. \n\nLa jueza Marina Barbagelata determinó que “dentro del organismo recaudador de la provincia de Entre Ríos había un grupo de empleados (…) que con la omisión connivente de Gustavo Alejandro Gioria, (ex) tesorero general de la provincia, registraban fraudulentamente como pagadas, en el sistema informático del fisco provincial, deudas tributarias impagas de ciertos contribuyentes, simulando su pago por compensación, como si el contribuyente hubiese sido titular de un crédito líquido y exigible contra el Estado” y resaltó que los contribuyentes a favor de quienes se registraron los pagos simulados “no sólo no eran proveedores del Estado –con lo que mal podrían tener una acreencia propia– sino que tampoco eran cesionarios de créditos fiscales de terceros”.\n\n \n\nLa denuncia \n\nDenuncia",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "referido",
     "agregado_el": "2026-09-07T22:37:24Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -3505,7 +3506,8 @@
     ],
     "lugares_matcheados": [
       "entre ríos"
-    ]
+    ],
+    "nota_referido": "Inteesante. Leer y referir"
   },
   {
     "id": "medios-pagina-judicial-ex-trabajadores-de-el-diario-pidieron-al-stj-que-se-cumpla-la-sentencia-que-reconoce-su-derecho-a-las-indemnizaciones",
