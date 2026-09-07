@@ -91,3 +91,8 @@ export function categoryName(post: WpPost): string | null {
   const cat = post._embedded?.["wp:term"]?.[0]?.[0];
   return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.name : null;
 }
+
+export function categorySlug(post: WpPost): string | null {
+  const cat = post._embedded?.["wp:term"]?.[0]?.[0];
+  return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.slug : null;
+}

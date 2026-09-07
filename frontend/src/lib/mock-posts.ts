@@ -218,13 +218,13 @@ export const mockPosts: WpPost[] = [
     seedFoto: "sector-avicola",
   }),
 
-  // Boletín Oficial / Justicia
+  // Justicia
   post({
     id: -13,
     slug: "epre-convoca-audiencia-publica-revision-tarifaria",
     date: "2026-09-06T10:00:00",
-    categoria: "Boletín Oficial",
-    categoriaSlug: "boletin-oficial",
+    categoria: "Justicia",
+    categoriaSlug: "justicia",
     titulo: "El EPRE convocó a audiencia pública por la revisión tarifaria integral",
     bajada: "La audiencia se realizará en Paraná con defensores del usuario designados por colegios profesionales.",
     cuerpo: [
@@ -237,8 +237,8 @@ export const mockPosts: WpPost[] = [
     id: -14,
     slug: "tribunal-cuentas-observa-rendicion-municipio",
     date: "2026-09-05T17:30:00",
-    categoria: "Boletín Oficial",
-    categoriaSlug: "boletin-oficial",
+    categoria: "Justicia",
+    categoriaSlug: "justicia",
     titulo: "El Tribunal de Cuentas observó la rendición de un municipio del interior",
     bajada: "El organismo detectó gastos sin respaldo documental por un monto significativo.",
     cuerpo: [
@@ -251,8 +251,8 @@ export const mockPosts: WpPost[] = [
     id: -15,
     slug: "stj-confirma-fallo-causa-ambiental",
     date: "2026-09-04T12:15:00",
-    categoria: "Boletín Oficial",
-    categoriaSlug: "boletin-oficial",
+    categoria: "Justicia",
+    categoriaSlug: "justicia",
     titulo: "El Superior Tribunal de Justicia confirmó un fallo en una causa ambiental",
     bajada: "La sentencia obliga a una empresa a remediar un predio en la costa del río Paraná.",
     cuerpo: [
@@ -263,10 +263,10 @@ export const mockPosts: WpPost[] = [
   }),
   post({
     id: -16,
-    slug: "boletin-oficial-decreto-contratacion-directa-salud",
+    slug: "decreto-contratacion-directa-salud",
     date: "2026-09-03T09:00:00",
-    categoria: "Boletín Oficial",
-    categoriaSlug: "boletin-oficial",
+    categoria: "Justicia",
+    categoriaSlug: "justicia",
     titulo: "Un decreto autorizó una contratación directa por excepción para el Ministerio de Salud",
     bajada: "La compra de insumos médicos evitó el proceso de licitación pública por razones de urgencia.",
     cuerpo: [
@@ -279,8 +279,8 @@ export const mockPosts: WpPost[] = [
     id: -17,
     slug: "consejo-magistratura-concurso-jueces-vacantes",
     date: "2026-09-02T08:45:00",
-    categoria: "Boletín Oficial",
-    categoriaSlug: "boletin-oficial",
+    categoria: "Justicia",
+    categoriaSlug: "justicia",
     titulo: "El Consejo de la Magistratura abrió concurso para cubrir tres juzgados vacantes",
     bajada: "Los cargos corresponden a juzgados civiles y de familia del interior provincial.",
     cuerpo: [
@@ -398,6 +398,6 @@ function porCategoria(slug: string) {
 }
 
 export const mockEconomia = porCategoria("economia");
-export const mockBoletinOficial = porCategoria("boletin-oficial");
+export const mockJusticia = porCategoria("justicia");
 export const mockMunicipios = porCategoria("municipios");
 export const mockSociedad = porCategoria("sociedad");

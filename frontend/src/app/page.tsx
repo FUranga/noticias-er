@@ -1,7 +1,14 @@
 import Link from "next/link";
 import { Header } from "@/components/Header";
-import { getPostsParaPortada, featuredImageUrl, categoryName, type WpPost } from "@/lib/wp";
-import { mockEconomia, mockBoletinOficial, mockMunicipios, mockSociedad } from "@/lib/mock-posts";
+import {
+  getPostsParaPortada,
+  featuredImageUrl,
+  categoryName,
+  categorySlug,
+  authorName,
+  type WpPost,
+} from "@/lib/wp";
+import { mockEconomia, mockJusticia, mockMunicipios, mockSociedad } from "@/lib/mock-posts";
 
 // Portada inspirada en la estructura real de un diario (NYT/WSJ): tamaños de
 // foto y de tipografía variables según jerarquía, no una grilla uniforme
@@ -9,17 +16,33 @@ import { mockEconomia, mockBoletinOficial, mockMunicipios, mockSociedad } from "
 // una pieza destacada y una lista de acompañamiento -- la variación entre
 // módulos es la que da la sensación de portada real, no de feed.
 
+// Cada sección tiene su propio color de kicker, sutil (como los "flags" de
+// color por sección del WSJ) -- no todas las secciones se leen igual.
+const KICKER_POR_SECCION: Record<string, string> = {
+  economia: "kicker-accent-2",
+  justicia: "kicker-accent",
+};
+
+function Kicker({ post }: { post: WpPost }) {
+  const nombre = categoryName(post);
+  if (!nombre) return null;
+  const slug = categorySlug(post) ?? "";
+  return <p className={`kicker mb-1.5 ${KICKER_POR_SECCION[slug] ?? ""}`}>{nombre}</p>;
+}
+
 function Titular({
   post,
   tamaño = "base",
 }: {
   post: WpPost;
-  tamaño?: "base" | "lg" | "sm";
+  tamaño?: "xl" | "lg" | "base" | "sm" | "xs";
 }) {
   const clases = {
-    lg: "text-3xl sm:text-4xl leading-[1.05]",
+    xl: "text-4xl sm:text-5xl leading-[1.02] tracking-tight",
+    lg: "text-2xl sm:text-[1.75rem] leading-[1.08]",
     base: "text-lg leading-tight",
     sm: "text-base leading-snug",
+    xs: "text-[0.95rem] leading-snug",
   }[tamaño];
   return (
     <h3
@@ -30,24 +53,41 @@ function Titular({
 }
 
 // Ítem de "río": solo texto, sin foto -- la densidad típica de la columna
-// "What's News" del WSJ. Se usa para acompañar a una pieza destacada con foto.
-function RioItem({ post }: { post: WpPost }) {
+// "What's News" del WSJ. El primero de cada lista es levemente más grande,
+// como en una portada real (nunca todos los ítems pesan igual).
+function RioItem({ post, destacado = false }: { post: WpPost; destacado?: boolean }) {
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
       <Link href={`/nota/${post.slug}`} className="group block">
-        {categoryName(post) && <p className="kicker mb-1">{categoryName(post)}</p>}
-        <Titular post={post} tamaño="sm" />
+        <Kicker post={post} />
+        <Titular post={post} tamaño={destacado ? "base" : "xs"} />
       </Link>
     </li>
   );
 }
 
+function Rio({ posts, titulo }: { posts: WpPost[]; titulo?: string }) {
+  if (posts.length === 0) return null;
+  return (
+    <div>
+      {titulo && <p className="kicker border-b-2 border-neutral-900 pb-1.5">{titulo}</p>}
+      <ul className={titulo ? "mt-1" : ""}>
+        {posts.map((post, i) => (
+          <RioItem key={post.id} post={post} destacado={i === 0} />
+        ))}
+      </ul>
+    </div>
+  );
+}
+
 function TarjetaFoto({
   post,
-  proporcion = "aspect-[16/10]",
+  proporcion = "aspect-[3/2]",
+  tamañoTitulo = "base",
 }: {
   post: WpPost;
   proporcion?: string;
+  tamañoTitulo?: "lg" | "base" | "sm";
 }) {
   const imagen = featuredImageUrl(post);
   return (
@@ -56,8 +96,8 @@ function TarjetaFoto({
         // eslint-disable-next-line @next/next/no-img-element
         <img src={imagen} alt="" className={`mb-3 w-full object-cover ${proporcion}`} />
       )}
-      {categoryName(post) && <p className="kicker mb-1.5">{categoryName(post)}</p>}
-      <Titular post={post} tamaño="base" />
+      <Kicker post={post} />
+      <Titular post={post} tamaño={tamañoTitulo} />
     </Link>
   );
 }
@@ -72,8 +112,8 @@ function ItemMiniatura({ post }: { post: WpPost }) {
           <img src={imagen} alt="" className="h-16 w-20 shrink-0 object-cover" />
         )}
         <div>
-          {categoryName(post) && <p className="kicker mb-1">{categoryName(post)}</p>}
-          <Titular post={post} tamaño="sm" />
+          <Kicker post={post} />
+          <Titular post={post} tamaño="xs" />
         </div>
       </Link>
     </li>
@@ -82,16 +122,16 @@ function ItemMiniatura({ post }: { post: WpPost }) {
 
 function EncabezadoSeccion({ titulo }: { titulo: string }) {
   return (
-    <div className="mt-16 flex items-center gap-3 border-b-2 border-neutral-900 pb-1.5">
-      <h2 className="font-ui text-sm font-bold uppercase tracking-[0.08em]">{titulo}</h2>
-      <div className="h-[3px] flex-1 bg-accent/15" />
+    <div className="mt-16 flex items-baseline gap-3 border-b-2 border-neutral-900 pb-1.5">
+      <h2 className="font-headline text-xl font-bold italic">{titulo}</h2>
+      <div className="h-px flex-1 bg-neutral-300" />
     </div>
   );
 }
 
 // Módulo tipo "sección de diario": una pieza destacada con foto grande a la
-// izquierda + una lista de río a la derecha. La proporción entre las dos
-// columnas varía por sección para que no todas se vean iguales.
+// izquierda + un río a la derecha. La proporción entre columnas varía por
+// sección para que no todas se vean iguales.
 function SeccionDestacada({
   titulo,
   posts,
@@ -107,34 +147,29 @@ function SeccionDestacada({
     <section>
       <EncabezadoSeccion titulo={titulo} />
       <div className={`mt-6 grid grid-cols-1 gap-x-10 gap-y-6 ${proporcion}`}>
-        <TarjetaFoto post={destacada} />
-        {resto.length > 0 && (
-          <ul>
-            {resto.map((post) => (
-              <RioItem key={post.id} post={post} />
-            ))}
-          </ul>
-        )}
+        <TarjetaFoto post={destacada} tamañoTitulo="lg" />
+        {resto.length > 0 && <Rio posts={resto} />}
       </div>
     </section>
   );
 }
 
-// Módulo tipo "grilla pareja" -- para secciones donde varias notas pesan
-// parecido, sin una sola destacada (ej. Municipios: varios hechos locales
-// del mismo tamaño de importancia).
+// Módulo tipo "grilla" -- para secciones donde varias notas pesan parecido,
+// sin una sola destacada, pero con la primera levemente más grande.
 function SeccionGrilla({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
   if (posts.length === 0) return null;
+  const [primera, ...resto] = posts;
   return (
     <section>
       <EncabezadoSeccion titulo={titulo} />
-      <ul className="mt-6 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-4">
-        {posts.map((post) => (
-          <li key={post.id}>
-            <TarjetaFoto post={post} proporcion="aspect-[4/3]" />
-          </li>
-        ))}
-      </ul>
+      <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-2">
+        <TarjetaFoto post={primera} proporcion="aspect-[4/3]" tamañoTitulo="base" />
+        <ul className="grid grid-cols-1 gap-x-6 sm:grid-cols-2">
+          {resto.map((post) => (
+            <RioItem key={post.id} post={post} />
+          ))}
+        </ul>
+      </div>
     </section>
   );
 }
@@ -146,11 +181,11 @@ function SeccionTexto({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
   return (
     <section>
       <EncabezadoSeccion titulo={titulo} />
-      <ul className="mt-4 grid grid-cols-1 gap-x-10 sm:grid-cols-2">
-        {posts.map((post) => (
-          <RioItem key={post.id} post={post} />
+      <div className="mt-4 grid grid-cols-1 gap-x-10 sm:grid-cols-2">
+        {posts.map((post, i) => (
+          <RioItem key={post.id} post={post} destacado={i === 0} />
         ))}
-      </ul>
+      </div>
     </section>
   );
 }
@@ -159,15 +194,13 @@ function MasLeidas({ posts }: { posts: WpPost[] }) {
   if (posts.length === 0) return null;
   return (
     <aside className="border-t-2 border-accent pt-2">
-      <h2 className="font-ui text-sm font-bold uppercase tracking-[0.08em] text-accent">
-        Lo más leído
-      </h2>
+      <h2 className="kicker kicker-accent">Lo más leído</h2>
       <ol className="mt-3">
         {posts.slice(0, 5).map((post, i) => (
           <li key={post.id} className="flex gap-3 border-t border-neutral-300 py-3 first:border-t-0">
             <span className="font-headline text-2xl font-bold text-neutral-300">{i + 1}</span>
             <Link href={`/nota/${post.slug}`} className="group block">
-              <Titular post={post} tamaño="sm" />
+              <Titular post={post} tamaño="xs" />
             </Link>
           </li>
         ))}
@@ -195,8 +228,8 @@ function BannerNewsletter() {
 export default async function HomePage() {
   const posts = await getPostsParaPortada();
   const lead = posts[0];
-  const rioLateral = posts.slice(1, 7);
-  const destacadasSecundarias = posts.slice(7, 9);
+  const columnaIzq = posts.slice(1, 5);
+  const columnaDer = posts.slice(5, 9);
   const masLeidas = [...posts].reverse().slice(0, 5);
 
   return (
@@ -210,49 +243,38 @@ export default async function HomePage() {
         )}
 
         {lead && (
-          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_20rem]">
-            {/* Columna principal: nota de apertura grande + dos secundarias medianas debajo */}
-            <div>
+          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.6fr_1fr]">
+            <Rio posts={columnaIzq} titulo="Última hora" />
+
+            {/* Columna central: contenida entre reglas verticales, foto
+                discreta (no a sangre) -- el tratamiento clásico de apertura
+                de un diario, no un banner de portal de noticias. */}
+            <article className="lg:border-x lg:border-neutral-300 lg:px-10">
               <Link href={`/nota/${lead.slug}`} className="group block">
                 {(() => {
                   const imagen = featuredImageUrl(lead);
                   return imagen ? (
                     // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={imagen}
-                      alt=""
-                      className="mb-5 aspect-[16/9] w-full object-cover"
-                    />
+                    <img src={imagen} alt="" className="mb-5 aspect-[3/2] w-full object-cover" />
                   ) : null;
                 })()}
-                {categoryName(lead) && <p className="kicker mb-2">{categoryName(lead)}</p>}
-                <Titular post={lead} tamaño="lg" />
+                <Kicker post={lead} />
+                <Titular post={lead} tamaño="xl" />
                 <div
-                  className="mt-3 max-w-2xl text-lg leading-snug text-neutral-700 [&_p]:m-0"
+                  className="mt-4 max-w-xl text-lg leading-snug text-neutral-700 [&_p]:m-0"
                   dangerouslySetInnerHTML={{ __html: lead.excerpt.rendered }}
                 />
+                {authorName(lead) && (
+                  <p className="byline mt-3">Por {authorName(lead)}</p>
+                )}
               </Link>
+            </article>
 
-              {destacadasSecundarias.length > 0 && (
-                <div className="mt-10 grid grid-cols-1 gap-x-8 gap-y-8 border-t border-neutral-300 pt-8 sm:grid-cols-2">
-                  {destacadasSecundarias.map((post) => (
-                    <TarjetaFoto key={post.id} post={post} />
-                  ))}
-                </div>
-              )}
-            </div>
-
-            {/* Columna lateral: río denso de titulares sin foto, tipo "What's News" */}
-            {rioLateral.length > 0 && (
-              <div className="lg:border-l lg:border-neutral-300 lg:pl-8">
-                <p className="kicker border-b-2 border-neutral-900 pb-1.5">Últimas noticias</p>
-                <ul className="mt-1">
-                  {rioLateral.map((post) => (
-                    <RioItem key={post.id} post={post} />
-                  ))}
-                </ul>
-              </div>
-            )}
+            <ul>
+              {columnaDer.map((post) => (
+                <ItemMiniatura key={post.id} post={post} />
+              ))}
+            </ul>
           </div>
         )}
 
@@ -260,14 +282,14 @@ export default async function HomePage() {
 
         <BannerNewsletter />
 
+        <SeccionTexto titulo="Justicia" posts={mockJusticia} />
+
         <div className="grid grid-cols-1 gap-x-10 lg:grid-cols-[1fr_18rem]">
-          <SeccionTexto titulo="Boletín Oficial" posts={mockBoletinOficial} />
+          <SeccionGrilla titulo="Municipios" posts={mockMunicipios} />
           <div className="mt-16">
             <MasLeidas posts={masLeidas} />
           </div>
         </div>
-
-        <SeccionGrilla titulo="Municipios" posts={mockMunicipios} />
 
         {mockSociedad.length > 0 && (
           <section>

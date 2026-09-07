@@ -6,6 +6,7 @@
   --rule: #1a1a1a;
   --muted: #6b6b6b;
   --accent: #8a1f11;
+  --accent-2: #1f3a5f;
 }
 
 @theme inline {
@@ -14,6 +15,7 @@
   --color-rule: var(--rule);
   --color-muted: var(--muted);
   --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
   --font-serif: var(--font-serif);
   --font-headline: var(--font-headline);
   --font-sans: var(--font-sans);
@@ -33,9 +35,17 @@ body {
   font-family: var(--font-sans);
   font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.09em;
+  letter-spacing: 0.11em;
   text-transform: uppercase;
   color: var(--muted);
+}
+
+.kicker-accent {
+  color: var(--accent);
+}
+
+.kicker-accent-2 {
+  color: var(--accent-2);
 }
 
 .byline {
