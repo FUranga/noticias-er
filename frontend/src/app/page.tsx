@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Header } from "@/components/Header";
 import { getPostsParaPortada, featuredImageUrl, categoryName, type WpPost } from "@/lib/wp";
+import { mockEconomia, mockBoletinOficial } from "@/lib/mock-posts";
 
 function ItemTexto({ post }: { post: WpPost }) {
   return (
@@ -34,6 +35,20 @@ function ItemConMiniatura({ post }: { post: WpPost }) {
         </div>
       </Link>
     </li>
+  );
+}
+
+function Seccion({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
+  if (posts.length === 0) return null;
+  return (
+    <>
+      <p className="kicker mt-12 border-t-2 border-neutral-900 pt-2">{titulo}</p>
+      <ul className="mt-2 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-3 lg:grid-cols-4">
+        {posts.map((post) => (
+          <TarjetaGrilla key={post.id} post={post} />
+        ))}
+      </ul>
+    </>
   );
 }
 
@@ -124,6 +139,9 @@ export default async function HomePage() {
             </ul>
           </>
         )}
+
+        <Seccion titulo="Economía" posts={mockEconomia} />
+        <Seccion titulo="Boletín Oficial" posts={mockBoletinOficial} />
       </main>
       <footer className="font-ui border-t border-neutral-300 px-4 py-6 text-center text-xs text-neutral-500 sm:px-8">
         Agencia Entrerriana — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano

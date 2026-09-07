@@ -2,6 +2,8 @@
 // renderiza el sitio publico -- ver docs/arquitectura-tecnica.md). Solo
 // lee posts publicados; no necesita autenticacion.
 
+import { mockPosts } from "./mock-posts";
+
 const WP_URL = process.env.WP_URL;
 
 if (!WP_URL) {
@@ -50,10 +52,16 @@ export async function getPostsParaPortada(perPage = 20): Promise<WpPost[]> {
     wpFetch<WpPost[]>(`/posts?per_page=${perPage}&_embed`),
   ]);
   const idsFijados = new Set(fijados.map((p) => p.id));
-  return [...fijados, ...recientes.filter((p) => !idsFijados.has(p.id))];
+  const reales = [...fijados, ...recientes.filter((p) => !idsFijados.has(p.id))];
+  // Contenido de demo (ver mock-posts.ts) va siempre despues de lo real,
+  // solo para que la portada no se vea vacia mientras el WordPress real
+  // tiene pocas notas -- borrar este concat cuando deje de hacer falta.
+  return [...reales, ...mockPosts];
 }
 
 export async function getPostBySlug(slug: string): Promise<WpPost | null> {
+  const mock = mockPosts.find((p) => p.slug === slug);
+  if (mock) return mock;
   const posts = await wpFetch<WpPost[]>(`/posts?slug=${encodeURIComponent(slug)}&_embed`);
   return posts[0] ?? null;
 }
