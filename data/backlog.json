@@ -2641,11 +2641,11 @@
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZC1Pc1RjbE9HTXNCU0VIb3h6c1hoWkh0dUdlNzlKV2QzY3NFMFlTMHF1d2ZQTnlaaThvVkhGR3BzZlVhRlV1MGZEajl3czdVYzhSZzBHdWtsQms5REo1VXYtazY2MzNaRlRFNjJWN3RpVjFBOTR2bm56LWxrSk5ubEdKQkhEajJBMVI5VkpyMm84Qk11ZnUyS2hYZHRpRGdZcjJoc1ZnanQ5eHNRN3V6MzJXQ0I1TXpYTUVxM1pMTTl4SWVra2tOTlpFS1JVcVViWmN4c1JDWWhJdw?oc=5",
     "texto_original": "La provincia incorporó cinco nuevos trámites digitales para el transporte público en la plataforma Mi Entre Ríos\n  \nlagacetaonline.com.ar",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Promocion del gobierno.",
     "topicos_matcheados": [
       "servicios_publicos"
     ],
