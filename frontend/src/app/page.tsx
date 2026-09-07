@@ -3,7 +3,6 @@ import { Header } from "@/components/Header";
 import {
   getPostsParaPortada,
   featuredImageUrl,
-  minutosDeLectura,
   categoryName,
   tieneTag,
   type WpPost,
@@ -23,9 +22,9 @@ import { mockEconomia, mockJusticia, mockMunicipios, mockSociedad } from "@/lib/
 // ni sans, sin importar si es la nota principal o un ítem de una línea en
 // una lista densa -- lo que varía entre una "nota destacada" y un "brief" es
 // el tamaño, nunca la familia tipográfica.
-function Kicker({ post }: { post: WpPost }) {
+function Kicker({ post, mostrar = true }: { post: WpPost; mostrar?: boolean }) {
   const nombre = categoryName(post);
-  if (!nombre) return null;
+  if (!nombre || !mostrar) return null;
   return <p className="kicker mb-1.5">{nombre}</p>;
 }
 
@@ -44,16 +43,6 @@ function Kicker({ post }: { post: WpPost }) {
 // visita a nytimes.com).
 function Etiqueta({ texto }: { texto: string }) {
   return <span className="kicker kicker-accent mr-2 align-middle">{texto}</span>;
-}
-
-// Detalle chico ("X MIN de lectura") al lado de la bajada -- NYT lo muestra
-// junto a sus notas destacadas ("4 MIN READ"). Da sensación de diario vivo,
-// no es solo decoración.
-//
-// En duda (2026-09-07, Francisco): por ahora se deja, pero podría terminar
-// sacándose -- no está resuelto que valga la pena mantenerlo.
-function TiempoLectura({ post }: { post: WpPost }) {
-  return <span className="font-ui text-xs text-neutral-500">{minutosDeLectura(post)} min de lectura</span>;
 }
 
 // El crédito de la foto (featuredImageCredit en wp.ts) NO se muestra en la
@@ -88,12 +77,30 @@ function Titular({
 // único que puede llevar bajada -- en El País y NYT no todos los ítems de
 // una lista tienen bajada, pero varios sí, no solo la nota "hero" de toda
 // la portada.
-function RioItem({ post, destacado = false }: { post: WpPost; destacado?: boolean }) {
+//
+// `mostrarCategoria` en false cuando el módulo ya tiene su propio
+// EncabezadoSeccion de una sola categoría (ej. "Justicia") -- repetir el
+// mismo nombre como kicker en cada ítem de abajo es redundante y es lo que
+// hacía sentir la portada "sobreetiquetada". Confirmado 2026-09-07 mirando
+// nytimes.com/elpais.com en el navegador: en sus portadas reales el kicker
+// de categoría es la excepción (aparece en pocos ítems, casi siempre para
+// marcar un quiebre de contexto, como un ítem de Opinión adentro de un río
+// de noticias) y no una etiqueta que se repite en todos los ítems de una
+// lista ya encabezada por esa categoría.
+function RioItem({
+  post,
+  destacado = false,
+  mostrarCategoria = true,
+}: {
+  post: WpPost;
+  destacado?: boolean;
+  mostrarCategoria?: boolean;
+}) {
   const esUltimoMomento = tieneTag(post, "ultimo-momento");
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
       <Link href={`/nota/${post.slug}`} className="group block">
-        <Kicker post={post} />
+        <Kicker post={post} mostrar={mostrarCategoria} />
         {esUltimoMomento && <Etiqueta texto="Último momento" />}
         <Titular post={post} tamaño={destacado ? "base" : "xs"} />
         {destacado && post.excerpt.rendered && (
@@ -107,14 +114,22 @@ function RioItem({ post, destacado = false }: { post: WpPost; destacado?: boolea
   );
 }
 
-function Rio({ posts, titulo }: { posts: WpPost[]; titulo?: string }) {
+function Rio({
+  posts,
+  titulo,
+  mostrarCategoria = true,
+}: {
+  posts: WpPost[];
+  titulo?: string;
+  mostrarCategoria?: boolean;
+}) {
   if (posts.length === 0) return null;
   return (
     <div>
       {titulo && <p className="kicker border-b-2 border-neutral-900 pb-1.5">{titulo}</p>}
       <ul className={titulo ? "mt-1" : ""}>
         {posts.map((post, i) => (
-          <RioItem key={post.id} post={post} destacado={i === 0} />
+          <RioItem key={post.id} post={post} destacado={i === 0} mostrarCategoria={mostrarCategoria} />
         ))}
       </ul>
     </div>
@@ -130,10 +145,12 @@ function TarjetaFoto({
   post,
   proporcion = "aspect-[3/2]",
   tamañoTitulo = "base",
+  mostrarCategoria = true,
 }: {
   post: WpPost;
   proporcion?: string;
   tamañoTitulo?: "lg" | "base" | "sm";
+  mostrarCategoria?: boolean;
 }) {
   const imagen = featuredImageUrl(post);
   return (
@@ -145,19 +162,24 @@ function TarjetaFoto({
         )}
       </Link>
       <Link href={`/nota/${post.slug}`} className="group block">
-        <Kicker post={post} />
+        <Kicker post={post} mostrar={mostrarCategoria} />
         <Titular post={post} tamaño={tamañoTitulo} />
         <div
           className="mt-1.5 text-[0.9rem] leading-snug text-neutral-700 [&_p]:m-0"
           dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}
         />
-        <TiempoLectura post={post} />
       </Link>
     </div>
   );
 }
 
-function ItemMiniatura({ post }: { post: WpPost }) {
+function ItemMiniatura({
+  post,
+  mostrarCategoria = true,
+}: {
+  post: WpPost;
+  mostrarCategoria?: boolean;
+}) {
   const imagen = featuredImageUrl(post);
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
@@ -167,7 +189,7 @@ function ItemMiniatura({ post }: { post: WpPost }) {
           <img src={imagen} alt="" className="h-16 w-20 shrink-0 object-cover" />
         )}
         <div>
-          <Kicker post={post} />
+          <Kicker post={post} mostrar={mostrarCategoria} />
           <Titular post={post} tamaño="xs" />
         </div>
       </Link>
@@ -210,8 +232,8 @@ function SeccionDestacada({
     <section>
       <EncabezadoSeccion titulo={titulo} />
       <div className={`mt-6 grid grid-cols-1 gap-x-10 gap-y-6 ${proporcion}`}>
-        <TarjetaFoto post={destacada} tamañoTitulo="lg" />
-        {resto.length > 0 && <Rio posts={resto} />}
+        <TarjetaFoto post={destacada} tamañoTitulo="lg" mostrarCategoria={false} />
+        {resto.length > 0 && <Rio posts={resto} mostrarCategoria={false} />}
       </div>
     </section>
   );
@@ -229,10 +251,10 @@ function SeccionGrilla({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
     <section>
       <EncabezadoSeccion titulo={titulo} />
       <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-[3fr_2fr]">
-        <TarjetaFoto post={primera} proporcion="aspect-[4/3]" tamañoTitulo="base" />
+        <TarjetaFoto post={primera} proporcion="aspect-[4/3]" tamañoTitulo="base" mostrarCategoria={false} />
         <ul>
           {resto.map((post) => (
-            <RioItem key={post.id} post={post} />
+            <RioItem key={post.id} post={post} mostrarCategoria={false} />
           ))}
         </ul>
       </div>
@@ -251,7 +273,7 @@ function SeccionTexto({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
       <EncabezadoSeccion titulo={titulo} />
       <ul className="mt-4 grid grid-cols-1 gap-x-8 sm:grid-cols-3">
         {posts.map((post, i) => (
-          <RioItem key={post.id} post={post} destacado={i === 0} />
+          <RioItem key={post.id} post={post} destacado={i === 0} mostrarCategoria={false} />
         ))}
       </ul>
     </section>
@@ -303,7 +325,7 @@ export default async function HomePage() {
   return (
     <>
       <Header />
-      <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-10 sm:px-8">
+      <main className="mx-auto w-full max-w-7xl flex-1 px-4 py-10 sm:px-8">
         {!lead && (
           <p className="font-ui py-16 text-center text-neutral-500">
             Todavía no hay notas publicadas.
@@ -336,9 +358,6 @@ export default async function HomePage() {
                   className="mt-4 max-w-xl text-lg leading-snug text-neutral-700 [&_p]:m-0"
                   dangerouslySetInnerHTML={{ __html: lead.excerpt.rendered }}
                 />
-                <div className="mt-3 flex items-center gap-3">
-                  <TiempoLectura post={lead} />
-                </div>
               </Link>
             </article>
 
@@ -368,7 +387,7 @@ export default async function HomePage() {
             <EncabezadoSeccion titulo="Sociedad" />
             <ul className="mt-2 grid grid-cols-1 gap-x-8 sm:grid-cols-2 lg:grid-cols-3">
               {mockSociedad.map((post) => (
-                <ItemMiniatura key={post.id} post={post} />
+                <ItemMiniatura key={post.id} post={post} mostrarCategoria={false} />
               ))}
             </ul>
           </section>

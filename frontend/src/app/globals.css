@@ -6,6 +6,10 @@
   --rule: #1a1a1a;
   --muted: #6b6b6b;
   --accent: #8a1f11;
+  /* Georgia, no web font: es la fuente de sistema que NYT y WSJ declaran
+     como su propia reserva (nyt-imperial/Exchange, georgia, ...) -- ver
+     layout.tsx. */
+  --font-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 @theme inline {
