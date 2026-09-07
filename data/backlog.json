@@ -2599,11 +2599,11 @@
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVXhFaTBwQXdKS0VyTGprQ1RYUzBGQlh6bTJNMFUtNzhEOWZQR1ZzdWZvTk4zN25CYml1aUFxZDdRSU9ldG9RQWFWc3owZ0FNb1pra2RXLXRDRW8wZFQ1ZFpJc2lPamxWMWpvTEQzMEthY3VDT2x1SUd6LVVTekFUbV9VZGItXzBvZUMzNG01SEtPV2EwRXJxWm0xWdIBoAFBVV95cUxNcnhQRU1jMjNkNkp0WWU0emR6Tl9TUVdXQ1RvaWVBcVNfNjNGMkdteHFZZF9KV2RYX0JEUkpINFh5RXVOQlFISmdUcU5zd0ZfNzlxTnh3SHQ2SlN6YkpGZkFfa05URFFnX0xqZ25YMDV2VHQ1em5VOTZhdUlMa0dUaW5qcFNkQVdVYXRUUjdiTzdtd1pmNGFENGNHNzVMclZf?oc=5",
     "texto_original": "Charla: «Salud Digital – Ministerio de Salud de Entre Ríos» en la FIUNER\n  \nUNER Medios",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Promocion del gobierno.",
     "topicos_matcheados": [
       "politica",
       "educacion",
