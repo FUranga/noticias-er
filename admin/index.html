@@ -136,11 +136,22 @@ const ESTADOS = [
 ];
 
 // Estados propios de un ítem de agenda (ver docs/agenda.md) -- distintos de
-// los de la cablera, no confundir.
+// los de la cablera, no confundir. "vencido_sin_seguimiento" era un estado
+// MANUAL (había que acordarse de tocar un botón) -- reemplazado 2026-09-07
+// por "descartado" (decisión editorial explícita de dejar de seguirlo) más
+// una marca automática de "vencida" sobre cualquier ítem "pendiente" cuya
+// fecha ya pasó (ver esVencida()) -- no hace falta declarar nada a mano
+// para que se vea que algo quedó atrás.
+//
+// "Próximas 2 semanas" NO es un cuarto estado -- va aparte, como un toggle
+// de vista sobre la lista de "A cubrir" (ver mostrarCalendario más abajo),
+// no como una pestaña más en esta fila. Mezclarlo con los estados hacía
+// pensar que era una categoría excluyente más, cuando en realidad es otro
+// eje (cómo se agrupa lo pendiente, no en qué estado está).
 const ESTADOS_AGENDA = [
-  { key: 'pendiente', label: 'Pendientes' },
+  { key: 'pendiente', label: 'A cubrir' },
   { key: 'cubierto', label: 'Cubiertos' },
-  { key: 'vencido_sin_seguimiento', label: 'Vencidos sin seguimiento' },
+  { key: 'descartado', label: 'Descartados' },
 ];
 
 const PRIORIDAD_ORDEN = { alta: 3, media: 2, baja: 1 };
@@ -150,6 +161,29 @@ const AGENDA_PATH = 'data/agenda.json';
 let activeMacro = 'general';
 let activeEstado = 'pendiente';
 let activeAgendaEstado = 'pendiente';
+// Toggle de vista sobre "A cubrir" -- no es un estado, ver comentario en
+// ESTADOS_AGENDA. Solo tiene efecto cuando activeAgendaEstado === 'pendiente'.
+let mostrarCalendario = true;
+
+// Helpers de fecha para la agenda -- mediodía UTC al parsear para que
+// formatear con toLocaleDateString no corra un día para atrás en husos
+// horarios negativos (Argentina, UTC-3).
+function hoyISO() {
+  return new Date().toISOString().slice(0, 10);
+}
+function sumarDiasISO(dias) {
+  const d = new Date();
+  d.setDate(d.getDate() + dias);
+  return d.toISOString().slice(0, 10);
+}
+function formatFechaLarga(fechaISO) {
+  const d = new Date(fechaISO + 'T12:00:00');
+  const s = d.toLocaleDateString('es-AR', { weekday: 'long', day: 'numeric', month: 'long' });
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+function esVencida(a) {
+  return a.estado === 'pendiente' && !!a.fecha && a.fecha < hoyISO();
+}
 let items = [];
 let fileSha = null;
 let agendaItems = [];
@@ -443,9 +477,24 @@ function renderAgendaList() {
   list.innerHTML = '';
 
   const addBar = document.createElement('div');
-  addBar.style.marginBottom = '14px';
+  addBar.style.cssText = 'margin-bottom:14px;display:flex;gap:8px;align-items:center;';
   addBar.appendChild(mkBtn('+ Agregar evento', 'publicar', () => abrirAgenda(null)));
+  // Toggle de vista, solo tiene sentido mirando "A cubrir" -- ver comentario
+  // en ESTADOS_AGENDA sobre por qué esto no es una pestaña más.
+  if (activeAgendaEstado === 'pendiente') {
+    const toggle = mkBtn(
+      mostrarCalendario ? 'Ver lista completa' : 'Próximas 2 semanas',
+      mostrarCalendario ? 'reabrir' : 'agenda',
+      () => { mostrarCalendario = !mostrarCalendario; render(); }
+    );
+    addBar.appendChild(toggle);
+  }
   list.appendChild(addBar);
+
+  if (activeAgendaEstado === 'pendiente' && mostrarCalendario) {
+    renderAgendaCalendario(list);
+    return;
+  }
 
   const filtered = agendaItems
     .filter(a => a.estado === activeAgendaEstado)
@@ -465,16 +514,48 @@ function renderAgendaList() {
   filtered.forEach(a => list.appendChild(buildAgendaCard(a)));
 }
 
-function buildAgendaCard(a) {
+// Vista "Próximas 2 semanas": agrupa por día los pendientes con fecha
+// dentro de la ventana hoy..hoy+13, saltando los días sin nada (una agenda
+// vacía día por día no aporta, ver docs/agenda.md). Los pendientes sin
+// fecha exacta o ya vencidos no entran acá -- siguen visibles en "A cubrir"
+// con su badge correspondiente.
+function renderAgendaCalendario(list) {
+  const desde = hoyISO(), hasta = sumarDiasISO(13);
+  const enVentana = agendaItems.filter(a => a.estado === 'pendiente' && a.fecha && a.fecha >= desde && a.fecha <= hasta);
+  if (enVentana.length === 0) {
+    const empty = document.createElement('div');
+    empty.className = 'empty';
+    empty.textContent = 'Nada agendado con fecha en los próximos 14 días.';
+    list.appendChild(empty);
+    return;
+  }
+  const porFecha = new Map();
+  enVentana.forEach(a => {
+    if (!porFecha.has(a.fecha)) porFecha.set(a.fecha, []);
+    porFecha.get(a.fecha).push(a);
+  });
+  [...porFecha.keys()].sort().forEach(fecha => {
+    const h = document.createElement('h3');
+    h.style.cssText = 'margin:18px 0 8px;font-size:.95rem;color:#444;';
+    h.textContent = formatFechaLarga(fecha) + (fecha === hoyISO() ? ' · hoy' : '');
+    list.appendChild(h);
+    porFecha.get(fecha).forEach(a => list.appendChild(buildAgendaCard(a, { ocultarFecha: true })));
+  });
+}
+
+function buildAgendaCard(a, opts) {
+  opts = opts || {};
   const div = document.createElement('div');
   div.className = 'item';
   const h3 = document.createElement('h3');
   h3.textContent = a.evento || '(sin descripción)';
   div.appendChild(h3);
 
+  const vencida = esVencida(a);
   const meta = document.createElement('div');
   meta.className = 'meta';
-  meta.innerHTML = (a.fecha ? a.fecha : '<span class="badge sinfecha">sin fecha exacta</span>') +
+  meta.innerHTML = (opts.ocultarFecha ? '' : (a.fecha ? a.fecha : '<span class="badge sinfecha">sin fecha exacta</span>')) +
+    (vencida ? ' <span class="badge prioridad-alta">vencida</span>' : '') +
     (a.tipo ? ` · ${a.tipo}` : '') +
     (a.fuente ? ` · ${a.fuente}` : '') +
     (a.origen_id ? ` · <a href="#" onclick="return false;" title="${a.origen_id}">ítem de la cablera</a>` : ' · agregado a mano');
@@ -492,9 +573,9 @@ function buildAgendaCard(a) {
   wrap.className = 'actions';
   if (a.estado === 'pendiente') {
     wrap.appendChild(mkBtn('Marcar cubierto', 'publicar', () => marcarAgenda(a.id, 'cubierto')));
-    wrap.appendChild(mkBtn('Marcar vencido sin seguimiento', 'descartar', () => marcarAgenda(a.id, 'vencido_sin_seguimiento')));
+    wrap.appendChild(mkBtn('Descartar', 'descartar', () => marcarAgenda(a.id, 'descartado')));
   } else {
-    wrap.appendChild(mkBtn('Volver a pendiente', 'reabrir', () => marcarAgenda(a.id, 'pendiente')));
+    wrap.appendChild(mkBtn('Volver a "a cubrir"', 'reabrir', () => marcarAgenda(a.id, 'pendiente')));
   }
   div.appendChild(wrap);
   return div;
@@ -506,6 +587,9 @@ async function marcarAgenda(id, estado) {
   if (estado === 'cubierto') {
     const link = prompt('¿Link o referencia de la nota que lo cubrió? (opcional)');
     if (link) a.detalle = (a.detalle ? a.detalle + ' — ' : '') + `Cubierto: ${link.trim()}`;
+  } else if (estado === 'descartado') {
+    const motivo = prompt('¿Por qué lo descartás? (opcional)');
+    if (motivo) a.detalle = (a.detalle ? a.detalle + ' — ' : '') + `Descartado: ${motivo.trim()}`;
   }
   const prev = a.estado;
   a.estado = estado;

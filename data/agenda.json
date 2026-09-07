@@ -75,5 +75,16 @@
     "detalle": "Descartado como nota (puro recordatorio de trámite, sin interés editorial), pero se guarda la fecha como ejemplo de contenido tipo servicio -- candidato a incluir en un futuro newsletter aunque no se convierta en nota propia.",
     "agregado_el": "2026-09-04T00:00:00Z",
     "estado": "pendiente"
+  },
+  {
+    "id": "goberer-79663-concordia-centro-civico-apertura-sobres",
+    "fecha": "2026-09-10",
+    "evento": "Apertura de sobres de la licitación para la puesta en valor del Centro Cívico Provincial de Concordia",
+    "tipo": "plazo",
+    "fuente": "Gobierno de Entre Ríos (Ministerio de Planeamiento e Infraestructura)",
+    "origen_id": "goberer-79663",
+    "detalle": "Licitación por $109 millones para intervenir 3.402 m² del edificio (funcionan ahí Registro Civil, Registro de la Propiedad, Museo Provincial de la Imagen, entre otros), 180 días corridos de plazo de ejecución.",
+    "agregado_el": "2026-09-07T00:00:00Z",
+    "estado": "pendiente"
   }
 ]
