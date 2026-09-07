@@ -25,6 +25,8 @@ Un comunicado de prensa ya viene con un ángulo elegido por quien lo emite (aunq
 
 3. **Aplicar las cuatro preguntas de `docs/criterios-noticiabilidad.md`** (noticioso / importante / oportuno / útil o sorprendente) sobre el hecho ya traducido — no sobre el texto legal crudo. Consultar también **`docs/boletin-oficial-proceso.md`, sección "Qué buscar al triagear un ítem"**, que tiene señales específicas por tipo de norma (decreto/ley/resolución/licitación) y se va actualizando con casos reales — más afinado que el filtro genérico para este tipo de material.
 
+   **Nombramientos, ceses y renuncias**: aplicar el chequeo específico de `docs/boletin-oficial-proceso.md`, sección "Foco específico: nombramientos, ceses y renuncias" — nivel del cargo, si es llegada o salida, si el decreto da motivo, antecedentes de conflicto. La gran mayoría es rutina; el objetivo es no dejar pasar en silencio la excepción (cargo de peso, salida sin explicación, algo que no se conocía por otra vía).
+
 4. **Señalar explícitamente si hay ángulo noticioso potencial y cuál sería**, distinguiendo dos casos:
    - **Podría alcanzar para nota con poco reporteo adicional** (raro, pero pasa con licitaciones bien documentadas o resoluciones de impacto directo tipo tarifas).
    - **Es candidato a investigación, no a redacción directa** (el caso más común, sobre todo leyes y decretos de fondo — ver el ejemplo del "Norte Entrerriano" en `docs/boletin-oficial-proceso.md`): señalar qué habría que averiguar (quién lo impulsó, antecedentes, si hay voces críticas) para que se convierta en nota real.

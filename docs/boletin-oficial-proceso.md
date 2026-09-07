@@ -53,7 +53,21 @@ Documento vivo — se va a ir afinando con el uso, mismo espíritu que `docs/cri
 
 **Señales de que probablemente no hay nada** (más allá de lo que ya filtra el mecanismo): decretos administrativos rutinarios que sobrevivieron el filtro por no matchear el patrón exacto pero son del mismo tipo (ej. una variante de "rechazo" con otra redacción), licitaciones de montos chicos y objetos genéricos (insumos de oficina, mantenimiento de rutina) sin nada que las distinga.
 
+### Foco específico: nombramientos, ceses y renuncias (agregado 2026-09-07, pedido de Francisco)
+
+Los decretos de designación, cese, remoción o aceptación de renuncia son, en general, rutina administrativa (un ascenso escalafonario, un reemplazo interino de bajo nivel) — pero cuando el cargo es de peso político o institucional, son de los ítems con más chance de sorprender de todo el Boletín, porque no suelen venir acompañados de un comunicado de prensa propio. Tratar este tipo de norma con un chequeo explícito, no solo como parte del rótulo genérico "designaciones" en decretos.
+
+**Al triagear un decreto de designación/cese/renuncia, preguntarse específicamente**:
+- ¿Qué nivel de cargo es? (ministro/secretario de Estado, presidente de organismo descentralizado o ente autárquico, director general/provincial, juez/fiscal, intendente/interventor — vs. un cargo de planta o escalafonario sin poder de decisión propio).
+- ¿Es una designación nueva, un reemplazo, o una salida (renuncia/cese/remoción)? Una salida de un cargo de peso es al menos tan noticiable como una llegada, y a veces más (puede señalar un conflicto interno no anunciado).
+- ¿El decreto da el motivo, o solo dice "acéptase la renuncia presentada por..." sin explicar por qué? La ausencia de motivo en un cargo de peso es en sí una señal a investigar, no algo que se pueda dar por rutina.
+- ¿Hay antecedentes de esa persona o de conflicto en ese organismo en `data/backlog.json` o `docs/temas-a-seguir.md`?
+
+**Calibración de expectativas (Francisco, 2026-09-07)**: la mayoría de las veces, si el nombramiento es de un cargo realmente importante, el editor ya se va a haber enterado por otra vía antes de que el Boletín lo confirme — el valor de este chequeo es la excepción, no la regla: la designación o salida de peso que pasó sin anuncio propio y que el Boletín es la primera confirmación pública. No forzar ángulo en designaciones de rutina solo por tratarse de esta categoría.
+
 **Cómo se sigue mejorando esto**: cuando Francisco descarte o marque "a investigar" un ítem del Boletín y el motivo no esté ya cubierto acá, sumarlo a esta sección con el caso concreto (mismo criterio que el resto del proyecto: nunca una regla sin el ejemplo real detrás).
+
+**Sobre registrar fechas de licitaciones en `data/agenda.json` (Francisco, 2026-09-07)**: no cargar mecánicamente la fecha de apertura de cada licitación que llega al Boletín solo por venir tageada `prioridad: alta` — la mayoría son montos y objetos rutinarios (un municipio comprando un vehículo, materiales de obra, un cartel) sin ninguna chance real de convertirse en seguimiento editorial, y cargarlas todas es ruido que no aporta al propósito de `agenda.json` (uso propio de Francisco / futuro newsletter). Reservar la carga a agenda para una licitación puntual que ya tenga algo que la distinga (monto fuera de lo común para el organismo, objeto inusual, o que el editor haya marcado el ítem "a investigar").
 
 ## Ejemplo real de por qué esto importa: la ley del "Norte Entrerriano"
 
