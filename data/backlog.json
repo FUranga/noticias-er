@@ -3816,11 +3816,11 @@
     "link": "https://www.diariojunio.com.ar/frigerio-visito-a-victor-velazquez-uno-de-los-grandes-maestros-de-la-musica-popular-argentina/",
     "texto_original": "El gobernador Rogelio Frigerio visitó a Víctor Velázquez, cantor, guitarrista, poeta y compositor entrerriano de 95 años, reconocido como una de las grandes figuras del folclore y la música popular argentina. Durante el encuentro, Frigerio compartió una cálida conversación con el artista y destacó su extensa trayectoria, su compromiso con las raíces de nuestra tierra y el enorme aporte de su obra a la cultura provincial y nacional, según información enviada a DIARUIOJUNIO.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:25Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Promocion del gobierno.",
     "topicos_matcheados": [
       "politica"
     ],
