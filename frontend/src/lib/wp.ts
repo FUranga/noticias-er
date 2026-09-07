@@ -92,6 +92,16 @@ export function categoryName(post: WpPost): string | null {
   return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.name : null;
 }
 
+// Etiquetas como "Último momento" ya no se asignan solas al primer ítem de
+// cada lista -- eso las hacía aparecer en cualquier nota, aunque no fuera
+// noticia de último momento de verdad. Ahora dependen de que la nota tenga
+// puesto, a mano, un tag de WordPress con este slug (cualquier editor lo
+// puede tildar desde el editor normal, sin campo custom).
+export function tieneTag(post: WpPost, slug: string): boolean {
+  const terms = post._embedded?.["wp:term"] ?? [];
+  return terms.flat().some((t) => t.taxonomy === "post_tag" && t.slug === slug);
+}
+
 /**
  * Minutos de lectura estimados a partir del cuerpo -- detalle chico que
  * ayuda a que la portada se sienta "viva" (NYT lo muestra junto a la bajada

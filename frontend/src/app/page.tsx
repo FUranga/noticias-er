@@ -3,10 +3,9 @@ import { Header } from "@/components/Header";
 import {
   getPostsParaPortada,
   featuredImageUrl,
-  featuredImageCredit,
   minutosDeLectura,
   categoryName,
-  authorName,
+  tieneTag,
   type WpPost,
 } from "@/lib/wp";
 import { mockEconomia, mockJusticia, mockMunicipios, mockSociedad } from "@/lib/mock-posts";
@@ -30,9 +29,11 @@ function Kicker({ post }: { post: WpPost }) {
   return <p className="kicker mb-1.5">{nombre}</p>;
 }
 
-// Etiqueta chica de estado -- se usa con cuentagotas (solo el ítem más
-// reciente de la portada), no en cada nota. Un badge en todos lados deja de
-// significar algo.
+// Etiqueta chica de estado -- NO se asigna sola al primer ítem de una lista
+// (eso hacía que "Último momento" apareciera en cualquier nota, tuviera o no
+// urgencia real, y sumado al kicker de sección quedaba sobrepoblado de
+// rótulos). Depende de que el editor le haya puesto a la nota el tag de
+// WordPress "ultimo-momento" -- ver tieneTag en wp.ts.
 //
 // Verificado 2026-09-07 (no había ningún caso "en vivo" real de NYT para
 // mirar en el momento, pero sí lo vimos en El País: su etiqueta roja
@@ -55,16 +56,10 @@ function TiempoLectura({ post }: { post: WpPost }) {
   return <span className="font-ui text-xs text-neutral-500">{minutosDeLectura(post)} min de lectura</span>;
 }
 
-// Crédito de la foto -- dato que ya se junta (ver docs/politica-imagenes.md
-// y featuredImageCredit en wp.ts) pero no se mostraba en ningún lado de la
-// portada. Cualquier diario de referencia siempre acredita la foto, aunque
-// sea chico.
-function CreditoFoto({ post }: { post: WpPost }) {
-  const credito = featuredImageCredit(post);
-  if (!credito) return null;
-  return <p className="font-ui -mt-2 mb-3 text-[0.7rem] text-neutral-400">{credito}</p>;
-}
-
+// El crédito de la foto (featuredImageCredit en wp.ts) NO se muestra en la
+// portada -- decisión de Francisco (2026-09-07): la portada necesita un
+// diseño despejado, y el crédito se ve adentro de la nota (nota/[slug]),
+// donde si tiene sentido detenerse a leerlo.
 function Titular({
   post,
   tamaño = "base",
@@ -73,7 +68,7 @@ function Titular({
   tamaño?: "xl" | "lg" | "base" | "sm" | "xs";
 }) {
   const clases = {
-    xl: "text-4xl sm:text-5xl leading-[1.03] tracking-tight",
+    xl: "text-3xl sm:text-4xl leading-[1.05] tracking-tight",
     lg: "text-2xl sm:text-[1.75rem] leading-[1.1] tracking-tight",
     base: "text-lg leading-tight",
     sm: "text-base leading-snug",
@@ -89,43 +84,37 @@ function Titular({
 
 // Ítem de "río": solo texto, sin foto -- la densidad típica de la columna
 // "What's News" del WSJ. El primero de cada lista es levemente más grande,
-// como en una portada real (nunca todos los ítems pesan igual).
-function RioItem({
-  post,
-  destacado = false,
-  etiqueta,
-}: {
-  post: WpPost;
-  destacado?: boolean;
-  etiqueta?: string;
-}) {
+// como en una portada real (nunca todos los ítems pesan igual), y es el
+// único que puede llevar bajada -- en El País y NYT no todos los ítems de
+// una lista tienen bajada, pero varios sí, no solo la nota "hero" de toda
+// la portada.
+function RioItem({ post, destacado = false }: { post: WpPost; destacado?: boolean }) {
+  const esUltimoMomento = tieneTag(post, "ultimo-momento");
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
       <Link href={`/nota/${post.slug}`} className="group block">
         <Kicker post={post} />
-        {etiqueta && <Etiqueta texto={etiqueta} />}
+        {esUltimoMomento && <Etiqueta texto="Último momento" />}
         <Titular post={post} tamaño={destacado ? "base" : "xs"} />
+        {destacado && post.excerpt.rendered && (
+          <div
+            className="mt-1 text-sm leading-snug text-neutral-700 [&_p]:m-0"
+            dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}
+          />
+        )}
       </Link>
     </li>
   );
 }
 
-function Rio({
-  posts,
-  titulo,
-  etiquetaPrimero,
-}: {
-  posts: WpPost[];
-  titulo?: string;
-  etiquetaPrimero?: string;
-}) {
+function Rio({ posts, titulo }: { posts: WpPost[]; titulo?: string }) {
   if (posts.length === 0) return null;
   return (
     <div>
       {titulo && <p className="kicker border-b-2 border-neutral-900 pb-1.5">{titulo}</p>}
       <ul className={titulo ? "mt-1" : ""}>
         {posts.map((post, i) => (
-          <RioItem key={post.id} post={post} destacado={i === 0} etiqueta={i === 0 ? etiquetaPrimero : undefined} />
+          <RioItem key={post.id} post={post} destacado={i === 0} />
         ))}
       </ul>
     </div>
@@ -155,7 +144,6 @@ function TarjetaFoto({
           <img src={imagen} alt="" className={`mb-1.5 w-full object-cover ${proporcion}`} />
         )}
       </Link>
-      <CreditoFoto post={post} />
       <Link href={`/nota/${post.slug}`} className="group block">
         <Kicker post={post} />
         <Titular post={post} tamaño={tamañoTitulo} />
@@ -323,12 +311,14 @@ export default async function HomePage() {
         )}
 
         {lead && (
-          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.6fr_1fr]">
-            <Rio posts={columnaIzq} titulo="Última hora" etiquetaPrimero="Último momento" />
+          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_2fr_1fr]">
+            <Rio posts={columnaIzq} titulo="Última hora" />
 
             {/* Columna central: contenida entre reglas verticales, foto
                 discreta (no a sangre) -- el tratamiento clásico de apertura
-                de un diario, no un banner de portal de noticias. */}
+                de un diario, no un banner de portal de noticias. Sin
+                crédito de foto ni autor -- portada despejada, ver notas en
+                Titular/TarjetaFoto de más arriba. */}
             <article className="lg:border-x lg:border-neutral-300 lg:px-10">
               <Link href={`/nota/${lead.slug}`} className="group block">
                 {(() => {
@@ -339,7 +329,6 @@ export default async function HomePage() {
                   ) : null;
                 })()}
               </Link>
-              <CreditoFoto post={lead} />
               <Link href={`/nota/${lead.slug}`} className="group block">
                 <Kicker post={lead} />
                 <Titular post={lead} tamaño="xl" />
@@ -348,7 +337,6 @@ export default async function HomePage() {
                   dangerouslySetInnerHTML={{ __html: lead.excerpt.rendered }}
                 />
                 <div className="mt-3 flex items-center gap-3">
-                  {authorName(lead) && <p className="byline">Por {authorName(lead)}</p>}
                   <TiempoLectura post={lead} />
                 </div>
               </Link>

@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { Header } from "@/components/Header";
-import { getPostBySlug, featuredImageUrl, featuredImageCredit, authorName, categoryName } from "@/lib/wp";
+import { getPostBySlug, featuredImageUrl, featuredImageCredit, categoryName } from "@/lib/wp";
 import { formatFecha } from "@/lib/format";
 
 type Props = {
@@ -17,7 +17,6 @@ export default async function NotaPage({ params }: Props) {
 
   const imagen = featuredImageUrl(post);
   const creditoImagen = featuredImageCredit(post);
-  const autor = authorName(post);
   const categoria = categoryName(post);
 
   return (
@@ -36,9 +35,12 @@ export default async function NotaPage({ params }: Props) {
               dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}
             />
           )}
+          {/* Firma fija en "Redacción", no el usuario de WordPress que
+              publicó -- toda nota acá sale de reescribir un comunicado en
+              estilo agencia, nunca es la voz individual de quien la subió. */}
           <div className="byline mt-4 flex items-center gap-2 border-b border-neutral-300 pb-4">
-            {autor && <span>Por {autor}</span>}
-            {autor && <span aria-hidden>·</span>}
+            <span>Por Redacción</span>
+            <span aria-hidden>·</span>
             <span>{formatFecha(post.date)}</span>
           </div>
           {imagen && (
