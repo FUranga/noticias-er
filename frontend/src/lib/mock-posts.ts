@@ -393,7 +393,11 @@ export const mockPosts: WpPost[] = [
   }),
 ];
 
-export const mockEconomia = mockPosts.filter((p) => p._embedded?.["wp:term"]?.[0]?.[0]?.slug === "economia");
-export const mockBoletinOficial = mockPosts.filter(
-  (p) => p._embedded?.["wp:term"]?.[0]?.[0]?.slug === "boletin-oficial",
-);
+function porCategoria(slug: string) {
+  return mockPosts.filter((p) => p._embedded?.["wp:term"]?.[0]?.[0]?.slug === slug);
+}
+
+export const mockEconomia = porCategoria("economia");
+export const mockBoletinOficial = porCategoria("boletin-oficial");
+export const mockMunicipios = porCategoria("municipios");
+export const mockSociedad = porCategoria("sociedad");
