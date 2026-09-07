@@ -160,14 +160,52 @@ Distinto en lógica al resto del mapeo: no son organismos que gobiernan Entre R�
 - **Universidad Autónoma de Entre Ríos (UADER)** — portal de noticias: https://noticias.uader.edu.ar/ (confirmado por búsqueda). Es provincial (no confundir con UNER).
 - **ONGs de desarrollo económico/social locales**: no confirmadas en esta pasada — pendiente de investigación específica.
 
-## Medios locales (para pensar alianzas, no para replicar cobertura)
+## Medios (para pensar alianzas y para el futuro agregador de "Medios")
 
-Ver `docs/aliados-y-financiamiento.md` sobre la lógica de citar/linkear en vez de competir.
+Ver `docs/aliados-y-financiamiento.md` sobre la lógica de citar/linkear en vez de competir. Esta sección tiene ahora un segundo uso además de pensar alianzas: es la base de fuentes para el futuro macro-tab "Medios" de `admin/index.html` (diseño en curso, 2026-09-07, ver conversación con Francisco) — un radar de cobertura de otros medios (provinciales, locales, y a futuro de Santa Fe/Corrientes/Córdoba/Uruguay) que mencionen Entre Ríos, sus ciudades, o entidades/personas relevantes, pensado primero para **detectar fuentes que se le puedan estar escapando al mapeo de este documento**, y en segundo lugar para identificar coberturas propias para referir (redes, newsletter, portada) — no para reescribir como comunicado (ver estándar de atribución en `docs/estilo-editorial.md`, sección "Medios y empresas como fuente").
 
-- **Elonce** — https://www.elonce.com/ (confirmado por búsqueda). El primer portal de noticias de Entre Ríos (2003); cobertura generalista amplia.
-- **Análisis Digital** — https://www.analisisdigital.com.ar/ (confirmado por búsqueda). Dirigido por Daniel Enz; foco declarado en política, judiciales, gestión y economía — es el que más se superpone temáticamente con este proyecto, vale la pena pensarlo primero como posible aliado/competidor a diferenciar. Ya consiguió al menos un hallazgo de accountability real vía pedido de acceso a la información (caso AGN, ver `docs/temas-a-seguir.md`) — referencia directa del tipo de periodismo que este proyecto aspira a hacer.
-- **APF Digital** — https://www.apfdigital.com.ar/ (confirmado por búsqueda).
-- **El Diario** — https://www.eldiario.com.ar/ (confirmado por búsqueda). El diario papel histórico de Paraná (1914) — máxima jerarquía dentro de los medios locales tradicionales.
+**Ningún RSS de esta sección fue verificado todavía salvo que se indique explícitamente "RSS confirmado"** — antes de sumar un medio al agregador automatizado, confirmar `/feed/` (WordPress) o el mecanismo real de cada uno. Varios sitios de ER bloquean fetch automatizado (mismo patrón ya documentado para sitios de gobierno) — un 403/404 en `/feed/` no descarta que el sitio tenga RSS accesible desde navegador.
+
+### Medios provinciales (cubren toda la provincia, no una ciudad)
+
+- **Elonce** — https://www.elonce.com/ (confirmado). Portal digital de Canal 11 Paraná ("El Once TV", canal de aire desde 1992) — el primer portal de noticias de Entre Ríos (2003); cobertura generalista amplia.
+- **Análisis Digital** — https://www.analisisdigital.com.ar/ (confirmado). Dirigido por Daniel Enz; foco declarado en política, judiciales, gestión y economía — es el que más se superpone temáticamente con este proyecto, vale la pena pensarlo primero como posible aliado/competidor a diferenciar. Ya consiguió al menos un hallazgo de accountability real vía pedido de acceso a la información (caso AGN, ver `docs/temas-a-seguir.md`) — referencia directa del tipo de periodismo que este proyecto aspira a hacer.
+- **APF Digital** — https://www.apfdigital.com.ar/ (confirmado).
+- **El Diario** — https://www.eldiario.com.ar/ (confirmado). El diario papel histórico de Paraná (1914) — máxima jerarquía dentro de los medios locales tradicionales.
+- **UNO Entre Ríos** — https://www.unoentrerios.com.ar/ (confirmado, parte de la red de diarios UNO). RSS: no encontrado.
+- **AHORA Entre Ríos** — https://ahora.com.ar/ (confirmado). Portal digital de Canal 9 Litoral (canal de aire de Paraná desde 1985, cubre gran parte de la provincia por repetidoras). Tiene página propia de feeds: https://ahora.com.ar/contenidos/rss.html. **No confundir** con "Entre Ríos Ahora" (entreriosahora.com) ni con "Entre Ríos Ya" (entreriosya.com.ar) — tres sitios distintos con nombres parecidos.
+- **Bicameral** — https://www.bicameral.com.ar/ (confirmado). Foco declarado en cobertura legislativa/política de Entre Ríos. **RSS confirmado**: https://www.bicameral.com.ar/feed/.
+- **Entre Ríos Ahora** — https://entreriosahora.com/ (confirmado, "Periodismo libre"). Foco: política provincial, justicia, Paraná. **RSS confirmado**: https://entreriosahora.com/feed/.
+- **Página Política** — https://paginapolitica.com/ (ojo: el dominio real NO es `.com.ar`, ese redirige acá). Pese al nombre genérico es ER-específico (menú con secciones por ciudad: Paraná, Concordia, Colón, Villaguay). RSS: no (`/feed/` da error 500 de WordPress).
+- **Página Judicial** — https://paginajudicial.com/ (confirmado). Foco judicial con especialización marcada en Poder Judicial y Consejo de la Magistratura de ER. **RSS confirmado**: https://paginajudicial.com/feed/.
+- **Informe Digital** — https://informedigital.com.ar/ (confirmado, desde 2002). RSS sin confirmar (bloquea fetch automatizado).
+- **Diario Junio** — https://www.diariojunio.com.ar/ (confirmado). **RSS confirmado** en `/feed/`.
+- **AIM Digital** — https://www.aimdigital.com.ar/ (confirmado). Agencia de Informaciones Mercosur, fundada en 1996 en Paraná, miembro de ADEPA desde 2016 — produce cables distribuidos a otros medios de la región, además de su propio diario digital (desde 2004). RSS sin confirmar todavía.
+
+### Medios locales por ciudad/departamento (mapeado 2026-09-07, confirmado con Francisco ciudad por ciudad)
+
+Entre Ríos tiene 17 departamentos; Paraná ya está cubierta arriba (medios provinciales). Se incluyen además dos localidades que no son cabecera de departamento pero tienen medio propio real (Crespo, Santa Elena).
+
+- **Colón** — El Entre Ríos (https://www.elentrerios.com/, fundado 1883, con micrositio propio para Colón), ColonNoticias (https://colonnoticias.com.ar/).
+- **Concordia** — CN Digital (https://www.cndigital.com.ar/, se autodescribe como el diario digital más visitado de Concordia), Diario Concordia (https://www.diarioconcordia.com.ar/), Diario El Sol (https://diarioelsol.com.ar/), Diario Río Uruguay (https://diarioriouruguay.com.ar/), LT15 Concordia (https://lt15concordia.com.ar/, radio con portal propio), El Heraldo (https://www.elheraldo.com.ar/), El Enfoque (https://diarioelenfoque.com.ar/).
+- **Diamante** — Blanca Ciudad Noticias (https://blancaciudadnoticias.com.ar/).
+- **Federación (departamento) / Chajarí** — TalCual Chajarí (https://www.talcualchajari.com.ar/), FM del Este 100.5 (https://fmdelestechajari.com.ar/), La Fusta Digital (medio con al menos un antecedente reportado de censura/represalia policial — ver nota en Diario Nova al mapearlo, puede ser relevante para el eje de accountability del proyecto).
+- **Federal** — Federal Al Día (https://federalaldia.com.ar/, 20 años en funcionamiento).
+- **Feliciano** — sin medio local confiable identificado todavía (departamento de baja población).
+- **Gualeguay** — El Día de Gualeguay (https://eldiadegualeguay.com/), El Debate Pregón (https://www.diariodebatepregon.com.ar/, desde 1901), LT38 Radio Gualeguay (https://www.radiogualeguay.com.ar/).
+- **Gualeguaychú** — R2820 (https://www.r2820.com/), El Día Online (https://www.eldiaonline.com/), Diario El Argentino (https://diarioelargentino.com/).
+- **Islas del Ibicuy** — sin medio local confiable identificado (departamento de baja población).
+- **La Paz** — La Paz Digital (https://lapazdigital.com.ar/), Diario La Paz (dos dominios encontrados, https://www.diariolapaz.com.ar/ y http://diariolapaz.ar/ — confirmar cuál está vigente antes de automatizar).
+- **Nogoyá** — Nogoyá Times (https://nogoyatimes.com/).
+- **San Salvador** — Mercurio Noticias (https://www.mercurionoticias.com.ar/), La Semana Entre Dos Ríos (https://lasemanaentredosrios.com/).
+- **Tala (Rosario del Tala)** — sin sitio propio confiable identificado (solo presencia en Facebook, "NotiTala").
+- **Uruguay (departamento) / Concepción del Uruguay** — Babel Digital (https://babeldigital.com.ar/), La Pirámide (https://www.lapiramide.net/), La Prensa Federal (https://www.laprensafederal.com.ar/), La Calle.
+- **Victoria** — DiarioVictoria.com.ar (https://diariovictoria.com.ar/), LT39 Noticias (https://lt39noticias.com.ar/), Victoria Primicias (https://victoriaprimicias.com.ar/), Diario La Mañana (desde 1933, sin sitio propio confirmado más allá de su página de Facebook).
+- **Villaguay** — Infor-Villaguay.com (https://www.infor-villaguay.com/), AP Noticias (https://www.apnoticias.com.ar/). **El Pueblo**, el diario histórico de Villaguay (100 años), **cerró en marzo de 2026** — no es fuente activa, no cargar.
+- **Crespo** (departamento Paraná, no es cabecera) — Paralelo32 (https://www.paralelo32.com.ar/).
+- **Santa Elena** (departamento La Paz, no es cabecera) — Santa Elena Digital (https://santaelenadigital.com.ar/, "Diario y Radio de Santa Elena").
+
+**Portales multi-ciudad a tener en cuenta aparte** (no son "el medio local" de ninguna ciudad puntual, cubren varias con sección propia por localidad — no duplicar como si fueran locales de cada una): Uno Entre Ríos, EntreRíosYA, Al Día Entre Ríos, Ahora (todos ya listados arriba como provinciales o mencionados en el mapeo).
 
 ## Próximos pasos
 
@@ -179,3 +217,8 @@ Ver `docs/aliados-y-financiamiento.md` sobre la lógica de citar/linkear en vez 
 - ~~Área de desarrollo económico municipal (Paraná) y Secretaría de Trabajo/Economía provincial~~ — resuelto (2026-09-03), ver secciones "Gobierno provincial" y "Municipalidad de Paraná" arriba. Pendiente de verificación manual en varios casos porque los sitios oficiales (provincial y municipal) bloquean o limitan el fetch automatizado — revisar en navegador antes de depender de ellos para producción.
 - ~~Confirmar si "Casa de Entre Ríos" es el portal de prensa oficial~~ — resuelto (2026-09-03): es la oficina de representación en Buenos Aires, no el portal de prensa. El portal correcto es https://portal.entrerios.gov.ar/noticias/ (ver sección Gobierno provincial).
 - Esta lista prioriza cantidad de cobertura sobre verificación exhaustiva de cada URL (RSS, vigencia de la sección de prensa) — antes de depender de ella para producción, correr una auditoría con `mapear-fuentes`. **Para una pasada grande** (una categoría entera, no un organismo puntual) preferir correrla como fork — ver nota en `skills/mapear-fuentes/SKILL.md`.
+- **Medios (2026-09-07)**: mapeo provincial + local completado (ver sección "Medios" arriba), a partir de investigación + confirmación directa de Francisco ciudad por ciudad. Pendiente antes de poder automatizar el futuro agregador "Medios" de `admin/index.html`:
+  - Verificar RSS real de cada medio (hoy solo confirmado en los marcados explícitamente arriba).
+  - Ampliación geográfica a Santa Fe, Corrientes, Córdoba y Uruguay (deliberadamente pospuesta hasta probar el filtro de entidades con el mapeo de ER primero).
+  - Armar `organismos_empresas` (semilla: socios de UIER/CEER/cámaras sectoriales ya mapeadas arriba) y `personalidades` (legisladores provinciales y nacionales por ER, intendentes, dirigentes partidarios, gabinete provincial) — listas vivas, se van a ir ampliando con la lectura real de los medios, no cerradas de entrada.
+  - Definir lista de tópicos a filtrar (política, partidos políticos, desarrollo económico, economía, industria, empleo, comercio, agro, impuestos, servicios públicos, transparencia, gobierno, municipios, legislatura, concejos deliberantes, justicia/Poder Judicial, órganos de control, presupuesto y finanzas públicas, energía y tarifas, infraestructura y obra pública, construcción, sector inmobiliario, desarrollo urbano, comercio exterior/exportaciones, elecciones, educación institucional, salud pública institucional, ambiente y recursos naturales) — pendiente decidir si se suma seguridad/policial (Francisco todavía no lo definió).
