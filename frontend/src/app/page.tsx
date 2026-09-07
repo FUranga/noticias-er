@@ -32,20 +32,25 @@ function Kicker({ post }: { post: WpPost }) {
 
 // Etiqueta chica de estado -- se usa con cuentagotas (solo el ítem más
 // reciente de la portada), no en cada nota. Un badge en todos lados deja de
-// significar algo. Relleno sólido, no un borde vacío -- un contorno con texto
-// de color adentro termina pareciendo un cupón de descuento, no una etiqueta
-// editorial (ningún diario de referencia la arma así).
+// significar algo.
+//
+// Verificado 2026-09-07 (no había ningún caso "en vivo" real de NYT para
+// mirar en el momento, pero sí lo vimos en El País: su etiqueta roja
+// "ENCUESTA DE 40DB." era texto rojo sobre blanco, sin caja ni borde --
+// mismo tratamiento que un kicker, solo que en rojo. Una caja sólida termina
+// leyendo más a cupón de e-commerce que a etiqueta editorial (irónicamente
+// había un banner de ofertas con ese estilo exacto al lado, en la misma
+// visita a nytimes.com).
 function Etiqueta({ texto }: { texto: string }) {
-  return (
-    <span className="mr-2 inline-block bg-accent px-1.5 py-0.5 align-middle font-ui text-[0.65rem] font-bold uppercase tracking-[0.07em] text-white">
-      {texto}
-    </span>
-  );
+  return <span className="kicker kicker-accent mr-2 align-middle">{texto}</span>;
 }
 
 // Detalle chico ("X MIN de lectura") al lado de la bajada -- NYT lo muestra
 // junto a sus notas destacadas ("4 MIN READ"). Da sensación de diario vivo,
 // no es solo decoración.
+//
+// En duda (2026-09-07, Francisco): por ahora se deja, pero podría terminar
+// sacándose -- no está resuelto que valga la pena mantenerlo.
 function TiempoLectura({ post }: { post: WpPost }) {
   return <span className="font-ui text-xs text-neutral-500">{minutosDeLectura(post)} min de lectura</span>;
 }
@@ -318,7 +323,7 @@ export default async function HomePage() {
         )}
 
         {lead && (
-          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.4fr_1fr]">
+          <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[1fr_1.6fr_1fr]">
             <Rio posts={columnaIzq} titulo="Última hora" etiquetaPrimero="Último momento" />
 
             {/* Columna central: contenida entre reglas verticales, foto

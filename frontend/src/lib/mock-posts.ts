@@ -13,55 +13,65 @@ import type { WpPost } from "./wp";
 // via Special:FilePath con ancho fijo (recomendado por Wikimedia para no
 // pegarle a los originales a pleno tamaño). Esto sigue siendo demo -- para
 // notas reales rige la cascada de docs/politica-imagenes.md, no esto.
+//
+// Crédito verificado por archivo contra la ficha real de Wikimedia Commons
+// (API `imageinfo|extmetadata`, 2026-09-07) -- Francisco corrigió a tiempo
+// una primera versión que decía solo "Wikimedia Commons" genérico: el
+// formato correcto según docs/politica-imagenes.md es `Foto: [Autor] /
+// Wikimedia Commons, [licencia]`, con el autor real de cada archivo, no la
+// plataforma sola. Las fotos de la colección "Aprender (Entre Ríos)" (Salto
+// Grande, Villaguay) son de una donación real del Consejo General de
+// Educación de Entre Ríos a Wikimedia Commons (convenio CGE/Wikimedia
+// Argentina) -- no es un error, es el autor real de esas dos fotos puntuales.
 const FOTOS_POR_CATEGORIA: Record<string, { url: string; credito: string }[]> = {
   politica: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Entrada%20principal%20de%20la%20Casa%20de%20Gobierno%20de%20Entre%20R%C3%ADos%2C%20en%20la%20ciudad%20de%20Paran%C3%A1..JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Lutetios / Wikimedia Commons, CC BY-SA 3.0",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Casa%20de%20gobierno%20Entre%20R%C3%ADos%201.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Doctor seisdedos / Wikimedia Commons, CC BY-SA 3.0",
     },
   ],
   economia: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20de%20Concordia%20-%20Entre%20R%C3%ADos.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Agencia Oka / Wikimedia Commons, CC BY-SA 4.0",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Represa%20Salto%20Grande.jpg?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Shant / Wikimedia Commons, CC BY 2.5",
     },
   ],
   justicia: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Paran%C3%A1%2010.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Wikimedia Commons, dominio público",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Casa%20de%20gobierno%20Entre%20R%C3%ADos%201.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Doctor seisdedos / Wikimedia Commons, CC BY-SA 3.0",
     },
   ],
   municipios: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20de%20Colon%2C%20Entre%20Rios.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Juandrovandi / Wikimedia Commons, CC BY-SA 4.0",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Aprender%20(Entre%20R%C3%ADos)%20-%20Villaguay%20-%20Municipalidad.jpg?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Consejo General de Educación de Entre Ríos / Wikimedia Commons, CC BY-SA 4.0",
     },
   ],
   sociedad: [
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Paran%C3%A1%2010.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Wikimedia Commons, dominio público",
     },
     {
       url: "https://commons.wikimedia.org/wiki/Special:FilePath/Costanera%20de%20Colon%2C%20Entre%20Rios.JPG?width=1200",
-      credito: "Foto: Wikimedia Commons",
+      credito: "Foto: Juandrovandi / Wikimedia Commons, CC BY-SA 4.0",
     },
   ],
 };
