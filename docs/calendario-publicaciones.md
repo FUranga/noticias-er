@@ -24,6 +24,7 @@ Se ordena por periodicidad, no por organismo, para que sea más fácil convertir
 | Índices de producción industrial (manufacturero, minero, pesquero) | INDEC | Mensual |
 | Informe consolidado de coparticipación girada por provincia | Ministerio de Economía / Secretaría de Hacienda | Mensual, días posteriores al cierre del mes |
 | Escala salarial de empleados municipales de Paraná | Municipalidad de Paraná (datos.parana.gob.ar) | Mensual |
+| Vencimientos de Ingresos Brutos / monotributo unificado (recordatorios) | ATER | Mensual, fecha varía por terminación de CUIT |
 
 ## Trimestral
 
@@ -53,6 +54,7 @@ Se ordena por periodicidad, no por organismo, para que sea más fácil convertir
 | Presupuesto municipal de Paraná (aprobación) | HCD Paraná | Fin de año calendario (para el ejercicio siguiente) |
 | Plan Anual de Acción de Auditoría (POA/PAA) | AGN | Aprobado en febrero de cada año |
 | Censo Nacional (próximo: 2032) | INDEC | Cada 10 años (último: 2022) |
+| Ley Impositiva Anual (alícuotas de Ingresos Brutos, Inmobiliario, Automotor, Sellos) | ATER / Legislatura de ER | Fin de año calendario, para el ejercicio siguiente (la de 2026 fue la Ley 11.247, sancionada y publicada en enero) — ver `docs/impuestos.md` |
 
 ## Sin periodicidad fija pero "vigilables" (alertar cuando aparecen)
 
@@ -60,6 +62,7 @@ Se ordena por periodicidad, no por organismo, para que sea más fácil convertir
 - Resoluciones del Colegio de Auditores Generales de la AGN que mencionen Entre Ríos — el buscador público se actualiza sin calendario fijo; conviene un scraping periódico con palabras clave ("Entre Ríos", "Paraná", "Salto Grande", nombres de municipios).
 - Fallos de la CSJN o de la Cámara Federal de Paraná en causas de relevancia pública.
 - Convocatorias a concurso del Consejo de la Magistratura (nacional y provincial) para cargos con asiento en la provincia.
+- Moratorias/regímenes de regularización fiscal provincial (ATER) — el de 2025 (Decreto 1843/2025) no tiene antecedente confirmado de periodicidad fija, ver `docs/impuestos.md`.
 
 ## Sugerencia operativa
 

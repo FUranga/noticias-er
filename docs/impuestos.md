@@ -56,7 +56,7 @@ Por decreto reglamentario (**Decreto 301/2026**, según cobertura especializada 
 
 ## Fuentes mapeadas
 
-- **ATER** (`ater.gob.ar` / `ater.gov.ar`) — verificado 2026-09-07: sitio en **ASP clásico** (tecnología legacy de Microsoft, no WordPress), sin RSS ni API — descartado como candidato a mecanismo de ingesta automática tipo EPRE. Publica novedades (vencimientos, moratorias, avisos) en un listado paginado sin feed. Si se quiere monitorear, la única vía hoy es revisión manual periódica o un scraper dedicado al listado HTML — no se construyó nada en esta pasada, no está claro que el volumen/valor lo justifique todavía.
+- **ATER** (`ater.gob.ar` / `ater.gov.ar`) — verificado 2026-09-07: sitio en **ASP clásico** (tecnología legacy de Microsoft, no WordPress), sin RSS ni API — descartado como candidato a mecanismo de ingesta automática tipo EPRE directo desde su propio sitio. Ver `docs/fuentes.md` (sección Gobierno provincial) para el análisis completo de si esto es en la práctica un hueco real o si sus anuncios/resoluciones ya se capturan indirectamente vía el portal general de gobierno y el Boletín Oficial provincial — marcado explícitamente como sin verificar caso por caso todavía.
 - **AFIM Paraná** (`afim.parana.gob.ar`) — sitio de trámites municipales, no se evaluó mecanismo de ingesta (no parece ser una fuente de "novedades" sino de trámites/consultas).
 - **Ministerio de Economía, Hacienda y Finanzas de Entre Ríos** — ya mapeado en `docs/fuentes.md` (redirige a `portal.entrerios.gov.ar/haciendayfinanzas/`), sin profundizar en esta pasada específicamente para el ángulo tributario.
 
