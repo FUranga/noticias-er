@@ -2514,7 +2514,7 @@
     "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUDhXYnJqOVFfV0lOV19zNmdfU3R2dG0tbUUyTEduWmtoYW51Wmk0a05SdnlQT216M0NOQmdsTXJqYy02MFFXX21MN2lkTVBaTUFiWEJGaGUtWDhEcWJiZTFSaWRzM2Fvc1paZXVOWlJIV1N4YWxtVExQR3ZNSVFJcTdLQjFmRVJqbHN1MFZPblRoQjRHNjEzUTNoakY5T3dEVHc5SUNKczlWMkxWNW13bkVIVU9XaDk5OGRFN0Q2ZE5IOUhPd2RGN1k3dEdhYzVOTUJXUW1VWVh3RE1iV0xaMjhFM1VuM1dZLW5qREZQbUZfYzZsanRzSkJvWXgtNmlDV0hJMVhqOGdpMjFvZEVFNXd3UzJpUk12VGQ0?oc=5",
     "texto_original": "El modelo cordobés sigue haciendo escuela: Entre Ríos aprobó su propia ley de consorcios camineros, aunque con reparos por la tercerización y el esquema de controles\n  \nBichos de Campo",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "referido",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -2525,7 +2525,8 @@
     ],
     "lugares_matcheados": [
       "entre ríos"
-    ]
+    ],
+    "nota_referido": "Es un tema interesante. Mi intencion era cubrirlo directamente, pero si no lo hiciera podria referirlo. En un esquema normal lo hubiera cubierto directamnete. Amerita hacer un seguimiento: como seria exactamente n la practica."
   },
   {
     "id": "medios-google-news-entre-rios-76481b7a30d3",
