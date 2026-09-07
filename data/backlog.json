@@ -3102,11 +3102,11 @@
     "link": "https://entreriosahora.com/colectivos-12/",
     "texto_original": "Por obras en los carriles exclusivos de calle Córdoba, modifican los recorridos de las líneas G y P2. La línea G modificará su recorrido y circulará por calles Laprida, Sarmiento, Urquiza y Ameghino, para luego retomar su recorrido habitual. Las paradas provisorias estarán ubicadas en Laprida y Santiago del Estero y Laprida y Mendoza. En tanto, la línea P2, por Almafuerte, circulará por Santa Fe, Alameda de la Federación y Buenos Aires, para luego continuar por su recorrido habitual. La parada provisoria estará ubicada en el Museo de Bellas Artes. Las modificaciones son temporales y se mantendrán mientras continúen los trabajos sobre calle Córdoba, indicó la Municipalidad de Paraná.\n\n \n\nDe la Redacción de Entre Ríos Ahora",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:23Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Podria funcionar como servicio",
     "topicos_matcheados": [
       "empleo",
       "municipios"
