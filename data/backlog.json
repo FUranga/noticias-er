@@ -2536,11 +2536,11 @@
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OEVEc0pxTVB2T3FIeGJJMUdfMXI2WmxwZ21CbEpJNjRQa2dwM2FyVG0tZUM1RGNZMHNveW15a21EMmJLT25mRFpQanB5NnIzdjk2d0RpYTlfUQ?oc=5",
     "texto_original": "Estudiantes de escuela técnica presentaron un proyecto de robótica con inteligencia artificial\n  \nGobierno de Entre Ríos",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:21Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "Promocion del gobierno.",
     "topicos_matcheados": [
       "educacion"
     ],
