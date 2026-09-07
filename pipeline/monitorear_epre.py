@@ -33,7 +33,6 @@ Uso:
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
-from xml.etree import ElementTree
 
 import requests
 
@@ -68,7 +67,7 @@ def main() -> None:
     print(f"Consultando {FEED_URL} ...")
     try:
         noticias = obtener_noticias(FEED_URL)[:MAX_ITEMS]
-    except (requests.RequestException, ElementTree.ParseError) as e:
+    except (requests.RequestException, RuntimeError) as e:
         print(f"No se pudo consultar el feed: {e}")
         sys.exit(1)
 

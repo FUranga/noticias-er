@@ -16,6 +16,15 @@ Limite conocido: WordPress devuelve los ultimos 10 items por default en
 /feed/. Correr seguido (cada 30-60 min es de sobra dado el ritmo de
 publicacion de este organismo) para no perderse ninguno.
 
+Parseo con `feedparser` (no `xml.etree`, ver incidente 2026-09-07): un feed
+de WordPress alimentado por gacetillas de prensa pegadas desde Word/Google
+Docs puede traer HTML mal formado dentro de `content:encoded` (una etiqueta
+sin cerrar, una entidad suelta) que rompe un parser XML estricto -- fallo
+real en produccion: `mismatched tag` en pleno cron de GitHub Actions.
+`feedparser` esta hecho justamente para tolerar feeds del mundo real que no
+son XML perfecto, y expone los mismos campos (`title`, `link`, `published`,
+`author`, `content`) sin tener que lidiar con namespaces a mano.
+
 Uso:
     python monitorear_senado_er.py
 """
@@ -23,11 +32,10 @@ Uso:
 import html
 import re
 import sys
-from datetime import timezone
-from email.utils import parsedate_to_datetime
+from datetime import datetime, timezone
 from pathlib import Path
-from xml.etree import ElementTree
 
+import feedparser
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -36,8 +44,6 @@ from monitorear_gobierno_er import cargar_backlog, guardar_backlog  # noqa: E402
 FEED_URL = "https://www.senadoer.gob.ar/feed/"
 FUENTE_ID_PREFIJO = "senadoer"
 FUENTE_NOMBRE = "Cámara de Senadores de Entre Ríos"
-
-NS = {"content": "http://purl.org/rss/1.0/modules/content/", "dc": "http://purl.org/dc/elements/1.1/"}
 
 
 def limpiar_html(texto_html: str | None) -> str:
@@ -52,21 +58,24 @@ def slug_de_link(link: str) -> str:
 
 
 def obtener_noticias(feed_url: str = FEED_URL) -> list[dict]:
-    resp = requests.get(feed_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
-    resp.raise_for_status()
-    root = ElementTree.fromstring(resp.content)
+    parsed = feedparser.parse(feed_url, agent="Mozilla/5.0")
+    if parsed.bozo and not parsed.entries:
+        # "bozo" solo marca que el feed no era XML perfecto -- feedparser ya
+        # lo tolera (ver docstring del modulo). Solo es un error real si
+        # ademas no se pudo sacar ninguna entrada.
+        raise RuntimeError(f"Feed invalido y sin entradas: {parsed.get('bozo_exception')}")
 
     items = []
-    for item in root.findall(".//item"):
-        titulo = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        pub_date_raw = item.findtext("pubDate") or ""
-        creator = (item.findtext("dc:creator", namespaces=NS) or "").strip()
-        cuerpo_html = item.findtext("content:encoded", namespaces=NS) or ""
+    for entry in parsed.entries:
+        titulo = (entry.get("title") or "").strip()
+        link = (entry.get("link") or "").strip()
+        creator = (entry.get("author") or "").strip()
+        contenido = entry.get("content")
+        cuerpo_html = contenido[0].get("value") if contenido else entry.get("summary") or ""
 
         try:
-            fecha = parsedate_to_datetime(pub_date_raw).astimezone(timezone.utc).strftime("%Y-%m-%d")
-        except (TypeError, ValueError):
+            fecha = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).strftime("%Y-%m-%d")
+        except (TypeError, AttributeError):
             fecha = ""
 
         items.append(
@@ -83,8 +92,6 @@ def obtener_noticias(feed_url: str = FEED_URL) -> list[dict]:
 
 
 def item_backlog_desde_rss(noticia: dict) -> dict:
-    from datetime import datetime
-
     fuente = FUENTE_NOMBRE
     if noticia["creator"] and noticia["creator"].lower() not in ("prensa vicegobernación", "admin"):
         fuente = f"{FUENTE_NOMBRE} ({noticia['creator']})"
@@ -109,7 +116,7 @@ def main() -> None:
     print(f"Consultando {FEED_URL} ...")
     try:
         noticias = obtener_noticias()
-    except (requests.RequestException, ElementTree.ParseError) as e:
+    except (requests.RequestException, RuntimeError) as e:
         print(f"No se pudo consultar el feed: {e}")
         sys.exit(1)
 
