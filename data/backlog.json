@@ -3708,11 +3708,11 @@
     "link": "https://www.diariojunio.com.ar/investigan-un-presunto-pago-con-cocaina-a-trabajadores-de-la-cosecha-de-concordia/",
     "texto_original": "Una investigación llevada adelante por la División Unidad Operativa Federal Concordia de la Policía Federal Argentina, bajo la dirección del Ministerio Público Fiscal, a cargo del Dr. Bernhardt, terminó este viernes 4 de septiembre con la detención de dos personas y el secuestro de cocaína, dinero en efectivo y teléfonos celulares. La investigación apunta a determinar si se entregaba cocaína a cosecheros como parte del pago por sus tareas en establecimientos citrícolas de la región.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-07T22:37:25Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "policial",
     "topicos_matcheados": [
       "politica",
       "empleo",
