@@ -306,7 +306,7 @@ function BannerNewsletter() {
         Todos los días, a las 8
       </p>
       <p className="font-headline mt-2 text-2xl font-bold sm:text-3xl">
-        Recibí el resumen de la agenda institucional de Entre Ríos
+        Recibí el resumen de las noticias de Entre Ríos
       </p>
       <p className="font-ui mt-2 text-sm text-white/70">
         Un newsletter con lo que se decidió y lo que falta decidir. Sin spam.

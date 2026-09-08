@@ -97,5 +97,104 @@
     "detalle": null,
     "agregado_el": "2026-09-07T22:56:21.114Z",
     "estado": "pendiente"
+  },
+  {
+    "id": "goberer-79638-tnc-cierre-convocatoria",
+    "fecha": "2026-09-11",
+    "evento": "Cierra la convocatoria del TNC/Secretaria de Cultura de ER para directores teatrales (La Vieja Usina, Parana)",
+    "tipo": "plazo",
+    "fuente": "Teatro Nacional Cervantes / Secretaria de Cultura de Entre Rios",
+    "origen_id": "goberer-79638",
+    "detalle": "Descartado como nota (protocolar), fecha guardada por si el cierre o los proyectos seleccionados dan lugar a algo (20 aniversario TNC Produce).",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "goberer-79673-noche-museos-inscripcion",
+    "fecha": "2026-10-23",
+    "evento": "Cierra la inscripcion para participar de la Noche de los Museos Entrerrianos",
+    "tipo": "plazo",
+    "fuente": "Secretaria de Cultura de Entre Rios",
+    "origen_id": "goberer-79673",
+    "detalle": "El evento en si es el 6/11 (19 a 24hs). Descartado como nota (fuera de alcance, cultura), pero se guardan ambas fechas.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "goberer-79673-noche-museos-evento",
+    "fecha": "2026-11-06",
+    "evento": "Noche de los Museos Entrerrianos",
+    "tipo": "evento",
+    "fuente": "Secretaria de Cultura de Entre Rios",
+    "origen_id": "goberer-79673",
+    "detalle": "Ver tambien goberer-79673-noche-museos-inscripcion (cierre de inscripcion 23/10).",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "boletin-lic-53517-cartel-corporeo-cdu",
+    "fecha": "2026-09-23",
+    "evento": "Apertura de sobres, Licitacion Publica 25/2026 (2do llamado) de la Municipalidad de Concepcion del Uruguay: cartel corporeo",
+    "tipo": "plazo",
+    "fuente": "Boletin Oficial de Entre Rios",
+    "origen_id": "boletiner-28410-lic-53517",
+    "detalle": "Segundo llamado -- verificar que paso con el primero. Monto oficial no confirmado en el aviso.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "boletin-lic-53478-pavimentacion-colon",
+    "fecha": "2026-09-24",
+    "evento": "Apertura de sobres, licitacion de materiales para obras de pavimentacion urbana en Colon",
+    "tipo": "plazo",
+    "fuente": "Boletin Oficial de Entre Rios",
+    "origen_id": "boletiner-28410-lic-53478",
+    "detalle": "Presupuesto oficial 237.000.000 de pesos segun Decreto 722/2026.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "boletin-lic-52916-luminarias-chajari",
+    "fecha": "2026-09-18",
+    "evento": "Apertura de sobres, licitacion de 400 luminarias LED de la Municipalidad de Chajari",
+    "tipo": "plazo",
+    "fuente": "Boletin Oficial de Entre Rios",
+    "origen_id": "boletiner-28410-lic-52916",
+    "detalle": "Presupuesto oficial 90.000.000 de pesos, Decreto 881/2026.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "boletin-lic-53387-pileta-gilbert",
+    "fecha": "2026-09-30",
+    "evento": "Apertura de sobres, licitacion de construccion de pileta semiolimpica en Gilbert",
+    "tipo": "plazo",
+    "fuente": "Boletin Oficial de Entre Rios",
+    "origen_id": "boletiner-28411-lic-53387",
+    "detalle": "Presupuesto oficial 75.000.000 de pesos.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "boletin-lic-50748-servidor-contaduria",
+    "fecha": "2026-09-22",
+    "evento": "Apertura de ofertas, licitacion de un servidor de base de datos para la Contaduria General de la Provincia",
+    "tipo": "plazo",
+    "fuente": "Boletin Oficial de Entre Rios",
+    "origen_id": "boletiner-28410-lic-50748",
+    "detalle": "Alquiler por 36 meses con posibilidad de prorroga, valor del pliego 50.000 pesos.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "diputados-er-pensiones-vitalicias-sesion",
+    "fecha": "2026-09-09",
+    "evento": "Diputados de Entre Rios vota la sancion definitiva de la derogacion de las pensiones vitalicias de gobernador/vice (Ley 4.506)",
+    "tipo": "sesion legislativa",
+    "fuente": "La Paz Digital",
+    "origen_id": "medios-la-paz-digital-diputados-trata-este-miercoles-la-derogacion-de-las-pensiones-vitalicias-para-gobernador-y-vice-en-entre-rios",
+    "detalle": "La version que vuelve de Diputados ya no tiene la clausula que permitia quitar el beneficio a exgobernadores con condena firme por corrupcion (eliminada en el Senado) y la derogacion no es retroactiva.",
+    "agregado_el": "2026-09-08T10:01:06Z",
+    "estado": "pendiente"
   }
 ]
