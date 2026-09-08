@@ -202,7 +202,7 @@ def main() -> None:
         print(f"Consultando {medio['nombre']} ({origen}) ...")
         try:
             items = obtener_items_de_medio(medio)
-        except (requests.RequestException, RuntimeError) as e:
+        except Exception as e:  # noqa: BLE001 -- una fuente caida/rara no debe tirar abajo todo el lote
             print(f"  No se pudo consultar {medio['nombre']}: {e}")
             continue
 

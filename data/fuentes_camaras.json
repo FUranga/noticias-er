@@ -1,0 +1,8 @@
+[
+  {"id": "uier", "nombre": "Unión Industrial de Entre Ríos", "rss": "https://uier.org.ar/feed/"},
+  {"id": "ceer", "nombre": "Consejo Empresario de Entre Ríos", "rss": "https://www.ceer.org/feed/"},
+  {"id": "centro-comercial-parana", "nombre": "Centro Comercial e Industrial de Paraná", "rss": "https://centrocomercialparana.com.ar/feed/"},
+  {"id": "feder", "nombre": "Federación Económica de Entre Ríos", "rss": "https://federentrerios.com.ar/feed/"},
+  {"id": "bolsacer", "nombre": "Bolsa de Cereales de Entre Ríos", "rss": "https://www.bolsacer.org.ar/site/feed/"},
+  {"id": "camarco-er", "nombre": "CAMARCO Entre Ríos", "rss": "https://camarcoentrerios.org.ar/rss.xml"}
+]

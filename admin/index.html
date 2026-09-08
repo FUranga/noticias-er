@@ -122,7 +122,14 @@ const MACROS = [
   // "Medios" filtra por prefijo de id (todos los items que carga
   // pipeline/monitorear_medios.py llevan "medios-"), no por un único
   // "fuente" como el Boletín -- acá hay muchos medios distintos, no uno.
-  { key: 'medios', label: 'Medios', idPrefix: 'medios-' },
+  { key: 'medios', label: 'Medios', idPrefix: 'medios-', estadosMedios: true },
+  // "Empresas" son comunicados propios de camaras/empresas (pipeline/
+  // monitorear_empresas.py, prefijo "empresa-") -- a diferencia de
+  // "Medios", esto SÍ es material propio de la fuente (como un comunicado
+  // de gobierno), así que usa los ESTADOS normales (sin estadosMedios).
+  // Volumen alto esperado (70+ fuentes) -- separada para no inundar
+  // "Cablera" general.
+  { key: 'empresas', label: 'Empresas', idPrefix: 'empresa-' },
   { key: 'agenda', label: 'Agenda', esAgenda: true },
 ];
 
@@ -374,7 +381,7 @@ function renderTabs() {
     return;
   }
   const enMacro = itemsEnMacro(activeMacro);
-  const estados = macro.idPrefix ? ESTADOS_MEDIOS : ESTADOS;
+  const estados = macro.estadosMedios ? ESTADOS_MEDIOS : ESTADOS;
   estados.forEach(e => {
     const count = enMacro.filter(i => i.estado === e.key).length;
     const btn = document.createElement('button');

@@ -1,0 +1,46 @@
+name: Monitorear STJ ER
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitorear-stj-er
+  cancel-in-progress: false
+
+jobs:
+  monitorear:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - run: python pipeline/monitorear_stj.py
+
+      - name: Commit y push si hay novedades
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/backlog.json; then
+            echo "Sin cambios en data/backlog.json, no hay nada que commitear."
+          else
+            git add data/backlog.json
+            git commit -m "Cablera: noticias nuevas del STJ/Poder Judicial de ER (automatico)"
+            for intento in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "Push rechazado (intento $intento), reintentando con rebase..."
+              git fetch origin main
+              git rebase origin/main
+            done
+          fi
