@@ -4,7 +4,7 @@ Registro de organismos y organizaciones a monitorear para la cobertura reactiva 
 
 **Estado de esta primera versión**: armada con una pasada de búsqueda web puntual (no un relevamiento exhaustivo). Las URLs marcadas "confirmado por búsqueda" resolvieron en la búsqueda pero no fueron verificadas ítem por ítem con WebFetch (RSS, estructura de la sección de prensa). Todo lo marcado "no confirmado" necesita trabajo manual o una pasada de `mapear-fuentes`. Priorizar desarrollo económico/producción dentro de cada organismo, por el foco inicial del proyecto.
 
-**Índice**: Provincial ([Gobierno](#gobierno-provincial) · [Legislatura](#legislatura-de-entre-ríos) · [Servicios públicos regulados](#servicios-públicos-regulados-y-prestadoras-energía-agua-gas-transporte) · [Órganos de control](#órganos-de-control-transparencia-y-justicia-provincial)) · [Municipal](#municipalidad-de-paraná) ([Concejo Deliberante](#concejo-deliberante-de-paraná)) · [Nacional](#nacional-organismos-con-impacto-en-entre-ríos) · Privado/sindical/académico ([Organizaciones privadas](#organizaciones-privadasempresarias) · [Sindicatos](#sindicatos) · [ONGs y académicas](#ongs-e-instituciones-académicas)) · [Medios locales](#medios-locales-para-pensar-alianzas-no-para-replicar-cobertura)
+**Índice**: Provincial ([Gobierno](#gobierno-provincial) · [Legislatura](#legislatura-de-entre-ríos) · [Servicios públicos regulados](#servicios-públicos-regulados-y-prestadoras-energía-agua-gas-transporte) · [Órganos de control](#órganos-de-control-transparencia-y-justicia-provincial)) · [Municipal](#municipalidad-de-paraná) ([Concejo Deliberante](#concejo-deliberante-de-paraná)) · [Nacional](#nacional-organismos-con-impacto-en-entre-ríos) · Privado/sindical/académico ([Organizaciones privadas](#organizaciones-privadasempresarias) · [Sindicatos](#sindicatos) · [ONGs y académicas](#ongs-e-instituciones-académicas)) · [Organizaciones vecinales](#organizaciones-vecinales) · [Medios locales](#medios-locales-para-pensar-alianzas-no-para-replicar-cobertura)
 
 ## Gobierno provincial
 
@@ -174,6 +174,48 @@ Distinto en lógica al resto del mapeo: no son organismos que gobiernan Entre R�
 - **Universidad Autónoma de Entre Ríos (UADER)** — portal de noticias: https://noticias.uader.edu.ar/ (confirmado por búsqueda). Es provincial (no confundir con UNER).
 - **ONGs de desarrollo económico/social locales**: no confirmadas en esta pasada — pendiente de investigación específica.
 
+## Organizaciones vecinales
+
+Categoría (4) del "orden de expansión de fuentes" (ver `docs/vision-y-etapas.md`) — mapeada 2026-09-08. Categoría chica y fragmentada por naturaleza: a diferencia de sindicatos y cámaras empresarias (ver secciones arriba), en ninguna de las ciudades relevadas en esta pasada se encontró una federación u organización paraguas **independiente** con vocería propia — son comisiones/juntas vecinales barriales, reconocidas y coordinadas administrativamente por un área específica de cada municipio (típicamente una Dirección de Comunidades/Comisiones Vecinales, dependiente del área de Participación Ciudadana). Esto cambia el enfoque de ingesta respecto a otras categorías: el canal más valioso no es "una organización que emite comunicados propios" sino, en el mejor caso, una sección temática dentro del sitio municipal.
+
+### Paraná
+
+- **Comisiones vecinales de Paraná** — no se encontró una federación o junta coordinadora independiente (búsqueda dedicada sin resultado real, más allá de organizaciones homónimas de otras provincias/países, ej. FEJUVE de El Alto, Bolivia — no confundir). Las comisiones vecinales de la ciudad (~200 según nota de UNO Entre Ríos de 2016; una fuente sin fecha exacta habla de 206) dependen directamente de la **Dirección de Comunidades Vecinales**, bajo la Subsecretaría de Participación Ciudadana de la Secretaría de Políticas Sociales, Inclusivas y Comunitarias — confirmado por búsqueda, no verificado por WebFetch directo (ver bloqueo abajo). Regidas por la **Ordenanza 8.311** ("Comunidades Vecinales"), con al menos una propuesta de reforma tratada en el Concejo Deliberante (nota "Comisiones Vecinales: Zoff dialogó con vecinalistas sobre la reforma a la ordenanza 8311", `hcdparana.gob.ar`).
+  - **Página municipal** — https://parana.gob.ar/areastematicas/vecinos/comisiones-vecinales — confirmada por búsqueda pero **no accesible por fetch automatizado** (403 con WebFetch y con `Invoke-WebRequest` con user-agent de navegador, 2026-09-08) — mismo bloqueo ya documentado para otras secciones de `parana.gob.ar` en la sección "Municipalidad de Paraná" de este mismo doc. Revisar manualmente desde un navegador.
+  - **Digesto** — https://digesto.parana.gob.ar/index.php/tomos/tomo-i-municipalidad-de-parana/participacion/comunidades-vecinales — mismo bloqueo (403), no accesible por fetch directo.
+  - Sin RSS ni canal propio de comunicados distinto del sitio municipal general (ya cubierto en la sección "Municipalidad de Paraná" de arriba) — no amerita mecanismo de ingesta propio por ahora.
+  - **Domicilio de la Dirección, contradictorio entre fuentes, sin resolver**: una búsqueda la ubica en Buenos Aires 60, 1er piso depto D; otra (nota de 2016) en Méjico 453 — posible mudanza en el tiempo, no verificado cuál es el vigente.
+  - **Canal secundario sin evaluar en profundidad**: la radio municipal Costa Paraná 88.1 tiene un tag dedicado a la Dirección de Comunidades Vecinales (`costa.parana.gob.ar/tag/direccion-de-comunidades-vecinales/`) — podría servir como fuente de novedades, no evaluado en esta pasada.
+  - Comunicados puntuales circulan también por la página de Facebook de la Municipalidad de Paraná (`facebook.com/municipalidaddeparana`), sin cuenta propia de la Dirección confirmada.
+- **Concejo Deliberante — "Concejo en tu barrio"**: no es un vínculo institucional con las juntas vecinales sino un programa de descentralización de sesiones (Ordenanza 9388) que usa escuelas, clubes y sedes de vecinales como locación itinerante — confirmado por búsqueda. El Concejo sí trata temas de comisiones vecinales puntualmente (ver reforma de la Ordenanza 8.311 arriba), pero no se identificó una comisión permanente de Participación Ciudadana con competencia formal sobre vecinales.
+- **Juntas/comisiones vecinales individuales**: aparecen mencionadas con nombre propio en cobertura municipal y de prensa (ej. Mariano Moreno, AATRA, SOETAP, Doctor Pablo Balbi — la más antigua de la ciudad, fundada hacia 1965 —, Los Bretes, Parque España) pero ninguna con sitio o red social propia verificada en esta pasada — sin canal propio confirmado, no se cargan como fuente individual por ahora.
+
+### Concordia
+
+- **Comisiones vecinales de Concordia** — 109 barrios con comisión vecinal reconocida, regidas por la **Ordenanza N° 21.470** (confirmado por búsqueda; el PDF de la ordenanza en `egob.concordia.gob.ar` resolvió pero devolvió contenido binario no legible, no se pudo confirmar el texto completo). Coordinadas por una "Dirección de Coordinación de Comisiones Vecinales" municipal (mencionada en búsqueda, sin URL propia confirmada). Para crear una comisión nueva se exigen 50 firmas de vecinos mayores de 16 años, según la misma búsqueda.
+- **Ejemplo de comisión con presencia propia**: Centro Vecinal de Fomento San Vicente — sin sitio propio; Instagram confirmado: `instagram.com/centrovecinal.fomento_sv/`.
+- Sin RSS ni canal centralizado de comunicados confirmado.
+
+### Gualeguaychú
+
+- **Comisiones vecinales de Gualeguaychú** — 37 comisiones vecinales (sin fecha exacta de corte) bajo el Área de Participación Ciudadana municipal, con una **Dirección de Comisiones Vecinales** propia. **Canal centralizado confirmado y accesible** (a diferencia de Paraná, este sitio no bloqueó el fetch automatizado): https://gualeguaychu.gov.ar/tema/comisiones%20vecinales — listado de notas por comisión/barrio, confirmado por WebFetch (2026-09-08), sin RSS visible en el HTML.
+  - Contacto: comisionesvecinales@gualeguaychu.gov.ar / (03446) 420488 — según búsqueda, no verificado por WebFetch directo.
+- Es, de toda la categoría, el caso con mejor infraestructura de ingesta potencial: sección temática propia, dedicada, y sin el bloqueo de acceso que sí tiene Paraná.
+
+### Villaguay
+
+- **Juntas y/o Comisiones Vecinales** reguladas por las Ordenanzas N° 1392 y N° 1398 (confirmadas como PDFs reales alojados en `villaguay.gob.ar/boletindigital/`, contenido no leído en detalle) — deben firmar convenio con la Municipalidad. Sin organización paraguas ni canal centralizado de comunicados identificado — revisar manualmente.
+
+### Diamante
+
+- **Comisiones vecinales de Diamante** — reconocidas por decreto municipal individual (ej. decretos 472 y 473, para las comisiones de Parque España y La Merced I y II respectivamente). Cubiertas dentro de la sección de prensa general del municipio: https://www.diamante.gob.ar/prensa/ — confirmado por WebFetch (2026-09-08) que carga y no tiene RSS visible; sin sección temática dedicada como la de Gualeguaychú.
+
+### Resto de cabeceras departamentales — sin hallazgo confiable en esta pasada
+
+Colón, Concepción del Uruguay, Victoria, Nogoyá, Chajarí, San Salvador, La Paz, Federal, Gualeguay, Feliciano, Islas del Ibicuy, Tala: una búsqueda dedicada por ciudad no encontró una organización vecinal o área municipal específica con presencia verificable (más allá de menciones genéricas o resultados de otras provincias/países). No se descarta que existan estructuras similares a las de Concordia/Gualeguaychú/Diamante en varios de estos municipios — pero no se fuerza resultado sin verificación real. Pendiente de revisión manual si se prioriza esta categoría más adelante.
+
+**Nota general**: a diferencia de sindicatos y cámaras empresarias, esta categoría no tiene un patrón de "organización con comunicados propios y vocería pública estable" — es una red de organizaciones barriales muy chicas, coordinadas administrativamente por cada municipio. El hallazgo de infraestructura más útil de esta pasada es que **algunos municipios sí tienen una sección temática propia y accesible** para el seguimiento de comisiones vecinales (Gualeguaychú, Diamante), mientras que en Paraná —la ciudad de mayor prioridad para el proyecto— la sección equivalente existe pero está bloqueada para fetch automatizado, igual que el resto del sitio `parana.gob.ar`.
+
 ## Medios (para pensar alianzas y para el futuro agregador de "Medios")
 
 Ver `docs/aliados-y-financiamiento.md` sobre la lógica de citar/linkear en vez de competir. Esta sección tiene ahora un segundo uso además de pensar alianzas: es la base de fuentes para el futuro macro-tab "Medios" de `admin/index.html` (diseño en curso, 2026-09-07, ver conversación con Francisco) — un radar de cobertura de otros medios (provinciales, locales, y a futuro de Santa Fe/Corrientes/Córdoba/Uruguay) que mencionen Entre Ríos, sus ciudades, o entidades/personas relevantes, pensado primero para **detectar fuentes que se le puedan estar escapando al mapeo de este documento**, y en segundo lugar para identificar coberturas propias para referir (redes, newsletter, portada) — no para reescribir como comunicado (ver estándar de atribución en `docs/estilo-editorial.md`, sección "Medios y empresas como fuente").
@@ -227,6 +269,7 @@ Entre Ríos tiene 17 departamentos; Paraná ya está cubierta arriba (medios pro
 
 ## Próximos pasos
 
+- **Categoría (4) del orden de expansión — Organizaciones vecinales**: mapeada 2026-09-08 (ver sección "Organizaciones vecinales" arriba). Sin federación independiente en ninguna ciudad relevada: las comisiones/juntas vecinales dependen administrativamente de un área municipal específica en cada localidad. Mejor infraestructura de ingesta encontrada: la sección temática de Gualeguaychú (`gualeguaychu.gov.ar/tema/comisiones vecinales`, accesible, sin RSS) y la de prensa de Diamante; la de Paraná existe pero está bloqueada para fetch automatizado igual que el resto de `parana.gob.ar`. Pendiente: revisión manual de Paraná desde navegador, y relevamiento del resto de cabeceras departamentales sin hallazgo en esta pasada.
 - **Categoría (2) del orden de expansión — Órganos de control**: mapeada y verificada item-por-item (2026-09-06, ver sección arriba). Mecanismo de ingesta real confirmado para 3 de 7: Boletín Oficial ER (API JSON de ediciones + patrón de PDF), Datos Abiertos ER (API CKAN estándar), STJ/Poder Judicial (RSS de WordPress, `www.jusentrerios.gov.ar/feed/`). Sin RSS/API — requieren scraping o revisión manual: TCER (bloqueado para user-agent no-navegador, sin desafío interactivo), Tribunal Electoral. Fiscalía de Estado y Portal de Transparencia/OAIP no son fuentes de "novedades" recurrentes, no ameritan mecanismo de ingesta propio.
 - **Nacional y ampliación de Municipalidad de Paraná**: mapeados en la misma pasada (2026-09-06). Mismo pendiente de verificación y mecanismo de ingesta.
 - **Sindicatos y cámaras sectoriales** (agro, comercio, construcción, salud, docentes universitarios/privados, CGT/CTA regional): completados en esta pasada (2026-09-03) — ver secciones arriba.
