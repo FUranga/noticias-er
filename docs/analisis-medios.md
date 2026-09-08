@@ -8,7 +8,11 @@ Documento vivo, mantenido por la skill `analizar-cobertura-medios` a partir de l
 
 ## Temas más cubiertos
 
-*(se completa con la primera corrida real de `analizar-cobertura-medios` — necesita varios días de captura acumulada primero, ver nota en `skills/analizar-cobertura-medios/SKILL.md`)*
+*(se completa con la primera corrida real de `analizar-cobertura-medios` — necesita varios días de captura acumulada primero, ver nota en `skills/analizar-cobertura-medios/SKILL.md`. Incluir amplitud — cuántos medios cubrieron cada hecho — cuando sea relevante.)*
+
+## Fuentes citadas por los demás medios
+
+*(dos cosas distintas viven acá: candidatas a sumar a `docs/fuentes.md` cuando una organización/funcionario/informe aparece citado seguido y no está mapeado; y notas de sesgo de fuentes por medio — quién cita casi solo fuentes oficiales vs. quién suma otras voces — siempre con los casos concretos que lo sostienen.)*
 
 ## Huecos de cobertura
 
@@ -17,6 +21,10 @@ Documento vivo, mantenido por la skill `analizar-cobertura-medios` a partir de l
 ## Tendencia editorial por medio (oficialismo / independencia)
 
 *(cada nota acá tiene que llevar los ejemplos concretos — título + link — que la sostienen; nunca una afirmación sin el caso real detrás)*
+
+## Comparación con medios de referencia
+
+*(pasada periódica, no en cada corrida — qué formato o ángulo de cobertura existe en medios de referencia de Argentina o en medios "gold-standard" como CT Mirror/THE CITY/Mississippi Today (ver `docs/vision-y-etapas.md`) y todavía no existe en el ecosistema de ER. Si sugiere un proyecto concreto, señalarlo en `docs/vision-y-etapas.md`, no solo acá.)*
 
 ## Historial de corridas
 
