@@ -25,6 +25,11 @@ real en produccion: `mismatched tag` en pleno cron de GitHub Actions.
 son XML perfecto, y expone los mismos campos (`title`, `link`, `published`,
 `author`, `content`) sin tener que lidiar con namespaces a mano.
 
+Reintento (recurrencia 2026-09-08): a veces el feed sale invalido incluso
+para feedparser -- un hipo transitorio de WordPress regenerando el feed a
+medio camino, no una caida real (confirmado bajando el mismo feed a mano
+un minuto despues: XML sano). Ver pipeline/feed_utils.py.
+
 Uso:
     python monitorear_senado_er.py
 """
@@ -35,10 +40,10 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-import feedparser
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from feed_utils import parsear_feed_con_reintentos  # noqa: E402
 from monitorear_gobierno_er import cargar_backlog, guardar_backlog  # noqa: E402
 
 FEED_URL = "https://www.senadoer.gob.ar/feed/"
@@ -58,12 +63,7 @@ def slug_de_link(link: str) -> str:
 
 
 def obtener_noticias(feed_url: str = FEED_URL) -> list[dict]:
-    parsed = feedparser.parse(feed_url, agent="Mozilla/5.0")
-    if parsed.bozo and not parsed.entries:
-        # "bozo" solo marca que el feed no era XML perfecto -- feedparser ya
-        # lo tolera (ver docstring del modulo). Solo es un error real si
-        # ademas no se pudo sacar ninguna entrada.
-        raise RuntimeError(f"Feed invalido y sin entradas: {parsed.get('bozo_exception')}")
+    parsed = parsear_feed_con_reintentos(feed_url)
 
     items = []
     for entry in parsed.entries:

@@ -55,10 +55,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote, urlparse
 
-import feedparser
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from feed_utils import parsear_feed_con_reintentos  # noqa: E402
 from monitorear_gobierno_er import cargar_backlog, guardar_backlog, limpiar_html  # noqa: E402
 from monitorear_senado_er import slug_de_link  # noqa: E402
 
@@ -157,14 +157,10 @@ def obtener_items_de_medio(medio: dict) -> list[dict]:
         ventana = medio.get("ventana_dias", 2)
         query = quote(f"{medio['query']} when:{ventana}d")
         url = GOOGLE_NEWS_RSS.format(query=query)
-        parsed = feedparser.parse(url, agent="Mozilla/5.0")
-        if parsed.bozo and not parsed.entries:
-            raise RuntimeError(f"Feed invalido y sin entradas: {parsed.get('bozo_exception')}")
+        parsed = parsear_feed_con_reintentos(url)
         return _items_desde_parsed(parsed, f"medios-{medio['id']}", fuente_fallback=None)
 
-    parsed = feedparser.parse(medio["rss"], agent="Mozilla/5.0")
-    if parsed.bozo and not parsed.entries:
-        raise RuntimeError(f"Feed invalido y sin entradas: {parsed.get('bozo_exception')}")
+    parsed = parsear_feed_con_reintentos(medio["rss"])
     return _items_desde_parsed(parsed, f"medios-{medio['id']}", fuente_fallback=medio["nombre"])
 
 
