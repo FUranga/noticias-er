@@ -25626,5 +25626,889 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-18865c225fb6",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Elecciones",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BdVh4eTU1dGliSkc1dkZUdTYtOUpvb0JlcUFhNjh0ajE1RTFiNFlfN1RaXzNHRmIzbUYtWVA2REdTbnR4SzVPUVRwR3Q5c3FBRVE?oc=5",
+    "texto_original": "Elecciones\n  \nEntre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6c69bb019acb",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: contundente triunfo de Etchevehere en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHBRbEZ1R1p6dDY5SzBJWGs3VjdqUTVTQ2JGTW9SYTdDNURKa1hIYlVEY25VcVMxYXlEOEg5Rlg4aHFQZ2JRN3RMSmhTSnBLQmF3UFhWTGQ1YnJWbmc3LWRJSFpHbDlRenBPRGdSTVl5SXl2OTRJRDJEXzRHQmp4ZENHRDlFcExLeExIUjlTbDY0YWlrdm5JRUJnOU45cmtBV0h4RUxLVktBMXo4SmNZSDJMcW5fbzhsbGdta3FNS1o1eUcx?oc=5",
+    "texto_original": "Elecciones en la Sociedad Rural Argentina: contundente triunfo de Etchevehere en Entre Ríos\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-cf297e11d85b",
+    "fuente": "El Día de Gualeguaychú",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNjVoaWE5SjRjUUJkQ0oyYW0tMVpCWDFUSG9JTGFUWU9Sem1LakVObDZNdTlsYmptRFNrSnVENUdqUUQzQ09BN1ZYY2hPeTFYX0dnR21pRFI2NW5qRlk5QmlLQk9rQWNFTmdiNGp4eTh6TGRqRGROa3JweWRGY2w0eVlFcHN2U1Q2bWlhRWlzMkVuTW13U2VVLU5iUFV3R0pPendFd0ZTbFpUZmE1eHJnSmZ1amotNkk3V2hwSXdxbXBNVnVDU2xFaU5fbFZ0N25vSExsMkFoLTVqRDJmamc?oc=5",
+    "texto_original": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%\n  \nEl Día de Gualeguaychú",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f4284f93b249",
+    "fuente": "infocampo.com.ar",
+    "titulo": "Arroz: Entre Ríos lanza su propio sello de calidad para impulsar el cultivo",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEI3MjMtNHFJcm9QUmRKZk1obTB5MldQRWZ3NnZmcVZQNmNSbExrWmY4YklJVnJxOVJvRTQ0X29iVkdrU2lVREYzY0FRbnd2SUFjTERxaHM2eHMzZmVUcHY5b1dPN2pfLXNhN212UTFtWERsN184b0pRWHdYUWF0ZHdmWlVaVl9UejA4M1Jjd0dPSjd0SkpDbTZWcEFEN0R6RHRPSXhQaw?oc=5",
+    "texto_original": "Arroz: Entre Ríos lanza su propio sello de calidad para impulsar el cultivo\n  \ninfocampo.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-25b05f6e3d70",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Tras una denuncia de Iafas, se dictó la primera condena por juego clandestino en la provincia",
+    "fecha": "2026-09-08",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWV9Cbi1FaGdRNWx3MVF4MzlaYlUxdUpNejY5QjUya1F5dlJDbENsUVFtMF9mZHAzVno2Rnl4N2pWdkhtNXZMWERIYXVsOWhhbWpiUmFMX2lkQQ?oc=5",
+    "texto_original": "Tras una denuncia de Iafas, se dictó la primera condena por juego clandestino en la provincia\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8e987d8bcefe",
+    "fuente": "El Dia De Gualeguay",
+    "titulo": "El primer ministro británico afirmó que su gobierno será “implacable” con respecto a las Islas Malvinas",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDVtOTd0czJaT3Jxb3pRTU14SWxxcGhCQllLV0FvUlV3T2VZczV1TXR5NWJTaVR3OUUwR0ctd0hlN05PODFmOHhvWVpPS0RJX0hTM1pRa0x5Vjl5eUN1c0IydG43UmNEQ0RINXNFaFNfeERwRmFfU01ONWtrRUJ4Qlpna1ZRelhwNXkzY3M1UFdkM0wtUUkxSkgzd2JXWWJDU1FzSUVFb1V2b1kteFlmTGUyWVk3V0xFY3JRVVJlUDRvMzFoeFRreUV4bw?oc=5",
+    "texto_original": "El primer ministro británico afirmó que su gobierno será “implacable” con respecto a las Islas Malvinas\n  \nEl Dia De Gualeguay",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-2cda304e4c8e",
+    "fuente": "APFDigital",
+    "titulo": "El Municipio de Paraná fortalece la prevención sanitaria ante la contingencia climática",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWEROcHRNVjJPY21hVC02eUNnc1R1Qi05S0lFdHV2VkplTC1mM1MwV0ZzZ0d2V0tycEJjQ1Zfel9jeFJjVVhzZTFueU02MEliOU1TM3JrLWgzTV83dGRGT3VmSWNydXBCd21oZTZ6X3RyUGFCRzJ0blp3NXY4N1JvUHpEeV81Q0xrcmFfbnpnYTJWaVFEc0VGMHhnMWlKcW14SkdMLVNtV3ZPZ3RlRVpibVp3VloxM1lSNWZrMGZ3Wm1FcldqM1VQYXIyV1F2N2FrOXpGVnJRRG83eHVn0gHiAUFVX3lxTE1zZ1lRSC05MnZ3MzRQSng1cDJGNE1JSkRBZWZ3R21BWnVkUEFYM0NSLVJZczdrd3poVU56TEEzUF9vb0ZOU2ZiQ1ZrdTJrUTNfSkZzbzVFLUQwb0ZGOThWTzZ4V3NHU1lZSzc1OG1HdV9iMTRKUDgta3FuaTVwSXlZbTZYN0JjRlU2all3RG5WWTdLb3lLNURlTU9wVUJFSWlFRW9YelJ3UUVJVjVPaEw3cG93RWlteHhNQUdVN3gyNGpCV3dwYS1Jb0hXNWlwY2w0cFVaUFVnQXZqYUNIM1o3WFE?oc=5",
+    "texto_original": "El Municipio de Paraná fortalece la prevención sanitaria ante la contingencia climática\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:09Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-120e6a755d7b",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Diputados emplazó a comisiones para tratar morosidad y Emergencia en Discapacidad",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzRES0NlNzJJeUxpd1A2VFZwQzlQaVZMNWpiWVBFSE5oOGtDTzNHbVM0OW5jeG5WaTF3Q2I2UlNlb3NHZEpsYWdfWWY4M1dIN0VETUtiNEh3U3pZZGhjV3ZoVkhoS0xMLXVTY052alZGV2JfeU95SllCbzc5NTI5ZXVTcS1GS2RyRU12bzhqTXBDamhXeFBzckdfMlEwS1pkOVNmZ09LYW1HWEdnUF9QUWVGZzU2SHlUeGlqUkJPNGVrTzA?oc=5",
+    "texto_original": "Diputados emplazó a comisiones para tratar morosidad y Emergencia en Discapacidad\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-6e07878e4b66",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El Indec difundirá la inflación de agosto: qué dicen las estimaciones privadas",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpmeFJVSUtjaDlCd1c0SWJ5bkkyZ2pHOXhqclhpR0RyZ2N5ODB5ZmRLcW82SkhPdjRNYlJiMjJHMnBFZ2hHTkJnbnFGUjZmVE5KeUNWeUpQazY3ZkRjbk9RS1Z0c2NTdjNjTXJjNDYyWjdsZ2o3alhXbHZWV0lZYkk4bFllZWYycDhFUDJNR194ZnBaWjRnalRiaDFXR0FSb3BGc2xGa0xGbW8?oc=5",
+    "texto_original": "El Indec difundirá la inflación de agosto: qué dicen las estimaciones privadas\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-e233fbd5bbb6",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "ATE rechazó la denuncia del gobierno y defendió \"el derecho de los trabajadores a reclamar\"",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWJFc2FZaVEwX0ozb0phUVpuR3BWYXVwUUNyY1Q2UjdESU10dFNIU2pmSU5ETlVuR0J1TjBYcm9sYnROOHRoU1k2ZmU2S3VGQlowcnhLZEZhNjlyVlVydnVRY04yZU9fNXpWbDI1VjlrUkpLTkszSnp4N3psTUtuYVQ4dmFteU1DRE1uaWlIQXBKcVpMbUVHX3R2bGVXeG5rbjVFcHUxbnprSkNPZjY2cTRrNmU4WlhNTVEw?oc=5",
+    "texto_original": "ATE rechazó la denuncia del gobierno y defendió \"el derecho de los trabajadores a reclamar\"\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-92f5a0817a21",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Coimas en Discapacidad: el fiscal pidió citar a la exnovia de Cerimedo como testigo",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTZ5cFNZT1JwQkxmbVJHbjVtTFBFWTZhZVdYZGFSWUhhTzBudTlBdGt5SFBXajkwbmEtTEE2RGFTaV9vYTI3bndPbjl4ZzBRVF9BblJqUTYyUlg0SjRmLUtJYzRHVHhnc0N5QkJHWGMtVHBvbGlQeG9qSVR0cmZpRUlTaUNJUktRYjZoVGZRVmZyeWlLUER5TFBRdk54Tkg2ekNHNmh0NVJwZVk5UXdMT0p3?oc=5",
+    "texto_original": "Coimas en Discapacidad: el fiscal pidió citar a la exnovia de Cerimedo como testigo\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-que-dice-la-ordenanza-que-se-propone-modernizar-el-organismo-de-defensa-del-consumidor-en-parana",
+    "fuente": "Bicameral",
+    "titulo": "Qué dice la ordenanza que se propone modernizar el Organismo de Defensa del Consumidor en Paraná",
+    "fecha": "2026-09-09",
+    "link": "https://www.bicameral.com.ar/que-dice-la-ordenanza-que-se-propone-modernizar-el-organismo-de-defensa-del-consumidor-en-parana/",
+    "texto_original": "El \nConcejo Deliberante de Paraná\n aprobó esta semana un proyecto que propone delimitar cambios para establecer las funciones y el procedimiento administrativo del \nOrganismo de Defensa del Consumidor, \nbuscando \"la efectiva implementación en el ámbito de la ciudad de Paraná de la defensa de los derechos de los consumidores y usuarios\".\n\nEl texto fue aprobado en la sesión de este martes, y establece una serie de cambios en el organismo local.\n\nLa flamante ordenanza se recuesta sobre los derechos reconocidos en el Artículo 42º de la Constitución Nacional, en la Ley Nacional de Defensa del Consumidor Nº 24,240, su Decreto Reglamentario Nº 1786/99, Ley Provincial Nº 8973, su decreto reglamentario, disposiciones complementarias y normas que en su consecuencia se dicten, incorporando la tramitación digital de los expedientes.\n\nEn relación a la ordenanza en vigencia, señalan que \"su texto responde a una lógica procedimental propia de una administración predominantemente presencial, escrita y basada en notificaciones tradicionales, distinta del modo en que actualmente se desarrolla la gestión pública municipal y, en particular, el trámite de los reclamos de consumo\".\n\nEn este sentido, el proyecto que oportunamente consignó \n\nBicameral \n\nsostiene que desde su sanción \"se han transformado sustancialmente las formas de vinculación entre consumidores, proveedores y administración pública, resultando necesario \nadecuar el procedimiento a las modalidades digitales actualmente utilizadas\n\".\n\nLa iniciativa que lleva la firma de los concejales Luisina Minni y Sergio Elizar (Más para Entre Ríos) fundamenta que el\n ingreso de reclamos mediante la plataforma Mi Paraná\n, la recepción digital por parte del Organismo, el traslado electrónico a la denunciada, la contestación mediante correo electrónico oficial, la celebración de acuerdos virtuales y la realización de audiencias conciliatorias por medios digitales constituyen herramientas idóneas para dotar al trámite de mayor celeridad, trazabilidad, economía administrativa y acceso efectivo.\n\nAdemás, sostienen también que \"la instancia conciliatoria constituye una herramienta esencial para la solución temprana de conflictos de consumo\".\n\nEn esta línea, argumentan que la actualización de la Ordenanza Nº 8600 \"permite armonizar la normativa municipal con la realidad tecnológica actual, evitando vacíos procedimentales y brindando mayor seguridad jurídica al trámite\".\n\nLa entrada \nQué dice la ordenanza que se propone modernizar el Organismo de Defensa del Consumidor en Paraná\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "comercio",
+      "gobierno",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-bicameral-frigerio-despidio-con-pesar-a-la-diputada-julia-calleros",
+    "fuente": "Bicameral",
+    "titulo": "Frigerio despidió con pesar a la diputada Julia Calleros",
+    "fecha": "2026-09-09",
+    "link": "https://www.bicameral.com.ar/frigerio-despidio-con-pesar-a-la-diputada-julia-calleros/",
+    "texto_original": "El gobernador de Entre Ríos, \nRogelio Frigerio,\n expresó su profundo pesar por el fallecimiento de la diputada provincial \nJulia Calleros\n y acompañó a su familia, seres queridos y compañeros de trabajo en este momento de dolor.\n\nA través de un mensaje, \nel mandatario destacó la fortaleza con la que Calleros enfrentó sus últimos tiempos y reconoció su compromiso con la función pública y su aporte al desarrollo de la provincia.\n\n\"Gracias, Julia, por tu compromiso, por tu trabajo y por todos tus aportes para hacer de nuestra provincia un lugar mejor\", expresó Frigerio.\n\nAsimismo, el gobernador hizo llegar sus condolencias a quienes compartieron con la legisladora su labor en la Cámara de Diputados y concluyó su despedida con un mensaje de paz y reconocimiento: \"Que descanses en paz\".\n\nLa entrada \nFrigerio despidió con pesar a la diputada Julia Calleros\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-cual-es-el-mapa-de-la-justicia-federal-para-el-sistema-acusatorio-en-entre-rios",
+    "fuente": "Página Judicial",
+    "titulo": "Cuál es el mapa de la Justicia Federal para el sistema acusatorio en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://paginajudicial.com/2026/09/09/cual-es-el-mapa-de-la-justicia-federal-para-el-sistema-acusatorio-en-entre-rios/",
+    "texto_original": "Juan Cruz Varela\n\nDe la Redacción de Página Judicial\n\n \n\nEl Ministerio de Justicia de la Nación anunció \nla puesta en marcha del sistema acusatorio federal en la provincia a partir del 30 de noviembre\n y la cuenta regresiva se aceleró de manera tan vertiginosa como los interrogantes en torno a las condiciones necesarias para instrumentar un cambio radical en la investigación penal.\n\nFrente a lo inevitable, la mirada de operadores judiciales consultados por \nPágina Judicial\n difiere en cuanto a las condiciones que hay actualmente en Entre Ríos para dar el paso hacia el nuevo sistema. “Es un enigma saber dónde estamos parados”, sostiene un moderado. “Estamos al horno”, advierte un pesimista. “Las condiciones no son ideales, pero hay que arrancar”, dice un resignado.\n\nLo sabe con certeza el procurador general Eduardo Casal y tal vez eso explique \nla reunión que mantuvo hace unos días con los diputados nacionales Guillermo Michel y Adán Bahl\n, según dejaron trascender, con el objetivo de “trabajar articuladamente para fortalecer las herramientas institucionales de prevención, investigación y persecución”.\n\nEl sistema acusatorio representa algo más complejo que una mera modificación procesal, sino que abre un nuevo escenario en la investigación del narcotráfico, trata de personas, contrabando, lavado de dinero y otros delitos de competencia federal.\n\nResulta ocioso explicar de qué se trata en una provincia donde rige desde 2007. Esencialmente, implica un cambio del paradigma del sistema actual, en el que el juez es quien dirige la investigación penal, a un proceso donde la investigación corre por cuenta exclusiva del fiscal. El juez, en el sistema acusatorio, es el encargado de velar por la legalidad del proceso, resolver las cuestiones planteadas por las partes, evaluar las pruebas y dictar una sentencia imparcial basada en los hechos presentados en el juicio.\n\nPor lo demás, desaparece el expediente en papel, rige la desformalidad en las investigaciones y la oralidad para dirimir las discrepancias, lo que redunda en una mayor celeridad; y la producción de pruebas corre por cuenta de las partes, la fiscalía y la defensa, cada uno con su propio legajo.\n\nEn lo instrumental, el proceso estará a cargo del fiscal general José Ignacio Candioti. Recientemente, en una entrevista con el programa \nPlaza Mansilla\n, que se emite por \nEl Once Radio & Stream\n, resaltó que “en la academia, entre los operadores judiciales y en la política hay un consenso absoluto de que es el sistema constitucional que corresponde”. No obstante, aclaró que “la implementación implica una inversión en recursos para que el sistema funcione”.\n\nMotores en marcha\n\nEl nuevo mapa que impone el sistema acusatorio prevé que haya un fiscal de distrito o fiscal revisor; cinco unidades fiscales, en Paraná, Concepción del Uruguay, Concordia, Gualeguaychú y Victoria; y una unidad de derechos humanos.\n\nSin embargo, a la fecha, cinco de ocho cargos están vacantes. Eso explica, en parte, que \nel procurador interino Eduardo Casal haya encendido los motores en julio pasado, convocando a concursos abiertos y públicos de oposición y antecedentes para cubrir vacantes en las fiscalías de Paraná, Victoria y Concordia\n.\n\nNo dan los tiempos para que los concursos estén concluidos y los fiscales designados antes del 30 de noviembre; pero la sola convocatoria es un paso trascendente.\n\nLa ley prevé también que los actuales cargos de secretarios se reconviertan en fiscales auxiliares, pero requiere de la conformidad de cada uno y eso no ha pasado en ninguna de las jurisdicciones donde se ha implementado hasta ahora.\n\nEsta circunstancia podría dificultar la implementación del nuevo sistema, sobre todo a la luz de algunos fallos que se han dictado en distintas jurisdicciones invalidando la actuación de fiscales interinos en ciertas instancias del proceso, como las audiencias de imputación, revisión de medidas cautelares y el momento de formular acusación y pedir una condena en los juicios.\n\nEn el caso entrerriano, la falta de fiscales titulares también obligaría a quienes sí lo son a recorrer cientos de kilómetros de una ciudad a otra para intervenir en audiencias donde no puedan hacerlo los interinos, desnaturalizando los objetivos del sistema acusatorio.\n\nPato rengo\n\nAl día de hoy, la sensación que predomina entre los operadores judiciales es que las condiciones para implementar el sistema acusatorio son bastante precarias, por la falta de personal, infraestructura y equipamiento.\n\nSin embargo, durante 2025, la Procuración General de la Nación efectuó un análisis comparativo de la jurisdicción en torno a las características territoriales, infraestructura edilicia disponible, dotación de recursos humanos y volumen de carga de trabajo, entre otras cuestiones, con miras a la implementación del sistema acusatorio.\n\nEn la provincia, las fiscalías funcionan en edificios cedidos del Poder Judicial que carecen de espacio, por ejemplo, para recibir declaraciones de imputados y testigos, el alojamiento de detenidos o guardar objetos secuestrados. Si bien se hicieron algunas gestiones para alquilar locaciones apropiadas, no hubo avances.\n\nDel mismo modo, los fiscales han advertido sobre la necesidad de contar con mayor cantidad de recursos, humanos y físicos; desde el número de secretarías, cantidad de agentes y espacios propios en las oficinas.\n\nPara dar una idea de cómo se trabaja, en una fiscalía trabajan diez personas, entre el fiscal, secretario, empleados y ordenanza, en dos oficinas apartadas o apenas separadas por una puerta liviana. Esa realidad se multiplica por cuatro fiscalías de primera instancia, dos de juicio y una de apelaciones.\n\nTambién requieren equipamiento. La eliminación del expediente en papel se reemplaza con audiencias orales, videograbadas, pero en el Ministerio Público Fiscal no se cuenta con esa tecnología. Peor aún, el año pasado, los fiscales federales hicieron un llamado de atención al procurador por la falta de recursos informáticos para sobrellevar las investigaciones. No reclamaban computadoras, sino discos externos, pendrives o dispositivos donde poder almacenar las grabaciones de escuchas telefónicas, como quedó asentado en el informe de gestión que presentaron los fiscales entrerrianos.\n\nLo último para mencionar es que también se viene desarrollando un “programa de capacitación”, precario y sobre la hora de implementación del sistema, que se compone de dos bloques. El primero, especialmente diseñado para dotar a los empleados de habilidades para afrontar los primeros pasos del proceso de implementación; en el segundo bloque se trabaja sobre la adquisición de herramientas de gestión para las nuevas estructuras organizacionales y capacitaciones en técnicas de litigación para las diferentes etapas del proceso, orientadas específicamente a los fiscales.\n\n“Las necesidades del Ministerio Público Fiscal deben ser superadas con un fortalecimiento integral en materia de recursos humanos, edilicios y tecnológicos que garantice que la implementación del sistema acusatorio se desarrolle en un contexto en el que su principal actor procesal disponga de los medios que este nuevo ordenamiento le demanda”, advirtió la Procuración General de la Nación en un informe interno.\n\nCon los motores del sistema acusatorio en marcha, aparecen enormes desafíos para la implementación del sistema acusatorio en la justicia federal en la provincia. Nada que no pueda resolverse con dinero. Aun en tiempos donde el mantra dice que \nno hay plata\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "legislatura",
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "federal",
+      "gualeguay",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-dos-empleados-municipales-condenados-por-delitos-vinculados-a-drogas-uno-fue-cesanteado-y-al-otro-le-abrieron-un-sumario",
+    "fuente": "Diario Junio",
+    "titulo": "Dos empleados municipales condenados por delitos vinculados a drogas: uno fue cesanteado y al otro le abrieron un sumario",
+    "fecha": "2026-09-09",
+    "link": "https://www.diariojunio.com.ar/dos-empleados-municipales-condenados-por-delitos-vinculados-a-drogas-uno-fue-cesanteado-y-al-otro-le-abrieron-un-sumario/",
+    "texto_original": "Los decretos publicados este miércoles en el Boletín Oficial de Concordia dan cuenta que, en uno de los casos, el Ejecutivo inició un sumario administrativo contra un trabajador condenado a dos años de prisión condicional por tenencia de estupefacientes con fines de comercialización. En el otro, dispuso la cesantía de un empleado que recibió una condena firme a cuatro años de prisión por comercialización de estupefacientes. Ambos pertenecían a áreas de la Secretaría de Servicios Públicos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "comercio",
+      "gobierno",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-127629f180af",
+    "fuente": "AIM Digital",
+    "titulo": "Abrieron sobres para intervenir la escuela de educación integral de Santa Elena",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcnIyVUQwZG1xUUdZQ3pORXRnYnM4RWdlNkh2b0hoTG9nOEE1WmpDZEc2cUZTdmxybHpPdmZ4VmxUNVVmZm1ucW5pVlp6YXJSeUJoSVBpMjJEYmlnNzRBSkxheHZ5Y0IzSkdqSFBQLWNxMTVIS3B5b0JLRndMVVEzQkt2N0FKbnBidXlLbEdyX29WSkFlYlU2Qmprdm5YbmcyYjJERTNvd0tOSzBuMENaNV8zbHg5U1I1S2FQYWgzWXFOYnc?oc=5",
+    "texto_original": "Abrieron sobres para intervenir la escuela de educación integral de Santa Elena\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-d0a781bbfa04",
+    "fuente": "AIM Digital",
+    "titulo": "Concretaron mejoras en una escuela de Victoria",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRi02VUR1REMzZjNnd0d0bHBSdG83UmtNUE5LNU1BM2g5NkNjX0U3M01pTVJLeWpkdDRqTlU0bUF2YmU3aWY5eDBMMGV5T1Q4SU1oMU1zV0hDOUVGQkZhVnJONWxzbkZVOVVEZTJtbjVudmc4RlpmVkpsTmtXdnZTZFJRLUFuYmQ5RzI2M3hZbERnWUNzNWpkVA?oc=5",
+    "texto_original": "Concretaron mejoras en una escuela de Victoria\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-46eeea8f15e2",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "Se abrieron las ofertas para la pavimentación de calles Laprida y Mario Gatto",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3NEcGRQdzJCTEZkNFJsd1NfdmRzcTRKNnB3Rmw1UHR0Rms0TlJNV0ZNMHFnNUZmYm13Q2JpZXRFSU9kekgwM3JQTVN6WXFtLW9lZFRzMGlRMWZBcm9DaEtZc3p4WUgtaHVPbkprSlpQLVBDMHRCbmpKUUl5ekN3a0ZISGo3bXFVUnJyQzR2YTY2Sk5hdGktXzJPbVJZV2tqTGFfTEZTdDlSWTRnX29HMmVjS09mb0RhTi1wRWlxS3piVXBT?oc=5",
+    "texto_original": "Se abrieron las ofertas para la pavimentación de calles Laprida y Mario Gatto\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-c39fb60c6dd3",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "El Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN3NnQnAzOVhXcG5HZWUxY3hZc0xaLXF5SzZmdEN2NndNZ2hhN0ZvZmlhTmQ3emRhUWRCYjc4a0Ruc2V4dF9ZQUh6dTVNYm8zTGYxLThkZTF4QklkRU8taVYwVWtJS1lCclpUZF9DZUMwYjZGaFpFS093eEtiS0oyODFvRGsyZHNmaGI1ZFZYR3lVYWUzak5fb2pJemZGcDM4OW5SVXJTUG5fM0k4aVp4N20yVVA2d2llZDJXVmZCTkl3YWx4S3k5ek5feE5JWjZPcUdEc2tHT3FaQ3hXc0d4ZFZodmhlZ3g3VFhoYVk5blhDR05UQmlINC1pSmQ?oc=5",
+    "texto_original": "El Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-entreriosurribarri-baez-y-aguilera-en-prision-director-del-servicio-penitenciario-explico-por-que-la-up9-es-el-mejor-lugar",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Urribarri, Báez y Aguilera, en prisión: director del Servicio Penitenciario explicó por qué la UP9 “es el mejor lugar”",
+    "fecha": "2026-09-09",
+    "link": "https://blancaciudadnoticias.com.ar/entreriosurribarri-baez-y-aguilera-en-prision-director-del-servicio-penitenciario-explico-por-que-la-up9-es-el-mejor-lugar/",
+    "texto_original": "El director principal de Cuerpo Penitenciario, Alejandro Mondragón, describió la vida y las condiciones de habitabilidad de la Unidad Penal N°9 “El Potrero” de Gualeguaychú donde serían trasladados el exgobernador Sergio Urribarri, su cuñado Juan Pablo Aguilera y el exfuncionario Pedro Báez.En declaraciones realizadas al programa A Quien Corresponda (Radio Plaza 94.7), Mondragón confirmó que los internos de la cárcel de Gualeguaychú “no retiraron ayer el almuerzo y la cena, pero es algo solucionable”. “Ellos a veces tienen la temática de presentar ciertas quejas por la alimentación o por algunas desconformidades, pero hoy se ha corroborado que la alimentación es buena. Es un solo módulo que estuvo supuestamente en huelga de 633 internos que hay en la Unidad Penal y el resto no estuvo en huelga; entonces a veces los internos con este sistema de iniciar huelgas de hambre y demás buscan canalizar otros problemas o conseguir otros beneficios”, aseveró.\n\nEn tal sentido, mencionó que hasta hace tres años fue director de la Unidad Penal de Concepción del Uruguay y afirmó que “la alimentación en todas las Unidades Penales siempre ha sido buena, y es la misma en toda la provincia”. Detalló que “comen fideos con estofado; milanesas de pollo; milanesas de carne; hamburguesas; como de noche a veces es más liviana la comida, comen pizza y para reforzar se les da una sopa de fideos. Esa es la alimentación en general, que es buena. El Servicio Penitenciario de Entre Ríos siempre se caracterizó por darle una buena alimentación a los internos”.\n\n“Si hoy a un interno no se le da la alimentación correspondiente o algo que le corresponde, obviamente que tenemos quejas y presentaciones judiciales, o sea que nosotros tenemos varios controles para todo esto”, aclaró. Asimismo, descartó que en Gualeguaychú coman repetidamente alitas de pollo: “Yo recorro mensualmente todas las cárceles y vamos controlando todo lo que es el sistema de vehículos, de seguridad, de alimentación y demás. Y ese comentario de las alitas de pollo me había llegado, nosotros lo corroboramos y no es así. Incluso, por ejemplo, un interno que tiene problemas gastrointestinales, que está corroborado médicamente, tiene dietas especiales, que son bife con arroz y queso, por ejemplo. La atención es completa en cuanto a la alimentación en el Servicio Penitenciario”.\n\nPor otra parte, también descartó que la huelga tenga que ver con el inminente traslado del exgobernador Sergio Urribarri, su cuñado Juan Pablo Aguilera y el exfuncionario Pedro Báez: “Les pueden llegar comentarios de que puede haber un traslado respecto a estos internos, pero no hay nada confirmado hasta ahora. Están los pedidos planteados, nosotros tenemos que hacer un nuevo planteo cuando tenga la causa la doctora (jueza de Ejecución de Penas, Cecilia) Bértora, porque la intención nuestra también es que los internos vayan a Gualeguaychú, porque es el lugar indicado para tenerlos a ellos. Hoy en la UP1 nosotros no podemos garantizar, tenemos la estructura en cuanto a tenerlos en un lugar donde medianamente puedan estar tranquilos, porque hay muchos internos, son 1.070 internos en la Unidad Penal 1”.\n\nSobre otros reclamos, Mondragón comentó que “siempre en la Unidad Penal 9 tienen esa temática, por lo general se da cerca de los fines de año, ya viene pasando todos los años, donde inician huelgas. Y a veces hay reclamos para acondicionar ciertos espacios, por temas de visita, o porque quieren conseguir más tiempo de recreo. Es una forma de llamar la atención a veces, y no creo que sea un problema puntual realmente la comida ahora, así que el director ya estaba trabajando en esto y creo que hoy ya se va a solucionar, es un problema que se soluciona rápido”.\n\nSobre la exigencia de seguridad que requiere la detención de un exgobernador, afirmó: “Esto está analizado desde el principio. Cuando lo tuvimos anteriormente detenido, teníamos un espacio, pusimos una guardia especial, que era la guardia que teníamos acá en Dirección General. Si bien sabemos que son presos que tienen que cumplir la condena, como Servicio Penitenciario tenemos que evaluar cada caso y dar la seguridad correspondiente, porque nosotros estamos a cargo de la custodia, la guarda y la resocialización del interno. Y no todos los internos son iguales; todos son iguales ante la ley, pero los internos dentro del servicio penitenciario los abordamos distinto. Los internos de causas de abuso están separados de las causas de robo u homicidio. Y en casos de fuerzas de seguridad están separados de la población común, y este caso también es un caso especial, entonces nosotros evaluamos todo ese tipo de inconvenientes que pueden llegar a surgir y por eso es que hemos hecho tanto hincapié en el traslado a Gualeguaychú desde un principio y no en la Unidad Penal 1. Nosotros para garantizar la seguridad y estar tranquilos consideramos que el mejor lugar que hemos decidido como Servicio Penitenciario es la Unidad Penal 9”.\n\nConsultado por las características de la Unidad Penal, describió que “los pabellones no tienen calefacción central, y depende de cada interno que tienen autorizado tener estufas y ventiladores en verano. Obviamente el Servicio Penitenciario les provee mantas, casi todos los años se les dan mantas polares y, en caso de que quieran ingresar una estufa están autorizados a tener una estufa por celda”.\n\nEspecificó que el sector especial donde quedaría alojado Urribarri “tiene 17 habitaciones, de las cuales 14 están ocupadas con condenados por diferentes delitos, pero la mayoría de los 14 son por causas de abusos y son personas mayores que tienen algunos problemitas médicos, ya dado por los años y demás. Ese pabellón lo creamos en un sector que no se estaba usando, que era el hospital modular, antiguamente otorgado en la época de la pandemia, y como estaba en desuso se creó este pabellón para darle una condición distinta de habitaciones para esta gente mayor de 60 años que tienen problemas de salud. Algunos no tienen problemas de salud, sino que ya son mayores de edad y por eso están separados, un poco más tranquilos y más observados, más cerca de lo que es la atención médica”.\n\nCada habitación tiene cámara externa e interna porque el hospital modular ya está conformado así, con todas las habitaciones que tienen cámara individual, pero no tienen baño individual, sino que el pabellón tiene dos baños colectivos disponibles para todas las habitaciones. El lugar tiene un pasillo con todas las habitaciones y una parte donde hay un comedor que tiene la salida externa al patio. A las 19 horas el patio se cierra y la apertura es a las 7. Sí queda abierto el pabellón interno, lo que son las celdas conformadas por el pasillo y la cocina. El módulo en sí, no quedan encerrados en la celda, tienen puertas individuales, pero sin cerrojo y sin candado. Es un pabellón donde van a tener que convivir con los otros internos, no van a estar separados”.\n\nAgregó que “hay pabellones donde tienen televisiones colectivas en el comedor y algunos tienen televisión en la celda. Para todos es lo mismo. Como tienen DirecTV controlamos que los televisores no sean Smart TV para que no puedan tener acceso a Internet y en cuanto al servicio de DirecTV es controlado también para que no bajen datos móviles ni puedan tener conexión externa con Internet”.\n\nRespecto del ingreso de visitas, explicó que “en Paraná como hay 1070 internos, la gran mayoría es de Paraná entonces tienen horarios y días más marcados. En la Unidad Penal 9 al estar tan alejados y la mayoría de los internos ser oriundos de otras ciudades tienen un sistema de visita un poco más abierto en cuanto a los días especialmente. Se coordina un poco más”. Acotó que “tienen un salón de visita que está ni bien se ingresa a la Unidad Penal y hay un salón general que es donde tienen visitas todos los internos del Penal, entonces se divide por días; la división es por pabellones por la gran cantidad de internos, pero no hay un gran cúmulo de visitas porque obviamente es más difícil para que los familiares puedan llegar a la Unidad Penal 9. También se tiene en cuenta el tiempo de visitas, que en general pueden ser dos, tres o cuatro horas, pero si hay personas que vienen de mucha distancia, a veces están desde la mañana y se le da para que pueda almorzar con el interno y hasta horas de la tarde, cuatro o cinco horas de visita. En eso no hay inconvenientes, y se toma en cuenta el esfuerzo también que hace la familia para ir a visitarlo, entonces no se es tan estricto en cuanto al horario”.\n\nApuntó que la visita “no puede ingresar con celular y lo pueden dejar en los box de la requisa; tampoco alimentos crudos, por lo general carne y demás, no se deja entrar; la comida tiene que ser cocida; y obviamente todo lo que es medicación, si el interno tiene algún tipo de enfermedad y les traen alguna medicación extra, obviamente, es controlada por el servicio médico y si está autorizado y es correcto, se le entrega al interno o desde Sanidad se le brinda también los remedios”.\n\nTambién dijo que “tenemos casos que hay internos que estudian y usan computadoras, no la tienen en el pabellón, pero tienen horarios y lugar para poder utilizarla; hay muchos internos que estudian en distintas Unidades Penales y han tenido acceso a notebook, pero únicamente para rendir o para realizar trabajos prácticos y demás; no sería un caso especial para ellos. Si está justificado el pedido, para qué fin la utilizarían, pueden tener una notebook, pero le sacamos la conexión de internet. Eso se puede lograr, hoy no sería inconveniente, tal vez no en el pabellón, pero sí que tengan ciertos horarios y cierto lugar para poder utilizarla”.\n\nEn otro orden, indicó que “la cancha para hacer recreación, fútbol y otros deportes, está más al fondo por eso no se la ve desde la ruta; está más finalizando la Unidad Penal para el lado de lo que es el potrero, no al ingreso. Algunos la transforman en cancha de básquet, pero es muy poco, juegan mucho más al fútbol, y tienen elementos para hacer gimnasia. En la mayoría de las unidades hay todo lo que sea para hacer deporte, y obviamente tienen días y horarios”. Acotó que “en la UP9 tenemos la particularidad de que tenemos un equipo de rugby, donde trabajan Los Espartanos, y participan en competencias externas”.\n\nAsimismo, confirmó que “en todas las Unidades, los sectores de la parte educativa tienen bibliotecas y estamos recibiendo continuamente donaciones de libros”.\n\nSobre actividades específicas para personas mayores de 60 o 70 en la UP9, detalló que “en la parte educativa, lo que es primaria y secundaria tienen el acceso sin ningún problema; y después tienen cursos de todo lo que son profesiones en talleres como carpintería, herrería y otros, que están a disposición y hay gente que va a capacitar tanto de mañana como de tarde”. En el mismo sentido, sostuvo que “en relación a lo que es cultura y demás siempre están haciendo cosas los internos; siempre hay agrupaciones que solicitan autorizaciones y las puertas están abiertas de la Unidad Penal para todo lo que sea cultura y demás. No hay inconvenientes para que grupos de teatro o de otras actividades culturales ingresen a la Unidad Penal. Y también la pastoral penitenciaria trabaja muy bien en casi todas las cárceles”.\n\nPor último, reveló que desde 2015 en que se abrió la UP9 “hubo pocos intentos de fuga, dos o tres y no más. Todos fueron recapturados en el momento porque tiene varios vallados perimetrales la Unidad Penal, más allá que está en el campo, pero tiene los puestos elevados de vigilancia más los vallados perimetrales que son muy seguros”.\n\nFuente:\n Análisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "agro",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-bomberos-voluntarios-frigerio-prometio-agilizar-recursos-y-fortalecer-el-sistema-en-entre-rios",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Bomberos voluntarios: Frigerio prometió agilizar recursos y fortalecer el sistema en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://blancaciudadnoticias.com.ar/bomberos-voluntarios-frigerio-prometio-agilizar-recursos-y-fortalecer-el-sistema-en-entre-rios/",
+    "texto_original": "ENTRE RÍOS – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir.\n\nMás recursos, menos demoras y un plan para enfrentar emergencias\n\nEl gobernador Rogelio Frigerio mantuvo este miércoles una reunión de trabajo con autoridades de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, en la que se abordaron algunos de los principales problemas que atraviesa el sistema bomberil de la provincia.\n\nEl encuentro tuvo como objetivo avanzar en un plan de trabajo conjunto para mejorar la respuesta ante emergencias, agilizar la llegada de los recursos económicos a los cuarteles y buscar nuevas alternativas de financiamiento.\n\nUno de los puntos centrales fue la implementación de la Ley provincial 11.116, que establece aportes destinados al sistema de bomberos voluntarios y contempla cobertura de obra social para sus integrantes.\n\nSegún se informó, si bien la norma se encontraba vigente desde hace años, no había tenido una implementación efectiva en la provincia.\n\nAhora, el Gobierno entrerriano se comprometió a revisar el circuito administrativo para intentar reducir los tiempos que demanda la llegada de esos recursos y brindar mayor previsibilidad a los cuarteles.\n\nLa discusión por el financiamiento\n\nDurante la reunión también se puso sobre la mesa una preocupación que afecta directamente al funcionamiento de los cuarteles: cómo financiar de manera sostenible el sistema de bomberos voluntarios.\n\nLa intención es buscar una mayor articulación entre Nación, Provincia y municipios, además de analizar otras herramientas contempladas en la Ley Nacional 27.629 de Bomberos Voluntarios.\n\nFrigerio sostuvo que es necesario ordenar las responsabilidades entre los distintos niveles del Estado y determinar con claridad qué puede aportar cada uno.\n\nPara ello, se analizarán experiencias de otras provincias como Santa Fe, Córdoba y Corrientes.\n\nPrepararse para las emergencias climáticas\n\nOtro de los puntos que generó especial atención fue la preparación de Entre Ríos ante posibles eventos climáticos.\n\nLa Provincia y los bomberos acordaron trabajar en un plan coordinado frente a las contingencias que pueda generar el fenómeno de El Niño, revisando las capacidades existentes, las necesidades de cada cuartel y los recursos necesarios para afrontar eventuales emergencias.\n\nLa idea es que, ante una situación crítica, exista una planificación previa y una coordinación más rápida entre los distintos organismos.\n\n“Necesitábamos y era urgente esta reunión”\n\nEl presidente de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, Ariel Molina, calificó como positiva la reunión con el gobernador.\n\n“Necesitábamos y era urgente esta reunión”, afirmó, y destacó el compromiso asumido para mejorar los tiempos de llegada de los recursos.\n\nMolina también puso el acento en la necesidad de que la provincia pueda contar con mayor autonomía económica para el sistema bomberil y no depender exclusivamente de los fondos provenientes de Nación.\n\nLa búsqueda, según explicó, es avanzar hacia un sistema más sólido y con mayores recursos propios.\n\n“Mejorar el sistema bomberil”\n\nDesde Gualeguay también valoraron el encuentro.\n\nEl presidente de Bomberos Voluntarios de esa ciudad, Juan Godino, señaló que fue una reunión “altamente positiva” y destacó la posibilidad de planificar de manera conjunta ante futuras emergencias.\n\n“Seguimos trabajando continuamente con el mismo fin, que es mejorar el sistema bomberil”, sostuvo.\n\nUna tarea que va más allá de apagar incendios\n\nLos bomberos voluntarios cumplen un rol fundamental en las comunidades entrerrianas: incendios, accidentes, rescates, inundaciones, temporales y distintas situaciones de emergencia requieren de una respuesta rápida y preparada.\n\nPor eso, detrás de la discusión sobre recursos y financiamiento existe una cuestión concreta:\n\n¿Están los cuarteles preparados para responder ante una emergencia de gran magnitud?\n\nLa reunión entre el Gobierno provincial y la Federación busca comenzar a responder esa pregunta antes de que ocurra una nueva emergencia.\n\nBCN NOTICIAS\n\nLa información que muchos se olvidan de decir.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:03:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo",
+      "gobierno",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federación",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-reestablecieron-el-suministro-electrico-en-pueblo-belgrano-y-renovaran-un-cableado-para-una-solucion-definitiva",
+    "fuente": "El Día Online",
+    "titulo": "Reestablecieron el suministro eléctrico en Pueblo Belgrano y renovarán un cableado para una \"solución definitiva\"",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/reestablecieron-el-suministro-electrico-en-pueblo-belgrano-y-renovaran-un-cableado-para-una-solucion-definitiva",
+    "texto_original": "Desde la Cooperativa Eléctrica Gualeguaychú informaron que “tras el inconveniente registrado este mediodía en la línea de media tensión, el servicio en Pueblo Belgrano quedó restablecido a las 14:59 a través de las maniobras y trabajos realizados por nuestras cuadrillas en las primeras horas de la tarde”. “Continuamos trabajando sobre el sector de Camino de la Costa para normalizar la totalidad de las subestaciones”, agregaron desde la entidad.\n\nPor otra parte, y en simultáneo al operativo, la Cooperativa coordinó de urgencia la adquisición de un cable de 33 kV necesario “para dar una solución técnica definitiva al alimentador”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-trabajar-con-el-fue-un-privilegio-que-me-dio-la-vida-expreso-una-gualeguaychuense-tras-la-muerte-de-chiche-gelblung",
+    "fuente": "El Día Online",
+    "titulo": "“Trabajar con él fue un privilegio que me dio la vida”, expresó una gualeguaychuense tras la muerte de Chiche Gelblung",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/trabajar-con-el-fue-un-privilegio-que-me-dio-la-vida-expreso-una-gualeguaychuense-tras-la-muerte-de-chiche-gelblung",
+    "texto_original": "El mundo del periodismo gráfico, la televisión y la radiofonía argentina está de luto por el fallecimiento del periodista Samuel “Chiche” Gelblung, quien murió este miércoles a los 82 años tras permanecer internado en terapia intensiva desde el pasado 12 de mayo.\n\nGelblung atravesaba un período de controles posteriores a una intervención cardíaca. Semanas antes había sufrido un infarto en el pie producto de problemas circulatorios y le habían colocado dos stents.\n\nCon más de cinco décadas de trayectoria en radio, televisión y medios gráficos, Chiche Gelblung fue una de las figuras más reconocidas del periodismo argentino y en los últimos años tuvo una fuerte presencia en Crónica TV.\n\nPor esa señal de cable pasó también una periodista y locutora de Gualeguaychú: Mariana Peruzzo, quien trabajó como movilera en uno de los programas del emblemático conductor y compartió varios móviles con él.\n\nTras conocerse la noticia de su muerte, Peruzzo despidió a Gelblung a través de una historia publicada en su cuenta de Instagram, donde compartió imágenes de uno de los móviles que realizó en su programa y recordó una frase que el periodista le dijo después de su trabajo.\n\n“Qué triste noticia la muerte de Chiche. ¡Un grande del periodismo! Trabajar con él fue un privilegio que me dio la vida. Ese día me dijo ‘muy buen trabajo, como siempre’ y fue el momento que mi mente dijo ‘llegué’”, expresó la periodista gualeguaychuense.\n\nEl recuerdo de Mariana Peruzzo refleja también una de las facetas que caracterizaron a Gelblung durante su extensa carrera: su capacidad para marcar a generaciones de periodistas que pasaron por sus programa y trabajaron con él.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-cuti-romero-sera-el-nuevo-capitan-de-la-seleccion-argentina-tras-la-despedida-de-messi",
+    "fuente": "El Día Online",
+    "titulo": "Cuti Romero será el nuevo capitán de la Selección Argentina tras la despedida de Messi",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/cuti-romero-sera-el-nuevo-capitan-de-la-seleccion-argentina-tras-la-despedida-de-messi",
+    "texto_original": "Cuti Romero será el nuevo capitán de la Selección Argentina en el ciclo que comenzará después de las despedidas de Lionel Messi y Nicolás Otamendi. El defensor cordobés, de 28 años, quedó designado para asumir el liderazgo del seleccionado nacional y portar el brazalete en la nueva etapa del equipo.\n\nLa decisión había comenzado a gestarse antes de la última Copa del Mundo, cuando Cristian Romero había quedado establecido como tercer capitán del plantel. Con las posteriores salidas de Messi y Otamendi, el zaguero ascendió en el orden establecido y quedó como principal referente.\n\nLa determinación había sido tomada por Lionel Scaloni, quien se inclinó por Romero por encima de otros futbolistas con peso dentro del vestuario, como Emiliano “Dibu” Martínez y Nicolás Tagliafico. De esta manera, el defensor surgido en Belgrano quedó al frente de la renovación del liderazgo de la Albiceleste.\n\nRomero ya tiene experiencia con el brazalete\n\nLa designación no significará una experiencia completamente nueva para el cordobés. Romero ya había sido capitán en tres oportunidades durante los 58 partidos que disputó con la camiseta de la Selección Argentina, todos bajo la conducción de Scaloni.\n\nLa primera vez que utilizó el brazalete había sido como visitante ante Chile, por las Eliminatorias Sudamericanas, en un encuentro que terminó con victoria argentina por 1-0. Posteriormente, repitió como capitán durante un amistoso frente a Venezuela, disputado en octubre.\n\nSu antecedente más reciente había ocurrido en marzo, cuando encabezó al equipo argentino en la victoria por 2-1 frente a Mauritania. Así, el defensor llegará a esta nueva etapa con experiencia previa en una función que ahora ejercerá de manera permanente.\n\n \nLa continuidad de Scaloni\nEl nuevo escenario también estará atravesado por la situación contractual del entrenador. Si bien Scaloni fue quien estableció el orden de capitanes, todavía no estaba confirmada su continuidad al frente del seleccionado durante 2027.\n\nEl técnico nacido en Pujato mantenía negociaciones con la Asociación del Fútbol Argentino para extender su vínculo. Su eventual continuidad será otro de los aspectos centrales de la etapa de renovación que atravesará la Selección después del cierre del ciclo de varios de sus principales referentes.\n\nMientras tanto, Argentina afrontará amistosos durante septiembre, cuyos rivales se conocerán esta semana. Esos compromisos marcarán el comienzo de una nueva etapa para el plantel y consolidarán a Romero como la principal voz de mando dentro del campo de juego.\n\nFuente: ElOnce",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-entre-rios-firmo-un-convenio-para-la-prevencion-y-respuesta-de-eventos-extremos-relacionados-con-el-nino",
+    "fuente": "El Día Online",
+    "titulo": "Entre Ríos firmó un convenio para la prevención y respuesta de eventos extremos relacionados con El Niño",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/entre-rios-firmo-un-convenio-para-la-prevencion-y-respuesta-de-eventos-extremos-relacionados-con-el-nino",
+    "texto_original": "Autoridades de Entre Ríos, Córdoba y Santa Fe se reunieron para firmar un convenio de reciprocidad y colaboración que apunta a fortalecer la prevención y las respuestas conjunta ante emergencias meteorológicas.\n\nEn el encuentro desarrollado en la ciudad de Córdoba, funcionarios entrerrianos expusieron sobre los protocolos que se despliegan en el territorio provincial y destacaron la declaración de la emergencia hídrica. En ese marco, se firmó el Convenio de Reciprocidad, Cooperación y Colaboración para la Prevención y Atención de Eventos Meteorológicos Extremos Asociados al Fenómeno El Niño en la Región Centro. El acuerdo establece un marco permanente para fortalecer las tareas de prevención, preparación, alerta, respuesta, asistencia y recuperación frente a contingencias climáticas.\n\nUno de los principales puntos del convenio es la creación de un Sistema Regional de Información, Alerta y Coordinación, que permitirá facilitar el intercambio permanente de información meteorológica, hidrológica, territorial y de infraestructura entre las provincias. El objetivo es mejorar la anticipación y la toma de decisiones frente a posibles situaciones de emergencia.\n\nEn este marco, las autoridades acordaron además avanzar en mecanismos de asistencia recíproca para situaciones que superen la capacidad de respuesta de una provincia. La cooperación podrá incluir recursos humanos, equipamiento, vehículos, maquinaria, insumos, sistemas de comunicación y asistencia técnica, de acuerdo con la disponibilidad de cada jurisdicción.\n\nPresencia entrerriana\n\nEn el marco de la reunión, el secretario de la Región Centro por Entre Ríos, Atilio Benedetti, destacó la firma del acta de cooperación ante la llegada del fenómeno de El Niño, que este año podría presentar un grado de intensidad inédito. En ese sentido, resaltó “la voluntad de los tres gobernadores -Rogelio Frigerio, Maximiliano Pullaro y Martín Llaryora- de encarar este tema desde la prevención”. “No vamos detrás de los acontecimientos, sino que nos adelantamos a ellos para mitigar los efectos de El Niño”, afirmó Benedetti.\n\nPor su parte, la ministra de Desarrollo Humano de Entre Ríos, Verónica Berisso, brindó detalles del trabajo que se viene realizando en la provincia para afrontar el fenómeno climático. “Hemos conformado un comité de crisis y, junto con otras áreas del Gobierno, tenemos listo un protocolo de atención ante posibles emergencias”, señaló.\n\nEl titular de Defensa Civil de Entre Ríos, Víctor Alfonso Chanenko, hizo hincapié en las capacitaciones que se vienen realizando con los distintos actores involucrados en la gestión de emergencias. “Estamos trabajando para que todos los actores estén preparados al momento de tener que intervenir”, explicó. Y señaló que se está avanzando especialmente en la planificación de los espacios que podrían utilizarse como centros de evacuados para evitar que las escuelas sean destinadas a ese fin y puedan continuar desarrollando sus actividades con la mayor normalidad posible.\n\nA su turno, el secretario de Gobiernos Locales de Entre Ríos, Ricardo Vales, repasó el trabajo que se viene desarrollando con los distintos municipios y juntas de gobierno para relevar los recursos y la infraestructura disponibles en cada localidad. En ese marco, explicó que el objetivo es conocer las capacidades existentes para fortalecer la respuesta y mitigar los posibles efectos de los eventos climáticos, y destacó que la Legislatura entrerriana declaró la emergencia hídrica.\n\nEn tanto, el secretario de Trabajo de Entre Ríos, Mariano Camoirano, participó del encuentro como parte de la delegación provincial y acompañó la estrategia de articulación regional impulsada en materia de prevención, preparación y respuesta ante posibles emergencias meteorológicas.\n\nFuente: AHORA",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "municipios",
+      "legislatura",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-elecciones-en-la-sociedad-rural-argentina-la-lista-de-etchevehere-berisso-y-spiazzi-se-impuso-en-entre-rios-por-el-57",
+    "fuente": "El Día Online",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/elecciones-en-la-sociedad-rural-argentina-la-lista-de-etchevehere-berisso-y-spiazzi-se-impuso-en-entre-rios-por-el-57",
+    "texto_original": "En la provincia de Entre Ríos se impuso la línea interna Renovación con Unidad con el 57 % de los votos. La nómina, liderada por los ruralistas Juan Diego Etchevehere, Mariano Berisso y Mayda Spiazzi, contó también con la integración de los dirigentes provinciales Andrea Firpo, Miguel Dome, Federico Paoloni, Walter Feldkamp y Manuel Etchevehere. En tanto, la lista que obtuvo el segundo lugar fue encabezada por Domingo Veronesi y Valeria Trucco, quienes cosecharon el 43 % de los sufragios a nivel provincial.\n\nEsta constituye la cuarta oportunidad en la que la lista ganadora se impone en la provincia con una amplia mayoría.\n\nLos principales ejes de gestión sobre los cuales se apoyaron sus dirigentes en esta elección fueron su independencia gremial ante la política, la construcción de una agenda sectorial en base a las demandas de los productores, la cercanía en la representación territorial y la renovación dirigencial dentro de la entidad.\n\nA nivel nacional, la lista a presidente encabezada por Nicolás Pino resultó ganadora con el 71 % de los votos, frente a la lista liderada por Marcos Pereda, que alcanzó el 29 % de los sufragios.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "agro",
+      "servicios_publicos",
+      "construccion",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-relevaron-el-subsuelo-del-ex-frigorifico-con-tecnologia-de-georradar",
+    "fuente": "El Día Online",
+    "titulo": "Relevaron el subsuelo del ex Frigorífico con tecnología de georradar",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/relevaron-el-subsuelo-del-ex-frigorifico-con-tecnologia-de-georradar",
+    "texto_original": "La Subsecretaría de Ambiente y Seguridad Alimentaria de la Municipalidad realizó un relevamiento técnico en el predio del ex Frigorífico Gualeguaychú para abordar la gestión de pasivos ambientales en el sector.\n\nSegún informaron desde el Municipio, los trabajos se desarrollaron de manera conjunta con la empresa especializada Terraestudio S.A. y estuvieorn centrados en ubicar y precisar la profundidad de la red de cañerías subterráneas vinculadas a los antiguos tanques de fueloil, con el propósito de contar con información certera sobre la estructura enterrada y proyectar futuras intervenciones sobre bases técnicas.\n\nPara el procedimiento se utilizó tecnología de radiodetección mediante georradar, un equipamiento que capta señales electromagnéticas para mapear el subsuelo. Esta metodología no invasiva permite obtener datos precisos sin necesidad de efectuar excavaciones, preservando la integridad del terreno y reduciendo los tiempos de diagnóstico.\n\nAl respecto, la subsecretaria de Ambiente y Seguridad Alimentaria, Ivana Zecca, señaló que “el cuidado del ambiente requiere compromiso, planificación y conocimiento. Como sociedad tenemos la responsabilidad de proteger nuestro entorno, pero también es fundamental que desde el Gobierno municipal asumamos ese compromiso con acciones concretas, incorporando herramientas que nos permitan conocer mejor nuestro territorio y prevenir posibles impactos ambientales”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "municipios",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-malvinas-el-gobierno-evalua-incluir-la-pesca-y-otras-actividades-en-el-proyecto-de-sanciones-que-enviara-al-congreso",
+    "fuente": "El Día Online",
+    "titulo": "Malvinas: el Gobierno evalúa incluir la pesca y otras actividades en el proyecto de sanciones que enviará al Congreso",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/malvinas-el-gobierno-evalua-incluir-la-pesca-y-otras-actividades-en-el-proyecto-de-sanciones-que-enviara-al-congreso",
+    "texto_original": "En pleno proceso de redacción de la Ley de Defensa de la Soberanía Nacional, el Gobierno evalúa ampliar el alcance de las sanciones a otras actividades, como la pesca ilegal, según confirmó una fuente oficial a Infobae. Se trata de un reclamo que levantó la Fundación Latinoamericana de Sostenibilidad Pesquera (Fulasp) al argumentar que el mismo criterio utilizado contra las petroleras debía aplicarse a las licencias de pesca que el Reino Unido otorga desde hace décadas.\n\nA partir de los anuncios del presidente Javier Milei, la administración libertaria analiza extender los alcances de la Ley 26.659, conocida popularmente como “Ley Pino Solanas”, aprobada por unanimidad el 16 de marzo de 2011 durante el primer mandato de Cristina Kirchner. El articulado establece que la exploración y explotación de hidrocarburos en la Plataforma Continental Argentina solo pueden realizarse bajo habilitación emitida por autoridad competente argentina.En Casa Rosada discuten la posibilidad de endurecer las penas y ampliar las actividades “de negocios” en las islas. La alternativa fue conversada en la última reunión de la mesa política, que tuvo lugar el pasado martes, y la eventual ampliación podría sumarse al esquema de sanciones contra las empresas que buscan extraer petróleo en Malvinas. Hasta el momento, el Ministerio de Relaciones Exteriores denunció a 60 firmas, en coordinación con la Procuración del Tesoro.\n\nSi finalmente se avanza, quedará contemplada en el proyecto que actualmente atraviesa la última instancia de revisión en la Secretaría de Legal y Técnica, a cargo de María Ibarzabal Murphy.\n\nEl planteo también pone el foco en la Ley Federal de Pesca, que regula el uso, la protección y la administración de los recursos vivos marinos en las aguas, aunque existen reclamos en torno a su aplicación.\n\nEl peronismo pide que las empresas y actores vinculados con la explotación de los recursos pesqueros en las islas sean alcanzados por el régimen de sanciones. El pedido se suma al de las entidades del sector, que buscan que la pesca sea incorporada expresamente al proyecto que el Ejecutivo enviará al Congreso.\n\nEsta mañana, durante la inauguración del Museo del Regimiento de Granaderos a Caballo “General San Martín”, el mandatario aseguró que con la nueva normativa “los que provean servicios a empresas vinculadas a la explotación ilegal de recursos argentinos no podrán contratar ni con el Estado ni con privados en nuestro país”. Además, reveló que incluirá otras herramientas necesarias para fortalecer las capacidades del Ejército y el ejercicio de la soberanía, como la creación del Consejo de Seguridad Nacional.\n\nPor estas horas, el asesor presidencial, Santiago Caputo, termina de definir el formato que tendrá la presentación legislativa del próximo lunes, que ingresará por la Cámara de Diputados, donde el oficialismo cuenta con mayores apoyos para avanzar. El Poder Ejecutivo evalúa dos alternativas: girar el proyecto de manera tradicional o enviar a un funcionario al Congreso para explicar los detalles del articulado.\n\nEn ese escenario, los ministros Carlos Presti (Defensa) y Pablo Quirno (Relaciones Exteriores), que participaron directamente en la redacción del texto, figuran entre los potenciales expositores. Más allá de esa eventual participación, en Casa Rosada descuentan que asistirán al Congreso cuando el proyecto se trate en comisión.\n\nEl oficialismo apunta a que el tratamiento legislativo comience entre fines de septiembre y principios de octubre. “Es un tema que no debería suponer resistencia, por lo que descontamos que tendrá dictamen rápido. Para la última de septiembre y la primera de octubre debería comenzarse a tratar”, expresó ante este medio una fuente de mesa política.\n\nLa discusión legislativa se da en paralelo a la ofensiva del Gobierno contra las empresas vinculadas a supuestos negocios petroleros ilegales en las Islas Malvinas, en el proyecto Sea Lion. Milei anunció además la construcción de una Base Naval integrada en Tierra del Fuego, cuyo financiamiento estará contemplado en el Presupuesto 2027 y que, según planteó el mandatario, “no pone en juego el superávit”. En ese marco, Quirno y Presti viajarán este viernes a la provincia para recorrer la zona y avanzar en las obras.\n\n“El lobby petrolero es clave. Que los ingleses sienten a la Argentina en una mesa de negociación a hablar de compartir regalías, bloques conjuntos, lo que sea, supone un avance. Esta es nuestra última oportunidad”, expresó una fuente con acceso al despacho presidencial.\n\nEn las filas oficialistas aseguran que la cadena nacional en la que el mandatario anunció el paquete de medidas en defensa de la soberanía de las Islas Malvinas generó buena repercusión en las redes sociales, una evaluación que el Gobierno celebró. Aún con los resultados sobre la mesa, evitan “gastar el recurso”, y dejan en manos de los dos ministros la explicación de los detalles del proyecto.\n\nFuente: Infobae",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "gobierno",
+      "legislatura",
+      "presupuesto",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-un-nogoyaense-en-la-seleccion-argentina-rafa-pellichero-va-por-el-sueno-mundialista",
+    "fuente": "Nogoyá Times",
+    "titulo": "UN NOGOYÁENSE EN LA SELECCIÓN ARGENTINA: RAFA PELLICHERO VA POR EL SUEÑO MUNDIALISTA",
+    "fecha": "2026-09-09",
+    "link": "https://nogoyatimes.com/generales/locales/un-nogoyaense-en-la-seleccion-argentina-rafa-pellichero-va-por-el-sueno-mundialista/",
+    "texto_original": "Del 9 al 13 de septiembre, la ciudad de Araguari, Brasil, será escenario del Sudamericano U19 de Vóley, torneo clasificatorio para el Mundial de la categoría del próximo año.\n\nY una vez más, el vóley de Nogoyá tiene motivos para sentirse orgulloso. El inagotable semillero del Colegio San Miguel vuelve a aportar talento a una Selección Argentina: el nogoyaense Rafael “Rafa” Pellichero Sorba fue convocado para vestir la camiseta albiceleste y afrontar este importante desafío internacional.\n\nRafa será uno de los integrantes del seleccionado argentino que buscará quedarse con una de las plazas para el Mundial U19. Para el joven jugador de nuestra ciudad, será una experiencia única y, al mismo tiempo, un orgullo enorme representar a Nogoyá y a la Argentina en una competencia de esta magnitud.\n\nArgentina integrará el Grupo junto a Uruguay, Colombia y Venezuela.\n\n EL FIXTURE DE ARGENTINA\n\n9 de septiembre – 17:30 hs.\nArgentina vs. Uruguay\n\n10 de septiembre – 20:00 hs.\nArgentina vs. Colombia\n\n11 de septiembre – 20:00 hs.\nArgentina vs. Venezuela\n\nLos partidos podrán seguirse a través de Voleysur.org.\n\nUN CAMINO DE TRABAJO Y ESFUERZO\n\nLa Selección Argentina, dirigida por Rodrigo Martínez Granados, viene trabajando durante todo el año en el CeNARD, además de realizar concentraciones en distintos puntos del país.\n\nEl último miércoles, el plantel se reunió en Buenos Aires y posteriormente emprendió viaje rumbo a Brasil, donde comenzará el desafío sudamericano.\n\nEL PLANTEL ARGENTINO\n\nNehuén D´Aversa\nRafael Pellichero\nJoaquín Aquino\nMateo Ancilleta\nValentino Gregalio\nJuan Bertoluzi\nMaximiliano Sposito\nTiago Broder\nFrancisco Emanuel Núñez\nOctavio Santino Gregorio\nMartín Rojas\nMateo Corsaro\nFacundo Díaz\nFrancisco Sonori\n\nDirector Técnico: Rodrigo Martínez Granados.\n\n ORGULLO NOGOYAENSE\n\nLa presencia de Rafa Pellichero Sorba en la Selección Argentina vuelve a poner en valor el enorme trabajo que se realiza en el vóley de Nogoyá y, particularmente, el semillero del Colegio San Miguel.\n\nDesde nuestra ciudad, todos estaremos alentando a Rafa en este gran desafío. Una camiseta celeste y blanca, un sueño mundialista y el orgullo de llevar bien alto el nombre de Nogoyá.\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nUN NOGOYÁENSE EN LA SELECCIÓN ARGENTINA: RAFA PELLICHERO VA POR EL SUEÑO MUNDIALISTA\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:32Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-la-semana-entre-dos-rios-edicto-24",
+    "fuente": "La Semana Entre Dos Ríos",
+    "titulo": "EDICTO",
+    "fecha": "2026-09-09",
+    "link": "https://lasemanaentredosrios.com/edicto-24/",
+    "texto_original": "El Sr. Juez de Primera Instancia en lo Civil, Comercial y del Trabajo de la ciudad de San Salvador, provincia de Entre Ríos, Arturo Horacio Mc Loughlin a cargo del\n […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "comercio",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-la-semana-entre-dos-rios-la-policia-de-san-salvador-recupero-herramientas-sustraidas-de-una-obra-en-construccion",
+    "fuente": "La Semana Entre Dos Ríos",
+    "titulo": "La Policía de San Salvador recuperó herramientas sustraídas de una obra en construcción",
+    "fecha": "2026-09-09",
+    "link": "https://lasemanaentredosrios.com/la-policia-de-san-salvador-recupero-herramientas-sustraidas-de-una-obra-en-construccion/",
+    "texto_original": "En el marco de una causa por hurto, personal de la División Investigaciones e Inteligencia Criminal de la Jefatura Departamental San Salvador logró recuperar elementos que habían sido denunciados como\n […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-la-semana-entre-dos-rios-el-gobierno-provincial-y-bomberos-voluntarios-acordaron-una-agenda-de-trabajo-para-fortalecer-el-sistema-de-emergencias",
+    "fuente": "La Semana Entre Dos Ríos",
+    "titulo": "El Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias",
+    "fecha": "2026-09-09",
+    "link": "https://lasemanaentredosrios.com/el-gobierno-provincial-y-bomberos-voluntarios-acordaron-una-agenda-de-trabajo-para-fortalecer-el-sistema-de-emergencias/",
+    "texto_original": "El gobernador Rogelio Frigerio se reunió con autoridades de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios y remarcó que durante la actual gestión comenzó a implementarse efectivamente la Ley\n […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=ucu-y-ciscu-firmaron-un-convenio-para-fortalecer-la-cooperacion-en-investigacion-formacion-y-transferencia",
+    "fuente": "La Prensa Federal",
+    "titulo": "UCU y CISCU firmaron un convenio para fortalecer la cooperación en investigación, formación y transferencia",
+    "fecha": "2026-09-09",
+    "link": "https://www.laprensafederal.com.ar/ucu-y-ciscu-firmaron-un-convenio-para-fortalecer-la-cooperacion-en-investigacion-formacion-y-transferencia/?utm_source=rss&utm_medium=rss&utm_campaign=ucu-y-ciscu-firmaron-un-convenio-para-fortalecer-la-cooperacion-en-investigacion-formacion-y-transferencia",
+    "texto_original": "La Universidad de Concepción del Uruguay y la Cámara de la Industria del Software de Concepción del Uruguay suscribieron un Convenio Marco de Mutua Cooperación, Complementación y Asistencia, destinado a promover acciones conjuntas en los ámbitos de la docencia, la investigación, la extensión, la formación profesional y la transferencia al medio.\n\nEl acuerdo fue firmado por la Vicerrectora de la UCU, Dra. Ma. Georgina Vierci, y el presidente de CISCU, José Luis Betancourt, y tendrá una vigencia de cinco años.\n\nEl convenio establece un marco para que ambas instituciones desarrollen programas de cooperación y proyectos conjuntos en áreas de interés común, con especial énfasis en la generación e intercambio de conocimiento, la formación y el perfeccionamiento de recursos humanos y el intercambio de información científica y técnica.\n\nEntre las acciones previstas se contempla la posibilidad de brindar asesoramiento y consultoría en áreas de competencia de cada institución, promover instancias de capacitación y perfeccionamiento, y facilitar prácticas para estudiantes de la Universidad de Concepción del Uruguay y profesionales vinculados con la Cámara.\n\nAsimismo, el acuerdo permitirá avanzar en iniciativas de investigación, extensión y transferencia al medio, además de favorecer el intercambio de personal y el aprovechamiento conjunto de resultados y conocimientos disponibles.\n\nLas actividades que surjan a partir del convenio serán instrumentadas mediante protocolos específicos, en los que se definirán los objetivos, modalidades, plazos y demás aspectos necesarios para la implementación de cada proyecto.\n\nDe esta manera, la UCU y CISCU consolidan un espacio de articulación entre el ámbito académico y el sector de la industria del software, con el propósito de generar nuevas oportunidades de formación, producción de conocimiento y vinculación con el medio.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "industria"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=el-homenaje-a-marti-cerrara-con-un-espectaculo-artistico-de-relevancia",
+    "fuente": "La Prensa Federal",
+    "titulo": "El Homenaje a Martí cerrará con un espectáculo artístico de relevancia",
+    "fecha": "2026-09-09",
+    "link": "https://www.laprensafederal.com.ar/el-homenaje-a-marti-cerrara-con-un-espectaculo-artistico-de-relevancia/?utm_source=rss&utm_medium=rss&utm_campaign=el-homenaje-a-marti-cerrara-con-un-espectaculo-artistico-de-relevancia",
+    "texto_original": "Concepción del Uruguay conmemorará el centenario del nacimiento del escritor, gestor cultural y periodista Jorge Enrique Martí, como parte de la Semana del Centenario.\n\nAdemás de Concepción del Uruguay, el homenaje se desarrollará en Colón, Pueblo Liebig, San José y Villa Elisa. Comenzó el 8 de septiembre y se extenderá hasta el 14, incluyendo muestras escolares, conferencias, conversatorios, mesas de debate, exposiciones, recitales poéticos, estreno de documentales y conciertos, entre otras actividades.\n\nTeniendo a la Municipalidad como parte de la organización, en Concepción del Uruguay la agenda se desarrollará el \njueves 10 de septiembre\n, con un programa que se iniciará a las 9 en el Auditorio Scelzi, por la tarde se trasladará al Rectorado de UNER, y por la noche cerrará con una velada artística con entrada libre y gratuita, nuevamente en el Auditorio Scelzi.\n\nDesde las 19.30, el Auditorio Scelzi será escenario de un r\necital de Atahualpa Puchulu Trío, el Movimiento De Costa a Costa; Los Hermanos Lemes de Paysandú, y “Entre Ríos y canciones”, con Marita Londra, Carlos Aguirre, Beti Plana, Jorge y Polo Martí.\n\nPrograma – Jueves 10 – Auditorio Scelzi\n\n– 9 horas: palabras del Intendente José Lauritto y familiares de Martí.\n\n– 9.30: acto de reconocimiento por parte del Internado de la Asociación Educacionista “La Fraternidad”.\n\n– 10.00: Recuerdos Fraternales, charla entre amigos de Martí.\n\n– 10.30: “Jorge Enrique Martí, el poeta de la entrerrianidad”, por Adriana Ortea.\n\n– 11.15: El herbario y bestiario en la obra de Martí, por Luis Salvarezza.\n\n– 12.00: conversatorio sobre periodismo, con Américo Schwartzman, Juan Izaguirre y Atahualpa Puchulu.\n\nPrograma – Jueves 10 – Rectorado UNER\n\n– 16.00: bienvenida a cargo del rector de la Universidad, Juan Manuel Arbelo.\n\n– 16.15: El paso por la UNER: anecdotario y testimonios, con Betina Scotto y Cristina Billanes.\n\n– 16.45: “Martí, escritor entrerriano”, documental producido por TV UNER.\n\n– 17.15: Ediciones de obras de Martí, por Gustavo Martínez, director de EDUNER (Editorial UNER).\n\n– 17.45: Breve prólogo de la Poesía Esencial, por Miguel Ángel Federik.\n\n Auditorio Scelzi-19.30:\n Recital de Atahualpa Puchulu, De Costa a Costa; Los Hermanos Lemes, y “Entre Ríos y canciones”, con Marita Londra, Carlos Aguirre, Beti Plana, Jorge y Polo Martí.\n\nAgenda en ciudades vecinas\n\nLa Semana del Centenario de Jorge Enrique Martí también continuará así:\n\n– Viernes 11 en Colón: salón de actos de la Escuela “Juan José Paso”.\n\n– Sábado 12 en Villa Elisa: Auditorio “Heraldo Peragallo”.\n\n– Domingo 13 en San José: Casa del Bicentenario. \n\n– Lunes 14 en Colón: Biblioteca “Fiat Lux” y Biblioteca “Casa 7” (barrio San Francisco).",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concepción del uruguay",
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-despedidos-de-tres-arroyos-marcharon-en-buenos-aires",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "Despedidos de Tres Arroyos marcharon en Buenos Aires",
+    "fecha": "2026-09-09",
+    "link": "https://diariovictoria.com.ar/despedidos-de-tres-arroyos-marcharon-en-buenos-aires/",
+    "texto_original": "La movilización fue hacia la Secretaría de Trabajo, ante la grave crisis que afecta la planta de Concepción del Uruguay y otras sedes de la firma\n\nTrabajadores y organizaciones sindicales de la industria de la alimentación se movilizaron este miércoles hacia la Secretaría de Trabajo de la Nación para reclamar una intervención urgente ante la crisis que atraviesa Granja Tres Arroyos.\n\nLa protesta fue acompañada por la CTA, con la presencia de su secretario general, \nHugo Godoy\n, y reunió a las cuatro federaciones del sector: la Federación Gremial del Personal de la Industria de la Carne y sus Derivados, la Federación Trabajadores de la Industria de la Alimentación (\nFTIA\n), la Unión Argentina de Trabajadores Rurales y Estibadores (\nUATRE\n) y la Unión Obrera Molinera Argentina (\nUOMA\n).\n\nLos trabajadores reclaman el pago de salarios adeudados desde mayo, el cumplimiento de la conciliación obligatoria y \nla reincorporación de los más de 1.780 trabajadores despedidos de Granja Tres Arroyos\n. Además, advierten que la crisis pone en riesgo alrededor de 7.000 puestos de trabajo directos e indirectos vinculados a la actividad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:37Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-frigerio-recibio-a-bomberos-voluntarios-para-fortalecer-el-sistema-de-emergencias",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "Frigerio recibió a Bomberos Voluntarios para fortalecer el sistema de emergencias",
+    "fecha": "2026-09-09",
+    "link": "https://diariovictoria.com.ar/frigerio-recibio-a-bomberos-voluntarios-para-fortalecer-el-sistema-de-emergencias/",
+    "texto_original": "El gobierno provincial asumió el compromiso de mejorar el circuito administrativo de los recursos previstos por la ley para acortar los tiempos de tramitación y dar mayor previsibilidad a los cuarteles\n\nEl gobernador \nRogelio Frigerio\n se reunió con autoridades de la \nFederación Entrerriana de Asociaciones de Bomberos Voluntarios \ny remarcó que durante la actual gestión comenzó a implementarse efectivamente la Ley 11.116, que hasta entonces no había sido aplicada en la provincia.\n\nTambién acordaron avanzar en un plan de trabajo conjunto para \nmejorar la respuesta ante emergencias\n, agilizar el acceso a los recursos y fortalecer el financiamiento del sistema.\n\nEn ese marco, el Gobierno provincial asumió el \ncompromiso de mejorar el circuito administrativo de los recursos previstos por la ley para acortar los tiempos de tramitación y dar mayor previsibilidad a los cuarteles\n. Actualmente, el proceso atraviesa distintas instancias administrativas y de control, por lo que durante la reunión se planteó analizar alternativas que permitan reducir esos plazos.\n\nAsimismo, se acordó avanzar en una mayor articulación entre Nación, provincia y municipios para fortalecer el funcionamiento de los cuarteles. “Como en tantos otros temas, tenemos que ordenar responsabilidades y definir con claridad qué puede aportar cada nivel del Estado”, sostuvo Frigerio. En ese sentido, se analizarán las experiencias de Santa Fe, Córdoba y Corrientes.\n\nEntre los temas abordados estuvo además la necesidad de mejorar y diversificar las fuentes de financiamiento del sistema, tanto a través de los recursos provenientes de Nación como mediante alternativas que puedan instrumentarse desde la provincia y los municipios. También se acordó analizar las herramientas previstas en la Ley nacional 27.629 de Bomberos Voluntarios.\n\nOtro de los ejes centrales fue la preparación ante los eventos climáticos que puedan afectar a Entre Ríos. En ese sentido, la provincia y los bomberos voluntarios acordaron trabajar en un plan coordinado para afrontar las contingencias que pueda generar el fenómeno de El Niño, revisar capacidades y necesidades y gestionar los recursos necesarios para fortalecer la respuesta ante emergencias.\n\nAl finalizar el encuentro, el presidente de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, Ariel Molina, valoró la predisposición del gobernador y destacó la posibilidad de avanzar en una agenda conjunta. “Necesitábamos y era urgente esta reunión. La charla que tuvimos con el gobernador fue positiva, porque se comprometió a trabajar para mejorar los tiempos de llegada de los recursos y también se habló de un trabajo en conjunto para fortalecer aún más el sistema en lo económico, de parte de la provincia, para no ser tan dependientes de lo que mande Nación y tener un sistema más autónomo acá”, explicó.\n\nPor su parte, el presidente de Bomberos Voluntarios de Gualeguay, Juan Godino, destacó el respaldo institucional y la posibilidad de fortalecer la planificación conjunta. “Fue una reunión altamente positiva, porque se logró que varios puntos se lleguen a concretar y ver para el futuro, ante una emergencia hídrica como la que está anunciada, de poder trabajar en conjunto, saber a lo que nos vamos a enfrentar y tener el respaldo que ha prometido el gobernador. Seguimos trabajando continuamente con el mismo fin que es mejorar el sistema bomberil”, remarcó.\n\nDel encuentro participaron además el secretario general de la Gobernación, Mauricio Colello; los ministros de Economía y Servicios Públicos, Fabián Boleas, y de Desarrollo Económico, Guillermo Bernaudo; y el director de la Administradora Tributaria de Entre Ríos (ATER), Jesús Korell.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:37Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "impuestos",
+      "gobierno",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federación",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-5ab6cb2c1799",
+    "fuente": "AP Noticias",
+    "titulo": "Obras y trabajos del Municipio de Villaguay",
+    "fecha": "2026-09-08",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0o3QWpOYVFZRzNmZlNfZE1ETVJDTTdTQjRtbk9KWE5WWWY0eHBQYjRMUzBla2lBMDYyaHp3VktpdXZvZFJKR2tjRDRJcjU4cVF2WjI1U3VEWWFpY1dvZHdQU2U4Ukk4eVBwLTBTN25aeG94WWJjWDVwNUZTSFRVYVpfRQ?oc=5",
+    "texto_original": "Obras y trabajos del Municipio de Villaguay\n  \nAP Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:40Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-guitarras-del-mundo-llega-por-primera-vez-a-victoria-en-septiembre",
+    "fuente": "Paralelo32",
+    "titulo": "Guitarras del Mundo llega por primera vez a Victoria en septiembre",
+    "fecha": "2026-09-09",
+    "link": "https://www.paralelo32.com.ar/guitarras-del-mundo-llega-por-primera-vez-a-victoria-en-septiembre",
+    "texto_original": "La música de cuerdas volverá a recorrer Entre Ríos con una nueva edición de Guitarras del Mundo, el festival itinerante organizado por UPCN Nación que este año llegará por primera vez a Victoria.\n\nLa 32ª edición del encuentro se desarrollará entre el 23 de septiembre y el 4 de octubre, con 31 sedes distribuidas en distintos puntos del país. En Entre Ríos, además de la tradicional presentación en Paraná, se incorporará Victoria al circuito.\n\nEl festival es impulsado por el Consejo Directivo Nacional de UPCN con el objetivo de acercar propuestas culturales a los trabajadores, sus familias y la comunidad en general. El encuentro cuenta con reconocimiento internacional y tiene como padrino al guitarrista y compositor Juan Falú.\nParaná y Victoria serán las sedes entrerrianas\nLa primera presentación en la provincia será en Paraná, el sábado 26 de septiembre a las 21, en el Auditorio “Juan Domingo Perón” de la sede sindical de UPCN, ubicada en Santa Fe 463.\n\nEl escenario reunirá a los músicos locales Valentín Cosso y Tati Grandolio, junto a Paula Carrizo y Carlos Martínez, artistas con trayectoria nacional e internacional.\n\nLas entradas podrán retirarse anticipadamente en la sede de UPCN, de lunes a jueves de 8 a 20 y los viernes de 8 a 19.\n\nDos días después, el festival llegará por primera vez a Victoria. La presentación será el domingo 27 de septiembre a las 21, en la Sociedad Italiana, ubicada en avenida Congreso 533.\n\nEn esta oportunidad actuarán el músico local Daniel Gómez, junto a Marisa Gallo y Carlos Martínez.\n\nLas entradas estarán disponibles en la delegación de UPCN Victoria, en Perón y Montenegro, de lunes a viernes de 17 a 20.\nUna nueva sede para el festival en Entre Ríos\nLa secretaria de Cultura de UPCN Entre Ríos, Noelia Bertín, destacó la incorporación de Victoria al recorrido provincial.\n\n“Estamos muy felices de poder llevar Guitarras del Mundo a otra localidad entrerriana. Es una manera de seguir acercando el Sindicato a los trabajadores y a toda la comunidad”.\n\nBertín señaló además que este tipo de actividades buscan trascender el ámbito sindical y llegar al conjunto de la ciudadanía.\n\nDurante las tres décadas de historia del festival, la propuesta también pasó por Concordia, Gualeguaychú, Gualeguay y Nogoyá.\n\n“Era una asignatura pendiente poder llevar esta propuesta a otra ciudad y este año finalmente podemos concretarlo”, expresó.\n\nLa organización también agradeció el acompañamiento de la Sociedad Italiana y de la Secretaría de Cultura de la Municipalidad de Victoria, cuyo respaldo permitió concretar la nueva sede.\nQuiénes serán los artistasCarlos Martínez\nEs guitarrista y se especializa en la interpretación de obras instrumentales de compositores argentinos y extranjeros. En su repertorio aparecen nombres como Atahualpa Yupanqui, Eduardo Falú, Víctor Velázquez, Abel Fleury, Carlos Di Fulvio, Francisco Tárrega, Juan Sebastián Bach, Isaac Albéniz y Agustín Barrios.\n\nFue reconocido en distintos concursos y grabó obras integrales de compositores como Abel Fleury y Atahualpa Yupanqui.\nPaula Carrizo\nGuitarrista, cantante y docente, comenzó a presentarse como solista en 2008. Su recorrido está vinculado principalmente con el folclore y, más recientemente, con el tango.\n\nActualmente integra un dúo de guitarras con arreglos propios de música argentina y latinoamericana y forma parte del cuarteto del pianista y compositor Emmanuel Álvarez, dedicado a composiciones del género litoraleño.\n\nDesde 2024 integra además el elenco de “Las mujeres de Lorca”.\nMarisa Gallo\nLa música de Cañada Rosquín, Santa Fe, se desempeña como guitarrista, cantante, compositora, arregladora y educadora musical.\n\nParticipó en distintos proyectos musicales y actualmente acompaña al cantante y compositor rosarino Enrique Llopis. También integra el grupo folclórico La Espina, junto a Raúl Gallo.\n\nComo solista desarrolla un repertorio de raíz folclórica argentina, con composiciones y arreglos propios.\nDaniel Gómez\nEl guitarrista y arreglador oriundo de Victoria cuenta con formación en música clásica y popular y una trayectoria vinculada con el tango y el folklore, además de explorar géneros como jazz y bossa nova.\n\nIntegró el dúo “Dos Guitarras de Tango” y desde 2001 comparte un proyecto de tango con el pianista Claudio Méndez.\n\nTambién compuso la música de la película “El Gurí” y participó en diferentes proyectos teatrales y formaciones musicales.\nValentín Cosso\nNacido en Gualeguay, el guitarrista, compositor, arreglador e intérprete orienta su trabajo principalmente hacia la música argentina, con especial énfasis en la tradición litoraleña.\n\nEn 2018 publicó “Partiendo”, su primer material discográfico como guitarrista solista, y también editó libros con composiciones originales para guitarra.\n\nDesde 2016 integra Las Guitarras Gualeyas, agrupación con la que realizó una gira por distintas ciudades de España y Francia en 2022.\nTati Grandolio\nEl músico y compositor nacido en Victoria es acordeonista y arreglador. Entre 2010 y 2016 integró el grupo de Monchito Merlo y desde 2018 desarrolla su proyecto Tati Grandolio Grupo.\n\nEn 2025 produjo la música del documental “Monchito Viejo Nomas”, dedicado a Monchito Merlo.\n\nTambién integró el trío instrumental Victoria y en 2024 grabó “Tábanos” junto a Damián Lémes. A lo largo de su trayectoria compartió escenario con músicos como Chango Spasiuk, Rudi Flores y Juan Falú.\nUna nueva parada para las guitarras en la provincia\nCon Paraná como sede tradicional y Victoria incorporándose por primera vez, Guitarras del Mundo ampliará este año su presencia en Entre Ríos.\n\nLa propuesta combina músicos de distintas generaciones y recorridos con una mirada sobre la música argentina y latinoamericana, en un festival que durante 32 ediciones convirtió a la guitarra en protagonista de un circuito cultural que recorre todo el país.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:41Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "impuestos",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "gualeguaychú",
+      "gualeguay",
+      "nogoyá",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-feria-de-arte-parana-tres-charlas-para-conocer-la-escena-local",
+    "fuente": "Paralelo32",
+    "titulo": "Feria de Arte Paraná: tres charlas para conocer la escena local",
+    "fecha": "2026-09-09",
+    "link": "https://www.paralelo32.com.ar/feria-de-arte-parana-tres-charlas-para-conocer-la-escena-local",
+    "texto_original": "La Feria de Arte Paraná volverá a reunir a artistas, galeristas, gestores, curadores, coleccionistas y público durante tres jornadas dedicadas a las artes visuales.\n\nLa nueva edición se desarrollará del jueves 11 al sábado 13 de septiembre, de 16 a 21, en Sala Mayo, con una programación que incluirá tres charlas para abordar distintos aspectos de la producción artística, su circulación, la historia del arte local y el coleccionismo.\n40 años de muralismo en Paraná\nLa primera charla será el viernes 11 a las 19, en el hall central de Sala Mayo. Se titula “Todas las Manos, 40 años. Historia y huella del Muralismo en Paraná” y contará con la participación de la artista invitada Silvina Fontelles.\n\nEl encuentro propone recuperar la historia del Programa Todas las Manos, que cumple cuatro décadas y que dejó una marca particular en la cultura y el paisaje urbano de Paraná.\n\nLa pintura mural, a través de sus recorridos y protagonistas, contribuyó a construir una identidad visual propia en distintos espacios de la ciudad.\nTres galerías cuentan sus experiencias\nEl sábado 12 a las 18, también en el hall central, será el turno de “Cómo nace, cómo vuelve y cómo resiste una Galería de Arte”.\n\nLa propuesta reunirá a representantes de Blanca Irradiante, La Hendija Arte Contemporáneo y A la Vuelta de la Esquina, tres espacios con diferentes recorridos dentro de la escena artística de Paraná.\n\nLa conversación permitirá compartir experiencias y analizar los desafíos que implica sostener proyectos dedicados a la gestión y circulación del arte.\n\nEntre las participantes hay trayectorias diferentes: A la Vuelta de la Esquina cuenta con 25 años de actividad; Blanca Irradiante está iniciando su recorrido; mientras que La Hendija Arte Contemporáneo volvió a abrir sus puertas en 2025 después de varios años de inactividad.\nEl coleccionismo y la historia detrás de una colección\nLa tercera charla será el domingo 13 a las 17:30, también en el hall central. Karen Spahn presentará “Los coleccionistas son gente feliz”, una propuesta centrada en la formación de la Colección Garcilazo de grabado europeo antiguo y moderno.\n\nLa charla abordará la colección reunida en Paraná por el ingeniero Carlos Alberto Remigio Garcilazo desde la década de 1970.\n\nEl eje no estará puesto únicamente en las obras que forman parte de la colección, sino también en las relaciones, decisiones e intercambios que hicieron posible su construcción.\n\nDesde una mirada vinculada con la sociología y la historia social del arte, se analizará el coleccionismo como una práctica sostenida por diferentes actores: coleccionistas, vendedores, especialistas, instituciones y publicaciones, entre otros.\n\nLa propuesta busca reconstruir esa trama y acercarse a las motivaciones, conocimientos, afectos y decisiones que estuvieron detrás de la colección de Garcilazo.\nUna feria para fortalecer el mercado del arte\nLas tres charlas forman parte de una programación que busca generar espacios de intercambio entre quienes participan de la escena artística y el público.\n\nLa Feria de Arte Paraná tiene entre sus objetivos promover el mercado del arte local, favorecer la comercialización y circulación de obras y fortalecer los vínculos entre artistas, galeristas, gestores, curadores y coleccionistas de Paraná y de otros puntos del país.\n\nDurante tres días, Sala Mayo será así un espacio de encuentro para conocer distintas experiencias y acercarse a las múltiples dimensiones que atraviesan la producción y circulación de las artes visuales.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T21:10:41Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "comercio",
+      "servicios_publicos",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
   }
 ]
