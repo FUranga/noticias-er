@@ -26524,5 +26524,605 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-29d871151928",
+    "fuente": "Diario Junio",
+    "titulo": "La lista de los Etchevehere ganó la elección de la Sociedad Rural en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlU5dF9fTnJKb3RYQ2s5YWxfSGhDYlZTejBSOUFudXczdVkxZE9PMW5kQUV6N0NVSFpyTXZJbW44LTREclM2NzlVMTM2RTV6WXJMTXNaekxTWGY0NXZZN05fMi1ES0tVaWJ5c3dKTms0ZkpaTm9GalgzRHhQY3ZfSms0bFhFdmlkSWhhM1hpY05PaVZCRkRNQlRFNnhBblFtT0pIOHpjdjdsaWxCaC1Qbg?oc=5",
+    "texto_original": "La lista de los Etchevehere ganó la elección de la Sociedad Rural en Entre Ríos\n  \nDiario Junio",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:03Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b711e68ea094",
+    "fuente": "Letra P",
+    "titulo": "El homenaje del peronismo a De la Sota tonificó el mensaje de unidad en el PJ de Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV05laFQxWW5MQ3I5ajNFbGFVcl9Ncm1YVlNCN1pmYmRQNmduSV91MmxySl9sZ0lHM0xoUl9JZnFyMGhPTjluWWNZa3hqOXh4SHhRd1dyazNuYXNsd25wUlNFRmkxVHV5OGhxaVhCRzBnN0FrcU1LQnpxV3NhdEZhWkJpdzBzRjEtcUcwal9uWjVjMDBvRWdLNUZOUXZ2MlJpNVpMcncxLVpXemM0WjhJTC1MSkFoZ9IBuwFBVV95cUxOdEpHYWVIS01GQ0lXMktMV3g1OFE2YjlJQ2R5ZVVZTmRGcUxfQUdBb0diQ1REVEp0LTF4MlR5YnJneTJPUzlYS3RMN0dFZFpGSEt6NnFjYnhiWWFXYXFqRV9XMVNwSHlMbXhHUXpNNDRDenVmckVTdWhVUGRXNC1aV0JyVXBic3BscFBYd3B0aUN6N3U0ZVdfeUJwcmo4c1R0bTZCU2I4S2dLaFBoSDVqUFZCbHB6WV9nNTdF?oc=5",
+    "texto_original": "El homenaje del peronismo a De la Sota tonificó el mensaje de unidad en el PJ de Entre Ríos\n  \nLetra P",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:03Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b8ce225f052e",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "La lista de Etchevehere, Berisso y Spiazzi se impuso en la elección de la Sociedad Rural de Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0s5NThBSktKV2hMd0ZmWHBFajUwaERhZzV1d09WZTJNeFhFZG9Ed0w4RnBBYUFFaDFCUGdpWXpDajdtSjctRWJpdzJNYzJnTjdpN1ZXclVxaVVlSmkzR1VWdndBQUFSU0hHNWdTdEYzTUl6ZDNaLWNLZ1h0T3p5TEN0aXljSHBKemhnTXo1TGtlVVZHX2g5R0dTdTJzUUlsZ3hXOVBuY3Q4QmhLRzRfWHlub3FHckFMWmVEcnpHNk1UZmdabW1LazVCRQ?oc=5",
+    "texto_original": "La lista de Etchevehere, Berisso y Spiazzi se impuso en la elección de la Sociedad Rural de Entre Ríos\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:03Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-604594de219c",
+    "fuente": "Chajarí Digital",
+    "titulo": "Estudiantes de Villa del Rosario obtuvieron el segundo lugar con su proyecto en el Senado Juvenil de Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91cnZOU2ZNUXEtbkFFd0tyRmNPNmxBMkZtT1JlSlVkVmpOeTAwRnZlNEJSeWItTGhpWnVGU2YtMjBqd0didjgzeFNDcFJrUQ?oc=5",
+    "texto_original": "Estudiantes de Villa del Rosario obtuvieron el segundo lugar con su proyecto en el Senado Juvenil de Entre Ríos\n  \nChajarí Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:03Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-09cf936af9f9",
+    "fuente": "Diario El Debate Pregón",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi ganó en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEhLWEpOZ2NodS16MVVENlBGcV9wUGZUbkhZbEJCNUtpZDFjbjFNSzdESTI0RnF3RVRURFlmUWJxTXBZNERndTltVkItQ0FJVGQ3cXVveTQ3YmsxclZZREsxc2k1MlQ2aGZmdmdQd0d5OWQ5R3YyRzg0bEhzb01jQ0lBaXRRdDk0MGhkMDQtU2ZzTzFQN1VFNjRKa1I1RnNjVDNlNk9fdV9jLTdNZWpIVjZhdUgwYXZjTnBIaHg3UUdLX0J3M21NTFdYYnJtWnRhRHkwWmlOV0V1M0NJYkNwSWY4Y2I?oc=5",
+    "texto_original": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi ganó en Entre Ríos\n  \nDiario El Debate Pregón",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:03Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-acec245840c3",
+    "fuente": "APFDigital",
+    "titulo": "Se abrieron los sobres para intervenir la escuela de educación integral de Santa Elena",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUhUeEV2U1JaWDFuVEF3ZzdnWWNZbTQyNHpiXzA2ZlJudXZOSzhsR0lWSUFiNHF2M1RQVXJOS2ROLVVPNHBWZWxlWWFjdXg5alpkODItVU5Cdzc4YUtBYkg5S0o3S0s2RC0wbFUxcFJFMlFqWVR4RU42ZzIzV0p5UXR4OEJBRG5veWNCOVpUT0hPNGJKTzYzMG53ZWJ5aDExelczUWVVN2syY19hbVlPbUw1eTM1MXptNXUwNEFQa21TaWFhdWJHaVNJY2ZFT0JBOG8xdldBLVBnQ3PSAeABQVVfeXFMTXdhZllpdTRlcjgxWE50a0VJQ0dZMHExMTJMUzBHdUVYV05nODg1MDFFZndTMHppRmt4OTNLcUlBYW9hbzJnd1pvQm5TeGxWZDY0Wm1zempwYWp3TmRwQTdJaVNaRlhoYmNQa1E1RWhXOWFLNjZ5NE5yZjNYRVh4dllSaHB0WW1QUDU3RXd0M2FfcmdLM2RWTzd6UUlrclZUNHJhX1BNdFNqOXlTeFZBdnRsbVZZTFlhb2Nwa2tZZjIzZUs5c0ZlaWZKRVpzMWlkbVJBb01jc2kzcEhiOUZDRFY?oc=5",
+    "texto_original": "Se abrieron los sobres para intervenir la escuela de educación integral de Santa Elena\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-5d45d0ea356b",
+    "fuente": "APFDigital",
+    "titulo": "Discapacidad y sobreendeudamiento: Unanimidad de los diputados nacionales entrerrianos en la aprobación de los emplazamientos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTDB1SnZwTzZBMHRSVFloM3JfbFg3TlVDWlVKR0JxYVJvZE5YTTlZV1IxcTFVcHRmYVJ3bGtWLTZLdUk3WjFyVzY4SGRIT0dwZ3d0X1dYRnE2VS1JUjF6OEZhV0VrYnFEUjI2RTJ4cGtaSjBsdU9JSzdrb0k0dUhZWVE5eDN5bHp2ekNqVEVRRnZ0OFZqeUpZUmQzY2djSHUxVzVzTjJiZHhMcVJiV0tQUVJPdE9Ea1VSajItLTJQTmlsTlJSQmlSUDZoaTFxcHdJTmZCN194Q1FrV0cxLXhWY214aGxfOEhOa3lkLTFtaDlneEtRYlFqNE5zd1pSWF9GcE5IVTJNQmZtdDlrMWswN29xVdIBkwJBVV95cUxQTDB1SnZwTzZBMHRSVFloM3JfbFg3TlVDWlVKR0JxYVJvZE5YTTlZV1IxcTFVcHRmYVJ3bGtWLTZLdUk3WjFyVzY4SGRIT0dwZ3d0X1dYRnE2VS1JUjF6OEZhV0VrYnFEUjI2RTJ4cGtaSjBsdU9JSzdrb0k0dUhZWVE5eDN5bHp2ekNqVEVRRnZ0OFZqeUpZUmQzY2djSHUxVzVzTjJiZHhMcVJiV0tQUVJPdE9Ea1VSajItLTJQTmlsTlJSQmlSUDZoaTFxcHdJTmZCN194Q1FrV0cxLXhWY214aGxfOEhOa3lkLTFtaDlneEtRYlFqNE5zd1pSWF9GcE5IVTJNQmZtdDlrMWswN29xVQ?oc=5",
+    "texto_original": "Discapacidad y sobreendeudamiento: Unanimidad de los diputados nacionales entrerrianos en la aprobación de los emplazamientos\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-0fb30d5eb640",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Japón levantó la suspensión y vuelve a importar productos avícolas de Argentina",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE5YODZoZHdOU3BrN2ItSjJZV0FaekVlU2ZCdHNONEx5SGJ5ZmJJa3p2NWpPa05VMXVDWnJ4Um4wS3ZVUWx6YU1nUGpDTGwyVFMzN2ZCcDA4NEFSSWNBYk1TYThDWTJUamNjb0dpdUR6VXBiQlVPWHNtTllLcFNHMndrZ2V5V2xMM0E2Wjk3YzlYVzhMN2VkRmxPQktUOU01eVVwaGVHd19pa3RYNEE?oc=5",
+    "texto_original": "Japón levantó la suspensión y vuelve a importar productos avícolas de Argentina\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:06Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-b8ce225f052e",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "La lista de Etchevehere, Berisso y Spiazzi se impuso en la elección de la Sociedad Rural de Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0s5NThBSktKV2hMd0ZmWHBFajUwaERhZzV1d09WZTJNeFhFZG9Ed0w4RnBBYUFFaDFCUGdpWXpDajdtSjctRWJpdzJNYzJnTjdpN1ZXclVxaVVlSmkzR1VWdndBQUFSU0hHNWdTdEYzTUl6ZDNaLWNLZ1h0T3p5TEN0aXljSHBKemhnTXo1TGtlVVZHX2g5R0dTdTJzUUlsZ3hXOVBuY3Q4QmhLRzRfWHlub3FHckFMWmVEcnpHNk1UZmdabW1LazVCRQ?oc=5",
+    "texto_original": "La lista de Etchevehere, Berisso y Spiazzi se impuso en la elección de la Sociedad Rural de Entre Ríos\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:06Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-la-lista-de-los-etchevehere-gano-la-eleccion-de-la-sociedad-rural-en-entre-rios",
+    "fuente": "Diario Junio",
+    "titulo": "La lista de los Etchevehere ganó la elección de la Sociedad Rural en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://www.diariojunio.com.ar/la-lista-de-los-etchevehere-gano-la-eleccion-de-la-sociedad-rural-en-entre-rios/",
+    "texto_original": "La lista Renovación con Unidad, encabezada en Entre Ríos por Juan Diego Etchevehere, obtuvo el 57% de los votos en la elección de la Sociedad Rural Argentina. La interna rural se resolvió este miércoles en el marco de la Asamblea Anual Ordinaria realizada en el Predio Ferial de Palermo, con una diferencia de 14 puntos sobre la nómina que quedó en segundo lugar. El resultado fortalece la presencia de la familia en la representación del sector agropecuario,  mientras que deberá afrontar un juicio oral por la presunta administración fraudulenta de la empresa propietaria de El Diario de Paraná. A ese expediente se suman otros antecedentes judiciales que atravesaron a la familia durante las últimas décadas, desde investigaciones por evasión y presuntas maniobras patrimoniales hasta una condena por infracciones al régimen penal cambiario y denuncias por explotación laboral rural.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "agro",
+      "servicios_publicos",
+      "justicia",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-cajas-municipales-petit-cuestiono-la-reforma-y-advirtio-por-la-diferencia-con-el-aporte-previsional-provincial",
+    "fuente": "Diario Junio",
+    "titulo": "Cajas municipales: Petit cuestionó la reforma y advirtió por la diferencia con el aporte previsional provincial",
+    "fecha": "2026-09-09",
+    "link": "https://www.diariojunio.com.ar/cajas-municipales-petit-cuestiono-la-reforma-y-advirtio-por-la-diferencia-con-el-aporte-previsional-provincial/",
+    "texto_original": "La abogada María de los Ángeles Petit cuestionó la media sanción del proyecto presentado por el senador José Vergara que modifica el artículo 192 de la Ley Orgánica de Municipios y permite eliminar el tope del aporte previsional de las cajas municipales. Advirtió que la iniciativa puede profundizar las desigualdades entre los distintos regímenes previsionales de Entre Ríos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-047dfa14f3e3",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "9° edición del gran Arroz con Pollo al Disco",
+    "fecha": "2026-09-08",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkNwX0lYUjVwSE5heGc5OEl0UXRpZ2V5OGtyWnZvRDd6Uno1QWZUNUNsUEFqRkcwOTQxWFNKbTdPYjJ2OWlHUmxjMVBuV3pfbHBmQk9HdlNmZjM4YWFwZXB0LWE2OS1jZC1RWklqUXVUZ0ZCSV9mZ1lrVGJKRG9KQklMeVRaTTlHQ1ZJQlFaX1dYWVJfbDJsaTZR?oc=5",
+    "texto_original": "9° edición del gran Arroz con Pollo al Disco\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-el-gobierno-provincial-y-bomberos-voluntarios-acordaron-una-agenda-de-trabajo-para-fortalecer-el-sistema-de-emergencias",
+    "fuente": "TalCual Chajarí",
+    "titulo": "El Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias",
+    "fecha": "2026-09-09",
+    "link": "https://www.talcualchajari.com.ar/225856/el-gobierno-provincial-y-bomberos-voluntarios-acordaron-una-agenda-de-trabajo-para-fortalecer-el-sistema-de-emergencias/",
+    "texto_original": "El gobernador Rogelio Frigerio se reunió con autoridades de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios y remarcó que durante la actual gestión comenzó a implementarse efectivamente la Ley 11.116, que hasta entonces no había sido aplicada en la provincia.\n\nTambién acordaron avanzar en un plan de trabajo conjunto para mejorar la respuesta ante emergencias, agilizar el acceso a los recursos y fortalecer el financiamiento del sistema.\n\nEl gobernador Rogelio Frigerio encabezó este miércoles una reunión de trabajo con autoridades de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, con el objetivo de analizar el funcionamiento del sistema y avanzar en acciones que permitan fortalecer la capacidad de respuesta ante emergencias en la provincia.\n\nDurante el encuentro se destacó que, a partir de la actual gestión provincial, comenzó a implementarse la Ley 11.116, que contempla aportes destinados al sistema de bomberos voluntarios y la cobertura de obra social para sus integrantes. Se trata de una normativa que, pese a estar vigente desde hace años, no había tenido una implementación efectiva en la provincia.\n\nEn ese marco, el Gobierno provincial asumió el compromiso de mejorar el circuito administrativo de los recursos previstos por la ley para acortar los tiempos de tramitación y dar mayor previsibilidad a los cuarteles. Actualmente, el proceso atraviesa distintas instancias administrativas y de control, por lo que durante la reunión se planteó analizar alternativas que permitan reducir esos plazos.\n\nAsimismo, se acordó avanzar en una mayor articulación entre Nación, provincia y municipios para fortalecer el funcionamiento de los cuarteles. «Como en tantos otros temas, tenemos que ordenar responsabilidades y definir con claridad qué puede aportar cada nivel del Estado», sostuvo Frigerio. En ese sentido, se analizarán las experiencias de Santa Fe, Córdoba y Corrientes.\n\nEntre los temas abordados estuvo además la necesidad de mejorar y diversificar las fuentes de financiamiento del sistema, tanto a través de los recursos provenientes de Nación como mediante alternativas que puedan instrumentarse desde la provincia y los municipios. También se acordó analizar las herramientas previstas en la Ley nacional 27.629 de Bomberos Voluntarios.\n\nOtro de los ejes centrales fue la preparación ante los eventos climáticos que puedan afectar a Entre Ríos. En ese sentido, la provincia y los bomberos voluntarios acordaron trabajar en un plan coordinado para afrontar las contingencias que pueda generar el fenómeno de El Niño, revisar capacidades y necesidades y gestionar los recursos necesarios para fortalecer la respuesta ante emergencias.\n\nAl finalizar el encuentro, el presidente de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, Ariel Molina, valoró la predisposición del gobernador y destacó la posibilidad de avanzar en una agenda conjunta. «Necesitábamos y era urgente esta reunión. La charla que tuvimos con el gobernador fue positiva, porque se comprometió a trabajar para mejorar los tiempos de llegada de los recursos y también se habló de un trabajo en conjunto para fortalecer aún más el sistema en lo económico, de parte de la provincia, para no ser tan dependientes de lo que mande Nación y tener un sistema más autónomo acá», explicó.\n\nPor su parte, el presidente de Bomberos Voluntarios de Gualeguay, Juan Godino, destacó el respaldo institucional y la posibilidad de fortalecer la planificación conjunta. «Fue una reunión altamente positiva, porque se logró que varios puntos se lleguen a concretar y ver para el futuro, ante una emergencia hídrica como la que está anunciada, de poder trabajar en conjunto, saber a lo que nos vamos a enfrentar y tener el respaldo que ha prometido el gobernador. Seguimos trabajando continuamente con el mismo fin que es mejorar el sistema bomberil», remarcó.\n\nDel encuentro participaron además el secretario general de la Gobernación, Mauricio Colello; los ministros de Economía y Servicios Públicos, Fabián Boleas, y de Desarrollo Económico, Guillermo Bernaudo; y el director de la Administradora Tributaria de Entre Ríos (ATER), Jesús Korell.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "impuestos",
+      "gobierno",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federación",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-en-argentina-desaparece-un-productor-agropecuario-cada-dos-horas-y-no-hay-politica-agropecuaria-dijo-el-vice-de-federacion-agraria",
+    "fuente": "TalCual Chajarí",
+    "titulo": "“En Argentina desaparece un productor agropecuario cada dos horas y no hay política agropecuaria” dijo el Vice de FEDERACION AGRARIA",
+    "fecha": "2026-09-09",
+    "link": "https://www.talcualchajari.com.ar/225853/en-argentina-desaparece-un-productor-agropecuario-cada-dos-horas-y-no-hay-politica-agropecuaria-dijo-el-vice-de-federacion-agraria/",
+    "texto_original": "“En Argentina desaparece un productor agropecuario cada dos horas”, advirtió el vicepresidente de la Federación Agraria Argentina (FAA), José Luis Volando, quien advirtió que la concentración productiva continúa y que ya quedan menos de 200.000 productores en el país.\n\nEn declaraciones publicadas en \nel portal a Bichos de Campo,\n Volando expresó: “En 1988 había 378.000 productores. Llegamos a la crisis y en 2002 quedaban 297.000. En el censo de 2018 éramos 222.000. Eso indica que se perdió un productor cada dos horas y, ahora, ya se calcula que hay menos de 200.000”.\n\nEl dirigente agrario remarcó que no se trata solamente de una menor cantidad de productores, sino de un proceso de concentración. Según explicó, el tamaño promedio de las explotaciones pasó de unas 426 hectáreas a más de 800. En el caso de la lechería, mencionó además una caída del 45% en la cantidad de tambos en una zona del centro del país. “No es que no hay producción, hay producción, pero hay más concentración”, resumió.\n\nVolando cree que el problema no puede explicarse simplemente como una consecuencia inevitable del funcionamiento del capitalismo. Al respecto, puso como ejemplo a Brasil, donde, según indicó, la cantidad de productores se mantuvo aproximadamente estable durante las últimas dos décadas debido a la aplicación de políticas activas, consignó \nel portal a Bichos de Campo.\n\nY allí aparece su principal crítica al Gobierno nacional. “El gobierno no tiene ningún tipo de política agropecuaria, simplemente vino a acomodar la macro”, afirmó. Según su mirada, la baja de la inflación y cierta reducción de las retenciones generaron un cambio de clima entre los productores, pero no resolvieron los problemas estructurales que enfrentan las empresas más chicas.\n\n“No hay política agropecuaria”, insistió, y sostuvo que la ausencia de herramientas públicas deja a los productores pequeños enfrentando al mismo tiempo la macroeconomía, los mercados y el clima. “Es una odisea producir en la Argentina. Está solo”, describió.\n\nEl ruralista aclaró que cuando habla de políticas activas no se refiere necesariamente a subsidios. Una de las herramientas que considera necesarias es el crédito de largo plazo para acceder a la tierra, con condiciones similares a las de un crédito hipotecario. También reclamó financiamiento flexible para maquinaria y capital de trabajo.\n\n“Así como la gente tiene que comprar una casa y necesita 20 años, para el campo es exactamente lo mismo”, planteó. Y agregó luego que el Estado “no tendría que poner nada” si se diseñaran mecanismos de financiamiento que permitan al productor acceder a herramientas y sostener su actividad, consignó \nel portal a Bichos de Campo.\n\nEl dirigente también cuestionó la falta de una política específica para la lechería y destacó que las entidades están intentando construir una posición común para reclamar medidas concretas. Para él, contener a los productores y evitar que sigan desapareciendo no significa frenar la evolución del sector, sino generar condiciones para que quienes quieren seguir trabajando puedan hacerlo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "agro",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-elecciones-en-la-sociedad-rural-argentina-la-lista-de-etchevehere-berisso-y-spiazzi-se-impuso-en-entre-rios-por-el-57",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/elecciones-en-la-sociedad-rural-argentina-la-lista-de-etchevehere-berisso-y-spiazzi-se-impuso-en-entre-rios-por-el-57/",
+    "texto_original": "En la provincia de Entre Ríos se impuso la línea interna \n\nRenovación con Unidad\n\n con el 57 % de los votos. La nómina, liderada por los ruralistas Juan Diego Etchevehere, Mariano Berisso y Mayda Spiazzi, contó también con la integración de los dirigentes provinciales Andrea Firpo, Miguel Dome, Federico Paoloni, Walter Feldkamp y Manuel Etchevehere. En tanto, la lista que obtuvo el segundo lugar fue encabezada por Domingo Veronesi y Valeria Trucco, quienes cosecharon el 43 % de los sufragios a nivel provincial.\n\nEsta constituye la cuarta oportunidad en la que la lista ganadora se impone en la provincia con una amplia mayoría.\n\nLos principales ejes de gestión sobre los cuales se apoyaron sus dirigentes en esta elección fueron su independencia gremial ante la política, la construcción de una agenda sectorial en base a las demandas de los productores, la cercanía en la representación territorial y la renovación dirigencial dentro de la entidad.\n\nA nivel nacional, la lista a presidente encabezada por Nicolás Pino resultó ganadora con el 71 % de los votos, frente a la lista liderada por Marcos Pereda, que alcanzó el 29 % de los sufragios.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "agro",
+      "servicios_publicos",
+      "construccion",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-el-gobierno-provincial-creo-el-sello-arroz-entrerriano-para-distinguir-la-produccion-provincial",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "El Gobierno provincial creó el sello “Arroz Entrerriano” para distinguir la producción provincial",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/el-gobierno-provincial-creo-el-sello-arroz-entrerriano-para-distinguir-la-produccion-provincial/",
+    "texto_original": "Entre Ríos oficializó la creación del Sello de Calidad “Arroz Entrerriano”, una distinción destinada a identificar y promocionar el arroz producido en territorio provincial que cumpla con determinados requisitos de calidad, origen y producción. La medida fue establecida mediante el Decreto N° 2999, firmado por el gobernador Rogelio Frigerio y el ministro de Desarrollo Económico, Guillermo Bernaudo.\n\nOficialmente se precisó que la iniciativa había sido impulsada por la Secretaría de Industria de esa cartera, con el acompañamiento del Instituto Nacional de Tecnología Agropecuaria (INTA) y la Fundación Proarroz.\n\nSegún establece el decreto, el objetivo es revalorizar y promocionar el arroz producido localmente, destacando su calidad y origen genuino, y generar una herramienta que permita mejorar su posicionamiento tanto en el mercado nacional como internacional.\n\nLos fundamentos de la medida remarcan la importancia que tiene la actividad arrocera para Entre Ríos. El cultivo llegó a la provincia en 1932, en la ciudad de San Salvador, y posteriormente se extendió hacia distintos puntos del centro y norte entrerriano, donde también se concentraron establecimientos destinados al procesamiento y agregado de valor.\n\nEl Gobierno provincial destacó que San Salvador cuenta actualmente con una importante capacidad molinera instalada y que puede procesar más del 50% de la producción nacional de arroz.\n\nTambién se señala que las características agroecológicas de Entre Ríos, junto con el trabajo de mejoramiento genético desarrollado por el INTA en convenio con la Fundación Proarroz, permitieron obtener variedades con alto potencial de rendimiento y calidad culinaria.\n\nA partir de estas condiciones, la Provincia sostiene que el arroz entrerriano cuenta con posibilidades de acceder a mercados exigentes y que resulta necesario contar con una identificación que permita garantizar y promocionar su calidad e inocuidad.\n\nQué requisitos deberán cumplir los productores\n\nLa utilización del nuevo sello estará condicionada al cumplimiento de un Protocolo de Calidad de Arroz Entrerriano, que forma parte del decreto.\n\nEl protocolo establece una serie de condiciones destinadas a garantizar la calidad diferenciada del producto. Entre ellas se contempla el uso de semillas adaptadas a las condiciones de la región, específicamente de la variedad Gurí-INTA CL, además de requisitos relacionados con la recolección y el procesamiento.\n\nUno de los principales requisitos establece que cada etapa del proceso —cultivo, cosecha, secado, elaboración y envasado— deberá realizarse dentro del territorio de Entre Ríos.\n\nDe esta manera, el sello apunta a identificar un producto cuya elaboración tenga un vínculo integral con la provincia y que pueda ser reconocido por sus características de calidad, sabor y comportamiento durante la cocción.\n\nBuscan fortalecer toda la cadena arrocera\n\nLa normativa señala además que el protocolo fue elaborado a partir de información proveniente de la industria arrocera y de documentación generada tanto por organismos públicos como privados.\n\nEl INTA intervino en el proceso y avaló técnicamente el protocolo. De acuerdo con los fundamentos del decreto, la implementación del sello permitiría integrar a los distintos actores de la cadena arrocera entrerriana y favorecer una mejora en la competitividad del sector.\n\nLa iniciativa también se encuadra en la Ley N° 9.228, que establece el Régimen de Promoción para el Desarrollo Arrocero Entrerriano. Esa legislación contempla, entre otros objetivos, promover el crecimiento y la expansión sustentable de la producción de arroz y su industrialización dentro de la provincia, además de mejorar su posicionamiento estratégico, comercialización e industrialización.\n\nEl Gobierno provincial estableció que su utilización estará sujeta al cumplimiento del protocolo correspondiente. A su vez, el Ministerio de Desarrollo Económico quedó facultado para dictar las normas complementarias y los procedimientos necesarios para implementar la nueva distinción.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "empleo",
+      "comercio",
+      "agro",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-el-gobierno-de-entre-rios-denuncio-penalmente-a-ate-por-graves-incidentes-en-la-direccion-general-de-recursos-humanos",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "El Gobierno de Entre Ríos denunció penalmente a ATE por graves incidentes en la Dirección General de Recursos Humanos",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/el-gobierno-de-entre-rios-denuncio-penalmente-a-ate-por-graves-incidentes-en-la-direccion-general-de-recursos-humanos/",
+    "texto_original": "El Gobierno de la Provincia de Entre Ríos informó que, a través de la Dirección General de Recursos Humanos, radicó formalmente una denuncia penal ante la Unidad Fiscal de Paraná contra integrantes de la Asociación de Trabajadores del Estado (ATE), Seccional Entre Ríos, por los hechos de violencia e intimidación ocurridos este martes en la sede del organismo, ubicada en calle Corrientes N.º 399 de Paraná.\n\nSegún consta en la denuncia presentada por la Directora General de Recursos Humanos, Luciana Magali Kapp, alrededor de las 10:30 horas un grupo de aproximadamente cien personas identificadas con la pechera de ATE —entre ellas dirigentes de la seccional provincial y del Consejo Directivo Nacional— se presentó en el edificio, forzando el ingreso y generando un forcejeo con personal de Mesa de Entradas.\n\nEl grupo se desplazó luego por las oficinas, profiriendo expresiones intimidatorias y amenazas hacia los trabajadores, exigiendo la agilización de trámites gremiales. Hubo empujones y forcejeos hacia varias empleadas, golpes reiterados a las puertas y daños en mobiliario. Un empleado debió permanecer encerrado en una oficina y llamó al 911.\n\nLa denuncia también menciona un episodio anterior, del 19 de mayo de 2026, con amenazas de similar gravedad contra la funcionaria.\n\nEl Gobierno pondrá a disposición de la Justicia los registros fílmicos y el testimonio de más de una decena de testigos, y solicitó medidas de seguridad para el personal.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-un-joven-de-19-anos-asesino-a-su-pareja-por-celos-baleo-a-su-suegro-y-se-dio-a-la-fuga",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Un joven de 19 años asesinó a su pareja “por celos”, baleó a su suegro y se dio a la fuga",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/un-joven-de-19-anos-asesino-a-su-pareja-por-celos-baleo-a-su-suegro-y-se-dio-a-la-fuga/",
+    "texto_original": "Un brutal y trágico ataque por \ncelos \nocurrió este martes en la localidad bonaerense de \n\nItuzaingó\n\n, donde\n Elías Barrionuevo\n, un joven de apenas 19 años, asesinó a su pareja, \nRuth Camila Marful Castro (18) \nen medio de una discusión. En ese contexto, el asesino también baleó a su suegro y luego se dio a la fuga.\n\n“\nÉl es muy tóxico hacia ella, no la dejaba vivir\n”, reconoció este miércoles Mónica, abuela de la víctima, durante una entrevista televisiva.\n\nFuentes policiales consultadas por \nInfobae \nprecisaron que el aberrante hecho ocurrió sobre la calle Almagro al 2500, a donde personal de la comisaría 4ª de Ituzaingó de la Policía Bonaerense se desplazó luego de que un llamado al 911 alertara sobre un episodio de violencia doméstica.\n\nUna vez en el lugar, los uniformados constataron que Ruth estaba tendida en la vía pública con \nuna herida de arma de fuego a la altura del cuello\n, mientras que su padrastro, identificado como \nJorge González (35)\n, fue hallado con balazos en ambas piernas.\n\nAnte ese escenario, la joven fue trasladada de urgencia en un patrullero hasta el Hospital del Bicentenario local, donde finalmente falleció a raíz de la grave herida que sufrió al ser atacada por su pareja.\n\nTras recabar testimonios de testigos y del padrastro de la víctima, los investigadores pudieron saber que el ataque había sido perpetrado por Barrionuevo, quien extrajo un arma de fuego de entre sus ropas luego de que González interviniera en defensa de su hijastra.\n\nSegún confiaron fuentes judiciales a El Día de Gualeguaychú, en el lugar del hecho se levantaron tres vainas y dos casquillos correspondientes a\n una pistola calibre .380\n. Por el momento, el arma homicida no fue encontrada.\n\nMónica, abuela de Ruth, habló esta mañana con los medios de prensa que buscaban testimonios de testigos en la zona del hecho y aseguró que presunto asesino era “muy tóxico” con su nieta.\n\n“\nElla era una chica muy bonita, pero no la dejaba vivir. \nEra muy celoso. Nunca pensé que por celos iba a llegar a hacer algo así. Porque ellos se piensan que tienen la vida comprada de las chicas, y no es así”, planteó la mujer durante una charla con el canal de noticias \nTN\n.\n\nDespués, la abuela de la víctima sostuvo que eran frecuentes las discusiones entre Ruth y el presunto asesino, por lo cual \nla joven siempre lucía “enojada”\n.\n\nAl final del reportaje, Mónica contó que \nRuth soñaba con ser modelo\n y su padrastro siempre se encargaba de llevarla a los castings. “También había empezado de nuevo la escuela, salía a bailar y tenía muchas amistades”, concluyó.\n\nEl caso quedó en manos de la UFI N° 11 del Departamento Judicial Morón, cuyos titulares, los fiscales \nFlorencia Inés Di Sciascio\n y \nLeandro Matías Vaccaro\n, dispusieron una serie de medidas para dar con el sospechoso y hallar el arma con la que mató a su pareja e hirió a su suegro. En ese sentido, ya se están relevando las cámaras de seguridad de la zona en busca de pruebas de interés para la causa.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-malvinas-el-gobierno-evalua-incluir-la-pesca-y-otras-actividades-en-el-proyecto-de-sanciones-que-enviara-al-congreso",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Malvinas: el Gobierno evalúa incluir la pesca y otras actividades en el proyecto de sanciones que enviará al Congreso",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/malvinas-el-gobierno-evalua-incluir-la-pesca-y-otras-actividades-en-el-proyecto-de-sanciones-que-enviara-al-congreso/",
+    "texto_original": "En pleno proceso de redacción de la Ley de Defensa de la Soberanía Nacional, el Gobierno evalúa ampliar el alcance de las sanciones a otras actividades, como la pesca ilegal, según confirmó una fuente oficial a Infobae. Se trata de un reclamo que levantó la Fundación Latinoamericana de Sostenibilidad Pesquera (Fulasp) al argumentar que el mismo criterio utilizado contra las petroleras debía aplicarse a las licencias de pesca que el Reino Unido otorga desde hace décadas.\n\nA partir de los anuncios del presidente Javier Milei, la administración libertaria analiza extender los alcances de la Ley 26.659, conocida popularmente como “Ley Pino Solanas”, aprobada por unanimidad el 16 de marzo de 2011 durante el primer mandato de Cristina Kirchner. El articulado establece que la exploración y explotación de hidrocarburos en la Plataforma Continental Argentina solo pueden realizarse bajo habilitación emitida por autoridad competente argentina.\n\nEn Casa Rosada discuten la posibilidad de endurecer las penas y ampliar las actividades “de negocios” en las islas. La alternativa fue conversada en la última reunión de la mesa política, que tuvo lugar el pasado martes, y la eventual ampliación podría sumarse al esquema de sanciones contra las empresas que buscan extraer petróleo en Malvinas. Hasta el momento, el Ministerio de Relaciones Exteriores denunció a 60 firmas, en coordinación con la Procuración del Tesoro.\n\nSi finalmente se avanza, quedará contemplada en el proyecto que actualmente atraviesa la última instancia de revisión en la Secretaría de Legal y Técnica, a cargo de María Ibarzabal Murphy.\n\nEl planteo también pone el foco en la \nLey Federal de Pesca\n, que regula el uso, la protección y la administración de los recursos vivos marinos en las aguas, aunque existen \nreclamos en torno a su aplicación.\n\nEl \nperonismo pide que las empresas y actores vinculados con la explotación de los recursos pesqueros en las islas sean alcanzados por el régimen de sanciones\n. El pedido se suma al de las entidades del sector, que buscan que la pesca sea incorporada expresamente al proyecto que el Ejecutivo enviará al Congreso.\n\nEsta mañana, durante la inauguración del Museo del Regimiento de Granaderos a Caballo “General San Martín”, el mandatario aseguró que con la nueva normativa “los que provean servicios a empresas vinculadas a la explotación ilegal de recursos argentinos \nno podrán contratar ni con el Estado ni con privados en nuestro país”\n. Además, reveló que incluirá otras herramientas necesarias para fortalecer las capacidades del Ejército y el ejercicio de la soberanía, como la creación del \nConsejo de Seguridad Nacional.\n\nPor estas horas, el asesor presidencial,\n Santiago Caputo, \ntermina de definir el formato que tendrá la presentación legislativa del próximo lunes, que ingresará por la \nCámara de Diputados,\n donde el oficialismo cuenta con mayores apoyos para avanzar. El Poder Ejecutivo evalúa dos alternativas: girar el proyecto de manera tradicional o enviar a un funcionario al Congreso \npara explicar los detalles del articulado.\n\nEn ese escenario, los ministros \nCarlos Presti\n (Defensa) y \nPablo Quirno\n (Relaciones Exteriores), que participaron directamente en la redacción del texto, figuran entre los potenciales expositores. Más allá de esa eventual participación, en Casa Rosada descuentan que \nasistirán al Congreso cuando el proyecto se trate en comisión.\n\nEl oficialismo apunta a que el tratamiento legislativo comience entre \nfines de septiembre y principios de octubre.\n “Es un tema que no debería suponer resistencia, por lo que descontamos que tendrá dictamen rápido. \nPara la última de septiembre y la primera de octubre debería comenzarse a tratar\n”, expresó ante El Día de Gualeguaychú una fuente de mesa política.\n\nLa discusión legislativa se da en paralelo a la ofensiva del Gobierno contra las empresas vinculadas a supuestos negocios petroleros ilegales en las Islas Malvinas, en el proyecto Sea Lion. Milei anunció además la construcción de una Base Naval integrada en Tierra del Fuego, cuyo financiamiento estará contemplado en el Presupuesto 2027 y que, según planteó el mandatario, “no pone en juego el superávit”. En ese marco, Quirno y Presti viajarán este viernes a la provincia para recorrer la zona y avanzar en las obras.\n\n“El lobby petrolero es clave. Que los ingleses sienten a la Argentina en una mesa de negociación a hablar de compartir regalías, bloques conjuntos, lo que sea, supone un avance. Esta es nuestra última oportunidad”, expresó una fuente con acceso al despacho presidencial.\n\nEn las filas oficialistas aseguran que la cadena nacional en la que el mandatario anunció el paquete de medidas en defensa de la soberanía de las Islas Malvinas generó buena repercusión en las redes sociales, una evaluación que el Gobierno celebró. Aún con los resultados sobre la mesa, evitan “gastar el recurso”, y dejan en manos de los dos ministros la explicación de los detalles del proyecto.\n\nFuente: Infobae",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "gobierno",
+      "legislatura",
+      "presupuesto",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "federal",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-entre-rios-firmo-un-convenio-para-la-prevencion-y-respuesta-de-eventos-extremos-relacionados-con-el-nino",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Entre Ríos firmó un convenio para la prevención y respuesta de eventos extremos relacionados con El Niño",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/entre-rios-firmo-un-convenio-para-la-prevencion-y-respuesta-de-eventos-extremos-relacionados-con-el-nino/",
+    "texto_original": "Autoridades de Entre Ríos, Córdoba y Santa Fe se reunieron para firmar un convenio de reciprocidad y colaboración que apunta a fortalecer la prevención y las respuestas conjunta ante emergencias meteorológicas\n.\n\nEn el encuentro desarrollado en la ciudad de Córdoba, funcionarios entrerrianos expusieron sobre los protocolos que se despliegan en el territorio provincial y destacaron la declaración de la emergencia hídrica. En ese marco, \nse firmó el Convenio de Reciprocidad, Cooperación y Colaboración para la Prevención y Atención de Eventos Meteorológicos Extremos Asociados al Fenómeno El Niño en la Región Centro\n. El acuerdo establece un marco permanente para fortalecer las tareas de prevención, preparación, alerta, respuesta, asistencia y recuperación frente a contingencias climáticas.\n\nUno de los principales puntos del convenio es la creación de un Sistema Regional de Información, Alerta y Coordinación, que permitirá facilitar el intercambio permanente de información meteorológica, hidrológica, territorial y de infraestructura entre las provincias. El objetivo es mejorar la anticipación y la toma de decisiones frente a posibles situaciones de emergencia.\n\nEn este marco, las autoridades acordaron además \navanzar en mecanismos de asistencia recíproca para situaciones que superen la capacidad de respuesta de una provincia\n. La cooperación podrá incluir recursos humanos, equipamiento, vehículos, maquinaria, insumos, sistemas de comunicación y asistencia técnica, de acuerdo con la disponibilidad de cada jurisdicción.\n\nPresencia entrerriana\n\nEn el marco de la reunión, el secretario de la Región Centro por Entre Ríos, Atilio Benedetti, destacó la firma del acta de cooperación ante la llegada del fenómeno de El Niño, que este año podría presentar un grado de intensidad inédito. En ese sentido, resaltó “la voluntad de los tres gobernadores -Rogelio Frigerio, Maximiliano Pullaro y Martín Llaryora- de encarar este tema desde la prevención”. “No vamos detrás de los acontecimientos, sino que nos adelantamos a ellos para mitigar los efectos de El Niño”, afirmó Benedetti.\n\nPor su parte, la ministra de Desarrollo Humano de Entre Ríos, Verónica Berisso, brindó detalles del trabajo que se viene realizando en la provincia para afrontar el fenómeno climático. “Hemos conformado un comité de crisis y, junto con otras áreas del Gobierno, tenemos listo un protocolo de atención ante posibles emergencias”, señaló.\n\nEl titular de Defensa Civil de Entre Ríos, Víctor Alfonso Chanenko, hizo hincapié en las capacitaciones que se vienen realizando con los distintos actores involucrados en la gestión de emergencias. “Estamos trabajando para que todos los actores estén preparados al momento de tener que intervenir”, explicó. Y señaló que se está avanzando especialmente en la planificación de los espacios que podrían utilizarse como centros de evacuados para evitar que las escuelas sean destinadas a ese fin y puedan continuar desarrollando sus actividades con la mayor normalidad posible.\n\nA su turno, el secretario de Gobiernos Locales de Entre Ríos, Ricardo Vales, repasó el trabajo que se viene desarrollando con los distintos municipios y juntas de gobierno para relevar los recursos y la infraestructura disponibles en cada localidad. En ese marco, explicó que el objetivo es conocer las capacidades existentes para fortalecer la respuesta y mitigar los posibles efectos de los eventos climáticos, y destacó que la Legislatura entrerriana declaró la emergencia hídrica.\n\nEn tanto, el secretario de Trabajo de Entre Ríos, Mariano Camoirano, participó del encuentro como parte de la delegación provincial y acompañó la estrategia de articulación regional impulsada en materia de prevención, preparación y respuesta ante posibles emergencias meteorológicas.\n\nFuente: AHORA",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "municipios",
+      "legislatura",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-cinco-rottweilers-ingresaron-a-un-campo-y-mataron-a-una-ovejera-actuaron-en-manada-dijo-la-mujer-que-denuncio",
+    "fuente": "El Día Online",
+    "titulo": "Cinco rottweilers ingresaron a un campo y mataron a una ovejera: \"Actuaron en manada\", dijo la mujer que denunció",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/cinco-rottweilers-ingresaron-a-un-campo-y-mataron-a-una-ovejera-actuaron-en-manada-dijo-la-mujer-que-denuncio",
+    "texto_original": "Cinco perros rottweilers ingresaron a un campo, atacaron a una ovejera alemana y la mataron durante la madrugada del martes, en un predio situado en el acceso a Aldea San Rafael, a pocos kilómetros de la Ruta Nacional 12. El episodio quedó parcialmente registrado por las cámaras de seguridad del lugar.\n\nLa perra se llamaba María, tenía 11 años y había sobrevivido cuatro años atrás al ataque de otro perro, que le dejó una secuela permanente. Su dueña sostuvo en Estación Crespo Plus que los cinco animales pertenecerían al propietario de un terreno lindero y aseguró que anteriormente había advertido sobre episodios similares.\n\n“María era mi ovejera alemana, a la cual amábamos con locura”, expresó a Estación Plus Crespo. Según relató, las cámaras registraron que los perros ingresaron alrededor de las 3, después de romper y forzar el tejido perimetral.\n\nEl ingreso de los perros quedó registrado\n\nLa familia encontró a María cerca de las 18 del martes, en la galería cubierta de la vivienda. Aunque el sistema de videovigilancia no captó directamente el momento del ataque, en las imágenes pudo observarse el desplazamiento de los perros por el interior de la propiedad.\n\n“Se ven los perros que ingresan a la galería, salen y bordean la pileta. Se escuchan los gritos de la perra. Yo lo escuché una sola vez y no lo pude escuchar más, porque me parte el alma”, relató la mujer, e indicó que el sector quedó cubierto de sangre y consideró que María habría intentado defender su territorio. También aseguró que los perros comieron el alimento que estaba en el recipiente de la mascota.\n\n“La sacudieron, la revolearon en la galería, porque está llena de sangre. La perra se habrá defendido como pudo, porque es su territorio. Tenía el comedero lleno y el agua. Se ve que comieron toda la comida también”, manifestó.\n\nLa denunciante recordó que María ya había sufrido un ataque cuatro años atrás por parte de otro perro que, según sostuvo, pertenecía al mismo vecino. En aquella ocasión, el animal le arrancó una parte de la oreja.\n\n“Hace cuatro años tuve que hacer un tapial en la parte posterior del predio, porque un rottweiler de este vecino había atacado a mi perra y le arrancó un pedacito de oreja”, recordó.\n\nEn ese momento, decidió construir una pared para impedir que los animales ingresaran nuevamente. La mujer explicó que no presentó una denuncia porque quiso evitar conflictos, aunque habría pedido reiteradamente que los perros permanecieran dentro del terreno lindero.\n\n“Le pedí por favor que encerrara a sus perros, que tuviera cuidado, porque se cruzaban. Nunca nos hizo caso. Me dijo barbaridades y debí haber hecho la denuncia, pero no quise problemas y construí el tapial”, señaló.\n\nSegún agregó, trabajadores que concurrieron posteriormente al campo también habrían observado a los perros dentro de su propiedad. Fenoglio afirmó que recibió fotografías y videos que daban cuenta de esas situaciones.\n\n“Con el tapial, medianamente mis perras estaban un poco más resguardadas. Un par de veces estuvieron albañiles acá y me mandaron fotos y videos porque los perros se cruzaban. Hasta lo sucedido ahora, que entraron en manada y le mordieron la cabeza”, aseguró.\n\nDenuncia policial e intervención veterinaria\n\nTras encontrar a María sin vida, la mujer presentó una denuncia policial y solicitó la intervención de una profesional veterinaria de la Municipalidad de Crespo para constatar las lesiones y establecer formalmente las causas de la muerte.\n\n“Estoy esperando que venga la Policía nuevamente, con la veterinaria de la Municipalidad de Crespo, para constatar las heridas, que fueron la causa de muerte de María”, explicó.\n\nLa mujer informó que recurrió a un abogado y anticipó que impulsará las acciones correspondientes. También reclamó una intervención urgente para impedir que pueda repetirse otro episodio.\n\n“Ya hice la denuncia, estoy con abogado y voy por todo. Me cansé. Ahora era mi perra, pero en cualquier momento puede ser uno de nosotros, quienes vienen a trabajar o pasan por este camino”, advirtió.\n\nPreocupación por quienes transitan por la zona\n\nLa mujer sostuvo que los perros permanecerían sueltos y que, en distintas oportunidades, habrían salido al camino utilizado por trabajadores, ciclistas, motociclistas y familias de la zona.\n\n“Hay mucha gente que sale a trotar, a andar en bicicleta, que va para San Rafael y vuelve, o que va a las granjas a trabajar. Pasan mujeres y chicos. Es un peligro terrible”, expresó.\n\nLa denunciante también planteó su preocupación por las condiciones en las que se encontrarían los animales y pidió la intervención de las autoridades y de entidades proteccionistas. Sus afirmaciones deberán ser constatadas por los organismos correspondientes.\n\n“Yo soy recontra perrera, me gustan los animales, tenerlos bien y no me gusta hacerles daño. Quiero que podamos darle la despedida a la pobre gorda, porque la verdad que duele muchísimo”, concluyó.\n\nFuente: ElOnce",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "agro",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-el-paso-de-adelqui-por-esta-vida-no-hay-ninguna-duda-que-no-ha-sido-sin-efectos",
+    "fuente": "El Día Online",
+    "titulo": "El paso de Adelqui por esta vida no hay ninguna duda que no ha sido sin efectos",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/el-paso-de-adelqui-por-esta-vida-no-hay-ninguna-duda-que-no-ha-sido-sin-efectos",
+    "texto_original": "El colega Adelqui del Do estuvo hace apenas tres semanas por Gualeguaychú, su ciudad natal, y su paso no fue sin efectos.\n\nA principios de mayo conversábamos en el CoPER Regional Sur sobre el proyecto que pretende reformar la Ley de Salud Mental —asunto que hoy está siendo tratado en el Senado—. La preocupación y la necesidad de reflexionar al respecto, nos hizo pensar en convocar a Adelqui para que nos ayudara a pensar; no sólo por su trayectoria, sino por su ser de Gualeguaychú, haber nacido y haber sido criado en la ciudad le daba una mirada especial e importante para nosostras; una mirada muy necesaria y oportuna en este momento.\n\nPara ese entonces nos habían compartido su último libro, “Salud Mental y Derechos Humanos. Política, clínica y comunidad”, donde se podían encontrar varios elementos para analizar la reforma y la compleja realidad que atraviesa nuestra comunidad en materia de salud mental.\n\nFue así que lo llamamos, lo invitamos a presentar su libro y a conversar sobre estas cuestiones, a lo que él respondió: “Sí, encantado de poder ir”, sin dar ni una vuelta.\n\nRápidamente, como suele suceder cuando se trabaja de manera integrada, se armó una red y se sumaron del colegio de trabajadorxs sociales (COPTSER) y del Foro por el Derecho a la Salud a la organización de la actividad y AGMER aportó su salón. Durante un mes organizamos todo lo necesario para recibirlo, con un gran entusiasmo, fundamentalmente, por escucharlo. Y así fue que, con un auditorio lleno, escuchamos su convicción por defender los derechos humanos de las personas con sufrimiento psíquico y padecimiento mental. Escuchamos su compromiso ético y su trabajo incansable por el cuidado y la promoción de la salud mental del pueblo. Y también escuchamos su enojo ante un Estado que decide desoír una y otra vez el estruendo que produce el sufrimiento cotidiano de las personas, que vulnera a diario sus derechos, que niega su función de promover un estado de bienestar a la población –tal es la definición de salud-; que, lejos de proteger, agudiza los padecimientos, coartando toda apuesta a un porvenir, con todos los efectos que estamos viviendo que produce la falta de perspectiva de un mañana.\n\nPero, por sobre todas las cosas, escuchar a un tipo tan entusiasmado y comprometido hasta la médula, produjo ese chispazo, esa chispa necesaria y capaz de encender la organización colectiva; que tenemos la responsabilidad de mantener encendida y generando organización.\n\nLa noche anterior a la actividad del Colegio, nos reunimos con él y las colegas que venían de Buenos Aires a contar acerca de su trabajo con perspectiva comunitaria, y entre una copa de vino que acompañaba a la perfección unas empanadas riquísimas, nos entregamos a una charla, de cosas cotidianas, de cuestiones profesionales, que él acompañó con pocas acotaciones; hasta que llegó el turno en la conversación a las políticas en salud mental, momento en que esa chispa que les decíamos se encendió en él y en nuestro colegio, para continuar y expandirse al día siguiente en  el auditorio que escuchó la presentación de su libro.\n\nEl paso de Adelqui por Gualeguaychú no fue sin efectos para las instituciones, para las organizaciones que trabajamos en salud mental y para la comunidad en general. Su presencia hizo que sobraran los motivos para fortalecer nuestras redes de trabajo y lucha. Nos emociona pensar que pudimos recibirlo y darle un lugar a su saber  hacer en su ciudad natal, en vida. Seguiremos su legado.\n\nEl paso de Adelqui por esta vida, no hay ninguna duda que no ha sido sin efectos.\n\nAdelqui del Do, psicólogo oriundo de Gualeguaychú. Se recibió en la Universidad de Buenos Aires (UBA) y se especializó en Psicología Clínica. Fue director del Centro de Asistencia a Víctimas de Violaciones de Derechos Humanos “Dr. Fernando Ulloa”, dependiente de la Secretaría de Derechos Humanos de la Nación.\n\nDurante 23 años ejerció como docente de Psicología, Ética y Derechos Humanos y fue consejero en la Facultad de Psicología de la UBA. También se desempeñó como coordinador académico de la Diplomatura en Salud Mental y Derechos Humanos en la UNPAZ.\n\nIntegró la comisión directiva del gremio docente FEDUBA, fue miembro fundador de la agrupación Enclaves y formó parte del Tribunal de Ética de la APBA.\n\nEste año publicó su libro “Salud Mental y Derechos Humanos. Política, clínica y comunidad”. Fue coautor de Consumos problemáticos y derechos humanos: perspectivas comunitarias (2025) y participó en investigaciones como el informe “Vidas arrasadas: La segregación de las personas en los asilos psiquiátricos argentinos  basada en un informe sobre derechos humanos y salud mental publicado en 2008 por el Centro de Estudios Legales y Sociales (CELS); tras la intervención en 2005 del Hospital Moyano, de parte del gobierno de CABA; en el que se analizan en detalle las condiciones de internación de las personas con padecimientos mentales. Dicho informe junto con sus repercusiones y material audiovisual, constituyó un antecedente clave y un fuerte impulso político y social para la sanción de la Ley Nacional de Salud Mental N.º 26.657 en Argentina en el año 2010.\n\nFirma: Comisión Directiva CoPER Regional Sur.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "comercio",
+      "impuestos",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-diario-el-argentino-gn-412329c64602",
+    "fuente": "Diario El Argentino",
+    "titulo": "Elecciones SRA: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2tKeUJmdjNhNHFSTmgzN05TZDA4a2Z6Q0NQZEtQS1RLVHlLcHRyeFMtZmZWMWl1cUdhb0lfNHJRNmFkUjU2cmpQX0kzeEFEcTVsOUZGNTZ2dDlQcWtIY01kbG14UHBYeVB5SU5wdHg2cTBJbjh4YWl2ajd2c3dBNXc2Rnl1WWlzS2hLd3E1ZEFLV2N1SFBEam9nRUZaazRWb1c5S3IycWpWZEtldkNmdU1fZDdqZ2VDNmhKWGJ5TU5FdnhTc3d3ZkU4YkNFQjTSAccBQVVfeXFMTzJsVXIzajFfb1lhZ0pwVGlEREdhXzdudDhDODRiZTNfV3d6bkhZQUFuQWVQamczSVFRNE16eEcwQXB2bVZyUExZSEZkeUJTV29sVUdyR0V2cUtoMmFwTzZFT2VQb0duaUprSXNWTV9TZ3NSREM0dk50T0tpdjJXNWhuR1lSNWF0OFFaRHNHRDVyckxYYURtNnB6bW1rel96dk1ZcDBTWXhKbklwbzJHUnZFQUR2MjIzS0Uzc1U3dTlsbVpJUG9aWQ?oc=5",
+    "texto_original": "Elecciones SRA: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%\n  \nDiario El Argentino",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-bomberos-de-entre-rios-se-suman-al-sirenazo-nacional-por-fondos",
+    "fuente": "Paralelo32",
+    "titulo": "Bomberos de Entre Ríos se suman al “sirenazo” nacional por fondos",
+    "fecha": "2026-09-09",
+    "link": "https://www.paralelo32.com.ar/bomberos-de-entre-rios-se-suman-al-sirenazo-nacional-por-fondos",
+    "texto_original": "Los Bomberos Voluntarios de Entre Ríos se sumarán este jueves 10 de septiembre al “sirenazo” nacional convocado por el Sistema Nacional de Bomberos Voluntarios para reclamar por la transferencia de fondos destinados al funcionamiento de los cuarteles.\n\nLa medida se realizará a las 10, de manera simultánea en distintos puntos del país, con el objetivo de visibilizar el reclamo por recursos que, según las federaciones, permanecen pendientes de distribución.\n\nEl presidente de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, Ariel Molina, explicó que la protesta fue definida por el Consejo Nacional de Bomberos Voluntarios ante las demoras registradas en el envío de los fondos.\nReclaman fondos que están pendientes de distribución\nMolina sostuvo que el retraso en la transferencia de recursos no es reciente y que se arrastra desde 2025.\n\n“El atraso que viene desde el Gobierno no es de ahora sino que ya viene desde el año pasado”, señaló.\n\nSegún indicó el dirigente, más del 40% de las asociaciones de bomberos del país todavía no recibió los recursos que le corresponden.\n\nEl reclamo contempla tanto los fondos correspondientes al período actual como un remanente que, de acuerdo con lo señalado por Molina, quedó pendiente de distribución durante el año pasado.\n\n“Queda un remanente de más de 59 mil millones de pesos que se tendría que haber distribuido en el año 2025 y que tampoco se distribuyó en los cuarteles”, afirmó.\nMenos recursos para capacitación y equipamiento\nEl titular de la Federación Entrerriana advirtió que la demora en los fondos tiene consecuencias concretas para el funcionamiento de los cuarteles.\n\nEntre las dificultades mencionó la posibilidad de sostener las capacitaciones, renovar equipamiento y mantener los vehículos utilizados para las emergencias.\n\n“Eso significa menos capacitación, significa menos equipamiento, significa que hay cuarteles que hoy están endeudados para poder seguir dando el servicio”, expresó Molina durante una entrevista con el programa Amanece... que no es poco, de Radio Plaza.\n\nEn ese sentido, remarcó que el carácter voluntario de los bomberos no significa que los cuarteles puedan funcionar sin recursos económicos. La actividad requiere un presupuesto permanente para afrontar capacitación, equipamiento, vehículos y mantenimiento.\nQué fondos reclaman los Bomberos Voluntarios\nDe acuerdo con la explicación brindada por Molina, los recursos reclamados están contemplados en la Ley 25.054 y surgen de un porcentaje de las primas de seguros.\n\n“Los recursos llegan del cinco por mil de las aseguradoras de vehículos, de casas, un pequeño porcentaje que va para el sistema de bomberos”, explicó.\n\nEl dirigente sostuvo que la recaudación continúa debido a que los seguros siguen abonándose y consideró que esos recursos deberían llegar a las asociaciones que integran el sistema.\n\n“La recaudación está porque los seguros se pagan trimestralmente y eso se tendría que ir repartiendo, distribuyendo, entre los más de 1.250 cuarteles que hay en todo el país”, señaló.\nEl reclamo será nacional\nEl “sirenazo” fue convocado por el Consejo de Federaciones de Bomberos Voluntarios de la República Argentina, junto con las 29 federaciones provinciales.\n\nLa protesta se desarrollará este jueves a las 10 y tendrá como eje el reclamo por la distribución de los fondos destinados al funcionamiento del sistema de bomberos voluntarios. En Entre Ríos, los cuarteles se sumarán a la convocatoria para visibilizar la situación y reclamar por los recursos pendientes.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-cajas-municipales-el-19-provincial-y-las-trampas-de-la-autonomia-previsional",
+    "fuente": "Paralelo32",
+    "titulo": "Cajas municipales, el 19% provincial y las trampas de la «autonomía» previsional",
+    "fecha": "2026-09-09",
+    "link": "https://www.paralelo32.com.ar/cajas-municipales-el-19-provincial-y-las-trampas-de-la-autonomia-previsional",
+    "texto_original": "La reciente media sanción en el Senado del proyecto de ley presentado por el senador José Vergara para modificar el artículo 192 de la Ley Orgánica de Municipios (N° 10.027) no es una simple adecuación técnica ni un mero avance hacia la “autonomía financiera” local. Es, en términos concretos, una barbaridad jurídica y política que mantiene profundas asimetrías previsionales mientras consagra privilegios inadmisibles para los funcionarios políticos según el municipio en el que ejerzan.\n\nBajo la premisa de otorgar mayor flexibilidad a las 22 cajas de Jubilaciones y Pensiones municipales de Entre Ríos, la reforma aprobada elimina el tope máximo del 16% de aporte previsional y conserva únicamente el piso mínimo del 12%. Lo que se presenta como un remedio contra el déficit actuarial oculta una profunda asimetría respecto del régimen provincial y de los municipios que integran el sistema general.\n\nHoy, un trabajador o funcionario que aporta a la Caja de Jubilaciones y Pensiones de la Provincia (CJPER) realiza un aporte obligatorio del 19%. La reforma mantiene así la posibilidad de que un funcionario político de una ciudad con caja propia —como Federación o Colón— aporte hasta 7 puntos porcentuales menos que un funcionario de Concordia o de cualquier otra localidad adherida al sistema provincial. ¿Con qué criterio de equidad o de solidaridad social se justifica que la planta política de un municipio aporte sustancialmente menos que la de otro por el solo hecho de contar con una estructura previsional local?\nLa asfixia programada\nPero la trampa de fondo es aún mayor: pretender solucionar el problema previsional modificando las alícuotas de las cajas locales es ignorar deliberadamente quién genera el verdadero agujero negro del sistema. El déficit previsional en Entre Ríos es una «asfixia programada» producida por la propia evasión de aportes en la que incurre el Estado provincial y municipal.\n\nEl rojo de la Caja de Jubilaciones no surge por casualidad ni por el mero aumento de la expectativa de vida. Es consecuencia directa del pago de salarios con más del 50% en códigos no remunerativos: se ha consolidado una estructura en la que más de la mitad del haber de funcionarios y empleados públicos se liquida mediante sumas “en gris”, no bonificables o no remunerativas.\n\nAl pagar en negro, el Estado actúa como el principal evasor de sus propias cajas previsionales, abonando conceptos sobre los cuales no se tributa un solo peso para las jubilaciones de hoy ni del futuro.\n\nA esto se suma la precarización del empleo público. El sostenimiento masivo de trabajadores bajo la figura de contratos de obra, locación de servicios, contratos basura y otras formas análogas “en negro” destruye la relación entre aportantes y beneficiarios. Son miles de agentes prestándole servicios al Estado sin realizar una sola contribución ni aporte al sistema previsional.\n\nNo se puede hablar de austeridad, sustentabilidad ni de responsabilidad fiscal mientras se vacía la base de ingresos del sistema a través de la precarización y la informalidad salarial promovidas desde los propios despachos oficiales. Decir que el sistema quebró por culpa de los jubilados mientras el Estado evade aportes con códigos no remunerativos no es solo un diagnóstico falso; es una maniobra para justificar el ajuste sobre los sectores más vulnerables.\n\nCómplice de esta situación es la actual gestión de la Caja de Jubilaciones y Pensiones, que, conociendo los recientes fallos que declaran la inconstitucionalidad de los códigos no remunerativos, no resuelve denuncias concretas ni realiza las auditorías que demostrarían la verdadera dimensión del fraude.\n\nPor su parte, los municipios son los autores materiales del delito de evasión al no informar correctamente al organismo previsional el número exacto de agentes municipales, los códigos no remunerativos abonados y el incumplimiento del pago de la antigüedad al personal contratado.\nUna reforma que no resuelve nada\nLa eliminación del tope del 16% en las cajas municipales no garantiza la solvencia de regímenes que, en su mayoría, no gozan de superávit estructural; por el contrario, habilita un margen de discrecionalidad política para fijar aportes a medida y consolida desigualdades que terminaremos pagando todos los entrerrianos.\n\nLa verdadera reforma previsional no se logra manteniendo la posibilidad de que la planta política local aporte sustancialmente menos que quienes integran el régimen provincial. Exige blanquear los salarios de manera transparente, erradicar la contratación precarizada en el Estado y garantizar la estricta igualdad de cargas entre todos los que ejercemos la función pública en la provincia.\n\nEl proyecto de ley del senador Vergara convalida inequidades y fragiliza el patrimonio de los trabajadores. No pretende más que una \"cobertura legislativa\" para encubrir el fraude previsional del propio Estado.\n\nPor eso, el debate en la Cámara de Diputados debe marcar una divisoria de aguas ética y política: o los legisladores eligen actuar como escribanía del ajuste, convalidando privilegios para las plantas políticas y la complicidad con la evasión municipal, o asumen la responsabilidad histórica de defender el salario de los trabajadores, la transparencia institucional y la dignidad de las jubilaciones entrerrianas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "transparencia",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "organos_control",
+      "presupuesto",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concordia",
+      "colón",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-lejos-de-los-arboles-el-cine-de-meritxell-colell-llega-al-ficer",
+    "fuente": "Paralelo32",
+    "titulo": "Lejos de los árboles: el cine de Meritxell Colell llega al Ficer",
+    "fecha": "2026-09-09",
+    "link": "https://www.paralelo32.com.ar/lejos-de-los-arboles-el-cine-de-meritxell-colell-llega-al-ficer",
+    "texto_original": "El Festival Internacional de Cine de Entre Ríos (Ficer) sumará en su programación una esperada presentación internacional. Se trata de Lejos de los árboles, el nuevo largometraje de la directora catalana Meritxell Colell Aparicio, que tendrá su primera exhibición en el país en el marco del festival entrerriano.\n\nLa película integrará la sección Panorama Internacional, uno de los espacios destinados a acercar al público producciones de distintas partes del mundo y nuevas miradas del cine contemporáneo.\nUna película con reconocimiento internacional\nLejos de los árboles llega al Ficer luego de un importante recorrido por festivales internacionales. Su estreno mundial se produjo en el Festival de Locarno, donde obtuvo el Premio Fipresci, otorgado por la crítica cinematográfica internacional.\n\nLa incorporación del largometraje a la programación del festival permite, además, acercar por primera vez al público argentino la obra más reciente de una realizadora considerada una de las voces destacadas del cine de autor español.\nMeritxell Colell, una mirada sobre la memoria y los vínculos\nNacida en Barcelona en 1983, Colell es directora, guionista, montadora y docente. Forma parte de una reconocida generación de cineastas catalanas contemporáneas que consiguió proyectar su trabajo más allá de España.\n\nSu cine se caracteriza por una mirada íntima y por la exploración de temas como el territorio, la memoria, los vínculos afectivos y el exilio. Estos elementos atraviesan una filmografía construida desde una perspectiva personal y sensible.\n\nSu primera película, Con el viento (2018), tuvo su estreno en la Berlinale y recibió la Biznaga de Plata a Mejor Película Española en el Festival de Málaga.\n\nAños después, con Dúo (2023), volvió a ser reconocida en Málaga, donde obtuvo el premio a Mejor Dirección.\nEl Ficer vuelve a poner el foco en el cine internacional\nLa llegada de Lejos de los árboles se inscribe en la propuesta del Ficer 2026, que se desarrollará del 24 al 29 de noviembre y es organizado por el Gobierno de Entre Ríos, a través del Instituto Autárquico Audiovisual de Entre Ríos (Iaaer), junto con la Asociación de Realizadores Audiovisuales de Entre Ríos (Araer).\n\nCon su inclusión en Panorama Internacional, el festival entrerriano suma una producción de una directora con reconocimiento en los principales circuitos del cine de autor europeo y ofrece al público la posibilidad de conocer en pantalla grande una película que hasta ahora no tuvo presentación en Argentina.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T23:24:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
   }
 ]
