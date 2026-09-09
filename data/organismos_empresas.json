@@ -121,17 +121,6 @@
     "oferta_publica_cnv": null
   },
   {
-    "nombre": "canal 9 litoral",
-    "sitio": "https://9digital.com.ar/",
-    "prensa_url": "https://9digital.com.ar/",
-    "rss": "https://9digital.com.ar/feed/",
-    "scrapeable": true,
-    "contacto": null,
-    "notas": "Es un medio (canal El Trece afiliado, Grupo Neomedia), no una empresa industrial — tiene RSS real y funcional como cualquier sitio de noticias.",
-    "cotiza_bolsa": false,
-    "oferta_publica_cnv": null
-  },
-  {
     "nombre": "cremigal",
     "sitio": "https://cremigal.com/",
     "prensa_url": "https://cremigal.com/feed/",
