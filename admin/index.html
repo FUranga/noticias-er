@@ -245,7 +245,17 @@ async function ghGetPath(path) {
   });
   if (!res.ok) throw new Error(`GET ${res.status}: ${await res.text()}`);
   const data = await res.json();
-  const content = decodeURIComponent(escape(atob(data.content)));
+  let b64 = data.content;
+  if (!b64) {
+    // La API de Contents no incluye el contenido para archivos > 1MB; hay que pedirlo via la API de blobs.
+    const blobUrl = `https://api.github.com/repos/${c.owner}/${c.repo}/git/blobs/${data.sha}`;
+    const blobRes = await fetch(blobUrl, {
+      headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json' },
+    });
+    if (!blobRes.ok) throw new Error(`GET blob ${blobRes.status}: ${await blobRes.text()}`);
+    b64 = (await blobRes.json()).content;
+  }
+  const content = decodeURIComponent(escape(atob(b64)));
   return { data: JSON.parse(content), sha: data.sha };
 }
 
