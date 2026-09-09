@@ -24711,5 +24711,850 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-9d00df031a74",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Megajuicio: Aluani pidió informes a la Justicia por Aguilera",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYU9ncUNabUZzNE5vTmVLTWM5SV9XRVVfYWVyamM2NjdwU2JLcEp6SU9nd2RFSUo0SWxNMl9NMkRVTTFPc3RySFVGRjJvXzlqVGVWdTh3SWRvR1NfRm1lZjZjWlZCUkZ2OWdlMldiQmtTSngwRU1GQzdHTmVIckZyWHROSkZ2VlowMDV2dkR1M24?oc=5",
+    "texto_original": "Megajuicio: Aluani pidió informes a la Justicia por Aguilera\n  \nEntre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6fd9e59e211b",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Régimen Garantía Paraná: el fondo municipal para facilitar alquileres a trabajadores sin garantías tradicionales",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTEI1R1RaUnYyWjZid1lQLVZqY3g2TlhmUUU0bFZEUklHUGJ5SkRqanN1RURRUThxckNWQ1hwT0xLbUM1cjdRWWlSd0R2bGRnQ21rNGxrQ1ZHY0lUSHh3bXVvLWFmSE1Ybm5EWG9OSHdxNUc1YnpsZHJKZVl2dmE1UkRiSEMwSXRTMzhjb21lYklqTVRmOGJLbS1aZjFmRlhwUVh4UDhzWldvMUJpdVRUNWJhQTJrcjZMN215cDVzS3FqUHJON3VFN1ZuQ2Fia3Y0OVJmRENmR294ZnlheVNyX2tOdWs3ZXZiMmcya0FGakZWZ9IB9wFBVV95cUxQNC1FT09sdUhqd3JtR2ptQzcwVGdpcTd2SnN2Z2N5MUMzQWRHVUhhSHk0cjQydmxocXpTWFRDWFViWV9zdC05Q1BSak1qMzQ5TXVwMDNDZk5KZUhJcnRTS00ya2x1Ym5qMHh4cWNlTGM2dFQ4NXFSR0o0Nmc1eTlLNU9tQ1VEbndiNTFtNnBHdkxmYkVqd1NxSHhzZjBJSThkV1VudFRJdGtSS3Q0ZTlZMmJ5aGdtVEwyY1ExR2ZPZDd4RDFQelZfUnFfU3p0NGtpM3VjcWg4d1BXYUFXd1NjakgwUjd5eXlpcFg2QVF4Z1RURldFVHBv?oc=5",
+    "texto_original": "Régimen Garantía Paraná: el fondo municipal para facilitar alquileres a trabajadores sin garantías tradicionales\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ca0dd0ebb965",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Se abrieron los sobres para intervenir la escuela de educación integral de Santa Elena",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VlY3a2ZXeGJrMmlZbk82bW1zUFFfNDRyZ00yZ0dlck91UW5QZzY1YUZUcEo3YVZVNkdDTmVnRjdkUVJ0Q0pnM2lYdHFNdWh5VmtjTTln?oc=5",
+    "texto_original": "Se abrieron los sobres para intervenir la escuela de educación integral de Santa Elena\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-d1286cc0588d",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "Crisis en las economías regionales: Entre Ríos en alerta por cítricos, arroz y forestación",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3licEU2ckl0aFVDc3QzWlJxLTc1OENMbHBjOGRQSk5meGRFRDFnZk5QSFNCdGpWaUZJM0ttZHZiM1VTVDRZMGN2WExRZU1OT05TeC1NUU82cnZ1bEJtcExJT1VrNVpYWnBRckNINExZcTFYUWNpc2FTTGFOT0tvZm1YX2tJcWVTQS1QUlo0VDVhMFFQZ2o5WVVoLVV2OVl3WXp3UVpCNjlMVG15R1BhMDJMUTVrWmlKd3JScWtTV0U1Zw?oc=5",
+    "texto_original": "Crisis en las economías regionales: Entre Ríos en alerta por cítricos, arroz y forestación\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6c27cc7698a6",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Se concretaron mejoras eléctricas, sanitarias y de impermeabilización en una escuela de Victoria",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Ykpwd2tmQUpEOGlWUkdnelYwMUJhY2Qza01iemYxOXV1eUtPelpNQzFacWRvaWNmOWdpcHJEYmhHdTdOSi1mVDVGTG5GaU1NU25VSW02Y0ZCZw?oc=5",
+    "texto_original": "Se concretaron mejoras eléctricas, sanitarias y de impermeabilización en una escuela de Victoria\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-d7e4ecd1cf2f",
+    "fuente": "APFDigital",
+    "titulo": "Diputados de Juntos por Entre Ríos expresaron su pesar por el fallecimiento de la diputada Julia Calleros",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdHBwV0c5MzJfdWMyRVR1a0otdHUyN1hwSG5mYWlibzNwZjhsUmxTMlVOZU53aHFlZjM1MlV3WXBXb0tFWFo1T214aVNzZU5HRVZRblVuQnpZTUx3NWo5NllGMG9sb0F1TFNPVldsUFg5S3VuU0tESnNGNVBGX0Zzamg3dUoxTUpQczUzMGlWeVo4eFNJdzBZek1WVnlBRGVGb3UteXlXZUFXV0N6TEtsdjRIRzZ0b3lDTXhObnFCVk8wcUhWeUltSnpkWUo0czl2VHh4MXY4RWVlUHJEUUJwcFVXTGZINXkwcFg0RDgzWERMc3Nt0gH6AUFVX3lxTE1sOHQwT1JoOE9xUmdTVUNidXAxazlkSWVUalJJRldZQ21NeWxxeEYwdC13c2R3ZEMyT1kwWmZJQnllNDdNT1JpRk1yRWh6RHFMM04tdnhCZ2g5UGFJcjk4MFA1d29vaGg0Ml9HWFYxd3hnOF9fcG1oMktGYk8xUDVjSjF1Ul9NbGVQYmxpVkk4cHNLWkRsMzhnQ0pic3FPb3ZSSTFnU2UxRC1MQUxWSVF3UjVhT2Y5QkFwa3JUeC1qbjJNb05lOC1hcjRncGFndjVwOUFrbkgwRUlTLU03ZXRheU92NFVOSGFVRW5ZXzlKdEFsUm9pbzlfeFE?oc=5",
+    "texto_original": "Diputados de Juntos por Entre Ríos expresaron su pesar por el fallecimiento de la diputada Julia Calleros\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-0e3abe817322",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Urribarri-Báez-Aguilera: Fiscalía acordó cómputo de penas",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1RVM1NOWnZfdVkwQUpXNFVpTlNlekJlaktfM01sMFNraC1jRXYzZVloUUxHbUp6T2VkUlM4VWdPUTFaZHVmV0NDdFNIODVLR05RYUxHSlI1ckRzRHVFMUFTaUlPcXhtTkh2YzdUZmFaYWhYVm5KZXpPUE5uckJqOFp6MUhuY2FLMG5jVQ?oc=5",
+    "texto_original": "Urribarri-Báez-Aguilera: Fiscalía acordó cómputo de penas\n  \nEntre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f629113c30ac",
+    "fuente": "La voz 90.1",
+    "titulo": "Maier: “Los trabajadores hace 8 o 10 quincenas que no cobran, y esto pasa en Chaco, en Córdoba, en Buenos Aires y en Entre Ríos”",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOR0gzUGtHSGZ0eE5BR3N2dnVKOWlIMG5WUmtwMXZaNVp5WW1pZnFqVjhpdEFmNGxIbHZYMzVMN1dJS010RVh4R2xvVUNDbVhMMW1kX0tRSnVCOWtIRzMtYXBZcEJSTkM2RXViWGlOOWhVRF83TlJaU21Eb3g1TUowNDlBMzB3OTd2STFQZllDM1IzQkVuX0J5ZzFOaEdiWnNzTk9VWnVFUkhHRHRjLWdYbzJLYS1VWmxLM0swNFZ1a3I3ZzBKREtIMHh5b2g4RjdpczN0eGFjN0c3ZmFScmJlSDlEOUItVDkwRjd5emkwMVlMa0x4Q19MX1kxRzjSAfYBQVVfeXFMTzk2VXFCeVlNQ3ZaUUYyUUUtbk1FcENNZTlrWDJTN2JEcmd4RFlVMXBkdlRvdW5iYjBLLUVxUkljck1nMWRpZUR5c3NHaXcxNWxxZUo5TmNrX0xtOTR6alFyYjI3VTliXzZMWjlGbTJVMmhxVTJ1M0xSeHlDSDFqMUVJNWNCdXA2aUp4MFJkT3NnY1RJVk5MTnBBNHhDLTlLYU9YMXBQeUdQZXFQRkJ5LTk2b3YxUlpIUnRpR2RrLUJoWWJFcVdiZ2t2OVdIZmxFbFZtOEpMVkI3X0hYSm5YLWNQUEFZV2xJUlZjcjdMa25OTEN3LWlB?oc=5",
+    "texto_original": "Maier: “Los trabajadores hace 8 o 10 quincenas que no cobran, y esto pasa en Chaco, en Córdoba, en Buenos Aires y en Entre Ríos”\n  \nLa voz 90.1",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-efc18d1dd32e",
+    "fuente": "Análisis Digital",
+    "titulo": "El gobierno provincial creó el sello “Arroz Entrerriano”",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnZLdEVfeFhSZ2dtNndiVWZlNUhvXzYwelNQRWt3eHpnZmRqajVfWG52M1NHM2s5Tk5kTVJseDNRdE9tVmFxSF9objBha0VBQzlSRi1KUVJrSTJvdGlOdlppbnA1R25XbzFQc3RvYjRobGxkaXZsaDFVV2JqbDhqRzdjYUZZV2lXbmdCbTlkVVlzMmpWU19EanExMHdudW05eHU1RDJOa0NZaXlKaDdRZF9FVQ?oc=5",
+    "texto_original": "El gobierno provincial creó el sello “Arroz Entrerriano”\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-3599d0ab7568",
+    "fuente": "Elonce.com",
+    "titulo": "La Escuela Técnica Nº 21 de Paraná realizará un bingo para comprar insumos y herramientas",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1pOc1FFbklCRFdHUjJubEZlcjlXOXhlWmlGdE90UDRadEotTTRldDZsRmNuOHFFUHl0UHJRMHdTVHVHZlhsQk9fLTJrdGRfbnF5YS1sVlNqUjNGN1gteWU5bE1aREJMNGxkd3pyU25OQ1YybjhQbk9seTNPSW5BemNrYWNZM1hwZVJMZ09XdWVHSnpncEtFMXMtcEZLQVlJV3lGUHJENVRkajR6eFhwR3NlTm9VeG04LVdoVjItbUpSZVNzU1FlLTBJbzZKWG_SAbsBQVVfeXFMT09kZ1pjYjRtUXgxSjdWR2gxcENaUDVnbU1ta3NENE9jNGpTZ0lpUUp2eVNKYmJfV2xSUDhKUDJLd09GMkhMb3BtUXgzelRkajlzeG1hWU9lekZFRS0zV0k2TEU4MGZmN2ptUXFKLU51VHdqRE9QcXQ3cTk0bVhjdXUyeTBkdkFaMlpRYVh3WG05ejFKRU9ZNUIzYTdvdmZZU1V5YkVtTmV3SWhXbzVMMDljMnVpWWItaDc2UQ?oc=5",
+    "texto_original": "La Escuela Técnica Nº 21 de Paraná realizará un bingo para comprar insumos y herramientas\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:37Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-bf7cb3d56628",
+    "fuente": "Elonce.com",
+    "titulo": "Cotapa abrirá su quinto local en Paraná tras quedar en manos de sus trabajadores",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWtsYzNUeWpXOVYycUhvUy1IN0U0TFN5NG51VXpGZ2Y3YjBmOU83T0xVZmhaLUs1M2VvZ0VQMmtac1BlbnllendxVWRWdGpfX2twYUF6ekRRS3hxUlp1T0NYQVJYUnVPSFp5QnJxdFdjZ1BzTDNVZ21JVHBOUzM5QVRzWGo0bThSV0NQb0U0QkV6b1V1MEhNeDIwV0RCRjJrX0ZuZWJtUkJSckI2QzVXb3JxRjTSAbABQVVfeXFMUGlGN1poa3FlY1NnODJJczZxeDdFNEtPMS1zNEd4c0Nab0h4d1haWkFOaktkdXRRYzRPMUxVYnhRa3pNUHZTTVBaN1hWVURaSG5nQy1WLUlkZVEwTVlQMFB2d0ZacTdaQkJkRDlNZXlYaDdYdzRmVDU3MWJzRk9VRWF5TUdjU2Zvd0hmaExUQ3BDWkd0SnUySkNoVFZhZld5TTRldUlWUGx6LUJseWpURGM?oc=5",
+    "texto_original": "Cotapa abrirá su quinto local en Paraná tras quedar en manos de sus trabajadores\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:37Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-analisis-digital-gn-3383005ad591",
+    "fuente": "Análisis Digital",
+    "titulo": "Estacionamiento medido en Paraná: \"Exigimos que el Municipio cumpla y nos de respuestas\", dijeron tarjeteros",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTm90TEtYTV91SHBXN1FHOUlHdklUT1QxY2hNQS1fcExpRlZPTEhQOTctVENiakdyeEpsLWJtQzZuVDM2UG50aldRQVQ5M0plbzl4RkpGd3pzNEJqWGkzWWdEMlhmLWZLNk1nZ3FaTzdyaTdkLXVOSm1pRGU3V1REYUJZWU9vZjRsV0lLQzNfMkNHR1hEMWFGUVh4QW1JUjEzQjJaZEY3VTd3bTlOWXhpbDBDRHZGSi13V2otUVctUm1uZEE2cV93aWtGTzFvTTR4UGxmRnBCY2M0b0E5ZWQ4YTdER1JZMEhjOXBVcnNJVQ?oc=5",
+    "texto_original": "Estacionamiento medido en Paraná: \"Exigimos que el Municipio cumpla y nos de respuestas\", dijeron tarjeteros\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-4215c5263500",
+    "fuente": "APFDigital",
+    "titulo": "Se concretaron mejoras eléctricas, sanitarias y de impermeabilización en una escuela de Victoria",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2R1UV9ZS19iQ0FCWjk1MU9TYng1NTU4UVdQWDBWaUVwQnlPa0pmSzNhckRqdVA4dWdFSFBZTUZUeVdfUVZlNE82UlBEQVR3QnhfdUlldjRoS0gtMFlFeTFSOEZJSWlYOTk3UW5qYm9hLWNocmVEMHFxaFVvNkpxUzZsemNqZ3NBb1BoX1RPQ1NGYXhIMzY0ZWxqNGdxckItVkFBeUl0bmtwVUVuTEhobjJ4LTZ6VzlBT3A0VTFYYUM1NDA2ZXdadmVJeDhLS0l2aGp3aVBpU3F0N0xzV21BeUgtVVVVOFnSAewBQVVfeXFMTmc2ckxXdzB5ZGtERFFjdFJlcUE3TWIxcjRPc1pMNkZYYXo5cENWdkR3XzlmRGd1eWhCLVhlYmxrZWd1QW1kZXR3NHRoUEdXY0JGa21ySzYwZC0tNllGN1NoamhTbUJYblNUc3hxRkhEUW9JYkZzNmlnVU9FNFRaYkliajBlcVJNZEROR2tINTFCa2xpOTZmWUhLSjNNVXFZcjRCOWN6M3hMTnU1MUZ1YVFWVUExbmxlRHFMNktnVkFXTnZUZENpZmdPR3ltVUVlcmVFQUQxUjA3ZlRKLU90bG9IN1BHU1ROcm9NdlQ?oc=5",
+    "texto_original": "Se concretaron mejoras eléctricas, sanitarias y de impermeabilización en una escuela de Victoria\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-fd00b20f5789",
+    "fuente": "APFDigital",
+    "titulo": "Miércoles de Paseo: Invitan a recorrer la propuesta comercial con descuentos y actividades en Paraná",
+    "fecha": "2026-09-08",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV1ZPRjg2OEowaE9qOEEzal9DS3BOQzVoelFjTV9ReHNTMG15ZWgwVHlhOTQ3cHdNY2NJUjY5d2pjSENDN2RUekZQWVJnSmthcXEwbGNxVkhpV2JvYy1UY3RQZXdaRUpqV3dKd3l6b2VDaThUakRLVS1JYkJIWUU1dEhBdGZRcDlOcTZ4Z3RFdTU4R3YtYlBkd2xLWVJ1RGprYXhOSUN5R3ppVkU3Wm91ajFjLTdkUW9lRU8wM050SUNnaHN4Mm4xVU5UZWdERHZfVnFMVjFXYXNXSkpsczEtWGpPR1NiMG55cVZCNtIB8gFBVV95cUxQbERiSWR3NGJ4WHIxUGdVZ0JQLUtDYllKWDBWSXRsZHZ3dWppSUlGVTQwUEdYaWpjQUh2RkFVcXlHNkc3SU50VDN4MHJKNnFPYzNidDNTMmtBRHN2bFAtMEhCTUNWU056aWJNV3FsNm1uODhpZFFzTVVHdXRPSEUtdU9ZZWwxTHZTZXV5ZlRqUHpORVAyRVN1N3BuSU15Y0FpNkVUQXJOSHV3blZpcUcxckVfLTZGeVFqdXUtSUZtYWFtVXZQTjVuODBHUWdYX1RWYWNzVmJLSHZJUmllY2ZTZ0JfY1FQZmF2WWN0b2NMY2o2UQ?oc=5",
+    "texto_original": "Miércoles de Paseo: Invitan a recorrer la propuesta comercial con descuentos y actividades en Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-1c97eea7c409",
+    "fuente": "APFDigital",
+    "titulo": "El Municipio y la Escuela de Artes Visuales realizarán recorridos guiados en la Feria de Arte Paraná",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY0pqNGNBc1hLM1hSLXQyOTFIazJIX1BfWGhDY1Nib2pfdzM0RnRnY1dDQzBTSXR3Wl9rUEY0TUhSOHd3ZDE3LTdJakZtTXNBdlpKZ3ZsWGNiTzljbjhYWElKRWpTa3dRdEJBUGlBSVBsd1JldkxzVlMzV0lKaE12cWtCYi03WUNuLW5keUVfVXNjTExPZkZiOV85ZzR5ZjdhbXZWdTZUd3QzTjlfMzZYT1ZfMTg0ZzNIWWhlNDhSbERPNGhXSTdZTTFwZmN6T2dwd281MnU3S3E4MXNscTh3aUh6NDBraFl3bkd5SVNsN2psc3fSAfMBQVVfeXFMTWNKajRjQXNYSzNYUi10MjkxSGsySF9QX1hoQ2NTYm9qX3czNEZ0Z2NXQ0MwU0l0d1pfa1BGNE1IUjh3d2QxNy03SWpGbU1zQXZaSmd2bFhjYk85Y244WFhJSkVqU2t3UXRCQVBpQUlQbHdSZXZMc1ZTM1dJSmhNdnFrQmItN1lDbi1uZHlFX1VzY0xMT2ZGYjlfOWc0eWY3YW12VnU2VHd0M045XzM2WE9WXzE4NGczSFloZTQ4UmxETzRoV0k3WU0xcGZjek9ncHdvNTJ1N0txODFzbHE4d2lIejQwa2hZd25HeUlTbDdqbHN3?oc=5",
+    "texto_original": "El Municipio y la Escuela de Artes Visuales realizarán recorridos guiados en la Feria de Arte Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-173c39d3f5c0",
+    "fuente": "APFDigital",
+    "titulo": "Tarjeteros de Paraná en alerta: se suspendió la mesa de diálogo y hay incertidumbre por 123 puestos de trabajo",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY1kxbEFCM2JjYW1nVllIWGM1c0ZhZ3dwMW1VczFHajU0UG56WllXU3Z4NUlwR1VIZkRxMkJJZEt3VVNObmVvazczbVNUVEZPNFliNkU3aDRwZTZqQURfREIxVUtMcU1JaFhhTDF6TGxSVF84MXpzTzhYUm9IdVBOTFVScngyUGk3Rk8xUl8xcHl4UnB2QU1ZbTNXdkdOaFYtRUtvY2ttelpmNmJfYm92TzNqcU9uMDNNeFZfeXROcnFDLTBMLVBYeExEaUhIWm5Dc3pTaXEzYk9jYWZqaGNZajgxX0tGLUdETlQzalBZeUZHUkl3T1pjYmNn0gH_AUFVX3lxTE1uSFgwNEJLcUZ4N09MaXZQd21RX1lUdWJGRVlYY3NjajVYWVoyU21NTXdrVHkwR2U0clRuVGlNd2VTU2M3NjlXNnM0UC04UzA3UlFNUTk0SGpTQlJCXzJFaVA3RkI1bjhuUVUya2d4MUdjdFRDSE1lZGstbnBkbWpBel9EOVNFWFV5TnRUZ3JxOUFhTFIwYktTN0VnRG1VUzFfVE5Oa1pfOXdFeEtFSXlfUU9qdnZpSzJlM0pZc2VJblBWQk1DWVpudUdzUm5Fay1MUjB4STB2Z0hvcU9pWEJ0WGYyQ3libnBjMTYzSVFNX3lKS2pkTXNQc0ZHWlpoYw?oc=5",
+    "texto_original": "Tarjeteros de Paraná en alerta: se suspendió la mesa de diálogo y hay incertidumbre por 123 puestos de trabajo\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-8200f9ac6757",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El primer ministro de Inglaterra dijo que será \"implacable\" para defender las Malvinas",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHFfLVdieTRxN2J3dlZyV1BYOURGNkU3dldHWUttRGUyTmhwRVN6Rld6ZWVpUzhHUmQ5eEFrSE9ocnlXY01xbVJDaUQ2MFp2d0xtWWIzY0Mta1BLYVRXWGJ0aEE0T3VOTXVaR3BOV0h4dC15OXA4c0pWWE9YUHdiX3pTZzluMWJpRXhvdUZpa3dxMEdHenB2RkFpdVRITThMWnd2VnFiQzh3cHNQS2JnUmhlZWl5ZklfcjZqNnhQVQ?oc=5",
+    "texto_original": "El primer ministro de Inglaterra dijo que será \"implacable\" para defender las Malvinas\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-a3726511bdb5",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "\"Miércoles de Paseo\": 70 comercios sacan ofertas a la Peatonal en Paraná",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXQ0OEl3NWNBQ1N6SHlNQlJDNU9MTDdDZ3hCQ0plRmJBWHV1WkxqQjJUbVV6Y0pwTS1BN0JEZGtFcXJkeWpSVkd2amYtQkIzRF9vUy1acHFEQjNEWXFQOEhrQWEzNHAwR0tSR3RfYVNnUTgyN1I0YUhubWFjenQ0MjVlSjUwTTNKc1NER0JvZlhkbE03bGx6aFJfNVJCMTY5ckxTZGgxaTE1Yjg?oc=5",
+    "texto_original": "\"Miércoles de Paseo\": 70 comercios sacan ofertas a la Peatonal en Paraná\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-megajuicio-aluani-pidio-informes-a-la-justicia-por-aguilera",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Megajuicio: Aluani pidió informes a la Justicia por Aguilera",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/megajuicio-aluani-pidio-informes-a-la-justicia-por-aguilera/",
+    "texto_original": "La vicegobernadora Alicia Aluani remitió un pedido al Tribunal de Juicios y Apelaciones de Paraná que integran María Carolina Castagno, Elvio Osir Garzón y Julián Carlos Vergara, que tramita el proceso que derivó en la condena en el marco del megajuicio a 8 años de cárcel del exgobernador Sergio Daniel Urribarri; a 6 años y 6 meses al exministro de Cultura y Comunicación, Pedro Ángel Báez, y a 6 años y 6 meses al cuñado de Urribarri, Juan Pablo Aguilera, empleado del Senado de Entre Ríos.\n\nLa vicegobernadora aludió en su presentación “a los hechos de pública trascendencia respecto” de la causa caratulada “Urribarri, Sergio Daniel; Báez, Pedro Ángel; Tórtul, Gustavo Javier; Céspedes, Hugo Félix; Aguilera, Juan Pablo; Cargnel, Corina Elizabeth; Marsó, Hugo José María; Caruso, Gerardo Daniel s/Peculado y Negociaciones Incompatibles con el Ejercicio de la Función Pública”, y requirió “tenga a bien remitir copia fiel y/o certificada de la sentencia definitiva recaída en la misma en fecha 07/04/2022 e informe si la misma se encuentra firme y ejecutoriada, al efecto de adoptar las medidas administrativas conducentes y/o consecuentes”.\n\nAluani preguntó al tribunal que “aclare la situación procesal del Sr. Juan Pablo Aguilera”, en razón “de su carácter de empleado de planta permanente de esta Honorable Cámara de Senadores”. Consultó “si el mismo se encuentra condenado mediante sentencia firme por delito doloso con pena privativa de la libertad de cumplimiento efectivo y/o condena por delito contra la Administración Pública”.\n\nEl proceso\n\nEn el marco del Megajuicio, Urribarri ya estuvo tras las rejas. Fue detenido el 19 de noviembre de 2024 por resolución de la Cámara de Casación Penal de Paraná a partir de una petición del Ministerio Público Fiscal y recuperó la libertad el 8 de enero de 2025 luego de que la Sala Penal del Superior Tribunal de Justicia (STJ) en feria hiciera lugar a una impugnación extraordinaria. Permaneció 51 días privado de la libertad. Vuelto tras las rejas, el exgobernador estará en la cárcel hasta el 15 de julio de 2034, cuando cumpla la condena a 8 años que recibió en el Megajuicio.\n\nEn el caso de Báez, fue detenido el 22 de noviembre de 2024 y salió para cumplir arresto domiciliario en su vivienda de calle Jozami, en la zona de la Toma Vieja, medida que cumplió hasta este viernes, cuando la Justicia ordenó su alojamiento en la Unidad Penal N° 1. Cumplirá la condena que se le impuso, 6 años y 6 meses de prisión, el 22 de mayo de 2031.\n\nEl cuñado  Aguilera, condenado a 6 años y 6 meses de cárcel, fue detenido el 19 de noviembre de 2024 y alojado en la Unidad Penal N° 1, donde permaneció 51 días hasta que fue liberado el 8 de enero de 2025. Detenido nuevamente el 4 del actual y alojado en la cárcel de Paraná, permanecerá tras las rejas hasta el 12 de enero de 2033.\n\nCondenados\n\nLa abultadísima información hallada dentro de un disco extraíble encontrado de modo fortuito durante un allanamiento practicado en 2016 a las empresas del cuñado Juan Pablo Aguilera, Tep SRL y Next SRL, ubicadas en calle Racedo, frente a las viejas instalaciones del Ferrocarril, fue hecha propia por el tribunal y convertida en pieza clave de las condenas.\n\nEse disco rígido, denominado por la Fiscalía como «la caja negra» de la corrupción, fue analizado por los técnicos del Gabinete de Informática Forense del Ministerio Público Fiscal, Fernando Ferrari y Guillermo Fritz, y volcado en sucesivos informes. «Evidentemente -señaló el Tribunal de Juicios y Apelaciones de Paraná al dar a conocer las condenas- los archivos y correos electrónicos exhibidos y leídos por el ingeniero Fritz en el debate, corroborando sus informes técnicos, como los mensajes de texto y audios de WhatsApp y mensajes de SMS que exhibió y proyectó durante el juicio el ingeniero Ferrari  también en confirmación de sus informes, confluyen para conformar una base probatoria categórica y objetiva a los efectos de acreditar la existencia material del suceso y la autoría y/o participación atribuida a los imputados, por cuanto (…) el contenido de la información de esos archivos permiten reconstruir cada uno de los extremos y circunstancias que postula el Ministerio Público Fiscal en su  acusación, en mérito a que vinculan a los protagonistas de este proceso y han sido reconocidos en su mayoría por testigos y algunos de los imputados».\n\nA la instancia el megajuicio se había llegado luego de la decisión adoptada por la Justicia el 13 de agosto de 2020 cuando resolvió agrupar las tres grandes causas contra Urribarri en un solo expediente y así dar lugar al megajuicio: el primer caso es el otorgamiento de una pauta publicitaria del  Estado a\n\n la empresa Global Means, del empresario Germán Buffa\n\n, antes de que esa firma tuviera existencia real; \n\nla “causa de la vaca” o “de las imprentas”\n\n, que investigó de qué modo dos empresas, Tep SRL y Next SRL, que se adjudican al cuñado de Urribarri, Juan Pablo Aguilera, se quedó durante 5 años con la torta del negocio de la pauta publicitaria oficial en cartelería en vía pública; y \n\nla megacausa del Sueño Entrerriano\n\n, que involucra la publicación de una solicitada contra los fondos buitre; la instalación de un parador playero en Mar del Plata que costó $14 millones; y el pago a la productora Nelly Entertainment de $28 millones para difundir tres spots en apariencia para difundir la Cumbre del Mercosur de 2014.\n\nEn octubre de 2024, la Sala Penal del STJ habilitó al exgobernador Sergio Urribarri a acudir ante la Corte Suprema de Justicia de la Nación para discutir la condena a 8 años de cárcel que recibió en el marco del megajuicio, en 2022.\n\nEl juicio, las sentencias\n\nEl exgobernador Urribarri fue condenado, el 7 de abril de 2022, al término del megajuicio, que se desarrolló entre el 27 de septiembre de 2021 y el 7 de abril de 2022, a 8 años de cárcel. La abultadísima información hallada dentro de un disco extraíble encontrado de modo fortuito durante un allanamiento practicado en 2016 a las empresas del cuñado Juan Pablo Aguilera, Tep SRL y Next SRL, ubicadas en calle Racedo, frente a las viejas instalaciones del Ferrocarril, fue hecha propia por el tribunal y convertida en pieza clave de las condenas.\n\nLa piedra basal de la acusación del Ministerio Público Fiscal en el megajuicio que sentó en el banquillo de los acusados al dos veces gobernador de Entre Ríos Sergio Daniel Urribarri y a otros 12 imputados a partir del 27 de septiembre de 2021 y que concluyó, el 7 de abril último, con la lectura del adelanto de sentencia, la abultadísima información hallada dentro de un disco extraíble hallado de modo fortuito durante un allanamiento practicado en 2016 a las empresas del cuñado Juan Pablo Aguilera, Tep SRL y Next SRL, ubicadas en calle Racedo, frente a las viejas instalaciones del Ferrocarril, fue hecha propia por el tribunal y convertida en pieza clave de las condenas. El exgobernador resultó con una pena de 8 años de cárcel más la inhabilitación absoluta perpetua para ejercer cargos públicos al haberse probado su participacion en cinco grandes causas de corrupción.\n\nEse disco rígido, denominado por la Fiscalía como «la caja negra» de la corrupción, fue analizado por los técnicos del Gabinete de Informática Forense del Ministerio Público Fiscal, Fernando Ferrari y Guillermo Fritz, y volcado en sucesivos informes. «Evidentemente -dicen los fundamentos del fallo condenatorio, un texto de 684 páginas que se conoció este martes- los archivos y correos electrónicos exhibidos y leídos por el ingeniero Fritz en el debate, corroborando sus informes técnicos, como los mensajes de texto y audios de WhatsApp y mensajes de SMS que exhibió y proyectó durante el juicio el ingeniero Ferrari  también en confirmación de sus informes, confluyen para conformar una base probatoria categórica y objetiva a los efectos de acreditar la existencia material del suceso y la autoría y/oparticipación atribuida a los imputados, por cuanto (…) el contenido de la información de esos archivos permiten reconstruir cada uno de los extremos y circunstancias que postula el Ministerio Público Fiscal en su  acusación, en mérito a que vinculan a los protagonistas de este proceso y han sido reconocidos en su mayoría por testigos y algunos de los imputados».\n\nDespués, una segunda certeza: que las empresas Tep SRL y Next SRL «fueron creadas en el año 2009; Tep el 31/01/2009, con una participación del 90% de (Emiliano) Giacopuzzi  y el 10% de Luciana Almada (esposa de Aguilera), con un capital de $12.000 integrado en 120 cuotas iguales, y la empresa Next el 26/01/2009 con una integración idéntica a la de Tep, $12.000 de capital con 120 cuotas iguales y con una participación de (Maximiliano) Sena del 90% y Alejandro Almada (cuñado de Aguilera) del 10%». Y «se ha probado plenamente que estas dos empresas son producto de la escisión de la firma 5 Tipos”. Otra conclusión es que «Juan Pablo Aguilera formaba parte de la precursora empresa 5 Tipos, ya que desde esos inicios figuraba mencionado en carácter de ´Gerente´. Es decir, que Aguilera ya se desempeñaba con anterioridad a la creación de Tep y Next en este rubrocomercial en el ámbito privado, desvirtuando así la afirmación de su pareja Luciana Almada en el debate cuando declaró que tenía la ilusión de atraerlo a la faz privada para que se alejara de la política, pero que no había tenido éxito».\n\n«Coincido con la Fiscalía que no es casual que la creación de las sociedades Tep yNext durante el año 2009 sea coincidente con la designación de Aguilera en el año 2007 en la planta permanente del Senado de la Provincia (…), lo cual traía como consecuencia para Aguilera la prohibición de ´asociarse, dirigir, administrar, patrocinar o representar a personas físicas o jurídicas, que gestionen o explotenconcesiones o privilegios de la Administración Pública provincial o que sean proveedores o contratistas de la misma´, por las incompatibilidades propias de su calidad de funcionario o empleado del Estado provincial».\n\n \n\nAguilera, «el verdadero dueño»\n\nEl tribunal, conformado por los jueces José María Chemez, María Carolina Castagno y Elvio Osir Garzón, que falló de forma unánime, anotó un dato: «Es evidente que no podía (Aguilera) figurar como titular de estas empresas y debía mantenerse oculto, haciendo aparecer como socios a sus amigos, su pareja y el hermano de ésta», en referencia a Giacopuzzi, Sena, Luciana Almada y Alejandro Almada.\n\nEl fallo señala que «las declaraciones concordantes de Giacopuzzi y Sena al ejercer sus respectivas defensas materiales, en el sentido de que ellos tuvieron en cuenta para apostar al crecimiento de su negocio de publicidad e imprenta, el vínculo de amistad que tenía desde niños con Juan Pablo Aguilra, los contactos que éste tenía y la cada vez mayor relevancia que adquiría con la asunción de Urribarri, en realidad pone en evidencia y debe trasladarse a la situación de privilegio en la que se encontraba el propio Aguilera. Y si bien Giacopuzzi y Sena en esa oportunidad negaron ser testaferros de su amigo de la infancia, esta negativa se da de bruces con la abundante información contenida en el disco rígido externo, entre las cuales existen dos documentos, en realidad contradocumentos, relevantes para acreditar que Aguilera es el verdadero dueño de Tep y Next».\n\nEl fallo cita la intervención del abogado Lisandro Minigutti y una serie de movimientos contenidos en el dico rígido, más la prueba documental y los testimonios recogidos en el juicio, y «así se puede seguir enumerando pruebas e indicios inequívocos de quién era el verdadero dueño de las empresas, el socio oculto de Tep y Next» era Aguilera.\n\n«Es indudable entonces a la luz del cuadro probatorio reseñado que Juan Pablo Aguilera, que -como se demostró- ya se dedicaba con la agencia 5 Tipos a la publicidad, armó un esquema empresarial creando en el año 2009 estas dos empresas para monopolizar y absorber las contrataciones de publicidad estática del Gobierno de Entre Ríos en la vía pública, manteniéndose como socio oculto por las dos razones señaladas; por consiguiente, quienes aparecen formalmente como socios de Tep y Next, ante la Dirección de Personas Jurídicas ydemás entes públicos, entre otros en el Registro de Medios, no son los verdaderos dueños, sino ´socios aparentes´ -como los definió inclusive el Dr. Minigutti al elaborar los contradocumentos reseñados».  De los socios aparentes, o testaferros de Aguilera, el más activo resultó Emiliano Giacopuzzi, por cuanto Maximiliano Sena «prácticamente no tuvo actividad durante gran parte del período investigado por las razones de salud que él mismo mencionó».\n\nEl dato más revelador que consigna el fallo es que se «ha acreditado también en el proceso con elementos serios y concordantes el crecimiento notable que tuvieron durante este período 2010-2015 las empresas Tep SRL yNext SRL -en realidad su verdadero titular, Aguilera-, que pasaron de ser locadores del local donde funcionaba 5 Tipos en calle Cura Álvarez 461, a adquirir los inmuebles ubicados encalle Racedo 409 y Racedo 415 a Adrián Federico Fuertes -actual senador provincial por el Frente Creer, NdelR-, figurando en ambas escrituras como comprador Emiliano Giacopuzzi, en representación de la firma TEP».\n\n«A la luz de las pruebas obrantes en el legajo, la vertiginosa evolución económica de las empresas Tep y Next  durante el período imputado indudablemente se debió a los múltiples contratos de publicidad en la vía pública que recibió la empresa TEP en forma habitual, regular y constante, lo cual no hace más que reforzar el convencimiento de que Aguilera concentró, manteniéndose en las sombras, toda la publicidad estática en la vía pública dentro de la provincia, debido a sus estrechos vínculos familiares y políticos con el por entonces Gobernador y a su relación con el ex Ministro Baez, a tal punto que se ha podido comprobar en el juicio que Aguilera también fue el titular oculto de la empresa Publicitar, donde tenía su oficina y sede de la Gerencia de las empresas y en la que el dueño aparente esta vez era Gustavo Pereyra», añade. «Y esta conclusión no es caprichosa ni apresurada, sino que se sustenta en los mails y los registros» de la contadora Corina Cargenl, que asesora a Aguilera, pieza clave en todo el andamiaje, apunta el fallo.\n\n«Ahora bien, el hecho comprobado de que Juan Pablo Aguilera era el dueño de estas empresas fue lo que posibilitó durante el período imputado que se sortearan o evitaran los controles administrativos de los organismos constitucionales competentes, por cuanto ninguno de ellos tiene entre sus funciones la facultad ni los medios para investigar maniobras de las características de la simulación o el ocultamiento de socios, siendo -como ya lo dijimos- el control que ejercen formal y limitado a la adecuación de los contratos a las formas extrínsecas», apunta el tribunal respecto del rol que le cupo a la Contaduría General, al Tribunal de Cuentas y a la Fiscalía de Estado.\n\n«Cartelización»\n\nLa concentración de la publicidad estática en vía pública que contrataba el Estado iba a las mismas manos siempre: las de Aguilera. La participación de la «competencia», Montañana Publicidad y Bustamante Publicidad, era sólo a los fines de aparentar, por cuanto había que pagar «retornos» para participar de la rueda.  «Y en este marco es que Aguilera concertó el acuerdo espurio de cartelización con las empresas Montañana Publicidad y Bustamante Publicidad, con sedes en Concepción del Uruguay y Paraná respectivamente, conforme surge de la abundante y categórica evidencia digital y prueba documental incorporada al juicio, que fuera obtenida en los allanamientos, de manera tal que así logró absorber la casi totalidad de la publicidad estática en la vía pública, sin perjuicio de que también se demostró mediante la prueba producida que también estaban vinculadas a Formato Urbano,  las firmas Basualdo y Callegaro».\n\n«El arreglo fraudulento que implica la cartelización de Juan Pablo Aguilera con estas empresas de publicidad evitó que su emprendimiento comercial en esa actividad tuviera competencia -incluso en estos casos de contratación directa- para la contratación por el Estado de publicidad en la vía pública, cuya adjudicación, de acuerdo al art. 14 de nuestra Constitución Provincial, se debe regir por los principios de transparencia, eficacia, pluralismo y austeridad y exige además pautas objetivas para asegurar la distribución equitativa y no discriminatoria de espacios en los medios de comunicación social que se inscriban para tal fin, principios y exigencias constitucionales que evidentemente no fueron aplicados por los funcionarioscompetentes para disponer de los fondos públicos, Urribarri y Baez -señala-. Así, con este acuerdode recíprocos beneficios Montañana y Bustamante  se aseguraban no quedar excluidos y/o mantener un flujo constante de ingresos en las contrataciones con el Estado, pero lo hacían a cambio de retornar o pagar una elevada comisión a Aguilera por cada contratación».\n\nEsas coimas eran «elevados porcentajes» que pagaban Montañana y Bustamante a las empresas de Aguilera y «ascendían al principio a un 58,63% y luego llegaron hasta el 62%, lo que desvirtúa claramente los argumentos\n\ndefensivos acerca de que se trataba de una cuenta corriente entre las empresas en donde se compensaban además el IVA y otros impuestos, toda vez que no hay posibilidad alguna que la carga impositiva mensual alcance esos porcentajes y menos aún que una cuenta corriente comercial compute créditos y débitos por el sistema de porcentajes mensuales, iguales yconsecutivos, que a su vez se mantienen y acuerdan por determinado período de tiempo».\n\nEl caballo del comisario\n\nEn el juicio quedó probado que Urribarri y su exministro de Cultura y Comunicación, Pedro Ángel Báez, «direccionaron durante el período imputado y con pleno conocimiento de su ilicitud las contrataciones de publicidad estática a las empresas cartelizadas que comandaba Aguilera, interesándose en beneficio de quien era nada menos que el cuñado del Gobernador y funcionario público provincial y, además -como el propio Aguilera lo manifestó- el responsable de las campañas políticas de Urribarri y del partido que éste representaba». Sobre ese punto,  dice el fallo: «En razón de los relevantes cargos institucionales que ambos ostentaban en el Poder\n\nEjecutivo de Entre Ríos, Urribarri el máximo en su calidad de Gobernador y Baez como Ministro de Cultura y Comunicación, tenían vedado interesarse en la contratación de publicidad para favorecer claramente a Juan Pablo Aguilera, con quien mantenían trato asiduo familiar y político, y no podían desconocer por esa íntima relación personal que Aguilera era funcionario público y el dueño real de Tep y Next».\n\n«Coincido con la Fiscalía -arguyó el tribunal- que no existe manera de sostener, o admitir siquiera la posibilidad de pensar de que Urribarri  y Baez no sabían que contrataban a la empresa del cuñado del primero, a la que durante el año 2010/2015 le adjudicaron la casi totalidad de las contrataciones de publicidad estática en la vía pública junto a las empresas cartelizadas».\n\nY después suma otra coincidencia. «Coincido con la Fiscalía que la Contadora Corina Cargnel conocía la ilicitud de estas contrataciones, el acuerdo espurio entre las empresas y el fraude de los socios aparentes, testaferros del socio oculto, por esta razón tenía esta información guardada en el disco rígidoexterno, un objeto que era fácil y posible de transportar, ocultar e incluso arrojarlo conintenciones de ocultarlo, como ocurrió esa mañana del día 1°/8/16, aunque -como expresé- la Fiscalía no haya podido demostrar que fuera ella quien lo hizo u otra persona de la empresa, locual carece de relevancia a los efectos incriminatorios».\n\n«En definitiva -apuna el fallo-, se debe concluir que el aporte de Gustavo Tamay ha sido esencial para que los funcionarios públicos Urribarri y Báez sustrajeran los fondos públicos que les habían sido confiados en razón de su cargo, ya que si Tamay hubiera cumplido fielmente consu obligación de certificar la correcta colocación de los carteles el peculado no se hubiera producido o se hubiera frustrado, y esta omisión de los deberes a cargo del verificador no fue imprudente ni casual, sino deliberada en el concierto con los demás imputados, todo lo cual\n\nsurge de la prueba colectada».\n\nEn la extensa argumentación en la denominada «causa de la vaca», que apuntó al cuñado Aguilera, a Urribarri y a Baéz, el tribunal señaló: «En conclusión, el abundante cuadro probatorio cargoso analizado bajo las reglas de la sana crítica racional ha logrado demostrar con el grado de certeza que requiere una sentencia condenatoria tanto la materialidad de los hechos como la autoría y/o participación atribuidas a Urribarri, Báez, Aguilera, Corina Cargnel, (Emiliano) Giacopuzzi, Luciana Almada y (Gustavo) Tamay en los términos en que formuló su acusación el Ministerio Público Fiscal, como titular de la acción penal, derribando el estado constitucional de inocencia del que goza todo ciudadano». Aunque distinta fue la consideración de la participación de Maximiliano Sena y Alejandro Almada, en la lectura de los magistrados, «por cuanto, si bien se ha demostrado en este proceso que actuaron como testaferros de Aguilera en la conformación de Next SRL, la imputación que los ha traído a juicio es la de haber recibido, por la maniobra de direccionamiento de Sergio Daniel Urribarri y Pedro Ángel Baez a favor de Juan Pablo Aguilera, cuñado de Urribarri y funcionario del Gobierno de la Provincia de Entre Ríos, múltiples contratos de publicidad del Estado entrerriano, a favor de su empresa Next SRL, al igual que Tep SRL, ambas de Juan Pablo Aguilera».\n\n«Y resulta evidente que no existe ninguna prueba en el proceso que indique que la empresa Next SRL haya recibido siquiera un contrato de publicidad del Estado provincial, es decir, que Sena y Alejandro Almada, como socios aparentes de Next, nunca contrataron publicidad ni participaron en ninguno de los expedientes de contratación, con lo cual la descripción fáctica tal como fue realizada por la Fiscalía no los puede alcanzar, a riesgo de vulnerar el principio de congruencia».  En función de esos argumentos, el tribunal los absolvió de culpa y cargo.\n\n \n\nEl caso del empresario de la buena suerte\n\nEl caso del empresario Germán Esteban Buffa, que formó la empresa Global Menas SA con el solo propósito de conseguir pauta del Estado entrerriano, que la obtuvo incluso antes de que su firma estuviera inscripta en la Afip, descubrió para el Ministerio Público Fiscal una nueva maniobra de «direccionamiento» dentro del gobierno de Urribarri.\n\nEsa contratación fue irregular por donde se la mire. «En efecto, de la compulsa del referido expediente, emerge que la Orden de Publicidad Nº 2038 de fecha 01.07.2011 firmada por los imputados, Sergio Daniel Urribarri y Pedro Ángel Báez , con membrete de la Dirección General de Información Pública del Gobierno de Entre\n\n535 Ríos, por la suma de $ 118.000,00 fue emitida con anterioridad a la propuesta del publicista, el imputado Germán E. Buffa, Presidente de la firma Global Means SA, la cual está fechada el 15.07.2011, vale decir, catorce días después de la emisión de la orden de publicidad, no obrandoen la misma cargo de recepción del organismo, adoleciendo por ende de fecha de presentación», dice el fallo.\n\n«Lo expuesto deja al descubierto las condiciones de absoluta irregularidad en que se suscribió la Orden de publicidad N° 2038 de fecha 01.07.2011, al no poder soslayarse, que necesariamente debe anteceder a ésta la propuesta publicitaria que contiene el presupuesto del medio, pues en base a ella luego se confecciona la orden de publicidad; de ahí, que el presupuesto debe ser anterior, o al menos, de la misma fecha de emisión de la orden de\n\npublicidad, pero nunca posterior, como acontece en el caso bajo examen», puntualiza.\n\n«Desvanece asimismo la defensa esgrimida por el imputado Buffa, la constancia de alta en Afip de la empresa Global Means SA, toda vez que en la misma se consigna como fecha de Contrato Social el 15.08.2011 y como fecha de inicio de actividad principal (…) el 10.2011 para todos los impuestos registrados (…), lo cual devela lo inverosímil que resulta que en el mes de julio de 2011 se le haya requerido a Global Means SA que incluya el IVA en su presupuesto, como lo afirma Buffa en su defensa, pues no se encontraba inscripto ante la Afip, porque ni siquiera existía como persona jurídica, al ser su Estatuto Constitutivo de fecha 15.08.2011», situación que, a entiende el tribunal, «lleva a dar razón a la Fiscalía cuando afirma que al momento de ser beneficiada la empresa Global Means SA con la pauta publicitaria en cuestión, no existía, no era una empresa al no estar inscripta como tal».\n\nAmigos son los amigos\n\nLa informalidad con la que se manejó el procedimiento administrativo que derivó en la contratación de la pauta publicitaria a favor Global Means SA, sumado la flexibilidad con que se ejerció el control de legalidad -previo y posterior- del trámite, encuentra su explicación racional, concluyeron los jueces que juzgaron el megajuicio, «en la concurrencia de un interés de parte – de carácter extra-administrativo – que fue volcado en el negocio jurídico en miras de un beneficio propio o de un tercero, en base a lo acordadomutuamente entre los imputados.-\n\nRefuerza tal convicción, el conocimiento mutuo y la relación previa que existía al momento de la contratación entre los imputados Báez y Buffa, tal como éste último lo llegó admitir al brindar su declaración indagatoria, en especial en sede instructoria».\n\nEl propio Buffa contó «haber asesorado a Báez, familiares y allegados de éste en la conformación de emprendimientos empresariales -Amanzi Termal e Innova Turismo- y haber realizado a pedido de aquél gestiones de intermediación ante empresas que concentraban medios de comunicación. Señaló que la primera vez que vio a Báez fue en el Howard Johnson cuando se lo presentó José Bechara, ex funcionario de Sidecreer, hacia fines de 2009, que se juntaron debido a que Bechara, Báez y Ostrosky querían comenzar un emprendimiento conjunto, en el cual él iba a participar del asesoramiento». Amanzi Termal consistía en un «apart hotel con pileta, y en un inicio en una inversión inmobiliaria. Explicó que quien formó parte del emprendimiento al comienzo no fue directamente Báez sino su esposa, Sofía Riquelme, con quien se juntó en dos oportunidades en relación al emprendimiento, pero que no tuvo otro tipo de contacto con ella ni han hablado por teléfono. Agregó, que conoce de la calle al hijo de Báez de nombre Francisco. Explicó que con Báez se ha juntado en Casa de Gobierno y le encomendaba tareas extras, tales como pedirle a los medios que eran beneficiados con la publicidad estatal contratada por medio de Global Means SA, que publicaran noticias vinculadas a la provincia de Entre Ríos».\n\nLuego, apunta: «Cierra el cuadro cargoso en orden a la existencia de la relación cercana entre los imputados Báez y Buffa la autorización para el manejo del vehículo de titularidad de Global Means SA otorgada por Buffa -en su carácter de Presidente- a favor de la esposa e hijo de Báez la cual si bien es de fecha 22.04.2013, ésto es posterior a los hechos, en definitiva no hace más que confirmar que el vínculo cercano existente entre Buffa y Báez, perduró en el tiempo».\n\n«En definitiva -cierra el caso-, el amplio conjunto probatorio mensurado es categórico para arribar al juicio de certeza respecto a la materialidad del hecho traído a juicio como la participación atribuida a los encartados en el marco de la Causa N° 6.399, cuyas versiones defensivas no alcanzan a conmover la convicción alcanzada, toda vez que ha quedado demostrado que los enjuiciados Urribarri y Báez se interesaron en la contratación de la firma Global Means SA, en miras de obtener un beneficio para el presidente de la misma, el imputado Germán\n\nEsteban Buffa, estrechamente vinculado a Báez, habiendo intervenido los mismos, en razón de los cargos que ostentaban al momento de los hechos, Gobernador de la provincia de Entre Ríos el primero, y de Director General de Información Pública del Gobierno de Entre Ríos y luego Ministro de Cultura y Comunicación de la Provincia de Entre Ríos, el segundo».\n\nSueño Entrerriano\n\nDespués de analizar la «causa de la vaca» y fijar responsabilidades y discurrir en torno a la forma cómo un empresario logró en tiempo récord una pauta del Estado entrerriano antes de que su empresa tuviera existencia legal, el tribunal se ocupó de los últimos tres casos de los cinco que agruparon en el megajuicio: se trata de tres invetigaciones penales conexas resumidas en el «Sueño Entrerriano».\n\n«Nótese -observa el tribunal en el fallo-, que los hechos se sitúan en el año 2014 y principios de 2015, período en el cual quienes aspiraban suceder a la por entonces Presidenta de la Nación, Cristina Fernández de Kirchner en las elecciones presidenciales de 2015 comenzaban hacer pública sus aspiraciones; postulando la Fiscalía, que uno de estos aspirantes, era el imputado Sergio Daniel Urribarri».\n\nEn procura de posicionar su imagen en la carrera presidencialista, dice la tesis de Fiscalía, Urribari distrajo fondos del erario público para desarrollar distintas acciones con vista a que su nombre se conociera en todo el país los días 22, 23, 24 y 26 de junio del año 2014, invocando como fundamento el principio constitucional que los obliga a informar a la sociedad sobre los actos de gobierno; y agregando como finalidad, la posibilidad de afianzar el posicionamiento de la provincia en los distintos espacios geográficos – provinciales, nacionales o internacionales».  Así, Urribarri y Báez firman 18 órdenes de publicidad, por un monto de $4 millones. El tribunal al evaluar esas contrataciones apuntó que «se realizaron sin ningún otro tipo de intervención en la fase previa a las contrataciones, no advirtiéndose ninguna urgencia que lo justificara, las órdenes de publicidad fueron abonadas en su integridad, conforme surge de las documentales N° 9 hasta el N° 26 inclusive, consistente en los distintos expedientes administrativos iniciados en el mes de septiembre por los diferentes medios, en donde constan los respectivos trámites desde la orden de publicidad hasta su efectivo pago».\n\nApunta: «A diferencia de lo sostenido por las Defensas, del texto de la Solicitada surge prístino que el imputado Urribarri realizó un discurso, en el cual se presenta como precandidato a Presidente de la Nación, pretendiendo interactuar con los otros precandidatos a Presidente; no observándose en ningún párrafo de la solicitada que se haga referencia a actos de gobierno que  fueran necesarios difundir en cumplimiento de normas constitucionales, tal como fuera invocado por el entonces Ministro Báez al interesar la publicación del aviso oficial bajo estudio».\n\n«En suma, toda la prueba reseñada y valorada es categórica para arribar al juicio de certeza respecto a la materialidad de los hechos traídos a juicio, como la participación atribuida a los imputados Urribarri y Báez, cuyas versiones defensivas no alcanzan a conmover la convicción alcanzada, pues se probó que se apartó de la partida presupuestaria DA 988, correspondiente al Ministerio de Cultura y Comunicación de la provincia, la suma de Pesos Cuatro millones trescientos ocho mil quinientos con veintitrés centavos ($4.308.500,23), cuya administración y disposición ostentaban en su carácter de funcionarios públicos – Gobernador y Ministro de Cultura y Comunicación de la Provincia de Entre Ríos respectivamente -, aplicándola a un  gasto particular del imputado Urribarri ajeno al de la administración pública».\n\nCumbre del Mercosur y la contratación del ‘Corcho’ Rodríguez\n\nPor otra parte, el Tribunal consideró probada que fue direccionada la contratación de la empresa Nelly Entertainment SA, de Jorge ‘Corcho’ Rodríguez, para la difusión de 4 spots publicitarios para la Cumbre del Mercosur, que se realizó a fines de 2014 en Paraná. Ello costó más de $28 millones.\n\nSeñala que el Tribunal de Cuentas de la provincia realizó observaciones al llamado a presentación a ofertas y que ello fue indicio “acerca de que la verdadera negociación que culminó con la contratación de la empresa Nelly Entertainment S.A. se llevó a cabo por fuera del Estado, conforme así lo postula la Fiscalía, pues descarta la existencia de una competencia real entre los oferentes”\n\n“Refuerza la convicción acerca de que la verdadera negociación que culminó con la contratación de la empresa ‘Nelly Entertainment S.A. se llevó a cabo por fuera del Estado, la celeridad que se le imprimió al trámite de contratación, que sin lugar a dudas, repercutió en el ‘escaso tiempo de la convocatoria para la presentación de ofertas’, con las consecuencias adversas ya señaladas, en orden al obstáculo para la posible presentación de un mayor número de oferentes, que hubiera permitido realizar una comparación entre las ofertas presentadas, analizar la razonabilidad del precio, y así seleccionar aquella más conveniente para el Estado, máxime teniendo en cuenta la alta significación económica de la contratación, objeto de imputación”, agregan.\n\nDestacan que al momento en que se llevó adelante el proceso de contratación, se desarrollaba la campaña de posicionamiento a nivel nacional de la imagen del por entonces gobernador en vista a su precandidatura para presidente en las generales de 2015. En este caso fue clave el entrecruzamiento de llamadas en las que se constataron comunicaciones entre Urribarri y la firma con anterioridad a la contratación. También hay comunicaciones con la empresa y su propietario por parte de personas de su entorno, incluso de su familia que no eran funcionarios.\n\nEn otro orden de cosas, puntualizan que la contratación de Nelly “costó más que la realización de La Cumbre que se llevó a cabo tres años después, en el año 2017, en la ciudad de Mendoza, que costó $ 16.719.215,00”.\n\n“La prueba hasta aquí analizada, demuestra de modo inequívoco, el claro direccionamiento de la contratación hacia la empresa ‘Nelly Entertainment S.A.’, al haberse demostrado de modo acabado como es que tiempo antes de iniciarse el proceso de contratación en el marco de la organización de la Cumbre de Mercosur, los imputados habían comenzado la negociación con dicha empresa, a quien finalmente se le adjudicó la contratación con la firma del Decreto N° 48000 GOB de fecha 09.12.2014; despejándose así el interrogante inicial, pues permite observar de modo claro, cuál era la real finalidad de la difusión de los spots – objeto de contratación – posicionar la imagen de Urribarri a nivel nacional en vista a las precandidaturas para Presidente de la Nación en las elecciones generales del año 2015”, finaliza.\n\nEl parador de campaña y los retornos\n\nPor último, se entendió probada la hipótesis de la Fiscalía de que el Parador playero instalado en Mar del Plata en enero de 2015 fue para promocionar la precandidatura de Urribarri y no el turismo entrerriano. La instalación costó 14.561.870,00. También constataron irregularidades en la contratación de la firma El Juego en que Andamos, del empresario Gerardo Caruso; y también entendieron probado que este hizo un retorno de dinero para la campaña proselitista del ahora exmandatario.\n\nEn ese sentido, señalan que en este caso se advierte una licitación “simulada” con la firma Castromil SRL.  “Refuerza tal convicción, la compra de los pliegos de la licitación, pues en fecha 18/12/14 fueron comprados en la Casa de Entre Ríos en Buenos Aires para ambas firmas en forma conjunta y por personas vinculadas a El Juego en que Andamos S.R.L.”, indican y mencionan a dos personas que son cuñados entre sí que adquirieron los pliegos para ambas empresas.\n\n“La prueba hasta aquí analizada acredita de manera irrefutable el direccionamiento de la contratación de la firma de El Juego en que Andamos S.R.L. en el proceso licitatorio, como así también el real propósito de la instalación del Parador en la ciudad de Mar del Planta, su verdadera finalidad, a saber: instalar, posicionar la imagen de Urribarri como precandidato a presidente de la Nación, teniendo como norte las elecciones del año 2015, en el marco de la comprobada campaña que concomitantemente se desarrollaba a tal fin”\n\nFinalmente, manifiestan probado el “retorno” de dinero de dicha contratación para la campaña. “No existen dudas, que en el caso, para disponer de los fondos que recibió como contraprestación la empresa El Juego en que andamos, Caruso necesitó realizar una operación comercial que respalde la extracción de dinero, acudiendo a las facturaciones simuladas a terceros, para así poder obtener dinero en efectivo para los retornos, operatoria en la que intervino Juan Pablo Aguilera. Estas operaciones adicionales le permitieron a Caruso hacerse del dinero y así poder la empresa El Juego en que Andamos cerrar este circuito económico y financiero que debía justificar, tanto legal como impositivamente. Es así, que en esos informes hay comercios que figuran en la facturación simulada, de los cuales surgen que, unos prestaron servicios a El Juego en que Andamos, otros dicen puntualmente que nunca le prestaron servicio a la empresa, y algunos puntuales casos lo hicieron por un monto inferior”, destacan.\n\nAl respecto de esa operación, subrayan que la firma El Juego en que Andamos retornó dinero “a favor del círculo del por entonces gobernador Urribarri para su beneficio; siendo Caruso quien concretó dicho retornó por intermedio de Aguilera, cuñado y encargado de la comprobada campaña de posicionamiento de la imágen de Urribarri a nivel nacional; contando con la imprescindible colaboración de Corina Cargnel – contadora de las empresas TEP S.R.L. y Next S.R.L., quien gestionaba la confección de facturas de las empresas y los retornos de dinero con la firma El Juego en que andamos S.R.L.».\n\nCabe señalar que en este expediente fue absuelto el exministro de Turismo, Hugo Marsó, ya que, para el Tribunal, no se demostró y no hay prueba que así lo indique, que haya estado enterado de la real motivación del parador.\n\nDe las 14 personas que se sentaron en el banquillo, 5 fueron absueltas (una falleció en octubre de 2021).\n\nPor unanimidad, el Tribunal de Juicios y Apelaciones de Paraná -conformado por José María Chemez, María Carolina Castagno y Elvio Osir Garzón- declaró a Urribarri «autor material y responsable de los delitos de negociaciones incompatibles con el ejercicio de la función pública y peculado en concurso ideal en la modalidad de delito continuado», en la primera de las causas que se ventilaron en el megajuicio, “la causa de la vaca” o de “las imprentas”, en la que se le reprochó que durante su gobierno se direccionaron las pautas de publicidad del Estado en vía pública en beneficio de las empresas de su cuñado, Juan Pablo Aguilera, Tep SRL y Next SRL, que a pesar de la discusión, el tribunal confirmó que le pertenecen y que quienes dijeron ser sus dueños son en realidad testaferros.\n\nTambién se lo condenó por el delito de negociaciones incompatibles con el ejercicio de la función pública en la causa en la que estuvo implicado el empresario todo terreno Germán Buffa, que consiguió del Estado una publicidad en tiempo tan veloz que la orden se firmó mucho antes de que su empresa, Global Means SRL, tuviera existencia real: no había sido inscripta todavía en la Administración Federal de Ingresos Públicos (Afip). El tribunal probó también acá el direccionamiento por cuanto Buffa tenía negocios con el exministro de Cultura y Comunicación de Urribarri, Pedro Báez, y su esposa, Sofía Riquelme.\n\nLa Justicia halló al exgobernador también autor del delito de peculado en la causa que investigó la publicación de una solicitada en diarios nacionales contra los fondos buitre, que le  costó al Estado entrerriano la suma de $4 millones y que en realidad fue parte de la instalación nacional del «Sueño Entrerriano», su pretendida precandidatura a presidente de la Nación; le cargaron sobre sus espaldas también los delitos de negociaciones incompatibles con el ejercicio del a función pública y peculado en concurso ideal en la investigación por el pago de una pauta publicitaria por $28 millones a la empresa Nelly Entertainment SA, del empresario Jorge “Corcho” Rodríguez, para difundir tres spots publicitarios en canales nacionales para, en teoría, promocionar la Cumbre de Presidentes del Mercosur, que se realizó en 2014 en Paraná, pero cuyo fin último fue instalar la figura de Urribarri a nivel nacional en su ansiado proyecto del “Sueño Entrerriano”: la posibilidad, frustrada al fin, de ser candidato a presidente de la Nación.\n\nAdemás, en la quinta causa, negociaciones incompatibles con el ejercicio de la función pública y peculado en concurso ideal en la causa del parador de Mar del Plata que se instaló en el verano de 2015 y que le costó al Estado entrerriano $14 millones. Oficialmente, fue presentado como una estrategia de difusión turística de la Provincia, pero para la Justicia cumplió la función de instalación de la figura de Urribarri como futuro candidato a presidente.\n\nAsí, sumados las causas “de la vaca”, la publicidad amañada direccionado hacia alguien del entorno del Gobierno y el costo del “Sueño Entrerriano” derivó en la aplicación de la condena de 8 años de cárcel de cumplimiento efectivo para el extitular del Poder Ejecutivo entrerriano, más la accesoria de inhabilitación absoluta perpetua y una multa por $180 mil.\n\nEl resto de las condenas\n\nA \nPedro Ángel Báez\n, exministro de Cultura y Comunicación, exdiputado provincial del PJ, por la comisión en calidad de autor de los delitos de peculado en concurso ideal con negociaciones incompatibles con la función pública, 4 hechos, le pidieron la pena de 10 años de cárcel, más la inhabilitación absoluta perpetua para ejercer cargos públicos. La condena fue de 6 años y 6 meses de prisión, más la inhabilitación absoluta perpetua y multa por $90 mil.\n\nA \nJuan Pablo Aguilera\n, cuñado de Urribarri, funcionario del Senado de Entre Ríos, como partícipe necesario de los delitos de peculado ynegociaciones incompatibles con la función pública en concurso ideal, en dos hechos, le fue solicitada una pena de 10 años de prisión. Además, la accesoria de la inhabilitación absoluta perpetua para ejercer cargos públicos. Fue condenado a 6 años y 6 meses de cárcel. Además, la inhabilitación absoluta perpetua para ejercer cargos públicos y multa por $180 mil.\n\nA \nCorina Elizabeth Cargnel\n, contadora de las empresas Next SRL y Tep SRL, que se adjudican al cuñado Aguilera, se la acusa como partícipe necesaria de los delitos de peculado y negociaciones incompatibles con la función pública en 2 hechos. Por esos hechos, la Fiscalía pidió para Cargnel 8 años de cárcel, más la accesoria de inhabilitación absoluta perpetua para ejercer cargos públicos. Pero el tribunal consideró excesiva la pena pedida por Fiscalía y le aplicó 3 años de prisión condicional -no va a la cárcel- e inhabilitación absoluta perpetua. Además, deberá pagar una multa de $90 mil.\n\nA \nGustavo Rubén Tamay\n, en carácter de partícipe necesario de los delitos de peculado y negociaciones incompatibles en concurso ideal, Fiscalía pide la pena de 4 años de prisión e inhabilitación absoluta perpetua para ejercer cargos públicos. Le aplicaron 3 años de prisión condicional e inhabilitación absoluta perpetua, más pago de multa de $90 mil.\n\nA \nLuciana Belén Almada\n, esposa de Aguilera, también acusada de ser “testaferro”, le achacan en carácter de partícipe secundaria el delito de peculado y el de negociaciones incompatibles en concurso ideal y piden la pena de 3 años de prisión de carácter condicional, y la inhabilitación absoluta perpetua para ejercer cargos públicos. La pena aplicada 2 años y 6 meses de ejecución condicional, inhabilitación absoluta perpetua y multa de $90 mil.\n\nA \nEmiliano Oscar Giacopuzzi\n, acusado por Fiscalía de ser “testaferro” de Aguilera, se le imputa como partícipe secundario del delito de peculado y negociaciones incompatibles en concurso ideal y se pidió para él la pena de 4 años de prisión e inhabilitación absoluta perpetua para ejercer cargos públicos. La pena aplicada por el tribunal es de 2 años y 6 meses de ejecución condicional, inhabilitación absoluta perpetua y multa de $90 mil.\n\nA \nGermán Esteban Buffa\n, el empresario suertudo que obtuvo una pauta publicitario del Estado antes de que pudiera constituir su empresa, Global Menas, y que fue parte del gerenciamiento de \nEl Diario,\n de Paraná, como partícipe necesario en el delito de negociaciones incompatibles con la función pública, Fiscalía pide una pena de 3 años de ejecución condicional y la inhabilitación especial perpetua para ejercer cargos públicos. El tribunal le aplicó la pena de 1 año y 2 meses de prisión condicional e inhabilitación absoluta perpetua.\n\nAl empresario \nGerardo Daniel “Foia” Caruso\n el Ministerio Público Fiscal lo imputó como partícipe necesario en la comisión del delito de peculado y negociaciones incompatibles con la función pública, en concurso ideal. Y pidió la pena de 5 años de prisión y la inhabilitación absoluta perpetua. El tribunal le aplicó la pena de 3 años de prisión de ejecución condicional, inhabilitación absoluta perpetua y el pago de una multa de $90 mil.\n\nAdemás, el tribunal fijó como regla de conducta para Cargnel, Tamay, Luciana Almada, Giacopuzzi, Buffa y  Caruso, por el término de dos años, la fijación de domicilio, que no podrán variar sin autorización judicial, con la obligación de compararecer ante la Oficina de Medios Alternativos (OMA) del Poder Judicial «con la frecuencia que este organismo aconseje», y la realización de tareas no remuneradas, a razón de 8 horas mensuales, que serán fijadas desde Tribunales. La OMA quedará a cargo del «control del efectivo cumplimiento de dichas reglas, que deberá elevar la propuesta a este tribunal, y receptado dicho informe, deberá labrarse por OGA (Oficina de Gestión de Audiencias) acta compromisoria».\n\nAbsueltos\n\nA \nMaximiliano Romeo Sena\n,  otro “prestanombre”, según Fiscalía, fue acusado por Fiscalía como partícipe secundario del delito de peculado y el de negociaciones incompatibles en concurso ideal, pidieron 2 años y 6 meses de prisión de cumplimiento condicional e inhabilitación absoluta perpetua para ejercer cargos públicos. El tribunal lo absolvió y declaró «que el proceso no afecta su buen nombre y honor».\n\nA \nAlejandro Luis José Almada\n, cuñado de Aguilera, Fiscalía le achacó ser partícipe secundario en el delito de peculado y el de negociaciones incompatibles en concurso ideal, y le pidió la pena de 3 años de prisión de ejecución condicional. También, la inhabilitación absoluta perpetua para ejercer cargos públicos. Pero el tribunal decidió absolverlo. Almada actualmente es funcionario de la Cámara de Diputados. Fue absuelto de culpa y cargo, y declaró que «el proceso no afecta su buen nombre y honor».\n\nHugo Félix Céspedes\n, que falleció a comienzos de octubre, a menos de un mes de iniciado el megajuicio, también fue absuelto. Fue coordinador de la Unidad Operativa Mercosur, que funcionó en 2014, cuando sesionó en Paraná la Cumbre de Presidentes del Mercador Común del Sur (Mercosur). Murió el sábado 9 de octubre. El exfuncionario estaba imputado y tenía un pedido de condena de 4 años de prisión de cumplimiento efectivo e inhabilitación absoluta perpetua en la denominada causa del \nSueño Entrerriano\n por la contratación de la difusión de spots en medios nacionales con la productora Nelly EntertainmentSA, de Jorge «Corcho» Rodríguez. Durante la audiencia del martes 5 de octubre, cuando fue identificado por el tribunal, contó que se había jubilado, que tenía 63 años y que estaba en tratamiento oncológico. «Si bien se ha extinguido la acción penal por el fallecimiento de Céspedes -explicó el tribunal- creemos necesario, siguiendo el ordenamiento que fija el Código no se ha probado la materialidad de la autoría. Cremos que esto es un hecho de justicia, no solamente por haberse extinguido la acción penal»\n\nA \nGustavo Javier Tórtul\n, funcionario del Estado provincial, como partícipe necesario del delito de peculado y de negociaciones incompatibles con la función pública en concurso ideal, la Fiscalía solicitó la pena de 3 años de prisión de cumplimiento condicional e inhabilitación absoluta perpetua para ejercer cargos públicos. Pero el tribunal entendió que no tuvo participación en los delitos reprochados, y lo absolvió. El tribunal declaró que «el proceso no afecta su buen nombre y honor».\n\nAl exministro de Turismo de Urribarri\n, Hugo José María Marsó\n, acusado como autor del delito de peculado y negociaciones incompatibles en concurso ideal, le pidieron la condena a 5 años de prisión más la inhabilitación absoluta perpetua para ejercer cargos públicos. Fue absuelto de culpa y cargo y se declaró que «el proceso no afecta su buen nombre y honor».\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "comercio",
+      "impuestos",
+      "servicios_publicos",
+      "transparencia",
+      "gobierno",
+      "legislatura",
+      "justicia",
+      "organos_control",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "elecciones",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concepción del uruguay",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-clima-3",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Clima",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/clima-3/",
+    "texto_original": "El Municipio de Paraná desarrolla acciones para fortalecer la prevención sanitaria ante la contingencia climática por el fenómeno de El Niño. En ese marco, las distintas áreas municipales avanzan de manera coordinada para reducir riesgos y garantizar la capacidad de respuesta ante eventuales anegamientos e inundaciones.  Como parte de este trabajo integral, la Secretaría de Salud planifica y refuerza las acciones sanitarias junto a los equipos de los Centros de Atención Primaria de la Salud (CAPS), con especial atención a las zonas que puedan verse afectadas por las condiciones climáticas. En un encuentro de coordinación, se abordaron medidas vinculadas con la prevención, los cuidados y la vacunación, tanto para los equipos de salud como para la población que pueda requerir recomendaciones específicas ante este tipo de contingencias. “Estamos trabajando desde la prevención y fortaleciendo la preparación de nuestros equipos para poder dar respuesta ante las situaciones que puedan generarse a partir de las lluvias intensas”, señaló la secretaria de Salud, Claudia Enrique. La funcionaria explicó que también se analizaron aspectos relacionados con el funcionamiento del sistema sanitario y la incorporación de herramientas digitales destinadas a mejorar la organización y la respuesta de los servicios de salud.  Estas acciones forman parte del trabajo preventivo que el Municipio viene desarrollando ante la contingencia climática, con intervenciones sobre desagües, arroyos y otros puntos críticos de la ciudad, además de tareas de limpieza, mantenimiento y preparación de los equipos municipales. El objetivo es anticiparse a los posibles efectos de las lluvias intensas, sostener la prevención y fortalecer la capacidad de respuesta, con una estrategia coordinada entre las distintas áreas municipales y especial atención en los sectores más vulnerables a anegamientos e inundaciones.\n\n \n\n \n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-universidad-10",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Universidad",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/universidad-10/",
+    "texto_original": "A través de los equipos de la Secretaría de Bienestar Estudiantil y del Área de Orientación al Estudiante de la Secretaría Académica, la Universidad Autónoma de Entre Ríos (Uader) continúa en esta segunda mitad del año, en Paraná y alrededores, desarrollando acciones para promocionar el Ingreso 2027 a sus carreras de grado y pregrado. En esa línea, hubo participación institucional con un stand en la 2° edición de la Muestra de Carreras y Oficios Modalidad Jóvenes y Adultos, organizada por la Escuela Secundaria de Jóvenes y Adultos N°4 Profesor Maximio Victoria. También, en los primeros días de septiembre se realizaron las habituales visitas a escuelas de la zona. Por un lado, se asistió a la Escuela Secundaria N°5 Brigadier Zuloaga, de San Benito; y por otro lado, a la Escuela Secundaria de Jóvenes y Adultos N°40 General San Martín (funciona en el edificio de la Escuela Bavio) de Paraná. En todos los casos, se brinda información sobre la oferta académica de Uader, que contempla más de 100 titulaciones, y los servicios estudiantiles a los que pueden acceder quienes cursen una carrera universitaria. Además, se realizan talleres de orientación vocacional y charlas para asesorar sobre el proceso de inscripción.  Toda la información sobre el Ingreso 2027 a Uader puede consultarse en ingresantes.uader.edu.ar\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-elecciones-5",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Elecciones",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/elecciones-5/",
+    "texto_original": "Por resolución Nº1165-26, quedó establecido en el ámbito de la Universidad Autónoma de Entre Ríos (Uader) el Calendario Electoral de este año, que contempla la renovación de representantes ante los órganos de cogobierno de dos claustros: Estudiantes y Graduados. A partir de esta normativa específica, en consonancia con el Régimen Electoral vigente (Ordenanza Nº187), la Junta Electoral estipuló que el cierre de padrones sea el 4 de septiembre. En tanto, la presentación de listas podrá hacerse hasta el 22 de septiembre. En este marco, se realizarán los comicios en las facultades el martes 20 de octubre, para que los mencionados claustros renueven sus representantes en los respectivos consejos directivos. Asimismo, el jueves 29 de octubre se constituirá el Colegio Electoral para la elección de consejeros superiores. Cabe mencionar que el Claustro Estudiantes renueva sus consejeros todos los años, mientras que el Claustro Graduados lo hace cada dos años. En tanto, los restantes claustros que integran el cogobierno universitario, Docentes y Personal Administrativo, Técnico-Profesional y de Servicios, renuevan cada cuatro años, cuando también se eligen nuevas autoridades para la gestión (rector-vicerrector y decanos-vicedecanos).\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "servicios_publicos",
+      "elecciones",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-publicacion-3",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Publicación",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/publicacion-3/",
+    "texto_original": "«¿Lo bueno viene en envase chico?». Con la pregunta en el título, la Editorial de la Universidad Autónoma de Entre Ríos (Uader) pone en consideración el libro del doctor Julián Maneiro. La obra analiza la calidad de la democracia en los municipios de la Argentina y es el resultado de la investigación de tesis doctoral del actual secretario de Justicia del Gobierno de Entre Ríos. En su trabajo, el autor elabora un índice en base al cual mide el funcionamiento democrático de 30 localidades argentinas, entre las que figuran ocho municipios entrerrianos. “Medimos, básicamente, calidad institucional. Miramos el funcionamiento del Estado en esos municipios, se evalúan niveles de corrupción, mecanismos de rendición de cuentas, competitividad electoral, participación ciudadana entre un conjunto de dimensiones que componen este concepto de democracia”, describió Maneiro en un encuentro que mantuvo con el rector de la Universidad Autónoma de Entre Ríos (Uader), Luciano Filipuzzi. El libro analiza el período comprendido entre 2003 y 2011, en base a diferentes fuentes oficiales como los resultados de distintas instancias electorales, índices demográficos, registros del INDEC y datos de opinión pública registrados por el área de Fortalecimiento Institucional que funcionaba en el contexto estudiado bajo la Jefatura de Gabinete de la Nación. “Un libro nuevo de la Editorial Uader es siempre una alegría. Es la posibilidad de hacer un nuevo aporte a la comunidad y a la actividad académica. Más aún en este caso, con este trabajo de Julián, fundamental para la ciencia política”, destacó Filipuzzi. La obra de Maneiro, incluida en la Colección “Andamios”, propone una herramienta conceptual y metodológica destinada a sistematizar el análisis comparado del desempeño democrático local. Al situar el foco en el nivel de gobierno más próximo a la ciudadanía, el libro sostiene que el ámbito municipal constituye un espacio estratégico para el fortalecimiento institucional y la mejora de la calidad democrática. «¿Lo bueno viene en envase chico? Municipios y Calidad de la Democracia en Argentina», se presentará el jueves 24 de septiembre, a las 18, en el Auditorio “Amanda Mayor” del Rectorado de Uader (Avda. Ramírez 1143, Paraná).\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "transparencia",
+      "municipios",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-periodismo-para-sabotear-a-la-ia",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Periodismo para sabotear a la IA",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/periodismo-para-sabotear-a-la-ia/",
+    "texto_original": "Por Silvio Méndez (*)\n\nEl presidente de la Nación compartió en su perfil de la red social X una fotografía del pasillo de un paseo comercial “explotado” de gente comprando. Lo hizo para desmentir los índices que dan cuenta de la baja del consumo y del deterioro de los salarios. En la imagen hay gente que tiene tres pies; a una de esas personas se le observa uno de sus miembros notoriamente más grande y deformado que el resto. También hay una señora que lleva con sus dos manos un cochecito de bebé y, con un tercer brazo, carga a otra criatura. Una niña, a la que no se le ve la cara, espera a alguien que quedó fuera del encuadre; sí se observa que su mano tiene seis dedos. Hay otras personas con el rostro deformado y cartelería con leyendas dudosas. \nChequeado\n, el sitio especializado en comprobar información falsa, señaló que lo único real de toda la fotografía es el telón de fondo: efectivamente, parece ser el Shopping Soleil, en la localidad bonaerense de Boulogne. El resto es una manipulación realizada mediante mecanismos de inteligencia artificial (IA).\n\nEste es un caso en el que podemos decir que el embauque es notorio. Se ven los hilos a la marioneta, y qué le hace una mancha más al león. Pero sucede que cada vez es menor el margen para poder dar cuenta de este tipo de engaños.\n\nAhora se sabe que ese video que circuló viral por estos días en el que un rector reta a sus alumnos, megáfono en mano, por “\nfarmerar\n aura” en la escuela, no corresponde a un suceso acaecido en la Escuela Secundaria Teniente Luis C. Candelaria; es decir, no ocurrió en «La Base», de Paraná. Esto es falso y, se sospecha, las imágenes y audio también fueron alterados mediante el uso de IA. Quién lo hubiera imaginado.\n\nAmbos casos, por poner al azar estos dos ejemplos recientes, fueron contrastados y desmentidos mediante simples pasos de la práctica periodística: dudar, chequear, interrogarse, ir a las fuentes, hablar con sus protagonistas y volver a preguntar. Parece algo simple, pero, por inercia o pereza, esto no es algo usual en la rutina de los medios de comunicación. Directamente se hace \ncopy paste\n de información para alimentar sitios vacíos de producción propia. Que la precarización, que los bajos ingresos, que no hay pautas, que nadie lee, que la gente sólo ve \nreels\n, que las gacetillas se publican en las historias de las redes, que la mar en coche. Hay muchas justificaciones, pero muy poca razón: se hace \ncopy paste\n de información falsa que luego va a alimentar la rueda de las búsquedas de la IA e incluso a los bots que ya rellenan contenidos web informativos fantasmas y que repetirán la mentira en un bucle infinito.\n\nMentira verdad\n\nPor estos días, los desarrollos con IA tuvieron un nuevo avance en sembrar dudas sobre una verdad que se envejece entre la pachorra y el \nscrolleo\n mecánico. El conocido programador y divulgador de tecnología argentino Santiago Siri contó sobre su invención con IA a la que calificó como un “experimento”. Se trata de un noticiero de TV nacional —“Mi Primer Feca”— realizado íntegramente con sistemas y dispositivos de inteligencia artificial. Siri dice que su producto es periodismo porque, en definitiva, informa bajo las convenciones que se esperan del género. Y, sobre todo, porque él mismo cura el contenido. Lo que cambia, señala, es que se establece un proceso automatizado de búsqueda y selección de información para guionar, organizar el contenido y presentar la información con personajes que parecen reales.\n\nY hay una vuelta más. Actualmente, como hemos mencionado, sitios y páginas informativas ya se arman utilizando insumos provistos por sistemas de IA que van rapiñando datos en distintos lugares de la web. Lo que aquí se evidencia es un nuevo paso. Siri no solamente automatiza la producción, sino que incorpora un criterio editorial a “Mi Primer Feca” que será alimentado por un sondeo de noticias y también por la interacción con los usuarios, los comentarios y lo que el público o la comunidad sugiriera. Un noticiero con IA “a la carta”.\n\nPero querida audiencia, esto no es periodismo. Periodismo es otra cosa. Es un ir, ver y contar desde el punto de vista y las impresiones de quien lo narra. Y si el registro no cuenta con ese “aquí y ahora”, ese estar “presente”, si hay que contar algo, se descuenta que hay dudar, chequear, preguntar, indagar en las fuentes, testimonios, darle una vuelta a la historia, incluso utilizar a la IA en esta búsqueda por dar forma a una narrativa.\n\nPeriodismo es eso: una experiencia; la IA es mera técnica. La práctica de este oficio presupone algunos procedimientos que ni siquiera son mecánicos ni uniformes, pero que sí son indispensables para que puedan funcionar como anti veneno frente a todo lo falso y engañoso que pueden adquirir los modelos configurados bajo los patrones de las IA que estén funcionando de turno. El periodismo tampoco es todo lo rosa, ni todo lo obscuro que se pueda presuponer, porque nada de lo humano le es ajeno, pero vino para molestar, no para informar \non demand\n.\n\n \n\n(*) Periodista.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "comercio",
+      "elecciones",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-urribarri-baez-aguilera-fiscalia-acordo-computo-de-penas",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Urribarri-Báez-Aguilera: Fiscalía acordó cómputo de penas",
+    "fecha": "2026-09-09",
+    "link": "https://entreriosahora.com/urribarri-baez-aguilera-fiscalia-acordo-computo-de-penas/",
+    "texto_original": "Los fiscales Patricia Edith Yedro, Gonzalo Ariel Badano y Juan Francisco Ramírez Montrull contestaron el traslado que les hizo la presidenta del Tribunal de Juicios y Apelaciones de Paraná, María Carolina Castagno, respecto de la conformidad de los defensores del exgobernador Sergio Daniel Urribarri, el exministro de Comunicación Pedro Ángel Báez y el cuñado Juan Pablo Aguilera respecto del cómputo de las penas que deberán cumplir en prisión.\n\nLos representantes del Ministerio Público Fiscal le contestaron a Castagno que “no tenemos objeción que efectuar a la misma”. Con esa respuesta, se abre un proceso burocrático en el andamiaje de la Justicia entrerriana: lo que se aguarda es que se realice el traslado informático de la resolución del Tribunal, y con la sentencia más el certificado del cómputo de las penas, se crea el legajo de ejecución con un numero específico. Así, Urribarri, Báez y Aguilera pondrán formalmente designar a sus abogados ante el Juzgado de Ejecución de Penas, que encabeza la jueza Cecilia Bértora, para esta nueva etapa del proceso.\n\nLo relevante de estos pasos es que se habilitaría la intervención del Juzgado de Ejecución de Penas para dar respuesta a la petición de los defensores y del Servicio Penitenciario de Entre Ríos para trasladar a los tres de su alojamiento actual, en la Unidad Penal de Paraná, a la Unidad Penal N° 9, de Gualeguaychú.\n\nLuego de las las presentaciones formuladas por los defensores -Leopoldo Cappaz, por Urribarri; Ignacio Díaz y José Velázquez, por Báez; y Marcos Rodríguez Allende, por Aguilera-, en las que “se allanan a los cómputos confeccionados en autos, dando cuenta que no tienen objeciones ni observaciones que realizar, renunciando a los plazos de impugnación, al encontrarse aún vigente el término oportunamente dispuesto en fecha 05.09.2026, córrase vista al Ministerio Público Fiscal, a sus efectos”, dispuso Castagno.\n\nMegajuicio: defensores no objetaron la pena, pero corrieron vista a Fiscalía\n\n \n\nUrribarri ya estuvo tras las rejas. Fue detenido el 19 de noviembre de 2024 por resolución de la Cámara de Casación Penal de Paraná a partir de una petición del Ministerio Público Fiscal y recuperó la libertad el 8 de enero de 2025 luego de que la Sala Penal del Superior Tribunal de Justicia (STJ) en feria hiciera lugar a una impugnación extraordinaria. Permaneció 51 días privado de la libertad. Vuelto tras las rejas, el exgobernador estará en la cárcel hasta el 15 de julio de 2034, cuando cumpla la condena a 8 años que recibió en el Megajuicio.\n\nEn el caso de Báez, fue detenido el 22 de noviembre de 2024 y salió para cumplir arresto domiciliario en su vivienda de calle Jozami, en la zona de la Toma Vieja, medida que cumplió hasta este viernes, cuando la Justicia ordenó su alojamiento en la Unidad Penal N° 1. Cumplirá la condena que se le impuso, 6 años y 6 meses de prisión, el 22 de mayo de 2031.\n\nNi Urribarri ni Báez impugnaron cómputo de penas\n\n \n\nEl cuñado de Urribarri, Aguilera, condenado a 6 años y 6 meses de cárcel, fue detenido el 19 de noviembre de 2024 y alojado en la Unidad Penal N° 1, donde permaneció 51 días hasta que fue liberado el 8 de enero de 2025. Detenido nuevamente el 4 del actual y alojado en la cárcel de Paraná, permanecerá tras las rejas hasta el 12 de enero de 2033.\n\nEl Servicio Penitenciario de Entre Ríos pidió a Castagno que resuelva el traslado de Urribarri, Báez y Aguilera de la Unidad Penal N° 1, con sobrepoblación, a la Unidad Penal N° 9, de Gualeguaychú, pero esa decisión sólo puede adoptarla la jueza de Ejecución de Penas y Medidas de Seguridad, Cecilia Bértora quien de momento no puede acctuar.\n\n \n\n \n\n \n\nDe la Redación de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "servicios_publicos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-a-50-anos-de-la-noche-de-los-lapices-denuncian-un-operativo-policial-contra-estudiantes",
+    "fuente": "Diario Junio",
+    "titulo": "A 50 años de la Noche de los Lápices, denuncian un operativo policial contra estudiantes",
+    "fecha": "2026-09-09",
+    "link": "https://www.diariojunio.com.ar/a-50-anos-de-la-noche-de-los-lapices-denuncian-un-operativo-policial-contra-estudiantes/",
+    "texto_original": "Ayer, en un hecho que recuerda a los períodos más oscuros de la historia argentina reciente, un grupo de efectivos policiales intentó demorar a seis jóvenes estudiantes universitarios del MST (Movimiento Socialista de los Trabajadores) que realizaban pintadas por las calles de Paraná en conmemoración de los 50 años de la “Noche de los Lápices” por el supuesto delito de daños. José Iparaguirre, abogado penalista y referente de derechos humanos radicado en esa ciudad, explicó esta mañana a DIARIOJUNIO que tuvieron que intervenir para evitar que eso sucediese, dada la actitud de los funcionarios policiales y de una fiscal que, en un primer momento, ordenó que sean trasladados a la sección de Antecedentes. “Esperemos que haya sido una desafortunada noche de los funcionarios policiales y de una fiscal que no pudo actuar con criterio”, mencionó Iparaguirre a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-pami-el-masvernat-garantiza-la-atencion-y-se-apoyara-en-el-heras-para-casos-de-baja-complejidad",
+    "fuente": "Diario Junio",
+    "titulo": "PAMI: el Masvernat garantiza la atención y se apoyará en el Heras para casos de baja complejidad",
+    "fecha": "2026-09-09",
+    "link": "https://www.diariojunio.com.ar/pami-el-masvernat-garantiza-la-atencion-y-se-apoyara-en-el-heras-para-casos-de-baja-complejidad/",
+    "texto_original": "Tras la rescisión del convenio entre el Sanatorio Concordia y el PAMI, el ministro de Salud, Daniel Blanzaco, explicó esta mañana que es un tema que los preocupa. Por eso, están trabajando en conjunto con la directora de la UGL local, Karina Bernardi, y con los responsables de los hospitales públicos de la ciudad. Para ello, se reformularon las atenciones por guardia en ambos efectores y las derivadas por urgencias que requieran internaciones de clínica o quirúrgicas. Además, hoy se iba a realizar una reunión por las cirugías y los tratamientos programados, según pudo registrar DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-se-viene-el-festival-guitarras-del-mundo-con-dos-sedes-en-entre-rios",
+    "fuente": "Diario Junio",
+    "titulo": "Se viene el festival Guitarras del Mundo, con dos sedes en Entre Ríos",
+    "fecha": "2026-09-09",
+    "link": "https://www.diariojunio.com.ar/se-viene-el-festival-guitarras-del-mundo-con-dos-sedes-en-entre-rios/",
+    "texto_original": "La 32° edición del Festival Guitarras del Mundo suma este año una nueva sede en Entre Ríos. Además de la tradicional presentación en el Salón Auditorio “Juan Domingo Perón” de la sede de UPCN en Paraná, el festival itinerante llegará por primera vez a la ciudad de Victoria. Organizado por el Consejo Directivo Nacional del Sindicato, el encuentro se realiza cada año en distintos puntos del país. Guitarras del Mundo es promovido y organizado por UPCN Nación con el objetivo de acercar a los trabajadores y sus familias propuestas culturales de calidad, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-la-escuela-alvarez-condarco-de-chajari-sera-intervenida-para-fortalecer-su-infraestructura-educativa",
+    "fuente": "El Heraldo",
+    "titulo": "La escuela Álvarez Condarco de Chajarí será intervenida para fortalecer su infraestructura educativa",
+    "fecha": "2026-09-09",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/la-escuela-alvarez-condarco-de-chajari-sera-intervenida-para-fortalecer-su-infraestructura-educativa",
+    "texto_original": "El Ministerio de Planeamiento e Infraestructura avanza con la Licitación Pública N° 10/26 para ejecutar trabajos de impermeabilización de cubiertas, reparación de mamposterías y pintura en la escuela N° 2 Álvarez Condarco de Chajarí, departamento Federación. La intervención alcanzará una superficie de 1.630 metros cuadrados y beneficiará a una matrícula de 550 estudiantes.El establecimiento se encuentra ubicado sobre calle Sarmiento y comprende una construcción de 1911, resultando un edificio centenario que forma parte del patrimonio histórico de la localidad.Además de la escuela N° 2, en sus instalaciones funcionan la escuela Nocturna y la ESJA N° 43 Ciudad de San Juan. Por su valor patrimonial, el proyecto se orienta a recuperar y mejorar sus condiciones edilicias sin alterar las características arquitectónicas originales.El ministro Planeamiento e Infraestructura, Hernán Jacob, destacó que la intervención responde a un relevamiento realizado por el equipo zonal de arquitectura de Federación y subrayó la importancia de dar respuesta ante necesidades de los establecimientos educativos preservando, al mismo tiempo, su valor histórico. \"Cada obra que se lleva adelante busca hacer posibles espacios educativos seguros y adecuados para la formación de los entrerrianos\". Además agregó que \"el proyecto fue elaborado con especial enfoque para preservar su arquitectura ya que en este caso, también se recuperará un edificio de gran valor para la ciudad de Chajarí\".La apertura de sobres de la Licitación Pública N° 10/26 está prevista para el miércoles 30 de septiembre de 2026, a las 10, en el Salón de los Escudos de Casa de Gobierno, ubicado en calle Gregorio Fernández de la Puente N° 220 de Paraná. La obra tendrá un plazo de ejecución de 150 días corridos y una inversión oficial de 454 millones de pesos, financiada íntegramente con recursos provinciales.En cuanto al proyecto, se prevén trabajos que permitirán resolver problemas de humedad y deterioro que afectan actualmente al inmueble.\n\nSe realizará la impermeabilización de cubiertas, reparación de cargas fisuradas, reconstrucción de cielorrasos deteriorados, restauración y pintura de las carpinterías de madera. También se ejecutarán nuevas líneas de desagüe pluvial en el patio y se prevén tareas de pintura tanto en el interior como exterior del edificio.\n\nPresentación de ofertas Las consultas técnicas podrán realizarse en la Dirección General de Arquitectura y Construcciones, con dirección en Gregorio Fernández de la Puente 220, 2º piso, de la ciudad de Paraná, de 7 a 13, o mediante correo electrónico a minplan@entrerios.gov.ar, con copia a direcciongeneralarq@gmail.com. La venta de pliegos estará disponible hasta el 14 de septiembre de 2026 y las consultas técnicas se podrán realizar hasta el 17 de septiembre de 2026. Además, la información completa del llamado, está disponible en la página web del ministerio. https://www.entrerios.gov.ar/minplan/licitaciones/lpn_dgayc_2026-10",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "empleo",
+      "infraestructura_obra_publica",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná",
+      "federación",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-jornada-por-el-dia-mundial-para-la-prevencion-del-suicidio-en-concordia",
+    "fuente": "El Heraldo",
+    "titulo": "Jornada por el Día Mundial para la Prevención del Suicidio en Concordia",
+    "fecha": "2026-09-09",
+    "link": "https://www.elheraldo.com.ar/noticias/salud/jornada-por-el-dia-mundial-para-la-prevencion-del-suicidio-en-concordia",
+    "texto_original": ". La misma tendrá lugar este jueves 10 de septiembre  en la plaza 25 de mayo desde las 15 horas y está organizado por “Lazos en red” la red de vecinos voluntarios para la prevención del suicidio de la ciudad en conjunto con una serie de instituciones educativas, de la salud y sociales de Concordia, que tendrán una participación activa a través de expresiones creativas y artísticas que ayuden a pensar y analizar el complejo campo de la salud mental. Entre otras instituciones participarán la Facultad de Enfermería FHAyCS UADER, Las escuelas José Gervasio Artigas de la Bianca, el ISEEF Concordia, la escuela Jorge Luis Borges, la escuela de la UNER, el Centro B arrial “Gruta de Lourdes”, la escuela “Juana Azurduy”, la Esja 38 que funciona en la escuela Salta, la Esja 42, el Colegio nacional “Alejandro Carbó” y  la Esja 22 “Osvaldo Magnasco” y se reitera el carácter abierto y participativo para todos aquellos grupos e instituciones de nuestra ciudad que deseen hacerlo en la jornada.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-enfoque-gn-b58032f9e8e2",
+    "fuente": "Diario El Enfoque",
+    "titulo": "El STJ abrió una convocatoria para cubrir interinamente el Juzgado de Ejecución de Penas de Concordia",
+    "fecha": "2026-09-08",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFd0YjFvdE1CS3hMMDZvZ3BFNC1NVjRRejlQSnhRcHpzblBvZVVRMWpVRU5Vd1JYbzhWdkF0QnZiX2Q1RlJzT0RZUnY2UTNaQmdpdVoxVFZjYWFmdVJCQnRqTHg5ZGJGWmdqSEVBUHVlZlNvMmhTLXZaSjhkd3VDWnpLcER1bUlGeXFJdlZFQjR4N3h0QVJTUklCQnE5VGtrdHcxU09mMTZJSERPMWIwUm9Bb0l6anVmejhON20wZ2luUjJF?oc=5",
+    "texto_original": "El STJ abrió una convocatoria para cubrir interinamente el Juzgado de Ejecución de Penas de Concordia\n  \nDiario El Enfoque",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:17:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-investigan-la-muerte-de-un-perro-en-santa-anita-y-secuestran-un-arma-durante-un-allanamiento",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Investigan la muerte de un perro en Santa Anita y secuestran un arma durante un allanamiento",
+    "fecha": "2026-09-09",
+    "link": "https://blancaciudadnoticias.com.ar/investigan-la-muerte-de-un-perro-en-santa-anita-y-secuestran-un-arma-durante-un-allanamiento/",
+    "texto_original": "SANTA ANITA – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir.\n\nUna nueva investigación por un presunto caso de \nmaltrato y crueldad animal\n vuelve a poner a la localidad de Santa Anita, departamento Uruguay, en el centro de la atención.\n\nLa Policía realizó este martes un \nallanamiento en una vivienda de calle 1º de Mayo al 100\n, a partir de la denuncia de una vecina por la muerte de su perro, un caniche que fue encontrado sin vida en la vía pública, en inmediaciones del domicilio de un hombre que quedó vinculado a la investigación.\n\nEl procedimiento se llevó adelante alrededor de las \n12:40\n, mediante una orden del \nJuzgado de Garantías Nº 1\n, en una causa tramitada ante la Fiscalía Auxiliar a cargo de \nLucía Bourlot\n.\n\nDurante el operativo, los efectivos \nsecuestraron un revólver calibre .22 largo y cartuchería\n, además de otros elementos considerados de interés para la investigación.\n\nUna denuncia que terminó en un allanamiento\n\nSegún consta en la investigación, una mujer de 53 años se presentó en la dependencia policial para denunciar la muerte de su mascota.\n\nLa denunciante habría manifestado además que anteriormente existieron \ndesavenencias relacionadas con las mascotas\n y que habría recibido amenazas vinculadas con la vida del animal.\n\nA partir de la denuncia, los investigadores comenzaron a reunir elementos y analizaron, entre otras evidencias, \nregistros de cámaras de seguridad de la zona\n.\n\nEse trabajo permitió avanzar con la investigación y posteriormente solicitar la orden de allanamiento.\n\nEl hombre fue identificado y quedó supeditado a la causa\n\nDurante el procedimiento fue notificado un hombre de \n62 años\n, quien posteriormente fue trasladado a la Comisaría de Basavilbaso para realizar su correcta identificación.\n\nPor disposición judicial, luego \nrecuperó la libertad\n, aunque quedó supeditado al avance de la investigación.\n\nHasta el momento, la Justicia busca determinar qué ocurrió con el animal y si existen responsabilidades penales relacionadas con su muerte.\n\nSanta Anita y un antecedente que todavía permanece en la memoria\n\nEl nuevo caso genera especial preocupación porque Santa Anita ya había sido escenario de un episodio de \ncrueldad animal que tuvo consecuencias judiciales\n.\n\nEn junio pasado, un hombre identificado con las iniciales \nH.J.O.\n fue condenado a \nocho meses de prisión de ejecución condicional\n, tras un juicio abreviado realizado en los tribunales de Concepción del Uruguay, por infringir la \nLey Nacional 14.346\n, que protege a los animales contra el maltrato y la crueldad.\n\nAdemás de la condena, se establecieron distintas reglas de conducta, entre ellas la prohibición de tener animales bajo su guarda o convivencia y la continuidad de un tratamiento psicológico y psiquiátrico.\n\nAquel expediente había adquirido especial relevancia porque se trató de un caso en el que la Justicia entrerriana dispuso, por primera vez, la \nprisión preventiva de una persona investigada por un hecho de maltrato y crueldad animal\n.\n\nAhora, poco tiempo después de aquella resolución, Santa Anita vuelve a estar vinculada a una investigación por la muerte de un perro.\n\nEsta vez, un allanamiento permitió secuestrar \nun arma de fuego y municiones\n, elementos que quedaron incorporados a la causa mientras la Justicia intenta reconstruir qué sucedió.\n\nUna mascota muerta, una denuncia y muchas preguntas\n\nLa investigación recién comienza y será la Justicia la encargada de determinar si existió un delito y quiénes podrían resultar responsables.\n\nMientras tanto, el caso vuelve a poner sobre la mesa una problemática que genera cada vez mayor preocupación en las comunidades: \nel maltrato y la violencia contra los animales y la necesidad de que estos hechos sean investigados y esclarecidos.\n\nBCN NOTICIAS\n\nLa información que muchos se olvidan de decir.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:00Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-cayo-el-patentamiento-de-autos-pero-crecio-la-venta-de-motos-0-km-en-entre-rios-en-agosto",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Cayó el patentamiento de autos, pero creció la venta de motos 0 Km en Entre Ríos en agosto",
+    "fecha": "2026-09-09",
+    "link": "https://eldiadegualeguay.com/cayo-el-patentamiento-de-autos-pero-crecio-la-venta-de-motos-0-km-en-entre-rios-en-agosto/",
+    "texto_original": "La Asociación de Concesionarios de Automotores de la República Argentina (Acara) informó que durante agosto de 2026 se patentaron 915 vehículos cero kilómetro en Entre Ríos.\n\nEl volumen representó una caída del 32,0% interanual, ya que el mismo mes del año pasado se habían registrado 1.345 unidades. Con este registro, la provincia explicó el 2,1% del total de las operaciones formalizadas en el país.\n\nEn la comparación mensual frente a julio de 2026, las inscripciones de automotores en el territorio entrerriano mostraron una reducción del 9,4%. En el séptimo mes del año se habían alcanzado 1.010 unidades patentadas en la provincia, lo que significó una diferencia de 95 vehículos menos entre ambos períodos.\n\nPor su parte, en los primeros ocho meses de 2026 el acumulado de patentamientos en Entre Ríos sumó 9.191 unidades. La cifra constituyó una contracción del 17,3% respecto del mismo lapso de 2025, período en el cual se habían contabilizado 11.114 inscripciones, publicó Dos Florines con datos de Acara.\n\nCreció la venta de motos\n\nPor otro lado, la venta de motos cero kilómetro en Entre Ríos mantuvo la tendencia positiva durante agosto en la comparación interanual, lo que consolida un mercado que sigue exhibiendo signos de fortaleza. De acuerdo a los datos de Acara a los que accedió el sitio Dos Florines, durante el octavo mes de 2026 se patentaron 2.187 unidades en la jurisdicción provincial, lo que representa un incremento del 14,5% respecto a los 1.910 motovehículos registrados en el mismo mes de 2025.\n\nPese a este sólido crecimiento interanual, el desempeño comercial en el corto plazo presentó una contracción si se lo contrasta con el mes inmediatamente anterior. Las estadísticas oficiales de Acara detallan que en la comparación mensual contra julio de este mismo año, cuando se habían comercializado 2.284 unidades en el territorio entrerriano, las ventas de agosto anotaron una caída del 4,2%.\n\nSin embargo, al observar el panorama general del año, el balance para los concesionarios locales sigue siendo altamente positivo. En el acumulado de enero a agosto de 2026, la provincia alcanzó un total de 18.425 patentamientos de motos nuevas. Este volumen se traduce en una contundente suba del 52,8% en comparación con el mismo período de 2025, lapso en el cual se habían registrado 12.056 operaciones, demostrando la firmeza de la demanda a lo largo del ejercicio en curso.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-la-azotea-de-lapalma-suma-mobiliario-de-epoca-a-su-patrimonio",
+    "fuente": "El Día Online",
+    "titulo": "La Azotea de Lapalma suma mobiliario de época a su patrimonio",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/la-azotea-de-lapalma-suma-mobiliario-de-epoca-a-su-patrimonio",
+    "texto_original": "La Casa Museo Azotea de Lapalma recibe la donación de un ropero de tres puertas con espejos y una cómoda con cajones y espejo integrado, ambos de madera natural y estilo Luis XV. El aporte es realizado por María Victoria Díaz, oriunda de la ciudad de Colón.\n\nLas piezas se incorporan al patrimonio del museo y suman nuevos elementos a la colección, contribuyendo a la conservación y difusión de objetos que permiten acercarse a distintos aspectos de la historia y de la vida cotidiana de otras épocas.\n\nA través de la Dirección de Cultura, el Gobierno de Gualeguaychú sostiene el trabajo de preservación y puesta en valor de la Azotea de Lapalma y de los bienes que integran su acervo.\n\nLa incorporación de mobiliario mediante donaciones particulares permite ampliar la colección y fortalecer el patrimonio cultural que se conserva en el espacio para el disfrute de vecinos y visitantes.\n\nDesde la Casa Museo agradecen el aporte de María Victoria Díaz, cuyas piezas ya forman parte de la colección de la Azotea de Lapalma.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "colón",
+      "gualeguay",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-la-oposicion-logro-darle-impulso-a-los-proyectos-de-morosidad-y-discapacidad",
+    "fuente": "El Día Online",
+    "titulo": "La oposición logró darle impulso a los proyectos de morosidad y discapacidad",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/la-oposicion-logro-darle-impulso-a-los-proyectos-de-morosidad-y-discapacidad",
+    "texto_original": "El bloque de La Libertad Avanza apeló a una estrategia de contención y definió ingresar al recinto a la espera de que la oposición consiguiera quórum en la sesión en la que se trató el emplazamiento a las comisiones con el fin de tratar los proyectos de morosidad y la prórroga de la emergencia en discapacidad. La intención fue simple: negar la foto de un recinto con la mitad de las bancas vacías.\n\nAsí, en una imagen inusual, minutos antes de las 12 de mediodía -hora establecida para el inicio de la sesión- los legisladores libertarios y sus pares del peronismo y Provincias Unidas ingresaron al recinto. El bloque de la LLA, que había hecho trascender que iba a dar quórum, se quedó parado al lado de sus bancas y cuando el presidente de la Cámara, Martín Menem, anunció que había 135 diputados presentes, tomaron asiento y marcaron su presencia.\n\nSólo dos bloques se mostraron ausentes: el PRO y la UCR, quienes señalaron que no iban a avalar “una sesión pedida por el kirchnerismo”. Además, en estos sectores que actuaron siempre en consonancia con LLA, había enojo por el cambio de posición del oficialismo: “acordaron con el kirchnerismo”, se escuchó decir a una diputada.\n\nEn la reunión previa a la sesión, en Labor Parlamentaria, las partes llegaron a un acuerdo respecto de los tiempos. En este aspecto, se estableció que en el caso de Discapacidad el emplazamiento establecía un Plenario de las comisiones de Discapacidad y Presupuesto con fechas miércoles 16/9 de carácter informativa y miércoles 23/9 dictamen.\n\nEn el caso del debate por morosidad, el cronograma establece un Plenario de Finanzas y Defensa al Consumidor martes 15 y 22 de carácter informativa y martes 29 de septiembre dictamen.\n\nEn este esquema la oposición se sumó otra victoria y es que el oficialismo aceptó que la comisión de Presupuesto no participe de este debate.\n\nEn el comienzo de la sesión la oposición en voz del diputado Juan Marino pidió que se vote la habilitación del tratamiento del proyecto de ley de prórroga discapacidad que no cuenta con dictamen. En esta votación, LLA y sus socios no apoyaron pero, a la hora de votar el emplazamiento que pidió el mismo diputado de Unión por la Patria, hubo unanimidad: 249 votos a favor, 0 en contra.\n\nEn este momento se volvió a ver la estrategia libertaria. Tanto desde las bancas de los sectores de la oposición que impulsaron la sesión como del oficialismo, se aplaudió en modo triunfo. “Si todos son ganadores se licúa.”\n\n“Ellos -por LLA- van a querer mostrarse como permeables al debate, pero lo cierto es que perdían y nosotros pasamos de 133 diputados a 249”, dijo uno de los diputados de la oposición que impulsó la sesión.\n\nEl mismo esquema de votación fue para el tratamiento de la treintena de proyectos de morosidad pero la novedad fue que en este caso hubo un voto en contra: el santacruceño José Luis Garrido.\n\n“El Congreso hoy está a la altura de las circunstancias.Aprobamos el emplazamiento de las comisiones de Finanzas y Defensa de los Consumidores para que dictaminen el 29 de septiembre. Hay 50 proyectos de ley y de ellos deben salir las soluciones para millones de argentinos que están megaendeudados para pagar gastos corrientes.Esta votación coloca al Congreso a la altura de un tema trascendental. Hace dos semanas, en este recinto, 133 diputados planteamos la urgencia porque la problemática de la morosidad de las familias es transversal. Cuando se corren las banderías partidarias y salimos de la camorra de la política, podemos abordar entre todos los problemas que están en la mesa de los argentinos”, dijo el radical de Unidos Pablo Juliano, uno de los impulsores de la sesión junto a Germán Martínez de Unión por la Patria.\n\nMientras la oposición se iba conforme, el oficialismo buscó opacar el triunfo del resto de los bloques. Primero, el jefe del bloque de LLA, Gabriel Bornoroni, se encargó de señalar que el cronograma que se votó es el mismo que ya existía.\n\nDesde la oposición sonreían. “La diferencia entre un plan de trabajo y un emplazamiento es que el primero se puede modificar y el segundo no. ¿Y por qué le vamos a creer si estamos discutiendo un tema que el Presidente nieva -morosidad- y otro que vetó -discapacidad?“.\n\nDonde el oficialismo dice haberse anotado un pororto es que en los temas de morosidad no participe la comisión de Presupuesto. “Se evitó el giro de temas de morosidad a la comisión de presupuesto. Es decir, ningún dictamen puede tener presupuesto ni incurrir en gastos”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "empleo",
+      "legislatura",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-iniciaron-las-capacitaciones-para-el-simulacro-de-evacuacion-del-palacio-municipal",
+    "fuente": "El Día Online",
+    "titulo": "Iniciaron las capacitaciones para el simulacro de evacuación del Palacio Municipal",
+    "fecha": "2026-09-09",
+    "link": "https://www.eldiaonline.com/iniciaron-las-capacitaciones-para-el-simulacro-de-evacuacion-del-palacio-municipal",
+    "texto_original": "En el Palacio Municipal comenzaron esta semana las capacitaciones destinadas al personal de las distintas dependencias, como instancia previa a la realización de un simulacro de evacuación. La actividad forma parte del trabajo que desarrolla el Gobierno de Gualeguaychú para establecer procedimientos de actuación ante situaciones de emergencia.\n\nEl proceso es coordinado por el Área de Seguridad e Higiene Laboral, dependiente de la Subsecretaría de Protección Civil e Inspección General, y contempla tanto la adecuación de las condiciones de seguridad del edificio como la preparación del personal para actuar ante una eventual evacuación.\n\nLa primera jornada se realizó con personal del Honorable Concejo Deliberante, mientras que este miércoles la capacitación continuó con trabajadores de Planeamiento, Obras Privadas, Catastro e Informática.\n\nLos encuentros están a cargo de la responsable del Área de Seguridad e Higiene Laboral, Ana Colazzo, junto a Milagros Romero y Diana Visconti, y cuentan con la participación de María de los Ángeles Gómez, por parte de la Dirección de Defensa Civil.\n\nDurante las capacitaciones se brindan pautas sobre los procedimientos que deben seguirse ante una eventual emergencia, con información relacionada con las vías y salidas de evacuación, la señalización y la organización del personal dentro del edificio.\n\nEsta etapa se integra a un trabajo iniciado hace aproximadamente un año por el Área de Seguridad e Higiene Laboral, que incluyó relevamientos en las distintas oficinas y sectores del Palacio Municipal para analizar las condiciones de circulación, las vías de evacuación y las salidas disponibles.\n\nA partir de esos relevamientos se avanzó en diferentes adecuaciones. Hasta el momento se colocaron aproximadamente 115 elementos de señalización, ocho luces de emergencia, un plano general del Palacio Municipal y nueve planos de evacuación. También se incorporaron nueve botiquines y se realizaron intervenciones vinculadas con la ubicación y adecuación de los extintores.\n\nCon las condiciones físicas y la señalización dispuestas, la etapa actual está orientada a que quienes trabajan diariamente en el edificio conozcan los procedimientos establecidos y sepan cómo actuar durante una evacuación.\n\nLas capacitaciones continuarán por oficinas y dependencias, con días y horarios coordinados con cada área. Una vez finalizada esta instancia se realizará el simulacro de evacuación del Palacio Municipal, que permitirá evaluar los procedimientos establecidos y detectar los ajustes que resulten necesarios.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "agro",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-la-piramide-gn-2539e64654b1",
+    "fuente": "La Pirámide",
+    "titulo": "Ricardo Garzia advirtió por el impacto del fenómeno de El Niño en el campo entrerriano",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjZOSlRtekpHTU5ZRzd5WkQyT0Vwbkt5Wno0bjF2am4wVXV0Q3Nram9KM2YtSzlwdjFvd0t4NC1RcHdMT3EwUUZEaEhUWDNpTXozQ3pOemZkRmc0VUtUQV9reUpQYVdEYXN5Ul9MMW1IZVRfeWtWM0xkTHlCNVFyRDItSnNSV1V4b3RFZGdBMGpKbVBWaFoySjhUWnJDUzRUZS04X0dZb2VqVWdGQlh5QzBOcy0xTjNaVWh6SGwzb2dqeVp0MXc4ZHJ4SlJDNTMyd0I5S2NSNNIB3AFBVV95cUxOUEswdnE3Z2drYVExdEFiUk1ZZ2lCT0RWZGhSVGtUbFJGVVhwRUtrTVJjWDhqcjZ4cFUxMnZ3Z2ZNMjhfWU13bU95LUgybDREWHpjUm80S0l0clAzTGhERTUxYTlBYUdPWHhqdGNldzY2Rkc1QlFrUTM1SzNUUUdWWjQ5RHpjOXVqQ0hYd3FNczRReGFoVFhYaWNLcGk0d0lBT1p0VS03bFkwZmo0aGpybHZSVWdiMmVKb1ZVYmFHUG1FUm9UY0RkWXZlWld2TWxWNGgtYkhLc09hV09S?oc=5",
+    "texto_original": "Ricardo Garzia advirtió por el impacto del fenómeno de El Niño en el campo entrerriano\n  \nLa Pirámide",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-santa-elena-digital-?utm_source=rss&utm_medium=rss&utm_campaign=santa-elena-sera-sede-del-1-congreso-de-la-chamarrita-un-encuentro-para-preservar-investigar-y-difundir-el-folklore-entrerriano",
+    "fuente": "Santa Elena Digital",
+    "titulo": "Santa Elena será sede del 1° Congreso de la Chamarrita: un encuentro para preservar, investigar y difundir el folklore entrerriano",
+    "fecha": "2026-09-09",
+    "link": "https://santaelenadigital.com.ar/santa-elena-sera-sede-del-1-congreso-de-la-chamarrita-un-encuentro-para-preservar-investigar-y-difundir-el-folklore-entrerriano/?utm_source=rss&utm_medium=rss&utm_campaign=santa-elena-sera-sede-del-1-congreso-de-la-chamarrita-un-encuentro-para-preservar-investigar-y-difundir-el-folklore-entrerriano",
+    "texto_original": "La ciudad de Santa Elena se prepara para recibir el \n1.° Congreso de la Chamarrita\n, un evento cultural diseñado bajo las premisas de \npreservar, investigar y difundir\n la identidad y las raíces folklóricas de la provincia de Entre Ríos. La cita tendrá lugar los días \n16 y 17 de octubre de 2026\n y reunirá a destacados referentes, docentes y músicos de todo el territorio provincial.\n\nApertura de las jornadas\n\nEl evento dará inicio el \nviernes 16 de octubre a las 19:00 hs\n en la \nPlaza Centenario\n, donde la profesora Liliana Pierotti presentará la disertación inaugural bajo el lema \n«La Chamarrita nos convoca»\n.\n\nLas actividades continuarán el \nsábado 17 de octubre desde las 09:00 hs\n en las instalaciones de la \nEscuela N.° 14 Maipú\n (ubicada en Corrientes, entre Eva Perón y Supremo Entrerriano), espacio que albergará disertaciones teóricas y talleres prácticos orientados a músicos, bailarines, educadores y público general.\n\nEjes temáticos y cronograma del sábado 17\n\nLa jornada de ponencias estará articulada en tres ejes centrales:\n\nLa Historia de la Chamarrita\n\nOrigen y Regionalización:\n Prof. Miguel González (Diamante).\n\nSalvaguarda del Ritmo:\n Lic. Paola Palleiro (Paraná).\n\nProyección y nuevas vertientes:\n Guille Lugrín, gestor cultural (Concepción del Uruguay).\n\nInstancia práctica / Taller:\n Coordinado por Gustavo Surt (músico, periodista y locutor de Chajarí).\n\nLa Composición\n\nEstructura musical, estilos y formas:\n Hugo Spiazzi, músico (Urdinarrain).\n\nTemática en la creación de versos y estrofas:\n Prof. Sergio Abdala (Nogoyá / Paraná).\n\nChamarrita estilo tradicional y estilo libre:\n Prof. Fabián Casals (Santa Elena).\n\nInstancia práctica / Taller:\n Coordinado por el Prof. Gastón González (Diamante).\n\nLa Danza\n\nPanorama de la Chamarrita en el aspecto coreográfico\n:\n Prof. Andrés «Chicho» Vega (Santa Elena / Paraná).\n\nLa Chamarrita y su danza en el ámbito educativo\n:\n Prof. Gimena Russian (Paraná) y Prof. Liliana Pierotti (Santa Elena).\n\nInstancia práctica / Talleres:\n\n«La Chamarrita y su corporeidad»\n\n a cargo de la Lic. Soledad Ramírez (La Paz / Paraná) y la Prof. Lucero Casals (Santa Elena).\n\n«Formas y coreografías tradicionales de la Chamarrita entrerriana»\n\n a cargo del Prof. Andrés Vega y la Prof. Gimena Russian.\n\nLa coordinación general y moderación del congreso estará a cargo de la psicopedagoga María Daniela Cabrera (Santa Elena) y la técnica en Gestión Cultural Diana Soto (La Paz). El encuentro cuenta con el respaldo de la Municipalidad de Santa Elena, la Secretaría de Cultura local y el Gobierno de Entre Ríos.\n\nContacto e inscripciones\n\nPara obtener mayor información sobre la participación en los talleres y la inscripción a las jornadas, la organización ha dispuesto los siguientes canales directos de contacto:\n\nWhatsApp / Teléfono:\n 3437-406867\n\nCorreo electrónico:\n \n\ncongresodelachamarrita@gmail.com\n\nFacebook:\n \n\nCongreso de la Chamarrita\n\nInstagram:\n \n\n@congresodelachamarrita\n\n \n\nSANTA ELENA DIGITAL-.\n\nThe post \nSanta Elena será sede del 1° Congreso de la Chamarrita: un encuentro para preservar, investigar y difundir el folklore entrerriano\n appeared first on \nSANTA ELENA DIGITAL\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-09T18:18:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concepción del uruguay",
+      "diamante",
+      "chajarí",
+      "la paz",
+      "nogoyá",
+      "santa elena"
+    ]
   }
 ]
