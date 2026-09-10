@@ -14051,11 +14051,11 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1liTENtLXI0WktvOFN0d2NPT0N6X2tuOFY2elZNT0YyOU5YRWc1OUl3Y0txbU9YZWlHZG1DU3V6S2Q4V0xoZV9tV3A4M0dEc1NKcWxSNWxaMUk3TmRtWDc1eVF0TVJOM18zR0tIQTZJSk42SmN6XzJ2T00wSVZCV3hUc1EtRi0wSjdGU1NGU28tMEk3Sk9LUGxpaW0xSUc4bktUb3pFcw?oc=5",
     "texto_original": "Reflexiones sobre el suicidio, uno de los problemas más graves de Entre Ríos\n  \nMunicipalidad de Paraná",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T05:39:56Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "No.",
     "topicos_matcheados": [
       "municipios"
     ],
