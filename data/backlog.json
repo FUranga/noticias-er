@@ -28810,5 +28810,641 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-6f8b07a31f1a",
+    "fuente": "Municipalidad de Paraná",
+    "titulo": "La Municipalidad y el Colegio de Psicólogos de Entre Ríos generan conciencia sobre la prevención del suicidio",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclJYX3Y3MzBtQ3JrMnRzamtBeUJnRkRHUXExLUhnOExiUTZBUUg4UWoxTWVtTjBVWFVnOHBtSGxFY2lKUGdENU5xN01XSlcxLUZlRGVoVTBva01LQ1NGcTVKeThRYXU2Und4NGNGLWZDc2ZvUktHTnRQOTJwVTNoakotRkUxQUlLcFZ0b2txRVgyNmVoa0xKQXlvOFh5TjN5WHQzeGhJdFhsb1Q4d3pnVDlkZ0xWWEtmdFpWM1U1cXVpTTdfR3lSa2pXbDNWa245WFROX0NrQ3p0U3Nj?oc=5",
+    "texto_original": "La Municipalidad y el Colegio de Psicólogos de Entre Ríos generan conciencia sobre la prevención del suicidio\n  \nMunicipalidad de Paraná",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-fcf5212f34ba",
+    "fuente": "senado entre ríos",
+    "titulo": "La vicegobernadora recibió a representantes del CUCAIER",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlF1RnlQZVZXMDJZSExzUGFkT1AwdHZOMHo5VFhucEFxWi0xblprZkRUUFl6ZTAyOGI1NmNaU1dFRTBsdC16M2V3LUlvYm91aGJ1Z252LUs3aWNrRWlmMGd0amk3dlJjWjZJUExCRG85VGE1dDlkTVhLeFpfR28wZ3hZMlZsNVU4UnBUYWs3VEhnVW5JVDZV?oc=5",
+    "texto_original": "La vicegobernadora recibió a representantes del CUCAIER\n  \nsenado entre ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "servicios_publicos",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-bb0336212390",
+    "fuente": "El Miércoles Digital",
+    "titulo": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTXB0cE1RR2Z2eFIyVDZtdWdpVEQ4Nkc2ZHg4RURqTjBsTzVnLWNzLUdiSFVBNC1IcjBzT0xNOG5pcVY0YXl1bUdlT3ZUMEV5ZHFMNy1odkppZVpQVnJyNWFOZ3FvMy1LYlVZY3ZhbWVNeThOVzIxazM0anBlR1FGZzdLU1puRGZoSG5jU3FRTWVjUktnNFpld1h4VUxndUJfYUYzbXA3ajZuR0wxa0t5LVg3eVJOS3FvNHJUQzQ4aG1iNnRQSEZ2RFZNZDh2LUVadElTcmI2bHU2Uld1aTdwNmpGVmJqcGJhMTZiVFZ2enlpQ256Vk9F?oc=5",
+    "texto_original": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social\n  \nEl Miércoles Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-9e7199af8dfd",
+    "fuente": "Municipalidad de Paraná",
+    "titulo": "Las provincias de la Región Centro se preparan para enfrentar a El Niño",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGdISEYtNnhHQk1JdndGVUFsck1QS3QwMDNSV3M5N1czc0JVTldJNVk4anRzajE2ZEJPVGtCOWRDTzNsTDRSbHpucVhhNXFJaEpfcXJKQkU1aXR6ajdzSGlvZEc4YmttYlRmUDhTSFRIb2gxM3oxaXNVVHhwUXBnR3dYMy1JY3V5ak1mWmI0enRPbGw2WlBUc1NibE4tWnI0REE?oc=5",
+    "texto_original": "Las provincias de la Región Centro se preparan para enfrentar a El Niño\n  \nMunicipalidad de Paraná",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-analisis-digital-gn-7a5255198823",
+    "fuente": "Análisis Digital",
+    "titulo": "Municipios entrerrianos conmemoran el centenario del poeta Jorge Enrique Martí",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFRUUldzVDVoOThvSmRKR29RZi1HRjQ1bDFZLTJ1R0lsS3B2NUpvaFBvdWF5S20xOGNfc3cwajI1Ni1yUmkwSmduLTN4OXMxcUpObUFQMmxfZTVNQWs0VmxvX2ZMeTh2bUN3MU9iSk9kVmNaVDdhM2FidWYwSmVmOW9FX0RQZkNqdVItRnlVTkloejF6bWZfUXpEeTBFZmkyQVpLVi1BR3Y4ZDdmWnNYYS1Fb1pwME0zRXI4TC1WRFU2T2dtSlVkRWxXaUM?oc=5",
+    "texto_original": "Municipios entrerrianos conmemoran el centenario del poeta Jorge Enrique Martí\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-413a7fa4b0e8",
+    "fuente": "APFDigital",
+    "titulo": "Frigerio inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica Nº 2 de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMlR0ZDVRSFMyYi1sYWI1cWhzNUlBSXRWLU9MZW83ZXNKV3ktY0cwYkYtQUpXYzdkYUlONng1Q2l3RzNXVndoVzFJb1VJNElaQ1pDY2FBVmlLUjgyRTViOUJ0OURzNS1qb0hKejRwZmQ2bkFENHI0WjFwbjBkdUtKUkV1QVZNMG92TVJKTGF6WS1WVGdXbVpXamlGV2p3R3dJaDdwaWh5OTZVWGNUSnF5VERhMHl1LXhORGdPNU9oRDloUGdoUEpfM1ktWm94VDNnT0djUXpINWRXSlZ4Qlo1QURLZURXMUJNVVhIdWRCNNIB9AFBVV95cUxPckx4cVNfUHdHcWktMWVROHlObWxyZ2R4dEQxT3lmc2hFVElSMEZHZm4zV1prUFg4aTYtVUtFVFltTnBGOVpJVGY0THdMa3FvYVNRalFoaDJQSThER2xQdGtKbU41RkVqX2dGRzNtQzRQMmt3bnZzNk5Ic0NXbldfZmp2RE4tTEtMaGJoZFFBY2o5alY5dWhoWExic1pZbjg5MjA3SkxUV0RFSjRkSWRoOVJ0LTRjcmlSQlk0Nmx0M0JvV0loMDJ5SmFzLWRCNVNTQ3U0TE1DWm9qazJ0VmhVb3M4SVdUR01IQTExSFV5eHowRjFL?oc=5",
+    "texto_original": "Frigerio inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica Nº 2 de Villaguay\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-d2263e224202",
+    "fuente": "APFDigital",
+    "titulo": "Trabajadores entrerrianos de Granja Tres Arroyos fueron parte de la movilización en defensa del empleo",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3NZUzlwWlp1RTdhVmVjM1BpQml2a1RZaTJlVGlWWDFEaTN1VUZOYURZLXZHVDhXV0ttVDl4d2VCekJ1N2x2VlpLdnJmZW1zQUhDR0ZUbXcyakJtM2lDeEk4ajVSUnhzcnFsWlV6Vl9DXzlPZXdEYUdqbFc4cWY4NnhKem1VY2ZJM05LVGhvUHlDSU4wcDEtU2NnaHY3ZV9neXZqRS1ndWE0ZHRfY3lJOVVCSkxTYzNaRTlBWmRtc1N5Ynp3ZkpmMFNkMjFOblhyRVRUTVh4NDQ1Q21iX2MwUnV4MlRCbmhKZC04Rnl1ZjnSAfYBQVVfeXFMUGJibTlReFFvclJOMVU1LUNVWFQzdE5xMTNZMkhRS000Xzg4UGs3UWhkd3FqbVkxMm8tQ3FycTNxOF9DUE5teDF2X3J0bkZQcndoS1d4dHZLN2FMbHZUQ0JOQ0VxaEczNzRVSW5yTWFzY1BmWFZNdk1YWVpyMGc5TmZwWnVuemx2NmR6OTIxX0Y3cUVfVzVBUWcyZ241aGZjWHlsRnotQmtUMG9IZVNmTWJFLS1vYkpSWGNhLUdFbHBxWmF6aDEwNUhRa2VDc2kyaGR0YmpxUUh1ZDJlTjZjUWRhVnNIYXhqR1BRSVc1NzNYZVd6NnJB?oc=5",
+    "texto_original": "Trabajadores entrerrianos de Granja Tres Arroyos fueron parte de la movilización en defensa del empleo\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-e671049f5aae",
+    "fuente": "APFDigital",
+    "titulo": "Diputado oficialista pide que la Municipalidad de Paraná termine las obras en calle Walter Grand para liberar el acceso al río",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOY01iTVktUVNKdno4RHFuUzdsWlVaLTN4M0FtQzM5eFFCdUFQdFBIajNuVmpVWDJuN01zR2k3Mjk2MndhSlFxcl9zemUtZ1Exems0TUhFejlCcjBOX0Q2Ulhjek5GQWNnNDUyWmVIOGUyYXdfdUJEbFR2cThuN1pBa3JaZXp3RlpWUmxaXzF6ME5pTjQxV0NnTkdoX2V0UlNpMTc5OGRpWHRzUWdEV0k5ZHVNUXVFS1huRklBazdBLTRJSG4taEw3ZWN1dUpodUJxVjJmTW9QSnFDQm50d1JiLVl4c05KcjktcjdYTDFCd25DSVN5VHFvaHJyZ0s0dDQzdGl2aTktODV3Nks3b2J3RNIBlgJBVV95cUxQUG92dUZFMmxuemYweDg2UHA4UGlXTjJqZnpKejl4MDRiOFh5dGRIX1BDMlNhUkdyYlVxdVlmWmNmU0ZQNmJMdjZMaUdadU5HellZY25SenhnUEpzeUgxMC1kZFBQVFpsUFA2WEUzWXdCWUd4b08ycG9icVdnem1TX3hCNkhndG05MzBBQjBGY2hfd255UEdOQktQVFo1V3hRZ2M2N2JfTjVlLVJYT3dCdktINWtNOUlFNjN6R1duMGdBclRmOGs1OEdmQm10ZzBHRkkyVk5SdGlZWVVaQ3JXNzNEVkVXb2VNUk1vWXRwNlpoWmpoWWhBeW5xcGpIaTJBSnJ0QWNIWXJLekJ4eV9sdXpISlg1QQ?oc=5",
+    "texto_original": "Diputado oficialista pide que la Municipalidad de Paraná termine las obras en calle Walter Grand para liberar el acceso al río\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-bf78387ce40c",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "La inflación de agosto fue del 1,7%, informó el Indec",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEN0VU9jU0d0X1pjdkpUMWw4aGdDS2xXb215NnNRM2JVSlp4N1FqWnQyNXFXbzY0Qk9kTFpGXzFIT1htdE9GQUN0d2RwR1pPNHo5SkVOZDIxbE54Y2Fpa1ZZY2dxZll2c1lEMUNVZXhVa0w5bk52eFV6STdXRjg4Z0N5Sk96bkU?oc=5",
+    "texto_original": "La inflación de agosto fue del 1,7%, informó el Indec\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-67eb6a5b3ed1",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Crimen de Barreto: los cinco imputados irán al penal y autorizan prueba de ADN",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmxOaTk2U0tFUnlZdmxNcTZva1lIQk85NWdYUEc1WXdGUmdjSlp0QW9aY29CX2UzTDhmSlJERnF2aVBDaU5QdW1zVUFVV2Uya2xTVEIzYmtHbzFlb3p1YVNJLTFLcjcxRzFMX2hma1lwb00xVHl1SnliMUJ2ZVNhWGxUWDJST19FVHNUWEhLeFloeWlfZUhuRE85QTNMM0o2aExOWUZvRWdOXzVUTXc?oc=5",
+    "texto_original": "Crimen de Barreto: los cinco imputados irán al penal y autorizan prueba de ADN\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-b44aefae238a",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Frigerio remarcó que el alivio fiscal y la infraestructura son las claves para atraer inversiones y exportar",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejUyWFUzS1k2ZXJMRzZXOTR5d3Noay1EOHJEUllCRkthbnZ3TE1ESU9CT2pRWGlwTGJqVkFCWUZwZEU2a3d0bDRTaHZMblh0NW9hSnZCNUpFS0FFYlhtcWl5TWhIbEZVd0M0MFRtVnVtSHZvNnRtRjlGdXJHUzdDRlAtb0h4dE42NWU4aG9hdmpSdXhGaFZ0eUwwR0t5cWdfVmV1Z1d6UDBfTkJGUVFQX1lpZXA2SlQ1NW9DRVJIbDBVQVVEcWgyWkhfTFRmS1NvSUg2aw?oc=5",
+    "texto_original": "Frigerio remarcó que el alivio fiscal y la infraestructura son las claves para atraer inversiones y exportar\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-parana-discutira-una-ordenanza-para-organizar-su-patrimonio-energetico-municipal",
+    "fuente": "Bicameral",
+    "titulo": "Paraná discutirá una ordenanza para organizar su patrimonio energético municipal",
+    "fecha": "2026-09-10",
+    "link": "https://www.bicameral.com.ar/parana-discutira-una-ordenanza-para-organizar-su-patrimonio-energetico-municipal/",
+    "texto_original": "El Poder Ejecutivo de Paraná elevó al Concejo Deliberante un proyecto de ordenanza para organizar la gestión del Patrimonio Energético Municipal\n, establecer responsabilidades claras y contar con herramientas permanentes de planificación, mantenimiento, control y seguimiento. \n\n\"La iniciativa busca \nconsolidar una política capaz de administrar las inversiones energéticas actuales y acompañar las que la ciudad incorpore en el futuro\n\", informaron en un comunicado emitido por la comuna de la capital. Y agregaron: \"La incorporación de infraestructura de generación, almacenamiento, medición y gestión de energía plantea nuevas exigencias para los gobiernos locales. Se trata de activos públicos de alto valor y largo ciclo de vida que requieren conservación, mantenimiento, modernización, seguridad, gestión de riesgos y control económico de manera sostenida\". \n\nUno de los principales activos comprendidos en este esquema será el \nParque Solar Fotovoltaico Paraná\n, cuya administración, operación y gestión se asignará a partir de su efectiva puesta en funcionamiento. Su gestión incluirá \nprogramas de mantenimiento preventivo, predictivo y correctivo, sistemas de información, telemetría, supervisión, medición y control\n, además de herramientas para identificar y gestionar riesgos técnicos, regulatorios, económicos, financieros, climáticos, ambientales y digitales.\n\n\"La puesta en marcha del Parque Solar no representa el origen del patrimonio energético municipal, sino un punto de inflexión en la necesidad de administrarlo con mayor especialización técnica y una visión de largo plazo\", resaltaron al respecto. \n\nPara llevar adelante esa tarea, el proyecto propone la creación del Ente de Gestión Energética de Paraná (Enerpar), como organismo especializado encargado de \nadministrar los activos energéticos que le sean asignados y ejecutar técnicamente los planes y proyectos comprendidos en la política energética municipal\n.\n\nLa iniciativa establece que su estructura deberá desarrollarse con criterios de austeridad organizativa, especialización técnica y gradualidad. La eventual creación de cargos, las modificaciones de las plantas de personal y las remuneraciones deberán ajustarse a las normas municipales vigentes.\n\nEl proyecto contempla además el Sistema de Gestión Energética Municipal (SIGEM) como marco de planificación y coordinación. Su Coordinación Estratégica será transversal y ad honorem, sin asumir competencias económicas, financieras, patrimoniales ni de personal.\n \n\nLa entrada \nParaná discutirá una ordenanza para organizar su patrimonio energético municipal\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "servicios_publicos",
+      "gobierno",
+      "municipios",
+      "infraestructura_obra_publica",
+      "educacion",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-el-comisario-rosatelli-fue-procesado-por-delitos-narcotrafico",
+    "fuente": "Página Judicial",
+    "titulo": "El comisario Rosatelli fue procesado por delitos narcotráfico",
+    "fecha": "2026-09-10",
+    "link": "https://paginajudicial.com/2026/09/10/el-comisario-rosatelli-fue-procesado-por-delitos-narcotrafico/",
+    "texto_original": "De la Redacción de Página Judicial\n\n \n\nEl comisario y abogado Daniel Alejandro Rosatelli fue procesado por delitos de narcotráfico, se le dictó la prisión preventiva en la unidad penal y se trabó un embargo sobre sus bienes por 12.250.000 pesos.\n\nLas medidas fueron dictadas por el juez federal Leandro Ríos en el marco de una investigación que se inició a partir del hallazgo casual de una furgoneta cargada con 1.345 kilos de marihuana, el 13 de febrero pasado, en un camino rural de La Paz. En ese momento resultó detenido el conductor y otras personas lograron escapar. Pero la reconstrucción de la trama escaló y terminó salpicando al comisario y abogado.\n\nSe presume que Rosatelli habría aportado los fondos y la logística para adquirir la furgoneta Critroën Jumper utilizada para el transporte de la marihuana, a la que además le habían colocado una chapa patente perteneciente a otro vehículo de similares características, pero que registraba una prohibición de circular y pedido de secuestro vigente desde dos años antes. Ello con el objetivo de eludir controles policiales.\n\nEl comisario de la Policía de Entre Ríos, además, fue procesado por lesiones graves, intimidación contra la persona que había oficiado de intermediario de la furgoneta utilizada para el transporte de la droga y amenazas al vendedor, luego de que este denunciara que no había cumplido con las condiciones de pago acordadas.\n\nEl magistrado también procesó y dictó la prisión preventiva de Martín Reynaldo Pelizzari, que sería el líder del grupo operativo; Claudio David Luna, hijo de un integrante de la organización que había montado una cocina de cocaína en un campo en el acceso norte de Paraná en 2011; y los hermanos Alan Josías Gabriel Favieri y José Belén Favieri; y les trabó embargos por hasta 9 millones de pesos.\n\nEn tanto, permanece prófugo Juan Esteban Siebenlist Bustos, que habría coordinado la búsqueda de la marihuana hasta el Paso Yunque, sobre el río Uruguay, en el límite entre las provincias de Entre Ríos y Corrientes, con el grupo operativo; y luego ofició de \npuntero\n de la Citroën Jumper hasta la ciudad de La Paz, alertándolos sobre la presencia de controles policiales en la ruta.\n\nNoticia en desarrollo…",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "justicia",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-suspenden-sin-goce-de-sueldo-a-un-empleado-municipal-detenido-en-una-causa-por-robo-con-arma-de-fuego",
+    "fuente": "Diario Junio",
+    "titulo": "Suspenden sin goce de sueldo a un empleado municipal detenido en una causa por robo con arma de fuego",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/suspenden-sin-goce-de-sueldo-a-un-empleado-municipal-detenido-en-una-causa-por-robo-con-arma-de-fuego/",
+    "texto_original": "El Ejecutivo municipal dispuso la apertura de un sumario administrativo y la suspensión provisoria, sin goce de haberes, de un trabajador municipal que fue detenido el pasado 24 de junio en el marco de una causa judicial por “robo con arma de fuego”. La medida fue formalizada mediante el Decreto N° 805/2026, publicado este jueves en el Boletín Oficial. El agente involucrado se desempeña como personal mensual en la Dirección de Calles Pavimentadas, dependiente de la Subsecretaría de Mantenimiento de Obras Viales de la Secretaría de Obras Públicas. Según se informó, presta servicios en la Municipalidad de Concordia desde el 1° de marzo de 2015.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "gobierno",
+      "municipios",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-upcn-brindara-informacion-a-trabajadores-interesados-en-participar-del-primer-concurso-de-la-administracion-publica-provincial",
+    "fuente": "Diario Junio",
+    "titulo": "UPCN brindará información a trabajadores interesados en participar del primer concurso de la administración pública provincial",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/upcn-brindara-informacion-a-trabajadores-interesados-en-participar-del-primer-concurso-de-la-administracion-publica-provincial/",
+    "texto_original": "El Sindicato UPCN (Unión Personal Civil de la Nación) Entre Ríos llevará adelante una jornada de intercambio el lunes próximo a las 10 en la sede sindical de Santa Fe 463. El objetivo es “transmitir algunos detalles y escuchar las inquietudes de los trabajadores” de cara al primer proceso que se desarrollará en la provincia en el marco del Reglamento General de Concursos para el nombramiento e ingreso a la planta permanente, promociones y asignación de Jefaturas de Departamento y División, establecido a través del Decreto N°1452, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-parana-se-prepara-para-una-nueva-etapa-en-la-gestion-de-su-patrimonio-energetico",
+    "fuente": "Diario Junio",
+    "titulo": "Paraná se prepara para una nueva etapa en la gestión de su patrimonio energético",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/parana-se-prepara-para-una-nueva-etapa-en-la-gestion-de-su-patrimonio-energetico/",
+    "texto_original": "El Ejecutivo Municipal envió al Concejo Deliberante un proyecto de ordenanza que propone dotar al Municipio de herramientas técnicas específicas para administrar, conservar y proyectar su patrimonio energético. La próxima puesta en funcionamiento del Parque Solar Fotovoltaico Paraná profundiza esa necesidad y marca una nueva etapa de gestión.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-3ad3d8eee242",
+    "fuente": "AIM Digital",
+    "titulo": "Inauguraron la nueva residencia estudiantil femenina de la escuela agrotécnica 2 de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTlB1Ul9XSEs3RnlQOVUybjNRak52Uy11V0lacVJ4UHR3VDNMNzhSZTZkci13Z0h3eTltRF9zcmt6dFBTX3FxNDhKeENjcE1HQjUyZnQtcUpJbkx4SmZfRUdtN0ZXejcyM1RjTWU3VXhhYVlUXzRueWtieENPQWlyOXVuZmtCcVo2N3B4WlBlbUFZVmdvMkFTNzAzdzE0WGNBc3drUUk0dXFHX3V5Ty1Uem9NMUlNSC1TMHJVR21mMktaOUxyblhXVU85OGE1TDNVcV9rQ0Vn?oc=5",
+    "texto_original": "Inauguraron la nueva residencia estudiantil femenina de la escuela agrotécnica 2 de Villaguay\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-aa2b77460fa7",
+    "fuente": "Elentrerios.com",
+    "titulo": "Municipalidad de Colón: Concurso de Precios Nº 56/2026 - Edictos - Edictos",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mZENSYzR5ZC1lVXJubV9vWElIWHNCMm5KUzJOV0hqVHoycDVlTmc2bktaUTRvWXdqeWZuaVlpc0NGbkFGMXZxbllZWTN0YXlBQWVVbzZYM2dQV1VRU2JjVHhGMmIwQkplTWVabmxCQ0NvZw?oc=5",
+    "texto_original": "Municipalidad de Colón: Concurso de Precios Nº 56/2026 - Edictos - Edictos\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-4ec6fc8e3a9d",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos 12 meses",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelZSejNDNmtPYzlDeXFidFAwajUzNU1TbUdQcDdaT2g4RUhjZTNNUzdwZFF6bE4wX1Y5eTAxOUhvVVJOWUNHVV9Cck4xa1ozU1Y4T0Y1RnBuYnEwTEwwOElWbDgxdC1mTXJoRGVldFA4SEhYd002RWdpWlJSTGJ5a1owYURWcE12T1pfMFJFVldkNXFYakt1bmZVaEN4bmZkLVU4YkJEd1M0XzBvaG0yUTh1WVJMVVNidlNB?oc=5",
+    "texto_original": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos 12 meses\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-musica-por-la-paz-se-abre-la-convocatoria-para-elegir-nuevos-solistas",
+    "fuente": "El Heraldo",
+    "titulo": "Música por la Paz: se abre la convocatoria para elegir nuevos solistas",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/cultura/musica-por-la-paz-se-abre-la-convocatoria-para-elegir-nuevos-solistas",
+    "texto_original": "La actividad tiene como finalidad seleccionar a las voces solistas para la cuarta edición del Concierto Música por la Paz, en el cual se interpretarán las obras Misa Criolla y Navidad Nuestra de Ariel Ramírez junto a un coro y ensamble folclórico.Para la jornada de evaluación se establecieron como movimientos obligatorios las piezas Kyrie y Gloria de la obra Misa Criolla, sumadas a La Huida y Los Pastores pertenecientes a Navidad Nuestra. La convocatoria busca renovar los roles centrales de la presentación, previa a una posterior convocatoria que el organismo educativo realizará para sumar nuevos coreutas al proyecto.El Concierto Música por la Paz se estrenó en diciembre de 2023 en la Catedral Metropolitana de Paraná y se replicó en ese mismo espacio durante 2024 y 2025 mediante un trabajo articulado con el Arzobispado de Paraná. Para esta cuarta entrega la organización plantea un formato itinerante con funciones programadas en hospitales y parroquias de la capital provincial, estableciendo su función central para el domingo 20 de diciembre. La propuesta está orientada a transmitir un mensaje vinculado al deseo de paz de las culturas más allá de los credos religiosos y  cuenta con la dirección general de Miguel Otti Gómez y la dirección artística de Nicolás Faes Micheloud, junto a la participación de músicos, docentes, coreutas, estudiantes y público no vinculado a la institución.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-villa-elisa-celebro-la-fiesta-patronal-en-honor-a-la-natividad-de-la-virgen-maria",
+    "fuente": "El Heraldo",
+    "titulo": "Villa Elisa celebró la fiesta patronal en honor a la Natividad de la Virgen María",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/religiosas/villa-elisa-celebro-la-fiesta-patronal-en-honor-a-la-natividad-de-la-virgen-maria",
+    "texto_original": "La celebración comenzó con la tradicional novena, un tiempo de preparación y oración durante el cual distintos sacerdotes de la diócesis visitaron la comunidad y presidieron las misas diarias, renovando la fe y el espíritu cristiano en los días previos a la solemnidad. La jornada patronal tuvo como momento central la misa, presidida por el párroco, padre Hugo Grimaux, quien estuvo acompañado en el altar por el sacerdote Aníbal Aguilera, párroco de Santa Teresita de San Salvador, y el presbítero Elías Benitti, párroco del Sagrado Corazón de Ubajay.Luego, las calles de Villa Elisa se llenaron de cantos y alabanzas durante la tradicional procesión. La columna partió desde el parque San Jorge y avanzó hasta la explanada del templo, acompañando la imagen de la Virgen Niña.Los Bomberos Voluntarios tuvieron a su cargo llevar en andas y escoltar la imagen de la patrona de la ciudad durante todo el recorrido. Al finalizar la procesión, la comunidad se reunió frente al templo para compartir el tradicional tablado popular. En un ambiente de alegría y fraternidad, las familias disfrutaron de distintas propuestas de música y danza a cargo de artistas de la zona.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-el-enfoque-gn-cdd29b3fde67",
+    "fuente": "diarioelenfoque.com.ar",
+    "titulo": "El BCRA citó a Concordia Inversiones por otro sumario y presuntas irregularidades cambiarias",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQclFmT0kxeHdFbXpHX0lvS2MyMGRxM3hBWVhfS0k4TkYzaWNpWnNjNnpTa1g3ei14aFNJNGR4OEkyT3pXR2pVZmMtVzBsVmtuQU9PSFVObGw0Szc1Y0dlUVpUVHlVVHhqV0x3eGExUVJWUHhBU1c2T0hydHk2ZkVvTlZTVmhlZUp4bnRUQlRNb1dtQmlmVmRlWHh4V0VFNjdoQkN2ZWFZaUFReU9jaXpyNjVya1dHUFYzWUthd1M3RmlCeGlMSEE?oc=5",
+    "texto_original": "El BCRA citó a Concordia Inversiones por otro sumario y presuntas irregularidades cambiarias\n  \ndiarioelenfoque.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-cayo-una-avioneta-fumigadora-y-trasladaron-a-su-piloto-al-hospital-centenario",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Cayó una avioneta fumigadora y trasladaron a su piloto al Hospital Centenario",
+    "fecha": "2026-09-10",
+    "link": "https://eldiadegualeguay.com/cayo-una-avioneta-fumigadora-y-trasladaron-a-su-piloto-al-hospital-centenario/",
+    "texto_original": "El accidente aéreo se registró poco antes de las 13.30 en un campo situado en la zona de Ceibas, a unos 20 kilómetros adentro del mojón 25 de la Ruta Nacional 14.\n\nLa caída de la avioneta habría ocurrido en inmediaciones al establecimiento Las Marías.\n\nLos Bomberos Voluntarios de Ceibas acudieron al lugar y sólo se ha informado hasta el momento que el piloto comandaba una avioneta fumigadora y tras su asistencia en el lugar, fue trasladado al Hospital Centenario de Gualeguaychú.\n\nAún se desconoce la identidad de la víctima y el tipo de lesiones que sufrió en la caída.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-dia-del-maestro-reconocieron-la-trayectoria-de-docentes-jubilados-en-un-acto-en-el-centro-de-convenciones",
+    "fuente": "El Día Online",
+    "titulo": "Día del Maestro: reconocieron la trayectoria de docentes jubiladas en un acto oficial en el Centro de Convenciones",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/dia-del-maestro-reconocieron-la-trayectoria-de-docentes-jubilados-en-un-acto-en-el-centro-de-convenciones",
+    "texto_original": "Este jueves tuvo lugar el acto oficial por el Día del Maestro, una jornada que reunió a autoridades, instituciones educativas, estudiantes y docentes en un homenaje a Domingo Faustino Sarmiento y, especialmente, a quienes finalizaron su trayectoria laboral entre agosto de 2025 y agosto de 2026.\n\nEl acto, organizado por el área de Protocolo y Ceremonial municipal, a cargo de Silvia Videla, contó con la presencia del intendente Mauricio Davico; la viceintendente Julieta Carrazza; la directora Departamental de Escuelas, Marta Irazábal de Landó; autoridades provinciales y locales; representantes de instituciones civiles, judiciales, militares y de seguridad; directivos, docentes y estudiantes de establecimientos educativos de la ciudad.\n\nDavico remarcó el compromiso que supone asumir diariamente la responsabilidad de educar y agradeció a quienes eligieron la docencia como vocación. “Hay una piedra fundamental que la generan ustedes, que es la educación”, afirmó, al tiempo que reconoció el trabajo realizado a lo largo de sus carreras.\n\nLa primera parte de la ceremonia estuvo dedicada a la conmemoración del fallecimiento de Domingo Faustino Sarmiento, ocurrido el 11 de septiembre de 1888. Las banderas de ceremonia de distintas instituciones educativas acompañaron el acto, mientras que alumnos de la Escuela N.º 20 Domingo Faustino Sarmiento realizaron una ofrenda floral en homenaje al educador sanjuanino.\n\nTambién tomó la palabra la directora Departamental de Escuelas, Marta Irazábal de Landó, quien puso en valor la vocación docente y el trabajo cotidiano que se desarrolla dentro de las aulas. En su mensaje señaló que enseñar implica acompañar los procesos de cada estudiante, despertar la curiosidad, abrir nuevas posibilidades y contribuir a la construcción de su futuro.\n\nLa segunda parte de la ceremonia estuvo destinada al reconocimiento de los maestros que accedieron a la jubilación durante el último año, como una forma de agradecer los años dedicados a la enseñanza y el aporte realizado a generaciones de estudiantes de Gualeguaychú.\n\nComo parte del reconocimiento, Davico, Carrazza, Irazábal de Landó y la responsable del Área de Educación, Bertha Mabel Baldi, realizaron la entrega de presentes a los docentes jubilados. Cada obsequio incluyó una manzana como símbolo tradicional asociado a la educación y al agradecimiento hacia quienes ejercen la enseñanza.\n\nLa ceremonia finalizó con un homenaje artístico a cargo de Ornella Taffarell junto a alumnos de la Escuela N.º 31 República Oriental del Uruguay, cerrando una jornada dedicada a reconocer la tarea de quienes hicieron de la educación su profesión y dejaron su huella en las aulas de Gualeguaychú.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "municipios",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=auditorio-scelzi-la-dra-alicia-stolkiner-diserto-sobre-politicas-publicas-en-salud-mental",
+    "fuente": "La Prensa Federal",
+    "titulo": "Auditorio Scelzi: la Dra. Alicia Stolkiner disertó sobre “Políticas Públicas en Salud Mental”",
+    "fecha": "2026-09-10",
+    "link": "https://www.laprensafederal.com.ar/auditorio-scelzi-la-dra-alicia-stolkiner-diserto-sobre-politicas-publicas-en-salud-mental/?utm_source=rss&utm_medium=rss&utm_campaign=auditorio-scelzi-la-dra-alicia-stolkiner-diserto-sobre-politicas-publicas-en-salud-mental",
+    "texto_original": "Este miércoles 9 de septiembre, la Dra. Alicia Stolkiner brindó en Concepción del Uruguay la conferencia “Políticas Públicas en Salud Mental”, en el marco de las actividades previstas por el Mes de la Concientización y Prevención del Suicidio. \n\nLa propuesta se desarrolló en el Auditorio Municipal “Carlos María Scelzi” y fue organizada de manera conjunta por la Dirección de Salud Mental de la Municipalidad de Concepción del Uruguay y la Facultad de Humanidades, Artes y Ciencias Sociales de la Universidad Autónoma de Entre Ríos (UADER).\n\nAntes de la conferencia, representantes de las instituciones organizadoras brindaron unas palabras de bienvenida y destacaron la importancia de generar espacios de encuentro, capacitación y reflexión en torno a la salud mental.\n\nEn ese marco, el director de Salud Mental, Dr. Germán Bercovich, distinguió la presencia de Stolkiner y valoró su aporte como referente de la salud mental comunitaria, y remarcó la necesidad de continuar fortaleciendo las acciones de prevención y acompañamiento: “Es importante continuar generando este tipo de espacios de prevención, escucha y acompañamiento, y poner en valor el trabajo que se desarrolla desde el Municipio en los distintos centros de salud de la ciudad”.\n\nPor su parte, la coordinadora de Extensión y Derechos Humanos de la Facultad de Humanidades, Artes y Ciencias Sociales de la UADER, Magíster Alfonsina Cossani, resaltó la articulación entre la Universidad y el Municipio para acercar a la comunidad espacios de formación y reflexión: “El abordaje de la salud mental requiere una mirada interdisciplinaria y comunitaria, con participación de diferentes actores e instituciones. Por eso, celebro este encuentro”.\n\nSeguidamente, el intendente José Lauritto destacó la trayectoria de Alicia Stolkiner y su aporte al campo de la salud mental en Argentina. Además, reconoció su presencia en la ciudad y la posibilidad de contar con sus conocimientos y experiencia: “Gracias Alicia, por compartir tus conocimientos en nuestra ciudad. Es muy valioso contar hoy con la presencia de una profesional tan destacada como vos”.\n\nDurante su exposición, la Dra. Alicia Stolkiner abordó distintos aspectos relacionados con las políticas públicas de salud mental, con una mirada centrada en el enfoque comunitario, los derechos y la necesidad de fortalecer las estrategias de atención y acompañamiento.\n\nLa actividad permitió reflexionar sobre los desafíos actuales en materia de salud mental y sobre la importancia de construir políticas públicas que contemplen las diferentes realidades sociales y territoriales.\n\nCronograma de actividades\n\nLas actividades continuarán durante septiembre con distintas propuestas abiertas a la comunidad.\n\nJueves 10 de septiembre – 18 horas:\n en Plaza Constitución se desarrollará “Salud Mental bajo las estrellas”, una propuesta que contará con las disertaciones de Carolina Joannas, Manuel Borget y Paloma Ratto, integrantes de la Facultad de Humanidades, Artes y Ciencias Sociales de la UADER.\n\nJueves 17 de septiembre – 18 horas:\n se realizará el cierre del cronograma con el Taller sobre Prevención del Suicidio Juvenil, a cargo de la Dra. Viviana Barrón, del Consejo Pastoral del departamento Uruguay. El encuentro tendrá lugar en el Auditorio Municipal “Carlos María Scelzi”.\n\nDe esta manera, septiembre se presenta como una oportunidad para hablar sobre salud mental, fortalecer las redes de acompañamiento y promover espacios de escucha, prevención y cuidado en la comunidad. Asimismo, durante los días 8 y 9 de septiembre y también hoy 10, Día Mundial para la Prevención del Suicidio, la Pirámide de la Plaza Ramírez se iluminó de color amarillo como parte de las acciones de concientización, prevención y acompañamiento que se llevan adelante durante este mes.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "agro",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=concepcion-del-uruguay-rindio-homenaje-a-jorge-enrique-marti",
+    "fuente": "La Prensa Federal",
+    "titulo": "Concepción del Uruguay rindió homenaje a Jorge Enrique Martí",
+    "fecha": "2026-09-10",
+    "link": "https://www.laprensafederal.com.ar/concepcion-del-uruguay-rindio-homenaje-a-jorge-enrique-marti/?utm_source=rss&utm_medium=rss&utm_campaign=concepcion-del-uruguay-rindio-homenaje-a-jorge-enrique-marti",
+    "texto_original": "“Jorge Enrique era de esas personas que tanta falta hacen en este tiempo, que con su sola presencia inspiraban respeto, porque se respetaban a sí mismos; que eran capaces de sostener sus convicciones y lo hacían con el compromiso de poner el cuerpo por los demás”. Así se refirió esta mañana el presidente municipal José Eduardo Lauritto al recordar al poeta Jorge Enrique Martí durante la apertura de la programación local de un homenaje regional que por estos días municipios y entidades de la cultura de los departamentos Uruguay y Colón organizan con motivo del centenario de su natalicio.\n\nEn el escenario del salón auditorio “Carlos María Scelzi”, Lauritto estuvo acompañado por los hijos del escritor: Polo, Jorge, Javier y Enrique, que viven en distintos lugares del país, llegados para asistir a los actos de homenaje por cumplirse en la región donde transcurrió y se nutrió su vida de escritor.\n\nEl intendente rememoró su vínculo con Martí a través de un amigo en común: Luis Juan María Puchulu y puso de relieve a la personalidad del homenajeado por su fecunda tarea en la Asociación Educacionista “La Fraternidad”, en la Secretaría de Extensión Universitaria de la UNER y sus habituales colaboraciones en importantes periódicos de la prensa porteña, Santa Fe y Entre Ríos.\n\n“Ese entusiasmo lo llevó a crear su propio periódico que llamó Tribuna” añadió en tal sentido Lauritto, quien tuvo palabras de agradecimiento para los organizadores “por el sentido de tradición, porque haya gente muy joven que reciba su legado y por estar en cada una de las ciudades donde él dio sus pasos: Colón, Villa Elisa, San José, Concepción del Uruguay y su querido pueblo Liebig”.\n\nInmediatamente después del mensaje, el intendente junto al coordinador de Cultura, Guillermo Lugrín, hizo entrega de ejemplares de “Entrerriano por el Canto”, antología poética del autor correspondiente al período 1949 a 2009, a sus hijos y a representantes de la Cultura que participaron de la ceremonia.\n\nNacido en Rosario, el 11 de septiembre de 1926, Jorge Enrique Martí vivió su infancia primero en Colón y luego en Liebig. En el Colegio del Uruguay “Justo José de Urquiza” de Concepción del Uruguay cursó el secundario y de allí su afectuoso vínculo con la ciudad, que lo tuvo a cargo del directorio del internado de la Asociación Educacionista “La Fraternidad” y secretario de Extensión Universitaria y Asesor de la UNER.\n\nEstudió Filosofía y Letras en la Univesidad de Buenos Aires, e independientemente de su brillante producción poética y periodística, que le valió incuestionables reconocimientos, perduran para siempre sus valores de solidaridad y entrega al prójimo.\n\nContinuidad de la programación\n\nEl centenario del natalicio de Jorge Enrique Martí se cumple mañana 11 de septiembre, pero las diferentes actividades en tributo a su memoria continuarán en las próximas horas con el siguiente programa:\n\nHoy en nuestra ciudad:\n\n-16:45: Proyección del documental “Martí, escritor entrerriano”, producido por TV UNER.\n\n-17:15: Presentación de las publicaciones del autor a cargo de Gustavo Martínez, director de EDUNER.\n\n-17:45: Lectura del prólogo de Poesía Esencial, a cargo del poeta Miguel Ángel Federik.\nEl homenaje culminará a las 19:30 con el regreso al Auditorio Scelzi para una gala de música y poesía. La velada contará con las actuaciones de Atahualpa Puchulu junto a De Costa a Costa, Los Hermanos Lemes y el espectáculo “Entre Ríos y canciones”, integrado por Marita Londra, Carlos Aguirre, Beti Plana, Jorge Martí y Polo Martí.\n\nMañana (viernes 11) \nEscuela “Juan José Paso”, de Colón.\n\nSábado 12\n: Auditorio “Heraldo Peragallo”, de Villa Elisa.\n\nDomingo 13\n: Casa del Bicentenario, de San José.\n\nLunes 14\n: Biblioteca “Fiat Lux” y Biblioteca “Casa 7”, del Barrio San Francisco, de Colón.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concepción del uruguay",
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-otra-investigacion-de-analisis-revelo-inversiones-y-movimientos-del-cunado-de-aguilera-en-la-triple-frontera",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "OTRA INVESTIGACIÓN DE ANÁLISIS REVELÓ INVERSIONES Y MOVIMIENTOS DEL CUÑADO DE AGUILERA EN LA TRIPLE FRONTERA",
+    "fecha": "2026-09-10",
+    "link": "https://diariovictoria.com.ar/otra-investigacion-de-analisis-revelo-inversiones-y-movimientos-del-cunado-de-aguilera-en-la-triple-frontera/",
+    "texto_original": "Alejandro Almada tenía prohibido abandonar Paraná y sus bienes estaban inhibidos, pero habría residido durante años entre Puerto Iguazú y Foz do Iguazú. Tras ordenarse su detención, se presentó ante \n\nGendarmería y será trasladado a la capital entrerriana. \n\nOtra investigación desarrollada durante varios meses por \nAnálisis\n puso bajo la lupa los movimientos migratorios, negocios e inversiones vinculados con Alejandro Luis José Almada, cuñado de Juan Pablo Aguilera y uno de los imputados en la causa por los contratos irregulares de la Legislatura entrerriana.\n\nAlmada había fijado domicilio en Paraná y tenía prohibido abandonar la ciudad sin autorización. Sin embargo, los registros migratorios indicarían que residía y se desplazaba frecuentemente entre Puerto Iguazú y Foz do Iguazú, donde su pareja, Micaela Agostina Banegas, aparece vinculada con emprendimientos gastronómicos, turísticos e inmobiliarios.\n\nEntre esos negocios se encuentra V8 Garagem Bar, un establecimiento gastronómico y de eventos con automóviles de colección. Banegas también figura en Herma Holding Ltda., junto con su hermano Tomás Valentín Banegas, y en Vivra Travel Agencia de Viajes Ltda., con una socia brasileña identificada como J.M.D. Tomás Banegas, además, aparece como titular de otra firma ubicada junto al mencionado bar.\n\nLa investigación busca determinar el origen de los fondos utilizados para esas inversiones, debido a que Almada y Banegas tienen sus bienes inhibidos desde 2019. Una de las hipótesis que deberá evaluar la Justicia es si parte del dinero provenía del esquema investigado en la Legislatura y si existieron operaciones que podrían encuadrarse como lavado de activos.\n\nEl registro migratorio confirmó numerosos cruces fronterizos desde el año 2020. Almada había salido nuevamente hacia Brasil el 3 de septiembre y no había regresado cuando la Justicia ordenó su detención por incumplir las restricciones impuestas. Al conocerse la medida, se presentó voluntariamente en una sede de Gendarmería Nacional y será trasladado a Paraná.\n\nLa Fiscalía podría solicitar que permanezca detenido hasta el juicio. En la etapa previa, adelantó que pedirá una pena de 10 años de prisión para Almada, aunque esa pretensión deberá ser discutida y resuelta en el debate.\n\nTodos los nombres alcanzados por la investigación patrimonial\n\nLa reinscripción de las inhibiciones comprende a imputados y, en algunos casos, a sus parejas: \nAlfredo Bilbao, Gustavo Pérez, Sergio Esteban Cardoso, Flavia Marcela Beckman, Hugo Rubén Mena, Juan Domingo Orabona, Pedro Eduardo Opromolla, Jorge Enrique De Breuil, Juan Pablo Aguilera, Alejandro Luis José Almada, Roberto Ariel Faure, Verónica Caíno, Jorge Pablo Balladares, Guido Daniel Krapp, María Jazmín Mena Gioveni, Nicolás Beber, Renato Jesús Mansilla, María Victoria Álvarez, Viviana Gisell Mena Gioveni, Julia Gabriela Vainstein, Sandra Fabiana Marozzini, María Alejandra Camisassa, Micaela Agostina Banegas y Luciana María Belén Almada\n.\n\nEn el caso de María Alejandra Camisassa, esposa de Jorge Enrique De Breuil, la inhibición fue levantada recientemente. Estas medidas patrimoniales no constituyen una condena: buscan preservar bienes ante un eventual decomiso y continúan sujetas a las decisiones judiciales que se adopten en cada caso.\n\nEpígrafe de foto: Juan Pablo Aguilera y Alejandro Almada, cuando fueron detenidos en 2018.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "legislatura",
+      "justicia",
+      "inmobiliario"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-47bf00d32e81",
+    "fuente": "AP Noticias",
+    "titulo": "Se inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1N2d1ZlUEdVTHY0V1pQN0NDM3lQaThFYmgyc2N5WmRxUl9iNTFVQ0QxLXJMc0tYN1FwajZZRFhtcU1QcnUzTkJoVHNqbmNsanBpLVdEUHJIbWJaa01DMVJvZlpNbDJaaUEyQ0hpOUhtVk9DNDY3ckVQYWVDQU93WlVhRQ?oc=5",
+    "texto_original": "Se inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica de Villaguay\n  \nAP Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-feria-de-arte-en-parana-suman-editoriales-y-librerias-independientes",
+    "fuente": "Paralelo32",
+    "titulo": "Feria de arte en Paraná: suman editoriales y librerías independientes",
+    "fecha": "2026-09-10",
+    "link": "https://www.paralelo32.com.ar/feria-de-arte-en-parana-suman-editoriales-y-librerias-independientes",
+    "texto_original": "La escena cultural de Paraná tendrá un nuevo espacio de encuentro durante el fin de semana. Del 11 al 13 de septiembre, de 16 a 21, Sala Mayo, en Puerto Nuevo, será sede de una feria que reunirá propuestas vinculadas a las artes visuales y que, en esta edición, incorporará también a editoriales y librerías independientes.\n\nLa iniciativa busca ampliar el recorrido habitual de la feria y generar un punto de encuentro entre artistas, proyectos culturales, producción editorial y público.\nLibros y proyectos editoriales en Sala Mayo\nAdemás de las galerías, espacios culturales y proyectos grupales independientes que forman parte de la propuesta, esta edición suma la participación de proyectos vinculados con la producción editorial y artística local y regional.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
   }
 ]
