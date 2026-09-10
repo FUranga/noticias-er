@@ -29,7 +29,7 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
    - Bajada: uno o dos oraciones con lo más relevante que no entró en el título.
    - Lede: nunca abre con la cifra o el anuncio institucional solo — una acción o hecho concreto primero, el dato subordinado.
    - Cuerpo: pirámide invertida, corto (3-6 párrafos para un comunicado estándar), párrafos de una a tres oraciones, una idea por párrafo.
-   - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia — tejida en el cuerpo, preferentemente al final de la oración ("la medida no alcanza a cubrir el déficit, señaló la oposición"), con verbos variados en pretérito simple (dijo, aseguró, señaló, sostuvo — nunca "ha declarado"), nunca como una línea "Fuente:" separada al final (no es periodístico). Citas textuales entre comillas angulares « ».
+   - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia — tejida en el cuerpo, preferentemente al final de la oración ("la medida no alcanza a cubrir el déficit, señaló la oposición"), con verbos variados en pretérito simple (dijo, aseguró, señaló, sostuvo — nunca "ha declarado"), nunca como una línea "Fuente:" separada al final (no es periodístico). Citas textuales entre comillas normales.
    - Cierre que reencuadra o deja tensión abierta (a menudo una cita), no un resumen del redactor tipo "de esta manera, la medida busca...".
    - Moneda en letras, sin adjetivos calificativos en voz propia (un juicio de valor fuerte va entre comillas de una fuente, no del redactor), sin relleno de protocolo.
 

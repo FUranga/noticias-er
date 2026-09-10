@@ -57,7 +57,7 @@ El manual de estilo de El País es la referencia para cuestiones de **mecánica*
 - **Pretérito simple, no compuesto.** "Declaró", "afirmó", "señaló" — nunca "ha declarado", "ha afirmado". El pretérito perfecto compuesto es el rasgo más marcadamente peninsular en este tipo de texto, y el ajuste más simple para que una nota no "suene a España".
 - **Variar el verbo de atribución** dentro de la misma nota — no repetir siempre "dijo" o "según". Banco de verbos: dijo, aseguró, afirmó, sostuvo, explicó, señaló, destacó, subrayó, indicó, precisó, detalló, advirtió, consideró, argumentó, planteó, admitió. Reservar los verbos con carga interpretativa (advirtió, admitió) para cuando el tono de la cita lo amerita, no como sinónimo neutro de "dijo".
 - **Atribución al final de la oración, como default** — "La medida no alcanza a cubrir el déficit, señaló la oposición" en vez de "Según la oposición, la medida...". Es el patrón dominante en los ejemplos revisados y ayuda a que el hecho abra la oración, no la fuente.
-- **Comillas angulares « »** para citas textuales, no comillas inglesas (" "). Ya es la convención de Francisco en Visión Desarrollista; se adopta acá por consistencia.
+- **Comillas normales (" ")** para citas textuales.
 - **Anglicismos y tecnicismos**: en cursiva la primera vez que aparecen, con una glosa breve entre comas solo si el término no es evidente por contexto (ej. "el *dashboard*, el panel de indicadores que usa el organismo,").
 - Evitar vocabulario o giros marcadamente peninsulares si aparecen al parafrasear una fuente extranjera (coche, piso, paro, "vosotros").
 
