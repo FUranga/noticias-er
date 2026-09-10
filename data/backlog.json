@@ -14092,11 +14092,11 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0lNNEw4T3VaVXdwaTFrU1Y2VERhWmxnRzhqS0VzVnJtYXMtSS1IdjVNRnhpZkhhSUgtTHpVT0xQQmRfSUZ4ZGVmU19lQW1hWjYxN2g1SjBiY3p5ekV3czdZVnkwbWhWRHpxdGNNWHc2X0FXa0xDb01pUHJRWjNTOXAyb09Memd1bzQxZVJqX0NSeUZaVzJhcC1qQTZ5NHpDeV9Gamd2WXBxMGN2V2k5QlpBVdIBuAFBVV95cUxPbE01U3RhcC0wMjhwbXNCTG0tTnEtdlBLU21zQUY0d2poWjlEVXBLLUg3bU5mLWt2NUEzMDdhMVZkQ21IZXpxLW9fMllOMnM2azVlREtpTVZjelA5NmZ6eDlkN195MUpZWlJ2Vy1yWHZTVHZBVjRJYmcwVmRhVGkxVTBKYWVUdzNXUnc0Y0FiS3FwN2xiOGE1U1o1bU1KY3Fnd0l3d1psY0dHUTRVVjVNaWVKbWEtb0dD?oc=5",
     "texto_original": "Un Día de Película llevó el cine a escuelas rurales de Villaguay\n  \nUno Entre Rios",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T05:39:58Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null,
+    "motivo_descarte": "evento, no es noticia",
     "topicos_matcheados": [
       "educacion"
     ],
