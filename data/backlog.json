@@ -26951,5 +26951,734 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-46ce56f594c7",
+    "fuente": "cuestionentrerriana.com.ar",
+    "titulo": "Déficit habitacional en Entre Ríos: uno de cada cuatro hogares presenta carencias",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3k5T21uWEV1cFZrRjN4UEJ5Q1lwNlQtUlVVdGh0X1RpVTlmSnVzWXFmVVoySDZhSy1xQ1JyVGpiby1yV2VmVDFVTFdHN2NuZjJxV2tKcTc3T2RXeE5nSldNQmEwaW85THFvcm9pR19fX3llT1N0ekpQTTRLU04wbWJVU1g5Nm5ZQnF6RkY2Y2QtWHZoazgxUkRSdkxaVG5aVGVQNHNKQXVpdUlxZGZ4cDQ5b3g0Y1E?oc=5",
+    "texto_original": "Déficit habitacional en Entre Ríos: uno de cada cuatro hogares presenta carencias\n  \ncuestionentrerriana.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-75a75eeab9aa",
+    "fuente": "cadena3.com",
+    "titulo": "Alerta por El Niño en Entre Ríos: Frigerio advierte un grave impacto económico y prepara obras",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2tpSVd1RTRud2tUYmZOSE5RamhaVEU0OGJzSTNLV01rRFVMR0prZmRncUZ0aUFXYmE1RVpuNW45alYzYkJZaXRwTGNPRFVfcUctTElmcnBKb3BHUjB0a0g1VE5iYzgxRk9sX2p4cDlSOE5jQWtYTkxsOFM3WmRTdkRiend3cGlPWGFHTC0wbzE3cWJmb1AwUkRrR0xBel9kbl9FVUJ2b3ZSRkpTYU9ROFlSNkxuTHhjMHg1WFJLRENvdW5mV0FqcHUwamppZllrUWwtd0RTcmNqSmp5QmFhRmVGb9IB6AFBVV95cUxNMnR2VENCanBGXzlrM2RrRTQxN2ZkN2hvU196ZEpaLW80eXVyZFFnb3ZOTUNhQU9McXFpZHFFeHBUNmhUUWJOaTAwQzNQcm42bkFJUXFFdzJCamNYRmdWUC1kaTlDNlpUSzJOMjdFWThSaEhmbWRxY3FFSGJtamszYm5nZmViQVR6VTBVUXZuMGxCTE5wa0pqYUtucHJLQnF0cnR0MjFJT0oxSENCejBQUEV1enBvYjBwa2ZDeEw3ZWdGS0JlYkw5YlRqWjZRWHplbk93RWNUbi1qbHRxWWV0Vl9na1p2ZmpR?oc=5",
+    "texto_original": "Alerta por El Niño en Entre Ríos: Frigerio advierte un grave impacto económico y prepara obras\n  \ncadena3.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-49fdca781e81",
+    "fuente": "Despertar Entrerriano",
+    "titulo": "Mate, baile y hasta un gobernador que terminó con los anteojos rotos: las historias más curiosas de Entre Ríos en su aniversario",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV0o0OS1YX085NGxaSnNxOEV3S19VcVlHN3pLTkVIcVVNUnVUcVRZTWdvaUVUSng1ZmhOakdZZUM2ZUgwaFlENHA5SVBPZHRNZEtzRl8yMjc0N2tGcE94UUY4cDhCU2JUXzQyOGgwbTBiYThfQlA3cmRxYXVpekxIUXJ6cWV6X2lDQ0YzT1UyR2ExT3o3RF9aaXcwUmY1M1BwMW5uX2JzR1lUODJZcE94SGJqbThOZV9weE1wUlQwWXBKaTNTbFQ4TUhIZlVLQTJzdkxma29XcF9jR0RjNlg5Vk9mWXZ2VzZqRk94a2tyVEk0UQ?oc=5",
+    "texto_original": "Mate, baile y hasta un gobernador que terminó con los anteojos rotos: las historias más curiosas de Entre Ríos en su aniversario\n  \nDespertar Entrerriano",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-d254a1c24ee9",
+    "fuente": "Mirador Provincial",
+    "titulo": "Frigerio destacó la infraestructura y el alivio fiscal como ejes para potenciar las exportaciones entrerrianas",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYk1pbFJQVUQ1ZWZNLXdSQ0xWZWdfMlFUMUYyN21FajFocDE2aXBOLXRLRWI1WENiM1RjTXBISUZ1VmFMbnpKQnhILVNCT2ZqSS1kcl9VaGJzV0NVOHZveFg4ZHcwOFhscWVoeE5ZT0JUdVZlZi1BT3Y0eUQxZU11U29xZEpTMExWN2pvaXZ0bV90YUJ0ak54cUxSMjNCUWhUbzZhTWVwTkVsdG53QXZtUXJWMWlkeU8wTi12NlFwaFBGaDdvc3J1YWVvSjlxZUtrSWZGam5MTUU2Yy1YRC15OTdiNXVHWDllbEpoNA?oc=5",
+    "texto_original": "Frigerio destacó la infraestructura y el alivio fiscal como ejes para potenciar las exportaciones entrerrianas\n  \nMirador Provincial",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia",
+      "infraestructura_obra_publica",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-08257aba4828",
+    "fuente": "El Dia De Gualeguay",
+    "titulo": "Uno de cada cuatro hogares entrerrianos presenta algún déficit habitacional",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUxTankxb2dQaXd4OE8zcXhEdjNPclpVOHNsR2pHYjF5UWJUMFNzcXdIMEdzVlcxSFNMcHhLM0xYNXczXzNBZ2M0T1dUanlGTGJlX3BPblVCR0xzNkxwR2cyYUpudVFwanlLWXp0LXRLV042c05HZ0pEMWpwdnc1S1V5WXdYQ2tVNmpNNWdlMGFtN1pyZFZXdzlhZFdPdVJYTmIxdXJLc1A?oc=5",
+    "texto_original": "Uno de cada cuatro hogares entrerrianos presenta algún déficit habitacional\n  \nEl Dia De Gualeguay",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-1627f236af45",
+    "fuente": "Elonce.com",
+    "titulo": "PRODUCCIÓN DE BÚFALOS EN EL DELTA ENTRERRIANO",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUVydm5PWS1UOW9RY3ZueVNzeHVNNWRyd25uZk5vbVR1NWs0LWhidGFESGtuWnJBZW9Ea016MEg3RzV6NV9XTDVtWExjN3RVa3FZUERtRFFqYkZYSmFhYm8tT1BGOUJJZUEzSW5EMkFQTE1XblJqU09SbzB5YWFyekpFOWtvSjVBOEpLSjNCOFU?oc=5",
+    "texto_original": "PRODUCCIÓN DE BÚFALOS EN EL DELTA ENTRERRIANO\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-c86510517adc",
+    "fuente": "Elonce.com",
+    "titulo": "Video: el momento en que la avioneta se precipitó en campo del sur entrerriano y dejó herido al piloto",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3lGUTQ2R0l0dl9DbmQ5ZldWWHVfZDN4NDdNb2hLT2R5MXFlWkNEOHl1NDdpbENnVnZLeG84alMyYlAxSGZPbzc4QzJ4Z01lR3RucG1pSzJWNkJuSFZjbFpZSFA0Q1hKaWhmU2VwV0ZEZVowdXFXTVVVd1NOczFzUWlqRVctOEhzQWNlVm41cHpIc1lZd3FKVkNwN2kxWjd1dnNJOHluRWxYbUdmM3BLRGZxYU9KVmdGbWk5QmlB0gG3AUFVX3lxTFA1SDlKUjdmY2o0NERnVWxyeHgtVmkxQmN6Q1ZpSUlfUnZPcmg3Vk5xdjhNa3V6MERzQ09pREhfLW16YUlORy0tTW92SmxaN253TlY3dU1OeGZuLTdvY09IMWV3TllRLTJnOVZXUk4xY01DM1NqYWxoN0VsQzFQUXFEVFhDT05FaHlFdXVnME1qQTdmX0RDS2JkV0xYSkw0WHFoN2Y2d3VzNG5yd1BZWUpzUko0Unc5RQ?oc=5",
+    "texto_original": "Video: el momento en que la avioneta se precipitó en campo del sur entrerriano y dejó herido al piloto\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-analisis-digital-gn-d5c6c7bcecc8",
+    "fuente": "Análisis Digital",
+    "titulo": "Desde este viernes, Paraná será sede del primer Simposio Regional de Ciencias del Deporte y Educación",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSUlnU3ZrbnNxbnFqOEoycXFfbWlmTDJlZ3U0cUFQVDZnRW9IOVNUR3lmTlNPMlZRYlo4WEtmcjk0TWo2bmtkNXVEZURJSHg3a2lWN2psVkJ6ZlpSajBWd2E0dFpIWXRSZXFyaU4xbS1FMTk2cWdLLTdjc05UWlZ2dl91c3VZRm9kTmtoZHhIOTNXQ2Q4M0QxZkM2WjBBU0txZTREaVI0enpNQXhtZ3ZuVmJSel8yemVOTjRHQ2hxMnpDdUlkZkYwMTlWZXItQjBkc2c5cWZ4RlVyT2RhSWt0aFpyRGt5OHJxSmdj?oc=5",
+    "texto_original": "Desde este viernes, Paraná será sede del primer Simposio Regional de Ciencias del Deporte y Educación\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-d49e6f6319d1",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El PJ echó a las senadoras provinciales Nancy Miranda y Gladys Domínguez",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTFaN2dCRi1PaHNhM0RWWUZsTTI5c2JDNjRmMUI5ekw5RXAyM21aWkYzaGx3TU9UREx2TmRkUGtGZldGTFU1Z0tBdV9yVjZiNmJINTZlamZRNUZnbW1vR2NONDNLMVZ0bFpTWmx5Vm1NR0dsWDdoQUVXYmthTWxVV2ozbFZtazdDelFFem82RllZcjRmRThjWVlzbzVyYzV3QU9pYg?oc=5",
+    "texto_original": "El PJ echó a las senadoras provinciales Nancy Miranda y Gladys Domínguez\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-333b77a88743",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Totalmente destruida: así quedó la avioneta que cayó en un campo de Ceibas",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUR4YVBMVXBJejVmUzI0ZjFncUw3MnU4aHhVTGJUUlQ2Yjd6Y01WT2syQVp2RDkzY1pPaGpkS1hMMjYyM1RTNlFIMnZvQ3o3VXFIRWxkckNQNVZmby1CTlJCemgwbFBqVHFEbTQzRWNKMHNZZDZjTEJ2TkVwS0l1SjN4bWJ3ZmtWLS1SOVI1dzhkUlN3OGQ5T2I4Z0J6VHMxTmhrbzhQWDU?oc=5",
+    "texto_original": "Totalmente destruida: así quedó la avioneta que cayó en un campo de Ceibas\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-nancy-miranda-y-gladys-dominguez-fueron-expulsadas-del-pj-entrerriano",
+    "fuente": "Bicameral",
+    "titulo": "Nancy Miranda y Gladys Domínguez fueron expulsadas del PJ entrerriano",
+    "fecha": "2026-09-10",
+    "link": "https://www.bicameral.com.ar/nancy-miranda-y-gladys-dominguez-fueron-expulsadas-del-pj-entrerriano/",
+    "texto_original": "El Consejo Provincial del Partido Justicialista (PJ) de Entre Ríos tomó la decisión de expulsar a las senadoras Gladys Domínguez, de Feliciano; y Nancy Miranda, de Federal.\n Las dos legisladoras aguardaban una resolución a los múltiples pedidos de sanción que se habían suscitado tras \n\nsu apoyo el 15 de julio último a la Reforma Previsional\n impulsada por el gobernador Rogelio Frigerio.\n\nLa decisión adoptada por el órgano conductor del peronismo tuvo como base \nel mandato del congreso partidario, que el 13 de junio\n emitió una resolución a través de la cual advirtió que todo legislador que apoyara o se abstuviera -ya sea en el Senado como en Diputados- sería echado del espacio.\n\nTanto Domínguez como Miranda ya habían decidido, cada una a su turno, irse del bloque de Más para Entre Ríos en la Cámara Alta\n. La primera \nlo hizo en 2025\n tras abstenerse a la hora de votar la Ley de Obra Social de Entre Ríos (OSER), mientras que la segunda dio el paso \ntras el apoyo a la norma que modificó el sistema jubilatorio provincial.\n\nCabe destacar que la Carta Orgánica del PJ entrerriano aclara que todas las sanciones podrán ser apeladas ante el Congreso Nacional. Resta saber si las legisladoras, que ya hicieron un descargo oportunamente ante el Tribunal de Disciplina, harán lo propio en un cónclave que reúna a militantes de todo el país.\n\nLa entrada \nNancy Miranda y Gladys Domínguez fueron expulsadas del PJ entrerriano\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:17:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal",
+      "feliciano"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-bff6c77dcd10",
+    "fuente": "AIM Digital",
+    "titulo": "La Municipalidad y el Colegio de Psicólogos de Entre Ríos generan conciencia sobre la prevención del suicidio",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONUNUOFN0aDM5eENMbWk2MzBRQVFZckJGdE0tV0s5NTNxWThYUEdFSVk4YWhNcUZIa0pUVUtEVzBJaWdTcWIwRXY2Y2tFUXF0VTgyOTF1RWZZY3NaeTJJMWdrTW5GSlFCRkZoZlVfUEhDaDFVbmFqeEVjRGFLZkQxUm1VTThFaU5vWnRjWU04M3M0OWVLcVdfUWtMLXd4MFYxR2tZVkZtRGY1dHA0alVMWjROWEhkOUZtZ0NOa2piMThOSVRPNWI0WTZudXNlUlk5bWEwY21BdU43Q3dsbXd6a3Bn?oc=5",
+    "texto_original": "La Municipalidad y el Colegio de Psicólogos de Entre Ríos generan conciencia sobre la prevención del suicidio\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-b5cbee4f68e9",
+    "fuente": "Elentrerios.com",
+    "titulo": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHB2a09YU0RsLU1iSXVzSEZZQkZpTEZtT25jaDl3UXAzRHZ3N2FrM2JBX05mSWNLYlNWTlN3eXQ4eE5RQV9FRFdIS0NzTHg2d0tsdVRLWElQeFViRzhQc29nWXhDU1NWbkVyX01TZWxvS2xoOWUzRE5mQ1VLR25Pc2toMk9ZaTFjZ0ItMDFta1RYVFp6NzdCNUViS2dRQ2I3WVJDRVhzVnItdVFIaW5sQ1dGRExIRFVkdFRKbWhLZHJDUU1yTm9BZ3Nkb9IBwgFBVV95cUxQTHV2ZVJIWG1sMm9MaWRQZnNiS3VyaFE0QkZfbUFzYkhWcXNjbWs0MHZYVmpLRi1qUWVYZ2ZDaFpVcUU2Z3dNUXozSFlrbFZRYWlhN1RrYnF0UGlSc2FpU0dpeUk2c0JaM3JIWVpJVlhtZncyRXpGMy0zVktndWs0QzZaSXRSbW1pak1oUlNja2hlbnlaVDZVdW1hdVRGN3ZralhKWVd3NjQ4c2hKZEdpNG94YmJoX2RmYnJOdGZwRU5mQQ?oc=5",
+    "texto_original": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-una-eleccion-bajo-sospecha-que-en-concordia-revive-las-peores-practicas-de-la-politica",
+    "fuente": "El Heraldo",
+    "titulo": "Circulo de Retirados policiales: una elección bajo sospecha que en Concordia revive las peores prácticas de la política",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/una-eleccion-bajo-sospecha-que-en-concordia-revive-las-peores-practicas-de-la-politica",
+    "texto_original": "De tanto custodiar elecciones, actos partidarios y movilizaciones políticas, algunos policías retirados parecen haber terminado copiando las peores costumbres de quienes durante años debieron vigilar. Padrones incompletos, ventajas para el oficialismo, utilización de recursos institucionales, urnas trasladadas sin controles suficientes, escrutinios controvertidos y autoridades aferradas a sus cargos forman parte de una denuncia que sacude al Círculo de Retirados y Pensionados de la Policía de Entre Ríos.\n\nConcordia merece un capítulo aparte. No solamente por el peso electoral de sus aproximadamente 700 afiliados, sino porque allí se habrían concentrado algunas de las maniobras denunciadas por la Lista 33, opositora a la conducción provincial.\n\nLa historia política concordiense conoce demasiado bien estos procedimientos. Hubo épocas en las que se hablaba del “fraude patriótico”, del vuelco de urnas y de aquellas mesas sin fiscales opositores donde aparecían resultados inverosímiles de 40 votos a 0. Prácticas tristes, pero célebres, que hicieron famosa a la ciudad por razones que nadie debería reivindicar.\n\nDécadas después, las sospechas vuelven a sobrevolar un proceso electoral, esta vez dentro de una institución integrada por hombres y mujeres que durante su vida activa tuvieron la responsabilidad de hacer cumplir la ley.\n\nConcordia, los avales y los créditos bajo sospecha\n\nUno de los primeros cuestionamientos comenzó con el padrón entregado a la oposición, que no contenía los domicilios de los afiliados. La ausencia de esa información dificultó especialmente el contacto con los retirados de las ciudades más grandes, como Paraná, Concordia, Concepción del Uruguay y Gualeguaychú.\n\nMientras la conducción oficialista ya contaba con una estructura armada y conocimiento del territorio, la Lista 33 debió localizar por sus propios medios a los afiliados para conseguir los avales necesarios. Finalmente reunió alrededor de 1.400 firmas, cuando necesitaba 800, pero denunció que la desigualdad condicionó desde el comienzo la competencia.\n\nSegún la presentación opositora, cuando sus representantes llegaron a Concordia encontraron que gran parte de los afiliados ya había firmado avales para la Lista 1, vinculada a la conducción oficialista.\n\nTambién surgieron versiones sobre la entrega de créditos por montos cercanos al millón de pesos, con intereses muy bajos o incluso sin interés, que habrían facilitado la obtención de adhesiones. La acusación reconoce que no cuenta todavía con documentación suficiente para probar que esos préstamos hayan sido concedidos a cambio de avales o votos. Precisamente por eso, el movimiento de fondos, las fechas de otorgamiento y la nómina de beneficiarios deberían ser exhibidos y auditados.\n\nNo alcanza con negar las sospechas. Si los créditos fueron entregados regularmente, con criterios transparentes y sin condicionamientos electorales, la conducción tiene una oportunidad sencilla para demostrarlo: abrir los libros y publicar la información.\n\n¿Qué recursos y qué intereses están en juego?\n\nLa permanencia prolongada de las mismas autoridades, las reelecciones sucesivas y el interés por conservar el control institucional despiertan una pregunta inevitable: ¿qué montos administra el Círculo y qué beneficios económicos, financieros o empresariales están vinculados con su conducción?\n\nLa curiosidad aumenta cuando se afirma que durante la campaña oficialista se utilizaron vehículos pertenecientes al Círculo y recursos económicos de la entidad, es decir, bienes sostenidos por el conjunto de los retirados y pensionados.\n\nLa oposición aseguró que los candidatos oficialistas recorrieron la provincia cinco o seis veces, mientras que la Lista 33 solamente pudo visitar una vez cada departamento. Si se utilizaron fondos comunes para beneficiar electoralmente a una agrupación, no se trataría simplemente de una ventaja política: sería una utilización indebida del patrimonio de todos los asociados.\n\nTambién deberían conocerse los aportes, convenios y apoyos empresariales que recibe la institución. Una entidad que administra dinero de sus afiliados y mantiene relaciones comerciales debe rendir cuentas con mayor claridad todavía cuando sus autoridades buscan perpetuarse en los cargos.\n\nConcordia, por su cantidad de afiliados y por las denuncias formuladas, necesita una explicación propia, detallada y documentada.\n\nUna urna bajo el brazo y una elección repetida en Victoria\n\nVictoria aportó una postal impropia de cualquier elección seria. En la votación del 26 de agosto participaron 153 afiliados. En el plano local, la Lista 33 obtuvo 136 votos y la oficialista solamente 17. Para la conducción provincial, la oposición reunió 85 votos contra 68.\n\nTerminada la elección, la urna fue retirada por el presidente de mesa, quien se la llevó bajo el brazo y la trasladó sin acompañamiento de fiscales opositores ni un mecanismo de resguardo que garantizara su inviolabilidad. Permaneció fuera del control de la oposición hasta el escrutinio definitivo realizado en Paraná.\n\nCuando finalmente se abrió, apareció un acta en la que el número 136 parecía transformado en 186, cifra incompatible con los 153 votantes registrados. Dentro de la urna también se encontraron votos opositores sueltos y una cantidad que no coincidía con el resultado asentado.\n\nAnte semejante desorden, la votación de Victoria fue anulada y debió realizarse nuevamente. En la segunda elección volvió a imponerse la oposición en la filial local, aunque su candidato provincial no logró revertir el resultado general.\n\nMás allá de quién ganó, el episodio resulta alarmante: retirados de una fuerza que conoce perfectamente la importancia de preservar pruebas, documentos y elementos bajo custodia terminaron protagonizando una elección en la que ni siquiera pudieron garantizar adecuadamente el resguardo de una urna.\n\nImpugnaciones en La Paz y Villaguay\n\nLas objeciones también alcanzaron a La Paz y Villaguay. La Lista 33 sostuvo que se permitió competir por un tercer mandato consecutivo a conducciones que ya habían completado dos períodos de cuatro años.\n\nEl juez electoral interpretó que la limitación alcanzaba únicamente a la Comisión Directiva Central. La oposición, en cambio, invocó el artículo 36 del estatuto, que establece para las filiales la misma duración de mandato que para la conducción provincial.\n\nEn La Paz, la Lista 1 se impuso por 102 votos contra 99, una diferencia mínima que podría resultar decisiva en el cómputo provincial. En Villaguay ganó la oposición, aunque también se cuestionó la aparición de 45 votantes que nunca antes habían participado y que, según la denuncia, no pertenecerían a la zona.\n\nUna institución que debe dar explicaciones\n\nLa Lista 33 presentó denuncias ante la Justicia y la Dirección de Personas Jurídicas y solicitó la anulación completa de los comicios. Ahora serán esos organismos los que deberán determinar si existió fraude electoral, incumplimiento del estatuto o utilización irregular de recursos institucionales.\n\nPero aun antes de una resolución formal, la conducción tiene una responsabilidad política y ética: explicar cómo se confeccionó el padrón, quién autorizó el uso de los vehículos, cuánto dinero se destinó a la campaña, qué créditos se entregaron durante el período electoral, quiénes fueron sus beneficiarios y qué aportes empresariales recibió la institución.\n\nLos policías retirados conocen mejor que nadie que una sospecha no equivale a una condena. También saben que cuando existen indicios, contradicciones y documentación cuestionada, corresponde investigar.\n\nDespués de tantos años custodiando elecciones ajenas, deberían poder organizar las propias sin padrones incompletos, urnas errantes, privilegios económicos ni reelecciones discutidas. Si terminaron copiando las peores mañas de la política, será necesario que las autoridades de control actúen para que el Círculo no se transforme en aquello que sus integrantes juraron combatir durante toda una vida.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "comercio",
+      "servicios_publicos",
+      "justicia",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "concordia",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "gualeguay",
+      "la paz",
+      "victoria",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-se-estrenara-en-el-ficer-la-nueva-pelicula-de-la-directora-catalana-meritxell-colell",
+    "fuente": "El Heraldo",
+    "titulo": "Se estrenará en el Ficer la nueva película de la directora catalana Meritxell Colell",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/cultura/se-estrenara-en-el-ficer-la-nueva-pelicula-de-la-directora-catalana-meritxell-colell",
+    "texto_original": "El Festival Internacional de Cine de Entre Ríos (Ficer) es organizado por el Gobierno provincial a través del Instituto Autárquico Audiovisual de Entre Ríos (Iaaer), en conjunto con la Asociación de Realizadores Audiovisuales de Entre Ríos (Araer). Colell es una de las voces más destacadas del cine de autor español. Su ópera prima, Con el viento (2018), se estrenó en la Berlinale y recibió la Biznaga de Plata a Mejor Película Española en el Festival de Málaga. Con Dúo (2023) volvió a ser reconocida en Málaga, esta vez con el premio a Mejor Dirección. Su nueva película, que se podrá ver en el Ficer, llega con un enorme recorrido y ya tuvo su estreno mundial en el Festival de Locarno, donde recibió el Premio Fipresci de la crítica internacional.Merixtell Colell Aparicio nació en Barcelona en 1983. Es una destacada directora de cine, guionista, montadora y docente española. Forma parte de una renombrada generación de cineastas catalanas contemporáneas que han logrado una amplia proyección internacional. Su estilo cinematográfico se caracteriza por una mirada íntima y una profunda exploración del territorio, la memoria, los vínculos afectivos y el exilio.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-la-inflacion-de-agosto-fue-del-17-y-acumulo-335-en-los-ultimos-12-meses",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "La inflación de agosto fue del 1,7% y acumuló 33,5% en los últimos 12 meses",
+    "fecha": "2026-09-10",
+    "link": "https://blancaciudadnoticias.com.ar/la-inflacion-de-agosto-fue-del-17-y-acumulo-335-en-los-ultimos-12-meses/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir\n\nEl Instituto Nacional de Estadística y Censos (INDEC) informó este jueves que la \ninflación de agosto fue del 1,7%\n, por debajo del 2,1% registrado en julio.\n\nCon este resultado, el \nÍndice de Precios al Consumidor (IPC) acumuló una suba del 21,3% en lo que va de 2026\n, mientras que la variación interanual alcanzó el \n33,5%\n.\n\nEl dato representa una desaceleración respecto del mes anterior y marca, según las cifras oficiales, \nel nivel de inflación mensual más bajo de los últimos 14 meses\n.\n\nVivienda y servicios, entre los principales aumentos\n\nA nivel de las divisiones que componen el IPC, el mayor incremento durante agosto correspondió a \nVivienda, agua, electricidad, gas y otros combustibles\n, con una suba del \n2,8%\n.\n\nEn segundo lugar se ubicó \nEducación\n, con un aumento del \n2,5%\n.\n\nTambién se registraron incrementos en distintos servicios regulados. Esta categoría tuvo una variación del \n2,2%\n, impulsada principalmente por aumentos en \nelectricidad, gas, transporte público y gastos de prepagas\n.\n\nLos precios estacionales ayudaron a bajar el índice\n\nEl comportamiento de los precios estacionales fue uno de los factores que contribuyó a que la inflación general se ubicara en 1,7%.\n\nEsta categoría registró una caída del \n0,9%\n, principalmente por la disminución de los precios de \npaquetes turísticos y prendas de vestir\n, aunque hubo aumentos en verduras, tubérculos, legumbres y frutas.\n\nPor su parte, la inflación núcleo, que excluye los componentes más volátiles y permite observar con mayor claridad la tendencia de fondo, fue del \n1,8%\n.\n\nPrendas de vestir y calzado, con caída de precios\n\nEntre las divisiones que tuvieron menores variaciones durante agosto se ubicaron \nRecreación y cultura\n, que no registró cambios, y \nPrendas de vestir y calzado\n, que tuvo una baja del \n0,6%\n.\n\nEn tanto, \nAlimentos y bebidas no alcohólicas\n tuvo una incidencia importante en el resultado mensual de las distintas regiones del país, especialmente por las variaciones registradas en verduras, tubérculos, legumbres, frutas, pan y cereales.\n\nLa mirada de los analistas\n\nDesde Cohen Aliados Financieros señalaron que el dato confirma la continuidad del proceso de desinflación, aunque advirtieron que la inflación núcleo continúa mostrando cierta resistencia.\n\nLa analista de renta fija Justina Gedikian destacó que la mejora del índice general estuvo principalmente vinculada a los precios estacionales, mientras que la inflación núcleo se mantuvo en el \n1,8% mensual\n.\n\nEl resultado de agosto será ahora seguido de cerca por los mercados y por el Gobierno, especialmente por la evolución de los precios regulados y de aquellos componentes que todavía muestran mayor resistencia a la baja.\n\nBCN Noticias\n continuará siguiendo la evolución de los precios y el impacto que los cambios en la inflación tienen sobre el bolsillo de los argentinos.\n\nLa información que muchos se olvidan de decir.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "servicios_publicos",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-afiliarse-o-darse-de-baja-de-un-partido-desde-el-celular-impulsan-nuevo-sistema-digital-en-entre-rios",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Afiliarse o darse de baja de un partido, desde el celular: impulsan nuevo sistema digital en Entre Ríos",
+    "fecha": "2026-09-10",
+    "link": "https://blancaciudadnoticias.com.ar/afiliarse-o-darse-de-baja-de-un-partido-desde-el-celular-impulsan-nuevo-sistema-digital-en-entre-rios/",
+    "texto_original": "La senadora provincial Patricia Díaz (Hacer Futuro), representante del departamento La Paz, presentó un proyecto de ley que propone modernizar el régimen de afiliación y desafiliación a los partidos políticos provinciales y municipales mediante procedimientos digitales.\n\nLa iniciativa contempla la creación del Sistema Provincial de Participación Política Digital, que funcionaría bajo la administración del Tribunal Electoral e integrado a la plataforma Mi Entre Ríos. El sistema permitiría realizar afiliaciones y desafiliaciones, consultar la situación partidaria, presentar documentación y hacer seguimiento de los trámites.\n\nDe acuerdo con la propuesta, toda persona incorporada al padrón electoral provincial tendría derecho a consultar de manera permanente, segura y gratuita su situación individual de afiliación partidaria. La consulta debería informar, entre otros datos, si existe una afiliación vigente, el partido correspondiente y las fechas de alta, baja o modificación cuando consten.\n\nLa información sobre afiliación política sólo podría ser consultada por su titular, previa validación de identidad, y por las autoridades legalmente habilitadas. Se prohíbe su publicación nominal, cesión o utilización para fines incompatibles con los que justificaron su tratamiento.\n\nAfiliación y desafiliación\n\nEl proyecto dispone que la afiliación digital tenga la misma validez jurídica que la realizada en soporte físico, siempre que se garantice la identidad de la persona, su voluntad expresa, la integridad del trámite, fecha cierta y trazabilidad de la operación.\n\nAdemás, establece que ninguna persona pueda ser afiliada, reafiliada o incorporada a un registro partidario sin una manifestación de voluntad previa, expresa, informada y verificable. El sistema deberá contar con mecanismos para prevenir duplicidades y habilitar canales para denunciar afiliaciones apócrifas, erróneas o no consentidas.\n\nEn cuanto a la desafiliación, se prevé que toda persona afiliada pueda presentar su renuncia por medios digitales o mediante atención presencial asistida. La presentación ante el Tribunal Electoral tendrá fecha cierta, generará una constancia inmediata y será comunicada al partido correspondiente.\n\nTambién se contempla el derecho a solicitar la rectificación, actualización, supresión o revisión de la información partidaria mediante un procedimiento breve, gratuito, accesible y trazable.\n\nSeguridad y acceso\n\nLa iniciativa establece que la digitalización no podrá convertirse en una barrera para el ejercicio de los derechos políticos. Por eso, dispone que se mantengan canales presenciales asistidos para quienes no tengan conectividad, dispositivos o conocimientos tecnológicos suficientes, además de soluciones de accesibilidad.\n\nEl sistema deberá contar con medidas de protección de la información, registros de auditoría, gestión de incidentes, copias de respaldo, controles de acceso y evaluaciones periódicas de seguridad.\n\nEl proyecto prevé asimismo la publicación periódica de estadísticas agregadas sobre trámites, tiempos de resolución, afiliaciones y desafiliaciones, sin revelar datos personales ni permitir identificar la pertenencia política individual.\n\nImplementación progresiva\n\nLa propuesta incorpora modificaciones a la ley Nº 5.170 y establece que el Tribunal Electoral deberá reglamentar la nueva normativa dentro de los 180 días posteriores a su promulgación.\n\nLa implementación será progresiva y, dentro de los 24 meses de aprobada la reglamentación, deberían estar disponibles en Mi Entre Ríos, como mínimo, los servicios de consulta individual, afiliación, desafiliación, rectificación, seguimiento de trámites y emisión de constancias. Durante el período de transición se mantendrían los canales físicos y presenciales vigentes.\n\nEn los fundamentos, Díaz sostiene que la propuesta busca que cada entrerriano pueda conocer su situación de afiliación, decidir libremente su pertenencia política y corregir un registro indebido mediante procedimientos digitales seguros, auditables y accesibles.\n\nFuente:\n APFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "servicios_publicos",
+      "legislatura",
+      "justicia",
+      "organos_control",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-crimen-de-sebastian-barreto-hubo-incidentes-durante-el-traslado-de-los-detenidos",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Crimen de Sebastián Barreto: hubo incidentes durante el traslado de los detenidos",
+    "fecha": "2026-09-10",
+    "link": "https://blancaciudadnoticias.com.ar/crimen-de-sebastian-barreto-hubo-incidentes-durante-el-traslado-de-los-detenidos/",
+    "texto_original": "Se registraron incidentes durante el traslado de los detenidos por el homicidio de Sebastián Barreto\n, ocurrido el pasado 15 de julio en Diamante. Los episodios se produjeron este jueves, luego de una movilización encabezada por la madre de la víctima en la \nPlaza San Martín\n.\n\nFamiliares, amigos y vecinos de Sebastián Barreto se concentraron para exigir avances en la investigación, el esclarecimiento del crimen y justicia por el joven de 31 años.\n\nLa movilización se desarrolló en el marco de la causa que continúa bajo intervención de la Fiscalía y que mantiene a \ncinco personas detenidas\n.\n\nTraslado hacia la Unidad Penal de Paraná\n\nLuego de la concentración, se concretó el traslado de los cinco detenidos desde Diamante hacia la \nUnidad Penal de Paraná\n.\n\nDurante el operativo se produjeron \nempujones y momentos de tensión entre algunos manifestantes y efectivos policiales\n, en medio del reclamo de familiares y allegados de Sebastián.\n\nLa situación generó preocupación entre quienes se encontraban en el lugar, mientras se desarrollaba el procedimiento de traslado.\n\nEl reclamo de la familia\n\nLa movilización había comenzado con un fuerte pedido de justicia frente al Juzgado de Diamante. Los familiares reclamaron respuestas y que la investigación avance hasta determinar las responsabilidades correspondientes.\n\nSegún pudo saber \nBCN Noticias\n a través de los familiares, previamente se había mantenido una reunión con los fiscales que intervienen en la causa. En ese encuentro, les informaron que los cinco detenidos serían trasladados a la Unidad Penal de Paraná.\n\nDesde \nBCN Noticias\n seguimos de cerca el desarrollo de la causa y el reclamo de los familiares y amigos de Sebastián Barreto, quienes volvieron a pedir que su muerte no quede en el olvido y que haya justicia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-club-tiro-federal-convocatoria-a-asamblea-general-ordinaria-2",
+    "fuente": "TalCual Chajarí",
+    "titulo": "CLUB TIRO FEDERAL: convocatoria a ASAMBLEA GENERAL ORDINARIA",
+    "fecha": "2026-09-10",
+    "link": "https://www.talcualchajari.com.ar/225868/club-tiro-federal-convocatoria-a-asamblea-general-ordinaria-2/",
+    "texto_original": "Convóquese a los señores Asociados del CLUB TIRO FEDERAL CHAJARI, a la Asamblea General Ordinaria N° 111 que se celebrará el día 07 de octubre de 2026, a la hora 20 (veinte) en el local de la sede social, sito en calle Belgrano S/N de la ciudad de Chajarí, provincia de Entre Ríos, para tratar el siguiente\n\n \n\nOrden del Día:\n\n \n\n1) Consideración de Memoria y Balance General correspondiente al ejercicio económico cerrado el 31 de marzo de 2026\n\n \n\n2) Elección de los miembros de la comisión directiva en reemplazo de los que cesan en sus mandatos.\n\n \n\n3) Elección de dos asambleístas para firmar el acta de la Asamblea junto al presidente y secretario.\n\n \n\nLa asamblea se celebrará el día y la hora fijada siempre que se encuentren presente la mitad más uno de los socios habilitados. Transcurrido una hora de la fijada en la convocatoria, la asamblea se realizará con los socios presentes y sus decisiones serán válidas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "chajarí",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-edicto-judicial-solicitud-de-publicacion-219",
+    "fuente": "TalCual Chajarí",
+    "titulo": "EDICTO JUDICIAL: solicitud de publicación",
+    "fecha": "2026-09-10",
+    "link": "https://www.talcualchajari.com.ar/225866/edicto-judicial-solicitud-de-publicacion-219/",
+    "texto_original": "El Señor Juez a cargo del de la Ciudad de CHAJARI (E.R.), Secretaría a mi cargo, en el expediente caratulado «CROATTINI, HERMENEGILDO RAMON S/ SUCESORIO SIN TESTAMENTAR», Expte. Nº 15894/26, cita y emplaza por el término de treinta (30) días corridos a herederos y acreedores de HERMENEGILDO RAMON CROATTINI, D.N.I. 5.823.085, vecino que fuera de Esc. Provincial N° 6, Villa del Rosario, Departamento Federación (E.R.), fallecido en Chajarí, en fecha 15/03/2024.\n\nPublíquese por un (1) día en el Boletín Oficial y por tres (3) días en un medio periodístico local de amplia circulación.\n\nCHAJARI, 31 de agosto de 2026\n\nFirmado digitalmente Dr. FACUNDO MUNGGI – Secretario",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "federación",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-fm-del-este-aprehendieron-a-un-hombre-luego-de-un-intento-de-asalto-en-chajari",
+    "fuente": "FM del Este 100.5",
+    "titulo": "Aprehendieron a un hombre luego de un intento de asalto en Chajarí",
+    "fecha": "2026-09-10",
+    "link": "https://fmdelestechajari.com.ar/aprehendieron-a-un-hombre-luego-de-un-intento-de-asalto-en-chajari/",
+    "texto_original": "El intento de asalto fue en Av. Padre de Gallay y 1° de Mayo hacia dos mujeres mayores de edad\n\nJEFATURA DEPARTAMENTAL FEDERACIÓN\n\nCRÍA N° 1 CHAJARÍ\n\nEn horas de la tarde del día de la fecha, siendo aproximadamente las 16:00 horas, personal de la Sala de Comando de la Comisaría N° 1 de Chajarí recepcionó un llamado telefónico mediante el cual se ponía en conocimiento el intento de robo perpetrado por un masculino mayor de edad en perjuicio de dos femeninas mayores de edad, hecho acaecido en momentos en que estas últimas circulaban por la intersección de las arterias Av. Padre de Gallay y 1° de Mayo de esta ciudad.\n\nAnte tal situación, se dispuso de manera inmediata la afectación de móviles policiales al lugar del hecho, abocándose el personal interviniente a las tareas tendientes a la ubicación y aprehensión del sujeto sindicado como autor del ilícito. Como resultado de dicho procedimiento, se logró dar con el masculino mayor de edad y proceder a su aprehensión en la intersección de las calles Alejo Peiret y Max Wendler.\n\nSeguidamente, se puso en conocimiento de lo actuado al Sr. Agente Fiscal en turno, quien dispuso la detención del causante y su alojamiento en dependencias de la Cría. N° 1, quedando el mismo a disposición de la Magistratura interviniente.\n\nAprehendieron a un hombre luego de un intento de asalto en Chajarí\n\nMercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual\n\nSirenazo de Bomberos: harán sonar las sirenas para advertir que el sistema está en riesgo\n\nEvaluación Educativa 2026-2030: Las pruebas Aprender de 3° grado se reprogramaron para el 17 y 18 de noviembre\n\nEl Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias\n\n  \n\n    \n\n      \nÚnete a nuestro grupo de Telegram\n\n      \nRecibe las noticias más importantes directamente en tu móvil. Únete y participa con la comunidad.\n\n    \n\n    \n\n      \n\n        \n\n        \n\n          \n\n        \n\n        \nUnirme en Telegram\n\n      \n\n      \nAbre Telegram y únete al grupo: \n@fmdelestechajari\n\n    \n\n  \n\nIr a:\n\n\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\nInicio\n\nDonar\n\nApoyá el periodismo independiente.  Tu colaboración es importante.\n\nTelegram\n\nSeguinos en nuestro canal de Telegram\n\nPodcast\n\nEntrevistas en “El Despertador” \n\nNosotros\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\n\nLa entrada \nAprehendieron a un hombre luego de un intento de asalto en Chajarí\n se publicó primero en \nFM del este 100.5\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "gobierno",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "federación",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-fm-del-este-mercado-pago-demanda-cobrar-intereses-abusivos",
+    "fuente": "FM del Este 100.5",
+    "titulo": "Mercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual",
+    "fecha": "2026-09-10",
+    "link": "https://fmdelestechajari.com.ar/mercado-pago-demanda-cobrar-intereses-abusivos/",
+    "texto_original": "Un eventual fallo favorable podría beneficiar a 7 millones de personas en el país.\n\nBuenos Aires, 10 septiembre (NA) — La plataforma \nMercado Pago fue denunciada por el presunto cobro de intereses abusivos\n, que superan el 1300% anual, y un eventual fallo favorable podría beneficiar a unas 7 millones de personas en la Argentina.\n\nEl expediente, impulsado por el abogado Diego Espasandín, fundador de la Asociación de Consumidores Financieros de la República Argentina (ACFRA), tramita en el Juzgado N° 24 de la Ciudad de Buenos Aires.\n\nDe acuerdo con las mediciones efectuadas por la entidad, \nlas tasas cobradas por la empresa sobrepasan el 1300% anual\n, lo que representa niveles considerados desproporcionados por la organización.\n\nMarcos Galperin, fundador, presidente y director ejecutivo de Mercado Libre Agencia Noticias Argentinas/redes\n\nLa pretensión del colectivo es que los tribunales analicen los montos aplicados \nen los últimos tres años y dispongan la devolución de aquellas sumas que hubieran sido percibidas de forma indebida.\n\nAl respecto, Espasandín señaló en el streaming \nContra Ataque\n que muchos clientes solicitaron financiamiento para resolver contingencias económicas concretas y terminaron asumiendo costos financieros excesivos.\n\nA pesar de haberse originado por dos presentaciones individuales, la estrategia de ACFRA apunta a que una eventual resolución favorable beneficie de manera colectiva a todos los usuarios en idéntica posición, lo que podría alcanzar a unos siete millones de personas en el país.\n\nAgencia NA\n\nAprehendieron a un hombre luego de un intento de asalto en Chajarí\n\nMercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual\n\nSirenazo de Bomberos: harán sonar las sirenas para advertir que el sistema está en riesgo\n\nEvaluación Educativa 2026-2030: Las pruebas Aprender de 3° grado se reprogramaron para el 17 y 18 de noviembre\n\nEl Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias\n\n  \n\n    \n\n      \nÚnete a nuestro grupo de Telegram\n\n      \nRecibe las noticias más importantes directamente en tu móvil. Únete y participa con la comunidad.\n\n    \n\n    \n\n      \n\n        \n\n        \n\n          \n\n        \n\n        \nUnirme en Telegram\n\n      \n\n      \nAbre Telegram y únete al grupo: \n@fmdelestechajari\n\n    \n\n  \n\nIr a:\n\n\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\nInicio\n\nDonar\n\nApoyá el periodismo independiente.  Tu colaboración es importante.\n\nTelegram\n\nSeguinos en nuestro canal de Telegram\n\nPodcast\n\nEntrevistas en “El Despertador” \n\nNosotros\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\n\nLa entrada \nMercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual\n se publicó primero en \nFM del este 100.5\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "servicios_publicos",
+      "gobierno",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-fm-del-este-evaluacion-educativa-2026-2030-las-pruebas-aprender",
+    "fuente": "FM del Este 100.5",
+    "titulo": "Evaluación Educativa 2026-2030: Las pruebas Aprender de 3° grado se reprogramaron para el 17 y 18 de noviembre",
+    "fecha": "2026-09-10",
+    "link": "https://fmdelestechajari.com.ar/evaluacion-educativa-2026-2030-las-pruebas-aprender/",
+    "texto_original": "El operativo de evaluación fue reprogramado debido a la coincidencia de fechas con la visita del Papa León XIV a la Argentina.\n\n La instancia alcanzará a la totalidad de las escuelas primarias de la provincia y evaluará conocimientos y habilidades en Lengua y Matemática.\n\nEn el marco de la Resolución CFE Nº 515/26, correspondiente al Plan Plurianual de Evaluación Educativa 2026-2030, el operativo Aprender Censal de 3° grado 2026 se realizará los días 17 y 18 de noviembre.\n\nLa instancia estará destinada a estudiantes de tercer grado de nivel primario y alcanzará a la totalidad de las escuelas primarias de la jurisdicción. La evaluación estará focalizada en los conocimientos y habilidades vinculados a Lengua y Matemática.\n\nActualmente, la Coordinación de Evaluación e Investigación Educativa del Consejo General de Educación (CGE) trabaja en la logística del operativo y mantiene comunicación con las Direcciones Departamentales de Escuelas, supervisores y equipos directivos para coordinar las acciones correspondientes.\n\nLos operativos censales constituyen una herramienta fundamental del Sistema de Evaluación Nacional, ya que permiten generar evidencia diagnóstica sobre los aprendizajes y las condiciones en las que se enseña y aprende. Esta información contribuye a fortalecer la reflexión pedagógica y la toma de decisiones orientadas a garantizar el derecho a la educación y la equidad educativa.\n\nLa provincia incorporó seis ambulancias y dos motos para reforzar la atención de emergencias en el noreste provincial\n\nAprehendieron a un hombre luego de un intento de asalto en Chajarí\n\nMercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual\n\nSirenazo de Bomberos: harán sonar las sirenas para advertir que el sistema está en riesgo\n\nEvaluación Educativa 2026-2030: Las pruebas Aprender de 3° grado se reprogramaron para el 17 y 18 de noviembre\n\nEl Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias\n\n  \n\n    \n\n      \nÚnete a nuestro grupo de Telegram\n\n      \nRecibe las noticias más importantes directamente en tu móvil. Únete y participa con la comunidad.\n\n    \n\n    \n\n      \n\n        \n\n        \n\n          \n\n        \n\n        \nUnirme en Telegram\n\n      \n\n      \nAbre Telegram y únete al grupo: \n@fmdelestechajari\n\n    \n\n  \n\nIr a:\n\n\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\nInicio\n\nDonar\n\nApoyá el periodismo independiente.  Tu colaboración es importante.\n\nTelegram\n\nSeguinos en nuestro canal de Telegram\n\nPodcast\n\nEntrevistas en “El Despertador” \n\nNosotros\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\n\nLa entrada \nEvaluación Educativa 2026-2030: Las pruebas Aprender de 3° grado se reprogramaron para el 17 y 18 de noviembre\n se publicó primero en \nFM del este 100.5\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "gobierno",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-fm-del-este-la-oposicion-fuerza-al-gobierno-de-milei-a-tratar-en-el-congreso-las-crisis-de-morosidad-familiar-y-de-atencion-a-la-discapacidad",
+    "fuente": "FM del Este 100.5",
+    "titulo": "La oposición fuerza al Gobierno de Milei a tratar en el Congreso las crisis de morosidad familiar y de atención a la discapacidad",
+    "fecha": "2026-09-09",
+    "link": "https://fmdelestechajari.com.ar/la-oposicion-fuerza-al-gobierno-de-milei-a-tratar-en-el-congreso-las-crisis-de-morosidad-familiar-y-de-atencion-a-la-discapacidad/",
+    "texto_original": "Un amplio acuerdo de bloques peronistas, de centro y de izquierda emplaza a las comisiones de la Cámara de Diputados a abordar dos temas que la ultraderecha intentaba bloquear\n\nLos diferentes partidos de oposición a la ultraderecha le torcieron la mano al Gobierno de \nJavier Milei\n en el Congreso. Este miércoles, forzaron una sesión de la Cámara de Diputados y lograron emplazar al oficialismo a comenzar tratar dos problemas que el Ejecutivo niega o minimiza: \nla creciente morosidad de las familias argentinas\n con bancos y billeteras virtuales, así como la emergencia en la atención a personas con discapacidades, una de áreas del Estado más afectadas por la motosierra presidencial.\n\nEl partido de Milei, La Libertad Avanza\n, y sus aliados apostaron a impedir la sesión especial de Diputados. Pero el peronismo, las fuerzas de centro y la izquierda reunieron 135 diputados, sobre un total de 257, y consiguieron quórum para sesionar. Cuando ese pulso quedó resuelto, el oficialismo ultra se sumó al debate.\n\n“La emergencia en discapacidad se ha agravado”, advirtió al inicio del debate el diputado Juan Marino, del bloque peronista Unión por la Patria. El año pasado, para enfrentar los recortes en el área aplicados por Milei, el Congreso aprobó una ley que estableció \nla emergencia en discapacidad\n hasta diciembre de 2026. El presidente vetó la norma, pero el Parlamento la ratificó. Aún así, las familias de personas con discapacidades y los prestadores de servicios denuncian múltiples incumplimientos por parte del Ejecutivo. “El Gobierno prácticamente ha detenido las altas a las pensiones por discapacidad para protección social y ese es el primer incumplimiento a la ley. Según los datos oficiales, desde enero de 2024 se iniciaron 90.791 trámites para dar el alta de la pensión y solamente se resolvieron 10.374”, detalló Marino.\n\nLa oposición intentó primero prorrogar la emergencia un año más, tratando el tema sobre tablas. Para hacerlo, precisaba dos tercios de los votos y no los consiguió: votaron en contra los diputados de LLA, del PRO —el partido del expresidente Mauricio Macri— y aliados de la dividida Unión Cívica Radical (UCR). Luego, los bloques opositores buscaron emplazar a las comisiones de la Cámara a comenzar a tratar, desde la semana que viene, la propuesta de prorrogar la emergencia y alcanzar un dictamen antes de fin de mes. Ya sin necesidad de una mayoría calificada, contaban con voluntades suficientes y hasta los legisladores ultraderechistas terminaron votando a favor, para no exponerse a quedar en franca minoría. Se aprobó con 249 votos.\n\nEl mismo derrotero recorrió el debate por el aumento de la morosidad en deudas personales, uno de los problemas que mayor inquietud social ha generado en los últimos meses. Hay más de 20 millones de argentinos endeudados con bancos, billeteras virtuales, tarjetas de crédito y otras entidades. Más de \nun cuarto de los deudores (26,1%) está en mora\n y el monto de las deudas en situación irregular llega al 17,5% del total prestado, un crecimiento abrupto respecto del 4,2% que se verificaba a fines de 2023, cuando asumió Milei.\n\nHasta ahora, el presidente ha sostenido que se trata de un problema entre privados y que el Estado no debe intervenir. La oposición ha presentado decenas de proyectos para abordar la situación en el Congreso, desde distintas perspectivas, sin que el oficialismo haya admitido la apertura del debate. En la sesión de este miércoles, las bancadas opositoras de Diputados tampoco lograron iniciar la discusión sobre tablas, pero sí emplazar a las comisiones a comenzar el análisis de las propuestas la próxima semana, para acordar un dictamen. La votación, en este caso, se resolvió con 249 diputados a favor y solo uno en contra.\n\n“Los argentinos se endeudan porque sus ingresos no alcanzan para afrontar las necesidades de la vida cotidiana”, alertó el diputado Germán Martínez, presidente del bloque peronista. Pablo Juliano, de la UCR opositora, celebró que el Congreso se ubicara “a la altura de un tema trascendental que acucia y no deja dormir a muchos argentinos”.\n\nLos legisladores de izquierda denunciaron “la hipocresía brutal” del Gobierno, que acompañó las propuestas sobre morosidad y discapacidad después de haber obturado su tratamiento durante meses. “El endeudamiento es un resultado directo de la política de este Gobierno”, dijo la diputada Romina del Plá. “Han dejado salarios y jubilaciones por el piso, han desregulado las tarifas [de los servicios públicos], los precios de los medicamentos y del transporte. Todo eso es lo que lleva a las familias a endeudarse”.\n\nLa Libertad Avanza deberá ahora habilitar en el Congreso dos discusiones que prefería evitar. Al final de la sesión, consumada su derrota, los legisladores oficialistas se conformaban con celebrar que los proyectos sobre morosidad familiar no pasarán por la comisión de presupuesto, por lo que no deberían de implicar una erogación para las arcas públicas, la gran obsesión de Milei.\n\nSobre la firma\n\nJavier Lorca\n / El Pais\n\nAprehendieron a un hombre luego de un intento de asalto en Chajarí\n\nMercado Pago enfrenta una demanda por cobrar intereses de más del 1300% anual\n\nSirenazo de Bomberos: harán sonar las sirenas para advertir que el sistema está en riesgo\n\nEvaluación Educativa 2026-2030: Las pruebas Aprender de 3° grado se reprogramaron para el 17 y 18 de noviembre\n\nEl Gobierno provincial y Bomberos Voluntarios acordaron una agenda de trabajo para fortalecer el sistema de emergencias\n\n  \n\n    \n\n      \nÚnete a nuestro grupo de Telegram\n\n      \nRecibe las noticias más importantes directamente en tu móvil. Únete y participa con la comunidad.\n\n    \n\n    \n\n      \n\n        \n\n        \n\n          \n\n        \n\n        \nUnirme en Telegram\n\n      \n\n      \nAbre Telegram y únete al grupo: \n@fmdelestechajari\n\n    \n\n  \n\nIr a:\n\n\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\nInicio\n\nDonar\n\nApoyá el periodismo independiente.  Tu colaboración es importante.\n\nTelegram\n\nSeguinos en nuestro canal de Telegram\n\nPodcast\n\nEntrevistas en “El Despertador” \n\nNosotros\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\n\t\t\t\t\n\nLa entrada \nLa oposición fuerza al Gobierno de Milei a tratar en el Congreso las crisis de morosidad familiar y de atención a la discapacidad\n se publicó primero en \nFM del este 100.5\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "empleo",
+      "servicios_publicos",
+      "gobierno",
+      "legislatura",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-uno-de-cada-cuatro-hogares-entrerrianos-presenta-algun-deficit-habitacional",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Uno de cada cuatro hogares entrerrianos presenta algún déficit habitacional",
+    "fecha": "2026-09-10",
+    "link": "https://eldiadegualeguay.com/uno-de-cada-cuatro-hogares-entrerrianos-presenta-algun-deficit-habitacional/",
+    "texto_original": "El dato surge de un informe del Observatorio Federal de Acceso a la Vivienda Argentina (Ofava), que es elaborado con información de la Encuesta Permanente de Hogares (EPH) del Indec correspondiente al tercer trimestre de 2025. La principal problemática en la provincia está vinculada al hacinamiento y al deterioro de viviendas existentes.\n\nEl porcentaje se encuentra por debajo del promedio nacional, que alcanza al 40,3% de los hogares. De esta manera, Entre Ríos se ubica entre las jurisdicciones con menor incidencia del déficit habitacional.\n\nSin embargo, el informe muestra que el principal problema provincial no está concentrado en la falta de viviendas nuevas, sino en las condiciones de las unidades existentes.\n\nDel total de hogares entrerrianos relevados, un 5% presenta necesidades vinculadas a una nueva vivienda, mientras que el 20% requiere mejoras edilicias o de infraestructura.\n\nDentro del primer grupo, el 3% de los hogares se encuentra en situación de allegamiento, es decir, familias que comparten una vivienda por falta de espacio propio. Otro 2% presenta un déficit cuantitativo ampliado debido a que reside en zonas expuestas a riesgos ambientales, como áreas inundables o cercanas a basurales.\n\nLa mayor proporción corresponde al déficit cualitativo básico, que alcanza al 17% de los hogares. Allí se incluyen situaciones de hacinamiento crítico, es decir, tres o más personas por cuarto, y viviendas recuperables que necesitan intervenciones como arreglos de techos o pisos.\n\nA esto se suma otro 3% de hogares que requiere mejoras en servicios básicos, principalmente vinculadas al acceso al agua de red, las condiciones del baño o sistemas adecuados de desagüe.\n\nDe acuerdo con estos indicadores, ocho de cada diez soluciones habitacionales necesarias en Entre Ríos están relacionadas con refacciones, ampliaciones o mejoras en los servicios de viviendas ya existentes, antes que con la construcción de nuevas unidades.\n\nMás de 64 mil jóvenes todavía no se emanciparon\n\nEl informe también incorpora la situación de los jóvenes de entre 25 y 35 años que continúan viviendo en el hogar de origen, una variable que permite observar una demanda habitacional que podría crecer en los próximos años.\n\nEn Entre Ríos hay 191.088 personas dentro de esa franja etaria. De ese total, 126.658 jóvenes (66%) lograron emanciparse, mientras que 64.430 (34%) todavía no lo hicieron.\n\nEl dato adquiere mayor relevancia al observar las condiciones habitacionales de quienes permanecen en sus hogares de origen.\n\nSegún el informe, 39.238 jóvenes no se emanciparon y además viven en hogares que presentan algún tipo de déficit habitacional. Por otra parte, 25.192 jóvenes, equivalentes al 13% del total, tampoco se independizaron, aunque actualmente viven en viviendas que no presentan privaciones materiales.\n\nEl Ofava considera a este último grupo como una demanda habitacional latente, ya que podría incorporarse al mercado inmobiliario o requerir acceso al crédito para vivienda en los próximos años.\n\nFuente: APFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "construccion",
+      "inmobiliario",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-amplian-el-sistema-de-monitoreo-hidrico-con-cuatro-nuevos-sensores",
+    "fuente": "El Día Online",
+    "titulo": "Amplían el sistema de monitoreo hídrico con cuatro nuevos sensores",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/amplian-el-sistema-de-monitoreo-hidrico-con-cuatro-nuevos-sensores",
+    "texto_original": "Este jueves al mediodía, en el Salón Azul, el intendente Mauricio Davico y el director general de Hidráulica y Obras Sanitarias de Entre Ríos, Oscar Pintos, firmaron un convenio que permitirá incorporar cuatro nuevos sensores al Sistema de Alerta Temprana de la cuenca. Del encuentro también participaron el secretario de Gobierno, Manuel Olalde; el subsecretario de Protección Civil e Inspección General, Nicolás Bozzani; la subsecretaria de Ambiente y Seguridad Alimentaria, Ivana Zecca, y representantes de ONG vinculadas al cuidado del río.\n\n“Este sistema de alertas tempranas nos permite, aguas arriba, saber cuál es la cantidad de agua que vamos a recibir y, en relación a eso, poder tomar decisiones concretas para prevenir”, explicó el intendente Davico.\n\n \n\nLos nuevos equipos serán instalados en Las Piedras, Puente El Cinto, la toma de agua y el arroyo Gualeyán. De esta forma, se sumarán puntos de observación en distintos sectores de la cuenca y se ampliará la cobertura de monitoreo. Además, los dispositivos podrán funcionar como respaldo ante eventuales fallas de los sensores que ya se encuentran operativos.\n\nDe acuerdo con el convenio, los datos generados por los nuevos equipos serán recibidos por la Dirección de Defensa Civil de Gualeguaychú, que tendrá a su cargo el seguimiento y la integración de la información al esquema local de prevención. Los registros permitirán contar con datos más continuos y oportunos sobre las variaciones en los niveles de agua y contribuirán a evaluar posibles escenarios de riesgo.\n\nLos datos obtenidos tendrán carácter de información hidrológica de interés público y serán incorporados al sistema de monitoreo existente.\n\n \n\nTrabajo articulado entre Provincia y Gualeguaychú\n\nEl acuerdo establece una distribución de responsabilidades entre ambos gobiernos. La Provincia aportará el equipamiento y la asistencia técnica especializada, mientras que Gualeguaychú tendrá a su cargo la infraestructura necesaria para la instalación, la operación de los dispositivos y el seguimiento permanente de la información.\n\nLa Dirección General de Hidráulica y Obras Sanitarias entregará cuatro medidores de nivel con tecnología ultrasónica, junto con paneles solares, baterías y los componentes necesarios para su funcionamiento y transmisión de datos. También brindará asesoramiento para la instalación y configuración de los equipos, su incorporación a la red existente y la capacitación del personal responsable de su operación.\n\nUna vez recibidos los sensores, está previsto iniciar su instalación en un plazo aproximado de entre 10 y 15 días. Gualeguaychú realizará las obras y adecuaciones necesarias en cada uno de los puntos y tendrá la responsabilidad de garantizar la conectividad, conservación y mantenimiento de los equipos una vez que entren en funcionamiento.\n\nLa incorporación de estos cuatro nuevos puntos de medición forma parte de las acciones preventivas que llevan adelante la Provincia y Gualeguaychú ante los posibles efectos del fenómeno climático El Niño. La ampliación de la red permitirá reforzar el monitoreo y la capacidad de anticipación y respuesta ante eventuales crecidas y otras situaciones de riesgo hídrico.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "infraestructura_obra_publica",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-frigerio-habia-que-terminar-con-el-privilegio-de-cobrar-una-pension-de-por-vida-por-gobernar-cuatro-anos",
+    "fuente": "El Día Online",
+    "titulo": "Frigerio: “Había que terminar con el privilegio de cobrar una pensión de por vida por gobernar cuatro años”",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/frigerio-habia-que-terminar-con-el-privilegio-de-cobrar-una-pension-de-por-vida-por-gobernar-cuatro-anos",
+    "texto_original": "El gobernador de Entre Ríos destacó la eliminación de las pensiones vitalicias para gobernadores y vicegobernadores, se refirió al debate sobre las PASO y explicó las gestiones que permitieron relocalizar la planta de hidrógeno verde proyectada en Uruguay.\n\nDurante una entrevista con Eduardo Feinmann, el gobernador Rogelio Frigerio repasó algunas de las principales decisiones impulsadas por su gestión y planteó la necesidad de que la política vuelva a escuchar a la ciudadanía.\n\nEn relación con la eliminación de las pensiones vitalicias para gobernadores y vicegobernadores, recordó que fue un compromiso de campaña y que la medida forma parte de la reforma previsional aprobada recientemente.\n\n“Yo entendía que había que empezar por casa, que había que empezar por eliminar primero los privilegios de los políticos. Entendía que las pensiones vitalicias eran un privilegio por estar cuatro años gobernando”, afirmó.\n\n“Por lo menos para mí, no correspondía cobrar toda la vida una pensión. Y así lo hicimos. Simplemente eso: cumplir con la palabra”, agregó.\n\nFrigerio también destacó el acompañamiento de la vicegobernadora Alicia Aluani a la decisión que puso fin a un régimen vigente desde hacía más de 60 años.\n\n“La política tiene que escuchar a la gente”\n\nConsultado sobre las PASO, Frigerio sostuvo que el debate debe partir de la necesidad de recuperar la confianza de la ciudadanía. “Yo no creo que las PASO sean malas. Lo que creo es que la política tiene que escuchar a la gente”, afirmó.\n\nEn ese sentido, cuestionó que los ciudadanos deban afrontar hasta cinco instancias electorales en un mismo año, mientras la participación viene disminuyendo. “Los políticos se vuelven cada vez más endogámicos y piensan en sus intereses y no en lo que está pensando la gente”, sostuvo.\n\nRelocalización de la planta de hidrógeno\n\nPor otra parte, Frigerio destacó el trabajo realizado junto con la Cancillería argentina y las autoridades uruguayas para lograr la relocalización de la planta de hidrógeno verde proyectada frente a las costas de Entre Ríos.\n\n“Estábamos cerca de tener otro caso Botnia”, afirmó, y recordó que decidió plantear personalmente el tema ante el presidente de Uruguay para evitar un nuevo conflicto entre dos pueblos hermanos.\n\n“Creo que primó el sentido común y el trabajo diplomático”, sostuvo el gobernador, quien remarcó que la provincia decidió priorizar el diálogo antes que judicializar el proyecto.\n\n“Nosotros decidimos no judicializar esto en un primer momento, sino apostar al diálogo con un país hermano y, sobre todo, hermano de Entre Ríos”, concluyó",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-uno-de-cada-cuatro-hogares-entrerrianos-presenta-algun-deficit-habitacional",
+    "fuente": "El Día Online",
+    "titulo": "Uno de cada cuatro hogares entrerrianos presenta algún déficit habitacional",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/uno-de-cada-cuatro-hogares-entrerrianos-presenta-algun-deficit-habitacional",
+    "texto_original": "El dato surge de un informe del Observatorio Federal de Acceso a la Vivienda Argentina (Ofava), que es elaborado con información de la Encuesta Permanente de Hogares (EPH) del Indec correspondiente al tercer trimestre de 2025. La principal problemática en la provincia está vinculada al hacinamiento y al deterioro de viviendas existentes.El porcentaje se encuentra por debajo del promedio nacional, que alcanza al 40,3% de los hogares. De esta manera, Entre Ríos se ubica entre las jurisdicciones con menor incidencia del déficit habitacional.\n\nSin embargo, el informe muestra que el principal problema provincial no está concentrado en la falta de viviendas nuevas, sino en las condiciones de las unidades existentes.\n\nDel total de hogares entrerrianos relevados, un 5% presenta necesidades vinculadas a una nueva vivienda, mientras que el 20% requiere mejoras edilicias o de infraestructura.\n\nDentro del primer grupo, el 3% de los hogares se encuentra en situación de allegamiento, es decir, familias que comparten una vivienda por falta de espacio propio. Otro 2% presenta un déficit cuantitativo ampliado debido a que reside en zonas expuestas a riesgos ambientales, como áreas inundables o cercanas a basurales.\n\nLa mayor proporción corresponde al déficit cualitativo básico, que alcanza al 17% de los hogares. Allí se incluyen situaciones de hacinamiento crítico, es decir, tres o más personas por cuarto, y viviendas recuperables que necesitan intervenciones como arreglos de techos o pisos.\n\nA esto se suma otro 3% de hogares que requiere mejoras en servicios básicos, principalmente vinculadas al acceso al agua de red, las condiciones del baño o sistemas adecuados de desagüe.\n\nDe acuerdo con estos indicadores, ocho de cada diez soluciones habitacionales necesarias en Entre Ríos están relacionadas con refacciones, ampliaciones o mejoras en los servicios de viviendas ya existentes, antes que con la construcción de nuevas unidades.\n\nMás de 64 mil jóvenes todavía no se emanciparon\n\nEl informe también incorpora la situación de los jóvenes de entre 25 y 35 años que continúan viviendo en el hogar de origen, una variable que permite observar una demanda habitacional que podría crecer en los próximos años.\n\nEn Entre Ríos hay 191.088 personas dentro de esa franja etaria. De ese total, 126.658 jóvenes (66%) lograron emanciparse, mientras que 64.430 (34%) todavía no lo hicieron.\n\nEl dato adquiere mayor relevancia al observar las condiciones habitacionales de quienes permanecen en sus hogares de origen.\n\nSegún el informe, 39.238 jóvenes no se emanciparon y además viven en hogares que presentan algún tipo de déficit habitacional. Por otra parte, 25.192 jóvenes, equivalentes al 13% del total, tampoco se independizaron, aunque actualmente viven en viviendas que no presentan privaciones materiales.\n\nEl Ofava considera a este último grupo como una demanda habitacional latente, ya que podría incorporarse al mercado inmobiliario o requerir acceso al crédito para vivienda en los próximos años.\n\nFuente: APFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "construccion",
+      "inmobiliario",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-jovenes-artistas-de-la-ciudad-seran-parte-de-una-nueva-edicion-del-certamen-becario-en-escena",
+    "fuente": "El Día Online",
+    "titulo": "Jóvenes artistas de la ciudad serán parte de una nueva edición del certamen Becario en Escena",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/jovenes-artistas-de-la-ciudad-seran-parte-de-una-nueva-edicion-del-certamen-becario-en-escena",
+    "texto_original": "El Gobierno de Entre Ríos, mediante el Instituto Autárquico Becario Provincial y en articulación con la Dirección de Cultura de la Municipalidad de Gualeguaychú, llevará a cabo este viernes, 11 de septiembre, la instancia local del programa Becario en Escena. La actividad tendrá como escenario el Teatro del Puerto y reunirá a niños y jóvenes de entre 6 y 25 años.\n\nDurante el encuentro, 40 artistas locales expondrán sus producciones en las disciplinas de música y danza a través de 29 presentaciones individuales y grupales. Serán parte de las mismas: Rodríguez, Selena Elizabeth; Fiorotto, Lorenzo Gael; Astorga, Tahiel; Astorga Pehuén; Astorga, Manuel; Pradal, Catalina; Zerbini Marín, Sofia; Broggi, Ornella; Casse, Renata; Albornoz, Martina; Enrique Gomez, Alma Berenice; Jurado, Catalina; Orcellet Impini, Luna; Frades, Huilen; Castellano Navas, Bautista; Chesini, Nicolas; Freri, Pilar; Senestrari, Nahiara; Cigliutti, Ana; Benedetti, Katalina; Claria, Kiara Agustina; Cedres, Guadalupe; Cepeda, Zoe; Modernel Navarro, Lola; De La Cruz, Guadalupe; Procura, Estefania; Strasser, Ernestina; Martínez, Martina; Zanetti, Emilia; Diaz, Delfina; Di Lorenzo, Veronesi Francesca; Di Lorenzo Veronesi, Federica; Britez Pombo, Constanza; Boari, Milo; Vera, Ailen Quimey; Aragón, Natasha; Jara, Clara; Cepeda, Francesca Jazmin; Hernan, Delfina Magali; Carrizo, María Camila y Casenave, Ana Clara.\n\nUn jurado evaluará la técnica, la interpretación y la creatividad de cada propuesta. En esta edición, el certamen otorgará cuatro becas de 720.000 pesos y tres menciones especiales de 360.000 pesos, recursos destinados a financiar los estudios y la capacitación técnica de las trayectorias seleccionadas.\n\nCronograma de actividades\n\n- 13 h: Recepción y acreditación de los participantes.\n\n- 14 h: Apertura oficial del certamen.\n\n- 14:20 h: Primera etapa del concurso.\n\n- 16:10 h: Intervalo.\n\n- 16:30h: Segunda etapa de presentaciones en escena.\n\n- 18 h: Finalización de los números artísticos y deliberación del jurado.\n\n- 18:10 h: Acto institucional y entrega de distinciones.\n\n- 18:30 h: Cierre de la jornada.\n\nDesde la Dirección de Cultura convocaron a la comunidad, familiares y vecinos a presenciar las jornadas artísticas de acceso libre y gratuito en las instalaciones del Teatro del Puerto.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=frigerio-habia-que-terminar-con-el-privilegio-de-cobrar-una-pension-de-por-vida-por-gobernar-cuatro-anos",
+    "fuente": "La Prensa Federal",
+    "titulo": "Frigerio: “Había que terminar con el privilegio de cobrar una pensión de por vida por gobernar cuatro años”",
+    "fecha": "2026-09-10",
+    "link": "https://www.laprensafederal.com.ar/frigerio-habia-que-terminar-con-el-privilegio-de-cobrar-una-pension-de-por-vida-por-gobernar-cuatro-anos/?utm_source=rss&utm_medium=rss&utm_campaign=frigerio-habia-que-terminar-con-el-privilegio-de-cobrar-una-pension-de-por-vida-por-gobernar-cuatro-anos",
+    "texto_original": "El gobernador de Entre Ríos destacó la eliminación de las pensiones vitalicias para gobernadores y vicegobernadores, se refirió al debate sobre las PASO y explicó las gestiones que permitieron relocalizar la planta de hidrógeno verde proyectada en Uruguay.\n\nDurante una entrevista con Eduardo Feinmann, el gobernador Rogelio Frigerio repasó algunas de las principales decisiones impulsadas por su gestión y planteó la necesidad de que la política vuelva a escuchar a la ciudadanía.\n\nEn relación con la eliminación de las pensiones vitalicias para gobernadores y vicegobernadores, recordó que fue un compromiso de campaña y que la medida forma parte de la reforma previsional aprobada recientemente.\n\n“Yo entendía que había que empezar por casa, que había que empezar por eliminar primero los privilegios de los políticos. Entendía que las pensiones vitalicias eran un privilegio por estar cuatro años gobernando”, afirmó.\n\n“Por lo menos para mí, no correspondía cobrar toda la vida una pensión. Y así lo hicimos. Simplemente eso: cumplir con la palabra”, agregó.\n\nFrigerio también destacó el acompañamiento de la vicegobernadora Alicia Aluani a la decisión que puso fin a un régimen vigente desde hacía más de 60 años.\n\n“La política tiene que escuchar a la gente”\n\nConsultado sobre las PASO, Frigerio sostuvo que el debate debe partir de la necesidad de recuperar la confianza de la ciudadanía. “Yo no creo que las PASO sean malas. Lo que creo es que la política tiene que escuchar a la gente”, afirmó.\n\nEn ese sentido, cuestionó que los ciudadanos deban afrontar hasta cinco instancias electorales en un mismo año, mientras la participación viene disminuyendo. “Los políticos se vuelven cada vez más endogámicos y piensan en sus intereses y no en lo que está pensando la gente”, sostuvo.\n\nRelocalización de la planta de hidrógeno\n\nPor otra parte, Frigerio destacó el trabajo realizado junto con la Cancillería argentina y las autoridades uruguayas para lograr la relocalización de la planta de hidrógeno verde proyectada frente a las costas de Entre Ríos.\n\n“Estábamos cerca de tener otro caso Botnia”, afirmó, y recordó que decidió plantear personalmente el tema ante el presidente de Uruguay para evitar un nuevo conflicto entre dos pueblos hermanos.\n\n“Creo que primó el sentido común y el trabajo diplomático”, sostuvo el gobernador, quien remarcó que la provincia decidió priorizar el diálogo antes que judicializar el proyecto.\n\n“Nosotros decidimos no judicializar esto en un primer momento, sino apostar al diálogo con un país hermano y, sobre todo, hermano de Entre Ríos”, concluyó.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-dia-mundial-para-la-prevencion-del-suicidio",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "DÍA MUNDIAL PARA LA PREVENCIÓN DEL SUICIDIO",
+    "fecha": "2026-09-10",
+    "link": "https://diariovictoria.com.ar/dia-mundial-para-la-prevencion-del-suicidio/",
+    "texto_original": "El suicidio constituye un problema de salud pública que puede afectar a cualquier persona, en cualquier etapa de la vida. Está vinculado al sufrimiento, por lo que no responde a una única causa.\n\nSu prevención requiere del compromiso de todos: del sistema de salud, de las escuelas, de las familias, de los medios de comunicación y de la comunidad en su conjunto.\n\nSi vos o alguien que conocés está atravesando un momento difícil, pedí ayuda.\n\nLlamá al 135. Es una línea gratuita, confidencial y disponible las 24 horas.\n\nSegún se informa desde el Ministerio de Salud de la Provincia de Entre Ríos (https://portal.entrerios.gov.ar/suicidio/), la mayoría de las personas que están atravesando situaciones que les generan sufrimiento dan algún tipo de señal. Son manifestaciones que aparecen de forma repentina, irrumpen en la cotidianeidad de esa persona y nos dicen que algo le está pasando: no necesariamente que está pensando en suicidarse, sino que está sufriendo y puede necesitar ayuda.\n\nEstas son algunas señales a las que hay que prestar atención:\n\n* Dolores físicos frecuentes (de cabeza, panza, etc.) sin causa médica clara.\n\n* Cambios bruscos de conducta o estado de ánimo.\n\n* Irritabilidad o impulsividad.\n\n* Aislamiento.\n\n* Tristeza constante, llanto incontenible.\n\n* Bajo rendimiento en la escuela o actividades.\n\n* Consumo excesivo de alcohol o drogas.\n\n* Comportamientos autodestructivos.\n\n* Frases o amenazas relacionadas con el suicidio.\n\nSi notás algo de esto en alguien cercano, no lo ignores. Preguntá, acompañá y buscá ayuda.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "comercio",
+      "educacion",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-parque-solar-de-parana-avanza-la-obra-y-se-acerca-su-puesta-en-marcha",
+    "fuente": "Paralelo32",
+    "titulo": "Parque Solar de Paraná: avanza la obra y se acerca su puesta en marcha",
+    "fecha": "2026-09-10",
+    "link": "https://www.paralelo32.com.ar/parque-solar-de-parana-avanza-la-obra-y-se-acerca-su-puesta-en-marcha",
+    "texto_original": "El Parque Solar Fotovoltaico de Paraná avanza hacia su puesta en funcionamiento. La obra, financiada íntegramente con fondos municipales, atraviesa una etapa de configuración, verificación y prueba de los distintos sistemas y equipos que permitirán comenzar a generar energía.\n\nEl proyecto se desarrolla sobre un predio de ocho hectáreas, ubicado al sur del Parque Industrial General Belgrano, donde se instalaron 10.400 paneles solares bifaciales.\n\nMientras se completan las tareas técnicas, también se realizan trabajos de nivelación y perfilado de las calles del predio, además de terminaciones en la sala de control y conexiones vinculadas con la iluminación.\nQué trabajos se realizan en esta etapa\nActualmente, los equipos técnicos trabajan en la configuración y verificación del sistema de monitoreo y control del parque.\n\nLa revisión comprende distintos componentes de la instalación, entre ellos:\nCentro de transformación compacto.Celdas.Inversores.Tableros.Strings, que son las conexiones que agrupan los paneles solares.\nAdemás, ya fue instalado un sistema inteligente de monitoreo y comunicación, que permitirá conocer el nivel de captación de energía de los paneles y calcular su rendimiento.\n\nEn paralelo, continúan las tareas de perfilado y nivelación de las calles públicas e internas, junto con trabajos de terminación en la sala de control y la conexión del alumbrado público y del tablero de iluminación general.\nUna inversión municipal que busca generar ahorro\nEl jefe de Gabinete de Paraná, Santiago Halle, señaló que el proyecto se encuentra en su última etapa.\n\n“Estamos ultimando los detalles para poner en funcionamiento el parque solar, que cuenta con 10.400 paneles y va a comenzar a producir energía limpia para la ciudad”.\n\nEl funcionario destacó además la magnitud de la inversión y estimó que, de acuerdo con la generación prevista, el Municipio podría recuperar el desembolso en un período de entre ocho y diez años.\nLa energía generada equivaldrá al alumbrado público LED\nEl Parque Solar está compuesto por 10.400 paneles solares bifaciales, instalados con una inclinación de 30 grados para favorecer su rendimiento durante todo el año.\n\nLa generación prevista será equivalente al consumo del alumbrado público LED de toda Paraná, lo que permitirá reducir el gasto municipal destinado a ese servicio.\n\nEl secretario de Planificación e Infraestructura, Eduardo Loréfice, destacó que se trata de una obra financiada completamente con recursos municipales.\n\n“Esta obra está financiada 100% con fondos municipales y va a significar un ahorro importantísimo de dinero para el Municipio. El Parque Fotovoltaico producirá energía sustentable y limpia, y generará lo equivalente al alumbrado público LED de toda la ciudad”, sostuvo.\nTambién tendrá un espacio educativo\nEl proyecto contempla además una sala de interpretación, pensada como un espacio para acercar el funcionamiento del parque a la comunidad.\n\nSegún explicó Halle, el objetivo es que los vecinos puedan conocer la infraestructura y que las escuelas de Paraná puedan realizar visitas para aprender sobre generación de energía renovable.\n\nEl funcionario también señaló que se tratará de uno de los parques de mayor escala de la región administrado por equipos técnicos y profesionales municipales.\nUna obra que se retomó en 2025\nEl proyecto había sido licitado en 2023, pero posteriormente debió ser neutralizado debido a la situación económica nacional.\n\nA comienzos de 2025, la Municipalidad de Paraná retomó los trabajos y continuó con la inversión necesaria para completar las distintas etapas de la obra.\n\nLa iniciativa busca incorporar generación propia de energía renovable a la infraestructura municipal y avanzar en una política vinculada con la sustentabilidad.\nEl próximo paso: las pruebas integrales\nCon la configuración y revisión de los equipos en marcha, el siguiente paso será realizar los testeos integrales de la instalación, antes de avanzar hacia la puesta en funcionamiento definitiva.\n\nDe concretarse según lo previsto, el parque permitirá a Paraná contar con infraestructura propia para generar energía limpia a gran escala y producir un volumen equivalente al consumo del alumbrado público LED de la ciudad.\n\nLa obra combina así tres objetivos: generación de energía renovable, reducción de gastos municipales y desarrollo de infraestructura sustentable, con un proyecto que además busca incorporar una dimensión educativa para acercar la tecnología y las energías renovables a la comunidad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T23:18:32Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "empleo",
+      "comercio",
+      "municipios",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
   }
 ]
