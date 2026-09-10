@@ -667,8 +667,8 @@
     "imagen_url": "",
     "estado": "a_publicar",
     "agregado_el": "2026-09-06T22:37:20Z",
-    "procesado_el": null,
-    "wp_edit_url": null,
+    "procesado_el": "2026-09-10T00:00:00Z",
+    "wp_edit_url": "https://maroon-seahorse-965853.hostingersite.com/wp-admin/post.php?post=84&action=edit",
     "motivo_descarte": null,
     "prioridad": "alta"
   },
