@@ -43,6 +43,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feed_utils import parsear_feed_con_reintentos  # noqa: E402
+from filtro_contenido_empresas import clasificar_no_editorial  # noqa: E402
 from monitorear_gobierno_er import cargar_backlog, guardar_backlog, limpiar_html  # noqa: E402
 from monitorear_senado_er import slug_de_link  # noqa: E402
 
@@ -60,13 +61,15 @@ def slugificar(nombre: str) -> str:
 def cargar_fuentes() -> list[dict]:
     with open(CAMARAS_PATH, encoding="utf-8") as f:
         camaras = json.load(f)
-    fuentes = [{"id": c["id"], "nombre": c["nombre"], "rss": c["rss"]} for c in camaras]
+    fuentes = [{"id": c["id"], "nombre": c["nombre"], "rss": c["rss"], "es_camara": True} for c in camaras]
 
     with open(EMPRESAS_PATH, encoding="utf-8") as f:
         empresas = json.load(f)
     for e in empresas:
         if e.get("rss"):
-            fuentes.append({"id": slugificar(e["nombre"]), "nombre": e["nombre"], "rss": e["rss"]})
+            fuentes.append(
+                {"id": slugificar(e["nombre"]), "nombre": e["nombre"], "rss": e["rss"], "es_camara": False}
+            )
 
     return fuentes
 
@@ -96,12 +99,14 @@ def obtener_items(fuente: dict) -> list[dict]:
                 "fecha": fecha,
                 "link": link,
                 "texto": limpiar_html(cuerpo_html),
+                "es_camara": fuente["es_camara"],
             }
         )
     return items
 
 
 def item_backlog(item: dict) -> dict:
+    motivo = clasificar_no_editorial(item["titulo"], item["texto"], item["link"], es_camara=item["es_camara"])
     return {
         "id": item["id"],
         "fuente": item["fuente"],
@@ -110,11 +115,11 @@ def item_backlog(item: dict) -> dict:
         "link": item["link"],
         "texto_original": item["texto"],
         "imagen_url": "",
-        "estado": "pendiente",
+        "estado": "descartado" if motivo else "pendiente",
         "agregado_el": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "procesado_el": None,
         "wp_edit_url": None,
-        "motivo_descarte": None,
+        "motivo_descarte": motivo,
     }
 
 
@@ -149,10 +154,19 @@ def main() -> None:
         return
 
     if nuevos:
+        pendientes = [item for item in nuevos if item["estado"] == "pendiente"]
+        descartados = [item for item in nuevos if item["estado"] == "descartado"]
         print(f"\nAgregados {len(nuevos)} item(s) nuevo(s) (macro-pestaña 'Empresas'):")
         for item in nuevos:
-            print(f"  - [{item['id']}] {item['fuente']}: {item['titulo']}")
-        print("\nQuedaron en estado 'pendiente' -- revisalos en admin/index.html.")
+            marca = " [auto-descartado]" if item["estado"] == "descartado" else ""
+            print(f"  - [{item['id']}] {item['fuente']}: {item['titulo']}{marca}")
+        print(f"\n{len(pendientes)} quedaron en 'pendiente' -- revisalos en admin/index.html.")
+        if descartados:
+            print(
+                f"{len(descartados)} se descartaron automaticamente (filtro de contenido no editorial "
+                "-- ver pipeline/filtro_contenido_empresas.py): recetas, avisos laborales o fichas de "
+                "producto/servicio sin hecho noticioso."
+            )
 
     if fallidas:
         print(f"\nFuentes que fallaron esta corrida ({len(fallidas)}): {', '.join(fallidas)}")
