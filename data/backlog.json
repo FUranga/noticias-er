@@ -14031,7 +14031,7 @@
     "link": "https://datos.entrerios.gov.ar/dataset/programa-de-despapelizacion",
     "texto_original": "Este conjunto de datos proporciona información sobre el Programa de despapelización implementado en diversas reparticiones públicas, con el objetivo de reducir el uso de papel en la administración pública y promover la digitalización de documentos. Incluye datos  desde el 2019 hasta el 2024, detallando cantidad de papel recolectado (en kilogramos) para su reciclaje o eliminación segura, dependencias gubernamentales en las que se llevó a cabo la recolección y fechas de recolección.\n\nOrganización responsable: Secretaría de Modernización.\n\nIncluye 2 recurso(s) descargable(s).",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T02:51:33Z",
     "procesado_el": null,
     "wp_edit_url": null,
