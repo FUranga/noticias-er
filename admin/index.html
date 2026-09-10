@@ -239,8 +239,17 @@ function setStatus(msg, kind) {
 
 async function ghGetPath(path) {
   const c = cfg();
-  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${path}?ref=${encodeURIComponent(c.branch)}`;
+  // cache: 'no-store' + un parametro que cambia en cada llamada: la API de
+  // Contents de GitHub devuelve Cache-Control con max-age, y el navegador
+  // puede servir el sha viejo desde su cache HTTP en vez de pedirlo de
+  // nuevo -- eso hacia que hasta los reintentos de guardarConReintento
+  // siguieran viendo el mismo sha desactualizado las 3 veces (confirmado
+  // 2026-09-10, tres 409 seguidos pese al reintento). El query param
+  // ademas evita que quede una entrada de cache reutilizable para la
+  // proxima vez.
+  const url = `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${path}?ref=${encodeURIComponent(c.branch)}&_=${Date.now()}`;
   const res = await fetch(url, {
+    cache: 'no-store',
     headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json' },
   });
   if (!res.ok) throw new Error(`GET ${res.status}: ${await res.text()}`);
@@ -248,8 +257,11 @@ async function ghGetPath(path) {
   let b64 = data.content;
   if (!b64) {
     // La API de Contents no incluye el contenido para archivos > 1MB; hay que pedirlo via la API de blobs.
+    // Este fetch si es seguro de cachear (un blob es inmutable para un sha dado), pero se lo deja igual
+    // sin cache para no complicar el diagnostico si vuelve a aparecer un problema de este tipo.
     const blobUrl = `https://api.github.com/repos/${c.owner}/${c.repo}/git/blobs/${data.sha}`;
     const blobRes = await fetch(blobUrl, {
+      cache: 'no-store',
       headers: { Authorization: `Bearer ${c.token}`, Accept: 'application/vnd.github+json' },
     });
     if (!blobRes.ok) throw new Error(`GET blob ${blobRes.status}: ${await blobRes.text()}`);
