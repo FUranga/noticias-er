@@ -45,7 +45,7 @@ import requests
 from pypdf import PdfReader
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from monitorear_gobierno_er import cargar_backlog, guardar_backlog  # noqa: E402
+from monitorear_gobierno_er import cargar_backlog, cargar_ids_archivados, guardar_backlog  # noqa: E402
 
 INDICE_URL = "https://testing54.entrerios.gov.ar/boletin/factura/inicio/get_buscador"
 PDF_URL_TPL = "https://www.entrerios.gov.ar/boletin/calendario/Boletin/{anio}/{mes}/{dd_mm_aa}.pdf"
@@ -433,7 +433,7 @@ def main() -> None:
         return
 
     backlog = cargar_backlog()
-    ids_existentes = {item.get("id") for item in backlog}
+    ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
     total_nuevos = []
 
     for edicion in pendientes:

@@ -31,7 +31,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feed_utils import parsear_feed_con_reintentos  # noqa: E402
-from monitorear_gobierno_er import cargar_backlog, guardar_backlog  # noqa: E402
+from monitorear_gobierno_er import cargar_backlog, cargar_ids_archivados, guardar_backlog  # noqa: E402
 from monitorear_senado_er import limpiar_html, slug_de_link  # noqa: E402
 
 FEED_URL = "https://www.jusentrerios.gov.ar/feed/"
@@ -92,7 +92,7 @@ def main() -> None:
         sys.exit(1)
 
     backlog = cargar_backlog()
-    ids_existentes = {item.get("id") for item in backlog}
+    ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
 
     nuevos = []
     for noticia in noticias:

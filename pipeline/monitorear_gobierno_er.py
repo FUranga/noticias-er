@@ -56,6 +56,10 @@ ARTICULO_URL_TPL = "https://portal.entrerios.gov.ar/noticias/{id}"
 FUENTE_ID_PREFIJO = "goberer"
 
 BACKLOG_PATH = Path(__file__).resolve().parent.parent / "data" / "backlog.json"
+ARCHIVO_PATHS = [
+    Path(__file__).resolve().parent.parent / "data" / "archivo" / "backlog-descartados.json",
+    Path(__file__).resolve().parent.parent / "data" / "archivo" / "backlog-publicados.json",
+]
 
 
 def limpiar_html(texto_html: str | None) -> str:
@@ -86,6 +90,26 @@ def guardar_backlog(items: list[dict]) -> None:
     with open(BACKLOG_PATH, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
         f.write("\n")
+
+
+def cargar_ids_archivados() -> set[str]:
+    """IDs que ya salieron de backlog.json via `archivar_cablera.py` (estado
+    descartado/referido, o publicado con wp_edit_url).
+
+    Todos los `monitorear_*.py` tienen que sumar esto a su chequeo de "ya
+    existe" antes de agregar un item -- si solo miran `cargar_backlog()`,
+    un item ya archivado (que ya no esta en backlog.json) parece nuevo de
+    vuelta la proxima corrida, y el scraper lo re-agrega como "pendiente"
+    aunque el editor ya lo haya descartado. Confirmado 2026-09-10: 139 de
+    324 items archivados habian resurgido asi en la cablera activa.
+    """
+    ids: set[str] = set()
+    for path in ARCHIVO_PATHS:
+        if not path.exists():
+            continue
+        with open(path, encoding="utf-8") as f:
+            ids.update(item.get("id") for item in json.load(f))
+    return ids
 
 
 def item_backlog_desde_api(noticia: dict) -> dict:
@@ -124,7 +148,7 @@ def main() -> None:
         sys.exit(1)
 
     backlog = cargar_backlog()
-    ids_existentes = {item.get("id") for item in backlog}
+    ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
 
     nuevos = []
     for noticia in noticias:

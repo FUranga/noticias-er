@@ -44,7 +44,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feed_utils import parsear_feed_con_reintentos  # noqa: E402
 from filtro_contenido_empresas import clasificar_no_editorial  # noqa: E402
-from monitorear_gobierno_er import cargar_backlog, guardar_backlog, limpiar_html  # noqa: E402
+from monitorear_gobierno_er import cargar_backlog, cargar_ids_archivados, guardar_backlog, limpiar_html  # noqa: E402
 from monitorear_senado_er import slug_de_link  # noqa: E402
 
 CAMARAS_PATH = Path(__file__).resolve().parent.parent / "data" / "fuentes_camaras.json"
@@ -126,7 +126,7 @@ def item_backlog(item: dict) -> dict:
 def main() -> None:
     fuentes = cargar_fuentes()
     backlog = cargar_backlog()
-    ids_existentes = {item.get("id") for item in backlog}
+    ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
     nuevos = []
     fallidas = []
 

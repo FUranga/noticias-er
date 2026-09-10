@@ -34,7 +34,7 @@ from pathlib import Path
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from monitorear_gobierno_er import cargar_backlog, guardar_backlog  # noqa: E402
+from monitorear_gobierno_er import cargar_backlog, cargar_ids_archivados, guardar_backlog  # noqa: E402
 
 API_URL = "https://datos.entrerios.gov.ar/api/3/action/package_search"
 FUENTE_NOMBRE = "Portal de Datos Abiertos de Entre Ríos"
@@ -105,7 +105,7 @@ def main() -> None:
         sys.exit(1)
 
     backlog = cargar_backlog()
-    ids_existentes = {item.get("id") for item in backlog}
+    ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
 
     nuevos = []
     for dataset in datasets:

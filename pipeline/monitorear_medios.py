@@ -59,7 +59,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feed_utils import parsear_feed_con_reintentos  # noqa: E402
-from monitorear_gobierno_er import cargar_backlog, guardar_backlog, limpiar_html  # noqa: E402
+from monitorear_gobierno_er import cargar_backlog, cargar_ids_archivados, guardar_backlog, limpiar_html  # noqa: E402
 from monitorear_senado_er import slug_de_link  # noqa: E402
 
 MEDIOS_PATH = Path(__file__).resolve().parent.parent / "data" / "fuentes_medios.json"
@@ -192,7 +192,7 @@ def main() -> None:
     topicos = cargar_topicos()
     lugares = cargar_lugares()
     backlog = cargar_backlog()
-    ids_existentes = {item.get("id") for item in backlog}
+    ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
     nuevos = []
     filtrados_topico = 0
     filtrados_lugar = 0
