@@ -285,6 +285,41 @@ async function ghGet() {
   return data;
 }
 
+// Serializa los guardados: si se dispara un segundo guardado mientras el
+// anterior todavia esta en vuelo (ej. clickear "descartar" en varios items
+// seguidos, sin esperar), sin esto los dos piden el archivo casi al mismo
+// tiempo, agarran el mismo sha, y el segundo PUT siempre da 409 aunque cada
+// uno relea antes de escribir. Con la cola, el segundo ni arranca su GET
+// hasta que el primero termino su PUT.
+let colaDeGuardado = Promise.resolve();
+function encolarGuardado(tarea) {
+  const resultado = colaDeGuardado.then(tarea, tarea);
+  colaDeGuardado = resultado.catch(() => {});
+  return resultado;
+}
+
+// Relee `path` justo antes de escribir, le aplica `mutar` a esa version
+// fresca, y reintenta un par de veces si igual choca (ej. un commit
+// automatico del pipeline de ingesta que entro en el instante exacto entre
+// el GET y el PUT). Devuelve el contenido final ya guardado.
+async function guardarConReintento(path, mutar, mensaje, intentos = 3) {
+  return encolarGuardado(async () => {
+    let ultimoError;
+    for (let intento = 0; intento < intentos; intento++) {
+      const { data: fresh, sha } = await ghGetPath(path);
+      mutar(fresh);
+      try {
+        await ghPutPath(path, sha, fresh, mensaje);
+        return fresh;
+      } catch (e) {
+        ultimoError = e;
+        if (!/PUT 409/.test(e.message)) throw e;
+      }
+    }
+    throw ultimoError;
+  });
+}
+
 async function loadAgenda() {
   try {
     const { data, sha } = await ghGetPath(AGENDA_PATH);
@@ -325,18 +360,13 @@ async function setEstado(id, estado, extra) {
   render();
   try {
     setStatus('Guardando...');
-    // Releer antes de escribir -- puede haber cambiado desde que se cargo la pagina
-    // (otro guardado propio en otra pestana, o un commit automatico del pipeline de
-    // ingesta). Escribir sobre la version fresca evita el 409 "does not match sha"
-    // y de paso trae cualquier item nuevo que haya entrado mientras tanto.
-    const { data: fresh, sha } = await ghGetPath(cfg().path);
-    const freshIt = fresh.find(i => i.id === id);
-    if (freshIt) {
-      freshIt.estado = estado;
-      if (extra) Object.assign(freshIt, extra);
-    }
-    fileSha = await ghPutPath(cfg().path, sha, fresh, `Cablera: ${id} → ${estado}`);
-    items = fresh;
+    items = await guardarConReintento(cfg().path, (fresh) => {
+      const freshIt = fresh.find(i => i.id === id);
+      if (freshIt) {
+        freshIt.estado = estado;
+        if (extra) Object.assign(freshIt, extra);
+      }
+    }, `Cablera: ${id} → ${estado}`);
     setStatus('Guardado.', 'ok');
     render();
   } catch (e) {
@@ -668,16 +698,13 @@ async function marcarAgenda(id, estado) {
   render();
   try {
     setStatus('Guardando...');
-    // Mismo motivo que en setEstado: releer antes de escribir para no pisar
-    // cambios que hayan llegado desde que se cargo la pagina.
-    const { data: fresh, sha } = await ghGetPath(AGENDA_PATH);
-    const freshA = fresh.find(x => x.id === id);
-    if (freshA) {
-      freshA.estado = estado;
-      freshA.detalle = a.detalle;
-    }
-    agendaSha = await ghPutPath(AGENDA_PATH, sha, fresh, `Agenda: ${id} → ${estado}`);
-    agendaItems = fresh;
+    agendaItems = await guardarConReintento(AGENDA_PATH, (fresh) => {
+      const freshA = fresh.find(x => x.id === id);
+      if (freshA) {
+        freshA.estado = estado;
+        freshA.detalle = a.detalle;
+      }
+    }, `Agenda: ${id} → ${estado}`);
     setStatus('Guardado.', 'ok');
     render();
   } catch (e) {
@@ -733,11 +760,11 @@ document.getElementById('agSave').onclick = async () => {
   };
   try {
     setStatus('Guardando en la agenda...');
-    // Releer antes de escribir -- puede haber cambiado desde que se cargó la pagina.
-    const { data, sha } = await ghGetPath(AGENDA_PATH);
-    data.push(nuevo);
-    agendaSha = await ghPutPath(AGENDA_PATH, sha, data, `Agenda: agregar "${evento}"` + (it ? ` (desde ${it.id})` : ' (manual)'));
-    agendaItems = data;
+    agendaItems = await guardarConReintento(
+      AGENDA_PATH,
+      (fresh) => fresh.push(nuevo),
+      `Agenda: agregar "${evento}"` + (it ? ` (desde ${it.id})` : ' (manual)')
+    );
     if (it) agendaIds.add(it.id);
     setStatus('Agregado a la agenda.', 'ok');
     render();
