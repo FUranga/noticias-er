@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Playfair_Display, Inter } from "next/font/google";
+import { Vollkorn, Inter } from "next/font/google";
 import "./globals.css";
 
 // 2026-09-07: se probaron Newsreader (cuerpo) y Domine (títulos) para
@@ -9,10 +9,22 @@ import "./globals.css";
 // los títulos sin cambios, y pasar el cuerpo a Georgia -- variable CSS pura
 // en globals.css, no next/font, porque es una fuente de sistema. Georgia es
 // literalmente la fuente de reserva que NYT y WSJ declaran en su propio CSS
-// (`nyt-imperial, georgia, ...` / `Exchange, Georgia, ...`). No volver a
-// tocar esto sin comparar variantes en vivo con Francisco mirando.
+// (`nyt-imperial, georgia, ...` / `Exchange, Georgia, ...`).
+//
+// 2026-09-10: Francisco notó que Playfair Display (Didone, alto contraste
+// de trazo) se veía "filosa" al lado de las referencias reales -- se midió
+// en el navegador (no a ojo) la tipografía de título real de El País
+// (MajritTx, propietaria), Texas Tribune (PT Serif) y CT Examiner (Spirits
+// Neutral, sans -- descartada porque Francisco pidió mantener serif).
+// Se armó /tipografia-test con candidatas lado a lado (Playfair, PT Serif,
+// Lora, Source Serif 4, Vollkorn) -- misma familia de contraste moderado
+// que las referencias, sin la dureza del Didone. Se probó Lora primero;
+// Francisco la cambió por Vollkorn (2026-09-10, "dejemos Vollkorn por
+// ahora" -- queda como preferencia provisoria, no cerrada del todo). No
+// volver a tocar esto sin repetir la comparación en vivo con Francisco
+// mirando.
 
-const headline = Playfair_Display({
+const headline = Vollkorn({
   variable: "--font-headline",
   subsets: ["latin"],
 });
