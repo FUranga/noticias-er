@@ -1,0 +1,47 @@
+name: Archivar descartados de la cablera
+
+on:
+  schedule:
+    # Semanal (Francisco, 2026-09-10): descartados/referidos no se vuelven a
+    # mirar, y son el volumen mas alto de data/backlog.json -- sacarlos cada
+    # semana evita que el archivo crezca sin limite. Lunes 11:00 UTC = 08:00 ART.
+    - cron: "0 11 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archivar-cablera
+  cancel-in-progress: false
+
+jobs:
+  archivar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: python pipeline/archivar_cablera.py descartados
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/backlog.json data/archivo/backlog-descartados.json && [ -z "$(git status --porcelain data/archivo/backlog-descartados.json)" ]; then
+            echo "Sin cambios, no hay nada que commitear."
+          else
+            git add data/backlog.json data/archivo/backlog-descartados.json
+            git commit -m "Cablera: archiva descartados/referidos de la semana (automatico)"
+            for intento in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "Push rechazado (intento $intento), reintentando con rebase..."
+              git fetch origin main
+              git rebase origin/main
+            done
+          fi

@@ -1,0 +1,48 @@
+name: Archivar publicados de la cablera
+
+on:
+  schedule:
+    # Mensual (Francisco, 2026-09-10): a diferencia de descartados/referidos,
+    # a un item "a_publicar" ya subido a WordPress (wp_edit_url presente) le
+    # damos mas margen antes de sacarlo de data/backlog.json, por si el editor
+    # todavia lo esta revisando alla. Dia 1 de cada mes, 11:00 UTC = 08:00 ART.
+    - cron: "0 11 1 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archivar-cablera
+  cancel-in-progress: false
+
+jobs:
+  archivar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: python pipeline/archivar_cablera.py publicados
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/backlog.json data/archivo/backlog-publicados.json && [ -z "$(git status --porcelain data/archivo/backlog-publicados.json)" ]; then
+            echo "Sin cambios, no hay nada que commitear."
+          else
+            git add data/backlog.json data/archivo/backlog-publicados.json
+            git commit -m "Cablera: archiva publicados del mes (automatico)"
+            for intento in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "Push rechazado (intento $intento), reintentando con rebase..."
+              git fetch origin main
+              git rebase origin/main
+            done
+          fi
