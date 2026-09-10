@@ -196,5 +196,16 @@
     "detalle": "La version que vuelve de Diputados ya no tiene la clausula que permitia quitar el beneficio a exgobernadores con condena firme por corrupcion (eliminada en el Senado) y la derogacion no es retroactiva.",
     "agregado_el": "2026-09-08T10:01:06Z",
     "estado": "pendiente"
+  },
+  {
+    "id": "empresa-uier-uier-realizara-la-22-jornada-de-la-industria-en-parana-con-eje-en-los-desafios-del-sector-agenda-1788999308041",
+    "fecha": null,
+    "evento": "UIER realizará la 22° Jornada de la Industria en Paraná, con eje en los desafíos del sector",
+    "tipo": "evento",
+    "fuente": "Unión Industrial de Entre Ríos",
+    "origen_id": "empresa-uier-uier-realizara-la-22-jornada-de-la-industria-en-parana-con-eje-en-los-desafios-del-sector",
+    "detalle": null,
+    "agregado_el": "2026-09-10T00:15:08.041Z",
+    "estado": "pendiente"
   }
 ]
