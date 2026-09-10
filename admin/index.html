@@ -285,10 +285,6 @@ async function ghGet() {
   return data;
 }
 
-async function ghPut(newItems, message) {
-  fileSha = await ghPutPath(cfg().path, fileSha, newItems, message || 'Actualizar backlog desde la cablera');
-}
-
 async function loadAgenda() {
   try {
     const { data, sha } = await ghGetPath(AGENDA_PATH);
@@ -301,10 +297,6 @@ async function loadAgenda() {
     agendaSha = null;
     agendaIds = new Set();
   }
-}
-
-async function guardarAgenda(mensaje) {
-  agendaSha = await ghPutPath(AGENDA_PATH, agendaSha, agendaItems, mensaje);
 }
 
 async function load() {
@@ -333,8 +325,20 @@ async function setEstado(id, estado, extra) {
   render();
   try {
     setStatus('Guardando...');
-    await ghPut(items, `Cablera: ${id} → ${estado}`);
+    // Releer antes de escribir -- puede haber cambiado desde que se cargo la pagina
+    // (otro guardado propio en otra pestana, o un commit automatico del pipeline de
+    // ingesta). Escribir sobre la version fresca evita el 409 "does not match sha"
+    // y de paso trae cualquier item nuevo que haya entrado mientras tanto.
+    const { data: fresh, sha } = await ghGetPath(cfg().path);
+    const freshIt = fresh.find(i => i.id === id);
+    if (freshIt) {
+      freshIt.estado = estado;
+      if (extra) Object.assign(freshIt, extra);
+    }
+    fileSha = await ghPutPath(cfg().path, sha, fresh, `Cablera: ${id} → ${estado}`);
+    items = fresh;
     setStatus('Guardado.', 'ok');
+    render();
   } catch (e) {
     it.estado = prev;
     setStatus('Error guardando: ' + e.message, 'error');
@@ -659,14 +663,26 @@ async function marcarAgenda(id, estado) {
     if (motivo) a.detalle = (a.detalle ? a.detalle + ' — ' : '') + `Descartado: ${motivo.trim()}`;
   }
   const prev = a.estado;
+  const detallePrev = a.detalle;
   a.estado = estado;
   render();
   try {
     setStatus('Guardando...');
-    await guardarAgenda(`Agenda: ${id} → ${estado}`);
+    // Mismo motivo que en setEstado: releer antes de escribir para no pisar
+    // cambios que hayan llegado desde que se cargo la pagina.
+    const { data: fresh, sha } = await ghGetPath(AGENDA_PATH);
+    const freshA = fresh.find(x => x.id === id);
+    if (freshA) {
+      freshA.estado = estado;
+      freshA.detalle = a.detalle;
+    }
+    agendaSha = await ghPutPath(AGENDA_PATH, sha, fresh, `Agenda: ${id} → ${estado}`);
+    agendaItems = fresh;
     setStatus('Guardado.', 'ok');
+    render();
   } catch (e) {
     a.estado = prev;
+    a.detalle = detallePrev;
     setStatus('Error guardando: ' + e.message, 'error');
     render();
   }
