@@ -287,14 +287,21 @@ async function ghGet() {
 
 // Serializa los guardados: si se dispara un segundo guardado mientras el
 // anterior todavia esta en vuelo (ej. clickear "descartar" en varios items
-// seguidos, sin esperar), sin esto los dos piden el archivo casi al mismo
-// tiempo, agarran el mismo sha, y el segundo PUT siempre da 409 aunque cada
-// uno relea antes de escribir. Con la cola, el segundo ni arranca su GET
-// hasta que el primero termino su PUT.
-let colaDeGuardado = Promise.resolve();
+// seguidos sin esperar, o tener el panel abierto en dos pestañas a la vez),
+// sin esto los dos piden el archivo casi al mismo tiempo, agarran el mismo
+// sha, y el segundo PUT siempre da 409 aunque cada uno relea antes de
+// escribir. Web Locks API (`navigator.locks`) sirve la cola entre pestañas
+// del mismo navegador, no solo dentro de una -- confirmado 2026-09-10 que
+// el caso real que seguia fallando era justamente el panel abierto en mas
+// de una pestaña. Si el navegador no soporta Web Locks (muy viejo), cae a
+// una cola en memoria que al menos sirve dentro de la misma pestaña.
+let colaDeGuardadoFallback = Promise.resolve();
 function encolarGuardado(tarea) {
-  const resultado = colaDeGuardado.then(tarea, tarea);
-  colaDeGuardado = resultado.catch(() => {});
+  if (navigator.locks && navigator.locks.request) {
+    return navigator.locks.request('cablera-guardado', tarea);
+  }
+  const resultado = colaDeGuardadoFallback.then(tarea, tarea);
+  colaDeGuardadoFallback = resultado.catch(() => {});
   return resultado;
 }
 
