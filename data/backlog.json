@@ -27821,5 +27821,910 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-26a990ef1117",
+    "fuente": "APFDigital",
+    "titulo": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWWxoS3hWek43VUdNQTJ0Q3RUdVlYVlNSeU9Ka0JUODd4eVR6Mm9fdnRCM1B4YUtvbFhSczJBbWVmbFJyM0lfVVhFMDRjV29lUjFfQk5ESnpCZktDQlU5aWJCdzk5RzFnT0VhZElpTmRUMFZOLVlwT3pjTWdmYnViOVloYVlXOU1FVmFVNDVhV2s1QzhRYXI1ZE1fTkJtelhZZmppZDZBVXkwTUxKM1BJUC02Q25YY1FIQk1IZUF6NGdrY3lHQzYxS1U5Zk5wbkllRlJoX3Zad2ZQY0U1TEJpYzJmZVpZTncxZkhSZXRUNmF0YjM3YlJSamdCaWJMTGZ2YlFTM2NpU2tfd3prTlVGclVncF_SAZQCQVVfeXFMTllsaEt4VnpON1VHTUEydEN0VHVZWFZTUnlPSmtCVDg3eHlUejJvX3Z0QjNQeGFLb2xYUnMyQW1lZmxScjNJX1VYRTA0Y1dvZVIxX0JOREp6QmZLQ0JVOWliQnc5OUcxZ09FYWRJaU5kVDBWTi1ZcE96Y01nZmJ1YjlZaGFZVzlNRVZhVTQ1YVdrNUM4UWFyNWRNX05CbXpYWWZqaWQ2QVV5ME1MSjNQSVAtNkNuWGNRSEJNSGVBejRna2N5R0M2MUtVOWZOcG5JZUZSaF92WndmUGNFNUxCaWMyZmVaWU53MWZIUmV0VDZhdGIzN2JSUmpnQmliTExmdmJRUzNjaVNrX3d6a05VRnJVZ3Bf?oc=5",
+    "texto_original": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-0015bb4ce1cd",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "Salud Pública: implementan el sistema Sigap en hospitales de Entre Ríos",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEZFNjZuWFVnLTRVU1dubFJfTnBCMm0xY2pZN19SaDkyY1gwN2otMXhORnNVVjZhNGJCSTZtbk9mejNXckZkLXRJdGwzMWpWc3VUeFJTb25uUlk0Yzg4dmpQS0dfeE8zbUl5Ml9HWkZHdzlxdTdmcVRKbXRfa3BTUTR4SjRWU1BYc2VRdmRaN2VIb3dLT1J1Z0tzRkZlT1lQRmRGdkc1ODhSQQ?oc=5",
+    "texto_original": "Salud Pública: implementan el sistema Sigap en hospitales de Entre Ríos\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ab95bd3b470d",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "La Justicia de Entre Ríos pide la extradición del cuñado de Aguilera",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHNVSW1CY1Y1T3VRdGlEeTB4NTk4aThsQk9CTUpkWTIwXzk4Yk1TTHVQZWE5cGw2ZmV3RkhzX3R5TTgzdVlYdGNCWHFxczlvUDZoLW9WQzVnSklNYVFIa01KRFM2NDhpYmZTeWM2a1VGUjFFN1lNcERyWENoUVMtTV9FejdEekRVNUcwN1ZTSERjY2VjdFJxNGdCUGg?oc=5",
+    "texto_original": "La Justicia de Entre Ríos pide la extradición del cuñado de Aguilera\n  \nEntre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b0e3f906606f",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXRXM0xISkczTTVLNEtpanE1YXVNMnBXaTJCRlZkYkp0ZHgtMVZNYVJBbHI3aUVaZjlkVXF5ZE9rZFhWcE5DSmJTNnVDd0VKUUJ4clpBTjdlQVlSTld4bDhib2ppYWR6LVF3eFhRaVIwZmk1NjNuQ2JyVHNnUzBXbUlpU0tRWW9VdW1QYUV1aVJMRW9sbjA1NlZfZGg5azN1dS1TOGxTUDQ0ZENEaU8wOTFGMDB1aEhqYmNOb1NPek5iVTFyRHB6MFR0blczZDVjOFc1SnVlTENJUHRj0gHiAUFVX3lxTFBMWWFwTnEzUmp1V3NQZF9lLW5mVHR4bFNCd2FNcUZKQ21EN3ZpamxWOF9lVTczRzdvMVE5NUIyUzZ6SXZFMTh0ZUk2X1VMWjl3Q3d6eHFobVpwUkN2cDVLQmRqa1h3d21PSmx1NVVFeWg0QnZxNU9IdHNJOUJ2bEE1UEJGSUpwZUVqNzZPV3J6RDdITXF6MXZPWFg3ZVFMWlF1Z2Mzd3l2dmFhYnN6Yk1TeVlnSHpwczkybG5VSmVIMHJtUG9xTWVUTDA1dkNKZXlfdUhGcmlCMWRrRHlkNUQtVEE?oc=5",
+    "texto_original": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ccb0db269913",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Diamante: los acusados del crimen de Barreto seguirán en la cárcel y hubo incidentes en Tribunales",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVU5hbmpSTjBfVGZMWC16ak1MSFhFS1FETldBQUU3VnhjT1JnWlEzM2V2dzl4bG9NTTNmZVNmTVAwR1hGNnpwTjM2RGhYNy1JaWplMjV1WWRPWUl0UExhaXBLMDN6aURTT2haOFh1LWt4YnlDVGowbXd1SzdsdHlBdVVXV1lJWVZOQVRVS0l6SnNjVTA4Y0dGdUhEekpDeE1mSTJnS29NYjg0OWdwa3JfNjA0Q0NGTFBLRFlWQTZMYlk4WlFMVFg2QWhmSFhaVFVn0gHWAUFVX3lxTE8tZEFPRHI2TDZuWkJXaGJENWI3N2RLU2RJeWJseXktWVJoOVlvaEV4Y2Juekc3bDRtejY4X0NIcHJoVEJDZnY2dGJJRW1WOEZuTmQyVWZKQUtZNnpLZGN2cVRpVHRrTTlqeHVuT3cxYUV5S2RYZ0l3MjBnXzJzcGlmUXRZbEZaRURIZW1SUmxlZDNkVVJnV2kyU1l0dE1aZElQZ2gtOFFSZ1hNeXhqdUF1QTlIT21hNE9JbzFLOFRZZ1pkZDE5ekZPOE1QMlEzMkxCQ1p1Q1E?oc=5",
+    "texto_original": "Diamante: los acusados del crimen de Barreto seguirán en la cárcel y hubo incidentes en Tribunales\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-963d67992e9f",
+    "fuente": "Elonce.com",
+    "titulo": "Jornada pública en Paraná para concientizar y reclamar políticas de salud mental en la provincia",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeEpjZGFhYVFXbEZQSlJXN3VDMlNYeFdZWmRyWGQ3VU5ubGowbzhPUm8yVnVqX3JzZkZPYWRWNjQzUDFsUG1VeE8yaGl3UUJfNi10dy13NFFnbUN2T2tUUXV1bDQ1WUNSVThXeEJPa1c2OXk1ZkpRZ0hpMms3c1Y1OU9vWVlNNVpsWmdIMDlnX091RzlHYWtZdTJoZUo5Q2FwV1UxdkRZU0xNb3RtX3d1bFpnT2d5M3R6c3dqZVcxQk9pWndDdkd1WjlmUUZJQXg4X1dzQTlrcXfSAcQBQVVfeXFMT0Yxa2NPMTZPWUhPcVZXZDR5aGphYmVrUE5oQWtDRUZOOHlGLW5ja0VrTGRiMTFqX1l4STgwRHBBT19MOUZ0Z0NGUXNQX21MU1p2R05Td2dTcklkSUdjeWNyR3lqd2RGYWlfM3hJTTBHekcwVk5Sc1lnQTVfd0l0T2RvcHhlcFYzSFlXUjV6bFVuc3hsOGpHQXpSYTRPOUxOSkRoZWE2bXlQMms3Y3N1ZVY4eEFyR1Eyd016UnBwSlRPOU95Tg?oc=5",
+    "texto_original": "Jornada pública en Paraná para concientizar y reclamar políticas de salud mental en la provincia\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-745cf2d3aef9",
+    "fuente": "Cadena 3 Argentina",
+    "titulo": "Alerta por El Niño en Entre Ríos: Frigerio advierte un grave impacto económico y prepara obras",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMnR2VENCanBGXzlrM2RrRTQxN2ZkN2hvU196ZEpaLW80eXVyZFFnb3ZOTUNhQU9McXFpZHFFeHBUNmhUUWJOaTAwQzNQcm42bkFJUXFFdzJCamNYRmdWUC1kaTlDNlpUSzJOMjdFWThSaEhmbWRxY3FFSGJtamszYm5nZmViQVR6VTBVUXZuMGxCTE5wa0pqYUtucHJLQnF0cnR0MjFJT0oxSENCejBQUEV1enBvYjBwa2ZDeEw3ZWdGS0JlYkw5YlRqWjZRWHplbk93RWNUbi1qbHRxWWV0Vl9na1p2ZmpR0gHoAUFVX3lxTE0ydHZUQ0JqcEZfOWszZGtFNDE3ZmQ3aG9TX3pkSlotbzR5dXJkUWdvdk5NQ2FBT0xxcWlkcUV4cFQ2aFRRYk5pMDBDM1BybjZuQUlRcUV3MkJqY1hGZ1ZQLWRpOUM2WlRLMk4yN0VZOFJoSGZtZHFjcUVIYm1qazNibmdmZWJBVHpVMFVRdm4wbEJMTnBrSmphS25wcktCcXRydHQyMUlPSjFIQ0J6MFBQRXV6cG9iMHBrZkN4TDdlZ0ZLQmViTDliVGpaNlFYemVuT3dFY1RuLWpsdHFZZXRWX2drWnZmalE?oc=5",
+    "texto_original": "Alerta por El Niño en Entre Ríos: Frigerio advierte un grave impacto económico y prepara obras\n  \nCadena 3 Argentina",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-7db08ab06efe",
+    "fuente": "APFDigital",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeE1VQm5IMDZ6NDQ5NTYzVXZBU2h5SDJiUy11a2xqajBsXzJjZTJEZmdBaFltUkswTExfeTItaThqYUtYYUFLNFFkeVQ1b3hkNFpReHIweHFyUVYzVnJFNzJRN0ItcW5pbmxoeE5zS3VQMTB1U2RrWnBKZHF2UXpuc2MwSWxGcXJ4OHBWZWtMcE1TVEdzMTgwM3AxNW93dHpuaWEtcU5EMEg5emxBM0xxaFEtb0JLdkZUY3RNX2J5WHQxLUZKSWhFOFBWYjRlRXRiQmdrMlNVYmdwTUREOFNYbWtTcTlGZGxvdGhIMG00X0tmeVBNTzYyazJ4NkNnYzI5bHgzQlJlS3o0RU02OXFxRDdhbFdmbUXSAZcCQVVfeXFMTXhNVUJuSDA2ejQ0OTU2M1V2QVNoeUgyYlMtdWtsamowbF8yY2UyRGZnQWhZbVJLMExMX3kyLWk4amFLWGFBSzRRZHlUNW94ZDRaUXhyMHhxclFWM1ZyRTcyUTdCLXFuaW5saHhOc0t1UDEwdVNka1pwSmRxdlF6bnNjMElsRnFyeDhwVmVrTHBNU1RHczE4MDNwMTVvd3R6bmlhLXFORDBIOXpsQTNMcWhRLW9CS3ZGVGN0TV9ieVh0MS1GSkloRThQVmI0ZUV0YkJnazJTVWJncE1ERDhTWG1rU3E5RmRsb3RoSDBtNF9LZnlQTU82MmsyeDZDZ2MyOWx4M0JSZUt6NEVNNjlxcUQ3YWxXZm1F?oc=5",
+    "texto_original": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-98e77c50f98e",
+    "fuente": "Ambito",
+    "titulo": "Murió la diputada provincial de Entre Ríos Julia Calleros",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEdVZHZLWnJOMnhCWklOc3BjVTZzSFFfR2VfdGd5cmJPcUtmYUxBRVRCRWtaS2lBN0RMb2NGT2U0S2I3TjZLY25YWmFCUU1JNXppeXd0MEJ4Rlh0MFN3bUFGMk14bjNEWVB4NW41ZXpEX1p1Vk5IVFRKeXVUOVJ1TzJaZmJxR3JrazlLMGx3Z280ZVVrSHBhRUQ3RkRTTElsaUHSAaIBQVVfeXFMT1hHVWR2S1pyTjJ4QlpJTnNwY1U2c0hRX0dlX3RneXJiT3FLZmFMQUVUQkVrWktpQTdETG9jRk9lNEtiN042S2NuWFphQlFNSTV6aXl3dDBCeEZYdDBTd21BRjJNeG4zRFlQeDVuNWV6RF9adVZOSFRUSnl1VDlSdU8yWmZicUdya2s5SzBsd2dvNGVVa0hwYUVEN0ZEU0xJbGlB?oc=5",
+    "texto_original": "Murió la diputada provincial de Entre Ríos Julia Calleros\n  \nAmbito",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-4f4c43869c47",
+    "fuente": "Elonce.com",
+    "titulo": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDlhR195QzBVbzQxTTlMRTRNeVE5NGNxaEZIc0dISndnLTYwQ2NkMVYwbjVBUGNoZEgzNGVGUlRYUS1fV1VPSXEtbDV4d0V1QzIyMThtRFZXUjU3NzZFeEpVTzh0ZmlxT2xmZGhPYk5yTTRjQlJOVFF6ZTNOLXFpSmR0d003TGFvcWpzVm1WWTZsdXBRcVg1QlU3azF6UkJHQ3JxeUNHNVM3NGJzeU1FY3h0UmIxRklSV20xMFl1VVRpcXVZcnZr0gG-AUFVX3lxTE9seHdVazk5VGx3bjlVbmdBR09saURLZXdQeG50SUlYejRla3NKRHljeElyWEFWbEV4b000am5KaUZTWVp3bTE5cjRjSEVxNVJUQWNCWkdOVlBTU2NTRm9peFJRcEVGUDNmTVh5eEozUFBzUnZ4ekNDaWQ4WFpvbFU1ejNiem8ySnhFODFKS1JVbnR5UUUybjhWYWJ0WER6OEZRVURQOEdwdXJaUXExcDlHM1J0NEpydF8xaVRJMXc?oc=5",
+    "texto_original": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-963d67992e9f",
+    "fuente": "Elonce.com",
+    "titulo": "Jornada pública en Paraná para concientizar y reclamar políticas de salud mental en la provincia",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeEpjZGFhYVFXbEZQSlJXN3VDMlNYeFdZWmRyWGQ3VU5ubGowbzhPUm8yVnVqX3JzZkZPYWRWNjQzUDFsUG1VeE8yaGl3UUJfNi10dy13NFFnbUN2T2tUUXV1bDQ1WUNSVThXeEJPa1c2OXk1ZkpRZ0hpMms3c1Y1OU9vWVlNNVpsWmdIMDlnX091RzlHYWtZdTJoZUo5Q2FwV1UxdkRZU0xNb3RtX3d1bFpnT2d5M3R6c3dqZVcxQk9pWndDdkd1WjlmUUZJQXg4X1dzQTlrcXfSAcQBQVVfeXFMT0Yxa2NPMTZPWUhPcVZXZDR5aGphYmVrUE5oQWtDRUZOOHlGLW5ja0VrTGRiMTFqX1l4STgwRHBBT19MOUZ0Z0NGUXNQX21MU1p2R05Td2dTcklkSUdjeWNyR3lqd2RGYWlfM3hJTTBHekcwVk5Sc1lnQTVfd0l0T2RvcHhlcFYzSFlXUjV6bFVuc3hsOGpHQXpSYTRPOUxOSkRoZWE2bXlQMms3Y3N1ZVY4eEFyR1Eyd016UnBwSlRPOU95Tg?oc=5",
+    "texto_original": "Jornada pública en Paraná para concientizar y reclamar políticas de salud mental en la provincia\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-f7297c923c9c",
+    "fuente": "APFDigital",
+    "titulo": "Miércoles Mayores retoma su agenda con una charla sobre nutrición y economía en Paraná",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaFJHRngySl8xX0dqOFJnSVFIak42Z3ROOWtrcW9NMlEwcl9ubG9Wbk9ScVZiQlV0Z0hOb1d5eWx6Y0hjdy1OZXdESjdzYTN5aGZqZEUzaDVSendwMEd3MWFLdGpKX1QyOEVPX0dVS3QxNmdCb1F3S0xoX2tfdVpuZDZDbWVTN2Y4SVc4bWdzMXp4SEdKRjdZVkFSb2J4QlRBeEtxeS1aODNYR3pYR1p1ZjB1UTZnV0RvQWhDNnR0N3BjYzI5TGRWQmdMb3JFYkFXNFRCX3h2aldjMGfSAeABQVVfeXFMUHZwTzA5VlNTemZlcnVyRHJrbUhpQVROT3YwdVBmVGJRQi1FcVE3cXJDNDI2WjNjTjZEUE9yM3Q0Ni1RMUJwRUhkVXdvcUVOMzVNOW82d0pQLW9OdUtYOWlPWENpTGdCUHJEUjl5cmlNTEcwTTRQSWhxZC1IZkNSQlp5NmdnM2tKWmJmQlpidHZDVS0wX1JRZkx3eTRZV2RXME96Rmw1aW9od1JDUFBqNzJJZzRXWEFHU1RXQWxOSi1HdzdHMUZoTURybVlxNjBIdkxraEgwc0xTcUcwZko1eFY?oc=5",
+    "texto_original": "Miércoles Mayores retoma su agenda con una charla sobre nutrición y economía en Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-1f8afd00998a",
+    "fuente": "APFDigital",
+    "titulo": "El Municipio de San José de Feliciano avanza en la reparación de caminos vecinales",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHg4YWcwcmtSRUJTSEF4cTdINkRDckwwZVlPSXF4c3VoOUt3YWdWTVFIYmZoWlV1S0dtd2Q2ZW9EYlR5eG92dWFFU1V1RHlmRW9hb3Zob1JjUXVZU201ZnBZZ3MzNFNucnRrNV91eWM2ZEw0Y3V4eXVCSFlLUU03Um9SNEUzN0RwMmdMOHlxcmJOYkRuLWxKN1dfOVV0MjVfQk5wcDNwU3FjMkQ3TEJ2TXhpYlVOYW1IR09sbzBFMzdMX0gxbE9qOHFJdV9kYVFZM2VPeXVQODc5Q2fSAdsBQVVfeXFMTXh4OGFnMHJrUkVCU0hBeHE3SDZEQ3JMMGVZT0lxeHN1aDlLd2FnVk1RSGJmaFpVdUtHbXdkNmVvRGJUeXhvdnVhRVNVdUR5ZkVvYW92aG9SY1F1WVNtNWZwWWdzMzRTbnJ0azVfdXljNmRMNGN1eHl1QkhZS1FNN1JvUjRFMzdEcDJnTDh5cXJiTmJEbi1sSjdXXzlVdDI1X0JOcHAzcFNxYzJEN0xCdk14aWJVTmFtSEdPbG8wRTM3TF9IMWxPajhxSXVfZGFRWTNlT3l1UDg3OUNn?oc=5",
+    "texto_original": "El Municipio de San José de Feliciano avanza en la reparación de caminos vecinales\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "feliciano"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-d6db69e54dab",
+    "fuente": "APFDigital",
+    "titulo": "Avanzan con trabajos de bacheo en un tramo de la Avenida Jorge Newbery de Paraná",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS15VmQ0bWMtY3daZUg3RzNTLUNTSlVFelhicUxQdHBSRERqRExSNWhoMlIyeFZtRldZYlJJbmVjdnpiVF91SU9WVFhYdV94VGd0V2ttdGQzLTlVRWYxNmJ5bnBzNndsV1ZUeXVhYU5VTkt1eHNKSmtPREswcEJvMTJWamtVMVNnWXVPX0RONi05V25XZWhOdUdnNndNZG5BUXVzWk1xN013cGNqUXoxVW95WFJRRF9uTC1FWGd5ZldqbmRYRXVKajZFNUVxY3BRRXl5bF9NM0vSAdgBQVVfeXFMTXkteVZkNG1jLWN3WmVIN0czUy1DU0pVRXpYYnFMUHRwUkREakRMUjVoaDJSMnhWbUZXWWJSSW5lY3Z6YlRfdUlPVlRYWHVfeFRndFdrbXRkMy05VUVmMTZieW5wczZ3bFdWVHl1YWFOVU5LdXhzSkprT0RLMHBCbzEyVmprVTFTZ1l1T19ETjYtOVduV2VoTnVHZzZ3TWRuQVF1c1pNcTdNd3BjalF6MVVveVhSUURfbkwtRVhneWZXam5kWEV1Smo2RTVFcWNwUUV5eWxfTTNL?oc=5",
+    "texto_original": "Avanzan con trabajos de bacheo en un tramo de la Avenida Jorge Newbery de Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-9bd5b64db9ac",
+    "fuente": "APFDigital",
+    "titulo": "El Municipio de Concepción del Uruguay amplía con recursos propios la red de cloacas en la zona norte",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONVp1d2hGVGNuSW9ab05Vc1JmaS1mOGZ3aktyNHgyMzRUQ3JWY2pkZFVBY29jS2REUE9MRENiaTVrOHd6Zmtrb3V1Z3ZISUF4dE5ZTUxDalJJR0NFUmQtSC1aUjV2bDFEOWw3bWFpVU1kRE1TeTk2bHEzdUd3amwwdUV1UDM5NVRmM2JqNHNfdWdWckxVTngwaF9LUVlXZ2xobEsyZC1MckotLUFoU1pHUU0tUW9OcjhGWjVLblRsU08zWmpwNlMxOU9uanMyeVprdUt4NVpQcS1IMEE3OWVuMjVPRWtiNzNmcGgwaHYyd21uWWll0gH0AUFVX3lxTE41WnV3aEZUY25Jb1pvTlVzUmZpLWY4ZndqS3I0eDIzNFRDclZjamRkVUFjb2NLZERQT0xEQ2JpNWs4d3pma2tvdXVndkhJQXh0TllNTENqUklHQ0VSZC1ILVpSNXZsMUQ5bDdtYWlVTWRETVN5OTZscTN1R3dqbDB1RXVQMzk1VGYzYmo0c191Z1ZyTFVOeDBoX0tRWVdnbGhsSzJkLUxySi0tQWhTWkdRTS1Rb05yOEZaNUtuVGxTTzNaanA2UzE5T25qczJ5Wmt1S3g1WlBxLUgwQTc5ZW4yNU9Fa2I3M2ZwaDBodjJ3bW5ZaWU?oc=5",
+    "texto_original": "El Municipio de Concepción del Uruguay amplía con recursos propios la red de cloacas en la zona norte\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-26a990ef1117",
+    "fuente": "APFDigital",
+    "titulo": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWWxoS3hWek43VUdNQTJ0Q3RUdVlYVlNSeU9Ka0JUODd4eVR6Mm9fdnRCM1B4YUtvbFhSczJBbWVmbFJyM0lfVVhFMDRjV29lUjFfQk5ESnpCZktDQlU5aWJCdzk5RzFnT0VhZElpTmRUMFZOLVlwT3pjTWdmYnViOVloYVlXOU1FVmFVNDVhV2s1QzhRYXI1ZE1fTkJtelhZZmppZDZBVXkwTUxKM1BJUC02Q25YY1FIQk1IZUF6NGdrY3lHQzYxS1U5Zk5wbkllRlJoX3Zad2ZQY0U1TEJpYzJmZVpZTncxZkhSZXRUNmF0YjM3YlJSamdCaWJMTGZ2YlFTM2NpU2tfd3prTlVGclVncF_SAZQCQVVfeXFMTllsaEt4VnpON1VHTUEydEN0VHVZWFZTUnlPSmtCVDg3eHlUejJvX3Z0QjNQeGFLb2xYUnMyQW1lZmxScjNJX1VYRTA0Y1dvZVIxX0JOREp6QmZLQ0JVOWliQnc5OUcxZ09FYWRJaU5kVDBWTi1ZcE96Y01nZmJ1YjlZaGFZVzlNRVZhVTQ1YVdrNUM4UWFyNWRNX05CbXpYWWZqaWQ2QVV5ME1MSjNQSVAtNkNuWGNRSEJNSGVBejRna2N5R0M2MUtVOWZOcG5JZUZSaF92WndmUGNFNUxCaWMyZmVaWU53MWZIUmV0VDZhdGIzN2JSUmpnQmliTExmdmJRUzNjaVNrX3d6a05VRnJVZ3Bf?oc=5",
+    "texto_original": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-e4ce84b8daa9",
+    "fuente": "APFDigital",
+    "titulo": "Miércoles de Paseo: Invitan a recorrer la propuesta comercial con descuentos y actividades en Paraná",
+    "fecha": "2026-09-08",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbERiSWR3NGJ4WHIxUGdVZ0JQLUtDYllKWDBWSXRsZHZ3dWppSUlGVTQwUEdYaWpjQUh2RkFVcXlHNkc3SU50VDN4MHJKNnFPYzNidDNTMmtBRHN2bFAtMEhCTUNWU056aWJNV3FsNm1uODhpZFFzTVVHdXRPSEUtdU9ZZWwxTHZTZXV5ZlRqUHpORVAyRVN1N3BuSU15Y0FpNkVUQXJOSHV3blZpcUcxckVfLTZGeVFqdXUtSUZtYWFtVXZQTjVuODBHUWdYX1RWYWNzVmJLSHZJUmllY2ZTZ0JfY1FQZmF2WWN0b2NMY2o2UdIB8gFBVV95cUxQbERiSWR3NGJ4WHIxUGdVZ0JQLUtDYllKWDBWSXRsZHZ3dWppSUlGVTQwUEdYaWpjQUh2RkFVcXlHNkc3SU50VDN4MHJKNnFPYzNidDNTMmtBRHN2bFAtMEhCTUNWU056aWJNV3FsNm1uODhpZFFzTVVHdXRPSEUtdU9ZZWwxTHZTZXV5ZlRqUHpORVAyRVN1N3BuSU15Y0FpNkVUQXJOSHV3blZpcUcxckVfLTZGeVFqdXUtSUZtYWFtVXZQTjVuODBHUWdYX1RWYWNzVmJLSHZJUmllY2ZTZ0JfY1FQZmF2WWN0b2NMY2o2UQ?oc=5",
+    "texto_original": "Miércoles de Paseo: Invitan a recorrer la propuesta comercial con descuentos y actividades en Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-7db08ab06efe",
+    "fuente": "APFDigital",
+    "titulo": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNeE1VQm5IMDZ6NDQ5NTYzVXZBU2h5SDJiUy11a2xqajBsXzJjZTJEZmdBaFltUkswTExfeTItaThqYUtYYUFLNFFkeVQ1b3hkNFpReHIweHFyUVYzVnJFNzJRN0ItcW5pbmxoeE5zS3VQMTB1U2RrWnBKZHF2UXpuc2MwSWxGcXJ4OHBWZWtMcE1TVEdzMTgwM3AxNW93dHpuaWEtcU5EMEg5emxBM0xxaFEtb0JLdkZUY3RNX2J5WHQxLUZKSWhFOFBWYjRlRXRiQmdrMlNVYmdwTUREOFNYbWtTcTlGZGxvdGhIMG00X0tmeVBNTzYyazJ4NkNnYzI5bHgzQlJlS3o0RU02OXFxRDdhbFdmbUXSAZcCQVVfeXFMTXhNVUJuSDA2ejQ0OTU2M1V2QVNoeUgyYlMtdWtsamowbF8yY2UyRGZnQWhZbVJLMExMX3kyLWk4amFLWGFBSzRRZHlUNW94ZDRaUXhyMHhxclFWM1ZyRTcyUTdCLXFuaW5saHhOc0t1UDEwdVNka1pwSmRxdlF6bnNjMElsRnFyeDhwVmVrTHBNU1RHczE4MDNwMTVvd3R6bmlhLXFORDBIOXpsQTNMcWhRLW9CS3ZGVGN0TV9ieVh0MS1GSkloRThQVmI0ZUV0YkJnazJTVWJncE1ERDhTWG1rU3E5RmRsb3RoSDBtNF9LZnlQTU82MmsyeDZDZ2MyOWx4M0JSZUt6NEVNNjlxcUQ3YWxXZm1F?oc=5",
+    "texto_original": "Elecciones en la Sociedad Rural Argentina: la lista de Etchevehere, Berisso y Spiazzi se impuso en Entre Ríos por el 57%\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-ee6bee103764",
+    "fuente": "APFDigital",
+    "titulo": "La presidenta del Concejo Deliberante de Concordia se mostró optimista en lograr un acuerdo entre el PAMI y el Sanatorio Concordia",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcXNrUDFmd1Nzczc1aFdHQVNGS1RiQjM1b25YeWRwSEN1OHNwX0wyOFlVLTF3cGRkWW51ZVhuTGV5Tko5dFlTWnJhTzd0LWxwSC01QndOaWRGZG9tZ0NsaFI3MnlpOVVBSmg3cE5aSk1Hdkk5T1Aza3doNFlFT1c5NnZpZUg1Z2ZvMXRydHdpM3dxREVrcGRoMTAteXk5NUM0QnNXRldsVVh2T29WU3Y3NjRXZzdaa2dnQW54V3laOElRSnI2UUlPSFVTeFRHNnRMRjdaZjNQLTYtU19kRkloYzVNMUlLcl9URjdmclhyNEIzMGlRNUVlWjVJbVRXZXoxRlhNYlp4eHp6cmFyT0FnZ2t5d2dPMjA3V2Fv0gGbAkFVX3lxTFBxc2tQMWZ3U3NzNzVoV0dBU0ZLVGJCMzVvblh5ZHBIQ3U4c3BfTDI4WVUtMXdwZGRZbnVlWG5MZXlOSjl0WVNacmFPN3QtbHBILTVCd05pZEZkb21nQ2xoUjcyeWk5VUFKaDdwTlpKTUd2STlPUDNrd2g0WUVPVzk2dmllSDVnZm8xdHJ0d2kzd3FERWtwZGgxMC15eTk1QzRCc1dGV2xVWHZPb1ZTdjc2NFdnN1prZ2dBbnhXeVo4SVFKcjZRSU9IVVN4VEc2dExGN1pmM1AtNi1TX2RGSWhjNU0xSUtyX1RGN2ZyWHI0QjMwaVE1RWVaNUltVFdlejFGWE1iWnh4enpyYXJPQWdna3l3Z08yMDdXYW8?oc=5",
+    "texto_original": "La presidenta del Concejo Deliberante de Concordia se mostró optimista en lograr un acuerdo entre el PAMI y el Sanatorio Concordia\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-uno-entre-rios-gn-ccb0db269913",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Diamante: los acusados del crimen de Barreto seguirán en la cárcel y hubo incidentes en Tribunales",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVU5hbmpSTjBfVGZMWC16ak1MSFhFS1FETldBQUU3VnhjT1JnWlEzM2V2dzl4bG9NTTNmZVNmTVAwR1hGNnpwTjM2RGhYNy1JaWplMjV1WWRPWUl0UExhaXBLMDN6aURTT2haOFh1LWt4YnlDVGowbXd1SzdsdHlBdVVXV1lJWVZOQVRVS0l6SnNjVTA4Y0dGdUhEekpDeE1mSTJnS29NYjg0OWdwa3JfNjA0Q0NGTFBLRFlWQTZMYlk4WlFMVFg2QWhmSFhaVFVn0gHWAUFVX3lxTE8tZEFPRHI2TDZuWkJXaGJENWI3N2RLU2RJeWJseXktWVJoOVlvaEV4Y2Juekc3bDRtejY4X0NIcHJoVEJDZnY2dGJJRW1WOEZuTmQyVWZKQUtZNnpLZGN2cVRpVHRrTTlqeHVuT3cxYUV5S2RYZ0l3MjBnXzJzcGlmUXRZbEZaRURIZW1SUmxlZDNkVVJnV2kyU1l0dE1aZElQZ2gtOFFSZ1hNeXhqdUF1QTlIT21hNE9JbzFLOFRZZ1pkZDE5ekZPOE1QMlEzMkxCQ1p1Q1E?oc=5",
+    "texto_original": "Diamante: los acusados del crimen de Barreto seguirán en la cárcel y hubo incidentes en Tribunales\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-uno-entre-rios-gn-b0e3f906606f",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXRXM0xISkczTTVLNEtpanE1YXVNMnBXaTJCRlZkYkp0ZHgtMVZNYVJBbHI3aUVaZjlkVXF5ZE9rZFhWcE5DSmJTNnVDd0VKUUJ4clpBTjdlQVlSTld4bDhib2ppYWR6LVF3eFhRaVIwZmk1NjNuQ2JyVHNnUzBXbUlpU0tRWW9VdW1QYUV1aVJMRW9sbjA1NlZfZGg5azN1dS1TOGxTUDQ0ZENEaU8wOTFGMDB1aEhqYmNOb1NPek5iVTFyRHB6MFR0blczZDVjOFc1SnVlTENJUHRj0gHiAUFVX3lxTFBMWWFwTnEzUmp1V3NQZF9lLW5mVHR4bFNCd2FNcUZKQ21EN3ZpamxWOF9lVTczRzdvMVE5NUIyUzZ6SXZFMTh0ZUk2X1VMWjl3Q3d6eHFobVpwUkN2cDVLQmRqa1h3d21PSmx1NVVFeWg0QnZxNU9IdHNJOUJ2bEE1UEJGSUpwZUVqNzZPV3J6RDdITXF6MXZPWFg3ZVFMWlF1Z2Mzd3l2dmFhYnN6Yk1TeVlnSHpwczkybG5VSmVIMHJtUG9xTWVUTDA1dkNKZXlfdUhGcmlCMWRrRHlkNUQtVEE?oc=5",
+    "texto_original": "Cayó una avioneta de fumigación en un campo del sur entrerriano y hospitalizaron al piloto\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-uno-entre-rios-gn-7bd06859e7b8",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Cotapa, en manos de sus trabajadores, inauguró su quinto local en Paraná",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWZ2dVdQdnpJblFIYkc2Q05qMTBmT1l0al8temFBZER2V0hvaG9WSG5yTHZ0Y01vM2JKcEQ4UEtHQVdRSkZGUTNNT0RQZDZzdmtOQWFkRnFfTWlBQkYzWmFlNzhFbTJxMHZxd3Z3N1JUNGlBbERYUEFYNlY0dE10X3gtZWRpT2R2UUlwMDNhODFheERtM2R3ckxZc2hSUDNQRVhMRVVfamxBaDVBYUxuemd3TG55TmxFcnlRUVZ30gHDAUFVX3lxTE1YcDctS1NXb2phTTNTWlc0X1BsclJESVJoUWh6TlZKSGgwOTFuWGQ4U3kwOEpmdi1zWWhTWGJibVRtRGktVUhrTHpoNVBrYXoyXzN2NzhDTTJOYVUwRDE2ZS01dDdmTHhrcHdzaDdvanpqUVVvSTlOeWx0Z0N6bzliVEtJeFg2MjZ2NkdLMGt1MWlzUnpYSTA5eFRObGJJUjNzN3FPRUFlUFBmcHZhQUtxYXZHOGszNlk5UmRCcmJtRDhTdw?oc=5",
+    "texto_original": "Cotapa, en manos de sus trabajadores, inauguró su quinto local en Paraná\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-7163dcdadb87",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Frigerio inauguró la residencia estudiantil para mujeres de la agrotécnica de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlBQNlZrUXV3T1ZwNnZRZ2NwT2FPaW9RdWZ3UG9TeWdrZjBIR3VpUHBZUF9kTmdYaWxrS1JLTVpRZVJkNW93bGxRX1lTQkZ2b1VYb2xNY0QzdHFwdmQ2X2tjZkpnM0o3S3AtVkhISVhnajJjclQxTWllWnE4c1JPTS1iRHdjU0hIaXRtemVrOHVPVUFOU2NwbTE4NXRSRTdHNk5B?oc=5",
+    "texto_original": "Frigerio inauguró la residencia estudiantil para mujeres de la agrotécnica de Villaguay\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-la-justicia-de-entre-rios-pide-la-extradicion-del-cunado-de-aguilera",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "La Justicia de Entre Ríos pide la extradición del cuñado de Aguilera",
+    "fecha": "2026-09-10",
+    "link": "https://entreriosahora.com/la-justicia-de-entre-rios-pide-la-extradicion-del-cunado-de-aguilera/",
+    "texto_original": "La jueza de Garantías de Paraná Marina Electra Barbagelata envió un exhorto al juez Martín Luis Brites, titular del Juzgado de Instrucción Nº 3 -Tercera Circunscripción Judicial- de la ciudad de Puerto Iguazú, provincia de Misiones, y pidió la extradición de Alejandro Luis José Almada, cuñado de Juan Pablo Aguilera, encarcelado por corrupción en el marco del Megajuicio.\n\nAlmada, que pasó por Tribunales en 2021 para declarar en el marco del megajuicio que terminó en condena a 6 años y 6 meses de cárcel para su cuñado Juan Pablo Aguilera, está imputado en la megacausa de los Contratos Truchos, caratulada en Tribunales como “Beckman Flavia Marcela, Scialocomo Esteban Ángel Alberto, Álvarez María Victoria s/Estafa”.\n\nEl fiscal Ignacio Arramberry pidió el envío de Almada de Misiones a Entre Ríos. En la megacausa de los Contratos Truchos, Fiscalía pidió 10 años de cárcel para Almada.\n\nCausa Contratos: qué penas pidió la Fiscalía\n\n \n\nSe trata de un empleado de la Cámara de Diputados, de 41 años, cuyo último domicilio registrado es Los Ceibos N° 1159, de Paraná. La jueza Barbagelata pidió su traslado desde la División de Detenidos de la Unidad Regional V de la Policía de Misiones, de la ciudad de Puerto Iguazú, provincia de Misiones, hasta la Alcaidía de Tribunales de Paraná, Entre Ríos, “donde permanecerá alojado a disposición del señor agente fiscal Dr. Ignacio Aramberry. De autorizarse el traslado, este se realizará entre el día de la fecha y el 11 de septiembre de 2026, bajo la segura custodia de la comisión policial de la Dirección Operaciones y Seguridad – División Tribunales- de la Policía de Entre Ríos”.\n\nDetienen al cuñado de Aguilera, complicado en la Causa Contratos\n\n \n\nA fines de mayo de 2021, el Ministerio Público Fiscal pidió elevar a juicio oral la megacausa de los contratos supustamente apócrifos en la Legislatura entrerriana, un investigación que abarcó una década, de 2008 a 2018, y que busca establecer el desafalco producido al erario público mediante la celebración de contratos laborales truchos que servirían para conformar una red de recaudación de fondos para financiar la política.\n\nEn un escrito de 540 páginas, los fiscales Patricia Yedro e Ignacio Aramberry señalan que «encontrándose concluida la presente Investigación Penal Preparatoria en lo que refiere a los imputados antes nombrados, efectúe el control correspondiente y remita el caso a Juicio, previa realización de la audiencia».  La petición fue elevada a la jueza de Garantías Marina Electra Barbagelata, quien notificó a todos los defensores y también al actor civil, la Fiscalía de Estado.\n\nEn aquel escritor, eran 32 los imputados en la causa :Flavia Marcela Beckman; Hugo Rubén Mena; Esteban Ángel Scialocomo; María Victoria Ávarez; Alfredo Bilbao; Gustavo Hernán Pérez;  Roberto Ariel Faure; Verónica Caíno; Ángel Rubén Ferreyra; Fernando Gastón Sarnaglia; María Jazmín Mena Giovenni; María Macarena Álvarez;Andrea Noemí  Beatriz Demartin: Sergio Esteban Cardoso; Alejandro Luis José Almada; Juan Pablo Aguilera; Diego Martín Pagnoni; Mariano Speroni; Hernán Javier Díaz; Marta Aurora Pérez; Maximiliano Degani; Pedro Eduardo Opromolla; Guido Daniel Karpp; Renato Jesús Mansilla; Juan Domingo Orabona; Jorge Enrique De Breuil; Héctor Gustavo Falco; Jorge Fabián Lazzaro; Nicolás Beber; Jorge Pablo Balladares; José Javier Schneider; Viviana Giselle Mena Gioveni.\n\nDe los 32 imputados inicialmente en el legajo quedaron 18, porque 12 accedieron a suspensiones de juicio a prueba, Esteban Scialocomo acordó un juicio abreviado; y el contador Gustavo Falco fue sobreseído. De modo que, además de Bilbao, Beckman, Mena, Faure, De Breuli, Pérez, Almada, Aguilera, Díaz, Marta Pérez, Opromolla y Degani, también están imputados Sergio Esteban Cardoso; Diego Martín Pagnoni; Mariano Speroni; Juan Domingo Orabona; Jorge Fabián Lazzaro; y José Javier Schneider.\n\nA mediados de abril de 2025, quienes accedieron a probation fueron María Victoria Álvarez, Verónica Caíno, Alejandro Ferreyra, María Macarena Álvarez, Fernando Gastón Sarnaglia, Andrea Demartín, Nicolás Beber, Renato Mansilla, Guido Krapp, Jorge Pablo Balladares y Jazmín y Giselle Mena Gioveni.\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "legislatura",
+      "justicia",
+      "organos_control"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-163898-2",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Narcopolicía: procesaron al comisario Rosatelli",
+    "fecha": "2026-09-10",
+    "link": "https://entreriosahora.com/163898-2/",
+    "texto_original": "El juez federal de Paraná, Leandro Ríos, dictó el procesamiento con prisión preventiva de Daniel Alejandro Rosatelli —abogado y oficial de la Policía de Entre Ríos— junto a otros cuatro integrantes de una organización criminal, por el transporte de más de 1.345 kilogramos de marihuana. La resolución judicial les atribuye haber coordinado la adquisición, el acondicionamiento y el traslado del cargamento de estupefacientes interceptado en La Paz el 13 de febrero, además de disponer embargos millonarios sobre sus bienes.\n\nEl marco de la causa atribuye a los procesados el transporte organizado de estupefacientes y falsificación de documentos: “Entre el 4 de noviembre de 2025 y el 13 de febrero de 2026, Daniel Alejandro Rosatelli, Martín Reynaldo Germán Pelizzari, Claudio David Luna, Alan Josías Gabriel Favieri y José Belén Favieri —junto a otros colaboradores— organizaron y ejecutaron el transporte de 1.345,51 kilogramos de marihuana compactada en 1.716 ‘ladrillos’ o ‘panes’. El cargamento fue interceptado el 13 de febrero de 2026 en el ‘Camino del Borello’ y Ruta Nacional N° 12 (La Paz, Entre Ríos) tras la persecución de una furgoneta Citroën Jumper blanca. Rosatelli aportó los fondos y la logística para comprar la furgoneta —la cual registraba pedido de secuestro por estafa— y colocarle una chapa patente ideológicamente falsa (dominio GIJ 496) para eludir los controles. La maniobra incluyó el despliegue de una camioneta Toyota Hilux que operó como ‘auto-guía’ en la ruta.\n\nPor otra parte, se señala otro hecho endilgado a Rosatelli, calificado como lesiones graves agravadas y amenazas coactivas: “El 12 de noviembre de 2025, en la sede de la ONG Suma de Voluntades en Paraná, Rosatelli agredió físicamente al intermediario Sixto Ramón Maciel golpeando su cabeza contra una pared con un arma de fuego. La agresión le provocó a la víctima un traumatismo encéfalo-craneano con riesgo de vida. Dicho ataque violento tuvo como objetivo amenazar a Jonatan Emanuel Barbieri para que retirara la denuncia por estafa vinculada a la furgoneta, radicada una hora y media antes, garantizando así la impunidad y disponibilidad del vehículo para el tráfico de drogas”.\n\nLa historia se remonta a noviembre de 2025, cuando Jonathan Barbieri, un excabo de la Policía exonerado por su participación en bandas delictivas, con varias causas y al menos una condena, vendió un utilitario Citroën Jumper a otro delincuente especialista en estafas: Martín Reynaldo Pelizzari, recientemente condenado. El 4 de noviembre por la mañana se reunieron en la Shell del acceso norte de Paraná, donde acordaron la transacción por 20 millones de pesos. En horas de la tarde, en la esquina de Corrientes y Nogoyá, Pelizzari le entregó una parte en efectivo (unos 2.400 dólares), dos cheques del Banco Galicia por 3 millones cada uno y le realizó dos transferencias de 1 millón cada una desde la cuenta de Claudio David Luna. Se comprometió a pagarle el saldo una semana después.\n\nSin embargo, no hubo pago de la diferencia que quedaba saldar y encima los cheques fueron rechazados por apócrifos. Barbieri hizo la denuncia en la comisaría segunda y luego la amplió en la Fiscalía, por el perjuicio en unos 14 millones de pesos.\n\nEn los relatos posteriores (no plasmados en la denuncia formal) se sostuvo que cuando Barbieri y quien sería el titular del vehículo fueron a reclamar, sufrieron un fuerte apriete y golpiza, por la cual el primero quedó bastante desfigurado. Incluso hubo uno que terminó hospitalizado. “En Paraná mandamos nosotros”, dijo el hombre que le advirtieron, a punta de pistola.\n\nEl comisario Rosatelli es mencionado en las narraciones de esta historia desde fines del año pasado, pero no así en la denuncia formal que llegó a la Fiscalía de Paraná.\n\nEl suceso, o al menos este relato, quedó como una anécdota sin mayor trascendencia.\n\nHasta que el viernes 13 de febrero de este año, en horas de la noche, ese episodio adquirió una relevancia particular.\n\nPolicías de Delitos Rurales de La Paz interceptaron un vehículo que transitaba por el denominado “Camino del Borello”, que en rigor es calle Los Aromos, un camino de tierra alternativo que comunica la ciudad de La Paz con la ruta nacional 12. Pensaban que esa Citroën Jumper estaba involucrada en los hechos de cuatrerismo de la zona.\n\nDetuvieron a una persona y otras dos se lograron fugar a campo traviesa por la oscuridad. Cuando abrieron el utilitario encontraron en su interior 61 bultos con un total de 1716 ladrillos de marihuana, cuyo pesaje total arrojó 1.345,5 kilos. Además, había un pequeño envoltorio con menos de un gramo de cocaína y otro con 16 gramos de cannabis.\n\nConstataron, además, que el Citroën Jumper patente GIJ 496 tenía pedido de secuestro desde el 2 de diciembre del año pasado. Era el vehículo denunciado por Barbieri, vendido a Rosatelli y que ahora aparecía en cargada de droga.\n\nLa causa quedó en manos del Juzgado Federal de Paraná a cargo de Leandro Ríos, quien indagó al único detenido, con la acusación pública del fiscal federal Leandro Ardoy, y la defensa particular del abogado Claudio Berón. El hombre se abstuvo de declarar y quedó con prisión preventiva en la Unidad Penal N° 1. Se trata de César Leonel Ramírez, de 34 años, de la ciudad de La Paz y con una condena cumplida por robo.\n\nLa investigación avanzó para poder llegar al dueño del cargamento y del vehículo. Se encontraron con lo sucedido el año pasado y la denuncia de Barbieri. Hace aproximadamente un mes, los investigadores se presentaron en la División Sustracción de Automotores donde se encuentra retenida el Citroën Jumper y se llevaron la documentación correspondiente. Luego de este procedimiento, llamó la atención que un policía que era cercano a Rosatelli cambió de teléfono y de línea, informaron fuentes cercanas a \nANÁLISIS\n.\n\nParalelamente, se estaban desarrollando otras tareas, tras los pasos de los sospechosos.\n\nUno de los que andaba muy inquieto en los días posteriores al secuestro del cargamento de marihuana era Claudio David Luna, y muchos en su barrio, la zona del Mariano Moreno, comentaban que estaba involucrado en ese episodio.\n\nOtro que fue ubicado como sospechoso es el citado Pelizzari, un conocido estafador con múltiples causas en la Justicia y se encuentra en la cárcel cumpliendo una condena reciente por estos hechos delictivos. De hecho, uno de los comentarios extraoficiales apuntaba que él fue quien aportó los cheques para la compra de la camioneta.\n\nTambién apareció vinculado Esteban Siebenlist Bustos, un muchacho con un par de causas judiciales por amenazas, a quien, en el marco de uno de esos legajos, en 2024 la Policía allanó su domicilio en la zona de calle Pronunciamiento, cerca del ferrocarril, y le secuestró una camioneta Toyota Hilux 4×4.\n\nPor otro lado, también pudieron identificar a quienes serían los otros dos paceños involucrados en el cargamento de marihuana, los que se fugaron: se trata de los hermanos Alan y José Belén Favieri, ambos con varias causas judiciales por amenazas, abuso de armas, lesiones, entre otras. El segundo tiene una condena por narcomenudeo en La Paz.\n\nAllanamientos y detenciones\n\nDe este modo, se ordenaron los allanamientos simultáneos este miércoles por la mañana. Uno fue en el domicilio particular de Rosatelli, en su departamento del edificio de calle 25 de mayo frente a la plaza triangular en la intersección con Echagüe. Allí el abogado fue detenido y trasladado a la Unidad Penal 1 de Paraná, luego de la identificación en la Delegación de la Policía Federal. No se resistió y colaboró en todo momento con el procedimiento. Ingresó a las 16 y quedó alojado en una celda del sector de Guardia del establecimiento penitenciario. Sus abogados defensores son Rubén Pagliotto y Damián Petenatti, junto a Miguel Ángel Cullen.\n\nTambién su estudio jurídico ubicado en calle Corrientes 519, y el domicilio de su padre en la ciudad de Chajarí: el exsubjefe de la Policía de Entre Ríos durante una década, desde 2005 hasta 2015.\n\nAdemás, la Policía Federal allanó la oficina de la secretaría general donde funciona asuntos jurídicos, a cargo de Rosatelli, en la Jefatura Departamental Paraná en calle Gualeguaychú y Belgrano.\n\nAlan Favieri fue detenido en La Paz cuando caminaba y fue identificado por policías. Luna fue arrestado por la noche, quedó alojado en la Alcaidía de Paraná e iba a ser trasladado al penal. Stiebenlist Bustos y José Favieri estaban siendo buscados para su traslado a la cárcel de la capital provincial.\n\nTodos irán a defenderse en las próximas horas al momento de las indagatorias en el Juzgado Federal y se conocerán más detalles de la investigación y de cada imputación.\n\nLo que muchos mencionaban desde la mañana de este miércoles es que si el juez federal Leandro Ríos ordena detener a personas y enviarlas a la Unidad Penal, no va en busca de pruebas para sustentar una acusación (si hay, mejor), sino que ya tiene las suficientes para indagarlos. Desde el “Gordo Nico” Castrogiovanni hasta el Narcomunicipio de Varisco y demás acusados; desde Gonzalo Caudana hasta Leonardo Airaldi, la realidad ha sido así. Y las sentencias del Tribunal Oral Federal de Paraná terminaron corroborando esas investigaciones.\n\nInforme reservado\n\nA fines del año pasado, autoridades de la Policía habían informado a la Justicia Federal acerca de una serie de situaciones que les llamó la atención, donde aparecía un grupo policial entre los que estaba Rosatelli. Se trataba de secuestro de importantes cargamentos de droga hallados en forma “causal”, sin personas detenidas. No se puede afirmar por el momento que este informe tenga que ver con la causa judicial por las detenciones, pero sí forma parte del contexto.\n\nEl primero fue en junio de 2024, cuando encontraron 30 kilos de marihuana durante un procedimiento en busca de armas de fuego en una vivienda deshabitada del barrio Mosconi.\n\nEl segundo fue en marzo de 2025: \nen busca de una moto robada, los policías de Investigaciones de la Departamental siguieron un sendero \npor la zona oeste de Paraná, cerca de los bañados, que los llevó hasta un lugar en medio del descampado donde se encontraron con una casilla de chapa y lo que se informó como una “cocina de cocaína”. Había casi 40 kilos de pasta base, casi 63 kilos de una sustancia blanca en polvo, dos fuentones plásticos, seis recipientes plásticos rectangulares, tres bidones con restos de acetona, lidocaína, y una prensa metálica.\n\nLas características de este episodio llamaron la atención de las autoridades policiales y del propio ministro de Seguridad, Néstor Roncaglia, quien por su trayectoria en investigaciones por narcotráfico en la Policía Federal no se creyó aquello del descubrimiento causal. En el mencionado informe se asentó además que el lugar parecía un verdadero montaje: la casilla de chapa estaba recientemente armada, con tornillos nuevos y una prolijidad poco habitual en el ambiente narco. “Bien de milico”, definió en ese momento un exjefe policial. Además, había fuentones iguales a los utilizados en el comedor policial, evidentemente nuevos, sin uso. Alrededor el pasto se notaba pisado de esos días previos. Tampoco había nadie custodiando semejante cargamento de droga.\n\nEn el marco de ese operativo, se robaron una moto del 911 que nunca más apareció. Un episodio bochornoso que en ese momento no dejaron trascender.\n\nPor último, el 1° de diciembre de 2025 \nsucedió otro hallazgo de droga\n: a las 13.30 de ese lunes el jefe de la comisaría séptima recibió un llamado donde un pescador anónimo dijo que observó una lancha negra con dos motores donde sus ocupantes descargaron bultos sobre la costa de un campo ubicado en calle Walter Grand al final.\n\nAl llegar al lugar, sobre la orilla del río Paraná encontraron los 18 bultos que tenían marihuana y pesaron algo más de 134 kilos. \nOtra vez un hallazgo sin responsables y sin rastro alguno\n. El llamado telefónico dejó muchas dudas: un punto es que no queda claro dónde estaba el pescador observando esa situación que describió. No lo dijo. Otro es que resulta muy extraño encontrar una lancha de las características a las mencionadas por el denunciante: negra con dos motores fuera de borda, algo que generalmente se utiliza para la navegación marítima. Tampoco se entendió por qué el pescador llamó al celular del jefe de la comisaría, en lugar del 911. Hoy en día muchos vecinos tienen agendado el celular de la comisaría de la jurisdicción donde viven, pero en aquella zona no pareciera ser esta situación. “Otro circo”, afirmaron investigadores de Drogas Peligrosas.\n\nLo que se plasmó dicho informe es la presencia en los hallazgos de droga del abogado de la Jefatura Departamental Paraná, Daniel Rosatelli, quien pese a cumplir horario de oficina en esta sede policial para su labor técnica jurídica, aparecía en los procedimientos ajenos a su función\n\n“Para criterio de las personas que observaron estos casos, eso estaba armado”, dijo una fuente consultada.\n\nPor su parte, quienes estaban a cargo de esos procedimientos se quejaron luego de ser acusados cuando lograban secuestros de cocaína y marihuana para celebrar. “Tenemos más problemas por sacar droga de la calle que por otra cosa”, lamentan en ese círculo.\n\nFuente:\n\n Análisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "agro",
+      "municipios",
+      "justicia",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguaychú",
+      "chajarí",
+      "federal",
+      "gualeguay",
+      "la paz",
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-detienen-al-cunado-de-aguilera-complicado-en-la-causa-contratos",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Detienen al cuñado de Aguilera, complicado en la Causa Contratos",
+    "fecha": "2026-09-10",
+    "link": "https://entreriosahora.com/detienen-al-cunado-de-aguilera-complicado-en-la-causa-contratos/",
+    "texto_original": "Pese a haber fijado domicilio en Paraná, Alejandro Almada, cuñado de Juan Pablo Aguilera y una de las piezas claves en la Legislatura provincial para el robo de fondos públicos, reside hace años en la Triple Frontera: tanto en Puerto Iguazú, Misiones, como en la localidad brasileña Foz do Iguazú. Junto a su pareja Micaela Banegas, tienen sus bienes inhibidos por la Justicia, sin embargo, realizaron importantes inversiones en negocios y empresas, que están a nombre de la mujer, como un bar con autos de colección, en lo que podría ser la ruta del dinero de los contratos y el posible lavado, según la investigación de varios meses realizada por \nANÁLISIS\n. Este miércoles, la Justicia libró su pedido de detención por violar la orden judicial y el hombre de 41 años, tras enterarse de esta medida, se presentó espontáneamente a la noche en la sede de Gendarmería Nacional. Será trasladado a Paraná en las próximas horas y pedirán la prisión preventiva.\n\nAlejandro Almada era un engranaje clave en el esquema de sustracción de fondos públicos que funcionó en la Legislatura provincial, entre 2008 y 2018. Ingresó a la Cámara de Diputados como empleado administrativo, mientras que su cuñado Juan Pablo Aguilera (cuñado de Sergio Urribarri) estaba en la planta del Senado. Ambos eran los recaudadores del sistema de contratos apócrifos que tenía otras piezas claves que serán juzgadas próximamente por el millonario desfalco, y autoridades políticas que ahora están comenzando a transitar por la Fiscalía. Los dos mordían una porción del botín.\n\nMegajuicio: «No soy testaferro de nadie», dijo Alejandro Almada\n\n \n\n \n\n \nJuan Pablo Aguilera y Alejandro Almada, cuando fueron detenidos en 2018.\n\nEl dinero público tuvo diferentes destinos, aunque gran parte todavía es un misterio. La investigación del Ministerio Público Fiscal en esta causa y en otras como la de enriquecimiento ilícito del exmandatario, pudo encontrar gastos e inversiones que se podrían explicar en parte con esta defraudación. También se mencionaron en el libro La banda de los contratos, de Daniel Enz, inversiones inmobiliarias posiblemente vinculadas a esta fortuna ilícita.\n\nLos Almada son una rama del clan que gobernó y mantuvo un poder absoluto en la provincia. Su hermana era la pareja de Aguilera (recientemente encarcelado junto al exgobernador y el exministro Pedro Báez). Este vínculo que le trajo muchos beneficios a él y su familia.\n\nEl primero fue el que recibió su padre, Héctor Luis “Pitín” Almada (ya fallecido), un comisario que fue exonerado por verse involucrado en situaciones delictivas: la más famosa fue la facilitación y la fuga del exoficial de la Policía Carlos Balla, cuando estaba detenido por el homicidio del escribano Rubén Calero. Urribarri decretó el perdón y su reingreso a la fuerza de seguridad con el máximo rango de comisario mayor, aunque no se desempeñaba en la fuerza de seguridad.\n\nAlmada pidió los $374 mil\n\nAlejandro fue nombrado por decreto como agente auxiliar de la Policía de Entre Ríos, en el año 2006, sin curso previo y sin pasar por la Escuela de Suboficiales de Rosario del Tala. Fue una orden de Urribarri, por entonces ministro de Gobierno en la última administración de Jorge Busti. En 2008, a poco de asumir como titular del Poder Ejecutivo provincial, lo trasladó a la Custodia Gubernamental donde recaudaba con viáticos. En 2012 pidió la baja de la Policía porque había otros planes más ambiciosos: era socio de su cuñado Aguilera en las dos firmas Tep y Next por las cuales se direccionaba la publicidad oficial y se desviaban fondos públicos. Dos años después, el joven ingresó a la Cámara de Diputados, donde ya venía funcionando el mecanismo de los contratos truchos.\n\nLa pareja de Alejandro Almada es Micaela Agostina Banegas, quien en esos años de prosperidad instaló un salón de belleza de lujo en la esquina de La Rioja y Uruguay de Paraná con importantes inversiones. El padre esta mujer es Eduardo Banegas, más conocido como “Pirincho” en el ambiente policial donde lo recuerdan por su pasado como asaltante, aunque no contaría con condenas en Entre Ríos, según el registro público en el sitio web del Poder Judicial.\n\nAlmada está imputado desde 2018 y, luego de estar unas semanas detenido a fines de ese año, la Justicia le dictó la prohibición de salir de Paraná sin autorización judicial. Asimismo, tanto él como su pareja Banegas y más de 20 personas (entre acusados y sus parejas) quedaron con todos sus bienes inhibidos, para asegurar parte de los bienes que eventualmente se podrían decomisar tras una condena.\n\nEsta parte del clan familiar decidió alejarse de Entre Ríos y se mudaron a Misiones, aunque en los últimos años están radicados en Foz do Iguazú. Pese a la prohibición de salir de la ciudad de Paraná sin previa autorización judicial (mucho menos cruzar la frontera nacional), y a las limitaciones que implica la imposibilidad de utilizar recursos económicos para vender o invertir legalmente, la realidad de este grupo familiar denota una importante prosperidad.\n\nEl negocio más notorio y ostentoso se llama V8 Garagem Bar, iniciado a fines de 2023. Se trata de un terreno muy amplio en una esquina sobre Avenida Das Cataratas 3701 (una de las principales arterias de la localidad fronteriza con gran movimiento turístico) donde levantaron este emprendimiento gastronómico y de eventos, que también funciona como salón de fiestas infantiles, y al lado pusieron en marcha un lavadero de vehículos. Dentro del salón, hay numerosos autos de colección con los cuales realizan exhibiciones.\n\nEsta empresa está a nombre de Micaela Agostina Banegas, quien además tiene otras dos firmas: una es Herma Holding Ltda., junto a su hermano Tomás Valentín Banegas. Se trata de una figura a través de la cual se pueden realizar inversiones en otras empresas. La otra es Vivra Travel Agencia de Viajes Ltda., que la mujer tiene junto a una socia brasileña, J.M.D., desde abril de este año. Esta socia se inscribió en el rubro panadería en 2012, y emprendió con una empresa de consultoría inmobiliaria en 2025. En el domicilio de la empresa de turismo no hay nada que parezca a un comercio, en una zona residencial de Foz do Iguazú, y la cuenta de Instagram tiene apenas una sola publicación.\n\nEl joven Tomás Banegas aparece a su vez como dueño de Tomás Valentín Bar Ltda., con domicilio en Avenida das Cataratas 3703, es decir, pegado al bar de autos, donde funciona un lavadero.\n\nAdemás, el salón de belleza “Div boutique” que funcionaba en la capital entrerriana, iba a ser trasladado a Foz do Iguazú, según anunciaban en Instagram.\n\nSituaciones irregulares o ilícitas\n\nLa situación de Almada es complicada si la Justicia corrobora estas acciones. Por un lado, porque al momento de iniciar las audiencias de remisión a juicio de la causa Contratos, el hombre firmó una planilla con sus datos identificatorios, donde consignó como domicilio calle Los Ceibos 1159, en el barrio San Agustín de Paraná. Es decir, para la Justicia y para el Ministerio Público Fiscal, Almada debería estar residiendo en ese lugar. Así lo dispuso la Justicia en marzo de 2019 cuando lo liberó: al igual de los otros acusados que habían sido detenidos, quedó con la tajante “prohibición absoluta de ausentarse de la ciudad de Paraná sin previo acuerdo de la Fiscalía o autorización judicial”.\n\nFuentes consultadas por \nANÁLISIS\n señalaron que Almada “va y viene todo el tiempo”, de Argentina a Brasil, de Misiones a Foz do Iguazú. Es más: a través de allegados, trascendió que hace unos meses toda la familia viajó a Europa durante varias semanas, pero el registro migratorio está en el vecino país, desde donde salió el vuelo.\n\nEl registro migratorio de egresos y regresos al país confirma aquellos dichos y muestra un frenético ida y vuelta desde el año 2020, con cientos de cruces migratorios, sobre todo desde el año pasado. Hizo un surco en el puente internacional Tancredo Neves. La semana pasada, luego de haber regresado a Puerto Iguazú el 27 de agosto, Almada estuvo una semana en Argentina y volvió a viajar para Foz do Iguazú el 3 de septiembre, el mismo día en que se conoció el fallo de la Corte Suprema de Justicia de la Nación que confirmó las condenas a Urribarri, Aguilera y Pedro Báez y su inminente encarcelamiento. Desde entonces, Almada no había regresado.\n\n \nAlmada registra cientos de cruces del puente internacional en los últimos años.\n\nPor otro lado, la inhibición dictada por la jueza de Garantías Marina Barbagelata, confirmada por el Tribunal de Juicio y Apelaciones y por la Cámara de Casación Penal, abarcaría todo el patrimonio, por lo cual tendrían prohibido realizar cualquier tipo de inversión. Para la Fiscalía, esto podría configurar el delito de lavado de activos, de naturaleza federal.\n\nEn diciembre del año pasado, se ordenó la reinscripción de las inhibiciones generales de bienes oportunamente dispuestas sobre imputados y algunas de sus parejas: Alfredo Bilbao, Gustavo Pérez, Sergio Esteban Cardoso, Flavia Marcela Beckman, Hugo Rubén Mena, Juan Domingo Orabona, Pedro Eduardo Opromolla, Jorge Enrique De Breuil, Juan Pablo Aguilera, Alejandro Luis José Almada, Roberto Ariel Faure, Verónica Caíno, Jorge Pablo Balladares, Guido Daniel Krapp, María Jazmin Mena Gioveni, Nicolás Beber, Renato Jesús Mansilla, María Victoria Álvarez, Viviana Gisell Mena Gioveni, Julia Gabriela Vainstein, Sandra Fabiana Marozzini, María Alejandra Camisassa, Micaela Agostina Banegas, Luciana María Belén Almada. En el caso de Camisassa, esposa de De Breuil, recientemente la Justicia le levantó la inhibición sobre su patrimonio que comparte con su marido.\n\nEn la resolución de inhibición de abril de 2019, sobre Almada se congelaron los siguientes bienes registrables: inmueble ubicado en calle Martín Pescador, en la localidad de Estancia Grande, una zona de quintas al sur de Concordia. Específicamente, se encuentra en el barrio privado Chacras al Río, un lugar de ensueño para gente rica (partida provincial 02 163015 7, matrícula No 6665, parcela 196; 2); el auto Ford Focus 5p 2.0 dominio AA349YX; cuotapartes correspondientes a la sociedad NEXT S.R.L.. Sobre Banegas, se inhibió el inmueble ubicado en La Picada, Departamento Paraná, el vehículo Renault Duster PH2 Privilege año 2016, y un auto Fiat Vivace.\n\nEn el mencionado Ford Focus fue el que detuvo la Policía Federal en la ruta nacional 12 el 18 de enero de 2018, donde se conducían la pareja Almada y Banegas. Les descubrieron que llevaban una caja de cartón con fajos de billetes de distinta denominación que sumaban 371.400 pesos, es decir unos 20.000 dólares en ese momento. El dinero fue secuestrado por la Justicia Federal por su dudosa procedencia. Todavía faltaban unos ocho meses para que saltara el escándalo de los contratos truchos. Para la Fiscalía, esa plata era producto de la actividad ilícita desplegada en la Legislatura, porque coincide con las anotaciones del cuaderno secuestrado a Hugo Mena, donde se leía que en esos días le realizaron entregas de dinero a Almada, un “recaudador” al igual que su cuñado Aguilera.\n\nDetenido y audiencia de prisión preventiva\n\nEl Ministerio Público Fiscal solicitó esta semana el pedido de detención de Almada, atento a la información de su ausencia de la ciudad de Paraná. Se realizaron diferentes medidas, entre ellas se solicitó el registro de salidas y regresos al país a la Dirección Nacional de Migraciones. Con este informe, que reveló la ausencia del imputado de la ciudad de Paraná, se solicitó su detención. La jueza de Garantías Marina Barbagelata, ordenó el arresto de Almada. Aunque esta orden debía mantenerse en secreto ante un posible peligro de fuga, la información se filtró y hubo un episodio tenso en Tribunales con un familiar reclamando por el pedido de detención. El propio Almada decidió dirigirse hasta la sede Gendarmería y ponerse a disposición de la Justicia.\n\nSe espera que en las próximas horas sea trasladado a Paraná. Podría realizarse una audiencia para evaluar la situación de Almada, donde la Fiscalía pediría la prisión preventiva hasta la finalización del juicio de la causa contratos truchos, que aún no tiene ni siquiera fecha de inicio. En la etapa de remisión, la Fiscalía anticipó una pretensión punitiva de 10 años de prisión para él.\n\n \n\n \n\nFuente: \n\nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:51:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "comercio",
+      "gobierno",
+      "legislatura",
+      "justicia",
+      "infraestructura_obra_publica",
+      "educacion",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "federal",
+      "rosario del tala",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-se-abrieron-los-sobres-para-intervenir-la-escuela-de-educacion-integral-de-santa-elena",
+    "fuente": "El Heraldo",
+    "titulo": "Se abrieron los sobres para intervenir la escuela de educación integral de Santa Elena",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/se-abrieron-los-sobres-para-intervenir-la-escuela-de-educacion-integral-de-santa-elena",
+    "texto_original": "En el marco de la planificación de obras de infraestructura escolar, se realizó la apertura de sobres para la ejecución de trabajos de reparación y mejora de la accesibilidad en la escuela de educación integral N° 14 María Montessori, ubicada en la intersección de las calles Mariano Moreno y Lisandro de la Torre, de la ciudad de Santa Elena, departamento La Paz. La intervención tiene como objetivo mejorar las condiciones edilicias, de seguridad, accesibilidad y funcionamiento de distintos sectores del establecimiento. El proyecto contempla la refuncionalización del grupo sanitario, además del cambio de tableros eléctricos y cableado. También se realizarán reparaciones en aberturas, solados y zócalos, se reubicará la bomba del tanque cisterna y se reacondicionará el sanitario del nivel inicial, que actualmente se encuentra en desuso. En total, se intervendrán 49 metros cuadrados del establecimiento.La necesidad de la intervención fue detectada a partir de un relevamiento realizado por el equipo zonal departamental de Arquitectura, que identificó distintas patologías edilicias vinculadas al paso del tiempo, principalmente en las instalaciones eléctricas y sanitarias. La obra cuenta con un presupuesto oficial de 94 millones de pesos y un plazo de ejecución de 180 días corridos.\"Cada obra que se lleva adelante en establecimientos educativos representa una mejora concreta para quienes los habitan todos los días. En este caso, el proyecto busca que la comunidad de la Escuela María Montessori cuente con una institución más accesible, segura y preparada para acompañar las trayectorias de sus estudiantes\", sostuvo el ministro de Planeamiento e Infraestructura, Hernán Jacob. En ese sentido, remarcó que \"invertir en infraestructura educativa es también fortalecer la igualdad de oportunidades y hacer posible que cada chico pueda transitar su aprendizaje en un entorno que acompañe su crecimiento\".Durante el acto administrativo de apertura de sobres se presentaron tres firmas oferentes: COVI S.A.S.; Fiore Martín Miguel (El Trébol construcciones) y El Súper de la Construcción S.R.L.Participaron también la directora de Arquitectura y Construcciones, Claudia Benavento; el director de la Unidad de Proyectos Generales, Diego Romero; la jefa del Departamento de Asesoría Legal de la Dirección General de Arquitectura y Construcciones, Soledad Vidoz; la Senadora, Patricia Teresa Díaz y el coordinador de Departamentales de escuelas del CGE, Sebastián Benedetti.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:09Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "servicios_publicos",
+      "legislatura",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "la paz",
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-en-libertador-san-martin-la-provincia-inicio-actuaciones-por-infraccion-en-la-gestion-de-envases-fitosanitarios",
+    "fuente": "El Heraldo",
+    "titulo": "En Libertador San Martín, la provincia inició actuaciones por infracción en la gestión de envases fitosanitarios",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/ecologia/en-libertador-san-martin-la-provincia-inicio-actuaciones-por-infraccion-en-la-gestion-de-envases-fitosanitarios",
+    "texto_original": "El procedimiento se desencadenó a partir de una inspección ambiental en el predio de disposición final de residuos sólidos urbanos de Libertador San Martín.En el lugar, ubicado en la intersección de las calles Paraná y Víctor Hugo, inspectores constataron la presencia de bidones vacíos de fitosanitarios abandonados sobre el suelo y enterrados, algunos de los cuales conservaban las etiquetas identificatorias del mencionado local comercial.Ante este hallazgo, se realizó una inspección en el establecimiento de calle 9 de Julio 45, encabezada por el director de Ambiente y Cambio Climático, Maximiliano Gómez; y la coordinadora de Buenas Prácticas Agropecuarias (BPA), Gabriela Joubert; junto con el equipo técnico provincial y personal de la Municipalidad de Libertador San Martín. En el comercio se detectaron 54 envases de fitosanitarios de 20 litros siendo reutilizados para el almacenamiento, fraccionamiento y comercialización minorista y mayorista de distintos productos de limpieza; de uso familiar e industrial.\n\nLa Ley Nacional 27.279 establece prohibiciones absolutas respecto al manejo de estos recipientes, vetando expresamente su quema, enterramiento, reciclado no autorizado y reutilización. “El uso de bidones que contuvieron insumos agroquímicos para trasladar y vender artículos de limpieza doméstica, configura un hecho ilegal que entraña un grave riesgo ambiental y de salud pública para la población por el potencial contacto con trazas de sustancias tóxicas”, destacó la coordinadora de Buenas Prácticas Agropecuarias, Gabriela Joubert.\n\nDesde el organismo provincial encendieron las alarmas al señalar que este hecho no constituye un evento aislado, ya que en los últimos meses se han detectado situaciones de similar gravedad en distintos puntos de la provincia.\n\nAnte esta recurrencia, la Secretaría de Ambiente profundizó los controles para investigar la posible existencia de una cadena informal de distribución y reutilización ilícita de envases agroquímicos, advirtiendo que se aplicarán las máximas sanciones administrativas y legales a quienes incurran en estas prácticas prohibidas.\n\nCon estas medidas, el Gobierno de Entre Ríos reafirma su compromiso con la fiscalización estricta de las normativas ambientales y el resguardo de la salud de las familias entrerrianas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:09Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "industria",
+      "comercio",
+      "agro",
+      "municipios",
+      "justicia",
+      "salud_publica",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-diamantefamiliares-y-amigos-de-sebastian-barreto-se-manifestaron-frente-al-juzgado",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Familiares y amigos de Sebastián Barreto se manifestaron frente al Juzgado",
+    "fecha": "2026-09-10",
+    "link": "https://blancaciudadnoticias.com.ar/diamantefamiliares-y-amigos-de-sebastian-barreto-se-manifestaron-frente-al-juzgado/",
+    "texto_original": "La mañana de este jueves se vistió de luto y reclamo en la \nPlaza San Martín de Diamante\n. Una multitudinaria manifestación encabezada por familiares, amigos y allegados de \nSebastián Barreto\n se concentró en el centro de la ciudad con un pedido unánime: \njusticia y prisión efectiva para los responsables de su asesinato\n.\n\nSebastián Barreto, de 31 años, perdió la vida el pasado \n15 de julio\n, luego de sufrir un ataque con un arma blanca en la vía pública.\n\nLa convocatoria reunió a una importante cantidad de vecinos de la ciudad y se hizo visible a través de banderas y carteles. En el centro de la manifestación, una extensa pancarta blanca sostenida por los presentes resumía el dolor y el reclamo de la familia y la comunidad:\n\n“Justicia por Sebastián. No queremos olvido, queremos justicia. Su vida importa, su historia importa”.\n\nReunión con los fiscales y una respuesta concreta\n\nLa manifestación se produjo luego de que los familiares mantuvieran una reunión con los fiscales que intervienen en la causa.\n\nSegún pudo saber \nBCN Noticias\n a partir de la información brindada por los propios familiares, durante ese encuentro recibieron respuestas sobre la situación de las personas detenidas y los próximos pasos que deberá definir la Justicia.\n\nEntre las respuestas recibidas, los familiares fueron informados de que \nlos acusados serán trasladados a la Unidad Penal de Paraná\n.\n\nEsta medida se suma a las decisiones que deberá adoptar la Justicia respecto de la situación procesal de los involucrados en la causa.\n\nUn reclamo que sigue firme\n\nFrente al Juzgado de Diamante, familiares y amigos volvieron a hacer visible su pedido de justicia por Sebastián Barreto.\n\nDesde \nBCN Noticias\n acompañamos el reclamo de información y las voces de los familiares, quienes sostienen un pedido claro: \nque la causa avance, que haya respuestas y que Sebastián no sea olvidado\n.\n\nLa manifestación dejó expuesto el dolor de una familia y de una comunidad que continúa reclamando justicia por el joven de 31 años.\n\nDIAMANTE – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-cayo-una-avioneta-fumigadora-y-trasladaron-a-su-piloto-al-hospital-centenario",
+    "fuente": "El Día Online",
+    "titulo": "Cayó una avioneta fumigadora y trasladaron a su piloto al Hospital Centenario",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/cayo-una-avioneta-fumigadora-y-trasladaron-a-su-piloto-al-hospital-centenario",
+    "texto_original": "El accidente aéreo se registró poco antes de las 13.30 en un campo situado en la zona de Ceibas, a unos 20 kilómetros adentro del mojón 25 de la Ruta Nacional 14.\n\nLa caída de la avioneta habría ocurrido en inmediaciones al establecimiento Las Marías. \n\nLos Bomberos Voluntarios de Ceibas acudieron al lugar y sólo se ha informado hasta el momento que el piloto comandaba una avioneta fumigadora y tras su asistencia en el lugar, fue trasladado al Hospital Centenario de Gualeguaychú.\n\nAún se desconoce la identidad de la víctima y el tipo de lesiones que sufrió en la caída.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-causa-narco-procesaron-al-comisario-rosatelli-y-dispusieron-su-prision-preventiva",
+    "fuente": "El Día Online",
+    "titulo": "Causa narco: procesaron al comisario Rosatelli y dispusieron su prisión preventiva",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/causa-narco-procesaron-al-comisario-rosatelli-y-dispusieron-su-prision-preventiva",
+    "texto_original": "El Juez Federal N° 1 de Paraná, Leandro Ríos, dictó el procesamiento con prisión preventiva para el comisario Daniel Alejandro Rosatelli y el resto de los imputados en la causa por narcotráfico. Se trata del expediente que investiga el hallazgo de más de 1.300 kilos de marihuana en La Paz, en febrero de este año.\n\nSegún se informó a AHORA, la Justicia dictó el procesamiento con prisión preventiva para Rosatelli, César Leonel Ramírez, Martín Reynaldo Germán Pelizzari, Claudio David Luna, Alan Josías Gabriel Favieri y José Belén Favieri, imputados como coautores del delito de transporte agravado de estupefacientes.\n\nAdemás, para Rosatelli, el procesamiento abarca también los delitos de lesiones graves y amenazas coactivas agravadas por el uso de arma de fuego en concurso real. Este hecho ocurrió el 12 de noviembre de 2025 en calle Bavio al 367, en la sede de la ONG “Suma de Voluntades”, según indica la resolución judicial.\n\nPor otro lado, se trabó un embargo sobre los bienes de cada uno de los procesados hasta cubrir la suma de $15.000.000 individuales para responder a las costas procesales y eventuales penas pecuniarias.\n\nPrisión preventiva para todos los acusados\n\nPor último, se dispuso que los imputados continúen alojados en la Unidad Penal N° 1 de Paraná a disposición del Juzgado Federal mientras avanza la causa.\n\nFuente: AHORA",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-reclamo-de-los-bomberos-realizaron-un-sirenazo-para-exigir-al-gobierno-la-transferencia-de-60000-millones",
+    "fuente": "El Día Online",
+    "titulo": "Reclamo de los bomberos: realizaron un “sirenazo” para exigir al Gobierno la transferencia de $60.000 millones",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/reclamo-de-los-bomberos-realizaron-un-sirenazo-para-exigir-al-gobierno-la-transferencia-de-60000-millones",
+    "texto_original": "Los bomberos voluntarios de todo el país realizaron este jueves un \"sirenazo\" en reclamo de casi 60.000 millones de pesos que debe transferir el Gobierno de Javier Milei en concepto de los fondos establecidos en la ley 25.054, que regula y dispone el financiamiento del Sistema Nacional de Bomberos Voluntarios (SNBV).\n\nLas sirenas sonaron a las 10 de la mañana en todos los cuarteles del país por un reclamo que lleva tiempo y, según advierten los bomberos, el Ejecutivo hasta el momento desoye. Se trata del dinero que se recauda con el porcentaje establecido por ley en cada una de las pólizas de seguro que se pagan en la Argentina.\n\nEn todos los seguros (excepto los seguros de vida) un 0,3% es destinado a los bomberos. El dinero es recaudado por el Ministerio de Economía de la Nación y desde esa cartera es depositado en partes iguales a todas las instituciones del país.\n\nGualeguaychú no es ajena a la situación y por eso, a las 10 de la mañana, desde el Cuartel de Bomberos voluntarios hicieron sonar la sirena en reclamo de esta situación. \n\nDebido a las dificultades económicas que atraviesan los bomberos de la ciudad, el Concejo Deliberante aprobó la ordenanza para crear una retribución ciudadana y voluntaria destinada a la Sociedad de Bomberos Voluntarios de San José de Gualeguaychú.\n\nLa medida establece un aporte mensual equivalente a 0,5 UTM (actualmente en $1.463,50), que será incorporado en la misma boleta de la Tasa General Inmobiliaria. La contribución alcanzará a propietarios y poseedores de inmuebles ubicados dentro del ejido urbano de la ciudad, pero no será obligatoria.\n\nQuienes no deseen abonarla podrán solicitar su desafectación ante la Dirección de Rentas, mediante un trámite simple. La solicitud podrá ser presentada por el titular registral o sus derechohabientes. También podrá realizarse de manera retroactiva, siempre que el importe no haya sido abonado.\n\nLos fondos recaudados serán depositados en una cuenta bancaria de titularidad de Bomberos Voluntarios y tendrán un destino específico. Podrán utilizarse para la compra de equipamiento y maquinarias, la capacitación y entrenamiento del personal, obras de infraestructura y otros gastos logísticos vinculados al servicio que presta la institución.\n\nEl proyecto reconoce el rol de Bomberos Voluntarios en la atención de incendios, emergencias médicas, rescates y eventos de protección civil. También plantea la necesidad de acompañar la modernización de su infraestructura y fortalecer su capacidad operativa para brindar respuestas más eficientes ante situaciones de emergencia.\n\nLa ordenanza dispone, además, que Bomberos Voluntarios deberá presentar informes semestrales ante el Departamento Ejecutivo Municipal y el Concejo Deliberante. Allí deberá detallar el balance del período, el programa de inversiones, el destino de los fondos recaudados y los resultados obtenidos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "municipios",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-polemica-con-un-empresario-entrerriano-amenazo-con-no-pagarles-el-sueldo-a-los-empleados-que-coman-carbohidratos",
+    "fuente": "El Día Online",
+    "titulo": "Polémica con un empresario entrerriano: amenazó con no pagarles el sueldo a los empleados que coman carbohidratos",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/polemica-con-un-empresario-entrerriano-amenazo-con-no-pagarles-el-sueldo-a-los-empleados-que-coman-carbohidratos",
+    "texto_original": "Álvaro Risoglio tiene 26 años y hace un tiempo lanzó el emprendimiento “Voltra”, que importa productos de China y los vende en Argentina. En los últimos días el joven tomó relevancia mediática ya que contó que limitó la dieta de sus diez trabajadores: amenazó con no pagarles el sueldo a quienes consuman carbohidratos y azúcar dentro del ámbito laboral. Sin embargo, no precisó si la firma les asegura otro tipo de comidas ni detalló de cuánto son los salarios.\n\nA fines de agosto Risoglio fue invitado a Mítico Podcast y contó que en las instalaciones del emprendimiento no hay carbohidratos: “Hay frutas y cosas como esas. Fue una filosofía mía desde el día uno. Nadie se hizo el rebelde ni me lo cuestionó, alguna que otra vez llevaron algo dulce o una rodaja de pan y lo tire a la basura. Yo prohibí el azúcar y la harina, en mi casa tampoco lo tengo y, como vivo en Voltra, no quiero que en la heladera haya eso, listo, punto final. Se hace lo que yo digo. Ellos también quieren estar mejor físicamente. Una persona que era obesa cuando entró, bajó 35 kilos”.\n\nEl emprendedor nació en la provincia de Entre Ríos en el año 2000 y, a los siete años, se fue a vivir a Ushuaia con su familia –integrada por sus padres y sus cuatro hermanos–, donde residió hasta los 17. A lo largo de su vida practicó diferentes deportes, algunos de ellos de riesgo. Hoy en día, el joven se jacta de su buen estado físico e incluso participa de competencias de físicoculturismo.\n\nCuando terminó el secundario, se mudó a la Ciudad de Buenos Aires y, sin saber muy bien qué estudiar, se decidió por la carrera de Criminología. Sin embargo, actualmente considera que ir a la universidad “no le sirvió” y que es “una pérdida de tiempo” y que, si no lo hubiera hecho, actualmente sería “billonario”.\n\n“Cuando terminé la universidad me fui a vivir a Australia. Acá estaba Alberto (Fernández) de presidente y el país estaba bastante podrido, no había luz al final del túnel. Allá tenía laburos mediocres, pero hacía cursos. Tenía un sueldo de mierda, de 2.500 o 3.000 dólares por mes más o menos, una basura… eso se gana en una mañana acá con un buen negocio”, dijo Risoglio.\n\nCuando regresó a Argentina hizo algunas “changuitas” y, hace un año y medio, montó Voltra, una marca que se dedica a importar productos de China, los cuales son ofrecidos y distribuidos en Argentina a través de una página web. Entre el catálogo de la firma se pueden encontrar aspiradoras, afeitadoras, hidrolavadoras, auriculares, micrófonos y grabadoras.\n\n“Hoy en día puede importar cualquiera”, dijo el emprendedor, quien además aseguró que el actual presidente Javier Milei es “un gran marketinero” y se mostró esperanzado con un triunfo de La Libertad Avanza (LLA) el año que viene. Sin embargo, reconoció que en el año y medio que lleva transitando el camino importador, cometió “muchas equivocaciones”.\n\nEn Voltra actualmente trabajan diez personas. “Tengo un equipo tremendo, si bien tienen mucho por mejorar. Yo hago el trabajo mejor que cada uno de ellos, sé todo lo que hay que hacer en el negocio. Me cuesta delegar, estoy todo el día encima”, dijo el joven, quien, además, confesó: “Mi mamá desde chiquito me decía que soy muy egocéntrico”.\n\n“Tengo mucho ego, una autoestima muy alta. Yo lo veo a (el creador de Mercado Libre, Marcos) Galperín y me arrodillo. Sé que puedo hacer lo mismo que él, soy capaz. Estoy constantemente comparándome con los mejores. Si te paso por un pelo, me olvido de vos”, manifestó, al tiempo que reconoció que en su mundo la palabra fiaca está “prohibida”.\n\n“El dinero me mueve, pero no es todo para mí. Invierto mucho (hasta 150.000 dólares al mes) en pauta publicitaria y sé que soy capaz de ser billonario, pero a mí me gusta el poder, no solo la plata. No me gusta que pueda venir un ministerio a tocarme la puesta y decirme que me van a inspeccionar, tengo ganas de preguntarle si saben con quién están hablando. A mí me mueve el poder”, expresó el empresario, quien, a lo largo del podcast, manifestó en reiteradas oportunidades que tiene “problemas legales”.\n\nEn cuanto al mecanismo de venta, detalló: “Viajo a China, elijo el producto, le pongo mi nombre, lo mando por barco o avión y, una vez en Argentina, lo despacho a los domicilios de los clientes”. También reconoció que algunos fabricantes asiáticos le pagan el hotel y los pasajes aéreos.\n\n“Tengo club de fans en las fábricas que visito”, detalló el joven, quien, además, explicó por qué hace algunas publicidades sin remera: “Cuando estoy en cuero vendo más, porque tengo un cuerpo que sobresale de la media”.\n\nPor último, Risoglio se definió como una “buena persona”: “Quiero ayudar a toda la gente que pueda. Soy muy generoso”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "industria",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-soja-proyectan-una-siembra-de-17-millones-de-hectareas-pero-el-nino-podria-condicionar",
+    "fuente": "Nogoyá Times",
+    "titulo": "Soja: proyectan una siembra de 17 millones de hectáreas, pero El Niño podría condicionar",
+    "fecha": "2026-09-10",
+    "link": "https://nogoyatimes.com/generales/noticias/soja-proyectan-una-siembra-de-17-millones-de-hectareas-pero-el-nino-podria-condicionar/",
+    "texto_original": "Campaña agrícola 2026/27\n\nLa Bolsa de Cereales de Buenos Aires estimó que el área destinada a la oleaginosa crecerá 1,2% respecto del ciclo anterior, con unas 200.000 hectáreas adicionales. El avance se concentraría especialmente en el norte del país, mientras que el clima, los costos y la evolución de los precios.\n\nLa superficie sembrada con \nsoja\n alcanzaría los 17 millones de hectáreas durante la campaña 2026/27, según la primera proyección de precampaña elaborada por la Bolsa de Cereales de Buenos Aires. La estimación representa un crecimiento del 1,2% frente al ciclo anterior, equivalente a unas 200.000 hectáreas adicionales.\n\nEl principal incremento se produciría en el norte del área agrícola. Allí, la presencia de la chicharrita del maíz redujo la intención de siembra del cereal y abrió la posibilidad de que una parte de esos lotes pase a la oleaginosa, que además presenta márgenes competitivos en varias zonas.\n\nLa situación no será uniforme. En el Núcleo Norte y el Centro-Este de Entre Ríos, el maíz temprano aparece inicialmente mejor posicionado frente a la soja de primera, aunque posibles excesos de lluvias podrían alterar los planes y modificar la distribución de superficie.\n\nEl clima será clave para definir la siembra\n\nLa Bolsa de Cereales señaló que buena parte de la región central inicia la campaña con perfiles de suelo que presentan reservas de humedad adecuadas. Ese escenario permitiría comenzar con la implantación de \nsoja\n de primera hacia mediados de octubre.\n\nSin embargo, hacia el este todavía existen sectores con excesos hídricos, mientras que en áreas occidentales las reservas son más limitadas. Si las precipitaciones dificultan el ingreso a los lotes, algunos productores podrían verse obligados a modificar fechas o cultivos previstos.\n\nEl fenómeno El Niño agrega otro elemento de incertidumbre. Las proyecciones anticipan lluvias superiores a las normales en sectores de la Mesopotamia y del centro y este de la Región Pampeana, con riesgo de anegamientos durante distintos momentos de la campaña.\n\nMejores precios sostienen la competitividad\n\nEn el plano económico, la \nsoja\n llega a la nueva campaña con valores más favorables que un año atrás. El precio disponible promedio para septiembre se ubica alrededor de los US$479 por tonelada, lo que representa una mejora interanual cercana al 28%.\n\nEn el mercado local, la posición mayo de 2027 ronda los US$358 por tonelada, un 21% por encima de la campaña previa. La firmeza de los subproductos también contribuye: el aceite registra una suba interanual del 38% y la harina, del 24%.\n\nA nivel mundial, el Departamento de Agricultura de Estados Unidos proyecta una producción récord de 442,25 millones de toneladas para 2026/27. Brasil alcanzaría 186 millones y Estados Unidos 123 millones, aunque el crecimiento de la demanda industrial evitaría una acumulación equivalente de stocks.\n\nEl gasoil aparece entre los principales costos\n\nEl mayor desafío por el lado de los gastos es el combustible. Durante el trimestre julio-agosto-septiembre, el precio del gasoil acumuló una suba interanual del 50,5%, impacto especialmente importante en el NOA y NEA, donde los costos de transporte tienen mayor incidencia.\n\nLos herbicidas utilizados en el cultivo aumentaron 29,2% frente al año pasado, mientras que los fertilizantes mostraron comportamientos dispares. Pese a esas subas, el informe sostiene que la recuperación del precio de la \nsoja\n permite compensar buena parte del incremento de los costos en la mayoría de las regiones.\n\nA esto se suma la reducción progresiva prevista para los derechos de exportación. La alícuota actualmente se ubica en 24% y bajaría al 21% hacia fines de 2027. Con ese escenario, la Bolsa de Cereales prevé una expansión moderada del área nacional, aunque advierte que el resultado final dependerá especialmente de la evolución de las lluvias durante la ventana de siembra. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nSoja: proyectan una siembra de 17 millones de hectáreas, pero El Niño podría condicionar\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "agro",
+      "servicios_publicos",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-milei-convoco-a-diputados-y-senadores-para-la-semana-proxima",
+    "fuente": "Nogoyá Times",
+    "titulo": "Milei convocó a diputados y senadores para la semana próxima",
+    "fecha": "2026-09-10",
+    "link": "https://nogoyatimes.com/generales/noticias/milei-convoco-a-diputados-y-senadores-para-la-semana-proxima/",
+    "texto_original": "Antes del envío de proyectos clave\n\nEl Presidente reunirá el lunes a legisladores de La Libertad Avanza en Casa Rosada. El encuentro se realizará antes del ingreso de proyectos considerados prioritarios y tendrá una exposición sobre economía.\n\nEl presidente \nJavier Milei convocó a diputados y senadores de La Libertad Avanza a una reunión el próximo lunes en Casa Rosada\n, con el objetivo de ordenar la estrategia oficialista ante una serie de proyectos que el Poder Ejecutivo considera prioritarios para las próximas semanas.\n\nEl encuentro fue programado para la tarde en el Salón Héroes de Malvinas y se producirá en una semana de intensa actividad parlamentaria. Ese mismo lunes, el Gobierno prevé enviar a la Cámara de Diputados el proyecto de \nLey de Defensa de la Soberanía Nacional\n.\n\nLa convocatoria también se realizará en la previa de la presentación del Presupuesto, prevista para el miércoles 15 de septiembre en la Cámara Baja. En paralelo, el Senado avanzará con la discusión en comisión de una reforma electoral impulsada por el oficialismo.\n\nUna exposición sobre economía\n\nDurante la reunión está previsto que los legisladores reciban una exposición conceptual sobre la situación económica. “La idea es que nos dé una charla conceptual sobre economía. Estilo similar a las últimas”, explicó a Noticias Argentinas uno de los integrantes del Congreso convocados.\n\nPese a que la convocatoria fue realizada por Milei, desde Casa Rosada indicaron que el Presidente no participaría de la exposición. Tampoco estaría presente el ministro de Economía, Luis Caputo. En representación del Palacio de Hacienda se esperaba la asistencia del viceministro José Luis Daza.\n\nLa modalidad tendrá antecedentes recientes. Milei ya había convocado a los integrantes de su espacio ante tratamientos legislativos considerados centrales para el Ejecutivo, como ocurrió con las modificaciones de la carta orgánica del Banco Central y el proyecto denominado Inocencia Fiscal II.\n\nQuiénes participarán del encuentro\n\nEntre los funcionarios que asistirán estarán la secretaria general de la Presidencia, Karina Milei; el jefe de Gabinete, Diego Santilli; el vicejefe de Gabinete, Ignacio Devitt; el presidente de la Cámara de Diputados, Martín Menem, y el secretario de Prensa, Fabián Fernández.\n\nLa reunión buscará coordinar posiciones entre los bloques oficialistas de ambas cámaras ante los debates previstos para los próximos días. La Libertad Avanza pretende consolidar los apoyos necesarios para avanzar con las iniciativas que enviará el Ejecutivo.\n\nEl oficialismo tendrá especialmente puesta la atención sobre la Cámara de Diputados, por donde ingresarán tanto la iniciativa vinculada con la soberanía nacional como el proyecto de Presupuesto.\n\nUna vez finalizado el encuentro en Casa Rosada, está prevista una cena en el local partidario de La Libertad Avanza bonaerense ubicado en el barrio porteño de San Telmo.\n\nSegún indicó \nNoticias Argentinas\n, algunos legisladores expresaron en reserva reparos por el horario elegido para el encuentro partidario debido a que se realizará al comienzo de una semana cargada de actividad política y parlamentaria.\n\nLa agenda forma parte de una serie de encuentros mediante los cuales el Gobierno busca reforzar la coordinación entre el Poder Ejecutivo y sus representantes en el Congreso ante el tratamiento de iniciativas consideradas estratégicas. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nMilei convocó a diputados y senadores para la semana próxima\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "servicios_publicos",
+      "gobierno",
+      "legislatura",
+      "justicia",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-el-futuro-de-lionel-scaloni-en-la-seleccion-esta-en-duda-que-factores-condicionan-su-decision",
+    "fuente": "Nogoyá Times",
+    "titulo": "El futuro de Lionel Scaloni en la Selección está en duda: qué factores condicionan su decisión",
+    "fecha": "2026-09-10",
+    "link": "https://nogoyatimes.com/generales/noticias/el-futuro-de-lionel-scaloni-en-la-seleccion-esta-en-duda-que-factores-condicionan-su-decision/",
+    "texto_original": "El retiro de varios referentes, posibles cambios entre sus colaboradores y las dificultades para conseguir amistosos de mayor jerarquía aparecen entre los factores que condicionan su decisión.\n\nEl futuro de \nLionel Scaloni\n al frente de la Selección argentina entró en una etapa de incertidumbre después del Mundial 2026. El entrenador tiene contrato hasta el 30 de diciembre y todavía no definió si continuará en el cargo, mientras la AFA busca convencerlo para encabezar el nuevo ciclo.\n\nTras la derrota frente a España en la final de la Copa del Mundo, el técnico reconoció públicamente que necesitaba tiempo antes de tomar una decisión. “Siento la necesidad de pensar, porque ya no sé si se va a poder hacer algo tan grande como esto”, expresó entonces, al referirse al desafío de reconstruir un equipo después de varios años de éxitos.\n\nSegún trascendió, Scaloni también le transmitió al presidente de la AFA, Claudio “Chiqui” Tapia, el desgaste acumulado durante sus ocho años al frente del seleccionado. En ese contexto, existen tres cuestiones deportivas e institucionales que aparecen como condicionantes para definir si seguirá más allá de diciembre.\n\nEl recambio después de Messi\n\nLa primera dificultad es la profunda renovación que deberá afrontar el plantel. El retiro de Lionel Messi marcó el cierre de una etapa que incluyó las conquistas de la Copa América 2021, la Finalissima 2022, el Mundial de Qatar 2022 y la Copa América 2024, además del segundo puesto obtenido en 2026.\n\nNicolás Otamendi también decidió finalizar su ciclo, mientras que Leandro Paredes dejó interrogantes sobre su futuro. A eso se suman las dudas alrededor de otros referentes como Emiliano “Dibu” Martínez y Rodrigo De Paul, por lo que \nLionel Scaloni\n debería construir una nueva estructura de liderazgos.\n\nEl propio entrenador había advertido tras el Mundial que continuar implicaría “resetearse” y volver a formar un grupo competitivo. Esa reconstrucción supone incorporar nuevos futbolistas y encontrar reemplazos para nombres que fueron centrales durante el período más exitoso de la Selección.\n\nCambios en el cuerpo técnico y cuestiones económicas\n\nEl segundo factor pasa por la conformación de su equipo de trabajo. Walter Samuel, uno de los principales colaboradores de Scaloni desde 2018, tendría decidido alejarse para buscar una oportunidad como entrenador principal en Europa una vez finalizado su vínculo con la AFA.\n\nSu posible salida obligaría a reorganizar un cuerpo técnico que se mantuvo prácticamente estable durante todo el ciclo. Samuel tuvo además un papel relevante en tareas tácticas y en el análisis de las jugadas de pelota parada durante el último Mundial.\n\nA este escenario se suman, según la información conocida, deudas de la AFA con integrantes del cuerpo técnico y futbolistas. La situación generaría malestar interno y aparece como otro elemento dentro de las conversaciones que definirán la continuidad de \nLionel Scaloni\n.\n\nLa preocupación por los próximos amistosos\n\nEl tercer punto está relacionado con la planificación deportiva. Scaloni pretende que Argentina vuelva a enfrentar selecciones de mayor nivel, pero la dificultad para encontrar rivales disponibles ya había generado preocupación durante la preparación para el último Mundial.\n\nLa próxima ventana internacional se desarrollará entre el 21 de septiembre y el 6 de octubre. La AFA todavía no oficializó los encuentros, aunque Burkina Faso y Benín aparecen entre las posibilidades para partidos que se disputarían en Argentina. Además, se analiza invitar a Messi para recibir un homenaje ante el público.\n\nCon otra fecha FIFA prevista entre el 9 y el 17 de noviembre y el contrato del entrenador próximo a vencer, la AFA deberá resolver la situación en los próximos meses. \nLionel Scaloni\n, que asumió en 2018 y acumula 104 partidos dirigidos, afronta así una decisión que estará atravesada por el recambio del plantel, la composición de su cuerpo técnico y el proyecto deportivo para la etapa posterior a Messi. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nEl futuro de Lionel Scaloni en la Selección está en duda: qué factores condicionan su decisión\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "construccion",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-el-jardin-estrellita-celebro-sus-38-anos",
+    "fuente": "Nogoyá Times",
+    "titulo": "El Jardín Estrellita Celebró sus 38 Años",
+    "fecha": "2026-09-10",
+    "link": "https://nogoyatimes.com/generales/locales/el-jardin-estrellita-celebro-sus-38-anos/",
+    "texto_original": "Nogoyá\n\nEl presidente municipal Bernardo Schneider, junto a la vicepresidente municipal Desireé Peñaloza; el secretario de gobierno, Beltrán Lora y la coordinadora de Desarrollo Social, Melisa Acevedo, participaron de la celebración por los 38 años de existencia de la Unidad Educativa de Nivel Inicial Nº 48 “Estrellita”.\n\nEl evento se realizó en las instalaciones de la delegación municipal, ubicada en la Villa 3 de Febrero, donde funciona la institución, junto a docentes y familiares de los niños.\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nEl Jardín Estrellita Celebró sus 38 Años\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-f2bf421a26a0",
+    "fuente": "AP Noticias",
+    "titulo": "Importante reunión de la Federación de Bomberos en Casa de Gobierno de Entre Ríos",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXFRa29OMnV6RHZTQm9tVVJVRThzbUplc3NqNE10cmRXOUZ3cU94ejhPRzNGSU0yQkVBc2RsbjlrSVhQZGtPNGI5LWQ4U3hPMUJYLTlGYU1JQ2ZHTC1rdG1jbTBjNHpIb3VGSE1mM1VZVTMtOVVWSXhydmgtS1NXenRucw?oc=5",
+    "texto_original": "Importante reunión de la Federación de Bomberos en Casa de Gobierno de Entre Ríos\n  \nAP Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:31Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-dia-mundial-de-la-prevencion-del-suicidio-donde-pedir-ayuda-en-crespo",
+    "fuente": "Paralelo32",
+    "titulo": "Día Mundial de la Prevención del Suicidio: dónde pedir ayuda en Crespo",
+    "fecha": "2026-09-10",
+    "link": "https://www.paralelo32.com.ar/dia-mundial-de-la-prevencion-del-suicidio-donde-pedir-ayuda-en-crespo",
+    "texto_original": "Cada 10 de septiembre se conmemora el Día Mundial para la Prevención del Suicidio, una fecha impulsada por la Asociación Internacional para la Prevención del Suicidio (IASP) y respaldada por la Organización Mundial de la Salud (OMS).\n\nLa jornada busca poner el foco en la prevención, promover el diálogo y fortalecer las redes de acompañamiento. En Crespo, la Municipalidad aprovechó la fecha para visibilizar los distintos espacios de salud mental, prevención y orientación que funcionan durante todo el año.\n\nEl mensaje central apunta a una idea sencilla: pedir ayuda, escuchar y acompañar también son formas de prevenir.\n“Cualquiera puede estar atravesado por esto”\nEl intendente Marcelo Cerutti destacó la importancia de hablar abiertamente sobre salud mental, adicciones y prevención del suicidio, y valoró la existencia en la ciudad del Centro Integral de Salud Mental y Adicciones.\n\n“Antes, el tema de la salud mental y particularmente el suicidio no se hablaba. Se vio que es más efectivo hablar, poner las problemáticas arriba de la mesa y buscar soluciones”, señaló.\n\nCerutti también remarcó la importancia de que quienes atraviesan una situación de crisis sepan dónde recurrir.\n\n“Cualquiera puede estar atravesado por esto. Siempre hay un apoyo, una mano que se puede dar. Eso es lo que tenemos que transmitir”.\n\nSegún planteó, se trata de una problemática transversal que requiere el compromiso de toda la comunidad.\nLos jóvenes, entre las prioridades de prevención\nLa psicóloga Sabrina Angresano, integrante del Área de Salud Mental y Adicciones del Municipio, explicó que las acciones de prevención se desarrollan durante todo el año y que durante septiembre se reforzarán con diferentes propuestas.\n\nEntre ellas se encuentran la Juegoteca Barrial de Emociones y el Rincón de Escucha Itinerante, que también lleva propuestas de acompañamiento a instituciones educativas.\n\nAngresano señaló que el trabajo incluye tanto a las personas que atraviesan situaciones relacionadas con la salud mental o los consumos como a sus familias.\n\n“La franja etaria más compleja en relación con el suicidio es la de 15 a 29 años. Por eso apuntamos especialmente a esta población, sin descuidar a los niños y adultos”.\nLínea 135: una opción para pedir orientación\nA nivel provincial se desarrolla la campaña “Decilo. Hablemos de suicidio”, que busca visibilizar la problemática y promover el diálogo como herramienta de prevención.\n\nEntre los recursos disponibles se encuentra la Línea 135, un servicio gratuito y confidencial de atención durante las 24 horas, todos los días del año.\n\nLa posibilidad de comunicarse no está limitada a quienes atraviesan una crisis. También pueden recurrir a este servicio familiares, docentes y personas que buscan orientación para acompañar a alguien cercano.\n\n“Hay profesionales del otro lado que están escuchando, orientando y articulando con los centros de salud y el hospital, para que cada persona pueda recibir el abordaje que necesita”, explicó Angresano.\nCentro Integral de Salud Mental y Adicciones\nUno de los principales espacios municipales funciona en el edificio del Centro Integral de Salud Mental y Adicciones, inaugurado este año.\n\nLa doctora Alejandra Dubs, del Área de Salud, aclaró que el Centro no está destinado a la atención de urgencias, sino que cuenta con un equipo interdisciplinario que trabaja junto a psicólogos y profesionales de psiquiatría.\n\n“Desde que se abrió este espacio estamos viendo a familiares, pacientes y personas que se sienten angustiadas o tristes. Escucharlos y acompañarlos es muy importante”, señaló.\n\nEl objetivo también es que los vecinos conozcan el lugar y sepan que pueden acercarse para recibir orientación y una primera escucha profesional.\n\nActualmente funcionan allí:\nEspacio de Primera Escucha en Salud Mental y Adicciones.Consultorio sobre Consumo Problemático.Espacio de Orientación Familiar.Taller semanal “Padres en Acción”.\n📍 Corrientes 1684, entre Rodríguez Peña y Roque Sáenz Peña.🕗 Atención: lunes a viernes, de 8:00 a 12:00.📱 Turnos: WhatsApp 54 9 3434 64-8838.\nOrientación para familias y herramientas para la crianza\nEl Espacio de Orientación Familiar ofrece asesoramiento y contención ante situaciones relacionadas con la dinámica familiar, la comunicación, los vínculos, los límites y la crianza.\n\nDentro de esta propuesta funciona “Padres en Acción”, destinado a madres, padres y responsables del cuidado de niños y adolescentes.\n\nLos encuentros abordan cuestiones como la comunicación familiar, la regulación emocional, los límites con afecto, el uso de la tecnología y la construcción de vínculos saludables.\n\nTambién está la Juegoteca Barrial de Emociones, una propuesta itinerante que utiliza el juego para ayudar a niños y niñas a reconocer, expresar y regular sus emociones.\nEspacios de escucha para adolescentes\nPara adolescentes y jóvenes, el Municipio desarrolla distintas propuestas de encuentro y orientación.\n\n“Mi Espacio Joven” ofrece un ámbito para conversar sobre emociones, vínculos, consumo problemático, ESI, bullying y redes sociales.\n\nEn tanto, “Intensamente Online” trabaja junto a las escuelas sobre el uso responsable de la tecnología, ciberbullying, grooming y otras situaciones vinculadas al entorno digital.\n\nA esto se suma el Rincón de Escucha Itinerante, que funciona en escuelas secundarias y permite acercar información, orientación y acompañamiento profesional a los adolescentes.\nPrevención de consumos y acompañamiento\nEl Espacio de Primera Escucha en Salud Mental y Adicciones brinda contención y orientación a personas que atraviesan estas situaciones, además de acompañar a familiares y amigos.\n\nTambién funciona el Consultorio Ambulatorio de Consumo Problemático, con un espacio terapéutico y seguimiento personalizado.\n\nEl Dispositivo Grupal de Recuperación acompaña procesos de recuperación y busca fortalecer las redes de apoyo. El Municipio, además, facilita el traslado y acompañamiento de quienes participan del Grupo de Recuperación de Adicciones de Libertador San Martín.\n\nA estas iniciativas se suman grupos psicoeducativos para varones y mujeres, destinados a generar espacios de reflexión y fortalecer recursos personales y sociales.\nAtención psicológica gratuita en Crespo\nLa Municipalidad también ofrece atención psicológica gratuita en los centros de salud municipales, con espacios confidenciales para abordar distintas situaciones vinculadas al bienestar emocional.\nCentro Comunitario “Dr. Salustiano Minguillón”\n📍 España 748📞 4951160, interno 237📱 WhatsApp: 3434050027\nEdificio NIDO “Dr. Adolfo Goldenberg”\n📍 Mendoza 855📞 4951160, interno 216📱 WhatsApp: 3434574434\nCentro de Salud Municipal “San Miguel”\n📍 Los Reseros y Linares Cardozo📞 4951160, interno 235📱 WhatsApp: 3434678470\n\nTambién es posible consultar y solicitar orientación sobre salud mental y adicciones en la Dirección de Desarrollo Humano, ubicada en 25 de Mayo 907, de lunes a viernes de 7:00 a 13:00.\n\n📞 4951160, interno 105\n\nEn una fecha que busca instalar la prevención en la agenda pública, el mensaje que se plantea desde Crespo es que hablar, escuchar y saber dónde recurrir puede ser el primer paso para acompañar a una persona que está atravesando un momento difícil.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:32Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "comercio",
+      "municipios",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-maraton-de-la-avicultura-2026-ya-tiene-fecha-y-premios-en-crespo",
+    "fuente": "Paralelo32",
+    "titulo": "Maratón de la Avicultura 2026: ya tiene fecha y premios en Crespo",
+    "fecha": "2026-09-10",
+    "link": "https://www.paralelo32.com.ar/maraton-de-la-avicultura-2026-ya-tiene-fecha-y-premios-en-crespo",
+    "texto_original": "Crespo ya se prepara para una nueva edición de la Maratón de la Avicultura, una propuesta deportiva que cada año acompaña la agenda de la Fiesta Nacional de la Avicultura.\n\nLa edición 2026 se disputará el sábado 31 de octubre desde las 17:30, con largada y llegada en el Acceso Presidente Raúl Ricardo Alfonsín, en la zona del Parque del Lago.\n\nLa competencia ofrecerá dos alternativas: 10 kilómetros competitivos, con inscripción previa, y 5 kilómetros participativos, destinados a quienes quieran correr de manera recreativa, realizar una actividad aeróbica o sumarse a una caminata familiar.\n\nTodos los participantes que completen cualquiera de las dos pruebas recibirán medalla finisher.\nDos circuitos para participar\nLa propuesta fue pensada para reunir tanto a corredores que buscan competir como a familias y aficionados que quieran disfrutar de una jornada deportiva.\n\nLos 10K competitivos se desarrollarán sobre un circuito urbano que recorrerá distintos barrios de Crespo y tendrán cronometraje mediante sistema de chips.\n\nLos 5K participativos, en tanto, no requieren inscripción y estarán abiertos a quienes quieran realizar el recorrido a su propio ritmo.\n\nDurante la prueba habrá cuatro puestos de hidratación y, al llegar a la meta, se entregarán frutas a los participantes.\nCuánto cuesta inscribirse a los 10K\nPara participar de los 10 kilómetros competitivos es necesario ser mayor de 17 años.\n\nEl valor de la inscripción será:\n$30.000 hasta las 00:00 del viernes 16 de octubre.$35.000 desde el sábado 17 de octubre y hasta el día de la competencia.\nLa inscripción y el pago podrán realizarse de manera online.\n\nAdemás, habrá una modalidad especial para grupos de running y gimnasios: un corredor liberado cada 10 inscriptos. Para gestionar este beneficio se deberá contactar al 54 9 3434 76-9503.\n\nInscripción a los 10K competitivos\nRemeras para los primeros 200 corredores\nLa organización entregará remeras a los primeros 200 inscriptos que hayan abonado la inscripción.\n\nUn dato importante es que la preinscripción, sin el pago correspondiente, no permite ingresar en el conteo de esos 200 lugares.\n\nTambién se habilitará la inscripción presencial únicamente el sábado 31 de octubre, en el pabellón ferial de la Fiesta Nacional de la Avicultura.\n\nEse mismo día se realizarán las acreditaciones personales entre las 14:00 y las 16:00.\nPremios en efectivo para los 10K\nLa competencia tendrá premios económicos para la clasificación general y para los corredores locales. Los premios son no acumulativos y el monto será igual para las clasificaciones de mujeres y varones.\nClasificación general\n \nPuestoPremio1°$260.0002°$190.0003°$160.0004°$120.0005°$80.000\n \nClasificación general local\n \nPuestoPremio1°$180.0002°$130.0003°$90.0004°$70.0005°$60.0006°$50.0007°$45.0008°$40.0009°$35.00010°$30.000\n \n\nAdemás, habrá medallas para los tres primeros de cada categoría.\nCategorías de la competencia\nLos 10 kilómetros estarán divididos por edades, tanto para mujeres como para varones:\n17 a 19 años20 a 24 años25 a 29 años30 a 34 años35 a 39 años40 a 44 años45 a 49 años50 a 54 años55 a 59 años60 a 64 años65 años en adelantePersonas con discapacidad\nEl cronometraje estará a cargo de Cronomet, mediante sistema de chips.\nLa antesala de la Fiesta Nacional de la Avicultura\nLa Maratón de la Avicultura funcionará como una de las actividades previas a la 32ª Fiesta Nacional de la Avicultura, que se desarrollará el viernes 6, sábado 7 y domingo 8 de noviembre de 2026 en el Predio Ferial ubicado en la zona del acceso norte de Crespo.\n\nLa organización está a cargo de la Asociación Civil Crespo Capital Nacional de la Avicultura y la Municipalidad de Crespo, con el acompañamiento de sectores privados y públicos en carácter de patrocinadores.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:32Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-santa-elena-digital-?utm_source=rss&utm_medium=rss&utm_campaign=ladron-atrapado-en-la-chimenea-quiso-entrar-a-robar-a-una-casa-y-debio-ser-rescatado-por-la-policia",
+    "fuente": "Santa Elena Digital",
+    "titulo": "Ladrón atrapado en la chimenea | Quiso entrar a robar a una casa y debió ser rescatado por la Policía",
+    "fecha": "2026-09-10",
+    "link": "https://santaelenadigital.com.ar/ladron-atrapado-en-la-chimenea-quiso-entrar-a-robar-a-una-casa-y-debio-ser-rescatado-por-la-policia/?utm_source=rss&utm_medium=rss&utm_campaign=ladron-atrapado-en-la-chimenea-quiso-entrar-a-robar-a-una-casa-y-debio-ser-rescatado-por-la-policia",
+    "texto_original": "Un hecho con características insólitas movilizó este jueves a las fuerzas de seguridad en la localidad de Santa Elena. Un hombre terminó detenido tras quedar atrapado dentro de la chimenea de una vivienda a la que intentaba ingresar con fines delictivos.\n\nEl episodio se desencadenó durante las primeras horas de la mañana, cuando un llamado telefónico de un vecino al número de emergencias de la Comisaría Santa Elena alertó sobre gritos de auxilio que provenían del interior de una propiedad situada en la calle Francisco Ramírez.\n\nAl llegar al domicilio, los efectivos policiales constataron que los desesperados pedidos de ayuda pertenecían a un sujeto que se encontraba atascado en el conducto de la chimenea. Tras maniobras de asistencia, el personal policial logró extraerlo del lugar. A pesar de la gravedad de la situación, el individuo fue liberado sin presentar lesiones de consideración.\n\nEl suceso fue informado de inmediato a la Fiscalía de turno, desde donde se dispuso la aprehensión del sospechoso. El hombre quedó alojado en sede policial y a disposición de la Justicia, imputado por el supuesto delito de \ntentativa de robo calificado en flagrancia\n.\n\nSANTA ELENA DIGITAL-.\n\nThe post \nLadrón atrapado en la chimenea | Quiso entrar a robar a una casa y debió ser rescatado por la Policía\n appeared first on \nSANTA ELENA DIGITAL\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T18:52:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "santa elena"
+    ]
   }
 ]
