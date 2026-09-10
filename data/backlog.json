@@ -13975,7 +13975,7 @@
     "link": "https://datos.entrerios.gov.ar/dataset/hospitales-de-la-provincia",
     "texto_original": "Datos correspondientes a nombres, teléfonos y direcciones postales de los hospitales de la provincia de Entre Ríos.\n\nOrganización responsable: Secretaría de Modernización.\n\nIncluye 2 recurso(s) descargable(s).",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T02:51:33Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -14017,7 +14017,7 @@
     "link": "https://datos.entrerios.gov.ar/dataset/habilidades-digitales",
     "texto_original": "El dataset reúne información sobre cursos de formación en habilidades digitales organizados con las empresas Cisco, Amazon y Nuevo Banco de Entre Ríos, para fortalecer competencias tecnológicas.\n\nOrganización responsable: Secretaría de Modernización.\n\nIncluye 2 recurso(s) descargable(s).",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T02:51:33Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -14031,7 +14031,7 @@
     "link": "https://datos.entrerios.gov.ar/dataset/programa-de-despapelizacion",
     "texto_original": "Este conjunto de datos proporciona información sobre el Programa de despapelización implementado en diversas reparticiones públicas, con el objetivo de reducir el uso de papel en la administración pública y promover la digitalización de documentos. Incluye datos  desde el 2019 hasta el 2024, detallando cantidad de papel recolectado (en kilogramos) para su reciclaje o eliminación segura, dependencias gubernamentales en las que se llevó a cabo la recolección y fechas de recolección.\n\nOrganización responsable: Secretaría de Modernización.\n\nIncluye 2 recurso(s) descargable(s).",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T02:51:33Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -14045,7 +14045,7 @@
     "link": "https://datos.entrerios.gov.ar/dataset/programa-alianzas-con-valor-resultados-del-ciclo-de-encuentros-con-el-sector-avicola",
     "texto_original": "Informe del Programa Alianzas con Valor. Se incluyen los principales resultados del ciclo de encuentros con el sector Avícola\n\nOrganización responsable: Ministerio de Desarrollo Económico.\n\nIncluye 1 recurso(s) descargable(s).",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T02:51:33Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -15624,11 +15624,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79704",
     "texto_original": "Con una inversión provincial de 36 millones de pesos, se concretaron trabajos de instalación eléctrica, impermeabilización y mejoras sanitarias en la escuela N° 43 Provincia de Buenos Aires, un edificio que alberga más de 700 estudiantes de distintos niveles y modalidades educativas.\n\nEl Ministerio de Planeamiento e Infraestructura concretó trabajos edilicios en la escuela N° 43 Provincia de Buenos Aires de Victoria, con el objetivo de mejorar las condiciones de seguridad, funcionamiento y habitabilidad del edificio educativo al que concurren más de 700 estudiantes. La institución se encuentra ubicada en el casco céntrico de la ciudad, en San Martín 276, entre Güemes y Junín, y funciona en distintos turnos.\n\nEl establecimiento se componen por el nivel inicial y la escuela primaria, además de la escuela Secundaria N° 13 Adolfo Mittelman, la ESJA N° 4 Manuel P. Antequeda y la Nocturna N° 4 Manuel P. Antequeda. A partir de un relevamiento técnico realizado por la zonal departamental de Arquitectura, se detectaron deficiencias en las instalaciones eléctricas y filtraciones en distintos sectores de la cubierta, por lo que se proyectó una intervención para dar solución a estas problemáticas.\n\nEn materia eléctrica, se ejecutó un nuevo circuito desde el pilar principal hasta un tablero secundario, con distribución hacia aulas y pasillos mediante nuevas cajas, tomas y puntos eléctricos. Estas tareas permiten mejorar sectores deteriorados por el uso y la antigüedad del cableado y contribuir a un funcionamiento más seguro de las instalaciones. También se realizaron trabajos de impermeabilización destinados a evitar filtraciones y humedades, incluyendo la intervención de la cubierta de chapa del sector de jardín, donde se incorporaron babetas y revoques en cargas para impedir el ingreso de agua.\n\n\"Cuando un edificio es utilizado diariamente por cientos de estudiantes, docentes y trabajadores, mantener y mejorar su infraestructura es una prioridad\", sostuvo el ministro de Planeamiento e Infraestructura, Hernán Jacob, al destacar que la intervención forma parte de una planificación orientada a dar solución a problemáticas edilicias de los establecimientos educativos del territorio. Además señaló que \"con esta obra se da respuesta a necesidades de la escuela y se posibilitan condiciones más seguras y adecuadas para toda la comunidad educativa\".\n\nDe manera complementaria, se mejoró el sistema sanitario de la cocina mediante la ejecución de una nueva instalación de desagüe conectada a una grasera construida en el patio. La obra comprendió una inversión provincial de 36 millones de pesos y estuvo a cargo de la firma Rubio Santiago Humberto.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T13:55:48Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Proyecto chico, mas bien autopromocio"
   },
   {
     "id": "goberer-79699",
@@ -15638,7 +15638,7 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79699",
     "texto_original": "La Secretaría de Ambiente de Entre Ríos dio inicio formal a una serie de actuaciones por una presunta infracción a la ley nacional 27.279 de Gestión Integral de Envases Vacíos de Fitosanitarios, vinculada al funcionamiento de un comercio local dedicado a la venta de productos de limpieza. El procedimiento se desencadenó a partir de una inspección ambiental en el predio de disposición final de residuos sólidos urbanos de Libertador San Martín.\n\nEn el lugar, ubicado en la intersección de las calles Paraná y Víctor Hugo, inspectores constataron la presencia de bidones vacíos de fitosanitarios abandonados sobre el suelo y enterrados, algunos de los cuales conservaban las etiquetas identificatorias del mencionado local comercial.\n\nAnte este hallazgo, se realizó una inspección en el establecimiento de calle 9 de Julio 45, encabezada por el director de Ambiente y Cambio Climático, Maximiliano Gómez; y la coordinadora de Buenas Prácticas Agropecuarias (BPA), Gabriela Joubert; junto con el equipo técnico provincial y personal de la Municipalidad de Libertador San Martín. En el comercio se detectaron 54 envases de fitosanitarios de 20 litros siendo reutilizados para el almacenamiento, fraccionamiento y comercialización minorista y mayorista de distintos productos de limpieza; de uso familiar e industrial.\n\nLa ley nacional 27.279 establece prohibiciones absolutas respecto al manejo de estos recipientes, vetando expresamente su quema, enterramiento, reciclado no autorizado y reutilización. \"El uso de bidones que contuvieron insumos agroquímicos para trasladar y vender artículos de limpieza doméstica, configura un hecho ilegal que entraña un grave riesgo ambiental y de salud pública para la población por el potencial contacto con trazas de sustancias tóxicas\", destacó la coordinadora de Buenas Prácticas Agropecuarias, Gabriela Joubert.\n\nDesde el organismo provincial encendieron las alarmas al señalar que este hecho no constituye un evento aislado, ya que en los últimos meses se han detectado situaciones de similar gravedad en distintos puntos de la provincia. Ante esta recurrencia, la Secretaría de Ambiente profundizó los controles para investigar la posible existencia de una cadena informal de distribución y reutilización ilícita de envases agroquímicos, advirtiendo que se aplicarán las máximas sanciones administrativas y legales a quienes incurran en estas prácticas prohibidas.\n\nCon estas medidas, el Gobierno de Entre Ríos reafirma su compromiso con la fiscalización estricta de las normativas ambientales y el resguardo de la salud de las familias entrerrianas.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T13:55:48Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -15652,11 +15652,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79698",
     "texto_original": "El gobernador de Entre Ríos, Rogelio Frigerio, expresó su profundo pesar por el fallecimiento de la diputada provincial Julia Calleros y acompañó a su familia, seres queridos y compañeros de trabajo en este momento de dolor.\n\nA través de un mensaje, el mandatario destacó la fortaleza con la que Calleros enfrentó sus últimos tiempos y reconoció su compromiso con la función pública y su aporte al desarrollo de la provincia.\n\n\"Gracias, Julia, por tu compromiso, por tu trabajo y por todos tus aportes para hacer de nuestra provincia un lugar mejor\", expresó Frigerio.\n\nAsimismo, el gobernador hizo llegar sus condolencias a quienes compartieron con la legisladora su labor en la Cámara de Diputados y concluyó su despedida con un mensaje de paz y reconocimiento: \"Que descanses en paz\".",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T13:55:48Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Noticia vieja. Podria ser una noticia aunque creo que no es mi foco la verdad"
   },
   {
     "id": "goberer-79697",
@@ -15666,11 +15666,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79697",
     "texto_original": "El gobierno provincial y Enersa invirtieron más de 31 millones de pesos en la renovación del sistema lumínico del Estadio Mundialista de Sóftbol Ing. Nafaldo Cargnel de Paraná, que será subsede de los XIII Juegos Suramericanos 2026 y sede de los partidos de la disciplina.\n\nAl recorrer el estadio e inaugurar el nuevo sistema de iluminación, el gobernador Rogelio Frigerio destacó el orgullo y la satisfacción de que Paraná sea sede de los partidos de sóftbol de los XIII Juegos Suramericanos 2026, que se desarrollarán en la provincia de Santa Fe y tendrán a Entre Ríos como subsede de esta disciplina. \"Estamos en la capital nacional del sóftbol, muy contentos también de que seamos subsede de los Juegos Suramericanos que se hacen en Santa Fe. Para nosotros es un honor. Estoy seguro de que vamos a dejar bien parada a la provincia\", sostuvo Frigerio, quien además resaltó el nivel de los seleccionados argentinos masculino y femenino que participarán de la competencia.\n\nEl gobernador también puso en valor el significado de recibir una competencia de esta magnitud en Paraná. \"Los Juegos Suramericanos son juegos muy importantes. Que nos hayan elegido como subsede para el sóftbol, siendo además la capital nacional del sóftbol acá en Paraná, tiene mucha lógica, pero no deja de ser un honor y una satisfacción\", afirmó.\n\nEn relación con la participación de los seleccionados argentinos, Frigerio remarcó el compromiso que implica ser anfitriones de una competencia regional de estas características. \"Orgullo, satisfacción y mucho compromiso también de hacer las cosas como corresponde en unos Juegos Suramericanos que son tan importantes para el deporte de toda la región. Estoy seguro de que vamos a quedar muy bien los entrerrianos, los paranaenses por la actividad que se va a desarrollar\", expresó.\n\nLa intervención, realizada por Enersa junto al Gobierno de Entre Ríos, demandó una inversión superior a los 31 millones de pesos e incluyó la instalación de 40 proyectores LED de 600 W, además de materiales eléctricos, elementos de sujeción y puesta a tierra, llaves termomagnéticas e interruptores diferenciales. Del monto total, más de 28 millones correspondieron al equipamiento y más de 3 millones a las tareas de instalación.\n\nLos trabajos permitieron mejorar la visibilidad y las condiciones de seguridad del campo de juego, adecuándolo a las exigencias técnicas de competencias internacionales y garantizando las condiciones necesarias para las transmisiones oficiales vía streaming. El nuevo sistema quedó incorporado de manera permanente al estadio para su utilización en entrenamientos, torneos y futuras competencias.\nDe la actividad participaron el presidente de Enersa, Uriel Brupbacher; el presidente de la Asociación Paranaense de Sóftbol, Héctor Medina; el secretario de Deportes, Sebastián Uranga; la secretaria de la institución, Flavia Godoy; y otros funcionarios provinciales.\n\nEn este marco, el presidente de Enersa, Uriel Brupbacher, destacó el acompañamiento al deporte y señaló que \"la salud, la seguridad, la educación y el deporte constituyen los pilares fundamentales definidos por el gobernador Rogelio Frigerio para nuestra política de responsabilidad social empresarial\". En ese sentido, afirmó: \"Apoyar al deporte en el contexto de los Juegos Suramericanos es una prioridad para la compañía. Por tal motivo, hoy nos encontramos inaugurando la nueva iluminación del estadio de sóftbol, una acción que demuestra nuestro compromiso con los lineamientos estratégicos de la gestión provincial\".\n\nEn tanto, el secretario de Deportes, Sebastián Uranga, destacó el trabajo articulado que permitió concretar la participación de Paraná como subsede de los Juegos Suramericanos. \"Apenas asumió Rogelio como gobernador nos instruyó para hablar con el sóftbol y ver cómo traer los Juegos Suramericanos a Paraná. Empezamos a trabajar con Santa Fe, con Nación, con la Secretaría de Deportes y con el Comité Olímpico, y acá estamos, felices de la vida, tratando de aportar al máximo y de alivianar la carga a cada uno que tenga este tipo de emprendimientos, que son fundamentales para la práctica deportiva en la provincia\", expresó.\n\nPor su parte, el presidente de la Federación, Fabián Medina, destacó el cumplimiento de los compromisos asumidos y agradeció el acompañamiento provincial. \"Es una enorme satisfacción y un enorme orgullo. Se cumplió la palabra empeñada. Lo conversamos en su momento con el gobernador personalmente acá en esta cancha, donde le planteamos que teníamos dos sueños: uno, tener las luces LED, y otro, el albergue deportivo. Hoy esos dos sueños están cumplidos. Para nosotros, instituciones que somos netamente amateur, sin el acompañamiento del Gobierno provincial estos desafíos serían imposibles. Así que muy agradecidos y seguramente vamos a ir por mucho más\", afirmó.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T13:55:48Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Institucional, autopromocion"
   },
   {
     "id": "stjer-estudiantes-secundarios-visitaron-tribunales-en-parana-4",
@@ -15680,11 +15680,11 @@
     "link": "https://www.jusentrerios.gov.ar/2026/09/estudiantes-secundarios-visitaron-tribunales-en-parana-4/",
     "texto_original": "Alumnos de 4to. año del Instituto Privado 176 “Madre de Jesús”, de General Ramírez, acompañados por sus profesoras, realizaron este martes una visita guiada por los Tribunales de Paraná, ubicados en calle Laprida 251.\n\n \n\nDurante su estadía en el edificio, recorrieron los diferentes espacios y ámbitos de trabajo, se interiorizaron sobre la división funcional del Poder Judicial provincial, quiénes lo conforman, y qué temáticas se tratan en la justicia. Se interesaron sobre el trabajo de los jueces y las juezas, y también sobre la tarea de los principales fueros, a través de sus distintas oficinas de gestión, el alcance de la función jurisdiccional y las distintas formas de acceso a la justicia.\n\n \n\nLas visitas guiadas son una manera efectiva de acercar el Poder Judicial a la comunidad, un aporte significativo para el afianzamiento de los valores democráticos y republicanos.\n\n \n\nLos turnos para las visitas guiadas al edificio del Poder Judicial pueden solicitarse a través de la Oficina de Ceremonial: 0343- 4206100 (interno 6205) o enviando un mensaje a la cuenta electrónica \nceremonial@jusentrerios.gov.ar.\n\n \n\n \n\n9 de septiembre de 2026\n\nSIC STJER",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T14:13:58Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Institucional, autopromocion"
   },
   {
     "id": "stjer-visita-guiada-para-estudiantes-en-los-tribunales-de-parana",
@@ -15694,11 +15694,11 @@
     "link": "https://www.jusentrerios.gov.ar/2026/09/visita-guiada-para-estudiantes-en-los-tribunales-de-parana/",
     "texto_original": "Alumnos de 3er. año del Instituto Privado N.º 54 “Jesús el Maestro”, acompañados por sus profesoras, realizaron este lunes una visita guiada por los Tribunales de Paraná, ubicados en calle Laprida 251.\n\n \n\nDurante su estadía en el edificio, recorrieron los diferentes espacios y ámbitos de trabajo, se interiorizaron sobre la división funcional del Poder Judicial provincial, quiénes lo conforman y qué temáticas se tratan en la justicia. Se interesaron también en el trabajo de los jueces y las juezas, la tarea de los principales fueros, a través de sus distintas oficinas de gestión, el alcance de la función jurisdiccional y las distintas formas de acceso a la Justicia.\n\n \n\nLas visitas guiadas son una manera efectiva de acercar el Poder Judicial a la comunidad, un aporte significativo para el afianzamiento de los valores democráticos y republicanos.\n\n \n\nLos turnos para las visitas guiadas al edificio del Poder Judicial pueden solicitarse a través de la oficina de Ceremonial: 0343- 4206100 (interno 6205) o enviando un mensaje a la  cuenta electrónica \nceremonial@jusentrerios.gov.ar   \n\n9 de septiembre de 2026\n\nSIC STJER",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T14:13:58Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Institucional, autopromocion"
   },
   {
     "id": "medios-google-news-entre-rios-5d35bd48cfe6",
@@ -18577,11 +18577,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79722",
     "texto_original": "Con el objetivo de fortalecer las políticas de promoción y cuidado integral de las adolescencias desde una perspectiva intersectorial, el Ministerio de Salud de Entre Ríos llevó adelante este miércoles en Paraná la Jornada Intersectorial de Salud Integral de las Adolescencias.\n\nCon la presencia de estudiantes de escuelas secundarias, equipos de salud, referentes del ámbito educativo y representantes de distintas áreas provinciales, tuvo lugar en el centro cultural La Vieja Usina y Domo la Jornada Intersectorial de Salud Integral de las Adolescencias, bajo la premisa de generar un espacio de participación, intercambio y reflexión en torno a las demandas y problemáticas de las juventudes. La propuesta, declarada de interés ministerial por la resolución 4606/26, fue organizada por la Dirección de Salud Materno Infanto Juvenil, dependiente de la Dirección General de CONE y Regionalización Perinatal.\n\nDurante la apertura, el director general de CONE y Regionalización Perinatal, Paulo Capotosti, destacó la continuidad de la iniciativa y la importancia del trabajo conjunto entre los sectores. \"Por segundo año consecutivo desarrollamos esta propuesta en la que, mediante una jornada destinada a adolescentes y equipos tanto de salud como educación, buscamos encontrarnos para promover el acceso a los servicios de salud en un marco de políticas sanitarias de garantía de derechos, donde el abordaje integral debe hacerse de modo interinstitucional e interdisciplinariamente\", expresó. El funcionario agregó que el encuentro también representa una oportunidad \"para dialogar con los adolescentes, conocer sus inquietudes y proyectos para enriquecer las acciones\".\n\nPor su parte, la directora de Salud Materno Infanto Juvenil, Georgina López, coincidió en la importancia de dar continuidad a las políticas desarrolladas y de acompañar a cada joven en el ejercicio de su autonomía. Asimismo, sostuvo que la jornada permite poner a las y los adolescentes en el centro de las acciones, \"como protagonistas de la construcción de su salud integral y como promotores activos de su bienestar y de las problemáticas que atraviesan durante su desarrollo como proceso de maduración y espacio social en los temas que los convocan y representan\".\n\nA su turno, la subdirectora de Educación Secundaria del Consejo General de Educación (CGE), Marianela Brondi, agradeció la invitación a participar y destacó la posibilidad de que las y los estudiantes sean parte activa del encuentro. \"Es importante que ellos hoy puedan estar acá, compartir y ser escuchados\", expresó. En ese sentido, valoró las distintas acciones que se vienen desarrollando desde el CGE junto a las escuelas secundarias y señaló que el objetivo es \"darle participación, que nuestros jóvenes adolescentes sean escuchados, tengan su voz en cada uno de los espacios y conozcan sus derechos\".\n\nLa jornada centró a las y los adolescentes como protagonistas de la construcción de su salud integral y combinó instancias de expresión artística, participación y formación. En la oportunidad se compartió la propuesta audiovisual y teatral Tu vida, una vida de película, y se desarrollaron mesas de intercambio sobre las prácticas de atención integral en consultorios y las asesorías de salud integral en escuelas secundarias, junto con propuestas sobre prevención y cuidado integral, salud sexual y reproductiva y métodos anticonceptivos, entre otras temáticas. El cierre contempló una clase teórico-práctica de yoga para estudiantes y equipos de salud.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T17:24:15Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Institucional, autopromocion"
   },
   {
     "id": "goberer-79721",
@@ -18591,7 +18591,7 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79721",
     "texto_original": "En el marco de su última sesión ordinaria, el Consejo de la Magistratura de Entre Ríos (CMER) analizó el estado de situación de los diversos concursos públicos en trámite destinados a cubrir cargos clave en el Poder Judicial provincial, los cuales ya acumulan más de 450 postulaciones, con inscripciones aún abiertas en varios de ellos.\n\nEntre las coberturas analizadas se encuentran los concursos orientados a fortalecer el Ministerio Público de la Defensa y Fiscal -incluyendo fiscalía anticorrupción, defensorías penales, multifueros y de niños, niñas y adolescentes (NNA)-, así como magistraturas para vocalías de Tribunal de Juicios y Apelaciones y vocalía de Cámara de Casación Penal; las cuales son para distintas jurisdicciones de la provincia.\n\nAl respecto, el presidente del organismo, Mauro Vazón, destacó el ritmo de trabajo institucional: \"Estamos dando una dinámica constante al tratamiento de los trámites concursales vigentes. Además, nos encontramos fijando las próximas fechas de exámenes de oposición en los concursos ya convocados\".\n\nPor otra parte, el pleno del Consejo dedicó parte de la sesión a debatir el proyecto de reforma del Reglamento General del organismo, una iniciativa central para la gestión actual. En este sentido, Vazón sostuvo que el proyecto de reforma \"tiene como objetivo amoldarse a la nueva ley 11.227. Es la primera reforma integral del reglamento. En él recibimos nuevas tecnologías digitales, simplificamos pasos dentro del procedimiento y buscamos optimizarlo a fin de agilizar la tramitación de los concursos\".",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "a_investigar",
     "agregado_el": "2026-09-09T17:24:15Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -18605,11 +18605,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79717",
     "texto_original": "Con una inversión oficial de 94 millones de pesos y un plazo de ejecución de 180 días corridos, se intervendrá la escuela de educación integral N° 14 María Montessori de Santa Elena. La obra beneficiará a 90 estudiantes y a toda la comunidad educativa.\n\nEn el marco de la planificación de obras de infraestructura escolar, se realizó la apertura de sobres para la ejecución de trabajos de reparación y mejora de la accesibilidad en la escuela de educación integral N° 14 María Montessori, ubicada en la intersección de las calles Mariano Moreno y Lisandro de la Torre, de la ciudad de Santa Elena, departamento La Paz. La intervención tiene como objetivo mejorar las condiciones edilicias, de seguridad, accesibilidad y funcionamiento de distintos sectores del establecimiento.\n\nEl proyecto contempla la refuncionalización del grupo sanitario, además del cambio de tableros eléctricos y cableado. También se realizarán reparaciones en aberturas, solados y zócalos, se reubicará la bomba del tanque cisterna y se reacondicionará el sanitario del nivel inicial, que actualmente se encuentra en desuso. En total, se intervendrán 49 metros cuadrados del establecimiento.\n\nLa necesidad de la intervención fue detectada a partir de un relevamiento realizado por el equipo zonal departamental de Arquitectura, que identificó distintas patologías edilicias vinculadas al paso del tiempo, principalmente en las instalaciones eléctricas y sanitarias. La obra cuenta con un presupuesto oficial de 94 millones de pesos y un plazo de ejecución de 180 días corridos.\n\n\"Cada obra que se lleva adelante en establecimientos educativos representa una mejora concreta para quienes los habitan todos los días. En este caso, el proyecto busca que la comunidad de la Escuela María Montessori cuente con una institución más accesible, segura y preparada para acompañar las trayectorias de sus estudiantes\", sostuvo el ministro de Planeamiento e Infraestructura, Hernán Jacob. En ese sentido, remarcó que \"invertir en infraestructura educativa es también fortalecer la igualdad de oportunidades y hacer posible que cada chico pueda transitar su aprendizaje en un entorno que acompañe su crecimiento\".\n\nDurante el acto administrativo de apertura de sobres se presentaron tres firmas oferentes: COVI S.A.S.; Fiore Martín Miguel (El Trébol construcciones) y El Súper de la Construcción S.R.L.\n\nParticiparon también la directora de Arquitectura y Construcciones, Claudia Benavento; el director de la Unidad de Proyectos Generales, Diego Romero; la jefa del Departamento de Asesoría Legal de la Dirección General de Arquitectura y Construcciones, Soledad Vidoz; la Senadora, Patricia Teresa Díaz y el coordinador de Departamentales de escuelas del CGE, Sebastián Benedetti.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T17:24:15Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "obra menor"
   },
   {
     "id": "goberer-79715",
@@ -18619,11 +18619,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79715",
     "texto_original": "Están abiertas las inscripciones para acceder a la línea de créditos Entre Ríos Emprende Joven, destinada a emprendimientos vinculados a la elaboración y producción de alimentos y bebidas.\n\nOtorgarán hasta cinco millones de pesos por proyecto, con una tasa de interés del 0% y un plazo de devolución de 24 meses. La línea contempla actividades de transformación, elaboración, procesamiento, conservación, fraccionamiento, envasado y agregado de valor, tanto para consumo humano como para alimentación animal.\n\nLas inscripciones están abiertas hasta 16 de septiembre próximo inclusive. Para conocer los requisitos e inscribirse, ingresar en el siguiente link: http://www.entrerios.gov.ar/desarrolloemprendedor/ingresar/",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T17:24:15Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "promocion de programa"
   },
   {
     "id": "medios-google-news-entre-rios-9d00df031a74",
@@ -19478,11 +19478,11 @@
     "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347170/20260909",
     "texto_original": "ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA Disposición 5713/2026 Fecha de Publicacion: 09/09/2026 DI-2026-5713-APN-ANMAT#MS en Mathus Hoyos N° 689, Las Heras, Provincia de Mendoza y depósito en Entre Rios N° 331, Ciudad de Mendoza, Provincia de Mendoza.Que por Orden de Inspección...",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T19:36:24Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Calle Entre Rios, en CABA"
   },
   {
     "id": "goberer-79726",
@@ -19492,11 +19492,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79726",
     "texto_original": "El operativo de evaluación fue reprogramado debido a la coincidencia de fechas con la visita del Papa León XIV a la Argentina. La instancia alcanzará a la totalidad de las escuelas primarias de la provincia y evaluará conocimientos y habilidades en Lengua y Matemática.\n\nEn el marco de la Resolución CFE Nº 515/26, correspondiente al Plan Plurianual de Evaluación Educativa 2026-2030, el operativo Aprender Censal de 3° grado 2026 se realizará los días 17 y 18 de noviembre.\n\nLa instancia estará destinada a estudiantes de tercer grado de nivel primario y alcanzará a la totalidad de las escuelas primarias de la jurisdicción. La evaluación estará focalizada en los conocimientos y habilidades vinculados a Lengua y Matemática.\n\nActualmente, la Coordinación de Evaluación e Investigación Educativa del Consejo General de Educación (CGE) trabaja en la logística del operativo y mantiene comunicación con las Direcciones Departamentales de Escuelas, supervisores y equipos directivos para coordinar las acciones correspondientes.\n\nLos operativos censales constituyen una herramienta fundamental del Sistema de Evaluación Nacional, ya que permiten generar evidencia diagnóstica sobre los aprendizajes y las condiciones en las que se enseña y aprende. Esta información contribuye a fortalecer la reflexión pedagógica y la toma de decisiones orientadas a garantizar el derecho a la educación y la equidad educativa.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T19:53:00Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Agenda, no"
   },
   {
     "id": "goberer-79725",
@@ -19506,11 +19506,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79725",
     "texto_original": "El largometraje Lejos de los árboles, de la directora catalana Meritxell Colell Aparicio, se presentará por primera vez en el país en la sección Panorama Internacional del Ficer.\n\nEl Festival Internacional de Cine de Entre Ríos (Ficer) es organizado por el Gobierno provincial a través del Instituto Autárquico Audiovisual de Entre Ríos (Iaaer), en conjunto con la Asociación de Realizadores Audiovisuales de Entre Ríos (Araer). Se desarrollará del 24 al 29 de noviembre próximo.\n\nColell es una de las voces más destacadas del cine de autor español. Su ópera prima, Con el viento (2018), se estrenó en la Berlinale y recibió la Biznaga de Plata a Mejor Película Española en el Festival de Málaga. Con Dúo (2023) volvió a ser reconocida en Málaga, esta vez con el premio a Mejor Dirección. Su nueva película, que se podrá ver en el Ficer, llega con un enorme recorrido y ya tuvo su estreno mundial en el Festival de Locarno, donde recibió el Premio Fipresci de la crítica internacional.\n\nMerixtell Colell Aparicio nació en Barcelona en 1983. Es una destacada directora de cine, guionista, montadora y docente española. Forma parte de una renombrada generación de cineastas catalanas contemporáneas que han logrado una amplia proyección internacional. Su estilo cinematográfico se caracteriza por una mirada íntima y una profunda exploración del territorio, la memoria, los vínculos afectivos y el exilio.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T19:53:00Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Institucional, autopromocion"
   },
   {
     "id": "goberer-79724",
@@ -19520,11 +19520,11 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79724",
     "texto_original": "El gobernador Rogelio Frigerio se reunió con autoridades de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios y remarcó que durante la actual gestión comenzó a implementarse efectivamente la Ley 11.116, que hasta entonces no había sido aplicada en la provincia.\n\nTambién acordaron avanzar en un plan de trabajo conjunto para mejorar la respuesta ante emergencias, agilizar el acceso a los recursos y fortalecer el financiamiento del sistema.\n\nEl gobernador Rogelio Frigerio encabezó este miércoles una reunión de trabajo con autoridades de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, con el objetivo de analizar el funcionamiento del sistema y avanzar en acciones que permitan fortalecer la capacidad de respuesta ante emergencias en la provincia.\n\nDurante el encuentro se destacó que, a partir de la actual gestión provincial, comenzó a implementarse la Ley 11.116, que contempla aportes destinados al sistema de bomberos voluntarios y la cobertura de obra social para sus integrantes. Se trata de una normativa que, pese a estar vigente desde hace años, no había tenido una implementación efectiva en la provincia.\n\nEn ese marco, el Gobierno provincial asumió el compromiso de mejorar el circuito administrativo de los recursos previstos por la ley para acortar los tiempos de tramitación y dar mayor previsibilidad a los cuarteles. Actualmente, el proceso atraviesa distintas instancias administrativas y de control, por lo que durante la reunión se planteó analizar alternativas que permitan reducir esos plazos.\n\nAsimismo, se acordó avanzar en una mayor articulación entre Nación, provincia y municipios para fortalecer el funcionamiento de los cuarteles. \"Como en tantos otros temas, tenemos que ordenar responsabilidades y definir con claridad qué puede aportar cada nivel del Estado\", sostuvo Frigerio. En ese sentido, se analizarán las experiencias de Santa Fe, Córdoba y Corrientes.\n\nEntre los temas abordados estuvo además la necesidad de mejorar y diversificar las fuentes de financiamiento del sistema, tanto a través de los recursos provenientes de Nación como mediante alternativas que puedan instrumentarse desde la provincia y los municipios. También se acordó analizar las herramientas previstas en la Ley nacional 27.629 de Bomberos Voluntarios.\n\nOtro de los ejes centrales fue la preparación ante los eventos climáticos que puedan afectar a Entre Ríos. En ese sentido, la provincia y los bomberos voluntarios acordaron trabajar en un plan coordinado para afrontar las contingencias que pueda generar el fenómeno de El Niño, revisar capacidades y necesidades y gestionar los recursos necesarios para fortalecer la respuesta ante emergencias.\n\nAl finalizar el encuentro, el presidente de la Federación Entrerriana de Asociaciones de Bomberos Voluntarios, Ariel Molina, valoró la predisposición del gobernador y destacó la posibilidad de avanzar en una agenda conjunta. \"Necesitábamos y era urgente esta reunión. La charla que tuvimos con el gobernador fue positiva, porque se comprometió a trabajar para mejorar los tiempos de llegada de los recursos y también se habló de un trabajo en conjunto para fortalecer aún más el sistema en lo económico, de parte de la provincia, para no ser tan dependientes de lo que mande Nación y tener un sistema más autónomo acá\", explicó.\n\nPor su parte, el presidente de Bomberos Voluntarios de Gualeguay, Juan Godino, destacó el respaldo institucional y la posibilidad de fortalecer la planificación conjunta. \"Fue una reunión altamente positiva, porque se logró que varios puntos se lleguen a concretar y ver para el futuro, ante una emergencia hídrica como la que está anunciada, de poder trabajar en conjunto, saber a lo que nos vamos a enfrentar y tener el respaldo que ha prometido el gobernador. Seguimos trabajando continuamente con el mismo fin que es mejorar el sistema bomberil\", remarcó.\n\nDel encuentro participaron además el secretario general de la Gobernación, Mauricio Colello; los ministros de Economía y Servicios Públicos, Fabián Boleas, y de Desarrollo Económico, Guillermo Bernaudo; y el director de la Administradora Tributaria de Entre Ríos (ATER), Jesús Korell.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T19:53:00Z",
     "procesado_el": null,
     "wp_edit_url": null,
-    "motivo_descarte": null
+    "motivo_descarte": "Institucional, autopromocion"
   },
   {
     "id": "goberer-79723",
@@ -19534,7 +19534,7 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79723",
     "texto_original": "Autoridades de Entre Ríos, Córdoba y Santa Fe se reunieron para firmar un convenio de reciprocidad y colaboración que apunta a fortalecer la prevención y las respuestas conjunta ante emergencias meteorológicas.\n\nEn el encuentro desarrollado en la ciudad de Córdoba, funcionarios entrerrianos expusieron sobre los protocolos que se despliegan en el territorio provincial y destacaron la declaración de la emergencia hídrica. En ese marco, se firmó el Convenio de Reciprocidad, Cooperación y Colaboración para la Prevención y Atención de Eventos Meteorológicos Extremos Asociados al Fenómeno El Niño en la Región Centro. El acuerdo establece un marco permanente para fortalecer las tareas de prevención, preparación, alerta, respuesta, asistencia y recuperación frente a contingencias climáticas. \n\nUno de los principales puntos del convenio es la creación de un Sistema Regional de Información, Alerta y Coordinación, que permitirá facilitar el intercambio permanente de información meteorológica, hidrológica, territorial y de infraestructura entre las provincias. El objetivo es mejorar la anticipación y la toma de decisiones frente a posibles situaciones de emergencia.\n\n En este marco, las autoridades acordaron además avanzar en mecanismos de asistencia recíproca para situaciones que superen la capacidad de respuesta de una provincia. La cooperación podrá incluir recursos humanos, equipamiento, vehículos, maquinaria, insumos, sistemas de comunicación y asistencia técnica, de acuerdo con la disponibilidad de cada jurisdicción.\n\n Presencia entrerriana\n\nEn el marco de la reunión, el secretario de la Región Centro por Entre Ríos, Atilio Benedetti, destacó la firma del acta de cooperación ante la llegada del fenómeno de El Niño, que este año podría presentar un grado de intensidad inédito. En ese sentido, resaltó \"la voluntad de los tres gobernadores -Rogelio Frigerio, Maximiliano Pullaro y Martín Llaryora- de encarar este tema desde la prevención\". \"No vamos detrás de los acontecimientos, sino que nos adelantamos a ellos para mitigar los efectos de El Niño\", afirmó Benedetti.\n\nPor su parte, la ministra de Desarrollo Humano de Entre Ríos, Verónica Berisso, brindó detalles del trabajo que se viene realizando en la provincia para afrontar el fenómeno climático. \"Hemos conformado un comité de crisis y, junto con otras áreas del Gobierno, tenemos listo un protocolo de atención ante posibles emergencias\", señaló.\n\nEl titular de Defensa Civil de Entre Ríos, Víctor Alfonso Chanenko, hizo hincapié en las capacitaciones que se vienen realizando con los distintos actores involucrados en la gestión de emergencias. \"Estamos trabajando para que todos los actores estén preparados al momento de tener que intervenir\", explicó. Y señaló que se está avanzando especialmente en la planificación de los espacios que podrían utilizarse como centros de evacuados para evitar que las escuelas sean destinadas a ese fin y puedan continuar desarrollando sus actividades con la mayor normalidad posible.\n\n A su turno, el secretario de Gobiernos Locales de Entre Ríos, Ricardo Vales, repasó el trabajo que se viene desarrollando con los distintos municipios y juntas de gobierno para relevar los recursos y la infraestructura disponibles en cada localidad. En ese marco, explicó que el objetivo es conocer las capacidades existentes para fortalecer la respuesta y mitigar los posibles efectos de los eventos climáticos, y destacó que la Legislatura entrerriana declaró la emergencia hídrica.\n\nEn tanto, el secretario de Trabajo de Entre Ríos, Mariano Camoirano, participó del encuentro como parte de la delegación provincial y acompañó la estrategia de articulación regional impulsada en materia de prevención, preparación y respuesta ante posibles emergencias meteorológicas.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T19:53:00Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -20432,7 +20432,7 @@
     "link": "https://portal.entrerios.gov.ar/noticias/79728",
     "texto_original": "El gobierno de Entre Ríos entregó un total de seis ambulancias cero kilómetros a Concordia, Federación y Estancia Grande, donadas por la Delegación Argentina ante la Comisión Técnica Mixta (CTM) de Salto Grande. Además, se fortaleció al Servicio de Emergencias 107 de Concordia con dos motos.\n\nEl ministro de Salud, Daniel Blanzaco, en Concordia entregó dos unidades de traslado sanitario de mediana complejidad modelos Citroën Jumpy y DFSK C35 y dos motos al Servicio de Emergencias 107. Además, destinó una ambulancia Citroën Jumpy al Hospital Delicia Concepción Masvernat, para renovar el parque automotor del establecimiento; y cedió en comodato una unidad DFSK C35 a la Municipalidad de Concordia para coordinar junto al 107, con el Servicio Integral Municipal de Emergencia Sanitaria (Simes).\n\nEl funcionario explicó que las unidades de traslado sanitario \"reciben un uso intensivo y sostenido, muchas veces bajo condiciones exigentes, lo que con el tiempo genera un desgaste tanto mecánico y estructural como del equipamiento destinado a la atención durante el traslado. Por eso, con el apoyo de la CTM, impulsamos la incorporación de nuevas ambulancias, porque la renovación del parque automotor del Ministerio es una medida estratégica para asegurar que los equipos de salud cuenten con unidades adecuadas para responder de manera oportuna ante cada emergencia y derivación\".\n\nAdemás, destacó la incorporación de motocicletas a los servicios de emergencias: \"Hoy el Servicio de Emergencias 107 de Concordia también recibió dos motos que van a ser utilizadas como unidades de respuesta rápida. Esto va a favorecer tanto el arribo temprano como una mejor calidad en la atención inicial en zonas donde quizás es más difícil acceder con una ambulancia\".\n\nPor su parte, el intendente Francisco Azcué, valoró: \"Trabajamos en un mismo equipo, hay una coordinación excelente entre la Secretaría de Salud de la Municipalidad y el Ministerio de Salud de la provincia porque entendemos que la salud pública es una sola\". Y añadió: \"Si bien hay distintas competencias, cuestiones de las que se hace cargo la provincia, como los hospitales, donde el municipio hace lo propio con los centros de salud y la atención primaria, pero, en definitiva, son los concordienses quienes van a poder utilizar o verse beneficiados con la incorporación de estos vehículos, más allá de que vayan al 107, al hospital o al Simes.\n\nEn la actividad participaron el director del Hospital Masvernat, Guillermo Bossa; los diputados provinciales Carola Laner, Liliana Salinas y Marcelo López; el vocal de Cagesf, Martin Dri; autoridades provinciales y municipales.\n\nActividad en Federación  \n\nPosteriormente, Blanzaco recorrió el Hospital San José de Federación, donde entregó una ambulancia DFSK C35 destinada a la atención urbana, que reemplazará a otra unidad que el establecimiento venía empleando para este fin.\nAdemás, el ministro recorrió junto a la directora, María Nilda Urquiza, la obra de ampliación y modernización de la cocina, entregada semanas atrás. El proyecto, que demandó una inversión superior a los 261 millones de pesos, fue llevado adelante con el apoyo de la Comisión Administradora para el Fondo de Salto Grande (Cafesg) y contempló la adquisición de equipamiento de alta calidad y una nueva distribución funcional del espacio. En la oportunidad estuvo presente también el presidente de Cafesg, Carlos Cecco.\n\nEstancia Grande\n\nFinalmente, las autoridades visitaron el Centro de Atención Primaria de la Salud María Auxiliadora, de Estancia Grande, en el departamento Concordia, donde entregaron una ambulancia de mediana complejidad modelo Citroën Jumpy.\n\nDe la visita participaron la directora del CAPS María Auxiliadora, Lorena Tribulatti y el intendente de Estancia Grande, Pablo Javier Goldin, así como el diputado provincial Marcelo López, junto a autoridades sanitarias provinciales y municipales.",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-09T22:02:31Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -26345,5 +26345,641 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-6f8b07a31f1a",
+    "fuente": "Municipalidad de Paraná",
+    "titulo": "La Municipalidad y el Colegio de Psicólogos de Entre Ríos generan conciencia sobre la prevención del suicidio",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclJYX3Y3MzBtQ3JrMnRzamtBeUJnRkRHUXExLUhnOExiUTZBUUg4UWoxTWVtTjBVWFVnOHBtSGxFY2lKUGdENU5xN01XSlcxLUZlRGVoVTBva01LQ1NGcTVKeThRYXU2Und4NGNGLWZDc2ZvUktHTnRQOTJwVTNoakotRkUxQUlLcFZ0b2txRVgyNmVoa0xKQXlvOFh5TjN5WHQzeGhJdFhsb1Q4d3pnVDlkZ0xWWEtmdFpWM1U1cXVpTTdfR3lSa2pXbDNWa245WFROX0NrQ3p0U3Nj?oc=5",
+    "texto_original": "La Municipalidad y el Colegio de Psicólogos de Entre Ríos generan conciencia sobre la prevención del suicidio\n  \nMunicipalidad de Paraná",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-fcf5212f34ba",
+    "fuente": "senado entre ríos",
+    "titulo": "La vicegobernadora recibió a representantes del CUCAIER",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlF1RnlQZVZXMDJZSExzUGFkT1AwdHZOMHo5VFhucEFxWi0xblprZkRUUFl6ZTAyOGI1NmNaU1dFRTBsdC16M2V3LUlvYm91aGJ1Z252LUs3aWNrRWlmMGd0amk3dlJjWjZJUExCRG85VGE1dDlkTVhLeFpfR28wZ3hZMlZsNVU4UnBUYWs3VEhnVW5JVDZV?oc=5",
+    "texto_original": "La vicegobernadora recibió a representantes del CUCAIER\n  \nsenado entre ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "servicios_publicos",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-bb0336212390",
+    "fuente": "El Miércoles Digital",
+    "titulo": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTXB0cE1RR2Z2eFIyVDZtdWdpVEQ4Nkc2ZHg4RURqTjBsTzVnLWNzLUdiSFVBNC1IcjBzT0xNOG5pcVY0YXl1bUdlT3ZUMEV5ZHFMNy1odkppZVpQVnJyNWFOZ3FvMy1LYlVZY3ZhbWVNeThOVzIxazM0anBlR1FGZzdLU1puRGZoSG5jU3FRTWVjUktnNFpld1h4VUxndUJfYUYzbXA3ajZuR0wxa0t5LVg3eVJOS3FvNHJUQzQ4aG1iNnRQSEZ2RFZNZDh2LUVadElTcmI2bHU2Uld1aTdwNmpGVmJqcGJhMTZiVFZ2enlpQ256Vk9F?oc=5",
+    "texto_original": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social\n  \nEl Miércoles Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-9e7199af8dfd",
+    "fuente": "Municipalidad de Paraná",
+    "titulo": "Las provincias de la Región Centro se preparan para enfrentar a El Niño",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGdISEYtNnhHQk1JdndGVUFsck1QS3QwMDNSV3M5N1czc0JVTldJNVk4anRzajE2ZEJPVGtCOWRDTzNsTDRSbHpucVhhNXFJaEpfcXJKQkU1aXR6ajdzSGlvZEc4YmttYlRmUDhTSFRIb2gxM3oxaXNVVHhwUXBnR3dYMy1JY3V5ak1mWmI0enRPbGw2WlBUc1NibE4tWnI0REE?oc=5",
+    "texto_original": "Las provincias de la Región Centro se preparan para enfrentar a El Niño\n  \nMunicipalidad de Paraná",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-analisis-digital-gn-7a5255198823",
+    "fuente": "Análisis Digital",
+    "titulo": "Municipios entrerrianos conmemoran el centenario del poeta Jorge Enrique Martí",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFRUUldzVDVoOThvSmRKR29RZi1HRjQ1bDFZLTJ1R0lsS3B2NUpvaFBvdWF5S20xOGNfc3cwajI1Ni1yUmkwSmduLTN4OXMxcUpObUFQMmxfZTVNQWs0VmxvX2ZMeTh2bUN3MU9iSk9kVmNaVDdhM2FidWYwSmVmOW9FX0RQZkNqdVItRnlVTkloejF6bWZfUXpEeTBFZmkyQVpLVi1BR3Y4ZDdmWnNYYS1Fb1pwME0zRXI4TC1WRFU2T2dtSlVkRWxXaUM?oc=5",
+    "texto_original": "Municipios entrerrianos conmemoran el centenario del poeta Jorge Enrique Martí\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-413a7fa4b0e8",
+    "fuente": "APFDigital",
+    "titulo": "Frigerio inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica Nº 2 de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMlR0ZDVRSFMyYi1sYWI1cWhzNUlBSXRWLU9MZW83ZXNKV3ktY0cwYkYtQUpXYzdkYUlONng1Q2l3RzNXVndoVzFJb1VJNElaQ1pDY2FBVmlLUjgyRTViOUJ0OURzNS1qb0hKejRwZmQ2bkFENHI0WjFwbjBkdUtKUkV1QVZNMG92TVJKTGF6WS1WVGdXbVpXamlGV2p3R3dJaDdwaWh5OTZVWGNUSnF5VERhMHl1LXhORGdPNU9oRDloUGdoUEpfM1ktWm94VDNnT0djUXpINWRXSlZ4Qlo1QURLZURXMUJNVVhIdWRCNNIB9AFBVV95cUxPckx4cVNfUHdHcWktMWVROHlObWxyZ2R4dEQxT3lmc2hFVElSMEZHZm4zV1prUFg4aTYtVUtFVFltTnBGOVpJVGY0THdMa3FvYVNRalFoaDJQSThER2xQdGtKbU41RkVqX2dGRzNtQzRQMmt3bnZzNk5Ic0NXbldfZmp2RE4tTEtMaGJoZFFBY2o5alY5dWhoWExic1pZbjg5MjA3SkxUV0RFSjRkSWRoOVJ0LTRjcmlSQlk0Nmx0M0JvV0loMDJ5SmFzLWRCNVNTQ3U0TE1DWm9qazJ0VmhVb3M4SVdUR01IQTExSFV5eHowRjFL?oc=5",
+    "texto_original": "Frigerio inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica Nº 2 de Villaguay\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-d2263e224202",
+    "fuente": "APFDigital",
+    "titulo": "Trabajadores entrerrianos de Granja Tres Arroyos fueron parte de la movilización en defensa del empleo",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3NZUzlwWlp1RTdhVmVjM1BpQml2a1RZaTJlVGlWWDFEaTN1VUZOYURZLXZHVDhXV0ttVDl4d2VCekJ1N2x2VlpLdnJmZW1zQUhDR0ZUbXcyakJtM2lDeEk4ajVSUnhzcnFsWlV6Vl9DXzlPZXdEYUdqbFc4cWY4NnhKem1VY2ZJM05LVGhvUHlDSU4wcDEtU2NnaHY3ZV9neXZqRS1ndWE0ZHRfY3lJOVVCSkxTYzNaRTlBWmRtc1N5Ynp3ZkpmMFNkMjFOblhyRVRUTVh4NDQ1Q21iX2MwUnV4MlRCbmhKZC04Rnl1ZjnSAfYBQVVfeXFMUGJibTlReFFvclJOMVU1LUNVWFQzdE5xMTNZMkhRS000Xzg4UGs3UWhkd3FqbVkxMm8tQ3FycTNxOF9DUE5teDF2X3J0bkZQcndoS1d4dHZLN2FMbHZUQ0JOQ0VxaEczNzRVSW5yTWFzY1BmWFZNdk1YWVpyMGc5TmZwWnVuemx2NmR6OTIxX0Y3cUVfVzVBUWcyZ241aGZjWHlsRnotQmtUMG9IZVNmTWJFLS1vYkpSWGNhLUdFbHBxWmF6aDEwNUhRa2VDc2kyaGR0YmpxUUh1ZDJlTjZjUWRhVnNIYXhqR1BRSVc1NzNYZVd6NnJB?oc=5",
+    "texto_original": "Trabajadores entrerrianos de Granja Tres Arroyos fueron parte de la movilización en defensa del empleo\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-e671049f5aae",
+    "fuente": "APFDigital",
+    "titulo": "Diputado oficialista pide que la Municipalidad de Paraná termine las obras en calle Walter Grand para liberar el acceso al río",
+    "fecha": "2026-09-09",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOY01iTVktUVNKdno4RHFuUzdsWlVaLTN4M0FtQzM5eFFCdUFQdFBIajNuVmpVWDJuN01zR2k3Mjk2MndhSlFxcl9zemUtZ1Exems0TUhFejlCcjBOX0Q2Ulhjek5GQWNnNDUyWmVIOGUyYXdfdUJEbFR2cThuN1pBa3JaZXp3RlpWUmxaXzF6ME5pTjQxV0NnTkdoX2V0UlNpMTc5OGRpWHRzUWdEV0k5ZHVNUXVFS1huRklBazdBLTRJSG4taEw3ZWN1dUpodUJxVjJmTW9QSnFDQm50d1JiLVl4c05KcjktcjdYTDFCd25DSVN5VHFvaHJyZ0s0dDQzdGl2aTktODV3Nks3b2J3RNIBlgJBVV95cUxQUG92dUZFMmxuemYweDg2UHA4UGlXTjJqZnpKejl4MDRiOFh5dGRIX1BDMlNhUkdyYlVxdVlmWmNmU0ZQNmJMdjZMaUdadU5HellZY25SenhnUEpzeUgxMC1kZFBQVFpsUFA2WEUzWXdCWUd4b08ycG9icVdnem1TX3hCNkhndG05MzBBQjBGY2hfd255UEdOQktQVFo1V3hRZ2M2N2JfTjVlLVJYT3dCdktINWtNOUlFNjN6R1duMGdBclRmOGs1OEdmQm10ZzBHRkkyVk5SdGlZWVVaQ3JXNzNEVkVXb2VNUk1vWXRwNlpoWmpoWWhBeW5xcGpIaTJBSnJ0QWNIWXJLekJ4eV9sdXpISlg1QQ?oc=5",
+    "texto_original": "Diputado oficialista pide que la Municipalidad de Paraná termine las obras en calle Walter Grand para liberar el acceso al río\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-bf78387ce40c",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "La inflación de agosto fue del 1,7%, informó el Indec",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEN0VU9jU0d0X1pjdkpUMWw4aGdDS2xXb215NnNRM2JVSlp4N1FqWnQyNXFXbzY0Qk9kTFpGXzFIT1htdE9GQUN0d2RwR1pPNHo5SkVOZDIxbE54Y2Fpa1ZZY2dxZll2c1lEMUNVZXhVa0w5bk52eFV6STdXRjg4Z0N5Sk96bkU?oc=5",
+    "texto_original": "La inflación de agosto fue del 1,7%, informó el Indec\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-67eb6a5b3ed1",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Crimen de Barreto: los cinco imputados irán al penal y autorizan prueba de ADN",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmxOaTk2U0tFUnlZdmxNcTZva1lIQk85NWdYUEc1WXdGUmdjSlp0QW9aY29CX2UzTDhmSlJERnF2aVBDaU5QdW1zVUFVV2Uya2xTVEIzYmtHbzFlb3p1YVNJLTFLcjcxRzFMX2hma1lwb00xVHl1SnliMUJ2ZVNhWGxUWDJST19FVHNUWEhLeFloeWlfZUhuRE85QTNMM0o2aExOWUZvRWdOXzVUTXc?oc=5",
+    "texto_original": "Crimen de Barreto: los cinco imputados irán al penal y autorizan prueba de ADN\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-b44aefae238a",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Frigerio remarcó que el alivio fiscal y la infraestructura son las claves para atraer inversiones y exportar",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejUyWFUzS1k2ZXJMRzZXOTR5d3Noay1EOHJEUllCRkthbnZ3TE1ESU9CT2pRWGlwTGJqVkFCWUZwZEU2a3d0bDRTaHZMblh0NW9hSnZCNUpFS0FFYlhtcWl5TWhIbEZVd0M0MFRtVnVtSHZvNnRtRjlGdXJHUzdDRlAtb0h4dE42NWU4aG9hdmpSdXhGaFZ0eUwwR0t5cWdfVmV1Z1d6UDBfTkJGUVFQX1lpZXA2SlQ1NW9DRVJIbDBVQVVEcWgyWkhfTFRmS1NvSUg2aw?oc=5",
+    "texto_original": "Frigerio remarcó que el alivio fiscal y la infraestructura son las claves para atraer inversiones y exportar\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-bicameral-parana-discutira-una-ordenanza-para-organizar-su-patrimonio-energetico-municipal",
+    "fuente": "Bicameral",
+    "titulo": "Paraná discutirá una ordenanza para organizar su patrimonio energético municipal",
+    "fecha": "2026-09-10",
+    "link": "https://www.bicameral.com.ar/parana-discutira-una-ordenanza-para-organizar-su-patrimonio-energetico-municipal/",
+    "texto_original": "El Poder Ejecutivo de Paraná elevó al Concejo Deliberante un proyecto de ordenanza para organizar la gestión del Patrimonio Energético Municipal\n, establecer responsabilidades claras y contar con herramientas permanentes de planificación, mantenimiento, control y seguimiento. \n\n\"La iniciativa busca \nconsolidar una política capaz de administrar las inversiones energéticas actuales y acompañar las que la ciudad incorpore en el futuro\n\", informaron en un comunicado emitido por la comuna de la capital. Y agregaron: \"La incorporación de infraestructura de generación, almacenamiento, medición y gestión de energía plantea nuevas exigencias para los gobiernos locales. Se trata de activos públicos de alto valor y largo ciclo de vida que requieren conservación, mantenimiento, modernización, seguridad, gestión de riesgos y control económico de manera sostenida\". \n\nUno de los principales activos comprendidos en este esquema será el \nParque Solar Fotovoltaico Paraná\n, cuya administración, operación y gestión se asignará a partir de su efectiva puesta en funcionamiento. Su gestión incluirá \nprogramas de mantenimiento preventivo, predictivo y correctivo, sistemas de información, telemetría, supervisión, medición y control\n, además de herramientas para identificar y gestionar riesgos técnicos, regulatorios, económicos, financieros, climáticos, ambientales y digitales.\n\n\"La puesta en marcha del Parque Solar no representa el origen del patrimonio energético municipal, sino un punto de inflexión en la necesidad de administrarlo con mayor especialización técnica y una visión de largo plazo\", resaltaron al respecto. \n\nPara llevar adelante esa tarea, el proyecto propone la creación del Ente de Gestión Energética de Paraná (Enerpar), como organismo especializado encargado de \nadministrar los activos energéticos que le sean asignados y ejecutar técnicamente los planes y proyectos comprendidos en la política energética municipal\n.\n\nLa iniciativa establece que su estructura deberá desarrollarse con criterios de austeridad organizativa, especialización técnica y gradualidad. La eventual creación de cargos, las modificaciones de las plantas de personal y las remuneraciones deberán ajustarse a las normas municipales vigentes.\n\nEl proyecto contempla además el Sistema de Gestión Energética Municipal (SIGEM) como marco de planificación y coordinación. Su Coordinación Estratégica será transversal y ad honorem, sin asumir competencias económicas, financieras, patrimoniales ni de personal.\n \n\nLa entrada \nParaná discutirá una ordenanza para organizar su patrimonio energético municipal\n se publicó primero en \n\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "servicios_publicos",
+      "gobierno",
+      "municipios",
+      "infraestructura_obra_publica",
+      "educacion",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-el-comisario-rosatelli-fue-procesado-por-delitos-narcotrafico",
+    "fuente": "Página Judicial",
+    "titulo": "El comisario Rosatelli fue procesado por delitos narcotráfico",
+    "fecha": "2026-09-10",
+    "link": "https://paginajudicial.com/2026/09/10/el-comisario-rosatelli-fue-procesado-por-delitos-narcotrafico/",
+    "texto_original": "De la Redacción de Página Judicial\n\n \n\nEl comisario y abogado Daniel Alejandro Rosatelli fue procesado por delitos de narcotráfico, se le dictó la prisión preventiva en la unidad penal y se trabó un embargo sobre sus bienes por 12.250.000 pesos.\n\nLas medidas fueron dictadas por el juez federal Leandro Ríos en el marco de una investigación que se inició a partir del hallazgo casual de una furgoneta cargada con 1.345 kilos de marihuana, el 13 de febrero pasado, en un camino rural de La Paz. En ese momento resultó detenido el conductor y otras personas lograron escapar. Pero la reconstrucción de la trama escaló y terminó salpicando al comisario y abogado.\n\nSe presume que Rosatelli habría aportado los fondos y la logística para adquirir la furgoneta Critroën Jumper utilizada para el transporte de la marihuana, a la que además le habían colocado una chapa patente perteneciente a otro vehículo de similares características, pero que registraba una prohibición de circular y pedido de secuestro vigente desde dos años antes. Ello con el objetivo de eludir controles policiales.\n\nEl comisario de la Policía de Entre Ríos, además, fue procesado por lesiones graves, intimidación contra la persona que había oficiado de intermediario de la furgoneta utilizada para el transporte de la droga y amenazas al vendedor, luego de que este denunciara que no había cumplido con las condiciones de pago acordadas.\n\nEl magistrado también procesó y dictó la prisión preventiva de Martín Reynaldo Pelizzari, que sería el líder del grupo operativo; Claudio David Luna, hijo de un integrante de la organización que había montado una cocina de cocaína en un campo en el acceso norte de Paraná en 2011; y los hermanos Alan Josías Gabriel Favieri y José Belén Favieri; y les trabó embargos por hasta 9 millones de pesos.\n\nEn tanto, permanece prófugo Juan Esteban Siebenlist Bustos, que habría coordinado la búsqueda de la marihuana hasta el Paso Yunque, sobre el río Uruguay, en el límite entre las provincias de Entre Ríos y Corrientes, con el grupo operativo; y luego ofició de \npuntero\n de la Citroën Jumper hasta la ciudad de La Paz, alertándolos sobre la presencia de controles policiales en la ruta.\n\nNoticia en desarrollo…",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:19:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "justicia",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-suspenden-sin-goce-de-sueldo-a-un-empleado-municipal-detenido-en-una-causa-por-robo-con-arma-de-fuego",
+    "fuente": "Diario Junio",
+    "titulo": "Suspenden sin goce de sueldo a un empleado municipal detenido en una causa por robo con arma de fuego",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/suspenden-sin-goce-de-sueldo-a-un-empleado-municipal-detenido-en-una-causa-por-robo-con-arma-de-fuego/",
+    "texto_original": "El Ejecutivo municipal dispuso la apertura de un sumario administrativo y la suspensión provisoria, sin goce de haberes, de un trabajador municipal que fue detenido el pasado 24 de junio en el marco de una causa judicial por “robo con arma de fuego”. La medida fue formalizada mediante el Decreto N° 805/2026, publicado este jueves en el Boletín Oficial. El agente involucrado se desempeña como personal mensual en la Dirección de Calles Pavimentadas, dependiente de la Subsecretaría de Mantenimiento de Obras Viales de la Secretaría de Obras Públicas. Según se informó, presta servicios en la Municipalidad de Concordia desde el 1° de marzo de 2015.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "gobierno",
+      "municipios",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-upcn-brindara-informacion-a-trabajadores-interesados-en-participar-del-primer-concurso-de-la-administracion-publica-provincial",
+    "fuente": "Diario Junio",
+    "titulo": "UPCN brindará información a trabajadores interesados en participar del primer concurso de la administración pública provincial",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/upcn-brindara-informacion-a-trabajadores-interesados-en-participar-del-primer-concurso-de-la-administracion-publica-provincial/",
+    "texto_original": "El Sindicato UPCN (Unión Personal Civil de la Nación) Entre Ríos llevará adelante una jornada de intercambio el lunes próximo a las 10 en la sede sindical de Santa Fe 463. El objetivo es “transmitir algunos detalles y escuchar las inquietudes de los trabajadores” de cara al primer proceso que se desarrollará en la provincia en el marco del Reglamento General de Concursos para el nombramiento e ingreso a la planta permanente, promociones y asignación de Jefaturas de Departamento y División, establecido a través del Decreto N°1452, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-parana-se-prepara-para-una-nueva-etapa-en-la-gestion-de-su-patrimonio-energetico",
+    "fuente": "Diario Junio",
+    "titulo": "Paraná se prepara para una nueva etapa en la gestión de su patrimonio energético",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/parana-se-prepara-para-una-nueva-etapa-en-la-gestion-de-su-patrimonio-energetico/",
+    "texto_original": "El Ejecutivo Municipal envió al Concejo Deliberante un proyecto de ordenanza que propone dotar al Municipio de herramientas técnicas específicas para administrar, conservar y proyectar su patrimonio energético. La próxima puesta en funcionamiento del Parque Solar Fotovoltaico Paraná profundiza esa necesidad y marca una nueva etapa de gestión.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-3ad3d8eee242",
+    "fuente": "AIM Digital",
+    "titulo": "Inauguraron la nueva residencia estudiantil femenina de la escuela agrotécnica 2 de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTlB1Ul9XSEs3RnlQOVUybjNRak52Uy11V0lacVJ4UHR3VDNMNzhSZTZkci13Z0h3eTltRF9zcmt6dFBTX3FxNDhKeENjcE1HQjUyZnQtcUpJbkx4SmZfRUdtN0ZXejcyM1RjTWU3VXhhYVlUXzRueWtieENPQWlyOXVuZmtCcVo2N3B4WlBlbUFZVmdvMkFTNzAzdzE0WGNBc3drUUk0dXFHX3V5Ty1Uem9NMUlNSC1TMHJVR21mMktaOUxyblhXVU85OGE1TDNVcV9rQ0Vn?oc=5",
+    "texto_original": "Inauguraron la nueva residencia estudiantil femenina de la escuela agrotécnica 2 de Villaguay\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-aa2b77460fa7",
+    "fuente": "Elentrerios.com",
+    "titulo": "Municipalidad de Colón: Concurso de Precios Nº 56/2026 - Edictos - Edictos",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mZENSYzR5ZC1lVXJubV9vWElIWHNCMm5KUzJOV0hqVHoycDVlTmc2bktaUTRvWXdqeWZuaVlpc0NGbkFGMXZxbllZWTN0YXlBQWVVbzZYM2dQV1VRU2JjVHhGMmIwQkplTWVabmxCQ0NvZw?oc=5",
+    "texto_original": "Municipalidad de Colón: Concurso de Precios Nº 56/2026 - Edictos - Edictos\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-4ec6fc8e3a9d",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos 12 meses",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelZSejNDNmtPYzlDeXFidFAwajUzNU1TbUdQcDdaT2g4RUhjZTNNUzdwZFF6bE4wX1Y5eTAxOUhvVVJOWUNHVV9Cck4xa1ozU1Y4T0Y1RnBuYnEwTEwwOElWbDgxdC1mTXJoRGVldFA4SEhYd002RWdpWlJSTGJ5a1owYURWcE12T1pfMFJFVldkNXFYakt1bmZVaEN4bmZkLVU4YkJEd1M0XzBvaG0yUTh1WVJMVVNidlNB?oc=5",
+    "texto_original": "La inflación en agosto fue de 1,7% y acumuló 33,5% en los últimos 12 meses\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-musica-por-la-paz-se-abre-la-convocatoria-para-elegir-nuevos-solistas",
+    "fuente": "El Heraldo",
+    "titulo": "Música por la Paz: se abre la convocatoria para elegir nuevos solistas",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/cultura/musica-por-la-paz-se-abre-la-convocatoria-para-elegir-nuevos-solistas",
+    "texto_original": "La actividad tiene como finalidad seleccionar a las voces solistas para la cuarta edición del Concierto Música por la Paz, en el cual se interpretarán las obras Misa Criolla y Navidad Nuestra de Ariel Ramírez junto a un coro y ensamble folclórico.Para la jornada de evaluación se establecieron como movimientos obligatorios las piezas Kyrie y Gloria de la obra Misa Criolla, sumadas a La Huida y Los Pastores pertenecientes a Navidad Nuestra. La convocatoria busca renovar los roles centrales de la presentación, previa a una posterior convocatoria que el organismo educativo realizará para sumar nuevos coreutas al proyecto.El Concierto Música por la Paz se estrenó en diciembre de 2023 en la Catedral Metropolitana de Paraná y se replicó en ese mismo espacio durante 2024 y 2025 mediante un trabajo articulado con el Arzobispado de Paraná. Para esta cuarta entrega la organización plantea un formato itinerante con funciones programadas en hospitales y parroquias de la capital provincial, estableciendo su función central para el domingo 20 de diciembre. La propuesta está orientada a transmitir un mensaje vinculado al deseo de paz de las culturas más allá de los credos religiosos y  cuenta con la dirección general de Miguel Otti Gómez y la dirección artística de Nicolás Faes Micheloud, junto a la participación de músicos, docentes, coreutas, estudiantes y público no vinculado a la institución.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-villa-elisa-celebro-la-fiesta-patronal-en-honor-a-la-natividad-de-la-virgen-maria",
+    "fuente": "El Heraldo",
+    "titulo": "Villa Elisa celebró la fiesta patronal en honor a la Natividad de la Virgen María",
+    "fecha": "2026-09-10",
+    "link": "https://www.elheraldo.com.ar/noticias/religiosas/villa-elisa-celebro-la-fiesta-patronal-en-honor-a-la-natividad-de-la-virgen-maria",
+    "texto_original": "La celebración comenzó con la tradicional novena, un tiempo de preparación y oración durante el cual distintos sacerdotes de la diócesis visitaron la comunidad y presidieron las misas diarias, renovando la fe y el espíritu cristiano en los días previos a la solemnidad. La jornada patronal tuvo como momento central la misa, presidida por el párroco, padre Hugo Grimaux, quien estuvo acompañado en el altar por el sacerdote Aníbal Aguilera, párroco de Santa Teresita de San Salvador, y el presbítero Elías Benitti, párroco del Sagrado Corazón de Ubajay.Luego, las calles de Villa Elisa se llenaron de cantos y alabanzas durante la tradicional procesión. La columna partió desde el parque San Jorge y avanzó hasta la explanada del templo, acompañando la imagen de la Virgen Niña.Los Bomberos Voluntarios tuvieron a su cargo llevar en andas y escoltar la imagen de la patrona de la ciudad durante todo el recorrido. Al finalizar la procesión, la comunidad se reunió frente al templo para compartir el tradicional tablado popular. En un ambiente de alegría y fraternidad, las familias disfrutaron de distintas propuestas de música y danza a cargo de artistas de la zona.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-el-enfoque-gn-cdd29b3fde67",
+    "fuente": "diarioelenfoque.com.ar",
+    "titulo": "El BCRA citó a Concordia Inversiones por otro sumario y presuntas irregularidades cambiarias",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQclFmT0kxeHdFbXpHX0lvS2MyMGRxM3hBWVhfS0k4TkYzaWNpWnNjNnpTa1g3ei14aFNJNGR4OEkyT3pXR2pVZmMtVzBsVmtuQU9PSFVObGw0Szc1Y0dlUVpUVHlVVHhqV0x3eGExUVJWUHhBU1c2T0hydHk2ZkVvTlZTVmhlZUp4bnRUQlRNb1dtQmlmVmRlWHh4V0VFNjdoQkN2ZWFZaUFReU9jaXpyNjVya1dHUFYzWUthd1M3RmlCeGlMSEE?oc=5",
+    "texto_original": "El BCRA citó a Concordia Inversiones por otro sumario y presuntas irregularidades cambiarias\n  \ndiarioelenfoque.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-cayo-una-avioneta-fumigadora-y-trasladaron-a-su-piloto-al-hospital-centenario",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Cayó una avioneta fumigadora y trasladaron a su piloto al Hospital Centenario",
+    "fecha": "2026-09-10",
+    "link": "https://eldiadegualeguay.com/cayo-una-avioneta-fumigadora-y-trasladaron-a-su-piloto-al-hospital-centenario/",
+    "texto_original": "El accidente aéreo se registró poco antes de las 13.30 en un campo situado en la zona de Ceibas, a unos 20 kilómetros adentro del mojón 25 de la Ruta Nacional 14.\n\nLa caída de la avioneta habría ocurrido en inmediaciones al establecimiento Las Marías.\n\nLos Bomberos Voluntarios de Ceibas acudieron al lugar y sólo se ha informado hasta el momento que el piloto comandaba una avioneta fumigadora y tras su asistencia en el lugar, fue trasladado al Hospital Centenario de Gualeguaychú.\n\nAún se desconoce la identidad de la víctima y el tipo de lesiones que sufrió en la caída.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-dia-del-maestro-reconocieron-la-trayectoria-de-docentes-jubilados-en-un-acto-en-el-centro-de-convenciones",
+    "fuente": "El Día Online",
+    "titulo": "Día del Maestro: reconocieron la trayectoria de docentes jubiladas en un acto oficial en el Centro de Convenciones",
+    "fecha": "2026-09-10",
+    "link": "https://www.eldiaonline.com/dia-del-maestro-reconocieron-la-trayectoria-de-docentes-jubilados-en-un-acto-en-el-centro-de-convenciones",
+    "texto_original": "Este jueves tuvo lugar el acto oficial por el Día del Maestro, una jornada que reunió a autoridades, instituciones educativas, estudiantes y docentes en un homenaje a Domingo Faustino Sarmiento y, especialmente, a quienes finalizaron su trayectoria laboral entre agosto de 2025 y agosto de 2026.\n\nEl acto, organizado por el área de Protocolo y Ceremonial municipal, a cargo de Silvia Videla, contó con la presencia del intendente Mauricio Davico; la viceintendente Julieta Carrazza; la directora Departamental de Escuelas, Marta Irazábal de Landó; autoridades provinciales y locales; representantes de instituciones civiles, judiciales, militares y de seguridad; directivos, docentes y estudiantes de establecimientos educativos de la ciudad.\n\nDavico remarcó el compromiso que supone asumir diariamente la responsabilidad de educar y agradeció a quienes eligieron la docencia como vocación. “Hay una piedra fundamental que la generan ustedes, que es la educación”, afirmó, al tiempo que reconoció el trabajo realizado a lo largo de sus carreras.\n\nLa primera parte de la ceremonia estuvo dedicada a la conmemoración del fallecimiento de Domingo Faustino Sarmiento, ocurrido el 11 de septiembre de 1888. Las banderas de ceremonia de distintas instituciones educativas acompañaron el acto, mientras que alumnos de la Escuela N.º 20 Domingo Faustino Sarmiento realizaron una ofrenda floral en homenaje al educador sanjuanino.\n\nTambién tomó la palabra la directora Departamental de Escuelas, Marta Irazábal de Landó, quien puso en valor la vocación docente y el trabajo cotidiano que se desarrolla dentro de las aulas. En su mensaje señaló que enseñar implica acompañar los procesos de cada estudiante, despertar la curiosidad, abrir nuevas posibilidades y contribuir a la construcción de su futuro.\n\nLa segunda parte de la ceremonia estuvo destinada al reconocimiento de los maestros que accedieron a la jubilación durante el último año, como una forma de agradecer los años dedicados a la enseñanza y el aporte realizado a generaciones de estudiantes de Gualeguaychú.\n\nComo parte del reconocimiento, Davico, Carrazza, Irazábal de Landó y la responsable del Área de Educación, Bertha Mabel Baldi, realizaron la entrega de presentes a los docentes jubilados. Cada obsequio incluyó una manzana como símbolo tradicional asociado a la educación y al agradecimiento hacia quienes ejercen la enseñanza.\n\nLa ceremonia finalizó con un homenaje artístico a cargo de Ornella Taffarell junto a alumnos de la Escuela N.º 31 República Oriental del Uruguay, cerrando una jornada dedicada a reconocer la tarea de quienes hicieron de la educación su profesión y dejaron su huella en las aulas de Gualeguaychú.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "municipios",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=auditorio-scelzi-la-dra-alicia-stolkiner-diserto-sobre-politicas-publicas-en-salud-mental",
+    "fuente": "La Prensa Federal",
+    "titulo": "Auditorio Scelzi: la Dra. Alicia Stolkiner disertó sobre “Políticas Públicas en Salud Mental”",
+    "fecha": "2026-09-10",
+    "link": "https://www.laprensafederal.com.ar/auditorio-scelzi-la-dra-alicia-stolkiner-diserto-sobre-politicas-publicas-en-salud-mental/?utm_source=rss&utm_medium=rss&utm_campaign=auditorio-scelzi-la-dra-alicia-stolkiner-diserto-sobre-politicas-publicas-en-salud-mental",
+    "texto_original": "Este miércoles 9 de septiembre, la Dra. Alicia Stolkiner brindó en Concepción del Uruguay la conferencia “Políticas Públicas en Salud Mental”, en el marco de las actividades previstas por el Mes de la Concientización y Prevención del Suicidio. \n\nLa propuesta se desarrolló en el Auditorio Municipal “Carlos María Scelzi” y fue organizada de manera conjunta por la Dirección de Salud Mental de la Municipalidad de Concepción del Uruguay y la Facultad de Humanidades, Artes y Ciencias Sociales de la Universidad Autónoma de Entre Ríos (UADER).\n\nAntes de la conferencia, representantes de las instituciones organizadoras brindaron unas palabras de bienvenida y destacaron la importancia de generar espacios de encuentro, capacitación y reflexión en torno a la salud mental.\n\nEn ese marco, el director de Salud Mental, Dr. Germán Bercovich, distinguió la presencia de Stolkiner y valoró su aporte como referente de la salud mental comunitaria, y remarcó la necesidad de continuar fortaleciendo las acciones de prevención y acompañamiento: “Es importante continuar generando este tipo de espacios de prevención, escucha y acompañamiento, y poner en valor el trabajo que se desarrolla desde el Municipio en los distintos centros de salud de la ciudad”.\n\nPor su parte, la coordinadora de Extensión y Derechos Humanos de la Facultad de Humanidades, Artes y Ciencias Sociales de la UADER, Magíster Alfonsina Cossani, resaltó la articulación entre la Universidad y el Municipio para acercar a la comunidad espacios de formación y reflexión: “El abordaje de la salud mental requiere una mirada interdisciplinaria y comunitaria, con participación de diferentes actores e instituciones. Por eso, celebro este encuentro”.\n\nSeguidamente, el intendente José Lauritto destacó la trayectoria de Alicia Stolkiner y su aporte al campo de la salud mental en Argentina. Además, reconoció su presencia en la ciudad y la posibilidad de contar con sus conocimientos y experiencia: “Gracias Alicia, por compartir tus conocimientos en nuestra ciudad. Es muy valioso contar hoy con la presencia de una profesional tan destacada como vos”.\n\nDurante su exposición, la Dra. Alicia Stolkiner abordó distintos aspectos relacionados con las políticas públicas de salud mental, con una mirada centrada en el enfoque comunitario, los derechos y la necesidad de fortalecer las estrategias de atención y acompañamiento.\n\nLa actividad permitió reflexionar sobre los desafíos actuales en materia de salud mental y sobre la importancia de construir políticas públicas que contemplen las diferentes realidades sociales y territoriales.\n\nCronograma de actividades\n\nLas actividades continuarán durante septiembre con distintas propuestas abiertas a la comunidad.\n\nJueves 10 de septiembre – 18 horas:\n en Plaza Constitución se desarrollará “Salud Mental bajo las estrellas”, una propuesta que contará con las disertaciones de Carolina Joannas, Manuel Borget y Paloma Ratto, integrantes de la Facultad de Humanidades, Artes y Ciencias Sociales de la UADER.\n\nJueves 17 de septiembre – 18 horas:\n se realizará el cierre del cronograma con el Taller sobre Prevención del Suicidio Juvenil, a cargo de la Dra. Viviana Barrón, del Consejo Pastoral del departamento Uruguay. El encuentro tendrá lugar en el Auditorio Municipal “Carlos María Scelzi”.\n\nDe esta manera, septiembre se presenta como una oportunidad para hablar sobre salud mental, fortalecer las redes de acompañamiento y promover espacios de escucha, prevención y cuidado en la comunidad. Asimismo, durante los días 8 y 9 de septiembre y también hoy 10, Día Mundial para la Prevención del Suicidio, la Pirámide de la Plaza Ramírez se iluminó de color amarillo como parte de las acciones de concientización, prevención y acompañamiento que se llevan adelante durante este mes.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "agro",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=concepcion-del-uruguay-rindio-homenaje-a-jorge-enrique-marti",
+    "fuente": "La Prensa Federal",
+    "titulo": "Concepción del Uruguay rindió homenaje a Jorge Enrique Martí",
+    "fecha": "2026-09-10",
+    "link": "https://www.laprensafederal.com.ar/concepcion-del-uruguay-rindio-homenaje-a-jorge-enrique-marti/?utm_source=rss&utm_medium=rss&utm_campaign=concepcion-del-uruguay-rindio-homenaje-a-jorge-enrique-marti",
+    "texto_original": "“Jorge Enrique era de esas personas que tanta falta hacen en este tiempo, que con su sola presencia inspiraban respeto, porque se respetaban a sí mismos; que eran capaces de sostener sus convicciones y lo hacían con el compromiso de poner el cuerpo por los demás”. Así se refirió esta mañana el presidente municipal José Eduardo Lauritto al recordar al poeta Jorge Enrique Martí durante la apertura de la programación local de un homenaje regional que por estos días municipios y entidades de la cultura de los departamentos Uruguay y Colón organizan con motivo del centenario de su natalicio.\n\nEn el escenario del salón auditorio “Carlos María Scelzi”, Lauritto estuvo acompañado por los hijos del escritor: Polo, Jorge, Javier y Enrique, que viven en distintos lugares del país, llegados para asistir a los actos de homenaje por cumplirse en la región donde transcurrió y se nutrió su vida de escritor.\n\nEl intendente rememoró su vínculo con Martí a través de un amigo en común: Luis Juan María Puchulu y puso de relieve a la personalidad del homenajeado por su fecunda tarea en la Asociación Educacionista “La Fraternidad”, en la Secretaría de Extensión Universitaria de la UNER y sus habituales colaboraciones en importantes periódicos de la prensa porteña, Santa Fe y Entre Ríos.\n\n“Ese entusiasmo lo llevó a crear su propio periódico que llamó Tribuna” añadió en tal sentido Lauritto, quien tuvo palabras de agradecimiento para los organizadores “por el sentido de tradición, porque haya gente muy joven que reciba su legado y por estar en cada una de las ciudades donde él dio sus pasos: Colón, Villa Elisa, San José, Concepción del Uruguay y su querido pueblo Liebig”.\n\nInmediatamente después del mensaje, el intendente junto al coordinador de Cultura, Guillermo Lugrín, hizo entrega de ejemplares de “Entrerriano por el Canto”, antología poética del autor correspondiente al período 1949 a 2009, a sus hijos y a representantes de la Cultura que participaron de la ceremonia.\n\nNacido en Rosario, el 11 de septiembre de 1926, Jorge Enrique Martí vivió su infancia primero en Colón y luego en Liebig. En el Colegio del Uruguay “Justo José de Urquiza” de Concepción del Uruguay cursó el secundario y de allí su afectuoso vínculo con la ciudad, que lo tuvo a cargo del directorio del internado de la Asociación Educacionista “La Fraternidad” y secretario de Extensión Universitaria y Asesor de la UNER.\n\nEstudió Filosofía y Letras en la Univesidad de Buenos Aires, e independientemente de su brillante producción poética y periodística, que le valió incuestionables reconocimientos, perduran para siempre sus valores de solidaridad y entrega al prójimo.\n\nContinuidad de la programación\n\nEl centenario del natalicio de Jorge Enrique Martí se cumple mañana 11 de septiembre, pero las diferentes actividades en tributo a su memoria continuarán en las próximas horas con el siguiente programa:\n\nHoy en nuestra ciudad:\n\n-16:45: Proyección del documental “Martí, escritor entrerriano”, producido por TV UNER.\n\n-17:15: Presentación de las publicaciones del autor a cargo de Gustavo Martínez, director de EDUNER.\n\n-17:45: Lectura del prólogo de Poesía Esencial, a cargo del poeta Miguel Ángel Federik.\nEl homenaje culminará a las 19:30 con el regreso al Auditorio Scelzi para una gala de música y poesía. La velada contará con las actuaciones de Atahualpa Puchulu junto a De Costa a Costa, Los Hermanos Lemes y el espectáculo “Entre Ríos y canciones”, integrado por Marita Londra, Carlos Aguirre, Beti Plana, Jorge Martí y Polo Martí.\n\nMañana (viernes 11) \nEscuela “Juan José Paso”, de Colón.\n\nSábado 12\n: Auditorio “Heraldo Peragallo”, de Villa Elisa.\n\nDomingo 13\n: Casa del Bicentenario, de San José.\n\nLunes 14\n: Biblioteca “Fiat Lux” y Biblioteca “Casa 7”, del Barrio San Francisco, de Colón.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concepción del uruguay",
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-otra-investigacion-de-analisis-revelo-inversiones-y-movimientos-del-cunado-de-aguilera-en-la-triple-frontera",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "OTRA INVESTIGACIÓN DE ANÁLISIS REVELÓ INVERSIONES Y MOVIMIENTOS DEL CUÑADO DE AGUILERA EN LA TRIPLE FRONTERA",
+    "fecha": "2026-09-10",
+    "link": "https://diariovictoria.com.ar/otra-investigacion-de-analisis-revelo-inversiones-y-movimientos-del-cunado-de-aguilera-en-la-triple-frontera/",
+    "texto_original": "Alejandro Almada tenía prohibido abandonar Paraná y sus bienes estaban inhibidos, pero habría residido durante años entre Puerto Iguazú y Foz do Iguazú. Tras ordenarse su detención, se presentó ante \n\nGendarmería y será trasladado a la capital entrerriana. \n\nOtra investigación desarrollada durante varios meses por \nAnálisis\n puso bajo la lupa los movimientos migratorios, negocios e inversiones vinculados con Alejandro Luis José Almada, cuñado de Juan Pablo Aguilera y uno de los imputados en la causa por los contratos irregulares de la Legislatura entrerriana.\n\nAlmada había fijado domicilio en Paraná y tenía prohibido abandonar la ciudad sin autorización. Sin embargo, los registros migratorios indicarían que residía y se desplazaba frecuentemente entre Puerto Iguazú y Foz do Iguazú, donde su pareja, Micaela Agostina Banegas, aparece vinculada con emprendimientos gastronómicos, turísticos e inmobiliarios.\n\nEntre esos negocios se encuentra V8 Garagem Bar, un establecimiento gastronómico y de eventos con automóviles de colección. Banegas también figura en Herma Holding Ltda., junto con su hermano Tomás Valentín Banegas, y en Vivra Travel Agencia de Viajes Ltda., con una socia brasileña identificada como J.M.D. Tomás Banegas, además, aparece como titular de otra firma ubicada junto al mencionado bar.\n\nLa investigación busca determinar el origen de los fondos utilizados para esas inversiones, debido a que Almada y Banegas tienen sus bienes inhibidos desde 2019. Una de las hipótesis que deberá evaluar la Justicia es si parte del dinero provenía del esquema investigado en la Legislatura y si existieron operaciones que podrían encuadrarse como lavado de activos.\n\nEl registro migratorio confirmó numerosos cruces fronterizos desde el año 2020. Almada había salido nuevamente hacia Brasil el 3 de septiembre y no había regresado cuando la Justicia ordenó su detención por incumplir las restricciones impuestas. Al conocerse la medida, se presentó voluntariamente en una sede de Gendarmería Nacional y será trasladado a Paraná.\n\nLa Fiscalía podría solicitar que permanezca detenido hasta el juicio. En la etapa previa, adelantó que pedirá una pena de 10 años de prisión para Almada, aunque esa pretensión deberá ser discutida y resuelta en el debate.\n\nTodos los nombres alcanzados por la investigación patrimonial\n\nLa reinscripción de las inhibiciones comprende a imputados y, en algunos casos, a sus parejas: \nAlfredo Bilbao, Gustavo Pérez, Sergio Esteban Cardoso, Flavia Marcela Beckman, Hugo Rubén Mena, Juan Domingo Orabona, Pedro Eduardo Opromolla, Jorge Enrique De Breuil, Juan Pablo Aguilera, Alejandro Luis José Almada, Roberto Ariel Faure, Verónica Caíno, Jorge Pablo Balladares, Guido Daniel Krapp, María Jazmín Mena Gioveni, Nicolás Beber, Renato Jesús Mansilla, María Victoria Álvarez, Viviana Gisell Mena Gioveni, Julia Gabriela Vainstein, Sandra Fabiana Marozzini, María Alejandra Camisassa, Micaela Agostina Banegas y Luciana María Belén Almada\n.\n\nEn el caso de María Alejandra Camisassa, esposa de Jorge Enrique De Breuil, la inhibición fue levantada recientemente. Estas medidas patrimoniales no constituyen una condena: buscan preservar bienes ante un eventual decomiso y continúan sujetas a las decisiones judiciales que se adopten en cada caso.\n\nEpígrafe de foto: Juan Pablo Aguilera y Alejandro Almada, cuando fueron detenidos en 2018.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "legislatura",
+      "justicia",
+      "inmobiliario"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-47bf00d32e81",
+    "fuente": "AP Noticias",
+    "titulo": "Se inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica de Villaguay",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1N2d1ZlUEdVTHY0V1pQN0NDM3lQaThFYmgyc2N5WmRxUl9iNTFVQ0QxLXJMc0tYN1FwajZZRFhtcU1QcnUzTkJoVHNqbmNsanBpLVdEUHJIbWJaa01DMVJvZlpNbDJaaUEyQ0hpOUhtVk9DNDY3ckVQYWVDQU93WlVhRQ?oc=5",
+    "texto_original": "Se inauguró la nueva residencia estudiantil femenina de la escuela agrotécnica de Villaguay\n  \nAP Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-feria-de-arte-en-parana-suman-editoriales-y-librerias-independientes",
+    "fuente": "Paralelo32",
+    "titulo": "Feria de arte en Paraná: suman editoriales y librerías independientes",
+    "fecha": "2026-09-10",
+    "link": "https://www.paralelo32.com.ar/feria-de-arte-en-parana-suman-editoriales-y-librerias-independientes",
+    "texto_original": "La escena cultural de Paraná tendrá un nuevo espacio de encuentro durante el fin de semana. Del 11 al 13 de septiembre, de 16 a 21, Sala Mayo, en Puerto Nuevo, será sede de una feria que reunirá propuestas vinculadas a las artes visuales y que, en esta edición, incorporará también a editoriales y librerías independientes.\n\nLa iniciativa busca ampliar el recorrido habitual de la feria y generar un punto de encuentro entre artistas, proyectos culturales, producción editorial y público.\nLibros y proyectos editoriales en Sala Mayo\nAdemás de las galerías, espacios culturales y proyectos grupales independientes que forman parte de la propuesta, esta edición suma la participación de proyectos vinculados con la producción editorial y artística local y regional.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-10T21:20:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
   }
 ]
