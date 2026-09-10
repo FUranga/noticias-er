@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Vollkorn, Inter } from "next/font/google";
+import { PT_Serif, Inter } from "next/font/google";
 import "./globals.css";
 
 // 2026-09-07: se probaron Newsreader (cuerpo) y Domine (títulos) para
@@ -18,15 +18,16 @@ import "./globals.css";
 // Neutral, sans -- descartada porque Francisco pidió mantener serif).
 // Se armó /tipografia-test con candidatas lado a lado (Playfair, PT Serif,
 // Lora, Source Serif 4, Vollkorn) -- misma familia de contraste moderado
-// que las referencias, sin la dureza del Didone. Se probó Lora primero;
-// Francisco la cambió por Vollkorn (2026-09-10, "dejemos Vollkorn por
-// ahora" -- queda como preferencia provisoria, no cerrada del todo). No
+// que las referencias, sin la dureza del Didone. Recorrido: Lora -> Vollkorn
+// ("medio rara", 2026-09-10) -> PT Serif, la misma que usa Texas Tribune
+// (no una opción teórica, la referencia real medida en el navegador). No
 // volver a tocar esto sin repetir la comparación en vivo con Francisco
-// mirando.
+// mirando. PT Serif no es variable, por eso el peso explícito.
 
-const headline = Vollkorn({
+const headline = PT_Serif({
   variable: "--font-headline",
   subsets: ["latin"],
+  weight: ["400", "700"],
 });
 
 const sans = Inter({
