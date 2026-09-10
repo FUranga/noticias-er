@@ -16,3 +16,6 @@ data/imagenes/*
 # de arriba tiene que ser data/imagenes/* (no data/imagenes/) para que esto
 # funcione.
 !data/imagenes/banco-libre/
+# Ejemplos de referencia de estilo (PDFs de terceros con copyright ajeno,
+# ademas de piezas propias) -- solo para consulta local, no se versiona.
+Ejemplos/

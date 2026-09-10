@@ -8,6 +8,18 @@ Este documento es la referencia compartida para las skills `redactar-noticia` y 
 
 A diferencia de una nota de despidos (hecho concreto, verificable, con una empresa como sujeto), acá la materia prima principal son **comunicados institucionales** — de gobierno, legislatura, cámaras empresarias, sindicatos. Ese tipo de texto viene con un sesgo estructural: está escrito para hacer quedar bien a quien lo emite. Nuestro trabajo no es transcribirlo con otras palabras — es **separar el hecho verificable del relato que lo envuelve**, y dejar bien claro qué es dato y qué es la versión de quien lo dice.
 
+## Contra el tono "comunicadoñol": la voz de reportero, no de traductor (2026-09-10)
+
+Bloomberg/WSJ sigue siendo el método base — pirámide invertida, corto, sujeto+acción+dato en el título. Nada de lo que sigue lo reemplaza: es sobre cómo evitar que el resultado suene a traducción de un comunicado, aunque la fuente sea un comunicado. Sale de una revisión de ejemplos reales en inglés (CT Examiner, Texas Tribune, Retail Week, Dismal Science/CUNY) — varios de ellos, de hecho, escritos por el propio Francisco como reportero antes de este pipeline. No es imitar un estilo ajeno: es recuperar un modo de escribir que ya funcionaba, antes de que el comunicado institucional se lo comiera.
+
+- **El lede nunca abre con la cifra o el anuncio institucional solo.** Aunque el fondo de la nota sea puramente numérico, la primera oración sostiene una acción o un hecho concreto, con el dato subordinado a esa acción — no al revés. "Casi 64.000 texanos van a tener condonada su deuda estudiantil federal" (acción primero), no "El gobierno federal condonó una deuda por X millones de dólares a 64.000 texanos" (cifra primero). El monto total, si hace falta, baja a la segunda oración o a la bajada.
+- **Párrafos de una a tres oraciones, una idea por párrafo.** Nunca dos datos de contexto en el mismo párrafo sin una cláusula que los conecte — si hace falta relacionar dos datos, se relacionan con una interpretación explícita, no apilándolos uno al lado del otro.
+- **Buscar siempre una voz de contraste, incluso cuando la única fuente disponible es un comunicado.** Un afectado, un experto independiente, un actor con otro interés en el mismo hecho. Si no se consigue, señalarlo explícitamente en el texto ("Todavía no respondió [organismo/actor]") en vez de dejar que la nota suene a una sola campana. Es la herramienta más simple para romper el monólogo institucional, y la que más distingue una nota de agencia real de una reescritura.
+- **Explicitar la brecha entre el eufemismo del comunicado y lo que implica en la práctica, sin acusar.** Si un comunicado habla de "un proceso de revisión de casos" y en los hechos es una condonación de deuda, decilo: "Más que un perdón, lo que el organismo hizo fue una corrección de casos mal categorizados" — se aclara el mecanismo real sin sugerir mala fe de la fuente.
+- **El cierre reencuadra o deja tensión abierta — no resume.** La última oración rara vez es un resumen del redactor; suele ser una cita (de una fuente, atribuida) que reubica el hecho en un contexto más amplio, o directamente deja una pregunta o un desacuerdo sin resolver. Evitar el cierre tipo "De esta manera, la medida busca..." — eso es relato institucional, no cierre periodístico.
+- **Cero adjetivos de valor en voz propia**, en todo el cuerpo (no solo en el título, ver más abajo). Si hace falta un juicio fuerte ("histórico", "un fracaso"), que lo diga una fuente entre comillas — nunca el redactor.
+- **Conectar con cobertura previa del mismo asunto, sistemáticamente** — no solo en el caso legislativo (ver más abajo), sino en cualquier tema recurrente. Un comunicado aislado rara vez es el principio de la historia.
+
 ## Reglas de título
 
 - **Sujeto + acción + dato principal, en ese orden.** El sujeto es el actor real del hecho (el organismo, la empresa, la persona), no una descripción abstracta ("Gobierno anuncia..." está bien si el gobierno es efectivamente quien actúa; "Se anunció..." en voz pasiva sin sujeto, no).
@@ -37,6 +49,17 @@ Los comunicados institucionales tienen un vocabulario propio que no es el de una
 | "reafirmó su compromiso con..." | generalmente no es noticia por sí sola — buscar si hay una acción concreta detrás |
 
 Si después de sacar el relleno institucional no queda un hecho concreto, probablemente no es una noticia — es una nota de color o directamente prensa sin sustancia (ver skill `evaluar-comunicado`).
+
+## Mecánica del español: referencia El País, matizado a rioplatense (2026-09-10)
+
+El manual de estilo de El País es la referencia para cuestiones de **mecánica** del español periodístico (puntuación, atribución, tratamiento de anglicismos) — no para su estructura de nota, que tiende a párrafos más largos y ledes más numéricos que los que usamos acá (ver sección anterior). Siempre matizado hacia un registro neutro/rioplatense, nunca peninsular.
+
+- **Pretérito simple, no compuesto.** "Declaró", "afirmó", "señaló" — nunca "ha declarado", "ha afirmado". El pretérito perfecto compuesto es el rasgo más marcadamente peninsular en este tipo de texto, y el ajuste más simple para que una nota no "suene a España".
+- **Variar el verbo de atribución** dentro de la misma nota — no repetir siempre "dijo" o "según". Banco de verbos: dijo, aseguró, afirmó, sostuvo, explicó, señaló, destacó, subrayó, indicó, precisó, detalló, advirtió, consideró, argumentó, planteó, admitió. Reservar los verbos con carga interpretativa (advirtió, admitió) para cuando el tono de la cita lo amerita, no como sinónimo neutro de "dijo".
+- **Atribución al final de la oración, como default** — "La medida no alcanza a cubrir el déficit, señaló la oposición" en vez de "Según la oposición, la medida...". Es el patrón dominante en los ejemplos revisados y ayuda a que el hecho abra la oración, no la fuente.
+- **Comillas angulares « »** para citas textuales, no comillas inglesas (" "). Ya es la convención de Francisco en Visión Desarrollista; se adopta acá por consistencia.
+- **Anglicismos y tecnicismos**: en cursiva la primera vez que aparecen, con una glosa breve entre comas solo si el término no es evidente por contexto (ej. "el *dashboard*, el panel de indicadores que usa el organismo,").
+- Evitar vocabulario o giros marcadamente peninsulares si aparecen al parafrasear una fuente extranjera (coche, piso, paro, "vosotros").
 
 ## Nada de números de normas — regla general (Francisco, 2026-09-07)
 
@@ -78,6 +101,7 @@ Esto es el corazón del valor editorial: cualquiera puede copiar un comunicado. 
 
 - **Bajada**: una o dos oraciones con lo más relevante que no entró en el título (quién más participa, cifras adicionales, próximos pasos, plazos). No repite el título con otras palabras.
 - **Cuerpo en pirámide invertida**: el dato más importante arriba, el contexto y detalle secundario después. Sin introducción genérica ("En el día de la fecha, en un acto realizado en...") — eso va, si acaso, al final como dato de color.
+- **Párrafos de una a tres oraciones y cierre que reencuadra, no que resume** — ver el detalle y los porqués en "Contra el tono comunicadoñol" más arriba.
 - **Sin acumular protocolo**: no hace falta detallar la lista completa de funcionarios presentes en un acto salvo que sea relevante para el hecho. Priorizar qué pasó y a quién afecta.
 - **Nada de línea "Fuente:" al final.** No es periodístico — es una muletilla de comunicado, no de nota. El origen del dato va tejido en el cuerpo, donde corresponde según la regla de atribución de arriba ("según informó el Ministerio de Producción", "de acuerdo con el comunicado del Senado"), nunca como una etiqueta aparte al cierre.
 - **Linkear las fuentes externas** (otro medio, un organismo, un documento) con un link real (`<a href="...">texto</a>` en HTML directo, no markdown — `pipeline/publicar_borrador.py` inserta el cuerpo tal cual en el post, sin convertir markdown) en el punto del cuerpo donde se las cita, no en una línea aparte.

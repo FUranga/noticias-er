@@ -17,6 +17,7 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
    - ¿Qué pasó, concretamente? (una medida, una cifra, una firma, un anuncio, una sesión, una resolución)
    - ¿Qué es interpretación o valoración de quien emite el comunicado? (impacto esperado, adjetivos, intenciones declaradas)
    - ¿Es un hecho ya consumado o un anuncio de algo futuro? Ver la distinción en `docs/estilo-editorial.md` — no uses verbo de hecho consumado para una promesa.
+   - ¿Hay una voz de contraste posible (un afectado, un experto independiente, un actor con otro interés en el mismo hecho)? Si el usuario la tiene o la puede conseguir fácil, pedila antes de redactar. Si no, redactá igual pero señalalo explícitamente en el texto o al usuario — no dejes que la nota suene a una sola campana sin decirlo.
 
 3. **Filtro de calidad mínimo — antes de redactar, confirmá que hay una noticia real:**
    - ¿Hay una acción o decisión concreta identificable, más allá del lenguaje de relaciones públicas?
@@ -24,11 +25,13 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
    - Si después de sacar el "comunicadoñol" (ver tabla en `docs/estilo-editorial.md`) no queda nada concreto, decíselo al usuario en vez de forzar una nota vacía — puede ser que el comunicado no pase el filtro aunque el editor ya lo haya marcado como candidato; señalalo, no lo descartes vos mismo sin avisar.
 
 4. **Redactar siguiendo `docs/estilo-editorial.md`:**
-   - Título: sujeto + acción + dato principal.
+   - Título: sujeto + acción + dato principal. En un conflicto, el título puede llevar las dos partes ("X hace A, críticos dicen que B").
    - Bajada: uno o dos oraciones con lo más relevante que no entró en el título.
-   - Cuerpo: pirámide invertida, corto (3-6 párrafos para un comunicado estándar).
-   - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia — tejida en el cuerpo ("según informó...", "de acuerdo con..."), nunca como una línea "Fuente:" separada al final (no es periodístico).
-   - Moneda en letras, sin adjetivos calificativos, sin relleno de protocolo.
+   - Lede: nunca abre con la cifra o el anuncio institucional solo — una acción o hecho concreto primero, el dato subordinado.
+   - Cuerpo: pirámide invertida, corto (3-6 párrafos para un comunicado estándar), párrafos de una a tres oraciones, una idea por párrafo.
+   - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia — tejida en el cuerpo, preferentemente al final de la oración ("la medida no alcanza a cubrir el déficit, señaló la oposición"), con verbos variados en pretérito simple (dijo, aseguró, señaló, sostuvo — nunca "ha declarado"), nunca como una línea "Fuente:" separada al final (no es periodístico). Citas textuales entre comillas angulares « ».
+   - Cierre que reencuadra o deja tensión abierta (a menudo una cita), no un resumen del redactor tipo "de esta manera, la medida busca...".
+   - Moneda en letras, sin adjetivos calificativos en voz propia (un juicio de valor fuerte va entre comillas de una fuente, no del redactor), sin relleno de protocolo.
 
 5. **No inventes lo que falta.** Si el comunicado no trae una cifra, fecha o dato que el título necesitaría, escribí con lo que hay y señalá explícitamente al usuario qué dato falta — no lo completes con una suposición razonable, aunque parezca obvia.
 
