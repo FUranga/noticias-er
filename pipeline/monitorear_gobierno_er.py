@@ -103,13 +103,23 @@ def cargar_ids_archivados() -> set[str]:
     aunque el editor ya lo haya descartado. Confirmado 2026-09-10: 139 de
     324 items archivados habian resurgido asi en la cablera activa.
     """
-    ids: set[str] = set()
+    return {item.get("id") for item in cargar_items_archivados()}
+
+
+def cargar_items_archivados() -> list[dict]:
+    """Items completos de ambos archivos de `data/archivo/` (ver
+    `cargar_ids_archivados`). Sirve para chequeos que necesitan mas que el
+    id -- por ejemplo, `monitorear_medios.py` compara (fuente, titulo) para
+    detectar el mismo articulo de Google News reingresando con un id
+    distinto (el link de redirect de Google puede cambiar entre lecturas
+    para la misma nota -- confirmado 2026-09-10)."""
+    items: list[dict] = []
     for path in ARCHIVO_PATHS:
         if not path.exists():
             continue
         with open(path, encoding="utf-8") as f:
-            ids.update(item.get("id") for item in json.load(f))
-    return ids
+            items.extend(json.load(f))
+    return items
 
 
 def item_backlog_desde_api(noticia: dict) -> dict:

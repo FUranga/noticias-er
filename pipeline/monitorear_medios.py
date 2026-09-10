@@ -59,7 +59,13 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from feed_utils import parsear_feed_con_reintentos  # noqa: E402
-from monitorear_gobierno_er import cargar_backlog, cargar_ids_archivados, guardar_backlog, limpiar_html  # noqa: E402
+from monitorear_gobierno_er import (  # noqa: E402
+    cargar_backlog,
+    cargar_ids_archivados,
+    cargar_items_archivados,
+    guardar_backlog,
+    limpiar_html,
+)
 from monitorear_senado_er import slug_de_link  # noqa: E402
 
 MEDIOS_PATH = Path(__file__).resolve().parent.parent / "data" / "fuentes_medios.json"
@@ -147,6 +153,7 @@ def _items_desde_parsed(parsed, id_prefijo: str, fuente_fallback: str | None) ->
                 "fecha": fecha,
                 "link": link,
                 "texto": limpiar_html(cuerpo_html),
+                "es_google_news": es_google_news,
             }
         )
     return items
@@ -193,6 +200,16 @@ def main() -> None:
     lugares = cargar_lugares()
     backlog = cargar_backlog()
     ids_existentes = {item.get("id") for item in backlog} | cargar_ids_archivados()
+    # Solo para Google News: el link de redirect que da Google puede cambiar
+    # entre lecturas para la misma nota, asi que el id (hash del link) no
+    # alcanza para detectar que ya la vimos -- comparamos tambien
+    # (fuente, titulo) contra todo lo conocido (confirmado 2026-09-10, 2
+    # casos reales encontrados). No se aplica a RSS normal: ahi el id sale
+    # de la URL propia del medio, que es estable, y una fuente con titulos
+    # recurrentes por diseño (ej. "Cuadro Tarifario - <mes>") no deberia
+    # perder novedades reales por compartir texto con una vieja.
+    titulos_conocidos = {(i.get("fuente"), i.get("titulo")) for i in backlog}
+    titulos_conocidos |= {(i.get("fuente"), i.get("titulo")) for i in cargar_items_archivados()}
     nuevos = []
     filtrados_topico = 0
     filtrados_lugar = 0
@@ -209,7 +226,10 @@ def main() -> None:
         for item in items:
             if item["id"] in ids_existentes:
                 continue
+            if item.get("es_google_news") and (item["fuente"], item["titulo"]) in titulos_conocidos:
+                continue
             ids_existentes.add(item["id"])
+            titulos_conocidos.add((item["fuente"], item["titulo"]))
 
             texto_completo = f"{item['titulo']} {item['texto']}"
             topicos_ok = texto_matchea(texto_completo, [p for ps in topicos.values() for p in ps])
