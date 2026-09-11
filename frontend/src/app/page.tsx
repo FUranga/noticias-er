@@ -33,9 +33,20 @@ import { mockPosts } from "@/lib/mock-posts";
 // no tienen notas reales asignadas (ver mock-posts.ts) -- se completa al
 // final de cada lista, nunca reemplaza contenido real. Borrar cuando ya no
 // haga falta.
+//
+// BUG corregido (2026-09-11, reportado por Francisco: la portada repetía
+// notas de demo entre secciones): `yaUsados` tiene que ser un Set compartido
+// que esta función *mutá* a medida que va tomando posts de relleno -- si
+// cada sección arranca del mismo `mockPosts` sin descontar lo que ya usó la
+// sección anterior, dos secciones terminan mostrando la misma nota de demo.
+// Además hay que CORTAR el relleno a lo que falta (`minimo - reales.length`)
+// -- antes se pegaba todo `mockPosts` entero como relleno, así que un módulo
+// que debía tener 3 ítems terminaba mostrando docenas.
 function conRelleno(reales: WpPost[], minimo: number, yaUsados: Set<number>): WpPost[] {
   if (reales.length >= minimo) return reales;
-  const relleno = mockPosts.filter((p) => !yaUsados.has(p.id));
+  const faltan = minimo - reales.length;
+  const relleno = mockPosts.filter((p) => !yaUsados.has(p.id)).slice(0, faltan);
+  relleno.forEach((p) => yaUsados.add(p.id));
   return [...reales, ...relleno];
 }
 
