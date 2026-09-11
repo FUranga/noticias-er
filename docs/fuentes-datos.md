@@ -36,6 +36,15 @@ Verificado 2026-09-11, a partir de una nota sobre un cruce político (Dal Molín
 - **Dato verificado (2026-09-11)**: en Entre Ríos, el total de empresas empleadoras registradas cayó de 17.405 (noviembre 2023) a 16.203 (mayo 2026, último dato disponible) — una baja de 6,9%.
 - **Cuidado**: "una empresa puede operar en varias jurisdicciones" (la suma provincial no coincide con el total nacional) y "las empresas están localizadas donde declaran al personal, no donde están constituidas legalmente" (ver README del repo).
 
+## Empleo registrado por sector y provincia (OEDE/SIPA) — mismo proyecto `mapa-empleo`
+
+Verificado 2026-09-11, misma nota que el punto anterior — esto es `data.json` del mismo repo (no `empresas.json`), que sí tiene desagregación sectorial **por provincia** (a diferencia de `empresas.json`).
+
+- **Fuente primaria**: Observatorio de Empleo y Dinámica Empresarial (OEDE) sobre datos del SIPA, Ministerio de Capital Humano. Estructura: `presidencias.Milei.provincias.<Provincia>.sectores` (7 macrosectores, serie trimestral Q4-2023 en adelante, **hasta Q4-2025** — el trimestral tiene rezago, no llega al mismo mes que el mensual) y `...detalle` (48 subramas a nivel país, con `delta`/`pct` pero sin serie completa por provincia — hay que reconstruir el valor base con `delta / (pct/100)` si hace falta el puesto absoluto).
+- **Dato verificado (2026-09-11) — Industria manufacturera en Entre Ríos**: 31.757 puestos registrados en el 4° trimestre de 2023 → 30.843 en el 4° trimestre de 2025 (último dato), una baja de 914 puestos (2,9%) — menor a la caída nacional del mismo período (CEPA, ver más abajo) pero caída real, mientras el Registro de Establecimientos Industriales de la provincia (otro dato, no comparable — mide inscripciones, no empleo) mostraba +19 establecimientos en el mismo lapso.
+  - Por subrama, las mayores caídas: Madera -261 puestos (-8%, de 3.262 a 3.001), Muebles -92 (-9,3%, de 989 a 897), Edición -116 (-32,2%, de 360 a 244). El rubro más grande, Alimentos, cayó apenas -0,8% (149 puestos, de 18.625 a 18.476). Papel fue de los pocos en crecer: +57 (+7,9%).
+- **Dato de contexto — total empleo privado registrado en Entre Ríos** (todos los sectores, SIPA mensual): 141.611 puestos en noviembre de 2023 → 133.978 en mayo de 2026, -5,4% (desestacionalizado: -2,9%).
+
 ## CEPA (Centro de Economía Política Argentina) — informes de industria
 
 Verificado 2026-09-11. Publica informes periódicos sobre empleo y establecimientos industriales a nivel **nacional** (no desagregado por provincia) — cuidado si aparece citado en un comunicado o proyecto legislativo provincial, el dato puede no ser específico de Entre Ríos aunque se use para argumentar sobre la provincia (caso real: el bloque Más para Entre Ríos citó un informe de CEPA nacional para fundamentar un proyecto de emergencia industrial provincial).
