@@ -26,6 +26,22 @@ Verificado 2026-09-07, a partir de la pregunta de Francisco sobre si valía la p
 - **Mecanismo recomendado**: monitoreo por calendario, no por feed — ya está en `docs/calendario-publicaciones.md` (Canasta Básica de Paraná, mensual; EPH trimestral). Revisar la página correspondiente cuando el calendario indica que debería haber salida nueva, en vez de esperar una notificación automática.
 - **Reuniones/agenda**: no aplica — es un organismo técnico de producción de estadísticas, no un ente que tome decisiones en reuniones o audiencias públicas (a diferencia del EPRE). No se buscó nada en ese sentido por no corresponder al tipo de organismo.
 
+## Empresas registradas (SRT) — proyecto propio `mapa-empleo`
+
+Verificado 2026-09-11, a partir de una nota sobre un cruce político (Dal Molín vs. Cresto) por el estado de la industria entrerriana — hacía falta un dato provincial independiente para contrastar ambas versiones.
+
+- **Fuente primaria**: Superintendencia de Riesgos del Trabajo (SRT), series históricas por jurisdicción y por sector CIIU Rev.4. Metodología equivalente al Monitor Mensual de Empresas de Fundar.
+- **Ya está descargada y mantenida** en el repo hermano `mapa-empleo` (`C:\Users\Francisco.Uranga\OneDrive - William Reed Ltd\Documents\proyectos claude\mapa-empleo\empresas.json`), actualizada por un workflow diario (ver su propio `README.md`). No hace falta volver a bajarla de la SRT — revisar primero si el dato ya está ahí.
+- **Qué tiene**: serie mensual 2015-01 en adelante, **total de empresas empleadoras por provincia** (`provincias.<Provincia>.serie`) — no tiene desagregación sectorial por provincia (el desglose por sector CIIU es solo nacional, en `pais.sectores`). Sirve para contrastar el total de empresas de una provincia en el tiempo, no para aislar un sector puntual (ej. "industria" específicamente).
+- **Dato verificado (2026-09-11)**: en Entre Ríos, el total de empresas empleadoras registradas cayó de 17.405 (noviembre 2023) a 16.203 (mayo 2026, último dato disponible) — una baja de 6,9%.
+- **Cuidado**: "una empresa puede operar en varias jurisdicciones" (la suma provincial no coincide con el total nacional) y "las empresas están localizadas donde declaran al personal, no donde están constituidas legalmente" (ver README del repo).
+
+## CEPA (Centro de Economía Política Argentina) — informes de industria
+
+Verificado 2026-09-11. Publica informes periódicos sobre empleo y establecimientos industriales a nivel **nacional** (no desagregado por provincia) — cuidado si aparece citado en un comunicado o proyecto legislativo provincial, el dato puede no ser específico de Entre Ríos aunque se use para argumentar sobre la provincia (caso real: el bloque Más para Entre Ríos citó un informe de CEPA nacional para fundamentar un proyecto de emergencia industrial provincial).
+
+- Dato (2026-09-02, "Día de la Industria"): 97.312 puestos de trabajo industriales registrados destruidos a nivel nacional entre noviembre de 2023 y mayo de 2026 (de 1.215.092 a 1.117.780, -8%); 4.020 establecimientos manufactureros desaparecidos en el mismo período (-8,1% del entramado); uso de la capacidad instalada industrial en 59,1%. Ampliamente replicado por medios nacionales el mismo día.
+
 ## Cómo se usa
 
 Antes de citar una cifra de este tema en una nota, revisar acá primero — si ya está verificada, ahorra la búsqueda; si no, buscar y agregar la fuente nueva con su fecha de verificación.
