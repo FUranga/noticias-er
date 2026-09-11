@@ -207,5 +207,27 @@
     "detalle": null,
     "agregado_el": "2026-09-10T00:15:08.041Z",
     "estado": "pendiente"
+  },
+  {
+    "id": "senado-er-expediente-29362-alivio-fiscal-comercio",
+    "fecha": "2026-09-15",
+    "evento": "Comision de Presupuesto y Hacienda del Senado trata el expediente N 29.362, paquete de medidas tributarias para aliviar la carga fiscal de pequenos contribuyentes y comercios de cercania",
+    "tipo": "tramite en comision",
+    "fuente": "Camara de Senadores de Entre Rios",
+    "origen_id": "senadoer-senado-cronograma-de-comisiones-y-llamado-a-sesion",
+    "detalle": "Esta convocado a dar su aporte el presidente del Centro Comercial e Industrial Parana (CeCIP), Mauricio Benintende. Seguir cuando tenga despacho de comision.",
+    "agregado_el": "2026-09-11T18:03:30Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-er-expediente-28737-comision-deuda-publica",
+    "fecha": "2026-09-16",
+    "evento": "Comisiones conjuntas de Presupuesto y Hacienda y Legislacion General tratan el expediente N 28.737, que crea la Comision Permanente de Seguimiento de la Deuda Publica provincial",
+    "tipo": "tramite en comision",
+    "fuente": "Camara de Senadores de Entre Rios",
+    "origen_id": "senadoer-senado-cronograma-de-comisiones-y-llamado-a-sesion",
+    "detalle": "Proyecto para crear un organo de seguimiento y analisis historico de la deuda publica entrerriana -- angulo institucional/de control a seguir si avanza.",
+    "agregado_el": "2026-09-11T18:03:30Z",
+    "estado": "pendiente"
   }
 ]
