@@ -1,0 +1,84 @@
+<!-- Plantilla: barras divergentes desde un cero central, con hover, para
+     variacion por categoria (ej. rubros, departamentos, sectores).
+     Ver skills/graficar-datos/SKILL.md para el proceso completo.
+     Reemplazar: eyebrow, headline, dek, y el array DATA (n=nombre,
+     d=delta absoluto, pct=variacion %, base=valor de partida, para
+     que el tooltip pueda mostrar base -> base+d ademas del %). -->
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#ffffff;--panel:#ffffff;--ink:#1d1d1f;--muted:#86868b;--hair:#e6e6e8;
+        --loss:#d0342c;--gain:#1f6f5c;--neutral:#eef0f0;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);font-family:"Inter",-apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;}
+  .card{width:960px;background:var(--panel);border:1px solid var(--hair);border-radius:16px;padding:36px 40px 34px;}
+  .eyebrow{font-size:13px;font-weight:600;color:var(--muted);letter-spacing:.01em;margin-bottom:10px;}
+  .headline{font-size:26px;font-weight:800;color:var(--ink);letter-spacing:-.015em;line-height:1.15;margin-bottom:8px;}
+  .dek{font-size:15px;color:var(--muted);line-height:1.5;max-width:640px;margin-bottom:26px;}
+  .row{display:grid;grid-template-columns:150px 1fr 92px;align-items:center;gap:14px;height:38px;border-radius:8px;
+       transition:background .1s ease;}
+  .row.hover{background:var(--neutral);}
+  .name{font-size:15px;color:var(--ink);font-weight:500;}
+  .track{position:relative;height:22px;}
+  .zero{position:absolute;left:50%;top:-4px;bottom:-4px;width:1px;background:var(--hair);}
+  .fill{position:absolute;top:0;height:100%;border-radius:4px;}
+  .fill.loss{background:var(--loss);}
+  .fill.gain{background:var(--gain);}
+  .val{font-size:15px;font-weight:700;text-align:right;font-variant-numeric:tabular-nums;}
+  .val.loss{color:var(--loss);}
+  .val.gain{color:var(--gain);}
+  .tip{position:fixed;pointer-events:none;background:var(--ink);color:#fff;border-radius:7px;
+       padding:7px 10px;font-size:12.5px;line-height:1.45;opacity:0;transform:translate(-50%,calc(-100% - 10px));
+       transition:opacity .08s ease;white-space:nowrap;box-shadow:0 6px 16px rgba(0,0,0,.18);z-index:5;}
+  .tip b{font-variant-numeric:tabular-nums;}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="eyebrow">EYEBROW AQUI</div>
+  <div class="headline">Titulo/hallazgo en una oracion</div>
+  <div class="dek">Bajada con la fuente exacta y el corte temporal.</div>
+  <div id="rows"></div>
+</div>
+<div class="tip" id="tip"></div>
+<script>
+var DATA = [
+  {n:"Categoria A", d:-10, pct:-8.0, base:125},
+  {n:"Categoria B", d:5,   pct:4.0,  base:125}
+];
+var maxAbs = Math.max.apply(null, DATA.map(function(x){return Math.abs(x.pct);}));
+var rows = document.getElementById("rows");
+var tip = document.getElementById("tip");
+DATA.forEach(function(x){
+  var row = document.createElement("div"); row.className="row";
+  var name = document.createElement("div"); name.className="name"; name.textContent = x.n;
+  var track = document.createElement("div"); track.className="track";
+  var zero = document.createElement("div"); zero.className="zero";
+  var fill = document.createElement("div"); fill.className = "fill " + (x.pct<0?"loss":"gain");
+  var w = (Math.abs(x.pct)/maxAbs) * 46;
+  if(x.pct<0){ fill.style.right="50%"; fill.style.width=w+"%"; }
+  else { fill.style.left="50%"; fill.style.width=w+"%"; }
+  track.appendChild(zero); track.appendChild(fill);
+  var val = document.createElement("div"); val.className="val " + (x.pct<0?"loss":"gain");
+  val.textContent = (x.pct>0?"+":"") + x.pct.toFixed(1).replace(".",",") + "%"; // coma, no punto (es-AR)
+  row.appendChild(name); row.appendChild(track); row.appendChild(val);
+  rows.appendChild(row);
+
+  row.addEventListener("mouseenter",function(){ row.classList.add("hover"); });
+  row.addEventListener("mouseleave",function(){ row.classList.remove("hover"); tip.style.opacity=0; });
+  row.addEventListener("mousemove",function(e){
+    var ult = x.base + x.d;
+    tip.innerHTML = x.n+"<br><b>"+(x.d>0?"+":"")+x.d.toLocaleString("es-AR")+"</b> ("+x.base.toLocaleString("es-AR")+" → "+ult.toLocaleString("es-AR")+")";
+    tip.style.left = e.clientX+"px";
+    tip.style.top = e.clientY+"px";
+    tip.style.opacity = 1;
+  });
+});
+</script>
+</body>
+</html>

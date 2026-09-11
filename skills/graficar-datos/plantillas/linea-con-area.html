@@ -1,0 +1,120 @@
+<!-- Plantilla: linea con area y hover, para una serie en el tiempo.
+     Ver skills/graficar-datos/SKILL.md para el proceso completo.
+     Reemplazar: eyebrow, headline, dek, el array SERIE (t=label del eje X,
+     v=valor, t2=label largo para el tooltip), y el color (--loss/--gain
+     segun si la serie sube o baja entre el primer y el ultimo punto). -->
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#ffffff;--panel:#ffffff;--ink:#1d1d1f;--muted:#86868b;--hair:#e6e6e8;
+        --loss:#d0342c;--loss-soft:#fbe7e5;--gain:#1f6f5c;--gain-soft:#e3f0ec;--accent:#0071e3;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);font-family:"Inter",-apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;}
+  .card{width:960px;background:var(--panel);border:1px solid var(--hair);border-radius:16px;padding:36px 40px 32px;}
+  .eyebrow{font-size:13px;font-weight:600;color:var(--muted);letter-spacing:.01em;margin-bottom:10px;}
+  .headline{font-size:26px;font-weight:800;color:var(--ink);letter-spacing:-.015em;line-height:1.15;margin-bottom:8px;}
+  .dek{font-size:15px;color:var(--muted);line-height:1.5;max-width:640px;margin-bottom:22px;}
+  .big{font-size:44px;font-weight:800;letter-spacing:-.02em;line-height:1;}
+  .sub{font-size:13px;color:var(--muted);margin-top:7px;}
+  .chartwrap{margin-top:24px;position:relative;}
+  .tip{position:absolute;pointer-events:none;background:var(--ink);color:#fff;border-radius:7px;
+       padding:7px 10px;font-size:12.5px;line-height:1.45;opacity:0;transform:translate(-50%,calc(-100% - 10px));
+       transition:opacity .08s ease;white-space:nowrap;box-shadow:0 6px 16px rgba(0,0,0,.18);}
+  .tip b{font-variant-numeric:tabular-nums;}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="eyebrow">EYEBROW AQUI</div>
+  <div class="headline">Titulo/hallazgo en una oracion</div>
+  <div class="dek">Bajada con la fuente exacta y el corte temporal.</div>
+  <div class="big" id="big">—</div>
+  <div class="sub" id="sub"></div>
+  <div class="chartwrap">
+    <svg id="svg" width="880" height="260"></svg>
+    <div class="tip" id="tip"></div>
+  </div>
+</div>
+<script>
+// t = label corto (eje X), v = valor, t2 = label largo (tooltip)
+var SERIE = [
+  {t:"inicio", v:100, t2:"Periodo inicial"},
+  {t:"fin",    v:90,  t2:"Periodo final"}
+];
+var BAJA = SERIE[SERIE.length-1].v < SERIE[0].v; // define color por direccion, nunca a mano
+var COLOR = BAJA ? "var(--loss)" : "var(--gain)";
+var COLOR_SOFT = BAJA ? "var(--loss-soft)" : "var(--gain-soft)";
+document.getElementById("big").style.color = COLOR;
+
+var vals = SERIE.map(function(d){return d.v;});
+var min = Math.min.apply(null,vals), max = Math.max.apply(null,vals);
+var pad = (max-min)*0.28 || Math.abs(max)*0.1;
+var W=880,H=260,ML=6,MR=6,MT=10,MB=34;
+function X(i){ return ML + i/(SERIE.length-1) * (W-ML-MR); }
+function Y(v){ return H-MB - (v-(min-pad))/((max+pad)-(min-pad)) * (H-MT-MB); }
+
+var d = SERIE.map(function(p,i){return (i?"L":"M")+X(i).toFixed(1)+","+Y(p.v).toFixed(1);}).join(" ");
+var area = d + " L "+X(SERIE.length-1).toFixed(1)+","+(H-MB)+" L "+X(0).toFixed(1)+","+(H-MB)+" Z";
+
+var svg = document.getElementById("svg");
+var ns = "http://www.w3.org/2000/svg";
+function el(tag,attrs){var e=document.createElementNS(ns,tag);for(var k in attrs)e.setAttribute(k,attrs[k]);return e;}
+
+svg.appendChild(el("path",{d:area, fill:COLOR_SOFT}));
+svg.appendChild(el("path",{d:d, fill:"none", stroke:COLOR, "stroke-width":2.5, "stroke-linejoin":"round","stroke-linecap":"round"}));
+
+[0, SERIE.length-1].forEach(function(i){
+  svg.appendChild(el("circle",{cx:X(i),cy:Y(SERIE[i].v),r:5,fill:"#fff",stroke:COLOR,"stroke-width":2.4}));
+});
+
+var t1=el("text",{x:X(0),y:H-12,"font-size":13,fill:"var(--muted)","font-family":"Inter"}); t1.textContent=SERIE[0].t;
+var t2=el("text",{x:X(SERIE.length-1),y:H-12,"text-anchor":"end","font-size":13,fill:"var(--muted)","font-family":"Inter"}); t2.textContent=SERIE[SERIE.length-1].t;
+svg.appendChild(t1); svg.appendChild(t2);
+
+var v1=el("text",{x:X(0),y:Y(SERIE[0].v)-14,"font-size":14,"font-weight":700,fill:"var(--ink)","font-family":"Inter"}); v1.textContent=SERIE[0].v.toLocaleString("es-AR");
+var v2=el("text",{x:X(SERIE.length-1),y:Y(SERIE[SERIE.length-1].v)-14,"text-anchor":"end","font-size":14,"font-weight":700,fill:COLOR,"font-family":"Inter"}); v2.textContent=SERIE[SERIE.length-1].v.toLocaleString("es-AR");
+svg.appendChild(v1); svg.appendChild(v2);
+
+var delta = SERIE[SERIE.length-1].v-SERIE[0].v;
+var pct = (delta/SERIE[0].v*100).toFixed(1).replace(".",","); // SIEMPRE reemplazar el punto por coma (es-AR)
+document.getElementById("big").textContent = delta.toLocaleString("es-AR")+" ("+pct+"%)";
+document.getElementById("sub").textContent = "Fuente y periodo exacto aca";
+
+// --- hover interactivo ---
+var hoverDot = el("circle",{r:6,fill:COLOR,stroke:"#fff","stroke-width":2,opacity:0,"pointer-events":"none"});
+svg.appendChild(hoverDot);
+var capture = el("rect",{x:0,y:0,width:W,height:H,fill:"transparent"});
+svg.appendChild(capture);
+var tip = document.getElementById("tip");
+var wrap = document.querySelector(".chartwrap");
+
+function nearestIdx(svgX){
+  var best=0,bd=Infinity;
+  for(var i=0;i<SERIE.length;i++){ var dd=Math.abs(X(i)-svgX); if(dd<bd){bd=dd;best=i;} }
+  return best;
+}
+function show(clientX,clientY){
+  var rect = svg.getBoundingClientRect();
+  var svgX = (clientX-rect.left)/rect.width*W;
+  var i = nearestIdx(svgX);
+  var p = SERIE[i];
+  hoverDot.setAttribute("cx",X(i)); hoverDot.setAttribute("cy",Y(p.v)); hoverDot.style.opacity=1;
+  tip.innerHTML = p.t2+"<br><b>"+p.v.toLocaleString("es-AR")+"</b>";
+  var wrapRect = wrap.getBoundingClientRect();
+  tip.style.left = (clientX-wrapRect.left)+"px";
+  tip.style.top = (clientY-wrapRect.top)+"px";
+  tip.style.opacity = 1;
+}
+function hide(){ hoverDot.style.opacity=0; tip.style.opacity=0; }
+capture.addEventListener("mousemove",function(e){ show(e.clientX,e.clientY); });
+capture.addEventListener("mouseleave",hide);
+capture.addEventListener("touchmove",function(e){ if(e.touches[0]){ show(e.touches[0].clientX,e.touches[0].clientY); e.preventDefault(); } },{passive:false});
+capture.addEventListener("touchend",hide);
+</script>
+</body>
+</html>
