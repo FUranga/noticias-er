@@ -27680,5 +27680,823 @@
     "lugares_matcheados": [
       "paraná"
     ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-0e01f49e14cf",
+    "fuente": "ahora.com.ar",
+    "titulo": "“Mientras algunos hablan de cierres, en Entre Ríos hay más establecimientos industriales registrados que en 2023”",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0dwWUN6RnMzaXRzOUNyWjVDN0Fib1BrdFVZZFRrdGdZU0hDZUoteGpSWEwtMjdOTE1EX0p6b1JiV1RBekdiVmh1VXc4QVFjaFZVTmJKWlQzcjQxNUU4Mk9HQ2ZPUVotMmdaQmFOa3dnR3dTWVY3WUZ6Wi0zT2F5alhjV1ljNGZPN0UxTWxMeFo5bzR5VmxaVFdkZDNVV3JUdzBhMGpSQkdtcTJFZlFTS3FtTUdXWlZxY01EVkt6YmhxOGhta1Mxc0xSWW9ROGs5bGVGa0ZPMA?oc=5",
+    "texto_original": "“Mientras algunos hablan de cierres, en Entre Ríos hay más establecimientos industriales registrados que en 2023”\n  \nahora.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-4c856290b0c2",
+    "fuente": "Letra P",
+    "titulo": "El PJ de Entre Ríos expulsó a las dos senadoras que apoyaron la reforma previsional de Frigerio",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlVrM2NvaEJ2aUJqOWxZem5jLWU0MGR1cFk1WjhPc3lFdjZiR0xkdi1kX3EtVXlyX2Ffdjh4X25ObnRpS3ZFN2FQQ2dyaGEzVExWa18xTTRmbGRxMHVjM0F4YXFKS0std1UwMG1Bc2IxY2FFNVRhRUNOMmx4VGJxdkp2WDNCazJKcnlTTTQ4cF9XeDRVSXJ6TXkyVEJPcWk1S0J0UVU3dU1RNmd0VmxxZVVFV3kyanc4ZXU3YUViZGg0S1nSAcgBQVVfeXFMTkQ0TjcxSlMzRDctUW5xV0R3U1J3S3NNRnlGYy0wdVZEQVoydlRiWmlnMXJHM0E2bmZwTnNudEU5c19sN3hHOWtHWUg3TFRTdldtakRCSnBNb1BJUGZjVkloc2hQWUV2MU9qX3JhMGxnTzUtX3E0aE9Oc3p0OVhyU2lIekZRX1NNRVBHcGFuZE5wbVpSR1NDMG16RkNRRmpVdTREeVNSQ0tlN3hMV2JlNU1jRGxXcXZ4M2lJUlhKdFNpdy1xTFpIdUk?oc=5",
+    "texto_original": "El PJ de Entre Ríos expulsó a las dos senadoras que apoyaron la reforma previsional de Frigerio\n  \nLetra P",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-5dad042ac689",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "Preocupación por el endeudamiento en Entre Ríos: casi 137 mil personas cayeron en mora",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMEI4UWlzUS0wdWRZNHZpWUtoV2h0c3cyMkcwWUc2V3I1Y1NwVnlSR1lKVlRXX3RrQy1hM0h3S3I4YVJoRkc3cFBHdGFOWDJEZjNVc1pldGJDX2xhczBCMWZfaXBPQWh4b09NN080ZUVFMktTLUlMREtvbVNNZEJUT1BGRk5pTlphYnJ2T25icEYwTHRTUzRmT2NVLTRxRk1pcnNTTWhQMWNqRV9zdS1xYWZsTmxiRmk5blFKMWRR?oc=5",
+    "texto_original": "Preocupación por el endeudamiento en Entre Ríos: casi 137 mil personas cayeron en mora\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b4d7f90075eb",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "El PJ de Entre Ríos expulsó a dos senadoras tras su apoyo a la reforma previsional de Frigerio",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNekVUd0tpcmxMWktsaDVpUWI0UHIzQkdZdExvaXZnbmVIOEk5Tm9kUEtZanVldDNRVjZ0NkVBcXJBQ2lUdlB4SllCU1RlZU9aNFRCak8zZHY1eXhudzNwanVQSFQwVUhtMUVRZXJ4Sm53NkhCd0JzYXRZWTlMcGxCMWtWNFNZQmstcVNFUGZ1TU1wemhiQ1piT25HanNkZHJHVS1JU1dPZ012NllkOERyeVpQLU95eW1tUzJqY19RYmV6MFhid095d0NB?oc=5",
+    "texto_original": "El PJ de Entre Ríos expulsó a dos senadoras tras su apoyo a la reforma previsional de Frigerio\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-383e87b2525a",
+    "fuente": "Uno Entre Rios",
+    "titulo": "La Municipalidad de Paraná avanza con la etapa final del Parque Solar Fotovoltaico",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1A2azA2d1FrZTE2dmNERkZCNEg3NlFXOFhKRG13Q2hud0FwYWx4MDIwcjVWQWtfYzhGRUt1UUJkVXJ4LWhIQWtRek9IbjRzQVlBNHdIWEpGemRLSkF3aUNsMWxUeWdwNDBnWVZpX2NySnZHQnVxSENrNTYxNWt3X3JiNGJ5Um1XOXN1SXdsTkk4MnJUbVZ0V1BETFhya1ZfUXp2SFQtcENHc01qWTZ6UjBsQVgtZFN1c1hVMHZsSV9fdkxBLTVrM1U3R01TdlJv0gHWAUFVX3lxTE5WN0lmTkN4X1JCU25WUi1UcVJmRGNLYWdJN1p6OU52MEtNbW9BajEtak9Id0dfa1NaVzE2b0NMV2JnRlFaRGFRSkhHUlB5UEgyRkdDVGhEc2dXTTVINVJrWHpBRElOTl8xRlJpb1NlQ2dOUHR1S3puMXpzWnFLd080US1CclI4ekRUZWUwWXZWSHQ4Zmw3RHVFUHlrWFdzMUtzWkRfLUdkdE9ESnpOZ1B2aGczT3ZIdWlIZVJfTUN3Sm9KYS1jV25VV3BmeVFSa25yV3R3MVE?oc=5",
+    "texto_original": "La Municipalidad de Paraná avanza con la etapa final del Parque Solar Fotovoltaico\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6654272c866d",
+    "fuente": "Estación Plus Noticias",
+    "titulo": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajZLaHIwMnF0OUp2dklucXRXaVpPeEhxSE5KZzlPbG5lZEFUdHlOMnRXU0Rjd3Fxc0FONkZPTWJFVENaSDA1MzdxLTd0Vm55MG13cTNIa2FMNmplX1BseFNRZ3ZjNDEtaVpMTGpGcENRNVN5US12MzdfMTNaUWwwN2EycXQ1QWJBSUZxd0Q1VmUzcDAxNi1YbDloVHRDRGlFRHRXSUpYUllKU2dKVHFhMm9nYXZNYUxJOGJobXo5eHBzdw?oc=5",
+    "texto_original": "Entre Ríos encabeza los índices de suicidios en Argentina: Infraestructura insuficiente, precarización laboral y reclamo social\n  \nEstación Plus Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-c409fde7fdd2",
+    "fuente": "elonce.com",
+    "titulo": "Banco Entre Ríos pone el foco en la minería y abre nuevas oportunidades para el desarrollo productivo entrerriano",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNel91RTZLdDhiaUFZemVCVUtpWjMwUHZoMEdhR05BN2ozWXZrb09RdXdkRFhIeEROblZ4Z292WEttSGluRWNBLTdFM1pyNWdEVnprZmk3WEs1a0JZY0NDS04tZkVkNXNCU3M2Yk5Nb3hVZjVoRnlrUkY3V1ppUEYwdEUzTmxUSUlZRHRYd1B3OG9kd0RQdnBzaXc4ckJlbGM1aHB1bWtUN3ZhaWFNTVBhY2xOSzlKUE81cktIQlB6UWFORkt2cnlWakN2RUg3MFY3M1lLMXJPcnNPMkI5YTNaenFlNnBFWEVmZ0ozS0VJRHptZ9IB3AFBVV95cUxQa3QxTTlqN3M2cGhjSXVLazBuN0xyRUczZTlyYU1SS0xRVGh6TEp3a2kyVUhiNnhyN3ZzbzA3VVp3OFlQTkNzblhSQ0k0V1pIbUZhdVJKQVQyZHNDblVkWEtSaks2YXdrRGhLLXdjRVNISWdoanE1LTVjbE5INXk2UVg2OFBvako3Q3Q2U1lKMi1zMm1yenZ3UzJGSGoxdk1WUk80NVNaR3JUS05aMjM3c1RVSS1kOFhIZmVqUFV0a291a0xZamtadlZfWE1tdlctQnYwZVFXclhnUmQw?oc=5",
+    "texto_original": "Banco Entre Ríos pone el foco en la minería y abre nuevas oportunidades para el desarrollo productivo entrerriano\n  \nelonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-2f6c2791765c",
+    "fuente": "APFDigital",
+    "titulo": "El Concejo Deliberante de Concordia avanzó en el ordenamiento urbano",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3JmTmFpV2F1b04wcUYxT2UtSkwwUUx1T3BOc1JaU2xYdW1CNDQyNEphV0d5Q1hPQUlwUmRtRXlMUmdLQnd5ZFk1R241MGRPUkJBZVV2dlVNZ1hMSDBJcW5tR3ZqOHFfYzk4TW5iY3ZLNDlkbWdvbFRENFpkam1Na2JmcFR0TlpuX1NPZjJtNkNOcHNHSU1CNUx6NWRWcmx2N19QSFBzOU1ZS1NJZGozTTlwbnJaV2dERi1XeHdZT1ZPZ0XSAcgBQVVfeXFMTmF3S0lISU5zdk9Gd09mSWUtMEJyVzgwVERLNTZoSjZ6dFJnTVVYcXNDbDhwSWE4cG5RSjY1NHJidTZjbkdYc05iZlgxN1Vsb1d1em16RmkwZElRc2VWbEpxamFtbXo3eWxnT0hpeVM3SDhvR0pyV0ZaeWZvLUZtcUl4Uk0xWnNVVzdIVzlWWXB1elZENnMyWmhQWFZkQ0lIbDd2b2ZZYkREMTZVZmsyenBrNFBiY3lkUUwyOW1HNHJqc05MSUo0bl8?oc=5",
+    "texto_original": "El Concejo Deliberante de Concordia avanzó en el ordenamiento urbano\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-a674c7c9df6d",
+    "fuente": "APFDigital",
+    "titulo": "Uno de cada cuatro hogares entrerrianos presenta algún déficit habitacional",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeFNGVjJLZ0piN09ObEcwVTh1WVJOZWxkQVIzeXBybnBTaHRfUVVhN2JoU3AtR2VfdGpxVEcwRlFrdGgtTDFNRHg0Q1Y4UUF3TTUtMXRsRFp4MWVCa0E2WFlldjdaN1FNanRoMWtIeU85d3JQekp5TTExaWd3WDlGSzE5a3VWV3I4anpWckhxdlhMMnhEaWh1amdmeVp4RmdHUXJsa21JYm9SOGFUNF9ZQ3pSd3dncHZVeURuQmNwMDRaeXRxX3FkWG01WVDSAdIBQVVfeXFMTTVJX3pZdmo1aHB1YnZ2dUxTYkM3SmlRMEZOY1B0OWVDcnZLWkttUnBmYnNuanZJcTUycU1TU21sTDVNYmFiTUtmWVVoUS1hcG9kempEUGUtRmMxX2ZpRlJhLTA5Vkh6U0FQUEJxWDdnczZrdHJkYjJiQ0c3N3pwZ1BkdnMybE5XVXZ1RGtyd3NHNmdYZ1huVEd3N2ZPZmh6bGZPVkVmU01QYnExbGMxd1Ywak1mQU5zLU5wRVQ2eHlVRDlmdkVDTTlCeGVOc1ZtazhB?oc=5",
+    "texto_original": "Uno de cada cuatro hogares entrerrianos presenta algún déficit habitacional\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-2c01fa919291",
+    "fuente": "APFDigital",
+    "titulo": "Gualeguaychú reconoció la trayectoria de los docentes jubilados por el Día del Maestro",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmtCYS1vQnJEQjM3d2lPZDJYNHZTSV85czEzT1djZmhINnBoNVV2N2w1ZHRIbndIdU1PLWFndDc5c3hXbk44ejFZM1RsbzE3YVhhdnJHRDV0a25mZHRETUd3TVIyMWpqampqeDRKV2FMOFpjWHN2ZDJSV1EwQ1g3SF8tM1FpWm1vYVVSbkw2bnJUcVgycVJSU2JZd2p6eEpQS2xleDc4VDc0M0dLbEJhdEszVnY2UTZvMEV1UEJzM1VXQXJZUEhZY3JEZy1VU1JjQzBZMGlkYzB5TFHSAeABQVVfeXFMT2VPQWg0b0RDM05BaUVXbHY5anJwSXdvSzBYd0ZlVXc1ZjRWTGNHa2lZeE1LSWxTdzhTa3FYdGJmYUdzRmhZWHZFdEJLRWppNFlfaHNWa0xBa2pXbVNfNTNJZ2RwQ2VCNlQtZWhxX0FjYmFmSGRKcVFLVVVNWWR6Y2lCVmYtMVNuYzNaemFhb1VyNXZlXy0wZVRERkpsd3QzWWJyd2w3dG9JeWF2aVhYWU5Fa09PQjF2QWNaNWZ5TDdxeEFKR2prYk9pUGpLbjdWS2Q5NUNadnhWVS0tWGtnNEc?oc=5",
+    "texto_original": "Gualeguaychú reconoció la trayectoria de los docentes jubilados por el Día del Maestro\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-dd79c5ee1509",
+    "fuente": "APFDigital",
+    "titulo": "Dal Molín: “Mientras algunos hablan de cierres, en Entre Ríos hay más establecimientos industriales registrados que en 2023”",
+    "fecha": "2026-09-10",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTEExQmtIeFdiNkpWekZQcWtuVlhXNTA3Y1F4MzNmd0Vna2E0cm9OMmpyOXBBd3NKOWtveGtnRHZ2dEhnemNrUlZIOTh6STJTYnBFZ01XWFFFMnRxSFhlTGlNcWRqWjZWTTJHbEFmbXlTeGNnNl9raGpTekdsT0pzYTg4S09wbEpSVXdsMFJRXzNPQWg0YXhhU1NwSTNtdGFMTlNXTHItRFFWdm1qbTVMVnpBd2hFLUcyckpsaXJLRTBOZzBfWUdWcmh0V2dicWhhRHFoWXF2d1lfMGZHVDc5VTFobDV5VFJsY2tFdzV6aTlDaGFuX3hSM1JMS0JFOWtFRUF6azU2czFucWp1LWfSAY4CQVVfeXFMT0xBMUJrSHhXYjZKVnpGUHFrblZYVzUwN2NReDMzZndFZ2thNHJvTjJqcjlwQXdzSjlrb3hrZ0R2dnRIZ3pja1JWSDk4ekkyU2JwRWdNV1hRRTJ0cUhYZUxpTXFkalo2Vk0yR2xBZm15U3hjZzZfa2hqU3pHbE9Kc2E4OEtPcGxKUlV3bDBSUV8zT0FoNGF4YVNTcEkzbXRhTE5TV0xyLURRVnZtam01TFZ6QXdoRS1HMnJKbGlyS0UwTmcwX1lHVnJodFdnYnFoYURxaFlxdndZXzBmR1Q3OVUxaGw1eVRSbGNrRXc1emk5Q2hhbl94UjNSTEtCRTlrRUVBems1NnMxbnFqdS1n?oc=5",
+    "texto_original": "Dal Molín: “Mientras algunos hablan de cierres, en Entre Ríos hay más establecimientos industriales registrados que en 2023”\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-dominguez-pensar-distinto-no-es-traicionar",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Domínguez: «Pensar distinto no es traicionar»",
+    "fecha": "2026-09-11",
+    "link": "https://entreriosahora.com/dominguez-pensar-distinto-no-es-traicionar/",
+    "texto_original": "Por Gladys Domínguez (*)\n\n \n\nRechazo categóricamente la decisión del Partido Justicialista de expulsarme. No me expulsan por traicionar al peronismo ni a sus principios: me expulsan por no obedecer ciegamente la orden de un grupo de dirigentes que nadie votó. Y no es lo mismo.\n\nFui elegida por los ciudadanos de mi departamento y es ante ellos, en primer lugar, ante quienes debo responder. Mi mandato no pertenece a una conducción circunstancial ni puede quedar sometido a una estructura partidaria cerrada, sorda y dedicada a expulsar compañeros.\n\nPensar distinto no es traicionar. Disentir no es traicionar. Votar de acuerdo con las propias convicciones tampoco es traicionar. Lo preocupante es que quienes hablan de unidad hayan elegido la expulsión como única respuesta. Lo mismo vale para mí que para la senadora Miranda, con quien me solidarizo.\n\nNo me expulsan por traicionar al peronismo; me expulsan por no obedecer ciegamente a dirigentes que no representan a nadie.\n\nEl PJ expulsó a las senadoras Miranda y Domínguez\n\n \n\nEl peronismo siempre fue un movimiento amplio, plural y diverso. El general Perón construyó un movimiento capaz de contener miradas diferentes, sumar voluntades y representar a distintos sectores de la sociedad. Nunca entendí al peronismo como un espacio en el que unos pocos se arrogan la facultad de decidir quién pertenece y quién no. El peronismo que yo defiendo abraza; no expulsa.\n\nSi algunos dirigentes creen que expulsando a dos senadoras resolverán los problemas del justicialismo, están mirando la realidad por el espejo retrovisor. El problema no somos quienes pensamos distinto. El problema es una dirigencia que no logra escuchar a la sociedad, construir nuevas mayorías ni realizar una sola autocrítica.\n\nNo voy a renunciar a mis convicciones, a mi criterio ni a la representación que me confiaron los ciudadanos de Feliciano. Una resolución partidaria puede imponer una sanción, pero no puede borrar una trayectoria ni decidir la identidad política de una persona.\n\nEl peronismo es demasiado grande, profundo e importante para quedar reducido a la voluntad de una conducción circunstancial que, reitero, nadie votó.\n\nLejos quedó el tiempo en que en el justicialismo entrerriano, quien ganaba conducía y quien perdía acompañaba. Ahora la lógica parece invertirse: quien gana y busca construir es castigado; los otros no conducen ni dejan conducir, simplemente expulsan.\n\nSus intenciones están claras: quieren un PJ chico, cerrado, sectario y lejos de la victoria. Ellos eligieron expulsar. Yo elijo seguir trabajando y representando a mi departamento.\n\n \n\n(*) Gladys Domínguez es senadora provincial por el departamento Feliciano. Integra el monobloque Peronismo Federal.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "servicios_publicos",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "federal",
+      "feliciano",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-frigerio-hablo-de-la-eliminacion-de-pensiones-vitalicias-y-de-las-paso",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Frigerio habló de la eliminación de pensiones vitalicias y de las PASO",
+    "fecha": "2026-09-11",
+    "link": "https://entreriosahora.com/frigerio-hablo-de-la-eliminacion-de-pensiones-vitalicias-y-de-las-paso/",
+    "texto_original": "El gobernador de Entre Ríos destacó la eliminación de las pensiones vitalicias para gobernadores y vicegobernadores, se refirió al debate sobre las PASO y explicó las gestiones que permitieron relocalizar la planta de hidrógeno verde proyectada en Uruguay.\n\nDurante una entrevista con el periodista Eduardo Feinmann, Frigerio repasó algunas de las principales decisiones impulsadas por su gestión y planteó la necesidad de que la política vuelva a escuchar a la ciudadanía.\n\nEn relación con la eliminación de las pensiones vitalicias para gobernadores y vicegobernadores, recordó que fue un compromiso de campaña y que la medida forma parte de la reforma previsional aprobada recientemente.\n\n“Yo entendía que había que empezar por casa, que había que empezar por eliminar primero los privilegios de los políticos. Entendía que las pensiones vitalicias eran un privilegio por estar cuatro años gobernando”, afirmó.\n\n“Por lo menos para mí, no correspondía cobrar toda la vida una pensión. Y así lo hicimos. Simplemente eso: cumplir con la palabra”, agregó.\n\nFrigerio también destacó el acompañamiento de la vicegobernadora Alicia Aluani a la decisión que puso fin a un régimen vigente desde hacía más de 60 años.\n\nConsultado sobre las PASO, Frigerio sostuvo que el debate debe partir de la necesidad de recuperar la confianza de la ciudadanía. “Yo no creo que las PASO sean malas. Lo que creo es que la política tiene que escuchar a la gente”, afirmó.\n\nEn ese sentido, cuestionó que los ciudadanos deban afrontar hasta cinco instancias electorales en un mismo año, mientras la participación viene disminuyendo. “Los políticos se vuelven cada vez más endogámicos y piensan en sus intereses y no en lo que está pensando la gente”, sostuvo.\n\nPor otra parte, Frigerio destacó el trabajo realizado junto con la Cancillería argentina y las autoridades uruguayas para lograr la relocalización de la planta de hidrógeno verde proyectada frente a las costas de Entre Ríos.\n\n“Estábamos cerca de tener otro caso Botnia”, afirmó, y recordó que decidió plantear personalmente el tema ante el presidente de Uruguay para evitar un nuevo conflicto entre dos pueblos hermanos.\n\n“Creo que primó el sentido común y el trabajo diplomático”, sostuvo el gobernador, quien remarcó que la provincia decidió priorizar el diálogo antes que judicializar el proyecto.\n\n“Nosotros decidimos no judicializar esto en un primer momento, sino apostar al diálogo con un país hermano y, sobre todo, hermano de Entre Ríos”, concluyó.\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-el-pj-expulso-a-las-senadoras-miranda-y-dominguez",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "El PJ expulsó a las senadoras Miranda y Domínguez",
+    "fecha": "2026-09-11",
+    "link": "https://entreriosahora.com/el-pj-expulso-a-las-senadoras-miranda-y-dominguez/",
+    "texto_original": "El  Consejo Provincial del PJ de Entre Ríos dispuso este jueves la expulsión de las senadoras Nancy Miranda (hoy con monobloque Frente Cimarrón) y Gladys Domínguez (monobloque Peronismo Federal) y de ese modo materializó el mandato del Congreso partidario del 13 de junio.\n\nLa medida sobrevino luego de que el Tribunal de Disciplina les diera oportunidad de un descargo, garantizando el derecho a defensa y debido proceso.\n\nDomínguez había votado a favor de dos proyectos clave del oficialismo provincial: la creación de la Obra Social de Entre Ríos (OSER) y la reforma jubilatoria; Miranda se abstuvo en la votación de la nueva obra social, y acompañó la reforma del sistema previsional.\n\nCon el voto de dos senadoras del PJ, la reforma se aprobó en el Senado\n\n \n\nAsí, se materializó la decisión adoptada de manera unánime por el  Congreso Provincial del PJ celebrado el 13 de junio de 2026. En dicha oportunidad, el máximo órgano del peronismo entrerriano dictó un mandato taxativo que fijó la sanción de expulsión para todo legislador que acompañara el proyecto de reforma previsional del oficialismo provincial y transfirió expresamente a este Consejo Provincial la facultad de efectivizar la medida una vez concluidas las actuaciones.\n\nNancy Miranda se fue del bloque del PJ en el Senado\n\n \n\nSe remarcó que a lo largo de todo el proceso se garantizaron de forma irrestricta el derecho de defensa y el debido proceso estatutario. A ambas legisladoras se les confirió traslado formal y la oportunidad de presentar sus respectivos descargos por escrito. Tras el análisis de las piezas defensivas, el Tribunal de Disciplina desestimó en su totalidad las justificaciones articuladas —las cuales intentaron excusar el voto a favor del ajuste sobre las espaldas de los jubilados entrerrianos— y dictaminó aconsejar la separación definitiva de ambas de las filas partidarias.\n\nSe partió el bloque del PJ en el Senado\n\n \n\nCon estos fundamentos, el Consejo Provincial efectivizó la expulsión definitiva del Partido Justicialista de Nancy Susana Miranda y Gladys Elizabeth Domínguez. “No existe margen ético ni orgánico para eludir la manda de las bases: quien utiliza la boleta, los recursos y la militancia peronista para luego votar leyes regresivas junto al gobierno de Rogelio Frigerio consuma una falta gravísima que debía sancionarse con la máxima penalidad estatutaria”, señalaron.\n\nEn la misma materia, se tomó conocimiento del dictamen del Tribunal de Disciplina respecto al afiliado Martín Müller por su incorporación formal como funcionario del gobierno de Javier Milei. Al no mediar una delegación extraordinaria de facultades para este caso, el Consejo Provincial notificará las actuaciones al Congreso Provincial del PJ para que sea este cuerpo soberano quien resuelva en definitiva sobre su expulsión en su próxima sesión.\n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:16:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "impuestos",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-han-traicionado-a-los-trabajadores-el-pj-expulso-a-dominguez-y-miranda-por-votar-la-reforma-previsional",
+    "fuente": "Diario Junio",
+    "titulo": "“Han traicionado a los trabajadores”: el PJ expulsó a Domínguez y Miranda por votar la reforma previsional",
+    "fecha": "2026-09-11",
+    "link": "https://www.diariojunio.com.ar/han-traicionado-a-los-trabajadores-el-pj-expulso-a-dominguez-y-miranda-por-votar-la-reforma-previsional/",
+    "texto_original": "Las legisladoras provinciales Gladys Domínguez y Nancy Miranda fueron expulsadas este jueves del PJ entrerriano. La decisión se adoptó por acompañar con su voto la reforma previsional a la que el partido se opuso. El presidente del PJ Paraná, Jorge ‘Kinoto’ Vázquez, expuso a DIARIOJUNIO su visión acerca de lo sucedido. “Se ha expulsado a quienes han traicionado a los trabajadores, han traicionado a lo que tiene que ver con la doctrina de nuestro partido”, dijo. Vázquez, uno de los demandantes de mantener la disciplina partidaria en temas como la reforma previsional o el cambio de la obra social Iosper en Oser, explicó esta noche que la separación de ambas es un “buen síntoma político”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-dal-molin-mientras-algunos-hablan-de-cierres-en-entre-rios-hay-mas-establecimientos-industriales-registrados-que-en-2023",
+    "fuente": "Diario Junio",
+    "titulo": "Dal Molín: “Mientras algunos hablan de cierres, en Entre Ríos hay más establecimientos industriales registrados que en 2023”",
+    "fecha": "2026-09-11",
+    "link": "https://www.diariojunio.com.ar/dal-molin-mientras-algunos-hablan-de-cierres-en-entre-rios-hay-mas-establecimientos-industriales-registrados-que-en-2023/",
+    "texto_original": "El senador provincial Rubén Dal Molín destacó las políticas implementadas por el Gobierno de Entre Ríos para acompañar al sector productivo. “La industria se defiende con hechos, no con discursos”, afirmó. Ante las críticas del diputado Enrique Cresto a la política industrial del Gobierno provincial, Dal Molín contrapuso los datos del Registro de Establecimientos Industriales de Entre Ríos y las medidas adoptadas para reducir costos y facilitar la actividad productiva, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "industria",
+      "gobierno",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-federacion-apuesta-al-teatro-nacional-para-potenciar-su-temporada-de-verano",
+    "fuente": "Diario Junio",
+    "titulo": "Federación apuesta al teatro nacional para potenciar su temporada de verano",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/federacion-apuesta-al-teatro-nacional-para-potenciar-su-temporada-de-verano/",
+    "texto_original": "El intendente de Federación, Ricardo Bravo, junto al Secretario de Turismo, Ezequiel Marozzini, recibió a Leonardo De Pauli y Patricia Rocha, productores que acercaron una propuesta para presentar durante el mes de enero en el Auditórium de nuestra ciudad. Se trata de una obra teatral de primer nivel, con reconocidas figuras de la escena nacional como Germán Krauss y Silvia Peyrou, según información enviada a DIARIOJUNIO",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-prevencion-del-suicidio-cuales-son-las-senales-de-alerta-y-como-acompanar-a-quien-sufre",
+    "fuente": "Diario Junio",
+    "titulo": "Prevención del suicidio: cuáles son las señales de alerta y cómo acompañar a quien sufre",
+    "fecha": "2026-09-10",
+    "link": "https://www.diariojunio.com.ar/prevencion-del-suicidio-cuales-son-las-senales-de-alerta-y-como-acompanar-a-quien-sufre/",
+    "texto_original": "En el marco del Día Mundial para la Prevención del Suicidio, el Ministerio de Salud de Entre Ríos, a través del Programa Provincial de Prevención del Suicidio, promueve la importancia de reconocer señales de sufrimiento, escuchar sin juzgar y acompañar a quienes atraviesan una situación de crisis. Ante una urgencia en salud mental, se encuentra disponible la línea 135, gratuita y confidencial, las 24 horas, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-98ad693cdb5a",
+    "fuente": "AIM Digital",
+    "titulo": "Banco Entre Ríos pone el foco en la minería y abre nuevas oportunidades para el desarrollo productivo entrerriano",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVDMtUDlyZjlBalNnYjJyVkphU2dMb0dUTHQySnNDMTJwelU1ODk3aVhFaEJyakdXZEN3bkJXQmxfa3NJSTVCTHc2akVEN1N2ZEtyblpMSVhQc3V3SnYtd3k4REFFekctSlhkbGJfU21jZkg1WlROZnUycUI1WnZySW5EWkpnTlQtQlhjeTBWYnhwWE9xdGlwcWs3UkVyZFRVajFPQ2pqVGxUbU9XLXZPbnR2UHZsZ0lRaDZZV1RUMXNTbW9mQTRJNWtBTWdHc1ozcVdQcGRmMmxjSlNfa0JiQlptX1RiU1pDbkQ1VzZkYw?oc=5",
+    "texto_original": "Banco Entre Ríos pone el foco en la minería y abre nuevas oportunidades para el desarrollo productivo entrerriano\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-procesaron-con-prision-preventiva-a-un-comisario-por-el-traslado-de-mas-de-1300-kilos-de-marihuana",
+    "fuente": "El Heraldo",
+    "titulo": "Procesaron con prisión preventiva a un comisario por el traslado de más de 1.300 kilos de marihuana",
+    "fecha": "2026-09-11",
+    "link": "https://www.elheraldo.com.ar/noticias/policiales/procesaron-con-prision-preventiva-a-un-comisario-por-el-traslado-de-mas-de-1300-kilos-de-marihuana",
+    "texto_original": "El juez federal de Paraná, Leandro Ríos, procesó con prisión preventiva al abogado y oficial de la Policía de Entre Ríos Daniel Alejandro Rosatelli y a otras cuatro personas por su presunta participación en el transporte de 1.345,51 kilogramos de marihuana.\n\nLa droga, distribuida en 1.716 paquetes compactados, fue encontrada el 13 de febrero de 2026 dentro de una camioneta Citroën Jumper, luego de una persecución en la zona del Camino del Borello y la Ruta Nacional 12, cerca de La Paz.\n\nTambién fueron procesados Martín Reynaldo Germán Pelizzari, Claudio David Luna, Alan Josías Gabriel Favieri y José Belén Favieri. La resolución les atribuye haber organizado la compra, preparación y circulación del cargamento entre noviembre de 2025 y febrero de 2026.\n\nSegún la investigación, Rosatelli habría aportado dinero y participado en la logística para comprar la camioneta utilizada en el traslado. El vehículo tenía un pedido de secuestro por una denuncia de estafa y circulaba con una patente falsa. Una Toyota Hilux habría funcionado como vehículo de apoyo para advertir sobre posibles controles en la ruta.\n\nDaniel Rosatelli es hermano de José María Rosatelli, actual jefe de la Policía Departamental Concordia, quien es completamente ajeno a la investigación. Ambos son hijos del comisario general retirado Juan Ramón Rosatelli, quien integró la conducción de la fuerza durante los gobiernos de Jorge Busti —2003 a 2007— y Sergio Urribarri —2007 a 2015—, y llegó a ocupar el cargo de subjefe de la Policía de Entre Ríos.\n\nUna agresión también incluida en el expedienteLa resolución incorporó otro hecho atribuido a Daniel Rosatelli. La Justicia investiga si el 12 de noviembre de 2025 agredió a Sixto Ramón Maciel dentro de la sede de la organización Suma de Voluntades, en Paraná.\n\nDe acuerdo con el expediente, habría golpeado la cabeza del hombre contra una pared mientras portaba un arma de fuego. La víctima sufrió un traumatismo de cráneo con riesgo de vida. Los investigadores sostienen que la agresión buscaba presionar a otra persona para que retirara una denuncia relacionada con la camioneta que posteriormente habría sido utilizada para transportar la marihuana.\n\nEl procesamiento no equivale a una condena definitiva. Los cinco acusados continuarán sometidos al proceso judicial y mantienen el derecho a ser considerados inocentes hasta que exista una sentencia firme.\n\n(I: El Heraldo con datos y foto de Análisis)",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "concordia",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-otra-investigacion-de-analisis-revelo-inversiones-y-movimientos-del-cunado-de-aguilera-en-la-triple-frontera",
+    "fuente": "El Heraldo",
+    "titulo": "Otra investigación de Análisis reveló inversiones y movimientos del cuñado de Aguilera en la triple frontera",
+    "fecha": "2026-09-11",
+    "link": "https://www.elheraldo.com.ar/noticias/politica/otra-investigacion-de-analisis-revelo-inversiones-y-movimientos-del-cunado-de-aguilera-en-la-triple-frontera",
+    "texto_original": "Otra investigación desarrollada durante varios meses por Análisis puso bajo la lupa los movimientos migratorios, negocios e inversiones vinculados con Alejandro Luis José Almada, cuñado de Juan Pablo Aguilera y uno de los imputados en la causa por los contratos irregulares de la Legislatura entrerriana.\n\nAlmada había fijado domicilio en Paraná y tenía prohibido abandonar la ciudad sin autorización. Sin embargo, los registros migratorios indicarían que residía y se desplazaba frecuentemente entre Puerto Iguazú y Foz do Iguazú, donde su pareja, Micaela Agostina Banegas, aparece vinculada con emprendimientos gastronómicos, turísticos e inmobiliarios.Entre esos negocios se encuentra V8 Garagem Bar, un establecimiento gastronómico y de eventos con automóviles de colección. Banegas también figura en Herma Holding Ltda., junto con su hermano Tomás Valentín Banegas, y en Vivra Travel Agencia de Viajes Ltda., con una socia brasileña identificada como J.M.D. Tomás Banegas, además, aparece como titular de otra firma ubicada junto al mencionado bar.La investigación busca determinar el origen de los fondos utilizados para esas inversiones, debido a que Almada y Banegas tienen sus bienes inhibidos desde 2019. Una de las hipótesis que deberá evaluar la Justicia es si parte del dinero provenía del esquema investigado en la Legislatura y si existieron operaciones que podrían encuadrarse como lavado de activos.El registro migratorio confirmó numerosos cruces fronterizos desde el año 2020. Almada había salido nuevamente hacia Brasil el 3 de septiembre y no había regresado cuando la Justicia ordenó su detención por incumplir las restricciones impuestas. Al conocerse la medida, se presentó voluntariamente en una sede de Gendarmería Nacional y será trasladado a Paraná.La Fiscalía podría solicitar que permanezca detenido hasta el juicio. En la etapa previa, adelantó que pedirá una pena de 10 años de prisión para Almada, aunque esa pretensión deberá ser discutida y resuelta en el debate.\n\nTodos los nombres alcanzados por la investigación patrimonialLa reinscripción de las inhibiciones comprende a imputados y, en algunos casos, a sus parejas: Alfredo Bilbao, Gustavo Pérez, Sergio Esteban Cardoso, Flavia Marcela Beckman, Hugo Rubén Mena, Juan Domingo Orabona, Pedro Eduardo Opromolla, Jorge Enrique De Breuil, Juan Pablo Aguilera, Alejandro Luis José Almada, Roberto Ariel Faure, Verónica Caíno, Jorge Pablo Balladares, Guido Daniel Krapp, María Jazmín Mena Gioveni, Nicolás Beber, Renato Jesús Mansilla, María Victoria Álvarez, Viviana Gisell Mena Gioveni, Julia Gabriela Vainstein, Sandra Fabiana Marozzini, María Alejandra Camisassa, Micaela Agostina Banegas y Luciana María Belén Almada.\n\nEn el caso de María Alejandra Camisassa, esposa de Jorge Enrique De Breuil, la inhibición fue levantada recientemente. Estas medidas patrimoniales no constituyen una condena: buscan preservar bienes ante un eventual decomiso y continúan sujetas a las decisiones judiciales que se adopten en cada caso.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "legislatura",
+      "justicia",
+      "inmobiliario"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-edicto-judicial-solicitud-de-publicacion-220",
+    "fuente": "TalCual Chajarí",
+    "titulo": "EDICTO JUDICIAL: solicitud de publicación",
+    "fecha": "2026-09-10",
+    "link": "https://www.talcualchajari.com.ar/225880/edicto-judicial-solicitud-de-publicacion-220/",
+    "texto_original": "El Señor Juez a cargo del Juzgado de Primera Instancia en lo Civil y Comercial N° 2 de la Ciudad de Chajari Dr. Mariano Luis VELASCO, Secretaría a mi cargo, en el expediente caratulado «BARRIENTOS LUIS ALFREDO» Nº DA972/2026, cita y emplaza por el término de treinta (30) días corridos a herederos/as y acreedores de BARRIENTOS, LUIS ALFREDO, D.N.I. 7.665.062, vecino que fuera del Departamento Chajarí, fallecido en Chajari Entre Ríos, en fecha 13/05/2026.\n\nPublíquese por un (1) día en el Boletín Oficial y por tres (3) días en un medio periodístico local de amplia circulación.\n\nFrmado digitalmente por: Dra. Verónica P. Ramos -Secretaria-.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-procesaron-con-prision-preventiva-al-comisario-y-abogado-rosatelli-por-narcotrafico-y-violencia-coactiva",
+    "fuente": "TalCual Chajarí",
+    "titulo": "Procesaron con prisión preventiva al comisario y abogado Rosatelli por narcotráfico y violencia coactiva",
+    "fecha": "2026-09-10",
+    "link": "https://www.talcualchajari.com.ar/225877/procesaron-con-prision-preventiva-al-comisario-y-abogado-rosatelli-por-narcotrafico-y-violencia-coactiva/",
+    "texto_original": "El juez federal de Paraná, Leandro Ríos, dictó el procesamiento con prisión preventiva de Daniel Alejandro Rosatelli —abogado y oficial de la Policía de Entre Ríos— junto a otros cuatro integrantes de una organización criminal, por el transporte de más de 1.345 kilogramos de marihuana. La resolución judicial les atribuye haber coordinado la adquisición, el acondicionamiento y el traslado del cargamento de estupefacientes interceptado en La Paz el 13 de febrero, además de disponer embargos millonarios sobre sus bienes.\n\nEl marco de la causa atribuye a los procesados el transporte organizado de estupefacientes y falsificación de documentos: “Entre el 4 de noviembre de 2025 y el 13 de febrero de 2026, Daniel Alejandro Rosatelli, Martín Reynaldo Germán Pelizzari, Claudio David Luna, Alan Josías Gabriel Favieri y José Belén Favieri —junto a otros colaboradores— organizaron y ejecutaron el transporte de 1.345,51 kilogramos de marihuana compactada en 1.716 ‘ladrillos’ o ‘panes’. El cargamento fue interceptado el 13 de febrero de 2026 en el ‘Camino del Borello’ y Ruta Nacional N° 12 (La Paz, Entre Ríos) tras la persecución de una furgoneta Citroën Jumper blanca. Rosatelli aportó los fondos y la logística para comprar la furgoneta —la cual registraba pedido de secuestro por estafa— y colocarle una chapa patente ideológicamente falsa (dominio GIJ 496) para eludir los controles. La maniobra incluyó el despliegue de una camioneta Toyota Hilux que operó como ‘auto-guía’ en la ruta.\n\nPor otra parte, se señala otro hecho endilgado a Rosatelli, calificado como lesiones graves agravadas y amenazas coactivas: “El 12 de noviembre de 2025, en la sede de la ONG Suma de Voluntades en Paraná, Rosatelli agredió físicamente al intermediario Sixto Ramón Maciel golpeando su cabeza contra una pared con un arma de fuego. La agresión le provocó a la víctima un traumatismo encéfalo-craneano con riesgo de vida. Dicho ataque violento tuvo como objetivo amenazar a Jonatan Emanuel Barbieri para que retirara la denuncia por estafa vinculada a la furgoneta, radicada una hora y media antes, garantizando así la impunidad y disponibilidad del vehículo para el tráfico de drogas”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-la-canasta-subio-por-encima-de-la-inflacion-una-familia-necesito-en-agosto-1-605-497-para-no-ser-pobre",
+    "fuente": "Federal Al Día",
+    "titulo": "LA CANASTA SUBIÓ POR ENCIMA DE LA INFLACIÓN: UNA FAMILIA NECESITÓ EN AGOSTO $1.605.497 PARA NO SER POBRE",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/la-canasta-subio-por-encima-de-la-inflacion-una-familia-necesito-en-agosto-1-605-497-para-no-ser-pobre/",
+    "texto_original": "La canasta básica de agosto determinó que una familia integrada por cuatro personas necesitó ingresos mensuales por al menos $1.605.497 para no ser considerada pobre. El dato surgió del nuevo informe difundido por el Instituto Nacional de Estadística y Censos (Indec).\n\nEse mismo hogar, denominado “tipo 2” por el organismo, requirió $726.469 para cubrir sus necesidades alimentarias básicas y mantenerse por encima de la línea de indigencia.\n\nTanto la Canasta Básica Total (CBT), utilizada para establecer el umbral de pobreza, como la Canasta Básica Alimentaria (CBA), que determina la indigencia, aumentaron un 2,6% respecto de julio.\n\nCuánto necesitó cada tipo de hogar\n\nEn el caso de un hogar tipo 1, compuesto por tres integrantes, la Canasta Básica Total alcanzó los $1.278.163. Para una familia tipo 3, conformada por cinco personas, el ingreso mínimo necesario para no ser pobre ascendió a $1.688.630.\n\nLos valores fueron calculados a partir de las necesidades de un “adulto equivalente”, definido por el Indec como un varón de entre 30 y 60 años con actividad moderada. Para esa unidad de referencia, la CBT se ubicó en $519.578.\n\nEntre enero y agosto, la Canasta Básica Total acumuló un incremento del 22,7%. En la comparación con igual mes del año anterior, la suba alcanzó el 38,3%.\n\nLa línea de indigencia superó los $726.000\n\nLa Canasta Básica Alimentaria quedó establecida en $235.103 por adulto equivalente. Este indicador contempla exclusivamente los alimentos indispensables para cubrir un conjunto de necesidades nutricionales.\n\nPara una familia de tres integrantes, el valor de la CBA ascendió a $578.354. En tanto, un hogar compuesto por cinco personas necesitó $764.086 para no caer por debajo de la línea de indigencia.\n\nEntre enero y agosto, la canasta alimentaria acumuló una suba del 23,2%, mientras que el incremento interanual llegó al 39,6%. De esta manera, el aumento de los alimentos esenciales superó levemente la variación registrada por la Canasta Básica Total.\n\nEn julio, una familia de cuatro integrantes había necesitado $1.564.716 para no ser pobre y $708.016 para superar la indigencia, de acuerdo con el informe correspondiente a ese período\n\n#AnalisisDigital #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-todo-roto-el-pj-de-entre-rios-expulso-a-las-dos-senadoras-que-apoyaron-la-reforma-previsional-de-frigerio",
+    "fuente": "Federal Al Día",
+    "titulo": "TODO ROTO: EL PJ DE ENTRE RÍOS EXPULSÓ A LAS DOS SENADORAS QUE APOYARON LA REFORMA PREVISIONAL DE FRIGERIO",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/todo-roto-el-pj-de-entre-rios-expulso-a-las-dos-senadoras-que-apoyaron-la-reforma-previsional-de-frigerio/",
+    "texto_original": "Nancy Miranda y Gladys Domínguez fueron sancionadas por el tribunal de disciplina partidario. Podrían jugar por afuera en 2027.\n\nEl Consejo Provincial del PJ de Entre Ríos expulsó a las senadoras provinciales Nancy Miranda (Federal) y Gladys Domínguez (Feliciano). La determinación se enmarcó en el mandato emanado por el congreso partidario del 13 de junio, donde se había advertido que quienes se abstuvieran o votaran a favor de la reforma previsional impulsada por el oficialismo serían echados.\n\nLa decisión del órgano conductor del pejotismo entrerriano -hoy encabezado por la diputada provincial Silvia Moreno ante la licencia pedida por José Cáceres- fue informada tras una reunión virtual que se mantuvo este jueves y que comenzó poco antes de las 19. Fue haciéndose eco de lo que recomendó el Tribunal de Disciplina, que pasó de estar sin conformarse a tener una actividad importante en pocos meses, dado que primero suspendió a aquellos que jugaron por afuera en las elecciones de 2025 y ahora sancionó gravemente a las dos legisladoras.\n\nLos fundamentos de la expulsión\n\nSegún supo Letra P por fuentes del PJ, no hubo una revisión exhaustiva de lo que aconsejaba el Tribunal. Todos los integrantes de la mesa de conducción compartieron que tanto Domínguez como Miranda actuaron de forma deliberada en contra de lo que había estipulado el órgano soberano del partido. Por ende, eran conscientes de la sanción que les podía caber por su voto a favor de la iniciativa.\n\nDesde el Consejo se aseguró que ambas legisladoras tuvieron la oportunidad de defenderse, dado que presentaron descargos que fueron evaluados formalmente. Allí esgrimieron sus argumentos que, si bien no trascendieron oficialmente -y no fueron dados a conocer por las protagonistas- habrían girado en torno al histórico debate sobre las decisiones que se adoptan desde espacios legislativos: las bancas no son de los partidos, son de las personas.\n\nPortazos y la mira puesta en 2027\n\nTanto Domínguez como Miranda ya se fueron del bloque del peronismo en el Senado. La primera formó Peronismo Federal y la segunda, Frente Cimarrón. Con esa determinación dejaron a la oposición sin mayoría en la cámara alta, habilitando que el tratamiento de los proyectos enviados por el oficialismo alcance números más cómodos.\n\nLa legisladora por Feliciano se despegó del espacio que la llevó al cargo en 2025, tras abstenerse de votar en la Ley de Obra Social de Entre Ríos (OSER), lo cual permitió que el oficialismo se alce con una victoria en el recinto. Luego de ello y después de conformar su monobloque, se mostró en reiteradas ocasiones cercana a Juntos, acompañando incluso las actividades oficiales que se realizaban en su departamento. Todavía se desconoce si buscará o no participar otra vez, ya sea buscando una banca o por otro cargo.\n\nEn cuanto a la oriunda de Federal, que también se abstuvo cuando hubo que decidir la creación de la OSER, no había quitado los pies del plato hasta ahora. Acompañar la modificación del sistema jubilatorio provincial fue el último paso antes de crear su propio espacio y anunciar por redes sociales que buscará otro mandato -el cuarto consecutivo, es decir, quiere ser legisladora por al menos 16 años- en las elecciones de 2027. Naturalmente, tendrá que ser por otro espacio distinto al que ya la llevó a ese lugar en tres ocasiones.\n\nLa duda que persiste es si tanto Domínguez como Miranda no decidirán jugar por afuera de las dos grandes estructuras de unos comicios que, otra vez, se esperan bien polarizados entre Juntos (posiblemente en alianza con La Libertad Avanza) y el peronismo, a donde ya no pertenecen. En todo caso, pueden hacerlo en una tercera boleta que “quebraría” los votos opositores, favoreciendo indirectamente al oficialismo.\n\nSanciones: qué dice la carta orgánica del PJ\n\nEl artículo 19 de la Carta Orgánica del Partido Justicialista de Entre Ríos establece que el Tribunal de Disciplina tendrá “carácter permanente” y estará compuesto por tres miembros designados por el Congreso Provincial, con dos años en sus funciones.\n\nDe acuerdo a la carta magna del espacio, es facultad del Tribunal “entender en los casos individuales o colectivos que se susciten por inconducta, indisciplina o violación de los principios y resoluciones de los organismos partidarios y que puedan significar la aplicación de sanciones para sus afiliados y adherentes”. Y agrega: “Substanciará las causas por el procedimiento escrito que se reglamente -el que asegurará el derecho de defensa del imputado- y dictaminará aconsejando la sanción que corresponda; elevando las actuaciones al Congreso Provincial”.\n\nLos miembros del Tribunal de Disciplina serán preferentemente abogados -aunque no es excluyente- y no podrán formar parte de otros organismos partidarios.\n\nEn cuanto a las sanciones, detalladas en el artículo 20, hay cuatro tipos: amonestación; suspensión temporaria de la afiliación; desafiliación y expulsión. “Las sanciones aplicadas por el Congreso Provincial serán apelables ante el Congreso Nacional del Partido cuando ellas procedan”, finaliza el apartado vinculado al tema.\n\n#LetraP #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "legislatura",
+      "justicia",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal",
+      "feliciano",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-dpt-federal-habra-un-corte-temporal-de-energia-electica-en-colonia-san-lorenzo",
+    "fuente": "Federal Al Día",
+    "titulo": "DPT. FEDERAL: HABRÁ UN CORTE TEMPORAL DE ENERGÍA ELECTICA EN COLONIA SAN LORENZO",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/dpt-federal-habra-un-corte-temporal-de-energia-electica-en-colonia-san-lorenzo/",
+    "texto_original": "Sepa que día y en que horario.\n\nCOMUNICADO DE PRENSA ENER SA: comunica que, el día de mañana, viernes 11/09/2026, se efectuará un corte en el servicio eléctrico, el mismo afectará a la zona rural de Colonia San Lorenzo del Depto. Federal, en el área comprendida por la Distribuidora.\n\nMOTIVO DEL CORTE: Tareas de mantenimiento y mejoras sobre Subestación Transformadora de rebaje de Media Tensión ubicada en RN N°127 y acceso a la localidad de El Cimarrón y Aldea San Isidro.\n\nHORARIO ESTIMADO: 08:00 hs a 11:00 hs aproximadamente, si las condiciones climáticas lo permiten. Estimado cliente, sepa disculpar las molestias ocasionadas, son trabajos necesarios a realizar, para la mejora en la prestación del servicio. Por consultas y reclamos en el servicio, está disponible los 365 días del año nuestro centro de atención al cliente 0 800 777 0080. Gomez Sergio P. P. ENERSA\n\n#ENERSA #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-la-municipalidad-de-federal-anuncia-el-reinicio-de-la-obra-de-cloacas-en-distintos-barrios-de-la-ciudad",
+    "fuente": "Federal Al Día",
+    "titulo": "LA MUNICIPALIDAD DE FEDERAL ANUNCIA EL REINICIO DE LA OBRA DE CLOACAS EN DISTINTOS BARRIOS DE LA CIUDAD",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/la-municipalidad-de-federal-anuncia-el-reinicio-de-la-obra-de-cloacas-en-distintos-barrios-de-la-ciudad/",
+    "texto_original": "La Presidenta Municipal, Alicia Oviedo, mantuvo una reunión con representantes de la empresa Del Litoral S.A para coordinar el inicio de una nueva etapa de la obra de cloacas en Federal, cuyos trabajos comenzarán el próximo 1° de octubre.\n\nEsta intervención da continuidad a una obra fundamental para la ciudad y contempla distintas etapas para completar sectores pendientes y ampliar la red cloacal.\n\nLos trabajos comenzarán en las 48 viviendas de I.A.P.V. y el proyecto prevé completar trabajos en los barrios El Silbido, Unión, Salto y Las Flores, además de extender el servicio hacia los barrios Itatí y 25 de Mayo, sectores que todavía no cuentan con conexión.\n\nSe trata de una obra de infraestructura esencial, que permitirá seguir mejorando las condiciones de saneamiento, salud y calidad de vida de numerosas familias; comunicaron oficialmente.\n\n#federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "municipios",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-tambien-en-federal-con-un-sirenazo-bomberos-reclamaron-el-cumplimiento-de-la-ley-de-financiamiento",
+    "fuente": "Federal Al Día",
+    "titulo": "TAMBIEN EN FEDERAL: CON UN SIRENAZO, BOMBEROS RECLAMARON EL CUMPLIMIENTO DE LA LEY DE FINANCIAMIENTO",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/tambien-en-federal-con-un-sirenazo-bomberos-reclamaron-el-cumplimiento-de-la-ley-de-financiamiento/",
+    "texto_original": "Bomberos Voluntarios de todo el país hicieron sonar simultáneamente las sirenas de sus cuarteles para reclamar al Estado nacional el cumplimiento de las normas que establecen el financiamiento del sistema. El director de la Federación Entrerriana de Bomberos Voluntarios (Febv), Leandro Arribalzaga, explicó que la protesta “no constituye un pedido de ayuda extraordinaria” y advirtió que los recursos adeudados son necesarios para garantizar la respuesta ante emergencias.\n\n“En el día de hoy se llevó a cabo el toque de sirena en todos los cuarteles del país, en los más de mil cuarteles que hay en la Argentina, en reclamo de que el Estado Nacional cumpla con la Ley de Bomberos 25.054”, señaló Arribalzaga.\n\nExplicó que la normativa establece, entre otras cuestiones, “tanto los derechos como obligaciones, pero entre otras cosas también, los recursos para los bomberos voluntarios”. En ese sentido, precisó que el financiamiento surge de un aporte que realizan las compañías aseguradoras.\n\n“En cada una de las pólizas el 5 por mil corresponde a los bomberos. Las aseguradoras del país lo hacen automáticamente y el Estado lo debe repartir una vez al año”, detalló.\n\nSegún Arribalzaga, durante este año el reparto de los fondos sufrió demoras. “En este caso no lo hizo porque querían cerrar el presupuesto 2025 con superávit. Comenzaron a hacerlo en febrero cuando fueron los incendios en la zona de Neuquén y para los cuarteles que estaban trabajando en esa zona”, relató.\n\nLuego, indicó, la distribución continuó de manera gradual. “Después siguieron a razón de cuatro o cinco cuarteles por provincia y recién llevan el 60% de los cuarteles con el subsidio pagado. El resto, los otros 40%, todavía no lo cobraron”, afirmó.\n\nReclamo por los fondos remanentes\n\nEl reclamo también incluye recursos correspondientes a excedentes de ejercicios anteriores. “Hay un remanente del año pasado, porque en el presupuesto, cuando se hace el presupuesto, sea nacional, municipal, provincial, muchas veces se recauda más de lo que se presupone”, explicó Arribalzaga.\n\nEn ese marco, sostuvo que existen alrededor de 60.000 millones de pesos que deberían ser distribuidos entre los cuarteles. “Hay 60.000 millones como parte del remanente que también lo deben repartir entre los cuarteles de bomberos. En este caso lo quieren hacer con lo que recauden este año”, cuestionó.\n\nVinculó además el reclamo con la Ley 27.629, de fortalecimiento del sistema de bomberos voluntarios. “También se pide el cumplimiento de la Ley 27.629, que es la de fortalecimiento del sistema de bomberos voluntarios”, manifestó.\n\nAl respecto, explicó que existe un mecanismo de devolución de impuestos vinculado con las adquisiciones que realizan los cuarteles. “El ARCA debe devolver el 21% de cada una de las compras que hace el sistema de bomberos”, sostuvo.\n\n“Trabajamos para cubrir una falencia del Estado”\n\nArribalzaga remarcó que los bomberos voluntarios cumplen una función que, según afirmó, responde a una necesidad que atraviesa a los distintos niveles del Estado: “Nosotros trabajamos para cubrir una falencia del Estado Nacional, Provincial, Municipal, que no se hace cargo de la atención de siniestros y accidentes, incendios, todo, digamos, lo que hace bomberos, lo que atiende bomberos voluntarios”, afirmó.\n\nPor eso, consideró necesario que los recursos que recibe el sistema sean suficientes para sostener las intervenciones. “Bomberos siempre está a disposición, siempre está para ayudar a quien lo necesite, pero necesita que el Estado, sea nacional, provincial o municipal, estén acompañando”, enfatizó.\n\nTambién reclaman a las concesionarias viales\n\nOtro de los puntos del reclamo está relacionado con las rutas concesionadas y la participación de los bomberos en la atención de accidentes.\n\n“También se pide que en las concesionarias de los diferentes corredores viales, en el caso de Entre Ríos, la Ruta 14 y el puente Rosario-Victoria, las concesionarias de todo el país, porque esto está sucediendo en cada una de las rutas concesionadas, como estaba antes, paguen un dinero por la atención de los accidentes en esos lugares”, explicó.\n\nArribalzaga planteó que las empresas concesionarias recaudan mediante el sistema de peajes, mientras que la respuesta ante los siniestros continúa recayendo en los cuarteles de bomberos voluntarios.\n\n“Las concesionarias hoy recaudan a través del peaje y el que cumple la función, porque lo llaman, son los bomberos voluntarios. Entonces, tiene un gasto muy importante”, señaló.\n\nComo ejemplo, mencionó la utilización de productos específicos durante intervenciones complejas. “En un accidente donde se trabaje con sustancias peligrosas, como ha sido acá hace un par de semanas, en la zona de San José, que tuvieron un accidente de un camión con sustancias peligrosas, tuvieron que trabajar con espumígeno”, relató.\n\n“El litro de espumígeno sale 30 dólares el litro, y eso lo pone cada uno de los cuarteles, o sea, se lo banca con los aportes que hacen las comunidades, en las diferentes comunidades, en los diferentes beneficios que haga el cuartel”, agregó.\n\nPor ese motivo, sostuvo que la cuestión debería contemplarse en los contratos de concesión. “Se pide que se vuelva a tener en las licitaciones y en los pliegos licitatorios en cuenta este tema de la seguridad que hoy están cumpliendo bomberos voluntarios y no está siendo acompañada por las diferentes concesiones viales”, expresó.\n\n“Sin recursos nunca puede haber una buena seguridad”\n\nEl toque de sirena tuvo réplicas en distintos puntos del país. Según Arribalzaga, la convocatoria generó una importante adhesión de los cuarteles y de las comunidades: “La verdad que fue llamativa la cantidad de gente que se sumó al toque de sirena, con bocinas, con muchos mensajes en distintos lugares del país”.\n\nEl dirigente valoró además el acompañamiento de las comunidades al sistema de bomberos voluntarios y señaló que recibieron registros de la protesta realizada en distintos puntos de la Argentina.\n\n“Esperemos que el Estado Nacional entienda la necesidad de fortalecer al sistema de bomberos voluntarios para que dé la mejor respuesta posible”, manifestó.\n\nFinalmente, Arribalzaga remarcó a la agencia AIM, que la protesta no implica dejar de prestar el servicio de emergencia. “Bomberos siempre está a disposición, siempre está para ayudar a quien lo necesite”, sostuvo. Pero insistió en la necesidad de garantizar los recursos: “Necesita que el Estado, sea nacional, provincial o municipal, estén acompañando, porque sin recursos nunca puede haber una buena seguridad”.\n\n#federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "presupuesto",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federación",
+      "federal",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-procesaron-con-prision-preventiva-al-comisario-y-abogado-rosatelli-por-narcotrafico-y-violencia-coactiva",
+    "fuente": "Federal Al Día",
+    "titulo": "PROCESARON CON PRISIÓN PREVENTIVA AL COMISARIO Y ABOGADO ROSATELLI POR NARCOTRÁFICO Y VIOLENCIA COACTIVA",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/procesaron-con-prision-preventiva-al-comisario-y-abogado-rosatelli-por-narcotrafico-y-violencia-coactiva/",
+    "texto_original": "El juez federal de Paraná, Leandro Ríos, dictó el procesamiento con prisión preventiva de Daniel Alejandro Rosatelli —abogado y oficial de la Policía de Entre Ríos— junto a otros cuatro integrantes de una organización criminal, por el transporte de más de 1.345 kilogramos de marihuana. La resolución judicial les atribuye haber coordinado la adquisición, el acondicionamiento y el traslado del cargamento de estupefacientes interceptado en La Paz el 13 de febrero, además de disponer embargos millonarios sobre sus bienes.\n\nEl marco de la causa atribuye a los procesados el transporte organizado de estupefacientes y falsificación de documentos: “Entre el 4 de noviembre de 2025 y el 13 de febrero de 2026, Daniel Alejandro Rosatelli, Martín Reynaldo Germán Pelizzari, Claudio David Luna, Alan Josías Gabriel Favieri y José Belén Favieri —junto a otros colaboradores— organizaron y ejecutaron el transporte de 1.345,51 kilogramos de marihuana compactada en 1.716 ‘ladrillos’ o ‘panes’. El cargamento fue interceptado el 13 de febrero de 2026 en el ‘Camino del Borello’ y Ruta Nacional N° 12 (La Paz, Entre Ríos) tras la persecución de una furgoneta Citroën Jumper blanca. Rosatelli aportó los fondos y la logística para comprar la furgoneta —la cual registraba pedido de secuestro por estafa— y colocarle una chapa patente ideológicamente falsa (dominio GIJ 496) para eludir los controles. La maniobra incluyó el despliegue de una camioneta Toyota Hilux que operó como ‘auto-guía’ en la ruta.\n\nPor otra parte, se señala otro hecho endilgado a Rosatelli, calificado como lesiones graves agravadas y amenazas coactivas: “El 12 de noviembre de 2025, en la sede de la ONG Suma de Voluntades en Paraná, Rosatelli agredió físicamente al intermediario Sixto Ramón Maciel golpeando su cabeza contra una pared con un arma de fuego. La agresión le provocó a la víctima un traumatismo encéfalo-craneano con riesgo de vida. Dicho ataque violento tuvo como objetivo amenazar a Jonatan Emanuel Barbieri para que retirara la denuncia por estafa vinculada a la furgoneta, radicada una hora y media antes, garantizando así la impunidad y disponibilidad del vehículo para el tráfico de drogas”.\n\n#AnalisisDigital #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-frigerio-remarco-que-el-alivio-fiscal-y-la-infraestructura-son-las-claves-para-atraer-inversiones-y-competir-en-los-mercados-internacionales",
+    "fuente": "Federal Al Día",
+    "titulo": "FRIGERIO REMARCÓ QUE EL ALIVIO FISCAL Y LA INFRAESTRUCTURA SON LAS CLAVES PARA ATRAER INVERSIONES Y COMPETIR EN LOS MERCADOS INTERNACIONALES",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/frigerio-remarco-que-el-alivio-fiscal-y-la-infraestructura-son-las-claves-para-atraer-inversiones-y-competir-en-los-mercados-internacionales/",
+    "texto_original": "En el marco del AmCham Forum Agribusiness, el gobernador Rogelio Frigerio detalló la estrategia provincial para fortalecer la competitividad exportadora. Remarcó las exenciones impositivas para nuevos proyectos, las obras viales y la inserción histórica de la provincia en la Hidrovía.\n\nEl gobernador expuso en el AmCham Forum Agribusiness las políticas públicas que lleva adelante la administración provincial para potenciar la competitividad y la matriz exportadora de Entre Ríos. Sostuvo que frente a los escenarios de apertura comercial internacional, el gobierno entrerriano trabaja activamente para que las empresas de la provincia puedan competir con escala, calidad y previsibilidad.\n\nEsta agenda de desarrollo productivo se respalda en datos concretos: más del 90 por ciento de los productores primarios cuentan con alícuota cero en Ingresos Brutos, la alícuota industrial se redujo del 1.5 al 1 por ciento, se eliminaron más de 100 tasas provinciales y se bajó el costo tarifario eléctrico para pymes y medianas industrias.\n\nEn relación con el rol del Estado como facilitador de oportunidades de mercado y el incentivo a la radicación de capitales, el mandatario señaló que “un acuerdo comercial es una oportunidad, una puerta que se abre y después hay que ver quiénes cruzan esa puerta. Yo creo que el Estado tiene un rol importante en facilitar la posibilidad de que haya muchas empresas que puedan cruzar esa puerta mejorando la logística, la infraestructura, bajando impuestos y desregulando”.\n\nEn ese sentido, afirmó que en la provincia “no cobramos ningún impuesto a las nuevas inversiones, ni provincial ni municipal, por 15 o hasta 20 años. El peor impuesto es la inversión que no se hace, y para eso tenemos desde el Estado una enorme responsabilidad y en eso tengo la misma sintonía que el gobierno nacional”. Esta medida se ratifica en la vigencia del Régimen de Incentivo a las Nuevas Inversiones (RINI), que ya alcanza a 165 empresas por más de 400.000 millones de pesos y la generación de más de 2.570 puestos de trabajo.\n\nEn ese sentido, también se refirió a la importancia de impulsar “un gran acuerdo fiscal federal para bajar impuestos o eliminar impuestos distorsivos, como son impuesto al cheque, retenciones, ingresos brutos, tasas que en algunos casos se parecen a impuestos inconstitucionales en muchos municipios. Tenemos que sentarnos en una mesa y decidir trabajar para eliminar de cuajo esos impuestos”, expresó.\n\nEn materia de competitividad logística y conectividad con los mercados globales, Frigerio destacó la recuperación de la infraestructura fluvial y vial de la provincia. “La baja de impuestos es fundamental, pero la infraestructura es clave: caminos que lleven la producción a los puertos y puertos que estén trabajando de manera dinámica. Hoy el 90 por ciento del cabotaje fluvial de la Argentina se da en los puertos entrerrianos que se han despertado”, remarcó.\n\nSubrayó a su vez que “por primera vez en la historia Entre Ríos participa de la Hidrovía; veíamos que los barcos vacíos volvían por Entre Ríos y llenos iban por Buenos Aires. Esto abre una enorme posibilidad para nosotros que va a implicar la inversión de más puertos privados”. El impulso a los cuatro puertos públicos -La Paz, Ibicuy, Concepción del Uruguay y Diamante- permitió mover más de 718.000 toneladas de granos por vía fluvial en 2025, concentrando el 89 por ciento del cabotaje nacional de granos.\n\nFinalmente, consultado sobre el escenario político y el calendario electoral del próximo año, el gobernador priorizó dar respuestas concretas a la ciudadanía por encima de las especulaciones proselitistas. “Yo no tengo tiempo para hablar todo el tiempo de elecciones, tenemos que gestionar y solucionar problemas todos los días para que la gente vuelva a creer que la política es una herramienta de transformación. Si viene un inversor le diría que mire a la gente y no tanto a los políticos, porque la gente está convencida de que para atrás no tenemos que volver nunca más”, concluyó el mandatario.\n\n#SecretariaComunicacionYPrensa #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "industria",
+      "empleo",
+      "comercio",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "justicia",
+      "infraestructura_obra_publica",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concepción del uruguay",
+      "diamante",
+      "federal",
+      "ibicuy",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-la-mora-de-las-empresas-se-quintuplico-con-milei-y-golpea-con-mas-fuerza-a-las-pymes",
+    "fuente": "Federal Al Día",
+    "titulo": "LA MORA DE LAS EMPRESAS SE QUINTUPLICÓ CON MILEI Y GOLPEA CON MÁS FUERZA A LAS PYMES",
+    "fecha": "2026-09-11",
+    "link": "https://federalaldia.com.ar/2026/09/10/la-mora-de-las-empresas-se-quintuplico-con-milei-y-golpea-con-mas-fuerza-a-las-pymes/",
+    "texto_original": "Un informe de Equilibra revela que los créditos irregulares pasaron del 0,7% al 3,7% en menos de dos años.\n\nLa mora de las empresas se quintuplicó en menos de dos años y comenzó a mostrar uno de los costados más delicados del deterioro de la actividad. El problema se concentra especialmente en las pymes y en los sectores más castigados por el programa económico de Javier Milei.\n\nUn informe de la consultora Equilibra revela que el monto irregular de los créditos empresarios pasó del 0,7% en noviembre de 2024 al 3,7% en julio de 2026. La cifra todavía está lejos del récord del 8,1% registrado a comienzos de 2020, en medio del default de Vicentin, el cepo y la cuarentena. Sin embargo, la probabilidad de que un crédito empresario caiga en mora ya triplica el promedio de los últimos veinte años.\n\nEl dato resulta más significativo porque ocurrió al mismo tiempo que se produjo una fuerte expansión del financiamiento. Según Equilibra, durante la gestión de Milei el stock de préstamos a empresas saltó del 5,7% del PIB en septiembre de 2023 al 9,8% en junio de este año. Dos tercios de ese crecimiento se explican por los créditos en dólares, que aumentaron del 0,8% al 3,5% del PIB.\n\nEse crecimiento del crédito en moneda dura funciona, por ahora, como amortiguador de la mora. La prefinanciación de exportaciones tiene apenas un 0,6% de incumplimiento, muy por debajo del promedio empresario. Pero Equilibra advierte sobre otro riesgo: después de que el Banco Central habilitara nuevamente los préstamos en dólares para cualquier empresa, quedarían disponibles hasta USD 6.500 millones y aparece la posibilidad de un descalce de monedas en un escenario de apreciación cambiaria.\n\nLa radiografía sectorial muestra con mayor claridad dónde está el problema. La construcción tiene una mora del 7,7% y el comercio del 6,5%. La industria manufacturera se ubica en 3,7%. Son precisamente tres actividades cuyo nivel de producción permanece por debajo de 2023. Del otro lado aparecen minería y energía e intermediación financiera, con niveles de irregularidad inferiores al 0,5%.\n\nDentro de la industria, además, el promedio esconde diferencias enormes. Textiles y cuero, uno de los rubros más golpeados por el nuevo esquema económico, registra una mora del 14,6%. En vehículos y transporte, en cambio, es de apenas 0,4%. La industria concentra casi una cuarta parte del crédito empresario y prácticamente la mitad de su financiamiento está denominado en dólares.\n\nPero el corazón del informe está en el tamaño de las empresas. Cuanto más chica es la firma, mayor es el nivel de incumplimiento. Para préstamos inferiores a $5 millones, la mora llega al 9,3%. Ese universo representa alrededor del 60% de las firmas pero apenas el 0,2% del crédito. En los préstamos superiores a $3.800 millones ocurre exactamente lo contrario: concentran el 73,8% del financiamiento y la mora baja al 1,8%.\n\nEl 24% de las pymes registra al menos un incumplimiento, contra el 12% de nueve meses atrás.\n\nLa cantidad de empresas alcanzadas por el problema también creció de manera acelerada. En apenas dos años, las personas jurídicas en mora pasaron de 16.200 a casi 37.500, equivalente al 13,4% de las firmas endeudadas. En paralelo, las pymes con avales de Sociedades de Garantía Recíproca que entraron en mora prácticamente se triplicaron: subieron de 3.354 a 9.679.\n\nEl deterioro excede además a los bancos y empieza a recorrer toda la cadena de pagos. El informe de Equilibra, sobre datos del Observatorio PyME, muestra que entre el tercer trimestre de 2025 y el segundo de 2026 se duplicaron los atrasos con bancos, proveedores e impuestos. El 24% de las pymes registra al menos un incumplimiento, contra el 12% de nueve meses atrás.\n\nLa secuencia también muestra qué factura dejan las empresas para el final. Apenas el 8,6% se atrasa con los bancos, mientras que el 15,3% demora pagos a proveedores y el 17,3% acumula obligaciones impositivas vencidas. En otras palabras, antes de dejar de pagarle al sistema financiero, las pymes empiezan a financiarse con sus proveedores y con el fisco.\n\nEl cuadro se vuelve más estrecho porque, mientras aumenta la necesidad de financiamiento, los bancos endurecen las condiciones para otorgarlo. El indicador de estándares crediticios que reproduce Equilibra muestra una restricción de 24,9 puntos para las pymes, frente a 6,5 puntos para las grandes empresas. El crédito creció durante la gestión Milei, pero el acceso y la capacidad de repago completan la otra cara de esta expansión: el financiamiento queda concentrado en las empresas de mayor tamaño y espalda financiera.\n\n#LPO #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "comercio",
+      "impuestos",
+      "servicios_publicos",
+      "construccion",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-polemica-con-un-empresario-entrerriano-amenazo-con-no-pagarles-el-sueldo-a-los-empleados-que-coman-carbohidratos",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Polémica con un empresario entrerriano: amenazó con no pagarles el sueldo a los empleados que coman carbohidratos",
+    "fecha": "2026-09-10",
+    "link": "https://eldiadegualeguay.com/polemica-con-un-empresario-entrerriano-amenazo-con-no-pagarles-el-sueldo-a-los-empleados-que-coman-carbohidratos/",
+    "texto_original": "Álvaro Risoglio\n tiene 26 años y hace un tiempo lanzó el emprendimiento “Voltra”, que importa productos de China y los vende en Argentina. En los últimos días el joven tomó relevancia mediática ya que contó que \nlimitó la dieta de sus diez trabajadores:\n \namenazó con no pagarles el sueldo a quienes consuman carbohidratos y azúcar dentro del ámbito laboral.\n Sin embargo, no precisó si la firma les asegura otro tipo de comidas ni detalló de cuánto son los salarios.\n\nA fines de agosto Risoglio fue invitado a Mítico Podcast y contó que en las instalaciones del emprendimiento no hay carbohidratos: “Hay frutas y cosas como esas. Fue una filosofía mía desde el día uno. Nadie se hizo el rebelde ni me lo cuestionó, alguna que otra vez llevaron algo dulce o una rodaja de pan y lo tire a la basura. \nYo prohibí el azúcar y la harina, en mi casa tampoco lo tengo y, como vivo en Voltra, no quiero que en la heladera haya eso, listo, punto final. Se hace lo que yo digo.\n Ellos también quieren estar mejor físicamente. Una persona que era obesa cuando entró, bajó 35 kilos”.\n\nEl emprendedor nació en la provincia de Entre Ríos en el año 2000 y, a los siete años, se fue a vivir a Ushuaia con su familia –integrada por sus padres y sus cuatro hermanos–, donde residió hasta los 17. A lo largo de su vida practicó diferentes deportes, algunos de ellos de riesgo. \nHoy en día, el joven se jacta de su buen estado físico e incluso participa de competencias de físicoculturismo.\n\nCuando terminó el secundario, se mudó a la Ciudad de Buenos Aires y, sin saber muy bien qué estudiar, se decidió por la carrera de Criminología. Sin embargo, \nactualmente considera que ir a la universidad “no le sirvió” y que es “una pérdida de tiempo” y que, si no lo hubiera hecho, actualmente sería “billonario”.\n\n“Cuando terminé la universidad me fui a vivir a Australia. Acá estaba Alberto (Fernández) de presidente y el país estaba bastante podrido, no había luz al final del túnel. \nAllá tenía laburos mediocres, pero hacía cursos. Tenía un sueldo de mierda, de 2.500 o 3.000 dólares por mes más o menos, una basura… eso se gana en una mañana acá con un buen negocio\n”, dijo Risoglio.\n\nCuando regresó a Argentina hizo algunas “changuitas” y, hace un año y medio, montó Voltra, una marca que se dedica a importar productos de China, los cuales son ofrecidos y distribuidos en Argentina a través de una página web. Entre el catálogo de la firma se pueden encontrar \naspiradoras, afeitadoras, hidrolavadoras, auriculares, micrófonos y grabadoras.\n\n“Hoy en día puede importar cualquiera”, dijo el emprendedor, quien además aseguró que el actual presidente Javier Milei es “un gran marketinero” y se mostró esperanzado con un triunfo de La Libertad Avanza (LLA) el año que viene. Sin embargo, reconoció que en el año y medio que lleva transitando el camino importador, cometió “muchas equivocaciones”.\n\nEn Voltra actualmente trabajan diez personas. “Tengo un equipo tremendo, si bien tienen mucho por mejorar. Yo hago el trabajo mejor que cada uno de ellos, sé todo lo que hay que hacer en el negocio. Me cuesta delegar, estoy todo el día encima”, dijo el joven, quien, además, confesó: \n“Mi mamá desde chiquito me decía que soy muy egocéntrico”.\n\n“Tengo mucho ego, una autoestima muy alta. Yo lo veo a (el creador de Mercado Libre, Marcos) Galperín y me arrodillo. Sé que puedo hacer lo mismo que él, soy capaz.\n Estoy constantemente comparándome con los mejores. Si te paso por un pelo, me olvido de vos”\n, manifestó, al tiempo que reconoció que en su mundo la palabra fiaca está “prohibida”.\n\n“El dinero me mueve, pero no es todo para mí. Invierto mucho (hasta 150.000 dólares al mes) en pauta publicitaria y sé que soy capaz de ser billonario, pero \na mí me gusta el poder, no solo la plata\n. \nNo me gusta que pueda venir un ministerio a tocarme la puesta y decirme que me van a inspeccionar, tengo ganas de preguntarle si saben con quién están hablando. A mí me mueve el poder”\n, expresó el empresario, quien, a lo largo del podcast, manifestó en reiteradas oportunidades que tiene “problemas legales”.\n\nEn cuanto al mecanismo de venta, detalló: “Viajo a China, elijo el producto, le pongo mi nombre, lo mando por barco o avión y, una vez en Argentina, lo despacho a los domicilios de los clientes”. También reconoció que algunos fabricantes asiáticos le pagan el hotel y los pasajes aéreos.\n\n“Tengo club de fans en las fábricas que visito”,\n detalló el joven, quien, además, explicó por qué hace algunas publicidades sin remera: \n“Cuando estoy en cuero vendo más, porque tengo un cuerpo que sobresale de la media”.\n\nPor último, Risoglio se definió como una “buena persona”: “Quiero ayudar a toda la gente que pueda. Soy muy generoso”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "industria",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=la-municipalidad-alerta-sobre-vendedores-no-autorizados-de-bolsas-de-residuos",
+    "fuente": "La Prensa Federal",
+    "titulo": "La Municipalidad alerta sobre vendedores no autorizados de bolsas de residuos",
+    "fecha": "2026-09-10",
+    "link": "https://www.laprensafederal.com.ar/la-municipalidad-alerta-sobre-vendedores-no-autorizados-de-bolsas-de-residuos/?utm_source=rss&utm_medium=rss&utm_campaign=la-municipalidad-alerta-sobre-vendedores-no-autorizados-de-bolsas-de-residuos",
+    "texto_original": "La Municipalidad de Concepción del Uruguay informa a la comunidad que ninguna persona está autorizada a comercializar bolsas de residuos en nombre del servicio de recolección ni de ninguna otra dependencia municipal.\n\nLa aclaración surge a partir de denuncias y consultas realizadas por vecinos ante la presencia de personas que ofrecen bolsas en distintos sectores de la ciudad, algunas de ellas utilizando chalecos refractarios y manifestando que la venta estaría vinculada al servicio municipal de recolección de residuos.\n\nDesde la Municipalidad se advierte que estas personas no forman parte del servicio ni cuentan con autorización para realizar este tipo de actividades, por lo que se solicita a los vecinos no adquirir productos bajo esta modalidad.\n\nAsimismo, ante la detección de situaciones de estas características, se recomienda dar aviso a las autoridades correspondientes, a fin de contribuir a la identificación de quienes realizan estas ventas de manera no autorizada.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-infor-villaguay-gualeguaychu-cayo-una-avioneta-de-fumigacion-en-un-campo-y-el-piloto-fue-hospitalizado",
+    "fuente": "Infor-Villaguay.com",
+    "titulo": "GUALEGUAYCHÚ: CAYÓ UNA AVIONETA DE FUMIGACIÓN EN UN CAMPO Y EL PILOTO FUE HOSPITALIZADO",
+    "fecha": "2026-09-10",
+    "link": "https://infor-villaguay.com/gualeguaychu-cayo-una-avioneta-de-fumigacion-en-un-campo-y-el-piloto-fue-hospitalizado/",
+    "texto_original": "Una avioneta utilizada para tareas de fumigación cayó este jueves en un establecimiento rural de la zona de Perdices, en el departamento Gualeguaychú, Entre Ríos. Como consecuencia del impacto, el piloto debió ser asistido y trasladado a un hospital.\n\nEl accidente ocurrió en inmediaciones de la Estancia Las Marías, en un sector al que se accede desde la Autovía Nacional 14, a la altura del kilómetro 25, y luego por un camino vecinal durante unos 20 kilómetros.\n\nLa emergencia fue advertida durante la tarde y, a las 13.34, una dotación del Cuartel de Bomberos Voluntarios de Ceibas se dirigió hacia el lugar. De acuerdo con la información preliminar, la aeronave habría sufrido una falla mecánica mientras realizaba tareas de aplicación de fertilizantes, lo que habría provocado la caída.\n\nUna vez en tierra, se registró además un principio de incendio en la avioneta, que pudo ser controlado por los bomberos. Personal policial intervino en el lugar para preservar la zona y avanzar en el esclarecimiento de lo ocurrido.\n\nEl piloto, domiciliado en Avellaneda, provincia de Buenos Aires, recibió asistencia tras el siniestro y posteriormente fue trasladado al hospital de Gualeguaychú. Hasta el momento no trascendieron precisiones oficiales sobre la gravedad de las lesiones ni sobre su estado de salud.\n\nLas causas concretas del accidente continúan bajo investigación.\n\nInfor Mate Santa Fe\n\nLa entrada \nGUALEGUAYCHÚ: CAYÓ UNA AVIONETA DE FUMIGACIÓN EN UN CAMPO Y EL PILOTO FUE HOSPITALIZADO\n se publicó primero en \nInfor-Villaguay\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-santa-elena-digital-?utm_source=rss&utm_medium=rss&utm_campaign=el-gobierno-de-santa-elena-llama-a-licitacion-publica-para-obras-de-reconstruccion-vial-por-mas-de-161-millones-de-pesos",
+    "fuente": "Santa Elena Digital",
+    "titulo": "El gobierno de Santa Elena llama a licitación pública para obras de reconstrucción vial por más de 161 millones de pesos",
+    "fecha": "2026-09-10",
+    "link": "https://santaelenadigital.com.ar/el-gobierno-de-santa-elena-llama-a-licitacion-publica-para-obras-de-reconstruccion-vial-por-mas-de-161-millones-de-pesos/?utm_source=rss&utm_medium=rss&utm_campaign=el-gobierno-de-santa-elena-llama-a-licitacion-publica-para-obras-de-reconstruccion-vial-por-mas-de-161-millones-de-pesos",
+    "texto_original": "La Municipalidad de Santa Elena oficializó el llamado a Licitación Pública N° 09/2026, amparada bajo el Decreto 277/26, destinada a la ejecución de la «Obra: Reconstitución Trama Vial – 1ra Etapa 2026». El proyecto busca mejorar la infraestructura del tendido vial de la localidad y contempla una inversión oficial que supera los 161 millones de pesos.\n\nDetalles del llamado a licitación\n\nObjeto de la obra:\n Reconstitución Trama Vial – 1ra Etapa 2026.\n\nPresupuesto oficial:\n $161.137.885,20 (pesos ciento sesenta y un millones ciento treinta y siete mil ochocientos ochenta y cinco con 20/100, IVA incluido).\n\nValor del pliego:\n $350.000,00 (pesos trescientos cincuenta mil).\n\nApertura de sobres:\n 6 de octubre de 2026 a las 10:00 hs.\n\nLas empresas interesadas en adquirir los pliegos o realizar consultas sobre las bases y condiciones del proceso licitatorio pueden tomar contacto a través del correo electrónico oficial de la comuna: \nmunicipiosantaelenaoficial@gmail.com\n.\n\nEn esta primera etapa se verán afectadas a los trabajos\n\ncalle Joaquin V. Gonzalez entre calle Facundo Quiroga y Tratado del Pilar en el barrio 3 de Febrero.\n\nCalle Entre Ríos entre calles Facundo Quroga y Enrique Renaud entre los barrio La Delfina y Stella Maris.\n\nCalle Belgrano entre juan Manuel de Rosas y Joaquin V. Gonzalez en el barrio Fátima.\n\n \n\nSANTA ELENA DIGITAL-.\n\nThe post \nEl gobierno de Santa Elena llama a licitación pública para obras de reconstrucción vial por más de 161 millones de pesos\n appeared first on \nSANTA ELENA DIGITAL\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "empleo",
+      "gobierno",
+      "municipios",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-santa-elena-digital-?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-del-iapv-recorrieron-las-obras-de-las-30-viviendas-y-confirmaron-que-estan-proximas-a-entregarse",
+    "fuente": "Santa Elena Digital",
+    "titulo": "Autoridades del IAPV recorrieron las obras de las 30 viviendas y confirmaron que están próximas a entregarse",
+    "fecha": "2026-09-10",
+    "link": "https://santaelenadigital.com.ar/autoridades-del-iapv-recorrieron-las-obras-de-las-30-viviendas-y-confirmaron-que-estan-proximas-a-entregarse/?utm_source=rss&utm_medium=rss&utm_campaign=autoridades-del-iapv-recorrieron-las-obras-de-las-30-viviendas-y-confirmaron-que-estan-proximas-a-entregarse",
+    "texto_original": "El vocal del Instituto Autárquico Provincial de la Vivienda (IAPV), Eduardo López Segura, visitó la ciudad de Santa Elena para supervisar los avances en la continuidad de las obras habitacionales que se ejecutan en la localidad.\n\nDurante la jornada, el funcionario visitó en el municipio al intendente de Santa Elena Daniel Rossi y posteriormente constató el estado actual de los inmuebles y destacó la proximidad de la finalización de los trabajos, un paso clave para que decenas de familias puedan acceder a la casa propia.\n\nAl finalizar la recorrida, López Segura resaltó la importancia del trabajo de campo y el seguimiento directo de la gestión territorial: \n«Hoy continuamos recorriendo, controlando obras y visitando intendentes, acompañando de cerca cada proyecto. Esta vez nos tocó Santa Elena, donde estuvimos visitando viviendas próximas a ser entregadas. Ver la alegría de las familias que están a punto de cumplir el sueño de tener su casa es una enorme satisfacción»\n.\n\nAsimismo, la autoridad del organismo provincial remarcó el compromiso institucional con el desarrollo de la infraestructura social en Entre Ríos: \n«Como Vocal del IAPV y arquitecto, seguimos trabajando en territorio, controlando, gestionando y acompañando para que las viviendas lleguen a quienes las necesitan. ¡La gente feliz, y nosotros también! Una verdadera alegría»\n, concluyó.\n\nSe prevé que en las próximas semanas el organismo informe oficialmente el esquema de adjudicación y la fecha del acto de entrega de las unidades.\n\nSANTA ELENA DIGITAL-.\n\nThe post \nAutoridades del IAPV recorrieron las obras de las 30 viviendas y confirmaron que están próximas a entregarse\n appeared first on \nSANTA ELENA DIGITAL\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T01:17:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "agro",
+      "municipios",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "santa elena"
+    ]
   }
 ]
