@@ -33929,5 +33929,358 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-e381931a0f02",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Concepción del Uruguay: jurado popular declaró no culpable a un imputado por homicidio",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTHF4Qmw2N0pOYWNHVVBhVzRrUHpIUDloNnBqcFJiMjExYktYUE1qUTRUVXY2d2s3ZjVRMXBLMXFrU0V5bkJPRVp5Z1QtY3l0ZGNVSDZjY0puOW5pZ3JYVFd3d3B5TkpDUVNFRkhuNFBqT1Z2bC0zdGFJb2lNbndoRGktNjhUcU9mTUZ5LXBKN2tCYjk5QUlsMnZ1NG4tRnZxbVNKZnh5WWFZOU9YVG9FRVFoNUt0V3hYb0xQRFVLc0lUNjMxMWFvdmJMc2pYSlhyU2NB0gHYAUFVX3lxTE5tX19zM1BRUU9Ea2dDUl96VjdBd1pRVXBqbWNpQ3hYLXdKVWVuTEJKVkJhcl9NMmhSR1h5a3E4dUgxYllVdnRYMGFZeVpEdFdzR2JTRzV2MFZHMGlkUE80bkxFU2FjQWFUeEhoVm83MEJxMVk2ZVVfMVB4QkFTU0tYOE9HVmhRMWtwY0dieENvRllqWDRjZkRLY3V4Q3hra1dkNkFpWk9jaWI0Tkl6TEhyWmJtTEhkRHc3dzVzeDRMZzJCX1BJNjNEVEY2cDI2YXVyWElPWFlOQg?oc=5",
+    "texto_original": "Concepción del Uruguay: jurado popular declaró no culpable a un imputado por homicidio\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-a3421b1ce80e",
+    "fuente": "Periódico MOTIVAR",
+    "titulo": "Entre Ríos refuerza Educación Continua en eventos hípicos",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTldXVFAwdzVrWWU5NG5ySEZGYTNib25xUVVObjFiV3A0WWlRdHJucUhKbnR5azNtOWhUeFE3eF9NbTExMHZGLVRGSkxTVlhEYnd5aGNGVDhySVQ1d19RWVJZWm8tVU54eHpMWU9HYkNybE9CSkxCSDdCZGMxaTk5aVJzQXlNSzJoS2Fsblp0Q0NZaHc3RGVzRmNaUDRsRUpudVpoRG42YWdCQkNPM0FvMjlB0gG3AUFVX3lxTE13dlFVQTZSaElrbzVUaU5oNlk0VXgtWjI5eF9fSHZEcnBhZndiQWFpd0tlNGR5clZaOEJiaHFZeVlOWmNGX0xIazVqWmRPZkF4cjN2VG1yeFpfQnRLbkFrMzZCZDRQX0EtUlU4cW8zUXFoRldNeGptSTF4YWc1ekwtazdkQUItM1E0NW1PNDV2M1NUUThEZGNhczFuRDhkUlZEbUdmQ0Jac3ZvRUZTN3I2Uk8yWlFJOA?oc=5",
+    "texto_original": "Entre Ríos refuerza Educación Continua en eventos hípicos\n  \nPeriódico MOTIVAR",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ca9ceb8aae5c",
+    "fuente": "Mirador Provincial",
+    "titulo": "Nogoyá: licitan obras de ampliación y refacción en la escuela secundaria Dr. Luis Agote",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXNhU1psS0YteDNnUUJhYzdEZldBS2o5RDJsZTBqMFN5TmJHNmpYd2R6VHIwLU8zNURteVl5UDlRQ3dVZmhoeVpMQzQ1RXg1Y2xndGtZOGQ3QWhJZmFaSjNrcWJLNVY4NVB6TndDa2dWWjBTTi1pbE9qLVE4T21qa3cwV3hvdVVpOEo2d1o1dUpFRjB6Vm9EUV9DVWpIVEdBaUFIQkhLT2ZaUGRMdWlWZGdoVV96NWl6dmtlWktpZl9RSFppU0ZoSm5xaw?oc=5",
+    "texto_original": "Nogoyá: licitan obras de ampliación y refacción en la escuela secundaria Dr. Luis Agote\n  \nMirador Provincial",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-c216f91f6f68",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Frigerio destacó en Concordia la importancia de la actividad citrícola",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm5lYWt4bHZJM1FiYmpPNGptLTRudGJHT3FaQXFoZHhwOWtNZXRZeGg0RVhucEJwajkxOTlYVEx2QnBGMzNoLV9hd3NkN0FKQVNEb3M4bFgxU0xvRGZmY3M1V2x3RVB6OTQ1QVRSb3J4YjNIQ1o1Qy0xQzNaMXp2OVhvQkFFN3FTdFB6cnpwWVMxUU12R0F1ZjZMSjFwc3VITmc?oc=5",
+    "texto_original": "Frigerio destacó en Concordia la importancia de la actividad citrícola\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-5a4ec98b1187",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Extienden el alivio fiscal para trabajadores de Granja Tres Arroyos",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNk52b0pkUDd0bVlnZHZJNDVtcHZOS25yZlgtMXVsZEtVQk1DUzhaNEkyRlhBV1k1LV9WRHY1MzZpZmE4TC01Y25iSGprdy1BUTd2emd0R1NpaVZEX1Y5NDh3WjR6MUt1LWtuU2k3VngtLTNHY1FWblRNVE9CUXpCSnoyWFAtQ0FmRGhvVU53M3Mwa1gzME14MGs3V3VBWDN2a2t5SWZaTDk4MEdGa1FsQQ?oc=5",
+    "texto_original": "Extienden el alivio fiscal para trabajadores de Granja Tres Arroyos\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-manana-mejor-que-hoy-entre-rios-perdio-mas-de-13-500-empleos-registrados-y-cerraron-1-212-empresas-desde-noviembre-de-2023",
+    "fuente": "Diario Junio",
+    "titulo": "«Mañana mejor que hoy»: Entre Ríos perdió más de 13.500 empleos registrados y cerraron 1.212 empresas desde noviembre de 2023",
+    "fecha": "2026-09-11",
+    "link": "https://www.diariojunio.com.ar/manana-mejor-que-hoy-entre-rios-perdio-mas-de-13-500-empleos-registrados-y-cerraron-1-212-empresas-desde-noviembre-de-2023/",
+    "texto_original": "Un informe elaborado por el Centro de Economía Política Argentina (CEPA), en base a datos de la Superintendencia de Riesgos del Trabajo, muestra una fuerte contracción del entramado empresarial y del empleo registrado en la provincia. Entre noviembre de 2023 y junio de 2026 dejaron de existir 1.212 empleadores y se perdieron 13.544 puestos de trabajo registrados. En los últimos seis meses la caída se aceleró: desaparecieron otros 5.181 empleos y 278 empresas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-b0f340313c4b",
+    "fuente": "cndigital.com.ar",
+    "titulo": "La municipalidad de Concordia homenajeó a docentes de los programas educativos municipales",
+    "fecha": "2026-09-11",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWW0yUllkZVNNUXZodXIxa2NZRGsxbVRaakx6OEVTanlKNzZPS2lza0JmcWdVa1RfVHpKQnFMX29PNnB1SVF2TFQwSUlOVGFsNGZQbUdCZEphd0Vsdy1QU0RrS0N3WG9mdG1GOFN6NHA4a3dzdk9oWGF0N1Z1WmtIMjg2eDNMa2pkb2ZBaVp4cm84WldKYk91LUg1NndzOUtTTVJMOW1CWXZXRUhuZzk3c1RCVEh3Z1hCaC0xNzlmUnRpZU5zQTc1cjZKTlZkSmRnbi1kcl9R?oc=5",
+    "texto_original": "La municipalidad de Concordia homenajeó a docentes de los programas educativos municipales\n  \ncndigital.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-cresto-se-lanzo-como-candidato.html",
+    "fuente": "Diario Concordia",
+    "titulo": "¿Cresto se lanzó como candidato a Gobernador 2027?: \"El bastón de mariscal lo tenemos todos\"",
+    "fecha": "2026-09-11",
+    "link": "https://www.diarioconcordia.com.ar/2026/09/cresto-se-lanzo-como-candidato.html",
+    "texto_original": "El diputado provincial y ex intendente de Concordia, Enrique Cresto, cuestionó la pérdida del poder adquisitivo y el severo endeudamiento de las familias. Ante el escenario electoral, llamó a la unidad del peronismo, defendió el desarrollo de su ciudad y afirmó que la dirigencia cuenta con el bastón de mariscal para disputar el 2027.El diputado provincial y ex intendente de Concordia, Enrique",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "municipios",
+      "legislatura",
+      "presupuesto",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-palletizate-en-concurso-preventivo-deuda-de-2443-millones-en-gualeguaychu",
+    "fuente": "LT15 Concordia",
+    "titulo": "Palletizate en concurso preventivo: deuda de $2.443 millones en Gualeguaychú",
+    "fecha": "2026-09-11",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/11/palletizate-en-concurso-preventivo-deuda-de-2443-millones-en-gualeguaychu/",
+    "texto_original": "Una empresa que hace dos años producía \n75.000 pallets por mes\n y recibía la visita del gobernador como caso modelo de inversión hoy pide protección judicial con una deuda de \n$2.443.251.075\n. La historia de \nPalletizate\n es también la historia de cómo la macro puede desarmar en meses lo que una familia construyó en casi dos décadas.\n\nLa firma, radicada en el \nParque Industrial de Gualeguaychú\n, fue fundada en \n2007\n por \nOscar Portela\n junto a sus hijos \nMauro y Vladimir\n. Su negocio: recupero, fabricación y comercialización de pallets de madera, más servicios de gestión de residuos sólidos industriales. Antes de la crisis, era referente regional en sustentabilidad y producción responsable. Un caso para mostrar.\n\nDe hecho, en \noctubre del año pasado\n, el gobernador \nRogelio Frigerio\n y el intendente de Gualeguaychú, \nMauricio Davico\n, visitaron la planta cuando el gobierno provincial aprobó el proyecto de la empresa para acceder a los beneficios del \nRégimen de Incentivo a las Nuevas Inversiones (RINI)\n. Parecía el comienzo de una nueva etapa. Fue, en cambio, una foto antes de la caída.\n\nEn esa misma época, \nMauro Portela\n ya advertía la tormenta: la producción había bajado a \n35.000 pallets mensuales\n, lejos del pico de 75.000 alcanzado en 2023. “El sector industrial ha decaído en general un \n20 o 30% de lo normal\n“, describió entonces. El mercado se había contraído y los plazos de cobro se estiraban sin pausa.\n\nLa cesación de pagos quedó formalmente materializada el \n3 de marzo de 2026\n, cuando comenzaron a rechazarse cheques por falta de fondos. En la presentación judicial, los socios \nOscar Alberto Portela, Vladimir Oscar Portela y Mauro Joaquín Portela\n, con el patrocinio del abogado \nLeandro Ferrando\n, explicaron que la crisis obedeció a “la confluencia de factores macroeconómicos, inflación, incremento de la estructura de costos operativos, caída de la demanda interna y alargamiento de los plazos en la cadena de pagos, sumados a la absorción de recursos por el encarecimiento de líneas de financiamiento a corto plazo y de los descubiertos bancarios”. Las inversiones realizadas en 2025 y las medidas de ajuste interno no alcanzaron para revertir el cuadro.\n\nEl expediente tramitó primero ante el \nJuzgado Civil y Comercial N° 3 de Gualeguaychú\n, que el \n24 de julio\n se declaró incompetente y remitió el caso al \nJuzgado Civil y Comercial N° 3 de Concursos, Quiebras y Procesos de Ejecución de Concepción del Uruguay\n, a cargo del juez \nMáximo Agustín Mir\n. Fue este magistrado quien declaró abierto el concurso preventivo, dispuso la suspensión del pago de cheques diferidos librados antes de la presentación y ordenó el mantenimiento operativo de las cuentas corrientes.\n\nEl proceso involucra a \n80 acreedores\n y a \n33 trabajadores\n en relación de dependencia. El \nComité de Control\n quedó integrado por los tres acreedores de mayor monto: el \nBanco de la Nación Argentina\n, el \nNuevo Banco de Entre Ríos\n y el \nBanco Supervielle\n, más un representante de los empleados. La fecha límite para que los acreedores presenten sus pedidos de verificación ante la Sindicatura es el \n9 de octubre\n. La inhibición general de bienes de la empresa también fue decretada. El proceso concursal determinará si Palletizate puede reestructurar su deuda y seguir operando, o si el cierre se vuelve inevitable.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "empleo",
+      "comercio",
+      "impuestos",
+      "servicios_publicos",
+      "gobierno",
+      "municipios",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-entre-rios-baja-ingresos-brutos-para-hoteles-bares-y-agencias-de-viajes-hasta-di",
+    "fuente": "LT15 Concordia",
+    "titulo": "Entre Ríos baja Ingresos Brutos para hoteles, bares y agencias de viajes hasta diciembre",
+    "fecha": "2026-09-11",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/11/entre-rios-baja-ingresos-brutos-para-hoteles-bares-y-agencias-de-viajes-hasta-di/",
+    "texto_original": "Una rebaja concreta, con fecha de vencimiento y letra chica incluida. El Gobierno de \nEntre Ríos\n oficializó la reducción del \n20%\n en las alícuotas del \nImpuesto sobre los Ingresos Brutos\n para hoteles, restaurantes, bares y agencias de viajes, y la \nAdministradora Tributaria de Entre Ríos (ATER)\n ya reglamentó cómo se aplica.\n\nLa medida, dispuesta originalmente por el \nDecreto N° 2745/2026\n, quedó precisada a través de la \nResolución N° 317/26\n, fechada el \n9 de septiembre\n. El beneficio corre para los ingresos devengados entre el \n1° de septiembre y el 31 de diciembre de 2026\n, sin posibilidad de extensión automática por ahora.\n\nEl universo de actividades alcanzadas es amplio dentro del rubro turístico y gastronómico: servicios de alojamiento en \nhoteles, hosterías y residenciales\n, campings, restaurantes y cantinas con o sin espectáculo, bares, agencias de viajes, turismo aventura y servicios complementarios de apoyo turístico. También entran el alquiler y explotación de \nsalones para fiestas y convenciones\n, la organización de exposiciones comerciales, determinados espectáculos artísticos y museos.\n\nLas alícuotas quedan así: \n2,40%\n para hoteles, alojamientos, restaurantes, cantinas y bares; \n4%\n para agencias de viajes, turismo aventura, salones de eventos y algunas actividades culturales; y \n4,80%\n para las \nagencias de viajes minoristas y mayoristas\n que operan bajo el régimen de comisión.\n\nHay un detalle que los contadores del sector van a tener que masticar bien: la reducción aplica \núnicamente sobre los ingresos de las actividades expresamente listadas\n en el Anexo I de la resolución. Si un mismo contribuyente mezcla actividades incluidas con otras que no están contempladas, deberá discriminar los ingresos en sus declaraciones juradas. Sin esa separación, el beneficio no corre.\n\nLa medida se enmarca en el paquete de estímulo al sector turístico anunciado por la gestión de \nRogelio Frigerio\n como gobernador de la provincia. Con la temporada de verano en el horizonte, el alivio fiscal llega justo antes del período de mayor actividad para la hotelería y la gastronomía entrerriana. La vigencia acotada al \n31 de diciembre\n deja abierta la pregunta sobre si el beneficio se renovará o si el sector deberá volver a las alícuotas plenas a partir de enero.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "comercio",
+      "impuestos",
+      "gobierno",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-granja-tres-arroyos-la-provincia-sostiene-asistencia-a-familias-de-trabajadores",
+    "fuente": "LT15 Concordia",
+    "titulo": "Granja Tres Arroyos: la Provincia sostiene asistencia a familias de trabajadores",
+    "fecha": "2026-09-11",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/11/granja-tres-arroyos-la-provincia-sostiene-asistencia-a-familias-de-trabajadores/",
+    "texto_original": "Mientras el conflicto con \nGranja Tres Arroyos\n sigue sin resolverse, el Gobierno de \nEntre Ríos\n decidió no dejar solos a los trabajadores de la planta \nLa China\n, en \nConcepción del Uruguay\n. La asistencia es integral y abarca desde la mesa hasta el bolsillo, pasando por la factura de luz y el acceso a medicamentos.\n\nEl ministro de Gobierno y Trabajo, \nManuel Troncoso\n, fue el encargado de detallar las medidas en una entrevista radial. “\nLo más importante son las familias, son los trabajadores\n“, sintetizó, y explicó que la Provincia viene siguiendo la situación desde hace aproximadamente \nun año y medio\n, con distintas instancias de conciliación que la empresa no acató.\n\nLos números concretos hablan de \n1.900 módulos alimentarios\n entregados, subsidios de \n$200.000\n para \n1.075 trabajadores\n y la incorporación de otros \n60 trabajadores\n al esquema de asistencia. Además, más de \n500 familias\n acceden a una tarifa social diferenciada de energía, prorrogada por dos bimestres. El alivio fiscal incluye la condonación de intereses y multas de los impuestos Inmobiliario y Automotor \n2026\n, con vencimientos extendidos hasta el \n31 de marzo de 2027\n. La atención sanitaria y la provisión de medicamentos para trabajadores con enfermedades crónicas se canalizan a través del \nHospital J. J. Urquiza\n.\n\nTroncoso fue claro en trazar una línea entre la crisis de la empresa y la salud del sector: “\nEstamos hablando de un problema de la empresa que se acarrea hace muchísimos años\n“, afirmó, y subrayó que la actividad avícola entrerriana en general atraviesa un momento de inversiones y crecimiento. El ministro señaló que el Gobierno mantiene conversaciones activas con empresarios del sector, que ve en Entre Ríos un destino atractivo para nuevos proyectos productivos.\n\nEl trabajo no es solo provincial. Troncoso destacó la coordinación con las provincias de \nCórdoba\n y \nBuenos Aires\n, donde Tres Arroyos también enfrenta dificultades similares, para articular respuestas conjuntas. El propio gobernador \nRogelio Frigerio\n mantuvo conversaciones con directivos y propietarios de la compañía en busca de alternativas frente a lo que el ministro describió como una situación de alta complejidad administrativa.\n\nLa asistencia provincial continúa vigente mientras siguen abiertas las instancias institucionales y las gestiones con la empresa. Para las familias de los trabajadores afectados, ese sostén representa hoy la diferencia entre atravesar la crisis con algo de respaldo o quedar completamente a la intemperie.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "empleo",
+      "agro",
+      "impuestos",
+      "servicios_publicos",
+      "justicia",
+      "inmobiliario"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-concordia-y-el-desafio-del-comercio-digital-vender-mas-no-siempre-es-ganar-mas",
+    "fuente": "LT15 Concordia",
+    "titulo": "Concordia y el desafío del comercio digital: vender más no siempre es ganar más",
+    "fecha": "2026-09-11",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/11/concordia-y-el-desafio-del-comercio-digital-vender-mas-no-siempre-es-ganar-mas/",
+    "texto_original": "El debate ya no pasa por si hay que digitalizarse o no. La pregunta que le quema los pies al comercio concordiense es otra: \n¿cómo se gana plata en una vidriera que no te pertenece?\n Porque la vidriera más transitada de muchos negocios hoy está dentro de un teléfono, y en esa vidriera no siempre decide el comerciante qué aparece primero.\n\nLos números locales son contundentes. Según relevamientos del \nCentro de Comercio, Industria y Servicios de Concordia\n correspondientes a \n2026\n, el \n58,3%\n de los comerciantes ya realiza operaciones online. Para el \n34,8%\n, ese canal representa entre el 1% y el 25% de sus ventas. Pero todavía hay un \n41,7%\n que no vende por internet. Dos mundos que conviven, con tensiones crecientes entre ellos.\n\nEl contexto nacional le da dimensión al fenómeno. En el \nprimer semestre de 2026\n, el comercio electrónico argentino movilizó más de \n$19,5 billones\n, con una facturación \n28% superior\n a la del mismo período del año anterior. Se procesaron \n181,5 millones de órdenes de compra\n y se comercializaron \n248 millones de artículos\n. No es el futuro: es el presente que ya pisó el mostrador.\n\nY acá viene el punto que muchos prefieren no mirar de frente: \nvender más no es lo mismo que ganar más\n. Las comisiones de plataformas como \nMercado Libre\n pueden ubicarse entre el \n11,62% y el 17,75%\n del valor comercializado, según categoría y provincia. A eso hay que sumarle logística, publicidad, impuestos y esquemas de financiación cuyos cargos pueden superar por sí solos el \n10%\n. Para una empresa grande, esos puntos porcentuales se absorben con escala. Para una PyME con márgenes ajustados, pueden convertir una venta aparentemente exitosa en una operación de rentabilidad mínima o directamente negativa.\n\nConfundir facturación con rentabilidad es uno de los errores más caros que puede cometer un comerciante que se digitaliza sin hacer los números. Y no es un error menor: es el tipo de error que cierra negocios.\n\nHay además un activo que se pierde casi sin que nadie lo note: \nlos datos de los clientes\n. En el comercio tradicional, la relación directa con quien compraba permitía saber quién era, qué buscaba y cuándo volvía. En las plataformas, esa información pasa por un tercero que procesa millones de búsquedas, precios y preferencias. El comercio local cede parte de su inteligencia comercial sin siempre advertirlo.\n\nLa otra cara de la moneda también existe: las plataformas ofrecen acceso a millones de consumidores, medios de pago, reputación, prevención de fraude y logística. Son servicios reales y valiosos. El problema no es usarlos; el problema es usarlos sin entender cuánto cuestan y qué se entrega a cambio.\n\nMientras tanto, el consumidor concordiense también cambió. En \n2025\n, el \n85%\n de los compradores buscó información online antes de concretar una compra en cualquier canal. Muchos entran a un local físico con el precio de internet en la cabeza. El comerciante que no entiende eso ya está jugando en desventaja.\n\nEl escenario exige que las políticas públicas municipales y provinciales acompañen esta transformación con herramientas concretas: capacitación financiera, acceso a tecnología, asistencia para que las PyMEs puedan negociar mejores condiciones o desarrollar canales propios. El comercio local ya cambió; lo que no puede permitirse es que la política pública llegue tarde a ese cambio.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "industria",
+      "comercio",
+      "impuestos",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-puerto-diamante-ponen-a-disposicion-de-la-comunidad-el-informe-ambiental-de-cargill",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Puerto Diamante: ponen a disposición de la comunidad el Informe Ambiental de Cargill",
+    "fecha": "2026-09-11",
+    "link": "https://blancaciudadnoticias.com.ar/puerto-diamante-ponen-a-disposicion-de-la-comunidad-el-informe-ambiental-de-cargill/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir.\n\nLa comunidad de Diamante podrá acceder durante los próximos días al \nInforme Ambiental correspondiente a la planta de acopio de granos de Cargill S.A.C.I., ubicada en Puerto Diamante\n.\n\nLa documentación estará disponible para consulta pública \ndel 14 al 18 de septiembre, inclusive\n, período durante el cual los ciudadanos interesados podrán conocer el contenido del informe, realizar consultas y presentar observaciones.\n\nDesde \nBCN Noticias\n acercamos esta información de interés para la comunidad, especialmente para quienes quieran interiorizarse sobre los aspectos ambientales vinculados al funcionamiento de la planta ubicada en el puerto local.\n\n¿Cómo participar?\n\nLos vecinos y ciudadanos interesados podrán acceder al \nInforme Ambiental completo\n y, en caso de considerarlo necesario, realizar sus consultas u observaciones mediante los canales habilitados.\n\n📄 \nInforme Ambiental:\n\nhttps://drive.google.com/file/d/1H6HFucM0DmoB3UwYZQdzWGyO1hgtiD_K/view\n\n📝 \nFormulario de Participación Ciudadana:\n\nhttps://forms.comunicacionentrerios.com/f/442/ambienteparticipacionciudadana\n\n📧 \nCorreo electrónico:\n\nparticipacionciudadana-secambiente@entrerios.gov.ar\n\nQuienes realicen una presentación por correo electrónico deberán consignar en el asunto el \nExpte. N.º 1110083\n.\n\n📌 \nEl período de participación estará abierto del 14 al 18 de septiembre.\n\nDesde \nBCN Noticias\n continuaremos acercando a la comunidad la información vinculada con temas ambientales y de interés para Diamante y la región.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:29:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-provincia-por-provincia-como-cambio-el-empleo-privado-y-donde-se-registraron-las-mayores-caidas",
+    "fuente": "Nogoyá Times",
+    "titulo": "Provincia por provincia: cómo cambió el empleo privado y dónde se registraron las mayores caídas",
+    "fecha": "2026-09-11",
+    "link": "https://nogoyatimes.com/generales/noticias/provincia-por-provincia-como-cambio-el-empleo-privado-y-donde-se-registraron-las-mayores-caidas/",
+    "texto_original": "Radiografía del mercado laboral en las provincias\n\nEl empleo privado registrado retrocedió en junio a nivel nacional y quedó en su menor volumen de los últimos 50 meses. Una por una, la situación de pérdida de empleo en cada provincia que no para de profundizarse. El detalle.\n\nEl \nempleo privado registrado\n volvió a retroceder en junio en la Argentina: se perdieron 6.261 puestos de trabajo respecto de mayo, una disminución mensual del 0,1%. En Entre Ríos, en cambio, hubo una leve recuperación mensual de 94 trabajadores formales, aunque la comparación interanual y con noviembre de 2023 continuó mostrando números negativos.\n\nA nivel nacional, la cantidad de asalariados formales del sector privado se ubicó en 6.126.400 personas. Según el informe elaborado por la consultora Politikon Chaco sobre cifras de la Secretaría de Trabajo, Empleo y Seguridad Social de la Nación (STEySS-SIPA), se trató del volumen de empleo más bajo de los últimos 50 meses.\n\nLa comparación con junio de 2025 mostró una contracción nacional del 1,9%, equivalente a unos 121.000 puestos menos. Frente a noviembre de 2023, la reducción llegó al 3,9% y representó una pérdida acumulada estimada en 246.312 empleos privados registrados.\n\nQué pasó con el empleo en Entre Ríos\n\nEntre Ríos se ubicó entre las jurisdicciones que lograron mejorar levemente durante junio. El empleo privado formal aumentó 0,1% respecto de mayo, lo que significó la incorporación de 94 puestos de trabajo durante el mes.\n\nSin embargo, el resultado cambió al ampliar el período de comparación. Frente a junio de 2025, la provincia exhibió una caída del 1%, equivalente a 1.388 empleos registrados menos. En relación con noviembre de 2023, el retroceso alcanzó el 2,8%, con una pérdida acumulada de 3.872 puestos.\n\nEl comportamiento entrerriano acompañó así la tendencia general de deterioro observada en buena parte del país cuando se analiza un período más extenso, pese al pequeño incremento registrado durante el último mes relevado.\n\nSolo dos provincias superaron el nivel de noviembre de 2023\n\nDe acuerdo con el reporte, 14 jurisdicciones tuvieron bajas mensuales durante junio. Si la comparación se realiza contra noviembre de 2023, solamente Neuquén y Río Negro consiguieron ubicarse por encima del nivel que tenían en ese momento.\n\nNeuquén encabezó la evolución positiva con un crecimiento acumulado del 8,7%, equivalente a 12.430 empleos adicionales. También tuvo una expansión interanual del 5,2% y avanzó 0,8% durante junio, con 1.287 nuevos puestos.\n\nRío Negro, en tanto, prácticamente no tuvo variación mensual, pero mostró una suba interanual del 3,6%, con 3.851 puestos adicionales. Frente a noviembre de 2023, acumuló una mejora del 3,3%, equivalente a 3.646 empleos.\n\nLas provincias con las mayores caídas\n\nEn el otro extremo aparecieron Tierra del Fuego, Santa Cruz y La Rioja. La primera acumuló una reducción del 17,9% frente a noviembre de 2023, con 6.798 empleos menos. Además, presentó una caída interanual del 13,1%, la más pronunciada del país.\n\nSanta Cruz retrocedió 16,1% respecto de noviembre de 2023, equivalente a 9.776 puestos, pese a que en junio registró una recuperación mensual del 0,8%. La Rioja, por su parte, acumuló una contracción del 12%, con 3.933 trabajadores registrados menos.\n\nTambién se observaron bajas significativas desde noviembre de 2023 en Formosa (-11,8%), Misiones (-11,5%), Catamarca (-11%), Chaco (-10,5%) y Santiago del Estero (-9,1%). San Luis registró una disminución del 8,3%.\n\nBuenos Aires concentró la mayor pérdida de puestos\n\nPor volumen absoluto, Buenos Aires fue la jurisdicción más afectada. Durante junio perdió 5.237 empleos privados registrados, una baja mensual del 0,3%. En términos interanuales, acumuló 48.564 puestos menos.\n\nLa comparación con noviembre de 2023 mostró una reducción todavía mayor: 90.103 empleos, equivalente a una contracción del 4,5%. La Ciudad Autónoma de Buenos Aires, en cambio, sumó 1.887 puestos durante junio, aunque continuó por debajo de sus niveles anteriores: perdió 23.242 empleos interanuales y 44.955 frente a noviembre de 2023.\n\nEntre las principales provincias productivas también hubo resultados negativos. Córdoba perdió 631 empleos durante junio y acumuló una caída de 18.520 desde noviembre de 2023, mientras que Santa Fe registró 1.274 puestos menos en el mes y una reducción acumulada de 16.273.\n\nIndustria y construcción, entre los sectores más afectados\n\nEl deterioro del empleo registrado también mostró fuertes diferencias según la actividad económica. Al comparar junio con noviembre de 2023, once sectores presentaron niveles inferiores y solamente tres consiguieron mejorar: agro, pesca y enseñanza.\n\nLa industria manufacturera estuvo entre las actividades con mayor pérdida absoluta. Según el reporte, acumuló una reducción del 7,4%, equivalente a 88.496 empleos formales menos desde noviembre de 2023.\n\nLa construcción, por su parte, registró una caída del 14,2% y perdió 62.700 puestos durante el mismo período. En explotación de minas y canteras, la contracción alcanzó el 8,1%, con una reducción de 7.676 trabajadores registrados.\n\nEl mapa laboral provincia por provincia\n\nAdemás de Entre Ríos, durante junio tuvieron variaciones mensuales positivas CABA (+0,1%), Catamarca (+0,8%), Chaco (+0,1%), Formosa (+0,1%), La Pampa (+0,3%), Neuquén (+0,8%), Santa Cruz (+0,8%) y Tucumán (+0,1%). Río Negro permaneció prácticamente estable.\n\nEntre las jurisdicciones con retrocesos mensuales estuvieron Buenos Aires (-0,3%), Chubut (-0,2%), Córdoba (-0,1%), Corrientes (-0,1%), Jujuy (-0,3%), La Rioja (-1%), Mendoza (-0,2%), Misiones (-0,2%), Salta (-0,2%), San Juan (-0,4%), San Luis (-0,2%), Santa Fe (-0,3%), Santiago del Estero (-1%) y Tierra del Fuego (-1,3%).\n\nEl panorama de largo plazo fue más generalizado: salvo Neuquén y Río Negro, todas las jurisdicciones permanecieron por debajo del empleo privado registrado que tenían en noviembre de 2023. San Juan presentó la menor diferencia negativa, con una baja del 0,5%, equivalente a 422 puestos.\n\nAsí, aunque algunas provincias —entre ellas Entre Ríos— mostraron una recuperación puntual durante junio, el informe señaló que el empleo privado formal a nivel nacional continuó por debajo de los registros interanuales y de los existentes en noviembre de 2023. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nProvincia por provincia: cómo cambió el empleo privado y dónde se registraron las mayores caídas\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:30:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "industria",
+      "empleo",
+      "agro",
+      "servicios_publicos",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-arabia-saudita-cerro-un-oleoducto-clave-tras-varios-ataques-y-crece-la-tension-por-el-petroleo",
+    "fuente": "Nogoyá Times",
+    "titulo": "Arabia Saudita cerró un oleoducto clave tras varios ataques y crece la tensión por el petróleo",
+    "fecha": "2026-09-11",
+    "link": "https://nogoyatimes.com/generales/noticias/arabia-saudita-cerro-un-oleoducto-clave-tras-varios-ataques-y-crece-la-tension-por-el-petroleo/",
+    "texto_original": "Escalada del conflicto en Medio Oriente\n\nArabia Saudita cerró un oleoducto clave que permite transportar crudo hacia el Mar Rojo sin atravesar el estrecho de Ormuz. La medida fue preventiva tras varios ataques y aumentó la preocupación por el abastecimiento mundial de petróleo.\n\nArabia Saudita cerró un oleoducto clave\n para sus exportaciones de petróleo luego de que la infraestructura sufriera varios ataques en las regiones de Riad y Medina. El conducto Este-Oeste constituye una vía estratégica porque permite trasladar crudo desde el este del reino hacia el Mar Rojo y evitar el estrecho de Ormuz.\n\nEl Ministerio de Energía saudita informó este viernes que los ataques se produjeron durante la mañana del jueves 10 de septiembre y provocaron heridos. Como medida preventiva, las autoridades suspendieron las operaciones mientras equipos técnicos y de emergencia comenzaron a evaluar las condiciones de seguridad de la infraestructura.\n\nEl episodio ocurrió en medio de una fuerte escalada de tensión en Medio Oriente, que volvió a colocar bajo presión las principales rutas de transporte energético. La situación resulta especialmente sensible porque el tránsito de buques petroleros por el estrecho de Ormuz se redujo considerablemente a raíz del conflicto regional.\n\nOleoductos en Arabia Saudita. (Bloomberg).\n\nPor qué el oleoducto es estratégico\n\nEl oleoducto Este-Oeste transporta petróleo desde las zonas productoras cercanas al Golfo Pérsico hasta las instalaciones de exportación ubicadas sobre el Mar Rojo. De esta manera, Arabia Saudita dispone de una alternativa para evitar el paso por Ormuz, uno de los principales puntos estratégicos del comercio energético mundial.\n\nLa infraestructura adquirió todavía mayor importancia desde el inicio del conflicto con Irán. Arabia Saudita incrementó el envío de petróleo mediante esta vía ante las dificultades para operar normalmente a través del estrecho.\n\nEl conducto cuenta con capacidad para transportar alrededor de siete millones de barriles diarios. En los últimos meses se convirtió así en una pieza fundamental para sostener parte de las exportaciones sauditas frente a las dificultades experimentadas por las rutas marítimas tradicionales.\n\nQué pasó con el precio del petróleo\n\nLa noticia del cierre agregó incertidumbre a un mercado que ya atravesaba una semana marcada por fuertes movimientos. El petróleo Brent había llegado el jueves a valores cercanos a los 110 dólares por barril ante las preocupaciones por posibles nuevas interrupciones del suministro.\n\nEste viernes, sin embargo, las cotizaciones retrocedieron. El Brent terminó en 104,61 dólares por barril, con una caída diaria del 2,81%, mientras que el West Texas Intermediate (WTI) estadounidense cerró en 100,05 dólares. A pesar de esa baja, ambos indicadores acumulaban una ganancia semanal superior al 8%.\n\nEl retroceso del viernes estuvo relacionado, entre otros factores, con versiones sobre gestiones diplomáticas para establecer un acuerdo temporal con Irán que permitiera administrar el tránsito marítimo por el estrecho de Ormuz. Aun así, analistas del mercado advirtieron que podría mantenerse una elevada volatilidad mientras continúen las tensiones regionales.\n\nDos rutas estratégicas bajo presión\n\nLa importancia del cierre saudita radica también en que las dificultades ya no se concentran exclusivamente en Ormuz. El Este-Oeste permitía precisamente evitar ese paso y conducir el petróleo hasta el puerto de Yanbu, sobre el Mar Rojo, desde donde podía cargarse en buques.\n\nPero la ruta occidental también quedó expuesta a la escalada regional. En los últimos días se multiplicaron los ataques contra instalaciones energéticas y embarcaciones, mientras los hutíes de Yemen intensificaron sus operaciones en sectores próximos a otra vía estratégica: el estrecho de Bab el-Mandeb.\n\nAntes de la actual guerra con Irán, por Ormuz transitaba aproximadamente una quinta parte del suministro mundial diario de petróleo y gas natural licuado. Por eso, cualquier interrupción prolongada en las alternativas disponibles incrementa la preocupación por la capacidad de los productores del Golfo para colocar su crudo en los mercados internacionales.\n\nEl impacto sobre la producción saudita\n\nLas dificultades ya tuvieron consecuencias sobre Arabia Saudita. Según datos de la Agencia Internacional de Energía difundidos este viernes, el suministro saudita de crudo cayó durante agosto en 2,3 millones de barriles diarios respecto del mes anterior.\n\nLa producción se ubicó en torno a seis millones de barriles diarios, su menor nivel en más de tres décadas. La caída estuvo vinculada a los ataques contra instalaciones energéticas y a los problemas para sostener los flujos habituales de exportación.\n\nEn ese escenario, el funcionamiento del oleoducto Este-Oeste adquirió todavía mayor relevancia. Su interrupción, si se prolongara, podría reducir la flexibilidad logística del reino para responder a las restricciones que afectan al transporte marítimo por el Golfo Pérsico.\n\nEquipos técnicos evalúan los daños\n\nEl Ministerio de Energía indicó que los equipos especializados comenzaron a trabajar inmediatamente después de los ataques para asegurar la infraestructura y comprobar sus condiciones operativas.\n\nLas tareas se desarrollaron de acuerdo con los procedimientos de seguridad y los planes de emergencia establecidos por las autoridades sauditas. Hasta el momento no se informó oficialmente cuánto tiempo permanecerá fuera de servicio el oleoducto.\n\nEl Gobierno saudita anticipó que comunicará nuevas novedades a medida que avance la evaluación. Mientras tanto, los mercados internacionales permanecen atentos tanto a una eventual reapertura del conducto como a la evolución de los enfrentamientos y las negociaciones diplomáticas en Medio Oriente. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nArabia Saudita cerró un oleoducto clave tras varios ataques y crece la tensión por el petróleo\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-11T23:30:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "comercio",
+      "servicios_publicos",
+      "infraestructura_obra_publica",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
   }
 ]
