@@ -45,6 +45,12 @@ Verificado 2026-09-11, misma nota que el punto anterior — esto es `data.json` 
   - Por subrama, las mayores caídas: Madera -261 puestos (-8%, de 3.262 a 3.001), Muebles -92 (-9,3%, de 989 a 897), Edición -116 (-32,2%, de 360 a 244). El rubro más grande, Alimentos, cayó apenas -0,8% (149 puestos, de 18.625 a 18.476). Papel fue de los pocos en crecer: +57 (+7,9%).
 - **Dato de contexto — total empleo privado registrado en Entre Ríos** (todos los sectores, SIPA mensual): 141.611 puestos en noviembre de 2023 → 133.978 en mayo de 2026, -5,4% (desestacionalizado: -2,9%).
 
+## Empresas por sector (SRT, nacional) — mismo proyecto `mapa-empleo`
+
+Verificado 2026-09-11. `empresas.json` también tiene `pais.sectores` — 20 sectores, **solo a nivel nacional** (no hay cruce provincia × sector; el archivo fuente de la SRT que se procesa no se conserva localmente en el repo, solo el resultado agregado — si hace falta el cruce por provincia habría que volver a bajar los dos Excel de la SRT y revisar si el detalle existe ahí).
+
+- **Dato verificado (2026-09-11) — sector "Industria" a nivel nacional**: 49.622 empresas en noviembre de 2023 → 45.602 en mayo de 2026 (último dato), -4.020 empresas (-8,1%). **Coincide exactamente** con la cifra de establecimientos perdidos que cita CEPA (ver entrada siguiente) — dos fuentes independientes (SRT vía este repo, CEPA con otra base) dan el mismo número, lo que le suma confianza al dato nacional.
+
 ## CEPA (Centro de Economía Política Argentina) — informes de industria
 
 Verificado 2026-09-11. Publica informes periódicos sobre empleo y establecimientos industriales a nivel **nacional** (no desagregado por provincia) — cuidado si aparece citado en un comunicado o proyecto legislativo provincial, el dato puede no ser específico de Entre Ríos aunque se use para argumentar sobre la provincia (caso real: el bloque Más para Entre Ríos citó un informe de CEPA nacional para fundamentar un proyecto de emergencia industrial provincial).
