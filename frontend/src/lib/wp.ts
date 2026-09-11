@@ -59,6 +59,43 @@ export async function getPostsParaPortada(perPage = 20): Promise<WpPost[]> {
   return [...reales, ...mockPosts];
 }
 
+// Cache en memoria del mapeo slug->id de categorias dentro de un mismo
+// request -- las categorias de posicionamiento (ver mas abajo) se resuelven
+// varias veces por render de portada, no hace falta pegarle a la API cada vez.
+const categoriaIdPorSlug = new Map<string, number | null>();
+
+async function getCategoryId(slug: string): Promise<number | null> {
+  if (categoriaIdPorSlug.has(slug)) return categoriaIdPorSlug.get(slug)!;
+  const cats = await wpFetch<Array<{ id: number; slug: string }>>(
+    `/categories?slug=${encodeURIComponent(slug)}`
+  );
+  const id = cats[0]?.id ?? null;
+  categoriaIdPorSlug.set(slug, id);
+  return id;
+}
+
+/**
+ * Categorias de POSICIONAMIENTO en el home (Destacadas, Segundas destacadas,
+ * Ultimas noticias, Otras noticias) -- ver frontend_estado / conversacion
+ * 2026-09-11. Son de uso interno, nunca se muestran al lector (a diferencia
+ * de la categoria "tematica" que cada nota tambien puede tener -- Economia,
+ * Justicia, etc. -- que hoy no se usa para nada en el layout, queda guardada
+ * en WordPress para el dia que haga falta una pagina de seccion por tema).
+ *
+ * Con sticky-primero igual que getPostsParaPortada, pero acotado a una sola
+ * categoria de posicionamiento.
+ */
+export async function getPostsByCategory(slug: string, perPage = 20): Promise<WpPost[]> {
+  const id = await getCategoryId(slug);
+  if (id == null) return [];
+  const [fijados, recientes] = await Promise.all([
+    wpFetch<WpPost[]>(`/posts?categories=${id}&sticky=true&per_page=5&_embed`),
+    wpFetch<WpPost[]>(`/posts?categories=${id}&per_page=${perPage}&_embed`),
+  ]);
+  const idsFijados = new Set(fijados.map((p) => p.id));
+  return [...fijados, ...recientes.filter((p) => !idsFijados.has(p.id))];
+}
+
 export async function getPostBySlug(slug: string): Promise<WpPost | null> {
   const mock = mockPosts.find((p) => p.slug === slug);
   if (mock) return mock;
@@ -87,22 +124,70 @@ export function authorName(post: WpPost): string | null {
   return post._embedded?.author?.[0]?.name ?? null;
 }
 
-export function categoryName(post: WpPost): string | null {
-  const cat = post._embedded?.["wp:term"]?.[0]?.[0];
-  return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.name : null;
+// Categorias de POSICIONAMIENTO en el home (ver page.tsx para el detalle de
+// que modulo alimenta cada una) -- centralizadas aca porque categoryName /
+// categorySlug necesitan excluirlas: un post puede tener a la vez una
+// categoria de posicionamiento (uso interno, nunca visible) y una categoria
+// tematica (Economia, Justicia...) que si es la que se muestra en la nota
+// individual. Sin este filtro, categoryName podria devolver "Destacadas"
+// como si fuera un tema.
+export const SLUG_CAT_DESTACADAS = "destacadas";
+export const SLUG_CAT_SEGUNDAS_DESTACADAS = "segundas-destacadas";
+export const SLUG_CAT_ULTIMAS_NOTICIAS = "ultimas-noticias";
+export const SLUG_CAT_OTRAS_NOTICIAS = "otras-noticias";
+const SLUGS_CATEGORIA_POSICION = new Set([
+  SLUG_CAT_DESTACADAS,
+  SLUG_CAT_SEGUNDAS_DESTACADAS,
+  SLUG_CAT_ULTIMAS_NOTICIAS,
+  SLUG_CAT_OTRAS_NOTICIAS,
+]);
+
+function categoriaTematica(post: WpPost) {
+  const cats = post._embedded?.["wp:term"]?.[0] ?? [];
+  return cats.find(
+    (t) =>
+      t.taxonomy === "category" &&
+      t.slug !== "uncategorized" &&
+      !SLUGS_CATEGORIA_POSICION.has(t.slug)
+  );
 }
 
-// Etiquetas como "Último momento" ya no se asignan solas al primer ítem de
-// cada lista -- eso las hacía aparecer en cualquier nota, aunque no fuera
-// noticia de último momento de verdad. Ahora dependen de que la nota tenga
-// puesto, a mano, un tag de WordPress con este slug (cualquier editor lo
-// puede tildar desde el editor normal, sin campo custom).
+export function categoryName(post: WpPost): string | null {
+  return categoriaTematica(post)?.name ?? null;
+}
+
+// Etiquetas visibles: por default NINGUN tag se muestra en la portada (ver
+// conversacion 2026-09-11 -- Francisco no quiere que las tags se vean salvo
+// que el decida mostrar una puntual). Esta lista es el unico lugar que
+// habilita una tag a mostrarse, mapeando su slug de WordPress al texto que
+// se renderiza -- agregar una linea aca es la forma de "activar" una tag
+// nueva, nunca se muestran por default ni todas juntas.
+const ETIQUETAS_VISIBLES: Record<string, string> = {
+  "ultimo-momento": "Último momento",
+  "en-vivo": "En vivo",
+};
+
+/** true si la nota tiene puesto, a mano, el tag de WordPress con este slug. */
 export function tieneTag(post: WpPost, slug: string): boolean {
   const terms = post._embedded?.["wp:term"] ?? [];
   return terms.flat().some((t) => t.taxonomy === "post_tag" && t.slug === slug);
 }
 
+/**
+ * Primera etiqueta visible que tenga la nota (o null si no tiene ninguna de
+ * la lista habilitada) -- una nota puede tener muchos tags de WordPress para
+ * uso interno, pero solo los de ETIQUETAS_VISIBLES se renderizan.
+ */
+export function etiquetaVisible(post: WpPost): string | null {
+  const terms = post._embedded?.["wp:term"]?.flat() ?? [];
+  for (const t of terms) {
+    if (t.taxonomy === "post_tag" && ETIQUETAS_VISIBLES[t.slug]) {
+      return ETIQUETAS_VISIBLES[t.slug];
+    }
+  }
+  return null;
+}
+
 export function categorySlug(post: WpPost): string | null {
-  const cat = post._embedded?.["wp:term"]?.[0]?.[0];
-  return cat && cat.taxonomy === "category" && cat.slug !== "uncategorized" ? cat.slug : null;
+  return categoriaTematica(post)?.slug ?? null;
 }

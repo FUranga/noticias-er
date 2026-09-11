@@ -1,13 +1,16 @@
 import Link from "next/link";
 import { Header } from "@/components/Header";
 import {
-  getPostsParaPortada,
+  getPostsByCategory,
   featuredImageUrl,
-  categoryName,
-  tieneTag,
+  etiquetaVisible,
+  SLUG_CAT_DESTACADAS,
+  SLUG_CAT_SEGUNDAS_DESTACADAS,
+  SLUG_CAT_ULTIMAS_NOTICIAS,
+  SLUG_CAT_OTRAS_NOTICIAS,
   type WpPost,
 } from "@/lib/wp";
-import { mockEconomia, mockJusticia, mockMunicipios, mockSociedad } from "@/lib/mock-posts";
+import { mockPosts } from "@/lib/mock-posts";
 
 // Portada inspirada en la estructura real de un diario (NYT/WSJ): tamaños de
 // foto y de tipografía variables según jerarquía, no una grilla uniforme
@@ -15,40 +18,30 @@ import { mockEconomia, mockJusticia, mockMunicipios, mockSociedad } from "@/lib/
 // una pieza destacada y una lista de acompañamiento -- la variación entre
 // módulos es la que da la sensación de portada real, no de feed.
 
-// Verificado 2026-09-07 contra nytimes.com y elpais.com, no a ojo (ver
-// inspección de fuentes reales): el kicker SIEMPRE es sans chico en
-// mayúsculas y tinta casi negra, igual en toda la portada -- no cambia de
-// color por sección. Y el titular SIEMPRE es serif en negrita, nunca itálica
-// ni sans, sin importar si es la nota principal o un ítem de una línea en
-// una lista densa -- lo que varía entre una "nota destacada" y un "brief" es
-// el tamaño, nunca la familia tipográfica.
-function Kicker({ post, mostrar = true }: { post: WpPost; mostrar?: boolean }) {
-  const nombre = categoryName(post);
-  if (!nombre || !mostrar) return null;
-  return <p className="kicker mb-1.5">{nombre}</p>;
+// Categorías de POSICIONAMIENTO (2026-09-11, decisión de Francisco): la
+// portada ya no se arma cortando una lista cronológica en pedazos -- cada
+// nota tiene una categoría de WordPress que dice en qué módulo va (Destacadas
+// / Segundas destacadas / Últimas noticias / Otras noticias). Es un uso
+// puramente interno de la categoría, nunca se muestra al lector -- la nota
+// también puede tener una segunda categoría temática (Economía, Justicia...)
+// que hoy no se usa para nada acá, queda guardada para el día que haga falta
+// una página de sección por tema. Slugs centralizados en wp.ts porque
+// categoryName/categorySlug también necesitan conocerlos, para no mostrar
+// una categoría de posicionamiento como si fuera un tema en la nota individual.
+
+// Relleno de demo mientras las categorías de posicionamiento recién creadas
+// no tienen notas reales asignadas (ver mock-posts.ts) -- se completa al
+// final de cada lista, nunca reemplaza contenido real. Borrar cuando ya no
+// haga falta.
+function conRelleno(reales: WpPost[], minimo: number, yaUsados: Set<number>): WpPost[] {
+  if (reales.length >= minimo) return reales;
+  const relleno = mockPosts.filter((p) => !yaUsados.has(p.id));
+  return [...reales, ...relleno];
 }
 
-// Etiqueta chica de estado -- NO se asigna sola al primer ítem de una lista
-// (eso hacía que "Último momento" apareciera en cualquier nota, tuviera o no
-// urgencia real, y sumado al kicker de sección quedaba sobrepoblado de
-// rótulos). Depende de que el editor le haya puesto a la nota el tag de
-// WordPress "ultimo-momento" -- ver tieneTag en wp.ts.
-//
-// Verificado 2026-09-07 (no había ningún caso "en vivo" real de NYT para
-// mirar en el momento, pero sí lo vimos en El País: su etiqueta roja
-// "ENCUESTA DE 40DB." era texto rojo sobre blanco, sin caja ni borde --
-// mismo tratamiento que un kicker, solo que en rojo. Una caja sólida termina
-// leyendo más a cupón de e-commerce que a etiqueta editorial (irónicamente
-// había un banner de ofertas con ese estilo exacto al lado, en la misma
-// visita a nytimes.com).
-function Etiqueta({ texto }: { texto: string }) {
-  return <span className="kicker kicker-accent mr-2 align-middle">{texto}</span>;
-}
-
-// El crédito de la foto (featuredImageCredit en wp.ts) NO se muestra en la
-// portada -- decisión de Francisco (2026-09-07): la portada necesita un
-// diseño despejado, y el crédito se ve adentro de la nota (nota/[slug]),
-// donde si tiene sentido detenerse a leerlo.
+// Nunca es texturized/subrayado -- solo cambia de tamaño según la jerarquía
+// del módulo en el que aparece. Ver Etiqueta para el único rótulo que sí se
+// muestra (una tag puntual que el editor eligió hacer visible).
 function Titular({
   post,
   tamaño = "base",
@@ -71,37 +64,27 @@ function Titular({
   );
 }
 
+// Único rótulo que se muestra en la portada (2026-09-11): la categoría de
+// posicionamiento nunca se ve (ver comentario arriba), y de las tags de
+// WordPress solo se rinde la que esté en ETIQUETAS_VISIBLES (wp.ts) -- hoy
+// "Último momento" y "En vivo". Agregar una tag nueva a esa lista es la
+// única forma de sumar un rótulo visible; nada se muestra por default.
+function Etiqueta({ texto }: { texto: string }) {
+  return <span className="kicker kicker-accent mr-2 align-middle">{texto}</span>;
+}
+
 // Ítem de "río": solo texto, sin foto -- la densidad típica de la columna
 // "What's News" del WSJ. El primero de cada lista es levemente más grande,
 // como en una portada real (nunca todos los ítems pesan igual), y es el
 // único que puede llevar bajada -- en El País y NYT no todos los ítems de
 // una lista tienen bajada, pero varios sí, no solo la nota "hero" de toda
 // la portada.
-//
-// `mostrarCategoria` en false cuando el módulo ya tiene su propio
-// EncabezadoSeccion de una sola categoría (ej. "Justicia") -- repetir el
-// mismo nombre como kicker en cada ítem de abajo es redundante y es lo que
-// hacía sentir la portada "sobreetiquetada". Confirmado 2026-09-07 mirando
-// nytimes.com/elpais.com en el navegador: en sus portadas reales el kicker
-// de categoría es la excepción (aparece en pocos ítems, casi siempre para
-// marcar un quiebre de contexto, como un ítem de Opinión adentro de un río
-// de noticias) y no una etiqueta que se repite en todos los ítems de una
-// lista ya encabezada por esa categoría.
-function RioItem({
-  post,
-  destacado = false,
-  mostrarCategoria = true,
-}: {
-  post: WpPost;
-  destacado?: boolean;
-  mostrarCategoria?: boolean;
-}) {
-  const esUltimoMomento = tieneTag(post, "ultimo-momento");
+function RioItem({ post, destacado = false }: { post: WpPost; destacado?: boolean }) {
+  const etiqueta = etiquetaVisible(post);
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
       <Link href={`/nota/${post.slug}`} className="group block">
-        <Kicker post={post} mostrar={mostrarCategoria} />
-        {esUltimoMomento && <Etiqueta texto="Último momento" />}
+        {etiqueta && <Etiqueta texto={etiqueta} />}
         <Titular post={post} tamaño={destacado ? "base" : "xs"} />
         {destacado && post.excerpt.rendered && (
           <div
@@ -114,45 +97,33 @@ function RioItem({
   );
 }
 
-function Rio({
-  posts,
-  titulo,
-  mostrarCategoria = true,
-}: {
-  posts: WpPost[];
-  titulo?: string;
-  mostrarCategoria?: boolean;
-}) {
+function Rio({ posts, titulo }: { posts: WpPost[]; titulo?: string }) {
   if (posts.length === 0) return null;
   return (
     <div>
       {titulo && <p className="kicker border-b-2 border-neutral-900 pb-1.5">{titulo}</p>}
       <ul className={titulo ? "mt-1" : ""}>
         {posts.map((post, i) => (
-          <RioItem key={post.id} post={post} destacado={i === 0} mostrarCategoria={mostrarCategoria} />
+          <RioItem key={post.id} post={post} destacado={i === 0} />
         ))}
       </ul>
     </div>
   );
 }
 
-// Siempre es la pieza "destacada" de su sección (nunca un ítem chico de
-// grilla) -- por eso, a diferencia del río, siempre lleva bajada y tiempo de
-// lectura. Es la misma distinción real que ya vimos en NYT: no es que
-// "algunas notas tengan bajada al azar", es que la tienen las piezas con
-// tratamiento propio, no los brefs.
+// Siempre es la pieza "destacada" de su módulo (nunca un ítem chico de
+// grilla) -- por eso, a diferencia del río, siempre lleva bajada.
 function TarjetaFoto({
   post,
   proporcion = "aspect-[3/2]",
   tamañoTitulo = "base",
-  mostrarCategoria = true,
 }: {
   post: WpPost;
   proporcion?: string;
   tamañoTitulo?: "lg" | "base" | "sm";
-  mostrarCategoria?: boolean;
 }) {
   const imagen = featuredImageUrl(post);
+  const etiqueta = etiquetaVisible(post);
   return (
     <div>
       <Link href={`/nota/${post.slug}`} className="group block">
@@ -162,7 +133,7 @@ function TarjetaFoto({
         )}
       </Link>
       <Link href={`/nota/${post.slug}`} className="group block">
-        <Kicker post={post} mostrar={mostrarCategoria} />
+        {etiqueta && <Etiqueta texto={etiqueta} />}
         <Titular post={post} tamaño={tamañoTitulo} />
         <div
           className="mt-1.5 text-[0.9rem] leading-snug text-neutral-700 [&_p]:m-0"
@@ -173,13 +144,7 @@ function TarjetaFoto({
   );
 }
 
-function ItemMiniatura({
-  post,
-  mostrarCategoria = true,
-}: {
-  post: WpPost;
-  mostrarCategoria?: boolean;
-}) {
+function ItemMiniatura({ post }: { post: WpPost }) {
   const imagen = featuredImageUrl(post);
   return (
     <li className="border-t border-neutral-300 py-3 first:border-t-0 first:pt-0">
@@ -188,94 +153,52 @@ function ItemMiniatura({
           // eslint-disable-next-line @next/next/no-img-element
           <img src={imagen} alt="" className="h-16 w-20 shrink-0 object-cover" />
         )}
-        <div>
-          <Kicker post={post} mostrar={mostrarCategoria} />
-          <Titular post={post} tamaño="xs" />
-        </div>
+        <Titular post={post} tamaño="xs" />
       </Link>
     </li>
   );
 }
 
-// Nada de itálica ni de una tercera voz tipográfica -- mismo tratamiento que
-// el kicker (sans, mayúsculas, negrita, tinta casi negra), solo más grande,
-// igual que como NYT/El País marcan una sección dentro de la portada.
-function EncabezadoSeccion({ titulo }: { titulo: string }) {
-  return (
-    <div className="mt-16 border-b-2 border-neutral-900 pb-1.5">
-      <h2 className="font-ui text-base font-bold uppercase tracking-[0.04em]">{titulo}</h2>
-    </div>
-  );
-}
-
 // Módulo tipo "sección de diario": una pieza destacada con foto grande a la
-// izquierda + un río a la derecha. La proporción entre columnas varía por
-// sección para que no todas se vean iguales.
-//
-// Evaluado y descartado por ahora (2026-09-07, Francisco): módulos con fondo
-// tinteado/recuadrado tipo WSJ para separar "otro tipo de contenido" -- no
-// aparece así en NYT/WaPo, lee "financiero", y no vamos a tener sección de
-// Opinión que lo justifique. Queda pendiente para re-evaluar más adelante,
-// no descartado para siempre.
+// izquierda + un río a la derecha. Sin encabezado de sección (2026-09-11):
+// ya no representa un tema (antes decía "Economía"), solo una jerarquía
+// visual -- un título ahí ahora sería engañoso. El espaciado (`mt-16`) se
+// mantiene para conservar el ritmo entre módulos aunque no haya rótulo.
 function SeccionDestacada({
-  titulo,
   posts,
   proporcion = "lg:grid-cols-[1.4fr_1fr]",
 }: {
-  titulo: string;
   posts: WpPost[];
   proporcion?: string;
 }) {
   if (posts.length === 0) return null;
   const [destacada, ...resto] = posts;
   return (
-    <section>
-      <EncabezadoSeccion titulo={titulo} />
-      <div className={`mt-6 grid grid-cols-1 gap-x-10 gap-y-6 ${proporcion}`}>
-        <TarjetaFoto post={destacada} tamañoTitulo="lg" mostrarCategoria={false} />
-        {resto.length > 0 && <Rio posts={resto} mostrarCategoria={false} />}
+    <section className="mt-16">
+      <div className={`grid grid-cols-1 gap-x-10 gap-y-6 ${proporcion}`}>
+        <TarjetaFoto post={destacada} tamañoTitulo="lg" />
+        {resto.length > 0 && <Rio posts={resto} />}
       </div>
     </section>
   );
 }
 
-// Módulo tipo "grilla" -- para secciones donde varias notas pesan parecido,
-// sin una sola destacada, pero con la primera levemente más grande. Relación
-// de columnas 3/2 (no 50/50) para que no repita la proporción de las otras
-// secciones -- parte de la variedad de anchos que hace de mosaico, no de
-// grilla uniforme.
-function SeccionGrilla({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
+// Módulo tipo "grilla" -- catch-all de "Otras noticias", sin encabezado por
+// el mismo motivo que SeccionDestacada. Relación de columnas 3/2 (no 50/50)
+// para que no repita la proporción de las otras secciones.
+function SeccionGrilla({ posts }: { posts: WpPost[] }) {
   if (posts.length === 0) return null;
   const [primera, ...resto] = posts;
   return (
-    <section>
-      <EncabezadoSeccion titulo={titulo} />
-      <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-[3fr_2fr]">
-        <TarjetaFoto post={primera} proporcion="aspect-[4/3]" tamañoTitulo="base" mostrarCategoria={false} />
+    <section className="mt-16">
+      <div className="grid grid-cols-1 gap-8 sm:grid-cols-[3fr_2fr]">
+        <TarjetaFoto post={primera} proporcion="aspect-[4/3]" tamañoTitulo="base" />
         <ul>
           {resto.map((post) => (
-            <RioItem key={post.id} post={post} mostrarCategoria={false} />
+            <RioItem key={post.id} post={post} />
           ))}
         </ul>
       </div>
-    </section>
-  );
-}
-
-// Módulo tipo "solo texto" -- para la sección más chica, sin fotos, imitando
-// los bloques de "briefs" de una portada real. Tres columnas (no dos, como
-// las demás secciones) para que la "pared de texto" se sienta distinta del
-// resto, no una repetición del mismo patrón a otra escala.
-function SeccionTexto({ titulo, posts }: { titulo: string; posts: WpPost[] }) {
-  if (posts.length === 0) return null;
-  return (
-    <section>
-      <EncabezadoSeccion titulo={titulo} />
-      <ul className="mt-4 grid grid-cols-1 gap-x-8 sm:grid-cols-3">
-        {posts.map((post, i) => (
-          <RioItem key={post.id} post={post} destacado={i === 0} mostrarCategoria={false} />
-        ))}
-      </ul>
     </section>
   );
 }
@@ -316,11 +239,29 @@ function BannerNewsletter() {
 }
 
 export default async function HomePage() {
-  const posts = await getPostsParaPortada();
-  const lead = posts[0];
-  const columnaIzq = posts.slice(1, 5);
-  const columnaDer = posts.slice(5, 9);
-  const masLeidas = [...posts].reverse().slice(0, 5);
+  const [destacadasReales, segundasReales, ultimasReales, otrasReales] = await Promise.all([
+    getPostsByCategory(SLUG_CAT_DESTACADAS),
+    getPostsByCategory(SLUG_CAT_SEGUNDAS_DESTACADAS),
+    getPostsByCategory(SLUG_CAT_ULTIMAS_NOTICIAS),
+    getPostsByCategory(SLUG_CAT_OTRAS_NOTICIAS),
+  ]);
+
+  const usados = new Set([
+    ...destacadasReales,
+    ...segundasReales,
+    ...ultimasReales,
+    ...otrasReales,
+  ].map((p) => p.id));
+
+  const destacadas = conRelleno(destacadasReales, 1, usados);
+  const segundasDestacadas = conRelleno(segundasReales, 3, usados);
+  const ultimasNoticias = conRelleno(ultimasReales, 8, usados);
+  const otrasNoticias = conRelleno(otrasReales, 6, usados);
+
+  const lead = destacadas[0];
+  const columnaIzq = ultimasNoticias.slice(0, 4);
+  const columnaDer = ultimasNoticias.slice(4, 8);
+  const masLeidas = [...ultimasNoticias].reverse().slice(0, 5);
 
   return (
     <>
@@ -352,7 +293,10 @@ export default async function HomePage() {
                 })()}
               </Link>
               <Link href={`/nota/${lead.slug}`} className="group block">
-                <Kicker post={lead} />
+                {(() => {
+                  const etiqueta = etiquetaVisible(lead);
+                  return etiqueta ? <Etiqueta texto={etiqueta} /> : null;
+                })()}
                 <Titular post={lead} tamaño="xl" />
                 <div
                   className="mt-4 max-w-xl text-lg leading-snug text-neutral-700 [&_p]:m-0"
@@ -369,29 +313,16 @@ export default async function HomePage() {
           </div>
         )}
 
-        <SeccionDestacada titulo="Economía" posts={mockEconomia} proporcion="lg:grid-cols-[2fr_1fr]" />
+        <SeccionDestacada posts={segundasDestacadas} proporcion="lg:grid-cols-[2fr_1fr]" />
 
         <BannerNewsletter />
 
-        <SeccionTexto titulo="Justicia" posts={mockJusticia} />
-
         <div className="grid grid-cols-1 gap-x-10 lg:grid-cols-[1fr_18rem]">
-          <SeccionGrilla titulo="Municipios" posts={mockMunicipios} />
+          <SeccionGrilla posts={otrasNoticias} />
           <div className="mt-16">
             <MasLeidas posts={masLeidas} />
           </div>
         </div>
-
-        {mockSociedad.length > 0 && (
-          <section>
-            <EncabezadoSeccion titulo="Sociedad" />
-            <ul className="mt-2 grid grid-cols-1 gap-x-8 sm:grid-cols-2 lg:grid-cols-3">
-              {mockSociedad.map((post) => (
-                <ItemMiniatura key={post.id} post={post} mostrarCategoria={false} />
-              ))}
-            </ul>
-          </section>
-        )}
       </main>
       <footer className="font-ui border-t border-neutral-300 px-4 py-6 text-center text-xs text-neutral-500 sm:px-8">
         Agencia Entrerriana — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
