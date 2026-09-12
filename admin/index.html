@@ -211,24 +211,13 @@ function esVencida(a) {
   return a.estado === 'pendiente' && !!a.fecha && a.fecha < hoyISO();
 }
 
-// Ventana de 24hs sobre "Medios > Pendientes" (Francisco, 2026-09-12): con
-// 30+ items nuevos por dia, la cola de pendientes se volvia inmanejable de
-// mirar entera cada vez. Los que no se revisan en 24hs simplemente dejan de
-// mostrarse acá (no se tocan, siguen "pendiente" en el archivo) -- y a las
-// 48hs pipeline/depurar_pendientes_medios.py los descarta solo, con motivo
-// explícito de "automático" para no confundirlo con un descarte editorial
-// real. Sin fecha de alta (item viejo, de antes de este campo) no se
-// esconde -- mejor mostrar de más que perder algo en silencio.
-const HORAS_VENTANA_MEDIOS = 24;
-function esMedioReciente(it) {
-  if (!it.agregado_el) return true;
-  const t = new Date(it.agregado_el).getTime();
-  if (Number.isNaN(t)) return true;
-  return (Date.now() - t) <= HORAS_VENTANA_MEDIOS * 60 * 60 * 1000;
-}
-function esPendienteMediosFiltrado(macroKey, estadoKey) {
-  return macroKey === 'medios' && estadoKey === 'pendiente';
-}
+// "Medios > Pendientes" ya no tiene un recorte propio en el panel (probado
+// y descartado, Francisco 2026-09-12: un corte de 24hs acá arriba de la
+// expiración real de 48hs en pipeline/depurar_pendientes_medios.py generaba
+// dos números distintos para "lo pendiente" -- confuso, no un mecanismo
+// mas). El único cutoff real es el de ese script: como descarta solo lo que
+// pasa 48hs sin revisión, "pendiente" nunca tiene más de 48hs de
+// antigüedad por construcción, sin necesidad de un segundo filtro acá.
 let items = [];
 let fileSha = null;
 let agendaItems = [];
@@ -465,9 +454,7 @@ function renderTabs() {
   const enMacro = itemsEnMacro(activeMacro);
   const estados = macro.estadosMedios ? ESTADOS_MEDIOS : ESTADOS;
   estados.forEach(e => {
-    let deEstado = enMacro.filter(i => i.estado === e.key);
-    if (esPendienteMediosFiltrado(activeMacro, e.key)) deEstado = deEstado.filter(esMedioReciente);
-    const count = deEstado.length;
+    const count = enMacro.filter(i => i.estado === e.key).length;
     const btn = document.createElement('button');
     btn.className = 'tab' + (activeEstado === e.key ? ' active' : '');
     btn.innerHTML = `${e.label} <span class="count">${count}</span>`;
@@ -596,17 +583,8 @@ function render() {
   renderTabs();
   const list = document.getElementById('list');
   list.innerHTML = '';
-  const ventanaMedios = esPendienteMediosFiltrado(activeMacro, activeEstado);
-  if (ventanaMedios) {
-    const hint = document.createElement('div');
-    hint.className = 'empty';
-    hint.style.cssText = 'padding:8px 0;text-align:left;font-size:.85rem;color:#777;';
-    hint.textContent = `Mostrando pendientes de Medios de las últimas ${HORAS_VENTANA_MEDIOS} horas -- lo más viejo se descarta solo a las 48hs (con motivo "automático", revisable en Descartadas).`;
-    list.appendChild(hint);
-  }
   const filtered = itemsEnMacro(activeMacro)
     .filter(i => i.estado === activeEstado)
-    .filter(i => !ventanaMedios || esMedioReciente(i))
     .sort((a, b) => {
       // Los que ya tienen borrador en WordPress van al final -- lo accionable
       // (todavía sin subir) queda arriba.
