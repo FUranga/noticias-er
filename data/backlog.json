@@ -36818,5 +36818,19 @@
     "lugares_matcheados": [
       "entre ríos"
     ]
+  },
+  {
+    "id": "empresa-fadel-mantenimiento-de-central-termoelectrica",
+    "fuente": "fadel",
+    "titulo": "Mantenimiento de Central Termoeléctrica",
+    "fecha": "2026-09-12",
+    "link": "https://fadelsa.com.ar/mantenimiento-de-central-termoelectrica/",
+    "texto_original": "Mantenimiento de Central Termoeléctrica Fecha: 11/09/2026 Lugar: Pronunciamiento, Entre Ríos Responsabilidades del puesto: • Supervisión y Gestión en Campo: Controlar trabajos de mejora en obra junto a los operadores, verificar el correcto funcionamiento de los equipos, gestionar al personal propio\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-12T14:32:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
