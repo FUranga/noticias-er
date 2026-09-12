@@ -103,6 +103,107 @@ export async function getPostBySlug(slug: string): Promise<WpPost | null> {
   return posts[0] ?? null;
 }
 
+/**
+ * Vistas por nota -- señal de popularidad real, para ordenar por lectura
+ * efectiva en vez de solo por fecha (ver conversación 2026-09-12: NYT y WSJ
+ * combinan tema + recencia CON una señal de lectura real, ver comentario de
+ * getPostsRelacionados más abajo).
+ *
+ * Placeholder DELIBERADO: hoy no hay ninguna fuente de tracking conectada
+ * (docs/arquitectura-tecnica.md ya deja dicho que el analytics se maneja acá,
+ * en el frontend, y no en WordPress -- pero todavía no se implementó), así
+ * que devuelve un Map vacío en vez de inventar un número. Con el Map vacío,
+ * getPostsRelacionados() y MasLeidas (page.tsx) caen exactamente al
+ * comportamiento actual basado en fecha -- ninguno de los dos necesita
+ * volver a tocarse cuando esto deje de estar vacío.
+ *
+ * Para conectar una fuente real más adelante (a definir con Francisco --
+ * candidatas: Vercel Analytics, Umami/Plausible autohosteado, o un contador
+ * propio vía Vercel KV incrementado desde la página de la nota), ESTA es la
+ * única función a reemplazar.
+ */
+export async function getVistas(postIds: number[]): Promise<Map<number, number>> {
+  void postIds;
+  return new Map();
+}
+
+/** Reordena por vistas desc si hay datos reales; si el Map viene vacío, deja el orden tal cual llegó (hoy siempre por fecha). */
+async function porPopularidad(posts: WpPost[]): Promise<WpPost[]> {
+  const vistas = await getVistas(posts.map((p) => p.id));
+  if (vistas.size === 0) return posts;
+  return [...posts].sort((a, b) => (vistas.get(b.id) ?? 0) - (vistas.get(a.id) ?? 0));
+}
+
+/**
+ * "Más noticias" al pie de una nota (recirculación). Ubicación verificada
+ * 2026-09-12 con el navegador contra nytimes.com/wsj.com: en los dos el
+ * módulo va DESPUÉS del cuerpo, nunca antes ni interrumpiendo la lectura.
+ *
+ * El CRITERIO de selección (no solo la ubicación) también se chequeó, no se
+ * asumió: el propio equipo de NYT documenta su recirculación como pooling
+ * (armar un conjunto de candidatas por tema/similitud de contenido) ->
+ * ranking (por similitud + señales de lectura, ej. más leídas) -> guardrails
+ * editoriales. Acá replicamos las tres capas que son honestas con los datos
+ * que tenemos: pool por tema (con el mismo patrón "reales primero, relleno
+ * después" que conRelleno() en page.tsx si el tema no alcanza), reordenado
+ * por vistas reales cuando existan (porPopularidad(), arriba) y por ahora
+ * recencia mientras no existan -- nunca una popularidad inventada.
+ *
+ * Las notas de demo (id negativo, ver mock-posts.ts) no le pegan a WordPress
+ * -- se resuelven solo contra el propio pool de mocks.
+ */
+export async function getPostsRelacionados(post: WpPost, limit = 3): Promise<WpPost[]> {
+  if (post.id < 0) {
+    const slug = categorySlug(post);
+    const resto = mockPosts.filter((p) => p.id !== post.id);
+    const mismoTema = resto.filter((p) => categorySlug(p) === slug);
+    const otroTema = resto.filter((p) => categorySlug(p) !== slug);
+    return porPopularidad([...mismoTema, ...otroTema].slice(0, limit));
+  }
+
+  const slug = categorySlug(post);
+  let relacionados: WpPost[] = [];
+  if (slug) {
+    const id = await getCategoryId(slug);
+    if (id != null) {
+      relacionados = await wpFetch<WpPost[]>(
+        `/posts?categories=${id}&exclude=${post.id}&per_page=${limit}&_embed`
+      );
+      relacionados = await porPopularidad(relacionados);
+    }
+  }
+  if (relacionados.length < limit) {
+    const faltan = limit - relacionados.length;
+    const excluidos = [post.id, ...relacionados.map((p) => p.id)].join(",");
+    const recientes = await wpFetch<WpPost[]>(
+      `/posts?exclude=${excluidos}&per_page=${faltan}&_embed`
+    );
+    relacionados = [...relacionados, ...(await porPopularidad(recientes))];
+  }
+  return relacionados;
+}
+
+/**
+ * "Tendencias" -- lo más leído del SITIO ENTERO (a diferencia de
+ * getPostsRelacionados, que es por tema de una nota puntual). Es el
+ * equivalente honesto al módulo "Trending in The Times" de NYT: no hace
+ * falta ninguna página nueva para tenerlo, a diferencia del "Site Index"
+ * (sitemap con una columna por sección) del mismo pie de NYT, que si
+ * necesita que existan páginas de sección por tema -- hoy no existen (ver
+ * comentario de categorySlug más abajo) -- antes de poder construirse sin
+ * links muertos.
+ */
+export async function getTendencias(limit = 5, excluirId?: number): Promise<WpPost[]> {
+  let posts = await getPosts(limit + 5);
+  if (excluirId != null) posts = posts.filter((p) => p.id !== excluirId);
+  if (posts.length < limit) {
+    const usados = new Set(posts.map((p) => p.id));
+    const relleno = mockPosts.filter((p) => p.id !== excluirId && !usados.has(p.id));
+    posts = [...posts, ...relleno];
+  }
+  return porPopularidad(posts.slice(0, limit));
+}
+
 export function featuredImageUrl(post: WpPost): string | null {
   return post._embedded?.["wp:featuredmedia"]?.[0]?.source_url ?? null;
 }

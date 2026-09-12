@@ -1,7 +1,10 @@
 import Link from "next/link";
 import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
+import { Tendencias } from "@/components/Tendencias";
 import {
   getPostsByCategory,
+  getVistas,
   featuredImageUrl,
   etiquetaVisible,
   SLUG_CAT_DESTACADAS,
@@ -214,25 +217,6 @@ function SeccionGrilla({ posts }: { posts: WpPost[] }) {
   );
 }
 
-function MasLeidas({ posts }: { posts: WpPost[] }) {
-  if (posts.length === 0) return null;
-  return (
-    <aside className="border-t-2 border-accent pt-2">
-      <h2 className="kicker kicker-accent">Lo más leído</h2>
-      <ol className="mt-3">
-        {posts.slice(0, 5).map((post, i) => (
-          <li key={post.id} className="flex gap-3 border-t border-neutral-300 py-3 first:border-t-0">
-            <span className="font-headline text-2xl font-bold text-neutral-300">{i + 1}</span>
-            <Link href={`/nota/${post.slug}`} className="group block">
-              <Titular post={post} tamaño="xs" />
-            </Link>
-          </li>
-        ))}
-      </ol>
-    </aside>
-  );
-}
-
 function BannerNewsletter() {
   return (
     <div className="my-16 border-y border-neutral-900 bg-neutral-900 px-6 py-7 text-center text-white sm:px-12">
@@ -272,7 +256,14 @@ export default async function HomePage() {
   const lead = destacadas[0];
   const columnaIzq = ultimasNoticias.slice(0, 4);
   const columnaDer = ultimasNoticias.slice(4, 8);
-  const masLeidas = [...ultimasNoticias].reverse().slice(0, 5);
+  // "Lo más leído" por vistas reales cuando existan (ver getVistas en wp.ts
+  // -- hoy siempre devuelve vacío, así que cae al placeholder de reverse():
+  // ver Tendencias.tsx).
+  const vistas = await getVistas(ultimasNoticias.map((p) => p.id));
+  const masLeidas =
+    vistas.size > 0
+      ? [...ultimasNoticias].sort((a, b) => (vistas.get(b.id) ?? 0) - (vistas.get(a.id) ?? 0)).slice(0, 5)
+      : [...ultimasNoticias].reverse().slice(0, 5);
 
   return (
     <>
@@ -331,13 +322,11 @@ export default async function HomePage() {
         <div className="grid grid-cols-1 gap-x-10 lg:grid-cols-[1fr_18rem]">
           <SeccionGrilla posts={otrasNoticias} />
           <div className="mt-16">
-            <MasLeidas posts={masLeidas} />
+            <Tendencias posts={masLeidas} />
           </div>
         </div>
       </main>
-      <footer className="font-ui border-t border-neutral-300 px-4 py-6 text-center text-xs text-neutral-500 sm:px-8">
-        Agencia Entrerriana — Un proyecto editorial de la Fundación para el Desarrollo Entrerriano
-      </footer>
+      <Footer />
     </>
   );
 }
