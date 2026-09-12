@@ -1,0 +1,38 @@
+{
+  "_comentario": "Criterios de depuracion automatica para items 'medios-*' en estado pendiente (ver pipeline/depurar_pendientes_medios.py). Nacen del triage editorial manual del 2026-09-11/12 (boletin + medios) -- cada categoria es un patron de titulo que Francisco ya descarto varias veces con el mismo motivo. Vivo/parametrizable: sumar palabras o categorias nuevas a medida que aparezcan casos reales, mismo criterio que topicos_medios.json. Las palabras se buscan sin distincion de mayusculas ni acentos, como substring con limite de palabra (\\b) sobre el TITULO unicamente -- no sobre texto_original, para no descartar por una mencion de paso en el cuerpo.",
+  "categorias": {
+    "deporte": {
+      "motivo": "Deportes, fuera de alcance tematico del medio.",
+      "palabras": ["futbol", "seleccion", "messi", "scaloni", "karting", "avicultura deportiva", "juegos evita", "juegos deportivos", "campeonato", "torneo de", "handball", "softbol", "basquet", "volley", "atletismo"]
+    },
+    "espectaculo": {
+      "motivo": "Espectaculo/cultura de entretenimiento, fuera de alcance tematico del medio.",
+      "palabras": ["coro", "musica por la paz", "pelicula", "feria de arte", "cine teatro", "encuentro coral", "fiesta patronal", "certamen becario", "festival de", "peña folclorica", "obra teatral"]
+    },
+    "policial_menor": {
+      "motivo": "Nota policial de un caso individual sin trascendencia institucional o economica.",
+      "palabras": ["choque", "choco", "accidente", "avioneta", "rottweiler", "ladron", "atrapado", "secuestraron armas", "recuperaron chapas", "arrebato", "robo con arma"]
+    },
+    "efemeride": {
+      "motivo": "Efemeride/acto protocolar sin dato o anuncio institucional nuevo.",
+      "palabras": ["aniversario", "centenario", "dia mundial", "dia del maestro", "dia de entre rios", "homenaje", "conmemoro", "conmemoracion", "septiembre amarillo"]
+    },
+    "edicto": {
+      "motivo": "Edicto o aviso administrativo republicado, sin sustancia periodistica.",
+      "palabras": ["edicto", "concurso de precios n"]
+    },
+    "nacional_sin_angulo": {
+      "motivo": "Nota de alcance nacional/internacional sin angulo especifico de Entre Rios.",
+      "_nota": "milei y corte suprema se sacaron (2026-09-12): son demasiado anchas, matcheaban notas de politica entrerriana genuinas que solo citaban o mencionaban a Milei/la Corte de paso.",
+      "palabras": ["indec", "inflacion", "mercado pago", "malvinas", "canasta basica nacional"]
+    },
+    "servicio": {
+      "motivo": "Contenido de servicio/agenda (pronostico, calendario, aviso), no noticia institucional.",
+      "palabras": ["lluvias desparejas", "pronostico del tiempo", "miercoles mayores", "movimiento de causas judiciales", "capacitaron a", "cronograma de vacunacion"]
+    },
+    "tramite_sin_resultado": {
+      "motivo": "Relato institucional de una reunion o agenda de trabajo sin anuncio ni resultado concreto.",
+      "palabras": ["avanza en una agenda de trabajo", "agenda de trabajo para fortalecer", "recibio a representantes", "concejo deliberante sesiona"]
+    }
+  }
+}

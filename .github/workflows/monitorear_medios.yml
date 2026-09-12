@@ -26,6 +26,9 @@ jobs:
 
       - run: python pipeline/monitorear_medios.py
 
+      - name: Depurar pendientes de Medios (filtro mecanico + expiracion 48h)
+        run: python pipeline/depurar_pendientes_medios.py
+
       - name: Commit y push si hay novedades
         run: |
           git config user.name "github-actions[bot]"
