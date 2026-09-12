@@ -61,17 +61,21 @@ export default async function NotaPage({ params }: Props) {
   return (
     <>
       <Header />
-      {/* Foto del mismo ancho que la columna de texto -- verificado
-          2026-09-07 en wsj.com/nytimes.com con el navegador: en una nota de
-          noticia dura (no una feature especial), la foto de apertura mide
-          EXACTAMENTE lo mismo que el título y el cuerpo (620px en WSJ,
-          600px en NYT, ambos a 1280px de viewport), nunca más ancha. El
-          contraste de escala con foto a sangre que se ve en WSJ es un
-          tratamiento de feature/aniversario, no el de una nota de wire como
-          las nuestras -- se probó ese ancho más grande acá y se descartó
-          por no corresponder al género real que redactamos. */}
-      <main className="mx-auto w-full max-w-2xl flex-1 px-4 py-10 sm:px-8">
-        <article>
+      <main className="w-full flex-1 px-4 py-10 sm:px-8">
+        {/* Foto del mismo ancho que la columna de texto -- verificado
+            2026-09-07 en wsj.com/nytimes.com con el navegador: en una nota
+            de noticia dura (no una feature especial), la foto de apertura
+            mide EXACTAMENTE lo mismo que el título y el cuerpo (620px en
+            WSJ, 600px en NYT, ambos a 1280px de viewport), nunca más ancha.
+            El contraste de escala con foto a sangre que se ve en WSJ es un
+            tratamiento de feature/aniversario, no el de una nota de wire
+            como las nuestras -- se probó ese ancho más grande acá y se
+            descartó por no corresponder al género real que redactamos. Ese
+            ancho (max-w-2xl) vive ahora en un wrapper propio, separado del
+            <main>: el bloque de abajo (Más noticias + Tendencias) necesita
+            más ancho -- ver comentario ahí. */}
+        <div className="mx-auto max-w-2xl">
+          <article>
           {categoria && <p className="kicker mb-2">{categoria}</p>}
           {/* Tamaño elegido matemáticamente, no a ojo: medido con canvas
               (actualBoundingBoxAscent/Descent) la relación título:cuerpo en
@@ -126,34 +130,53 @@ export default async function NotaPage({ params }: Props) {
             className="mt-6 text-xl leading-[1.5] text-neutral-900 [&_p]:mb-5"
             dangerouslySetInnerHTML={{ __html: post.content.rendered }}
           />
-        </article>
-
-        {/* "Más noticias": verificado 2026-09-12 contra nytimes.com y
-            wsj.com -- en los dos el recomendador va DESPUÉS del cuerpo,
-            nunca antes ni interrumpiendo la lectura. Prioriza notas del
-            mismo tema (getPostsRelacionados en wp.ts) antes que simplemente
-            "lo más nuevo", y no se muestra si no hay ninguna nota más para
-            ofrecer (sitio recién arrancado). */}
-        {relacionadas.length > 0 && (
-          <section className="mt-16 border-t border-neutral-300 pt-8">
-            <p className="kicker border-b-2 border-neutral-900 pb-1.5">Más noticias</p>
-            <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-3">
-              {relacionadas.map((p) => (
-                <TarjetaRelacionada key={p.id} post={p} />
-              ))}
-            </div>
-          </section>
-        )}
-
-        {/* "Tendencias": lo más leído del sitio entero, no de esta nota --
-            ver getTendencias en wp.ts. Es la pieza que falta del pie de NYT
-            (el "Trending in The Times") que sí podíamos construir ya, sin
-            páginas nuevas. Lo que queda pendiente de ese mismo pie es el
-            "Site Index" (sitemap por sección) -- necesita que existan
-            páginas de sección por tema primero, hoy no existen. */}
-        <div className="mt-10 max-w-sm">
-          <Tendencias posts={tendencias} titulo="Tendencias" />
+          </article>
         </div>
+
+        {/* Bloque de abajo (Más noticias + Tendencias): ancho mayor que el
+            artículo A PROPÓSITO, verificado 2026-09-12 contra nytimes.com y
+            elpais.com -- los dos reservan más marco de página que el ancho
+            de lectura y lo usan recién acá, nunca antes (durante la lectura
+            ese margen extra queda en blanco en los dos sitios, no es
+            desperdicio, es cómo se ve un diario grande). "Más noticias" se
+            queda en el mismo ancho que el artículo (42rem/672px) -- así lo
+            hace elpais.com ("Más información" mide lo mismo que su columna
+            de texto, a diferencia de nytimes.com que sí lo ensancha--
+            replicamos la versión más conservadora). "Tendencias" pasa a un
+            rail de 18rem/288px al lado, el mismo ancho que ya usa
+            SeccionGrilla+Tendencias en la portada (page.tsx) -- no es un
+            ancho nuevo, es el mismo patrón ya probado ahí. */}
+        {(relacionadas.length > 0 || tendencias.length > 0) && (
+          <div className="mx-auto mt-16 max-w-[62.5rem] border-t border-neutral-300 pt-8">
+            <div className="grid grid-cols-1 gap-x-10 gap-y-10 lg:grid-cols-[42rem_18rem]">
+              {/* "Más noticias": verificado 2026-09-12 contra nytimes.com y
+                  wsj.com -- en los dos el recomendador va DESPUÉS del cuerpo,
+                  nunca antes ni interrumpiendo la lectura. Prioriza notas
+                  del mismo tema (getPostsRelacionados en wp.ts) antes que
+                  simplemente "lo más nuevo", y no se muestra si no hay
+                  ninguna nota más para ofrecer (sitio recién arrancado). */}
+              {relacionadas.length > 0 && (
+                <section className="max-w-2xl">
+                  <p className="kicker border-b-2 border-neutral-900 pb-1.5">Más noticias</p>
+                  <div className="mt-6 grid grid-cols-1 gap-8 sm:grid-cols-3">
+                    {relacionadas.map((p) => (
+                      <TarjetaRelacionada key={p.id} post={p} />
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* "Tendencias": lo más leído del sitio entero, no de esta
+                  nota -- ver getTendencias en wp.ts. Es la pieza que falta
+                  del pie de NYT/El País ("Trending in The Times"/"Lo más
+                  visto") que sí podíamos construir ya, sin páginas nuevas.
+                  Lo que queda pendiente es el "Site Index" (sitemap por
+                  sección) -- necesita que existan páginas de sección por
+                  tema primero, hoy no existen. */}
+              <Tendencias posts={tendencias} titulo="Tendencias" />
+            </div>
+          </div>
+        )}
       </main>
       <Footer />
     </>
