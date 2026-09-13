@@ -25,12 +25,26 @@ de la Cuenta General del Ejercicio (el control general y periodico sobre
 las cuentas del Estado provincial) -- todos estan listados de forma
 estatica en `novedades.html`, con link directo a un PDF.
 
-Que NO cubre esto (limite conocido, no resuelto): las auditorias
-ESPECIALES puntuales (ej. la de comedores comunitarios de Paraná,
-2026-09-11 -- ver docs/temas-a-seguir.md) no aparecen en esta pagina bajo
-ninguna de las tres categorias de arriba. Si el TCER las publica en algun
-otro lugar del sitio, no se encontro en esta pasada -- seguimos
-dependiendo de que algun medio la cubra para enterarnos, igual que antes.
+Que NO cubre esto (limite conocido, PARCIALMENTE resuelto 2026-09-13):
+las auditorias ESPECIALES puntuales (ej. la de comedores comunitarios de
+Paraná, 2026-09-11 -- ver docs/temas-a-seguir.md) no aparecen en
+novedades.html. Si terminan en una Resolucion del TCER, esas SI son
+buscables en `https://tcer.gob.ar/scripts/normativa/buscar` (mismo sitio,
+pagina normativa.html, sin RSS ni feed cronologico, pero con una API de
+busqueda por tipo/anio/palabra clave encontrada inspeccionando la red del
+navegador) -- confirmado con un precedente real: una Resolucion de 2021
+sobre subsidios a comedores comunitarios de Concordia aparece con la
+palabra clave "comedores". PERO ese endpoint sin filtro devuelve **255
+resultados solo para 2026** -- la inmensa mayoria son resoluciones
+administrativas rutinarias (aprobando/observando una rendicion de
+cuentas puntual), el mismo tipo de ruido que ya se filtro para el
+Boletin Oficial (ver docs/boletin-oficial-proceso.md). Ingerir todo ese
+stream sin filtro re-crearia ese problema a proposito evitado -- no se
+hizo. En su lugar, `buscar_comedores_comunitarios()` mas abajo repite
+puntualmente la busqueda por la palabra clave del caso que se esta
+siguiendo, sin traer el resto del stream. Si en algun momento se decide
+seguir la normativa del TCER en general, hace falta antes disenar un
+filtro dedicado (mismo espiritu que el del Boletin), no ingerir todo.
 
 Mecanismo: `novedades.html` no tiene una fecha de publicacion propia por
 documento (es una pagina de categorias, no un feed cronologico) -- se usa
@@ -146,6 +160,61 @@ def item_backlog_desde_documento(doc: dict) -> dict:
     }
 
 
+NORMATIVA_BUSCAR_URL = "https://tcer.gob.ar/scripts/normativa/buscar"
+
+# Busquedas puntuales activas -- cada una es un caso concreto que se esta
+# siguiendo (ver docs/temas-a-seguir.md), NO un intento de cubrir toda la
+# normativa del TCER (ver nota del docstring sobre el ruido de los 255
+# resultados/anio sin filtro). Agregar una entrada aca cuando aparezca un
+# caso puntual nuevo que valga la pena vigilar asi; sacarla cuando el caso
+# se resuelva o se descarte.
+BUSQUEDAS_PUNTUALES = {
+    "comedores comunitarios": "Auditoría de comedores comunitarios (ver docs/temas-a-seguir.md, 2026-09-13)",
+}
+
+
+def buscar_normativa(keyword: str) -> list[dict]:
+    """Resultados de /scripts/normativa/buscar para una palabra clave puntual.
+
+    Endpoint encontrado inspeccionando la pestaña de red del navegador al
+    usar el buscador de normativa.html (no documentado, no tiene RSS/API
+    formal) -- devuelve HTML con una tabla, no JSON.
+    """
+    resp = requests.get(
+        NORMATIVA_BUSCAR_URL,
+        params={"normativaTipo": "", "normativaAnio": "", "normativaKeyword": keyword},
+        headers=HEADERS,
+        timeout=30,
+    )
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    resultados = []
+    for row in soup.select("tbody tr"):
+        celdas = row.find_all("td")
+        if len(celdas) < 4:
+            continue
+        tipo = celdas[0].get_text(strip=True)
+        numero = celdas[1].get_text(strip=True)
+        anio = celdas[2].get_text(strip=True)
+        link_tag = celdas[3].find("a", href=True)
+        if not link_tag:
+            continue
+        href = link_tag["href"]
+        # El sitio tiene un bug conocido (2026-09-13) que a veces deja
+        # "Tipo"/"Numero"/"Año" en 0 y filtra un warning de PHP dentro del
+        # data-title -- se ignoran esos resultados rotos en vez de cargar
+        # basura a la cablera (ver PDFs de ejemplo, dieron 404/HTML en vez
+        # de PDF real).
+        if tipo in ("0", "") or numero == "0":
+            continue
+        resultados.append({
+            "titulo": f"{tipo} N° {numero}/{anio}".strip(),
+            "href": href,
+        })
+    return resultados
+
+
 def main() -> None:
     print(f"Consultando {NOVEDADES_URL} ...")
     try:
@@ -153,6 +222,15 @@ def main() -> None:
     except requests.RequestException as e:
         print(f"No se pudo consultar el sitio: {e}")
         sys.exit(1)
+
+    for keyword, motivo in BUSQUEDAS_PUNTUALES.items():
+        print(f"Buscando normativa por '{keyword}' ({motivo}) ...")
+        try:
+            for r in buscar_normativa(keyword):
+                r["titulo"] = f"{r['titulo']} — {motivo}"
+                documentos.append(r)
+        except requests.RequestException as e:
+            print(f"  No se pudo buscar '{keyword}': {e}")
 
     if not documentos:
         print("No se encontro ningun documento en la pagina -- revisar si cambio la estructura del sitio.")
