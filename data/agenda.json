@@ -22,6 +22,17 @@
     "estado": "pendiente"
   },
   {
+    "id": "senado-er-comision-seguimiento-deuda-publica-2026-09-16",
+    "fecha": "2026-09-16",
+    "evento": "Reunión conjunta de las comisiones de Presupuesto y Hacienda y de Legislación General del Senado de ER para tratar el expediente N° 28.737 (crea una Comisión Permanente de Seguimiento de la Deuda Pública)",
+    "tipo": "trámite en comisión",
+    "fuente": "El Heraldo / AIM Digital (cobertura de medios, sin comunicado propio del Senado en la cablera)",
+    "origen_id": "medios-el-heraldo-el-senado-avanza-con-el-proyecto-de-seguimiento-de-la-deuda-publica-entrerriana",
+    "detalle": "Descartado como nota propia el 2026-09-13 por no tener ningún elemento de conflicto/controversia todavía (es la entrada a comisión, sin oposición citada) -- revisar si sale de comisión con dictamen o genera algún cruce.",
+    "agregado_el": "2026-09-13T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "senado-er-expediente-26785-transparencia-etica-publica",
     "fecha": null,
     "evento": "Tratamiento del expediente N° 26.785 (transparencia y ética pública) en el Senado de ER",
