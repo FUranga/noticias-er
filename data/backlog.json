@@ -11617,5 +11617,416 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-ba3a7037eb35",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Entre Ríos avanza en la capacitación para el uso del fuego como herramienta de gestión ambiental",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TZXZocVBhakFMekhsbFZHbFJaaGtuc3lZWmVZTUU4NjlyX1FqbWE5NTJIbGt3TWRoNFFSVWx5VVp1Q1lFMVRyMXhsOVJFd3h2UVpLc2swZE5OQQ?oc=5",
+    "texto_original": "Entre Ríos avanza en la capacitación para el uso del fuego como herramienta de gestión ambiental\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T16:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8476e0ab736e",
+    "fuente": "Diario El Argentino",
+    "titulo": "Proyectos educativos de Entre Ríos fueron seleccionados para participar en la Feria Nacional de Educación durante octubre y noviembre",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPYmxwbjc1dW9WYkI4bmJ0bnEzeDRFdDVCTWdzQndoR2loQldaNHI5eVkwNDJuWUxqUjFSUC1VeFVyOVZ0a2FVSVNETWRSU1ZZMGdPMnZIM3FUNG1qM25abHZidWhuMUNFcnpzNEJVT25teHcwTUg1NVkxd3ZBZlJNT2lNamhtbmxCUWJNV2hpZmVidXc4VkJObGR6UnhRSVNXcU9JZWM4MVZFV0V0TEdrY1J3OWNnT3RRQjdyRVlrVEdxLVVjWnRTVnNKX3dEa0NBdmRXZm8xcTdMVUJDd1U2RkJ0UVRGMG1yWlktSlZhdGdQanhmUXI4bVRROXlHTU5od0EtVUs1MUXSAYACQVVfeXFMTlpxeTlEUlJTZXlpX0JVUTllSGxPLVdsVVlITFVVTEZfQjRNNGFGTzNHVTJlZUJ2d051NkZmMldoR1FpcmR3Wm9KcFl4R0dKZ0VPMEtZM3B0YWI4eFFOX0tzbkhtZ3VxeWdndGxzVVh4Tkdic2x3QV9QQk16ZXMyMG9YRlV2RUJTUWVHQ05ORy1jWjFad1RCc29kRXNDUnp0dUZSNDQ0RlJxUml2dF8zekNuSm1ndXdfUGhvaWZONFBacVV1Yk11NmVEZEY1MmhHelJiTmNoNUgybXREempwTnFCbk56WENtZEFCZjUySGVGS3c0S0pRcmlqWUY2dGxyWQ?oc=5",
+    "texto_original": "Proyectos educativos de Entre Ríos fueron seleccionados para participar en la Feria Nacional de Educación durante octubre y noviembre\n  \nDiario El Argentino",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-13T16:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Deportes, fuera de alcance tematico del medio. (automático)",
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-0ec08ee0b311",
+    "fuente": "Elentrerios.com",
+    "titulo": "Designan a una entrerriana en la Justicia Nacional",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW1Dam0wYm1PYXhCZ2w1cEZkWGRzMm16aDc3MWVOVUxvYkRtaHJTZ2J6WjNZNVZpMHZYY1BiMGVfT1dRbktlamo3ZVJzT3ZXLWJMY2RPNjVBR0dseUFoUTl5RDdjTTBUZ0pVSjJINFZ3UTN1ZGZXelIyNEtCWVZjeldobkxkMHJsR0tFVTUzVdIBjwFBVV95cUxNdW1Dam0wYm1PYXhCZ2w1cEZkWGRzMm16aDc3MWVOVUxvYkRtaHJTZ2J6WjNZNVZpMHZYY1BiMGVfT1dRbktlamo3ZVJzT3ZXLWJMY2RPNjVBR0dseUFoUTl5RDdjTTBUZ0pVSjJINFZ3UTN1ZGZXelIyNEtCWVZjeldobkxkMHJsR0tFVTUzVQ?oc=5",
+    "texto_original": "Designan a una entrerriana en la Justicia Nacional\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T16:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b7495fb07563",
+    "fuente": "unoentrerios.com.ar",
+    "titulo": "Transporte público: la Provincia incorporó nuevos trámites digitales en la plataforma Mi Entre Ríos",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUJsMVU2YXRSenVGcFNTbzJFQWVHX0FGOEV0ZWJNNzdHbTlEVW54Nk9TRjJlSkZXWW54QjFFVDF6dE1kNlJqbkpUVFlqcVc2SHlEX3BfTlowMEJ0OHhaQi01WGxJTDQ2RGljUHpHNlRxYVVpOWVFVXZfZDJacDVnSWdDZ3pKZVNGeGxkakpUVzFnTFJVajlFd2dWczFYNjQtOUdzdTNaSkszVThkVUE0TkVEUng0Z3NNQ2doLTI1SkRZNE1PQ09QbHk0Qkh2RlVvc2drX2Q2ejFCcmQzaVZLc3E1SdIB6AFBVV95cUxQbk9nY0x2OEIwWi1nQzRjZTRvVndXUG4wanlJRm85NmNBV0d6MDFfNUp2TzFRNk1uc2REZTg4cHNkc0d0Zzh1ZmlXVjNtdU1BTXJPQWRBbWdpM1hoTTFyYXd5SUlGRG9DeDhvQzBiM1B1bTcwczR1QktSSUdkTGhZTGxXU0lkcVNrZ3lPM0lqSVlpN1V3WG5IVENWVU1WUXBRd0dfWE04SS1KaV90SzBubWJLSGFMQnZhRUdJQ2QyVjVtak0yODNPOXROY0FfQkZTdnNmV0hJeDd5aWFfeG03UktxWnc3eXkx?oc=5",
+    "texto_original": "Transporte público: la Provincia incorporó nuevos trámites digitales en la plataforma Mi Entre Ríos\n  \nunoentrerios.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T16:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-3ccba94cd693",
+    "fuente": "APFDigital",
+    "titulo": "La llegada del TCR South América a Concordia potencia el turismo y la economía en la región",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWFlzU1FrOW13bGx3TVFWcXc3dXN4LUx4ejVkQXZZTDktWFlFU19VOXJBM3M5RDE2VUZpQmtBVXNvV21HSWxDUmFMa0l3ZENZd2hZX0RMNDcyUTRvQ016d080TzFjVm5zOE54Y3p2alc0ZFVPdW8wTXlrWTVxWUxSNE51dkFYVzl2Nld2RklaV3I4TE9SaXR6azlfaGlQZjk3aC1id1E0QW1uNHhRZ09PR1NjaGJaZXlQdkRnRl9BM2dXVlB2ZXJSUnBhTmUtMnhxMnhCeERxcTB0dFNGYnVnVXRB0gHnAUFVX3lxTE1URDJrdnZVZEFnRFJrd2VlcVJYd19QdFhpc2xZMXF5cHhiaGYycWhjaUVJaXBDY0oxekFMR3pvSGVPUGRCc2hjRWktUDNuOGFLS3RfejNPNzJ6TTBGaFQ4Mmc2TTB3UkFZZ1NxVmRQSmF2aFNjbjlFQmRBeUs2N0lPLU94UUgtMU9YWVBoV1Fjak5YR2xhcFhMUlZGUEE2RjctZWg3eEctWGpETDc4b0NRT1dtTHlnUzF5MlMwdUZiQV9XdFhFai1WNFhMMmpQd2tfSFdqUGJqNU1tenVjT1QzYmo5a0RkYw?oc=5",
+    "texto_original": "La llegada del TCR South América a Concordia potencia el turismo y la economía en la región\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T16:59:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-uno-entre-rios-gn-acdf6d3415c2",
+    "fuente": "unoentrerios.com.ar",
+    "titulo": "Una mujer de Concepción del Uruguay fue engañada con falsas inversiones y perdió más de 64.000 dólares",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV0liak9ILTctQ0lMV1hnaG5KNHZNejdCUEZWOUZlbHhfaWVJSG44TmpDV2lJbk9BeERDQ2VVRW9FcHVDU2Q3d01uQlVYbm5YUUNYWW84UmdtR0hlVTVUQUo2THR1ZE40MVNodmFKbUxsdTVKOWExT2NTczBVVkxYZE5Dalk5NWxiZzNfVWViTzVXZHdhdnAwSmduUzJ3RXBuU2c1RXJHSHNEQlFpYzl4d0NoalhSaHlybDhjWjdLempYZWsxbFplSGl3MW1YNHh0b1g5S3ZRWkVJRzVnMnpVVWFLVdIB6AFBVV95cUxQSThrSzNfMXB1N09CX3c3RU1fS1RDN1loei1XQ3R3a0tDcnVzVmY4TkhCUmI1dnlqeHlJVnpuOUZMN2RwWTN0aVZKWTNyZ3NGQ2N2UHFtRktwbEMwTElGOVEzQ0lMUWlFdHE0bmpqaV9lS3Z6TlVGcVFEa1RZblN3TWtKSENHTXFSZDlMcGcycTEwV2xrTWdJQ2RMX2MyQkdVeE85dDJrM0hycVA3Q0M3S1lROGI5TGtvTTdoTzRrUFBMcDhDNHh0OFBBaEd3em9yQU05WGYxd1duMXhCcTVBOVVfRDNHaXha?oc=5",
+    "texto_original": "Una mujer de Concepción del Uruguay fue engañada con falsas inversiones y perdió más de 64.000 dólares\n  \nunoentrerios.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T16:59:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-caminata-4",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Caminata",
+    "fecha": "2026-09-13",
+    "link": "https://entreriosahora.com/caminata-4/",
+    "texto_original": "Caminata por la vida: los vecinos se sumaron para generar conciencia sobre la prevención del suicidio.  La actividad fue abierta a toda la comunidad, en el marco de la Semana de la Prevención del Suicidio. La caminata por la Costanera fue una acción para visibilizar la problemática y se realizó en articulación entre el Colegio de Psicólogos de Entre Ríos y la Municipalidad de Paraná. Bajo el lema “Nadie tiene que atravesarlo solo. Escuchar, acompañar y prevenir nos une”, la iniciativa buscó transformar el espacio público en un lugar de encuentro para visibilizar la importancia de hablar sobre el sufrimiento emocional y fortalecer las redes de acompañamiento. La caminata partió desde la plaza de las Colectividades, pasó por el anfiteatro —donde se plantó un árbol— y retornó nuevamente al punto de partida. La secretaria de Salud de la Municipalidad, Claudia Enrique, subrayó el acompañamiento del Estado local: “Desde la Municipalidad acompañamos esta actividad organizada por el Colegio de Psicólogos. Es una problemática que nos interpela y nos compromete a todos a hacer algo”. Luego, se refirió a las acciones que el Municipio despliega en toda la ciudad: “Ponemos todos los recursos para la atención psicológica en los seis Centros de Atención Primaria de la Salud (CAPS), el acompañamiento a juventudes que se hace en los Centros de Integración Comunitaria (CIC) Este y Oeste, la atención al empleado municipal, como así también el Dispositivo Territorial Comunitario destinado a consumos problemáticos”, enumeró. El presidente del Colegio de Psicólogos, Octavio Filipuzzi, agradeció al Estado local y a las organizaciones participantes: “Esto no hubiese sido posible sin la estructura logística del Municipio, estamos muy contentos por la convocatoria”. Luego, puso en relieve la importancia del trabajo: “Estamos obligados a redoblar los esfuerzos; el suicidio es una problemática multicausal que requiere involucrarnos a todos”.\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T16:59:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "comercio",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-30663316cbfe",
+    "fuente": "AIM Digital",
+    "titulo": "Entre Ríos avanza en la capacitación para el uso del fuego como herramienta de gestión ambiental",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRl83M0ZGUTRQeXUwY3pmdWNoNkdnd2wwcDJfbTJ5UzRhaXlycjJ1SFlFenhTc0M1QmxaLWZMXzVpVEtGbmV0QWlMNy1mQ2FRaGVMb3RWUXdxOURfTDNpU2V3UG1uczFDQzkxZW1Fd1ZVaS1zUWUzY1BqaW9Xc3VMdHQ3emVIT204WGFpUktyWnVyU0FIME1xVFBfNjNRYXNvS2VDUzkzUEdRbWlkUXJJaFd1TFMzWkFaejd0Qi1UWmk1Ql96SkJYNkQ3YkRHQmFrWVVISUZtTQ?oc=5",
+    "texto_original": "Entre Ríos avanza en la capacitación para el uso del fuego como herramienta de gestión ambiental\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-aim-digital-gn-104792d5fd22",
+    "fuente": "AIM Digital",
+    "titulo": "La masonería y su influencia política en la construcción de Entre Ríos",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDRoQlRpODByS2tCaXl1Ymx2aUl3V18zS3dyX0VtblNGa2VPeHdXVzd0aVdxS1Nfc19UbDdSZE52dWRETHNRWXA5dnhJLXpTNW9iUEh1bmRCbGp0c0VHb1pqWUZOUHcwclZHUjVfeGxHdHpuam9nQm1keDVvTjJRV3NOYjRkMG9LVUpmOHY3aDNNeFNxRFZaUmdnRktZQUUtMENWb0VnMHFsMzVVSWc?oc=5",
+    "texto_original": "La masonería y su influencia política en la construcción de Entre Ríos\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-73-equipos-se-midieron-en-la-fiesta-provincial-de-pesca-en-el-parana",
+    "fuente": "LT15 Concordia",
+    "titulo": "73 equipos se midieron en la Fiesta Provincial de Pesca en el Paraná",
+    "fecha": "2026-09-13",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/13/73-equipos-se-midieron-en-la-fiesta-provincial-de-pesca-en-el-parana/",
+    "texto_original": "El río \nParaná\n fue el escenario este domingo de una de las competencias de pesca más convocantes del calendario provincial: la \nFiesta Provincial de Pesca Variada\n, que reunió a \n73 equipos\n en una jornada que combinó destreza, paciencia y la adrenalina propia de las grandes citas deportivas en el agua.\n\nLa modalidad elegida fue la \npesca con devolución\n, una práctica que viene ganando terreno en los torneos federados porque cuida el recurso ictícola sin resignar la competencia. Los participantes midieron sus habilidades bajo esa regla, lo que pone en valor tanto la técnica como el compromiso con el ambiente.\n\nLa convocatoria superó las fronteras provinciales: además de las delegaciones \nentrerrianas\n, se sumaron equipos provenientes de \nSanta Fe\n, lo que le dio a la fiesta un carácter interprovincial y elevó el nivel general de la competencia. La premiación alcanzó a los \n15 mejores equipos\n clasificados, un reconocimiento amplio que valoró el desempeño de un buen número de participantes.\n\nLa pesca deportiva en el Paraná tiene una tradición que no necesita presentación: el río es generoso, la cultura del pescador entrerriano es profunda, y eventos como este son una forma concreta de sostener esa identidad colectiva con reglas claras y respeto por el ecosistema. Una jornada que, más allá del podio, dejó río adentro lo mejor de la temporada.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-ratificaron-la-condena-por-la-muerte-de-valentina-diaz-en-concordia",
+    "fuente": "LT15 Concordia",
+    "titulo": "Ratificaron la condena por la muerte de Valentina Díaz en Concordia",
+    "fecha": "2026-09-13",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/13/ratificaron-la-condena-por-la-muerte-de-valentina-diaz-en-concordia/",
+    "texto_original": "La justicia volvió a decir lo mismo: \nDemián Ferrari\n es culpable. La \nCámara de Casación Penal de Concordia\n rechazó el recurso que presentó su defensa y ratificó la condena de \n3 años y 8 meses de prisión\n por la muerte de \nValentina Díaz\n, la joven que viajaba con él aquella noche en que todo terminó contra un árbol.\n\nEl fallo confirma los cargos por \nhomicidio culposo\n y \nprivación ilegítima de la libertad\n. Ferrari conducía \nalcoholizado\n cuando perdió el control del vehículo y chocó. Valentina no sobrevivió. Él sí. Y desde entonces, el proceso judicial fue el único camino que la familia de la víctima tuvo para buscar alguna forma de justicia.\n\nLa defensa intentó revertir la condena ante la Cámara de Casación, pero el tribunal no encontró motivos para apartarse del fallo original. La decisión no es definitiva: el fallo \naún puede ser recurrido\n ante instancias superiores, lo que significa que la historia judicial de este caso todavía no cerró del todo.\n\nLo que sí quedó claro, una vez más, es el peso de una decisión al volante bajo los efectos del alcohol. Una vida que no volvió, una familia que carga con esa ausencia, y una condena que la Justicia entrerriana se negó a desarmar.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-droga-como-pago-procesaron-a-dos-acusados-de-vender-cocaina-a-cosecheros-en-conc",
+    "fuente": "LT15 Concordia",
+    "titulo": "Droga como pago: procesaron a dos acusados de vender cocaína a cosecheros en Concordia",
+    "fecha": "2026-09-13",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/13/droga-como-pago-procesaron-a-dos-acusados-de-vender-cocaina-a-cosecheros-en-conc/",
+    "texto_original": "Pagar el jornal con cocaína. Esa es la hipótesis que la \nJusticia Federal de Concordia\n investiga con creciente solidez y que derivó esta semana en un paso judicial concreto: el procesamiento con prisión preventiva de \nSabrina Núñez\n y \nMatías Salina\n, acusados de comercializar estupefacientes en el marco de la cosecha citrícola de la región.\n\nLa resolución fue dictada por la \njueza federal Analía Ramponi\n, quien consideró que el cuadro probatorio reunido hasta el momento es suficiente para atribuirles, con el grado de probabilidad propio de esta etapa del proceso, el delito de \ncomercio de estupefacientes\n previsto en el artículo 5, inciso “c”, de la \nLey 23.737\n. La causa es impulsada por el \nfiscal federal Francisco Bernhardt\n y cuenta con el trabajo de campo de la \nDivisión Unidad Operativa Federal Concordia de la Policía Federal Argentina\n.\n\nLa investigación arrancó sobre personas vinculadas al traslado de cosecheros desde \nConcordia\n hacia establecimientos citrícolas de distintas localidades de la región. En ese circuito, los investigadores comenzaron a detectar indicios de una presunta comercialización de cocaína entre trabajadores rurales temporarios. Lo que más peso tomó en el expediente fue la hipótesis de que la droga habría funcionado, en algunos casos, como \nmodalidad de pago por las tareas de cosecha\n: una forma de retribución que, si se confirma, habla de un nivel de vulnerabilidad y sometimiento difícil de dimensionar.\n\nPara sostener esa línea, los investigadores realizaron tareas de campo, recibieron \ndeclaraciones testimoniales\n y ejecutaron \nintervenciones telefónicas autorizadas judicialmente\n. Esas medidas derivaron en allanamientos y requisas donde fueron secuestrados \ndecenas de envoltorios con cocaína\n, según surge de la resolución judicial.\n\nCon ese material, la jueza Ramponi no solo procesó a los dos imputados sino que también dispuso mantenerlos bajo \nprisión preventiva\n. Ambos están alojados en la \nUnidad Penal 9 de Gualeguaychú\n y permanecen a disposición de la Justicia Federal. Además, la magistrada ordenó \nembargos por más de cinco millones de pesos\n sobre los bienes de cada uno de los procesados.\n\nLa causa tiene una dimensión que va más allá del narcotráfico en sí: pone el foco en un sector de trabajadores temporarios que, por su propia precariedad, quedan expuestos a dinámicas de explotación que el sistema formal no siempre alcanza a ver. La investigación continúa abierta y la Justicia deberá determinar con mayor precisión el alcance real de la operatoria a medida que el expediente avance.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "comercio",
+      "agro",
+      "impuestos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia",
+      "gualeguaychú",
+      "gualeguay",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-detuvieron-a-una-mujer-por-desobediencia-judicial-en-diamante",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Detuvieron a una mujer por desobediencia judicial en Diamante",
+    "fecha": "2026-09-13",
+    "link": "https://blancaciudadnoticias.com.ar/detuvieron-a-una-mujer-por-desobediencia-judicial-en-diamante/",
+    "texto_original": "Una mujer de \n32 años fue detenida durante un procedimiento policial en Diamante\n, luego de que fuera encontrada frente a un domicilio pese a contar con medidas judiciales de protección vigentes.\n\nSegún informó la \nJefatura Departamental Diamante\n, personal del Comando Radioeléctrico se encontraba realizando tareas de prevención en distintos barrios de la ciudad cuando recibió un aviso sobre una mujer que estaría \nmolestando e insultando a moradores frente a una vivienda\n.\n\nAl llegar al lugar, los efectivos constataron la presencia de la mujer y verificaron que sobre ella pesaban \nmedidas judiciales de protección dispuestas por el Juzgado de Familia de Diamante\n.\n\nAnte esta situación, se puso en conocimiento al \nMinisterio Público Fiscal en turno\n, desde donde se dispuso la inmediata detención de la mujer por el supuesto delito de \nDesobediencia Judicial en Flagrancia\n.\n\nPosteriormente, fue trasladada y alojada en la \nAlcaidía de la Jefatura Departamental Diamante\n, donde quedó a disposición de la Justicia.\n\nLas actuaciones continúan conforme a los pasos procesales correspondientes.\n\nBCN Noticias\n sigue informando sobre los hechos policiales registrados en Diamante y la región.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-detuvieron-a-un-joven-tras-agredir-a-otro-y-atacar-a-policias-en-general-racedo",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Detuvieron a un joven tras agredir a otro y atacar a policías en General Racedo",
+    "fecha": "2026-09-13",
+    "link": "https://blancaciudadnoticias.com.ar/detuvieron-a-un-joven-tras-agredir-a-otro-y-atacar-a-policias-en-general-racedo/",
+    "texto_original": "Un operativo policial terminó con la \ndetención de un joven de 25 años\n, domiciliado en Crespo, durante la madrugada de este domingo en la localidad de General Racedo.\n\nSegún informó la \nJefatura Departamental Diamante\n, personal de la Comisaría de General Racedo se encontraba realizando tareas preventivas cuando debió intervenir ante un altercado registrado en un local bailable de la jurisdicción.\n\nDe acuerdo con el informe policial, los efectivos lograron controlar la situación que había sido protagonizada por un joven que se encontraba \nagrediendo a otro concurrente\n.\n\nSiempre según la información oficial, durante la intervención el joven también habría ejercido \nviolencia física contra el personal policial\n, por lo que fue inmediatamente aprehendido.\n\nTras tomar conocimiento de lo ocurrido, la \nFiscalía en turno dispuso su detención\n por los delitos de \nResistencia a la Autoridad y Lesiones\n.\n\nEl detenido fue trasladado y alojado en la \nAlcaidía de la Jefatura Departamental Diamante\n, mientras continúan las actuaciones correspondientes.\n\nDesde \nBCN Noticias\n seguimos informando sobre los hechos policiales registrados en Diamante y las localidades de la región.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "diamante",
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-racing-va-por-la-recuperacion-ante-bh-de-gualeguay-esta-noche-en-el-antonio-giusto",
+    "fuente": "El Día Online",
+    "titulo": "Racing va por la recuperación ante BH de Gualeguay esta noche en el \"Antonio Giusto\"",
+    "fecha": "2026-09-13",
+    "link": "https://www.eldiaonline.com/racing-va-por-la-recuperacion-ante-bh-de-gualeguay-esta-noche-en-el-antonio-giusto",
+    "texto_original": "Tras caer el viernes como visitante ante Atlético Tala y cortar una racha de tres victorias en fila, Racing recibirá esta noche, desde las 20 horas, a BH de Gualeguay, por la octava jornada de la fase regular de la Liga Provincial de Mayores.\n\nEl equipo de Cristian Delgui viene de tener su producción ofensiva más floja de la temporada en Rosario del Tala, donde apenas anotó 51 puntos, con solo 5 en el segundo y 8 en el tercer capítulo.\n\nEsa labor se contrarrestó con la de su última presentación como local, hace ocho días, cuando había derrotado a Parque Sur por 105-78, con cinco jugadores por encima del doble dígito en puntos.\n\nEn esa condición, Racing cayó en su debut frente a Regatas y luego hilvanó dos victorias. A la mencionada ante Parque Sur se le suma el triunfo ante Luis Luciano (68-65), en aquel momento único líder e invicto de la Zona 2.\n\nPor su parte, BH viene de vencer el viernes como local a Regatas Uruguay por dos puntos y ostenta el mismo récord que La Academia: tres victorias y tres derrotas.\n\nEl conjunto gualeyo tiene entre sus fichas mayores y referentes a dos gualeguaychuenses: el base Laureano Legaria y el polifuncional Manuel Lado.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "gualeguay",
+      "rosario del tala",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-organismos-nacionales-provinciales-y-municipios-se-reuniran-en-gualeguaychu-para-definir-acciones-contra-el-picudo-rojo",
+    "fuente": "El Día Online",
+    "titulo": "Organismos nacionales, provinciales y municipios se reunirán en Gualeguaychú para definir acciones contra el picudo rojo",
+    "fecha": "2026-09-13",
+    "link": "https://www.eldiaonline.com/organismos-nacionales-provinciales-y-municipios-se-reuniran-en-gualeguaychu-para-definir-acciones-contra-el-picudo-rojo",
+    "texto_original": "El próximo 18 de septiembre, la ciudad recibirá a especialistas, productores y funcionarios en una jornada de trabajo enfocada en el abordaje del Picudo Rojo de las Palmeras. La actividad busca coordinar tareas de vigilancia, respuesta rápida y manejo sanitario frente a la presencia de esta plaga en la región.\n\nEl encuentro se llevará a cabo de 9:30 a 14 h en el Teatro del Puerto. La organización está a cargo del SENASA, la Secretaría de Agricultura, Ganadería y Pesca de Entre Ríos, el INTA, la Dirección de Áreas Naturales Protegidas de la provincia, el Parque Nacional El Palmar y la Municipalidad de Gualeguaychú, mediante la Dirección de Espacios Verdes y la Subsecretaría de Ambiente y Seguridad Alimentaria.\n\nDurante la sesión se informará el diagnóstico actualizado en el territorio provincial y los registros de presencia detectados a la fecha. Asimismo, los equipos técnicos del SENASA expondrán los protocolos oficiales de actuación, el Plan de Contingencia específico y la normativa para la tala y disposición final de ejemplares atacados.\n\nLa convocatoria abarca a responsables de áreas ambientales de los departamentos Islas del Ibicuy, Gualeguaychú, Concepción del Uruguay, Colón y Concordia. También están citados administradores de áreas protegidas, responsables de emprendimientos turísticos y rurales, y empresas dedicadas al mantenimiento y tratamiento de palmeras.\n\nDentro del temario se incluye la regulación sobre la aplicación de productos fitosanitarios y las distancias de resguardo vigentes. A su vez, el equipo local presentará las medidas preventivas que se aplican en el ejido urbano. Sobre el cierre, se habilitará una mesa de trabajo entre prestadores de servicios para evaluar la capacidad de respuesta y las herramientas disponibles en la zona.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "municipios",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "gualeguay",
+      "ibicuy",
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-diario-el-argentino-gn-e613dad58385",
+    "fuente": "Diario El Argentino",
+    "titulo": "Fortalecen la capacidad operativa y la infraestructura de la red de emergencias médicas en Entre Ríos",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NfcjY4MjRHaFJqaW9yT3hQanBrLXZwa0JlMjZBcGVJWkhBb0pfQzRnbTZWWUc5Y3otZ29PTVh0X2NmcnJqMmYzQ2JFVTFQMjVRQmtzZ0RLd3VQU0U3WmpwTU91NHpNQ1VLcnFvRXFMeVBSR24yWnBZLThRa3plSjFROXFnbWoxU1hMekloNDFfTnFMeHhPdmdLRDBIcHp1MGxiel9kbmh2MTRCN2x0eVgwcFpXZ1o2YXllQjhUMUxyaFBsOUVRT1VBYlp5cFp6Qk5MRVQ2ckg0UnZqbUHSAdYBQVVfeXFMTkpESzZKNEwtUTFiOVlQN3RyTXNTd3hGLUlfemdNUVBOdXJrZFNkVmloX1ZySWl1ejdhUWtua0UtWUVhaVVLUDUxNFFXYzEydnJOeVNfd2RacjVsLXhFZzNTV0NBZVNla2pYai1CWFdScXlibnRZY3VDY1RtZVo5RXVGTkowbG1sMkJOamtadWlYTmVUb010OVNyUWRQS1NMaEQ0MWRyQjd6U2xkRlJzeFN2Rk1TODJqMGJfRnI1T1dSUDRvTkVmYlh2ZkJJcjJBbzl0ZDdfQQ?oc=5",
+    "texto_original": "Fortalecen la capacidad operativa y la infraestructura de la red de emergencias médicas en Entre Ríos\n  \nDiario El Argentino",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:00:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-la-piramide-gn-61636ce9294c",
+    "fuente": "La Pirámide",
+    "titulo": "Licitación por $450 millones para reparar el CEF N° 3 de Concepción del Uruguay",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTJ2blpjLW1XSTlGMmNtR3F5SktaN2JOR1dIdUJxc0R0NVp4dHpDMEx1OHFYdWUzenp0RTJjRUdMRktLNDU2clE5SVVVY01xTnhFSzZJWXZjOTItX0ZWWnlKN3dQNXhSSk9wcmJEU01BZ2kxLVViVlJ1TktKbERXQk4wZ3g2eWdGa2I1czZ2OHVSUFg2dWNuWVFjQXpLeFpaOFRvQ3RXbC1SYllvelZrWmhSSlp1MU5YMmxlQ0czdFVvc1VVcXBkMzUta1Rvc3Jr0gHQAUFVX3lxTE5VMnZuWmMtbVdJOUYyY21HcXlKS1o3Yk5HV0h1QnFzRHQ1Wnh0ekMwTHU4cVh1ZTN6enRFMmNFR0xGS0s0NTZyUTlJVVVjTXFOeEVLNklZdmM5Mi1fRlZaeUo3d1A1eFJKT3ByYkRTTUFnaTEtVWJWUnVOS0psRFdCTjBneDZ5Z0ZrYjVzNnY4dVJQWDZ1Y25ZUWNBekt4Wlo4VG9DdFdsLVJiWW96VmtaaFJKWnUxTlgybGVDRzN0VW9zVVVxcGQzNS1rVG9zcms?oc=5",
+    "texto_original": "Licitación por $450 millones para reparar el CEF N° 3 de Concepción del Uruguay\n  \nLa Pirámide",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:01:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-concejo-deliberante-aprobaron-crematorio-de-mascotas",
+    "fuente": "Paralelo32",
+    "titulo": "Concejo Deliberante: Aprobaron crematorio de mascotas",
+    "fecha": "2026-09-13",
+    "link": "https://www.paralelo32.com.ar/concejo-deliberante-aprobaron-crematorio-de-mascotas",
+    "texto_original": "Crespo.- En la sesión del miércoles 9 de septiembre, el Concejo Deliberante autorizó la creación de un crematorio de mascotas en un predio aledaño al casco urbano de la ciudad; también, el alquiler de autos eléctricos infantiles en Parque Evita.\nCrematorio de mascotas\nPor unanimidad, los concejales autorizaron por vía de excepción a la Empresa Lindt SRL, el permiso de uso del suelo para desarrollar el proyecto ‘Parque del Recuerdo y Crematorio para pequeños, mediano y grandes animales’, que se ubicará en un predio destinado a zona no urbanizable según el código Urbano de la ciudad, ubicado en el ejido de Crespo, sobre ex ruta provincial Nº 131, camino a General Racedo.\n\nLa empresa de servicios fúnebres de nuestra localidad “busca ofrecer un entorno destinado a preservar la memoria y brindar a las familias un espacio para recordar a quienes formaron parte significativa de sus vidas”, destaca la norma aprobada.\n\nLa firma necesitaba esta ordenanza que le otorga la excepción de uso de suelo para avanzar con la compra del predio, debido a que la decisión de adquirir el terreno y realizar las inversiones necesarias, está directamente vinculada a la factibilidad de su implantación en el lugar propuesto.\nAutos eléctricos infantiles\nTambién se autorizó por vía de excepción a Rita Wagner, por un plazo inicial de seis meses, el permiso de uso para la actividad de alquiler de autos infantiles a batería, por minutos, en el sector del Parque Evita ubicado frente a su comercio Clipo, en Mitre y Urquiza.\n\nEntre los argumentos para aprobar el emprendimiento, se señala que ese sector del Parque Evita tendría, con esa actividad “más ocupación, diversión y color ya que ese sector suele ser un espacio vacío”.  Además, Wagner ofreció al Municipio vehículos para el Área de Tránsito destinados a clases de educación vial gratuitas. Por último se destacó que el proyecto es sustentable, ya que la empresa de la solicitante, Clipo, invirtió en paneles solares hace más de un año. Esto permitió reducir costos y ser usuario generador que inyecta a la red el excedente no utilizado. Los autitos infantiles se cargarían con esa energía renovable.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T17:01:35Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "comercio",
+      "impuestos",
+      "municipios",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "crespo"
+    ]
   }
 ]
