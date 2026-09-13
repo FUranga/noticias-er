@@ -4,7 +4,7 @@ Registro de organismos y organizaciones a monitorear para la cobertura reactiva 
 
 **Estado de esta primera versión**: armada con una pasada de búsqueda web puntual (no un relevamiento exhaustivo). Las URLs marcadas "confirmado por búsqueda" resolvieron en la búsqueda pero no fueron verificadas ítem por ítem con WebFetch (RSS, estructura de la sección de prensa). Todo lo marcado "no confirmado" necesita trabajo manual o una pasada de `mapear-fuentes`. Priorizar desarrollo económico/producción dentro de cada organismo, por el foco inicial del proyecto.
 
-**Índice**: Provincial ([Gobierno](#gobierno-provincial) · [Legislatura](#legislatura-de-entre-ríos) · [Servicios públicos regulados](#servicios-públicos-regulados-y-prestadoras-energía-agua-gas-transporte) · [Órganos de control](#órganos-de-control-transparencia-y-justicia-provincial)) · [Municipal](#municipalidad-de-paraná) ([Concejo Deliberante](#concejo-deliberante-de-paraná)) · [Nacional](#nacional-organismos-con-impacto-en-entre-ríos) · Privado/sindical/académico ([Organizaciones privadas](#organizaciones-privadasempresarias) · [Sindicatos](#sindicatos) · [ONGs y académicas](#ongs-e-instituciones-académicas)) · [Organizaciones vecinales](#organizaciones-vecinales) · [Medios locales](#medios-locales-para-pensar-alianzas-no-para-replicar-cobertura)
+**Índice**: Provincial ([Gobierno](#gobierno-provincial) · [Legislatura](#legislatura-de-entre-ríos) · [Servicios públicos regulados](#servicios-públicos-regulados-y-prestadoras-energía-agua-gas-transporte) · [Órganos de control](#órganos-de-control-transparencia-y-justicia-provincial)) · [Municipal](#municipalidad-de-paraná) ([Concejo Deliberante](#concejo-deliberante-de-paraná)) · [Nacional](#nacional-organismos-con-impacto-en-entre-ríos) · Privado/sindical/académico ([Organizaciones privadas](#organizaciones-privadasempresarias) · [Sindicatos](#sindicatos) · [ONGs y académicas](#ongs-e-instituciones-académicas)) · [Organizaciones vecinales](#organizaciones-vecinales) · [Medios locales](#medios-locales-para-pensar-alianzas-no-para-replicar-cobertura) · [Contactos de prensa para gacetillas](#contactos-de-prensa-para-gacetillas-para-pedir-alta-a-distribución)
 
 ## Gobierno provincial
 
@@ -274,6 +274,49 @@ Entre Ríos tiene 17 departamentos; Paraná ya está cubierta arriba (medios pro
 **Hallazgo técnico**: El Heraldo, El Día Online y Paralelo32 comparten la misma plataforma/API de feeds (`<slug>apiv3.eleco.com.ar/feed-notes`, formato Atom) pese a ser de ciudades y — aparentemente — empresas editoras distintas; si aparece algún otro medio de ER con ese mismo patrón de dominio (`eleco.com.ar`), probablemente use el mismo mecanismo.
 
 **Portales multi-ciudad a tener en cuenta aparte** (no son "el medio local" de ninguna ciudad puntual, cubren varias con sección propia por localidad — no duplicar como si fueran locales de cada una): Uno Entre Ríos, EntreRíosYA, Al Día Entre Ríos, Ahora (todos ya listados arriba como provinciales o mencionados en el mapeo).
+
+## Contactos de prensa para gacetillas (para pedir alta a distribución)
+
+Investigación 2026-09-13 (pedido de Francisco: mapear, para las fuentes de arriba, el contacto de prensa al que pedirle que nos sumen a su lista de distribución de comunicados, y detectar si alguna ya tiene un mecanismo de autoservicio para eso). Corrida como tres forks paralelos (provincial / municipal+nacional / privado-sindical-académico), integrados acá. Regla del proyecto sin excepción: nada de lo de abajo se completó con un dato plausible — "confirmado por WebFetch" significa que se llegó a la fuente misma; "según búsqueda" es de menor confianza (síntesis de WebSearch, no verificado en la fuente); "no encontrado"/"no investigado" queda explícito, nunca vacío por descuido.
+
+**Resultado más importante**: de ~45 organismos/organizaciones relevados, **ninguno tiene un mecanismo de autoservicio real para sumarse a una lista de prensa** (formulario de "acreditación de prensa" o newsletter específico de gacetillas). Lo más cercano encontrado es el newsletter general de CEER y una sección "Recursos para Medios" del Concejo Deliberante de Paraná que no se pudo leer (bloqueada por Cloudflare, ver abajo). Para todo lo demás, la única vía es pedir el alta por mail directamente.
+
+### Contacto confirmado directo en la fuente (WebFetch, mayor confianza)
+
+- **Gobierno de Entre Ríos** — seccomunicacion@entrerios.gov.ar, 0800-555-8500 (ya confirmado antes, ver sección "Gobierno provincial")
+- **Cámara de Senadores de ER** — prensa@senadoer.gob.ar
+- **EPRE** — despacho@epre.gov.ar, (0343) 4207922/23/24 (no hay email de prensa dedicado; `usuarios@epre.gov.ar` es solo para reclamos, no sirve para esto)
+- **Superior Tribunal de Justicia** — mesainfper@jusentrerios.gov.ar, (0343) 4206100 / 0800 444 6372
+- **UADER** — comunicacion@uader.edu.ar (Secretaría de Comunicación)
+- **UNER** — noticias@uner.edu.ar, tel. 03442-421500 (Área de Comunicación Institucional, vía medios.uner.edu.ar — mejor candidato que el contacto general del Rectorado)
+- **Defensoría del Pueblo de Paraná** — defensoriaparana@gmail.com, 0343 4202322 / 0800 777 1112 (sin contacto de prensa diferenciado, usar el general)
+- **Unión Industrial de Entre Ríos (UIER)** — info@uier.org.ar, +54 343 4231152 (hay una persona a cargo de Comunicación y Prensa, Nahuel Amore, sin email directo propio encontrado)
+- **Consejo Empresario de Entre Ríos (CEER)** — formulario en ceer.org/contacto/, (0343) 4236181/4236182 — **tiene sección "Newsletter CEER" visible en el sitio**, el único mecanismo de autoservicio con nombre propio encontrado en todo el relevamiento (no se pudo confirmar el campo de suscripción exacto)
+- **Federación Económica de Entre Ríos (FEDER)** — comunica@federentrerios.com.ar, (0343) 4235243 — email explícitamente de comunicación, el candidato más limpio de toda esta lista
+- **CAMARCO Entre Ríos** — entrerios@camarco.org.ar, (0343) 4222349 (además tiene RSS propio, ya confirmado antes)
+- **Bolsa de Cereales de Entre Ríos** — BolsaCER@BolsaCER.org.ar, +54 (343) 422-0292
+- **Centro Comercial e Industrial de Paraná** — tel. (0343) 4312785 / WhatsApp 343 4575070 (email listado pero ofuscado en el sitio, no confirmado en texto plano)
+- **AGMER, seccional Paraná** — parana@agmer.org.ar, 431-3998 (una búsqueda, no WebFetch, sugirió también "prensa@agmer.org.ar" a nivel central — **no usarlo sin re-verificar**, no se pudo confirmar de forma independiente)
+- **ATSA Entre Ríos** — atsaentrerios@gmail.com, (0343) 4230029
+- **AGDU** (docentes universitarios) — info@agdu.org.ar, (0343) 4320002 — tiene sección de suscripción a notificaciones, pero orientada a afiliados, no a prensa
+- **SADOP Entre Ríos** — info@sadopentrerios.org, (0343) 4233080
+- **Organizaciones vecinales de Gualeguaychú** — comisionesvecinales@gualeguaychu.gov.ar, (03446) 420488 (ya confirmado antes; único caso de esa categoría con contacto de prensa dedicado real)
+
+### Contacto encontrado solo por búsqueda (confianza media, no verificado en la fuente misma)
+
+- **Ministerio de Producción, Turismo y Desarrollo Económico** — ministerioproduccion@entrerios.gov.ar, (0343) 4208892/4208433 int. 8168 (sin contacto de prensa dedicado)
+- **ATER** — consultas@ater.gob.ar, 0810-888-2837 (atención al contribuyente, no prensa dedicada; sus anuncios ya aparecen en el portal general de Gobierno, cubierto por `monitorear_gobierno_er.py` — pedir alta acá es de valor marginal)
+- **Cámara de Diputados de ER** — comunicacionhcder@gmail.com, (0343) 420-8063 (el sitio propio sigue rechazando conexión directa)
+- **Municipalidad de Paraná** — Dirección de Prensa (Daniel Rópolo, tel. 422 6573 int. 1605 / 4236524 int. 1541) y Subsecretaría de Comunicación (Marcela Pautaso, tel. 420 1804 int. 2804) — sin email confirmado, solo teléfonos
+
+### Mecanismo de autoservicio: casos a revisar
+
+- **Concejo Deliberante de Paraná** tiene una sección propia **"Recursos para Medios"** (`hcdparana.gob.ar/recursos-para-medios/`) cuyo nombre sugiere justo esto, pero el dominio está bloqueado por Cloudflare para cualquier cliente automatizado (mismo bloqueo ya documentado para el resto del sitio). **Es la señal más fuerte de todo este relevamiento de que podría haber un mecanismo real** — pendiente de revisión manual desde un navegador.
+- **Diputados Medios** (`medios.hcder.gov.ar`) tiene un formulario de contacto, pero confirmado que es genérico (nombre/email/consulta), no un alta de lista de prensa.
+
+### No investigado esta vuelta (por volumen, no por decisión editorial)
+
+Entes autárquicos provinciales (IAPV, Vialidad/DPV, IAFAS, los 4 puertos, CGE, COPNAF, Caja de Jubilaciones, CAFESG, IOSPER/OSER), Tribunal de Cuentas (se encontró un email de persona individual, se descartó a propósito por no ser un alias institucional confiable), Consejo de la Magistratura, Ministerio Público Fiscal, Tribunal Electoral, Ministerio de Gobierno y Trabajo, Ministerio de Economía/Hacienda, Secretaría de Transporte, CEGSA (sin sitio verificable, ya documentado), ~24 organismos nacionales (INDEC, AGN, ENRE, ENARGAS, CNRT, SIGEN, ANSES, AFIP/ARCA, ENACOM, UIF, BCRA, ORSNA, CONICET, Congreso, etc. — se priorizó UNER por ser el organismo nacional con mayor chance real de gacetillas relevantes al día a día del medio), UPCN, Sindicato de Comercio de Paraná, UOM, UOCRA, SEC Gualeguaychú, CGT Regional, CTA Entre Ríos, CACEPER (sitio caído), Sociedad Rural de Paraná (sin sitio), y organizaciones vecinales fuera de Gualeguaychú. Ninguno se completó con una suposición — pendiente de una segunda pasada dedicada si se decide profundizar.
 
 ## Próximos pasos
 
