@@ -2027,7 +2027,7 @@
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNel91RTZLdDhiaUFZemVCVUtpWjMwUHZoMEdhR05BN2ozWXZrb09RdXdkRFhIeEROblZ4Z292WEttSGluRWNBLTdFM1pyNWdEVnprZmk3WEs1a0JZY0NDS04tZkVkNXNCU3M2Yk5Nb3hVZjVoRnlrUkY3V1ppUEYwdEUzTmxUSUlZRHRYd1B3OG9kd0RQdnBzaXc4ckJlbGM1aHB1bWtUN3ZhaWFNTVBhY2xOSzlKUE81cktIQlB6UWFORkt2cnlWakN2RUg3MFY3M1lLMXJPcnNPMkI5YTNaenFlNnBFWEVmZ0ozS0VJRHptZ9IB3AFBVV95cUxQa3QxTTlqN3M2cGhjSXVLazBuN0xyRUczZTlyYU1SS0xRVGh6TEp3a2kyVUhiNnhyN3ZzbzA3VVp3OFlQTkNzblhSQ0k0V1pIbUZhdVJKQVQyZHNDblVkWEtSaks2YXdrRGhLLXdjRVNISWdoanE1LTVjbE5INXk2UVg2OFBvako3Q3Q2U1lKMi1zMm1yenZ3UzJGSGoxdk1WUk80NVNaR3JUS05aMjM3c1RVSS1kOFhIZmVqUFV0a291a0xZamtadlZfWE1tdlctQnYwZVFXclhnUmQw?oc=5",
     "texto_original": "Banco Entre Ríos pone el foco en la minería y abre nuevas oportunidades para el desarrollo productivo entrerriano\n  \nelonce.com",
     "imagen_url": "",
-    "estado": "pendiente",
+    "estado": "descartado",
     "agregado_el": "2026-09-11T01:16:50Z",
     "procesado_el": null,
     "wp_edit_url": null,
@@ -2037,7 +2037,8 @@
     "lugares_matcheados": [
       "entre ríos",
       "entrerrian"
-    ]
+    ],
+    "motivo_descarte": "Vencido: pasaron mas de 48 horas sin revision editorial (automático)."
   },
   {
     "id": "medios-google-news-entre-rios-406c9c591d60",
@@ -10315,6 +10316,434 @@
       "concepción del uruguay",
       "colón",
       "federal"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-41fbffb44b35",
+    "fuente": "APFDigital",
+    "titulo": "Los intendentes jóvenes de Entre Ríos, unidos: \"La eliminación de las PASO es un golpe a la democracia\"",
+    "fecha": "2026-09-12",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWF81Qy1ldy1DbTNPc3FRMTd5Q3piWFhGQUF5ajQtTWtRWW5GSlplYW9xa2VkbndZOWRQYWZDSElpbkFRMmhpTk9KWUlIcFNWVExfZHNxUzVCNVh3LWdiUUt5US1ZUFpfS1FWR09MWG5XbjRhQjV2TDVRVTczMEtDUUVXZFVPQ0ZoYzRHT3dIeTdMdDdBNzJlZVphLUhkaFRMN3hicUluLVFhSnhoalVZZURpc3ctVWRJZFFZMzNONWkxQWoxeHJCNENRM1MyNVE3NTdWZ1dMaFh1Q1dmMTY2SUhfZWZjWkx4WEVNcNIB8gFBVV95cUxNQzRWTVdrR0FCTlNPeUExUTlqdmF5cTY3SnViVjBKT0hRREhOTUo3bE9xMHVZVzQtM2dWcWN6OWh6Qm1teG8ybWtRcU9SWFVGZHhtNzhTVjAzQzNlVkRwTlA2QU52d2ZaVjFhWXRsam02SjVMWGZyVVYtX3pBU0dOaDJ2dG9ldll5OENLUEwzSmRyd2VQbi1nQWhFSHJrMjlCa3hYZFdaRXhFQ0tmV3hoSS1HUVZJTmZnQWoycjQtelNNSDRub255UlM5cEhTbkVFcWtqWlp6US1xMzNUdjRYV1laZmZvcEI3cG5ZUUlEWXBNdw?oc=5",
+    "texto_original": "Los intendentes jóvenes de Entre Ríos, unidos: \"La eliminación de las PASO es un golpe a la democracia\"\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:25:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-0b82a6366a28",
+    "fuente": "Chajarí Digital",
+    "titulo": "“Siempre es bueno el mano a mano” dijo la intendente de Los Charrúas sobre la visita de Frigerio",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWTTREN3MxWllTOUN1VVAyb19DWHB5RzljU3I3dTFQa0xNR1g3dFlFUjNua3NSZ0J6UFFCY1dHNzdJOVVtQ3ZvM3FJempOZw?oc=5",
+    "texto_original": "“Siempre es bueno el mano a mano” dijo la intendente de Los Charrúas sobre la visita de Frigerio\n  \nChajarí Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:25:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-a1cdc69693ec",
+    "fuente": "APFDigital",
+    "titulo": "Ingresó otro buque al puerto y comenzó una nueva exportación desde Concepción del Uruguay",
+    "fecha": "2026-09-12",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWEtvTTZuR2stb3NiOEFzYTA1TVpJTzhRWGV2c1ZieC1FbXRIQ0w5S0h2TWprZzhySUJZWTRfM0E3TUJXc01FM0M1a2h3Zl81R1hOelVTQUVidDdwY212WC1hUnpGNExMNU9GZ1k1VnRVZDlzVUZQZGVZaERRQ3dLS0JHTGtZZ0kwMnliV1BZUUVKb0NqZHk1MjdfWVBURS1nUzN4OGpIU3R4U2ZBWGNWai1pUXRvcEdfV2RDS2xleHg5UTkxY3VDNWowb1hsSUZKazJSUlBpX21JdlZ2UE5B0gHkAUFVX3lxTFBLeGpJdE9JQkhneHZzSVExNTVuZkIyeDZKMFlpS3lidDRieUVWWS0zdW95X1Z4dUdDd3dveDhiRkpEUUpCWXhXY2RYTXBQQmhmMzNlbnhHdEMzUlg0a0J3dDlBTU5lTm5BUVprakpYd0s0U0NvT1RkV2xHSjczYW5yV1RVUnlUUjFpTUUyNU5NcWZNdGFKSW1DOVk1dThXMjRpTGFodDN2aWMxM29yQTBkcXBVbGJEX0FJQzZkU01BczNvVFlFZGQwbVM5MXdHbllWeWNfVFdUY0tkRElzckNKZkFycQ?oc=5",
+    "texto_original": "Ingresó otro buque al puerto y comenzó una nueva exportación desde Concepción del Uruguay\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:25:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-se-encuentra-abierta-la-preinscripcion-al-plan-fines-2026-en-entre-rios",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Se encuentra abierta la preinscripción al Plan Fines 2026 en Entre Ríos",
+    "fecha": "2026-09-13",
+    "link": "https://entreriosahora.com/se-encuentra-abierta-la-preinscripcion-al-plan-fines-2026-en-entre-rios/",
+    "texto_original": "El Consejo General de Educación (CGE) abrió la preinscripción al Plan Fines (Finalización de la Escuela Secundaria) 2026. La propuesta está orientada a jóvenes y adultos de 18 años o más que adeudan materias del nivel secundario y buscan completar sus estudios.\n\nEl formulario de preinscripción está disponible desde este viernes 11 de septiembre y podrá completarse hasta el miércoles 16 de septiembre inclusive. Desde el organismo educativo remarcaron la importancia de realizar el trámite dentro de ese período, ya que se trata del único plazo establecido para formalizar la inscripción.\n\nEn esta edición, el Plan Fines se desarrollará de manera presencial en 19 sedes distribuidas en los distintos departamentos de la provincia, con el objetivo de facilitar el acceso a quienes necesitan finalizar sus estudios secundarios.\n\n \n\nRequisitos\n\nPara acceder al programa, los interesados deberán tener 18 años o más, haber finalizado la cursada del nivel secundario como alumnos regulares y contar con materias adeudadas hasta el ciclo lectivo 2025.\n\nAdemás, deberán completar el formulario oficial de preinscripción. El CGE aclaró que este es el único formulario válido para estudiantes de Entre Ríos.\n\nUna vez realizada la preinscripción, las y los estudiantes deberán presentar en la sede seleccionada la siguiente documentación:\n\nFotocopia del DNI, frente y dorso.\n\nFotocopia de la constancia de CUIL.\n\nPartida de nacimiento.\n\nConstancia de las materias adeudadas emitida por la escuela de origen, donde se finalizó la cursada.\n\nLos programas correspondientes a cada materia adeudada, que deberán solicitarse en la institución educativa de origen.\n\nTambién deberán presentar impreso el formulario de preinscripción, que será recibido en la bandeja de entrada del correo electrónico informado al momento de completar el trámite. En caso de no encontrarlo, se recomienda revisar la carpeta de correo no deseado o Spam.\n\nPara realizar consultas y obtener más información, las personas interesadas pueden comunicarse al correo electrónico \n\nfines@entrerios.edu.ar\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-los-ricos-tambien-lloran-los-etchevehere-a-remate",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Los ricos también lloran: los Etchevehere, a remate",
+    "fecha": "2026-09-13",
+    "link": "https://entreriosahora.com/los-ricos-tambien-lloran-los-etchevehere-a-remate/",
+    "texto_original": "La titular del Juzgado Laboral N° 2 de Paraná, Nanci Adriana Bautista, comunicó formalmente al juez de Transición Pablo Nicolás Zoff, que tramita la denuncia penal contra la familia Etchevehere -Leonor María Magdalena Barbero Marcial, sus tres hijos, Luis Miguel, Arturo Sebastián y Juan Diego Etchevehere; más los hermanos dueños de Red Mutual, Walter y Viviana Grenón- que  dispuso el remate  propiedades que conforman el pool inmobiliario de Sociedad Anónima Entre Ríos (SAER), editora de «El Diario», por deudas impagas del personal despedido en 2018 sin abonar las indemnizaciones de ley.\n\nSe cerró la venta de los restos de El Diario\n\n \n\nEl oficio de la jueza Bautista -consecuencia de las demandas laborales que iniciaron los extrabajadores de «El Diario»- sentencia que «se ha dispuesto librar el presente a fin de hacerles saber que se ha decretado la venta en pública subasta de los inmuebles propiedad ambos de la\n\ndemandada Sociedad Anónima Entre Ríos que a continuación se detallan y describen con sus respectivos datos registrales y catastrales: 1°) Matricula del Registro de la Propiedad Inmueble 114155 – Plano de Mensura de la Dirección General de Catastro de la Provincia de Entre Ríos N° 40108 – Superficie del terreno: 1.665,00 mts2 – Domicilio parcelario: calle Gobernador Herminio Quiros N° 1940, Ciudad de Paraná.- 2°) Matricula del Registro de la Propiedad Inmueble 114154 – Plano de Mensura de la Dirección General de Catastro de la Provincia de\n\nEntre Ríos N° 10588 – Superficie del 1.300 mts2 – Domicilio parcelario: Avenida Pedro Zanni N° 1929,  en su frente se visualiza el numero 1.893 – Ciudad de Parana».\n\nEl juez Zoff tramita una causa que lleva larguísimo tiempo tramitándose en Tribunales.\n\nLa causa, los vaivenes\n\nEn mayo de 2025, la Cámara de Casación Penal confirmó el procesamiento de la familia Etchevehere en una causa iniciada en 2013 por Dolores Etchevehere por el supuesto delito de vaciamiento de la empresa Sociedad Anónima Entre Ríos (SAER), editora de \nEl Diario\n.  Se trata de Leonor María Magdalena Barbero Marcial, y sus tres hijos Luis Miguel, Arturo Sebastián y Juan Diego Etchevehere.\n\nLa resolución, firmada por los vocales de Casación Gustavo Pimentel, María Evangelina Bruzzo y María del Luján Giorgio, revocó, en cambio, el procesamiento dictado por el Tribunal de Juicios y Apelaciones de un exdirectivo de SAER, Luis Guevara.\n\nCasación resolvió hacer lugar “parcialmente al recurso de casación” interpuesto por el defensor Tomás Vírgala y “en consecuencia revocar el punto II de la resolución en crisis, en cuanto dispone el procesamiento de Luis Alberto Guevara, y en consecuencia confirmar el sobreseimiento oportunamente dispuesto” por la jueza de Transición Carola Bacaluzzo por el delito de Administración Fraudulenta en carácter de autor.\n\nAdemás, declaró mal concedido el recurso de casación presentado por los defensores Rubén Pagliotto, Miguel Cullen y Alberto Sampayo “por ser éstos de inadmisible tratamiento”. Y rechazó los recursos presentados por Leonor Barbero Marcial, que ejerció su propia defensa, y de los tres hermanos Etcheveher  y en consecuencia confirmó el fallo del Tribunal de Juicios y Apelaciones del 31 de mayo de 2024.\n\n \n\nEl 31 de mayo de 2024, el Tribunal de Juicios y Apelaciones de Paraná, conformado por los jueces Gervasio Labriola, María Carolina Castagno y Mauricio Marcelo Mayer, hizo lugar a un recurso de casación presentado por las defenas del exministro de Agroindustria de Mauricio Macri, Luis Miguel Etchevehere; el excandidato a gobernador por La Libertad Avanza, Arturo Sebastián Etchevehere; y el referente en Entre Ríos de la Sociedad Rural, Juan Diego Etchevehere, más la madre de los tres, Leonor María Magdalena Barbero Marcial, procesados en una causa por estafa que se inició en 2013, tras una denuncia de Dolores Etchevehere.\n\nEse  Tribunal había revocado el sobreseimiento de la familia Etchevehere y dispuso que se remita al fuero federal una investigación que se inició en 2013 a partir de una denuncia de Dolores Etchevehere contra su madre  y sus tres hermanos. La causa investiga maniobras de vaciamiento de Sociedad Anónima Entre Ríos (SAER), editora de \nEl Diario\n, pero también maniobras fraudulentas con la toma de créditos a tasa subsidiada en teoría para aplicarlos a labores productivas pero que, al final, ese dinero terminó en los bolsillos de los integrantes de la sociedad.\n\nEn noviembre de 2023, la entonces jueza de Transición Carola Bacaluzzo había procesado al exministro de Agroindustria de Mauricio Macri, Luis Miguel Etchevehere, a sus hermanos, Arturo Sebastián y Juan Diego, a la madre de los tres, Leonor María Magdalena Barbero Marcial, al dueño de Red Mutual y exaccionaista de Sociedad Anónima Entre Ríos (SAER), Walter Grenón, y a su hermana, Viviana Grenón, y al empresario pizzero Germán Buffa por el delito de vaciamiento empresario. En cambio, la magistrada los sobreseyó en la acusación fiscal de toma de un crédito a tasa subsidiada con fines productivos, pero que sin embargo tuvo otros fines.\n\nEn su resolución la jueza dispuso:I)Dictar el sobreseimiento de Leonor María Magdalena Barbero Marcial, Arturo Sebastián Etchevehere y Juan Diego Etchevehere, imputados como autores de los delitos de administración fraudulenta y tentativa de administración fraudulenta. Primer hecho.II)  Dictar el sobreseimiento de Luis Miguel Etchevehere, imputado como partícipe necesario de los delitos de Administración Fraudulenta y Tentativa de Administración Fraudulenta– Primer Hecho-III) Dictar el procesamiento de Viviana Graciela Grenón, Leonor María Magdalena Barbero Marcial y Germán Esteban Buffa como autores del delito de administración fraudulenta –Segundo Hecho- .IV) Dictar el procesamiento de Walter Roberto Grenón, Luis Miguel Etchevehere, Arturo Sebastián Etchevehere y Juan Diego Etchevehere como partícipes necesarios del delito de administración fraudulenta– Segundo Hecho- .V) Dictar el sobreseimiento de Luis Alberto Guevara imputado como autor del delito de administración fraudulenta- Segundo Hecho-.\n\nLas imputaciones\n\nEn el primer hecho, el requerimiento fiscal atribuyó a Leonor Barbero Marcial, Arturo Sebastián Etchevehere, Juan Diego Etchevehere, “en su carácter de directores de la sociedad Las Margaritas S.A., con la necesaria complicidad de Luis Miguel Etchevehere, en su carácter de socio de dicha firma, haber solicitado préstam os al Banco Itaú por U$S 250.000, los que le fueron otorgados en fechas 29/07/2011 (U$S 200.000) y 12/08/2011 (U$S 50.000), (…), a tasa subsidiada y con el fin preciso de ser destinados a actividades productivas los que, en lugar de ello, fueron distribuidos entre ellos para fines personales y distintos del solicitado al banco”.\n\n \n\nEl Diario: los Etchevehere, otra vez procesados\n\nAgrega que la devolución de tales créditos por parte de la sociedad al banco “fue pactada en dólares americanos, a una tasa del 8% anual, y a cinco años, mientras que -paralelamente- los nombrados devolvían a la sociedad el dinero distribuido, mediante valores a cobrar -cheques de pago diferido-, en pesos argentinos y a una tasa fija anual más beneficiosa, por lo que mientras el valor del dólar subía, se encarecían los valores de las cuotas a pagar al Banco Itaú, y las que devolvían los miem bros de la sociedad no alcanzaban a igualar tales valores, al punto tal que la sociedad debió gestionar por ante el Banco de la Nación Argentina otro crédito a tasa subsidiada destinado a pequeños productores por $ 900.000”, con el propósito de destinarlo a saldar la última cuota pendiente de los créditos del banco Itaú, conforme fuera decidido mediante acta de Directorio de fecha 01/11/2016, frustrándose dicha operación por cuanto el banco Nación no realizó los desembolsos correspondientes”.\n\nLa segunda imputación fiscal planteó que entre 2011 y 2015, “Viviana Grenón, Leonor María Magdalena Barbero M arcial (vda.) de Etchevehere, Luis Alberto Guevara y Germán Esteban Buffa, en su carácter de directores, contemporáneos y sucesivos de la firma Sociedad Anónim a de Entre Ríos (SAER), obligaron abusivamente a la empresa cuyos bienes e intereses dirigían y administraban, perjudicándola, al aprobar en fecha 16/03/2012 la venta de los inmuebles ubicados en la ciudad de Paraná, sitos en: 1) Urquiza N° 1050, partida N° 10-7242-00; 2) 25 de Junio N° 33, partida N° 10-3658-09; 3) 25 de junio s/n, partida N° 10-16104-05; 4) 25 de junio N° 19, partida N° 10-118565-07; 5) Urquiza N°1036, partida N° 10-66810-08, a la firma Arroyo Ubajay S.A.; y los inmuebles sitos en: 1) calle Buenos Aires N° 11, partida N° 10-10154-04; 2) Tratado del Pilar N° 526, partidas N° 106927/8 y 126179/5, ambos de la ciudad de Paraná, a la firma Nexfin S.A., desconociéndose la fecha en que se concretó cada una de tales operaciones. También la obligaron abusivamente cuando en fecha 20/03/2012, aprobaron la venta de los inmuebles sitos en 1) Urquiza Nº1119/23 – subsuelo – (partida DGR 120.979/03); 2) Urquiza Nº 1119/23, P.B. (partida DGR 10-6638-08); 3) Urquiza Nº 1119/23, piso 1º (partida DGR 10-120861-01); 4) Urquiza Nº 1119/23, piso 2º (partida DGR 10-120862-00), todos de la ciudad de Paraná; 5) Camoirano Nº 63 (partida Nº 13-11463801), de la ciudad de Victoria; 6)- Caseros Nº 9898 (partida DGR 09-107636-4), de la ciudad de Nogoyá; 7) Etchevehere s/n (partidas DGR 03-102359-03 y 03-102358-4), de la ciudad de Diamante, a la firma Construcciones del Paraná S.A., desconociéndose también en tales casos la fecha en que se concretó cada una de dichas operaciones. Tales operaciones contaron con la cooperación imprescindible de Walter Grenón, Luis Miguel Etchevehere, Arturo Sebastián Etchevehere y Juan Diego Etchevehere, en sus dobles caracteres de socios de SAER y de las empresas Arroyo Ubajay S.A. y Nexfin S.A., el primero, y de la firma Construcciones del Paraná S.A., los demás; quienes no solo aprobaron las ventas de aquellos bienes de capital en la Asamblea Extraordinaria de SAER de fecha 21/03/2012, sino que -a su vez- decidieron la adquisición de tales bienes para las sociedades que integran, en connivencia y de previo y común acuerdo con los Directores de SAER, con el objetivo de obtener ventajas patrimoniales personales de tales operaciones, y causar un daño a ésta al dejarla descapitalizada de bienes inmuebles con los cuales garantizar y cumplir sus obligaciones contractuales, comerciales, financieras y fiscales. De tal forma, y por un lado, las firmas Arroyo Ubajay S.A. y Nexfin S.A., ambas bajo la dirección y control de W alter Grenón, propusieron al Directorio de SAER la compra de los inmuebles ya detallados; de la misma forma que también hizo lo propio la firma Construcciones del Paraná S.A., cuya sociedad la integran los referidos miembros de la familia Etchevehere. Una vez concretadas las operaciones de venta de tales inmuebles, el producido fue distribuido, también siguiendo un acuerdo previo, entre Luis Miguel Etchevehere, Juan Diego Etchevehere, Arturo Sebastián Etchevehere y Leonor María Magdalena Barbero Marcial (vda.) de Etchevehere y la Asociación Mutual Unión Solidaria, de propiedad de Walter Grenón, en función de supuestas obligaciones adeudadas previamente a ellos por SAERy en detrimento de otros acreedores. De esa forma, las mismas personas físicas que en sus respectivos roles funcionales decidieron la venta de aquellos bienes, fueron luego quienes se vieron beneficiados con los mismos y también con el producido de ellos a través de las distintas personas jurídicas que también conforman; dejando a SAER vacía de bienes de capital y con un cúmulo de deudas tal que debió inmediatamente recurrir a fuentes de financiamiento no bancarias para hacer frente a esas otras obligaciones”.\n\nRevés\n\nAl revisar el fallo de la magistrada, el Tribunal de Juicios y Apelaciones revocó los sobreseimientos que se dictaron en noviembre de 2023, y además resolvió remitir parte de la investigación para su tramitación en el fuero federal, donde ya hay denuncia contra los Etchevehere.\n\nTras esa decisión, los defensores Tomás Vírgala -en representación de Luis Alberto Guevara-; Leonor Barbero Marcial de Etchevehere, en ejercicio de su auto defensa; Rubén Pagliotto -por los imputados Luis Miguel, Arturo Sebastián y Juan Diego Etchevehere-; y Alberto Sampayo y Miguel Ángel Cullen -por los imputados Walter y Viviana Grenón- interpusieron recurso de casación. En su resolución, los jueces Labriola, Castagno y Mayer entendieron que debían hacer lugar al plante por cuanto -dijeron- «se advierten buenas razones en orden a derechos constitucionales en juego, que fueron alegados por los imputados, vinculados a obtener el llamado doble conforme, en base a la doctrina de la arbitrariedad,  como así también a una resolución judicial que en el menor tiempo posible esclarezca la situación de los imputados ante la ley. Por éstas razones, entendemos que en ésta instancia a-quo debe primar un criterio amplio al exámen de admisibilidad del recurso, independientemente del criterio que adopte al propio exámen la instancia ad-quem. Cabe traer a colación que en causas de singular trascendencia social, se aplicó similar criterio en tanto prosperó la casación por vía de queja, contra un auto de procesamiento».\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "industria",
+      "empleo",
+      "comercio",
+      "agro",
+      "servicios_publicos",
+      "justicia",
+      "inmobiliario",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "diamante",
+      "nogoyá",
+      "federal",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-el-fiscal-de-estado-adjunto-de-licencia-hasta-fin-de-mes",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "El fiscal de Estado Adjunto, de licencia hasta fin de mes",
+    "fecha": "2026-09-13",
+    "link": "https://entreriosahora.com/el-fiscal-de-estado-adjunto-de-licencia-hasta-fin-de-mes/",
+    "texto_original": "El lunes 20 de julio, Día del Amigo, Pablo Giannini, fiscal de Estado Adjunto en la Fiscalía de Estado, inició un período de licencia sin tiempo de finalización: el organismo atravesaba un clima alebrestado por la difusión de un dato que había generado la inquina. Crecía la sospecha de que Giannini, después de tramitar una causa en representación del Consejo General de Educación (CGE) en el fuero civil contra la Municipalidad de Paraná, y haber ganado el litigio, había conseguido que la Justicia le liquidase una millonaria suma en concepto de honorarios que fueron a parar a su cuenta personal.\n\nEl ordenamiento legal establece que los honorarios que los Tribunales regulan para los abogados de Fiscalía de Estado se reparten así: un 50% va para Fiscalía, el otro 50% se distribuye entre todo el personal del organismo. Pero en el pleito «Consejo General de Educación de la Provincia de Entre Ríos c/Municipalidad de Paraná y otros s/Ordinario”, en el que Giannini actuó como apoderado del CGE, los honorarios habrían ido a una cuenta bancaria particular del funcionario, lo que originó un enojo en Fiscalía de Estado, entuerto que no ha sido resuelto.\n\nFiscalía de Estado: funcionario denunciado tomó licencia\n\n \n\nEn uno de los audios del fiscal de Estado Adjunto enviado a su exesposa Alina Pérez, y que ésta viralizó en redes sociales, se escucha que se refiere a sus compañeros de Fiscalía de Estado como «esos roñosos».\n\nEl artículo 14° de la Ley N° 7.296 fija de modo taxativo el destino de los honorarios que perciba el profesional que represente al Estado en los juicios en los que resulte vencedor. Dice que el 50% “se destinará a la Fiscalía de Estado, pudiendo su titular disponer de esos fondos de acuerdo a las necesidades del organismo”. Y que “el otro 50% se distribuirá en la forma en que se reglamente, entre los integrantes del cuerpo de abogados de la Fiscalía de Estado”.\n\nDesde que el entuerto se hizo público, el clima de hostilidad en Fiscalía de Estado hacia Ginnini no ha cesado, y por eso el funcionario goza de licencia in aeternum. La nueva ampliación del permiso para ausentarse de su trabajo se extiende hasta fin de septiembre. Es una incógnita qué sucederá con el fiscal de Estado Adjunto al concluir esa licencia. Su silla en Fiscalía de Estado continúa vacía.\n\nParque Berduc: una disputa de honorarios que salpica al fiscal de Estado Adjunto\n\n \n\nPero a Giannini no lo alejó de su trabajo la discusión por el destino de esos honorarios, que defiende a pie juntillas como legal.\n\nEl huevo de la serpliente habría que buscarlo en su boda, el 8 de noviembre de 2025, y su posterior proceso de divorcio, que se abrió cuando en mayo último su expareja Alina Pérez lo denunció por violencia de género, cuestión que se tramita en el Juzgado de Familia N° 2, a cargo Ana Cristina Quinteros Fagetti. La separación de la pareja alcanzó la categoría de escándalo público: se contó con las reglas básicas del culebrón a través de redes sociales. Giannini acudió a todas las herramientas judiciales para silenciar a su exconsorte, de momento sin éxito.\n\nA Giannini le han estado extendiendo la licencia como somnífero para el correveidile.\n\nNingún curso de Ley Micaela explica por qué Giannini se mantiene como virtual número 2 en Fiscalía de Estado, el organismo encargado de defender la legalidad de los actos de Gobierno y de dictaminar sanciones, cesantías y exoneraciones de empleados públicos, mientras arrastra consigo una causa por violencia de género.\n\n \n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "municipios",
+      "justicia",
+      "organos_control",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-quirofano-el-legado-de-un-doctor",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Quirófano: el legado de un doctor",
+    "fecha": "2026-09-12",
+    "link": "https://entreriosahora.com/quirofano-el-legado-de-un-doctor/",
+    "texto_original": "Este jueves 16 de septiembre, a las 19, en el Círculo Médico, se presentará el libro “Quirófano”, del cirujano Ramiro Ferlatti y la acompañante terapéutica Gimena Villarraza. La obra contiene unas 30 historias. Experiencias de Ferlatti en el quirófano, luego de su vasta trayectoria en el ámbito público y privado.\n\nRamiro se recibió de doctor en la Universidad Nacional de Córdoba y se especializó durante casi una década en el prestigioso Instituto de Oncología Angel H. Roffo de Buenos Aires. Decidió volver a su ciudad y rápidamente, por su talento y capacidad, se erigió en una referencia en su especialidad a nivel regional. Cirujano especialista en cabeza y cuello, fue noticia en más de una oportunidad por intervenciones inéditas en la provincia, como la de extirpar un tumor y reconstruir un maxilar con plenas funciones.\n\nEn 2023, a los 52 años, fue diagnosticado con Esclerosis Lateral Amiotrófica (ELA). “Hacer este libro, escribirlo, me permitió proyectarme, tener una tarea, encontrar un modo de decir sobre mí. Seguir un camino, el que me tocó”, dice al inicio.\n\nTambién habla del ELA y dice “ELA es ir sintiendo cada vez más lejos lo humano….es terror”. Pero aún así, Ferlatti hizo su libro, contó su experiencia con las manos de Gimena.\n\nA partir de ese legado, surge el texto que sigue. Lo escribí porque conozco la historia del doctor y porque siento una profunda admiración por su tarea.\n\n \n\n \n\nLas manos hacen solas\n\n \n\nPor Julián Stoppello\n\nHacer esto, ahora, que no pase un segundo más. Que los dedos hagan su trabajo. Como en el quirófano, doctor, en ese tiempo suspendido, entre la vida y la muerte, el tiempo que no existe.\n\nRecién termino de leer el libro. Su libro, doctor.\n\nHoy es sábado, un sábado de septiembre al atardecer, de nubes amotinadas, el frío se ve en las plantas del balcón, el frío se escucha en el silencio de la calle. El frio sopla en mi corazón.\n\nAyer supe que un amigo todavía pelea con su cáncer. Y ahora estoy acá, dejando que los dedos, doctor, hagan su trabajo.\n\nTengo en el perchero de mi habitación sus camisas, azules, celestes, blancas y rozadas. Hermosas camisas. Obsequios suyos, una vez que la enfermedad lo sacó del quirófano. Una vez que la vida me puso a mí en un lugar donde necesitaba verme más prolijo de lo que soy.\n\nTengo acá su recuerdo de mesas familiares, las cosas que decía mi mamá sobre Ramirito. Había sido terrible Ramirito, como todos los amiguitos de esa generación bandida que se siguen viendo y queriendo, casi de un modo incondicional. Con la torpeza de esa generación, con un amor tosco.\n\nTengo su recuerdo también en otras mesas, ya sin nuestros padres, ahora como padres, rodeados de gurises. Usted recostado en la silla, de voz suave, de modos suaves, de una calidez infrecuente entre los otros sátrapas de sus amigos. Así lo guardo yo.\n\nLe fui a hacer una entrevista, doctor, en una oportunidad. Una de sus intervenciones merecía una nota de \nEl Diario\n, cuando \nEl Diario\n valía la pena y fue a la tapa de la edición: Ramiro, junto a un equipo y su mentor, habían extirpado un tumor y habían reconstruido un maxilar, logrando que recuperara todas sus funciones. Un prodigio para Entre Ríos y la región.\n\nPero ahora termino de leer su libro, doctor. Y es sábado y tengo el frío de la calle en los huesos. Y escucho una canción, muchas veces, una canción de Pink Floyd y pienso a través de sus amigos también. Mis dedos piensan. Y valoro cada una de las historias escritas, las disfruto genuinamente. Están hechas con sencillez y profundidad. Están contadas por el doctor y yo puedo escuchar su voz suave en ellas y su modo meticuloso, pulcro, ordenado, de entrar en ese limbo, donde obra ese modo de su arte.\n\nPara salvar a un tipo con un balazo, para extirpar un tumor gigante  como un koala, para aceptar errores, para aprender, para respirar hondo, una vez, siempre, antes de empezar. Para salvar a otro médico del desastre y una vida al mismo tiempo, para darse cuenta que mejora no operar amigos. Para conocer la humildad y la pérdida, el egoísmo y la grandeza. Para rascarse la nariz con un hombro, seguir con las manos inmaculadas y volver a salvar, una y otra vez, otra vida, una vida más. Muchas vidas en más de 20 años.\n\nTodo en ese limbo donde usted, doctor, apaga el sufrimiento propio y el ajeno, para estar ahí y solamente ahí, en el espacio infinito del presente. Donde cree en sus manos como cree en Dios, porque en ese espacio hay una sola barrera y ninguna otra: vida/muerte. Todo lo demás se funde en el hacer sin tiempo, en un hacer de manos que se hunden en la eternidad.\n\nUsted sabe, doctor, que las manos, que los dedos hagan lo que saben hacer, que piensen solos, por nosotros.\n\nPorque en algún momento, como dice una canción de Gabo Ferro, “la desgracia llega y se va puntual”. Las manos no obedecen, la vida no obedece y hace lo que quiere con nosotros. Hasta ese momento somos relativamente libres. Y usted, doctor, aún con las manos detenidas, con el cuerpo paralizado, con el latigazo de la desgracia en el cuero, hizo este gesto de gratitud que es escribir con Gimena este libro. Porque en este libro agradece su don, agradece su esfuerzo, agradece el amor de los suyos, también de todos los atorrantes de sus amigos que están y seguirán estando. Y agradece sobre todo haber entrado a ese lugar sagrado y sin tiempo donde hizo su magia, todas las veces que pudo.\n\nEsa gratitud, doctor, es la que recibirán los lectores y le será devuelta, junto a la de todos sus pacientes -que ya la tiene-, porque quien lea estas páginas, sabrá un poco más que fragmentos de la historia de un gran profesional, sabrá humanamente de que se trata la pasión de curar.\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "impuestos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-la-policia-intercepto-un-camion-con-152-bidones-en-infraccion-a-la-ley-de-fitosanitarios",
+    "fuente": "Diario Junio",
+    "titulo": "La Policía interceptó un camión con 152 bidones en infracción a la ley de Fitosanitarios",
+    "fecha": "2026-09-13",
+    "link": "https://www.diariojunio.com.ar/la-policia-intercepto-un-camion-con-152-bidones-en-infraccion-a-la-ley-de-fitosanitarios/",
+    "texto_original": "En un procedimiento de fiscalización sobre la ruta nacional 12 a la altura de Paso Telégrafo, efectivos de la Policía de Entre Ríos detuvieron la marcha de un transporte de carga e incautaron 152 bidones de fitosanitarios que eran trasladados de manera ilegal. La detección de la fuerza policial en el puesto fronterizo y la intervención técnica de la Secretaría de Ambiente permitieron retener el material y labrar las actuaciones correspondientes por violación a la normativa vigente, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "justicia",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-parana-y-santa-fe-reciben-el-nacional-c17-de-futsal-con-mas-de-600-jugadores",
+    "fuente": "LT15 Concordia",
+    "titulo": "Paraná y Santa Fe reciben el Nacional C17 de Futsal con más de 600 jugadores",
+    "fecha": "2026-09-13",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/12/parana-y-santa-fe-reciben-el-nacional-c17-de-futsal-con-mas-de-600-jugadores/",
+    "texto_original": "Más de \n600 jugadores\n van a pisar las canchas de \nParaná\n y \nSanta Fe\n en el marco del \nTorneo Nacional C17 de Futsal Masculino\n, uno de los eventos juveniles más convocantes del calendario nacional en esta disciplina. La organización eligió dos ciudades con infraestructura y tradición futbolística para sostener semejante volumen de partidos.\n\nEn la \ncapital entrerriana\n, los encuentros tendrán como escenarios la cancha del \nClub Neuquén\n y el \nParque Berduc\n, dos instalaciones con capacidad para absorber la intensidad de la fase de grupos. Esa etapa se desarrollará de \ndomingo a martes\n, con equipos de distintas provincias disputando su lugar en las instancias siguientes.\n\nDel otro lado del río, \nSanta Fe\n aportará varias instituciones que funcionarán como sedes simultáneas durante el torneo, distribuyendo la carga de partidos y garantizando que el certamen fluya sin cuellos de botella logísticos. La apuesta por dos ciudades en simultáneo habla de la escala que fue tomando este torneo en los últimos años.\n\nEl \nfutsal masculino sub 17\n es una de las categorías más competitivas a nivel federal: es la edad donde los clubes del interior empiezan a perder talentos hacia las grandes urbes, y donde los torneos nacionales se convierten en vidriera real. Que \nEntre Ríos\n sea parte del mapa de sedes no es un dato menor para el desarrollo del deporte en la provincia.\n\nLa fase de grupos marcará el ritmo del certamen desde el primer día, con los equipos buscando posicionarse para las rondas eliminatorias. Los detalles sobre el fixture completo y las instituciones participantes se irán confirmando a medida que se acerque la fecha de inicio.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-interceptaron-un-camion-con-152-bidones-de-fitosanitarios-en-la-paz",
+    "fuente": "LT15 Concordia",
+    "titulo": "Interceptaron un camión con 152 bidones de fitosanitarios en La Paz",
+    "fecha": "2026-09-13",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/12/interceptaron-un-camion-con-152-bidones-de-fitosanitarios-en-la-paz/",
+    "texto_original": "Un camión parado en la ruta y \n152 bidones de fitosanitarios\n que no debían estar ahí. Eso fue lo que encontraron el viernes pasado en el puesto de control vial \nPaso Telégrafo\n, en el departamento \nLa Paz\n, cuando efectivos de la \nDirección General de Prevención y Seguridad Vial\n bajo la supervisión del oficial principal \nRaúl Albarracín\n detuvieron un camión Iveco Tector para fiscalizarlo.\n\nEl rodado venía de \nColonia Santa Rosa, Corrientes\n, con destino a \nSanta Fe\n, y llevaba en su caja \n152 bidones de 20 litros\n con señalización explícita de no reutilizar. Una infracción en toda regla a la \nley nacional 27.279\n de Gestión Integral de Envases Vacíos de Fitosanitarios, que prohíbe categóricamente el tránsito no autorizado de este tipo de envases fuera de los canales oficiales.\n\nLa \nSecretaría de Ambiente\n se activó de inmediato. \nGabriela Joubert\n, responsable del área de Buenas Prácticas Agropecuarias, coordinó la intervención: el chofer fue notificado por la infracción y el camión fue escoltado hasta el \nCentro de Acopio Transitorio (CAT) de La Paz\n, donde los bidones quedaron retenidos de forma definitiva para su correcta gestión.\n\nJoubert no dejó lugar a dudas sobre la gravedad del asunto: \n«La ley 27.279 prohíbe de manera categórica el tránsito no autorizado de envases vacíos de fitosanitarios fuera de los canales oficiales, así como su quema, entierro, reciclado informal o reutilización para cualquier fin»\n, remarcó la funcionaria. Y el problema, advirtió, no es aislado.\n\nSegún Joubert, existe un circuito ilegal que ya fue detectado en articulación con las autoridades santafesinas: \n«Hemos detectado que desde allí retornan en muchos casos envases reutilizados y llenos con productos de limpieza»\n, señaló. Una práctica que no solo viola la ley sino que, en sus palabras, \n«pone en grave riesgo la salud de la población y el ambiente»\n. Un bidón que alguna vez contuvo agroquímico y ahora lleva detergente puede terminar en cualquier cocina sin que nadie lo sepa.\n\nEl operativo es parte del trabajo conjunto entre la \nPolicía de Entre Ríos\n y la \nSecretaría de Ambiente del Ministerio de Desarrollo Económico\n provincial, que viene reforzando los controles viales para frenar el tráfico irresponsable de este tipo de residuos peligrosos. Los controles en rutas entrerrianas siguen activos y los próximos bidones en infracción correrán la misma suerte que estos \n152\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "agro",
+      "justicia",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-el-enfoque-gn-c206318f3e8d",
+    "fuente": "diarioelenfoque.com.ar",
+    "titulo": "Donaron 1.500 libros a una escuela de Concordia y una red solidaria logró llevarlos hasta nuestra ciudad",
+    "fecha": "2026-09-12",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHpVNU9HUGsxa1V4SG9VZ25sNHp5cTZULTd6S0tFSUp2ZGlCMVk5Vm5sdm1Tazc2UFJJYkI5QXE2M3JrekhIcmhvdEJNaDFvcF9JcWJDaVpabXVIUDNkTnpHRFp0Q3ZqMTZaZno2czBWRGxLcW9tY21oYWhybDVQX0RjN0NFTmwyV3JjMERpSW5kVXBIWXY0S2p5NzJGMmlFSHg3QzY3QTVFMW9XdkxDa1FrNjBaSjc4N3dJN3BZYjd3a2cyaGc?oc=5",
+    "texto_original": "Donaron 1.500 libros a una escuela de Concordia y una red solidaria logró llevarlos hasta nuestra ciudad\n  \ndiarioelenfoque.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:39:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-quedaron-inaugurados-los-juegos-suramericanos-santa-fe-2026-con-una-imponente-ceremonia",
+    "fuente": "El Día Online",
+    "titulo": "Quedaron inaugurados los Juegos Suramericanos Santa Fe 2026 con una imponente ceremonia",
+    "fecha": "2026-09-13",
+    "link": "https://www.eldiaonline.com/quedaron-inaugurados-los-juegos-suramericanos-santa-fe-2026-con-una-imponente-ceremonia",
+    "texto_original": "Rosario vivió una de las noches más importantes en la previa deportiva del año. En el entorno del Monumento Nacional a la Bandera, frente al río Paraná, se realizó la ceremonia de apertura de los Juegos Suramericanos Santa Fe 2026, con acceso libre y gratuito para todo el público.\n\nLa música argentina fue una de las grandes protagonistas de la noche. La grilla incluyó a Soledad Pastorutti —autora e intérprete de Late el Sur, la canción oficial de los Juegos—, Abel Pintos, el rosarino Juan Carlos Baglietto, el cordobés Luck Ra, Cacho Deicas, el joven Valentino Merlo, el actor y humorista Agustín Rada Aristarán, y la cantante rosarina Mery San Dámaso, que en 2025 formó parte de La Voz.\n\nLos arreglos musicales estuvieron a cargo de Lito Vitale, y la dirección general del show correspondió a Ariel del Mastro, junto a Sebas Mazzoni como director vocal. La puesta reunió a más de 100 artistas en escena, respaldados por un equipo de producción de unas 400 personas, entre bailarines, cantantes, músicos, vestuaristas, maquilladores, técnicos, iluminadores y coreógrafos.\n\nA ese elenco se le sumaron unos 50 bailarines, entre ellos Camila Esparza, Victoria Di Fabio, Thiago Gallo y Araceli Belén Bogado Ruiz, con un equipo de asistencia coreográfica integrado por Analía Verónica Guzmán, María Sol Figueroa, Mateo Tobías López y Damián Alejandro Gómez.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:53:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-pami-adeuda-mas-de-1800-millones-al-sistema-de-salud-publico-entrerriano-en-que-situacion-esta-el-hospital-centenario",
+    "fuente": "El Día Online",
+    "titulo": "PAMI adeuda más de $1.800 millones al sistema de salud público entrerriano: en que situación está el Hospital Centenario",
+    "fecha": "2026-09-12",
+    "link": "https://www.eldiaonline.com/pami-adeuda-mas-de-1800-millones-al-sistema-de-salud-publico-entrerriano-en-que-situacion-esta-el-hospital-centenario",
+    "texto_original": "Un informe elaborado por el Ministerio de Salud de Entre Ríos reveló que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI) acumula una deuda superior a los $1.800 millones con el sistema sanitario público provincial.\n\nEl documento técnico detalla que los pasivos corresponden a prestaciones médicas hospitalarias impagas y se dividen en dos tramos financieros bajo marcos normativos distintos: “El primer segmento corresponde a las prestaciones facturadas bajo la normativa nacional establecida por los procedimientos de Resolución 635/15 y la nomenclatura aprobada en Resolución 914/23 bajo la órbita de la Superintendencia de Servicios de Salud y el Ministerio de Salud de la Nación. De acuerdo a un relevamiento realizado, el saldo pendiente de pago de los Hospitales de la Provincia incluyendo Hospital de la Baxada, asciende a $ 902.704.318 (a valores históricos). Este importe se encuentra actualmente en proceso de relevamiento y actualización e incluye facturación emitida hasta octubre de 2024”.\n\nLos números precisos y la radiografía detallada del pasivo surgen de este relevamiento oficial al que accedió Ahora ElDía. En el caso particular de Gualeguaychú, los datos confirman que el Hospital Centenario tiene pendientes de cobro por $39,7 millones correspondientes a prestaciones recientes.\n\nPor acción del Decreto 172/24 del Poder Ejecutivo Nacional, los procedimientos y normativas nacionales antes mencionados perdieron vigencia: “Ante esta situación, el INSSJP / PAMI estableció a través de la Resolución 1392/24 un mecanismo de facturación que generó la firma de nuevos modelos de convenio individual entre Hospitales y el Instituto. Dichos convenios registran actualmente un segundo segmento de deuda cuyo importe asciende a $964.353.380, cifra que abarca facturas impagas desde octubre de 2025”.\n\nNo obstante, aclara que cinco Hospitales de mayor complejidad de la provincia, entre los que se incluyen el Centenario de Gualeguaychú, San Martín de Paraná, Masvernat de Concordia, Justo José de Urquiza de Concepción del Uruguay y San Antonio de Gualeguay, “cuentan con convenios diferentes orientados a la atención de pacientes bajo un régimen capitado, por lo que no registran deudas” bajo el sistema de convenios mencionados anteriormente. \n\nSegún la información, “el total cobrado acumulado por estos cinco Hospitales de mayor complejidad en el primer semestre de 2026 asciende a $3.635.664.965, lo que representa un promedio de cobro mensual cercano a los $605.000.000”.\n\nDe acuerdo a lo informado por estos cinco Hospitales, “el modelo de convenio capitado no registra deudas fuera de los términos temporales establecidos”.\n\nA la espera de pago\n\nEn el terreno local, el informe señala que el monto pendiente a favor del Hospital Centenario comprende prestaciones brindadas a afiliados de PAMI, por un monto de $39.722.935,52 vinculado principalmente con prestaciones asistenciales como internaciones, consultas, prácticas, medicamentos, y estudios, entre otros.\n\nPara el período de mayo de 2026, el total correspondiente alcanzó los $15.094.622,90. Esta cifra se compone de tres registros correspondientes al rubro de Módulo Internación (Laboratorio + Fisio + Imágenes) por montos de $6.422.210,86, $1.508.447,96 y $6.655.140,79; el rubro de Eco Doppler en Internación por $170.916,00; Kinesiología por un total de $135.236,44; el de Oncoplan - Módulos de Internación por un valor de $114.698,70; el de Oncoplan - Módulos de Hospital de Día - Sesión de Quimioterapia por $53.133,65; y, por último, el rubro de Artroscopia con un monto de $34.838,50.\n\nEn el período correspondiente a junio de 2026, el subtotal fue de $5.261.639,41. El monto de este mes se distribuye entre diversas especialidades médicas ambulatorias y de internación, destacando principalmente los montos de Gastroenterología por $892.794,69; Tomografía Computada en Ambulatorio por $863.911,59; Eco Doppler en Ambulatorio por $391.088,49; Cardiología por $353.932,49; Eco diagnóstico de Nivel 1 por $266.063,74; Anatomía Patológica por $232.119,35; Neurología por $217.018,57; Radiología Ambulatoria de Nivel 1 por $210.021,93; y Neumonología por $201.345,19. Asimismo, se suman $193.824,28 en Otorrinolaringología; $193.344,09 en Ginecología y Obstetricia; $189.623,37 en Traumatología; $181.319,48 en Urología; y dos registros idénticos de $140.678,91 correspondientes a Dermatología y Nefrología. Completan la lista de este mes los montos de Endocrinología por $125.047,92; dos registros de $93.785,94 cada uno para Reumatología y Flebología; Cirugía General Ambulatoria por $78.154,95; Diabetología por $62.523,96; Fonoaudiología por $42.284,49; Eco Doppler en Internación por $35.767,17; y finalmente $31.261,98 de manera individual tanto para consulta en Oncología como para Hematología.\n\nPor su parte, el período de julio de 2026 presentó un subtotal de $20.704.599,42. Su composición está concentrada casi en su totalidad en el rubro de Módulo Internación (Laboratorio + Fisio + Imágenes) con un monto de $20.017.219,18, seguido de las prestaciones de Kinesiología por $407.238,86, Prácticas Generales de Odontología por $176.259,65 y Artroscopia por $103.881,73.\n\nPor último, el saldo final contempla débitos aplicados al período de mayo de 2026 por un subtotal de -$1.337.926,21. Este descuento se aplica a través de los conceptos de Módulo Internación (Laboratorio + Fisio + Imágenes) con un valor negativo de -$1.303.022,66 y de Kinesiología por un valor negativo de -$34.903,55.\n\nPara el periodo enero-junio de 2026, las partidas recibidas y los ingresos por arancelamiento totalizaron $4.926.831.150,63, con un promedio mensual aproximado de 821,1 millones, detalla el informe.\n\nAsimismo, desde el Ministerio de Salud aclararon que la institución “recibe fondos correspondientes a programas y prestaciones específicas, entre ellos subsidios, Prestaciones de Alto Costo y Baja Incidencia (PACBI), Incluir Salud, Crónicos y Guardias Profesionales”. No obstante, remarcaron que “la estructura de financiamiento se encuentra conformada por distintas fuentes de recursos, por lo que la partida mensual de Rentas Generales constituye una de las fuentes de financiamiento del establecimiento, pero no representa la totalidad de los recursos disponibles para su funcionamiento”.\n\nFrente a la coexistencia de diferentes marcos normativos de facturación —como las resoluciones que rigen los esquemas de pago capitado y los aranceles por prestación individual—, el documento oficial subraya que las partidas de dinero que recibe el efector de salud de la ciudad no constituyen un bloque homogéneo ni dependen íntegramente de la regularización de la deuda de PAMI. El esquema de ingresos combina la asignación presupuestaria provincial provista por Rentas Generales con el recupero de costos por servicios brindados a afiliados de diversas obras sociales y prestatarias privadas. A esta base de financiamiento se añaden las partidas canalizadas a través de programas de salud específicos, tales como los subsidios para tratamientos de alto costo y baja incidencia, el programa Incluir Salud, la provisión para medicamentos de pacientes crónicos y las asignaciones destinadas a la cobertura de las guardias profesionales.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-13T02:53:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Efemeride/acto protocolar sin dato o anuncio institucional nuevo. (automático)",
+    "topicos_matcheados": [
+      "politica",
+      "servicios_publicos",
+      "gobierno",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-el-cuartel-de-bomberos-voluntarios-reclama-cerca-de-50-millones-de-pesos-de-2025-a-nacion",
+    "fuente": "El Día Online",
+    "titulo": "El Cuartel de Bomberos Voluntarios reclama cerca de 50 millones de pesos de 2025 a Nación",
+    "fecha": "2026-09-12",
+    "link": "https://www.eldiaonline.com/el-cuartel-de-bomberos-voluntarios-reclama-cerca-de-50-millones-de-pesos-de-2025-a-nacion",
+    "texto_original": "Esta semana, la sirena de los bomberos hizo escuchar a lo largo y ancho de la Argentina en un acto de manifestación y reclamo de alrededor 60 mil millones de pesos correspondientes a los fondos previstos por la Ley 25.054, que todavía no fueron distribuidos entre los más de mil cuarteles que hay a nivel nacional.\n\n“Son fondos que están garantizados por ley, es decir que el Gobierno los tiene recaudados porque provienen de los seguros que pagamos todos, de vehículos, y de casas, y que están destinados a los cuarteles de bomberos”, explicó Müller.\n\nEl presidente de la institución remarcó que esos recursos se distribuyen de manera igualitaria entre las instituciones, independientemente de su tamaño.\n\n“Si tomamos un promedio para cada cuartel, serían alrededor de 50 millones de pesos”, aventuró Müller.\n\nLa preocupación está vinculada tanto con el remanente correspondiente a 2025 como con los cuarteles que todavía no recibieron los fondos de 2026. Para las instituciones, se trata de recursos necesarios para afrontar gastos que van desde el mantenimiento cotidiano hasta la renovación de vehículos y equipamiento.\n\nEn el caso de Gualeguaychú, durante este año la institución recibió alrededor de 90 millones de pesos en concepto de subsidios nacionales.\n\n“Bomberos Voluntarios a nivel país tienen entidades de primer grado, como el cuartel de Gualeguaychú; en segundo grado está la Federación de Bomberos de Entre Ríos; y a nivel nacional está el Consejo Nacional de Bomberos de Argentina”, explicó Müller.\n\nEn ese marco, las acciones frente al Gobierno nacional son consensuadas por el Consejo Nacional de Bomberos de Argentina, dependiente del Ministerio de Seguiridad. Sobre el estado de las gestiones, Müller señaló que actualmente mantienen conversaciones y esperan definiciones.\n\nLos costos de mantener el cuartel\n\nBomberos Voluntarios de Gualeguaychú cuenta con cerca de 70 bomberos y tiene entre 800 y 900 salidas anuales. Esa actividad implica un gasto permanente para mantener en condiciones las unidades, los equipos y la estructura necesaria para responder a las emergencias.\n\n“Con el subsidio que recibimos podemos comprar autobombas, materiales para los bomberos y equipamientos”, explicó Müller. Sin embargo, el costo de una autobomba supera ampliamente el monto de un subsidio anual, ya que tiene un valor que ronda los 160 millones de pesos.\n\nEl presidente de la institución explicó que los recursos deben destinarse a múltiples necesidades.\n\n“Este último tiempo hicimos el recambio de tres unidades, dos autobombas y un equipo de rescate con pluma. En eso tenemos un pasivo que tenemos que ir pagando”, detalló.\n\nUna parte de los recursos debe utilizarse para afrontar ese gasto, mientras que otra se destina al mantenimiento y a la renovación de los elementos de protección de los bomberos.\n\nMüller informó que esos equipos tienen un costo elevado y que deben ser reemplazados muy seguido.\n\n“Tenemos que hacer un recambio de todo ese equipamiento. Lo mismo el que se usa cuando se trabaja con sustancias peligrosas. Tenemos previstas diferentes compras para equipar a los bomberos este año”, agregó.\n\nMás allá de las inversiones en vehículos y equipamiento, el cuartel tiene gastos fijos que deben afrontarse todos los meses.\n\n“Tenemos un gasto fijo de mantenimiento del equipo de bomberos, sueldos de los cuarteleros, del personal rentado de administración. Son 30 millones por mes aproximadamente”, precisó Müller.\n\nEn ese esquema, el ingreso que recientemente recibe la institución a través de la Tasa Inmobiliaria representa un recurso fundamental para sostener la actividad cotidiana.\n\n“Esto es muy importante a nivel Gualeguaychú, porque podemos sobrellevar todos los gastos que tenemos, comprar materiales, y mantener el cuartel”, explicó.\n\nDe hecho, la institución ya recibió el primer pago desde la aplicación de la ordenanza, que establece un monto destinado para el cuartel dentro del impuesto municipal. En total, el aporte fue de 21,5 millones de pesos correspondientes al mes anterior.\n\n“Esto que salió a través de la Municipalidad es muy importante para poder prestar el servicio”, remarcó.\n\nOtro de los gastos permanentes es el combustible utilizado por las unidades durante las salidas. Müller señaló que Bomberos debe afrontarlo con recursos propios.\n\n“El combustible lo pagamos de las arcas de Bomberos. No tenemos una tarifa de preferencia”, explicó.\n\nLa provincia aporta combustible a través del Programa de Manejo del Fuego. Según detalló, se trata de unos 1.800 litros, aunque cuestionó las demoras en la entrega.\n\n“Muchas veces está retrasado. Lo tomamos, es bienvenido, pero no lo pagan en tiempo y forma. Suele llegar con casi un año de demora”.\n\nEl proyecto de un nuevo cuartel\n\nAdemás de las necesidades inmediatas, la institución analiza un proyecto de mayor alcance: contar en el futuro con un nuevo espacio para el cuartel de Bomberos Voluntarios de Gualeguaychú.\n\nMüller explicó que la sede actual se encuentra saturada y que desde hace tiempo buscan alternativas que permitan mejorar el funcionamiento y facilitar la salida de las unidades durante las emergencias.\n\nLa intención es encontrar un lugar con una ubicación menos céntrica que permita mejorar el ingreso y egreso de los vehículos.\n\n“Buscar la forma de algún lugar más viable, sobre una avenida, para entrar y salir del cuartel sin mucho inconveniente”, explicó.\n\nEl proyecto viene siendo analizado desde hace tiempo, pero la falta de recursos económicos dificultó avanzar.\n\n“Lo estamos analizando hace mucho tiempo, pero por falta de recursos se complicaba”, reconoció.\n\nAhora, con el nuevo ingreso que recibe la institución a través de la Tasa Inmobiliaria, la posibilidad vuelve a estar sobre la mesa.\n\n“Como ahora tenemos este otro ingreso, estamos evaluando cómo podemos concretar este anhelo que tenemos hace tanto tiempo”, afirmó Müller.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:53:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "impuestos",
+      "servicios_publicos",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-ser-maestra-la-profesion-que-dio-autonomia-economica-y-estatus-a-las-mujeres",
+    "fuente": "El Día Online",
+    "titulo": "Ser maestra: la profesión que dio autonomía económica y estatus a las mujeres",
+    "fecha": "2026-09-12",
+    "link": "https://www.eldiaonline.com/ser-maestra-la-profesion-que-dio-autonomia-economica-y-estatus-a-las-mujeres",
+    "texto_original": "Cada 11 de septiembre se celebra el Día del Maestro, una fecha destinada a honrar la labor de quienes dedican su vida a la enseñanza. La efeméride responde al fallecimiento de Domingo Faustino Sarmiento, quien es considerado el padre de la educación argentina.\n\nA pesar de que la fecha tiene su justificación en una figura masculina, son las mujeres quienes tuvieron y siguen teniendo mayor representación dentro de esta área, sobre todo en el nivel inicial, primario y secundario.\n\nLa periodista, ensayista y escritora argentina Beatriz Sarlo expuso, hace ya mucho tiempo, en su texto “Cabezas rapadas y cintas argentinas”, cómo la docencia funcionó históricamente en la Argentina como una poderosa zona de promesas, permitiendo a las mujeres un respetable camino de ascenso social, autonomía económica e integración cultural. Por eso, no es raro que al leer “Mujeres de Gualeguaychú”, una obra creada en 2010, la mayoría de las gualeguaychuenses destacadas sean maestras.\n\nLa docencia fue la plataforma desde la cual se habilitó a las mujeres a pensar su potencial por fuera del ámbito del hogar, y les permitió dejar una huella imborrable en la sociedad que perdura hasta la actualidad. Esta es una breve recopilación de algunas de sus hazañas e historias.\n\n \n\nLa maestra del barrio norteFlorencia Marreins fue la primera directora y maestra de la que conocemos hoy como Escuela Nº8 Coronel Rosendo Fraga. Con sacrificio forjó esa institución que cambió para siempre la fisonomía del barrio norte de la ciudad llamado Franco.\n\nSu principal preocupación era lograr que los estudiantes no abandonaran su educación, ya que, al provenir de familias pobres, muchos debían salir a trabajar para llevar sustento a sus hogares. A eso se sumaba la poca importancia que el núcleo familiar le daba a la escuela por tener, en parte, que privilegiar el plato de comida de todos los días.\n\nDe hecho, Florencia remitió incontables veces notas a las autoridades policiales en las que solicitaba su colaboración para hacer cumplir el artículo 33 sobre Educación Común.\n\nAdemás de impartir clases, Marreins se dedicó a brindar un entorno agradable para sus estudiantes, que estaban habituados a condiciones precarias. Por eso, en 1920 solicitó árboles frutales “de preferencia duraznos, ciruelos y damascos” a la Escuela Rural Alberdi y a las autoridades de la Escuela de Villa Urquiza.\n\nComo parte de su compromiso humano y educativo, también veló por las necesidades alimentarias de su alumnado, y dirigió una nota al intendente solicitando la donación semanal de “galleta suiza”. Este pedido se repitió en sucesivas oportunidades a lo largo de los años que estuvo al frente de la escuela.\n\n \n\nLa pionera de la Educación EspecialMercedes Adriana Aguilar Vidart fue la primera maestra de Educación Especial que tuvo Gualeguaychú y fundadora de la Escuela Rizzuto. Según consta en registros históricos, “desde muy temprana edad disfrutaba ayudando a pequeños con dificultades escolares”, y cuando creció incorporó esto a su vida adulta. Cursó sus estudios en la Escuela Normal, donde se recibió de maestra, y luego continuó sus estudios en La Plata. Allí recibió el título de maestra diferenciada.\n\nSu rol fue muy disruptivo para la época, debido a que tener un hijo con discapacidad era mal visto, a tal punto que se los solía ocultar. Sin embargo, Mercedes hizo todos los esfuerzos posibles por escolarizar a estos chicos, a los que empezó a educar en su propia casa: en el patio cuando el clima era cálido, y en su comedor cuando hacía frío.\n\nSu tenacidad y su visión la llevaron a fundar la Escuela Rizzuto. Pero no se conformó con eso, sino que en 1965 reunió a un grupo de personas influyentes de la ciudad, y al cabo de un año, concretó la apertura del actual ISPED con dos carreras, una de ellas, Educación Especial. Este instituto fue el primero en su tipo en la provincia, y funcionó como modelo, no sólo en nuestro país, sino también en América Latina.\n\n \n\nDe las escuelas rurales al INTA Nelly Amelia Badano Piaggio fue docente en Islas del Ibicuy y otras zonas rurales, este contacto con el campo fue lo que generó su ingreso en el Instituto Nacional de Tecnología Agropecuaria (INTA). Allí, se desempeñó como extensionista de Clubes Rurales en Entre Ríos, que tenía como objetivo mejorar las condiciones de vida de las familias en el campo. Su radio de actividad abarcó Gualeguaychú, Urdinarrain y Concepción del Uruguay.\n\nComo mujer, tuvo una mirada especial sobre las condiciones de vida de las mujeres en el campo, por lo que bregó para que estas lograran crecimiento personal y alcanzaran un mayor bienestar. Con esos objetivos, implementó programas de salud, educación y capacitación laboral.\n\nEn el INTA, gracias a su gran labor, desarrolló una destacada trayectoria profesional hasta alcanzar el cargo de Secretaria Nacional.\n\n \n\nPor amor a los más pequeñosA Rita Latallada se la conoce como “la fundadora de los Jardines de Infantes en Argentina”. De 1888 a 1893 ejerció el magisterio en el nivel preescolar y fue reconocida por el mismísimo Sarmiento.\n\nA los 20 años, fundó la Escuela Superior de Niños de Paraná. También creó la Escuela Normal de Maestros de Santa Fe, de la que fue regente y directora, y la Escuela Normal Regional de Catamarca.\n\nDe 1931 a 1932 se desempeñó como vocal del Concejo Escolar Nº 16, en Capital Federal, y en 1935 fundó la Asociación Pro-Difusión del Kindergarten. Desde 1937 gestionó ante el Gobierno Nacional la creación de Jardines de Infante en el país. Así dio nacimiento al Jardín del Instituto Bernasconi, el de la Escuela Normal Sarmiento, y el de la Escuela Normal de Gualeguaychú (1939), entre otros.\n\nSus trabajos pedagógicos y su informe sobre los jardines, le valieron el diploma de Vicepresidente Honoraria del Congreso Pedagógico de Chicago.\n\n \n\nImpulsora del primer jardín privado de la ciudadAngelina Lapalma nació en Costa Uruguay y cuando su mamá enviudó, toda la familia se mudó a Gualeguaychú. En la Escuela Normal egresó como parte de una de las primeras promociones de maestras. Ya recibida, cargó sobre sus hombros a la familia, tomó un tren y se fue a vivir y a trabajar a Diamante, donde conoció al amor de su vida, un militar dispuesto a casarse con ella, propuesta que rechazó para no desamparar económicamente a su familia.\n\nDe regreso a Gualeguaychú, comenzó a trabajar en la Escuela Rocamora, donde se jubiló. Al mismo tiempo, para ayudarse económicamente, daba clases particulares.\n\nUna vez jubilada, creó el primer Jardín de Infantes privado de la ciudad, por el cual pasaron varias generaciones de niños.\n\nTambién se desempeñó como trabajadora de la Asociación de Magisterio de Entre Ríos y de la Federación del Magisterio de Entre Ríos; y ocupó un lugar como funcionaria en la Municipalidad.\n\nEn la Biblioteca Sarmiento, de la cual fue presidenta, impulsó la Biblioteca Infantil para despertar en los niños el gusto por la lectura.\n\n \n\nLa primera Profesora de Enseñanza GeneralLuisa Bugnone nació en el seno de una familia de intelectuales. Se formó como docente y fue la primera gualeguaychuense en recibirse como Profesora de Enseñanza General.\n\nEjerció como directora de la Escuela Rawson en la sección de niñas, cargo que ejerció hasta 1895. Tiempo después fue nombrada directora en la sección de varones, pero como se la reemplazó por alguien que carecía de título habilitante, consideró el hecho como injusticia y renunció.\n\nFundó con Camila Nievas la escuela gratuita de niñas, cuyo nombre fue José María Torres. Este establecimiento funcionaba en un local para renta de la Sociedad Italiana Unione e Benevolenza, contiguo a la sede. Allí nació, entre ambas educadoras, la idea de crear una institución para que la mujer se cultivara y tuviera vida propia; entidad que nació con el nombre de Sociedad por la Patria y el Hogar, el 19 de junio de 1898. Luisa fue la primera presidenta de la Comisión Directiva del Instituto Magnasco.\n\nDe las aulas locales al impacto socialEl proceso de formación docente en nuestro país comienza a mediados del siglo XIX, consolidándose entre sus últimas décadas y las primeras del siglo XX. Cuando comenzaron las clases, el 7 de marzo de 1910, la formación docente en Gualeguaychú tenía 29 estudiantes en primer año de magisterio. Aunque la institución había sido pensada originalmente para varones, las mujeres fueron mayoría entre los inscriptos. La primera alumna registrada fue María Francisca Frávega, mientras que en 1913 egresó la primera promoción de maestras, integrada por 15 mujeres: Magdalena Audiffred, Amalia Barbosa, América Barbosa, Amalia Bellone, Atlántida Borzone, María Frávega, María Fuentes, Alba Hermelo, Emilia Muñoz, Julia Puccio, María L. Queirolo, Carlota Rivas, Magdalena Zamacoits, Elvira Secchi y Luisa Venturino.\n\nSu llegada a las aulas se produjo en un momento en que el acceso de las mujeres a la educación y al trabajo profesional todavía generaba fuertes debates. Si bien la docencia comenzaba a consolidarse como un espacio laboral para ellas, no ocurría lo mismo con los cargos de conducción. Incluso Leopoldo Lugones cuestionaba que las mujeres fueran directoras o inspectoras, aunque consideraba que sus cualidades afectivas y su cercanía con la infancia las hacían especialmente aptas para enseñar. De este modo, se instaló una división entre una profesión considerada apropiada para las mujeres y los espacios de autoridad que continuaban siendo mayoritariamente masculinos.\n\nA esto se sumaban condiciones laborales restrictivas: durante las primeras décadas no existían garantías de estabilidad laboral ni salarial y las docentes estaban sometidas a normas que incluso podían limitar su derecho a casarse. Mientras cada vez más mujeres se incorporaban a la enseñanza, también crecían las discusiones sobre su posibilidad de ocupar cargos directivos, de inspección y otros espacios de decisión. Las primeras maestras formadas en Gualeguaychú fueron, así, parte de un proceso más amplio que transformó el lugar de las mujeres en la educación y abrió un camino que durante años tuvieron que seguir ampliando.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:53:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "agro",
+      "servicios_publicos",
+      "municipios",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "diamante",
+      "gualeguay",
+      "ibicuy",
+      "federación",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-la-piramide-gn-5a1f9b1d9ac4",
+    "fuente": "La Pirámide",
+    "titulo": "El Partido Vecinalista de los Trabajadores invita a charla abierta con Marcelo Ramal en Concepción del Uruguay",
+    "fecha": "2026-09-12",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVFRrejRDdEpnZHZUcVpHaWlIMFNLNnFLcXBhZGRyaUFlbkVYM2hudjFxa1BvV01qZTI0Yk00Q2h6M1F6eG5hN0JvckR5a2JsMTFBeHFoY0dIS1p0cEh1UjlxRmNYc2pYWGJrYWlGamhsd0w3QzBHQVh6azJ3UXU5T0plYVItbWNiZEVzeWhjYWVjVEpkNW5ZWTlDcmlqTmR2TXgwSGdLT3lSck9mSXJHN1U3dTYwVXVWTHgtWjBLdTBKYkVsel9FUFNzNURlRVlMcUYtWG5PMVV6cjgxR0UydFJvWW43RFktcG1fT0p2T2VHNG1wM3FZ?oc=5",
+    "texto_original": "El Partido Vecinalista de los Trabajadores invita a charla abierta con Marcelo Ramal en Concepción del Uruguay\n  \nLa Pirámide",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T02:53:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "concepción del uruguay"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-ed821d9bd9a7",
+    "fuente": "AP Noticias",
+    "titulo": "Estudiantes entrerrianos representarán a la provincia en la Feria Nacional de Educación 2026",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3oyUHBhZVU1blBpSFI2Um1xWVU1eUJrZC1OMUVzTzBnVjktMlEzNWhJRjl6LWlwd09ZVmtORlF0bkhWWkJ2aTJ2bHY2Wm9UUkRJTmYtdnppejZPa29VeWFmUHFaRGVURG1lRXpzZ0cxZDg5czZVNUZvRlNJQ3VMZnlVd3g5UDQ1d3c?oc=5",
+    "texto_original": "Estudiantes entrerrianos representarán a la provincia en la Feria Nacional de Educación 2026\n  \nAP Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T03:07:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-a4f2c5579cb0",
+    "fuente": "AP Noticias",
+    "titulo": "Entre Ríos refuerza Educación Continua en eventos hípicos",
+    "fecha": "2026-09-13",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQjZUNDhOQ3hiMjR1ZkFCNTVBVTAydU1VY1kxNjdGcFR2cGk0YTNUdmNDYVdCeW5MREVXZEt1em1iVHVQdUczN2JGM2NGWHhsUVNGcGJmNjQyUjNrRmJTcGtmNk9HRTE1QzAtVjcydENWSXF0X1ltakFMdVB0aVloNlFKWQ?oc=5",
+    "texto_original": "Entre Ríos refuerza Educación Continua en eventos hípicos\n  \nAP Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-13T03:07:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
     ]
   }
 ]
