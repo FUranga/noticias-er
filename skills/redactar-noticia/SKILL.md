@@ -13,6 +13,8 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
 
 1. **Conseguir el material fuente.** El usuario puede pasar el texto del comunicado directamente, un link (usar WebFetch), o una captura/descripción. Si es un link y el fetch trae poco contenido, pedí el texto completo en vez de reescribir sobre datos incompletos.
 
+   **Si el material fuente es la cobertura de varios medios sobre un conflicto o proceso en curso** (no un comunicado único) — típico de un ítem que viene de `monitorear_medios.py` — leé antes la sección "Notas reconstruidas a partir de varios medios" de `docs/estilo-editorial.md`: ahí NO aplica la regla de extensión corta, hace falta investigar contexto que ninguna fuente individual explica, y cada cita necesita su atribución real (incluida la fuente original si el medio la sacó de una radio/entrevista).
+
 2. **Identificar el hecho verificable vs. el relato institucional.** Antes de escribir una palabra, separá:
    - ¿Qué pasó, concretamente? (una medida, una cifra, una firma, un anuncio, una sesión, una resolución)
    - ¿Qué es interpretación o valoración de quien emite el comunicado? (impacto esperado, adjetivos, intenciones declaradas)
