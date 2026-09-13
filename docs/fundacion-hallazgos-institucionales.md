@@ -59,5 +59,5 @@ La Secretaría de Transporte fija la tarifa interurbana por resolución minister
 **Estado**: `para investigar` — ¿por qué el nivel provincial no replica el mecanismo municipal? ¿Hay algún proyecto legislativo que lo haya propuesto?
 
 ### 2026-09-07 — Gas sin regulador provincial (menor prioridad, es lo común en otras provincias)
-A diferencia de la electricidad (EPRE), no hay ente regulador provincial de gas — la tarifa de CEGSA (la distribuidora estatal) la fija ENARGAS a nivel nacional. Distinto de la asimetría del agua: esto es lo habitual en la mayoría de las provincias argentinas (el gas suele regularse a nivel nacional en general), así que es menos claramente una anomalía comparativa que el caso del agua. Se anota igual para no perder el dato.
+A diferencia de la electricidad (EPRE), no hay ente regulador provincial de gas — la tarifa de CEGSA (la distribuidora estatal) la fija a nivel nacional el ENReGE (ex ENARGAS, fusionado con ENRE en 2026). Distinto de la asimetría del agua: esto es lo habitual en la mayoría de las provincias argentinas (el gas suele regularse a nivel nacional en general), así que es menos claramente una anomalía comparativa que el caso del agua. Se anota igual para no perder el dato.
 **Estado**: `para investigar`, prioridad baja.
