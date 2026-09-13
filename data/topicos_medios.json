@@ -6,7 +6,7 @@
   "industria": ["industria", "industrial", "fábrica", "planta industrial", "pyme", "pymes"],
   "empleo": ["empleo", "desempleo", "trabajo", "trabajadores", "paritaria", "sindicato", "gremio", "convenio colectivo"],
   "comercio": ["comercio", "comercial", "ventas minoristas", "consumo"],
-  "agro": ["agro", "agropecuario", "agrícola", "cosecha", "campo", "productor rural", "soja", "trigo", "maíz", "arroz", "avícola", "citrícola"],
+  "agro": ["agro", "agropecuario", "agrícola", "cosecha", "productor rural", "soja", "trigo", "maíz", "arroz", "avícola", "citrícola"],
   "impuestos": ["impuesto", "impositivo", "tributario", "ater", "ingresos brutos", "moratoria"],
   "servicios_publicos": ["tarifa", "tarifario", "epre", "energía eléctrica", "gas natural", "agua potable", "transporte público", "boleto"],
   "transparencia": ["transparencia", "declaración jurada", "acceso a la información", "rendición de cuentas"],

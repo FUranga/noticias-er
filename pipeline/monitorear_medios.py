@@ -33,6 +33,32 @@ motivo, igual que el filtro del Boletin.
 Sin filtro de organismos/personalidades todavia -- lista pendiente de
 armar (ver docs/fuentes.md, seccion "Medios", "Proximos pasos").
 
+Refinamiento 2026-09-13 (revisando en frio los 349 "pendiente" acumulados
+en data/backlog.json, no a priori): tres huecos reales encontrados, cada
+uno con un caso concreto que paso el filtro por error.
+1. Lugares que son tambien palabras/nombres comunes ("federal", "victoria",
+   "colon", "la paz", "san salvador", "federacion" -- todas localidades
+   reales de Entre Rios, pero tambien una palabra corriente, un nombre de
+   pila, un apellido historico o una capital extranjera). Una nota sobre
+   la campana de Trump en EEUU paso el filtro por mencionar "elecciones"
+   (topico) + un lugar-homonimo suelto. Separados en data/lugares_medios.json
+   como "fuertes" (bastan solos) vs "ambiguos" (solo cuentan si TAMBIEN
+   aparece un lugar fuerte en el mismo texto -- ver lugares_matcheados()).
+2. Topico de una sola palabra generica: "campo" (en "agro") matcheaba
+   cualquier nota que mencionara una zona rural, sin relacion con
+   agroeconomia -- una avioneta estrellada "en un campo" entrerriano colo
+   por eso. Sacado de data/topicos_medios.json; el resto de la lista
+   (terminos de dos palabras o especificos) ya alcanza para agro real.
+3. Deportes/espectaculos/cultura de entretenimiento (fuera de alcance en
+   CLAUDE.md sin excepcion) NO se filtran aca -- ya existe
+   data/criterios_depuracion_medios.json + pipeline/depurar_pendientes_medios.py
+   para eso (corre cada 30' en el mismo workflow, ver monitorear_medios.yml).
+   Sumar una segunda lista de exclusion aca hubiera duplicado ese mecanismo
+   ya afinado con casos reales -- el gap real encontrado (titulos tipo
+   "agenda de eventos deportivos", que no matcheaban ninguna palabra exacta
+   de esa lista) se corrigio ampliando esa lista existente, no creando una
+   nueva aca.
+
 Dos tipos de fuente en data/fuentes_medios.json:
 - "rss": feed propio de un medio confirmado (parseado con feedparser).
 - "google_news": busqueda de Google News RSS (parametro "query", mas
@@ -86,7 +112,7 @@ def cargar_topicos() -> dict[str, list[str]]:
         return json.load(f)
 
 
-def cargar_lugares() -> list[str]:
+def cargar_lugares() -> dict[str, list[str]]:
     with open(LUGARES_PATH, encoding="utf-8") as f:
         return json.load(f)
 
@@ -98,6 +124,19 @@ def texto_matchea(texto: str, palabras: list[str]) -> list[str]:
     # sobre "selecciones menores" quedaba marcada como tópico "elecciones").
     texto = texto.lower()
     return [p for p in palabras if re.search(rf"\b{re.escape(p)}", texto)]
+
+
+def lugares_matcheados(texto: str, lugares: dict[str, list[str]]) -> list[str]:
+    # Ver refinamiento 2026-09-13 en el docstring del modulo: un lugar
+    # "ambiguo" (tambien palabra/nombre comun, ej. "federal", "victoria")
+    # solo cuenta si ADEMAS aparece un lugar "fuerte" en el mismo texto --
+    # una nota realmente entrerriana sobre esos lugares casi siempre
+    # menciona tambien "Entre Rios" u otra localidad inequivoca.
+    fuertes = texto_matchea(texto, lugares["fuertes"])
+    if not fuertes:
+        return []
+    ambiguos = texto_matchea(texto, lugares["ambiguos"])
+    return fuertes + ambiguos
 
 
 def loguear_filtrado(item: dict, motivo: str) -> None:
@@ -238,7 +277,7 @@ def main() -> None:
                 filtrados_topico += 1
                 continue
 
-            lugares_ok = texto_matchea(texto_completo, lugares)
+            lugares_ok = lugares_matcheados(texto_completo, lugares)
             if not lugares_ok:
                 loguear_filtrado(item, "sin_lugar")
                 filtrados_lugar += 1

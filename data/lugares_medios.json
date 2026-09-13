@@ -1,24 +1,28 @@
-[
-  "entre ríos",
-  "entrerrian",
-  "paraná",
-  "concordia",
-  "gualeguaychú",
-  "concepción del uruguay",
-  "colón",
-  "diamante",
-  "federación",
-  "chajarí",
-  "federal",
-  "feliciano",
-  "gualeguay",
-  "ibicuy",
-  "la paz",
-  "nogoyá",
-  "san salvador",
-  "rosario del tala",
-  "victoria",
-  "villaguay",
-  "crespo",
-  "santa elena"
-]
+{
+  "fuertes": [
+    "entre ríos",
+    "entrerrian",
+    "paraná",
+    "concordia",
+    "gualeguaychú",
+    "concepción del uruguay",
+    "diamante",
+    "chajarí",
+    "feliciano",
+    "gualeguay",
+    "ibicuy",
+    "nogoyá",
+    "rosario del tala",
+    "villaguay",
+    "crespo",
+    "santa elena"
+  ],
+  "ambiguos": [
+    "colón",
+    "federación",
+    "federal",
+    "la paz",
+    "san salvador",
+    "victoria"
+  ]
+}

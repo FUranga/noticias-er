@@ -3,7 +3,8 @@
   "categorias": {
     "deporte": {
       "motivo": "Deportes, fuera de alcance tematico del medio.",
-      "palabras": ["futbol", "seleccion", "messi", "scaloni", "karting", "avicultura deportiva", "juegos evita", "juegos deportivos", "campeonato", "torneo de", "handball", "softbol", "basquet", "volley", "atletismo"]
+      "_nota": "'deportiv' (2026-09-13, revisando pendientes acumulados): agregado como raiz para agarrar 'deportivo/a/os/as' en frases genericas tipo 'agenda de eventos deportivos y culturales' -- esas no matcheaban ninguna palabra especifica de esta lista (ninguna es 'campeonato' ni 'torneo de' literal) y quedaban sin descartar.",
+      "palabras": ["futbol", "seleccion", "messi", "scaloni", "karting", "avicultura deportiva", "juegos evita", "juegos deportivos", "campeonato", "torneo de", "handball", "softbol", "basquet", "volley", "atletismo", "deportiv", "duatlon", "maraton", "polideportivo"]
     },
     "espectaculo": {
       "motivo": "Espectaculo/cultura de entretenimiento, fuera de alcance tematico del medio.",
