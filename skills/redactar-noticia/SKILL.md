@@ -13,7 +13,7 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
 
 1. **Conseguir el material fuente.** El usuario puede pasar el texto del comunicado directamente, un link (usar WebFetch), o una captura/descripción. Si es un link y el fetch trae poco contenido, pedí el texto completo en vez de reescribir sobre datos incompletos.
 
-   **Si el material fuente es la cobertura de varios medios sobre un conflicto o proceso en curso** (no un comunicado único) — típico de un ítem que viene de `monitorear_medios.py` — leé antes la sección "Notas reconstruidas a partir de varios medios" de `docs/estilo-editorial.md`: ahí NO aplica la regla de extensión corta, hace falta investigar contexto que ninguna fuente individual explica, y cada cita necesita su atribución real (incluida la fuente original si el medio la sacó de una radio/entrevista).
+   **Si el material fuente es la cobertura de varios medios sobre un conflicto o proceso en curso** (no un comunicado único) — típico de un ítem que viene de `monitorear_medios.py` — leé antes la sección "Notas reconstruidas a partir de varios medios" de `docs/estilo-editorial.md`: ahí la regla de extensión corta casi nunca alcanza, y cada cita necesita su atribución real (incluida la fuente original si el medio la sacó de una radio/entrevista). Es el caso donde más fácil se nota la falta de profundidad, pero la regla de abajo aplica siempre, con cualquier material fuente.
 
 2. **Identificar el hecho verificable vs. el relato institucional.** Antes de escribir una palabra, separá:
    - ¿Qué pasó, concretamente? (una medida, una cifra, una firma, un anuncio, una sesión, una resolución)
@@ -34,6 +34,7 @@ Las reglas de estilo completas están en `docs/estilo-editorial.md`. Este docume
    - Atribución explícita de todo dato de impacto/logro/causa que venga de la fuente y no de verificación propia — tejida en el cuerpo, preferentemente al final de la oración ("la medida no alcanza a cubrir el déficit, señaló la oposición"), con verbos variados en pretérito simple (dijo, aseguró, señaló, sostuvo — nunca "ha declarado"), nunca como una línea "Fuente:" separada al final (no es periodístico). Citas textuales entre comillas normales.
    - Cierre que reencuadra o deja tensión abierta (a menudo una cita), no un resumen del redactor tipo "de esta manera, la medida busca...".
    - Moneda en letras, sin adjetivos calificativos en voz propia (un juicio de valor fuerte va entre comillas de una fuente, no del redactor), sin relleno de protocolo.
+   - **Profundidad por defecto, en cualquier nota**: cada tema que se menciona (una cifra, un organismo, un antecedente, un conflicto) lleva la explicación mínima para que un lector nuevo lo entienda — qué es, por qué importa, qué lo hace conflictivo, a quién impacta. Si no se puede explicar en una frase por qué un dato mencionado importa, falta investigarlo, no alcanza con nombrarlo. Esto puede alargar la nota más allá del "3-6 párrafos" de arriba cuando el hecho lo amerita — ver también "Extensión" en `docs/estilo-editorial.md`.
 
 5. **No inventes lo que falta.** Si el comunicado no trae una cifra, fecha o dato que el título necesitaría, escribí con lo que hay y señalá explícitamente al usuario qué dato falta — no lo completes con una suposición razonable, aunque parezca obvia.
 
