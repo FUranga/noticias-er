@@ -16,7 +16,13 @@ import time
 import feedparser
 
 
-def parsear_feed_con_reintentos(url: str, *, agent: str = "Mozilla/5.0", intentos: int = 3, espera_base: int = 3):
+AGENT_NAVEGADOR = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+)
+
+
+def parsear_feed_con_reintentos(url: str, *, agent: str = AGENT_NAVEGADOR, intentos: int = 3, espera_base: int = 3):
     """Parsea `url` con feedparser, reintentando si da bozo sin entradas.
 
     Espera `espera_base * intento` segundos entre reintentos (backoff

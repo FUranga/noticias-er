@@ -699,7 +699,7 @@
     "rss": "https://jucofer.com.ar/feed/",
     "scrapeable": true,
     "contacto": null,
-    "notas": "Cooperativa citrícola. Tiene RSS de WordPress, pero el certificado SSL del sitio está vencido al momento de este chequeo (puede fallar en lectores de RSS estrictos con HTTPS).",
+    "notas": "Cooperativa citrícola. **Sitio inaccesible, re-verificado 2026-09-14**: tanto `/` como `/feed/` devuelven 403 Forbidden (pantalla genérica de hosting, no un challenge de Cloudflare) con http/https, con/sin `www`, y con headers de navegador completo — no es un problema de user-agent del lector de RSS, el dominio entero rechaza la conexión a nivel de hosting. No se confirmó dominio alternativo ni presencia en redes en esta pasada — queda sin alternativa, no inventar una.",
     "cotiza_bolsa": false,
     "oferta_publica_cnv": null
   },
@@ -721,7 +721,7 @@
     "rss": "https://lablanquitasrl.com/feed/",
     "scrapeable": true,
     "contacto": null,
-    "notas": "Sección /novedades/ con posts categorizados y RSS de WordPress. El sitio tuvo un certificado SSL con error de confianza en el primer intento (se resolvió reintentando).",
+    "notas": "Sección /novedades/ con posts categorizados y RSS de WordPress. **Certificado SSL vencido, confirmado 2026-09-14** (chequeado directo por handshake TLS, no solo por el error de `feedparser`: `certificate has expired`) — ya no es el error de confianza transitorio que se resolvía reintentando, es un vencimiento real. El feed en sí sigue sano (RSS válido, 10 entradas) si se omite la verificación del certificado. No se cambia el comportamiento del lector para ignorar certificados vencidos sin que Francisco lo decida explícitamente — mientras tanto esta fuente sigue fallando en cada corrida.",
     "cotiza_bolsa": false,
     "oferta_publica_cnv": null
   },
@@ -754,7 +754,7 @@
     "rss": "https://eriochem.com.ar/feed/",
     "scrapeable": true,
     "contacto": "info@erio.com.ar",
-    "notas": "Laboratorio farmacéutico oncológico. Sección /novedades/ con RSS de WordPress.",
+    "notas": "Laboratorio farmacéutico oncológico. Sección /novedades/ con RSS de WordPress. **Feed sano, falla solo por user-agent, confirmado 2026-09-14**: el sitio devuelve 406 al `agent=\"Mozilla/5.0\"` bare que manda `feed_utils.parsear_feed_con_reintentos`, pero acepta un user-agent de navegador completo (string real de Chrome/Windows) — con eso el feed es XML válido, 10 entradas. No es un feed roto, es un filtro del lado del servidor contra bots genéricos.",
     "cotiza_bolsa": false,
     "oferta_publica_cnv": null
   },
@@ -1205,7 +1205,7 @@
     "rss": "https://bakelite.com/feed/",
     "scrapeable": true,
     "contacto": "resinas.concordia@bakelite.com",
-    "notas": "Filial local de Bakelite Synthetics (multinacional); el sitio con RSS y blog es el corporativo global, no específico de la planta de Concordia.",
+    "notas": "Filial local de Bakelite Synthetics (multinacional); el sitio con RSS y blog es el corporativo global, no específico de la planta de Concordia. **Feed sano, falla solo por user-agent, confirmado 2026-09-14**: el bare `agent=\"Mozilla/5.0\"` de `feed_utils.parsear_feed_con_reintentos` recibe 403, pero un user-agent de navegador completo lo resuelve (200, XML válido, 10 entradas — ej. \"Bakelite Teams Hit the Links for a Good Cause\", contenido corporativo en inglés, confirma que no aporta cobertura local). Mismo patrón que eriochem: no es un feed roto, es un filtro anti-bot del lado del servidor.",
     "cotiza_bolsa": false,
     "oferta_publica_cnv": null
   },
