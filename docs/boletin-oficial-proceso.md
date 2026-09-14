@@ -26,6 +26,8 @@ Cargar cada edición completa a la cablera (`data/backlog.json`) sin filtrar —
 
 **Se filtra (no llega a la cablera, sí al log)**:
 - Decretos con título que matchea `RECHAZO (RECURSO|RECLAMO|SOLICITUD) INTERPUESTO POR...` — confirma una decisión ya tomada contra una persona, no revela un hecho nuevo. Es la categoría de mayor volumen (11 de 25 decretos en la edición de referencia).
+
+**Patrón detectado sin filtrar todavía (triage 2026-09-14)**: el patrón inverso `HACE LUGAR (RECURSO|RECLAMO|SOLICITUD) INTERPUESTO POR...` (recurso concedido, no rechazado) tiene el mismo perfil administrativo/rutinario que el ya filtrado — 13 de 38 decretos en la edición del 14/9 eran de este tipo, todos trámites individuales de mora ante Caja de Jubilaciones/Fiscalía de Estado sin ángulo noticioso. Candidato a sumarse al filtro mecánico; no aplicado todavía, queda para que Francisco lo confirme (mismo criterio de calibración que el resto de esta sección).
 - Toda la Sección Comercial excepto Licitaciones (edictos judiciales, personas jurídicas, y las subcategorías de "organismos públicos" que no son licitaciones) — se descarta **en bloque por categoría**, sin parseo item por item (ver "Fuera de alcance" abajo). Edictos judiciales en particular: Francisco confirmó que nunca importan.
 
 **Nunca se filtra, aunque sea administrativo** (el monto/cargo importa y varía caso a caso): "reconocimiento de pago", "recupero de haberes", "renuncia de...", "pase a retiro de...". Todos llegan a la cablera con prioridad `media`.

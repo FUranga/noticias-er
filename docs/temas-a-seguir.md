@@ -36,6 +36,7 @@ Cada ítem lleva: fecha, tema, de qué comunicado/nota salió, por qué es inter
 **Por qué es interesante**: es control real sobre fondos sociales de magnitud, con visita presencial de los equipos técnicos — pero ningún medio, incluida la nota más completa (Entre Ríos Ahora), reporta ningún hallazgo, observación o conclusión de la auditoría. Es una nota sobre el procedimiento, no sobre el resultado. Vale la pena volver cuando el TCER publique el informe con sus conclusiones en `tcer.gob.ar/novedades.html`.
 **Hueco de ingesta relacionado (detectado 2026-09-13, resuelto parcialmente el mismo día)**: el bloqueo de `tcer.gob.ar` que documentaba `fuentes.md` era solo falta de un User-Agent de navegador, no un desafío real — ya está resuelto (`pipeline/monitorear_tcer.py`, corre diario). Ese mecanismo cubre Memorias Anuales, Convenios e Informes de la Cuenta General del Ejercicio — **no las auditorías especiales puntuales como esta**. Pero SÍ existe un lugar donde debería terminar apareciendo: `tcer.gob.ar/scripts/normativa/buscar` (buscador de Acordadas/Resoluciones/Sentencias) — confirmado con un precedente real, una Resolución de 2021 sobre subsidios a comedores comunitarios **de Concordia** (no la de Paraná que estamos siguiendo). `monitorear_tcer.py` ya repite esa búsqueda puntual en cada corrida (`BUSQUEDAS_PUNTUALES`), así que si el TCER emite una resolución sobre el caso de Paraná con esas mismas palabras en el texto, debería aparecer sola en la cablera. No se filtró todo el stream de normativa (255 resultados solo en 2026, mayoría trámite administrativo rutinario — mismo tipo de ruido que el Boletín Oficial) porque no está resuelto un filtro dedicado para eso todavía.
 **Estado**: `para investigar`.
+**Actualización (triage 2026-09-14)**: el decreto 2475 del Boletín Oficial ER (`boletiner-28416-dto-2026-2475-e-ger-gob`) inicia un sumario administrativo a un agente de la Dirección de Comedores (Ministerio de Desarrollo Humano) por causal disciplinaria — mismo tipo de organismo que esta auditoría, pero el texto llegó cortado por el filtro y no da fecha ni motivo del sumario. No confirmado todavía si es el mismo caso; revisar el decreto completo antes de conectarlos.
 
 ### 2026-09-13 — Exportación de 30.000 toneladas de madera a India desde el puerto de Concepción del Uruguay
 **De**: Elonce.com, 13/9/2026 (nota corta, sin desarrollo).
@@ -124,6 +125,26 @@ Es decir: **el esquema "voluntario + avalúo fiscal" del Portal de Datos Abierto
 ### 2026-09-08 — HIF Global relocalizó su planta de hidrógeno de Colón a Uruguay: falta la lectura económica
 **De**: `medios-fm-del-este-localizacion-de-hif-global` (FM del Este, cobertura 100% oficialista — solo declaraciones del secretario General de la Gobernación, Mauricio Colello).
 **Por qué es interesante**: el gobierno provincial celebra como "victoria diplomática" que HIF Global mudara a Uruguay el proyecto de planta de hidrógeno que iba a instalarse frente a Colón, enmarcándolo como protección del perfil turístico de la ciudad. Ningún medio exploró la lectura inversa: se perdió una inversión industrial significativa frente a un país vecino — vale la pena reconstruir el proyecto original (monto, empleos proyectados) y por qué eligió Uruguay, antes de dar por buena la narrativa de "diplomacia exitosa" sin más. El hecho puntual (la mudanza) ya es viejo para una nota propia sola; el ángulo económico todavía no.
+**Estado**: `para investigar`.
+
+### 2026-09-14 — Atraso de fondos nacionales de transporte obligó a la provincia a adelantar $1.000 millones
+**De**: `boletiner-28416-dto-2026-2451-e-ger-gob` (Boletín Oficial ER, decreto de la Secretaría de Transporte).
+**Por qué es interesante**: la provincia gestionó asistencia financiera transitoria y reintegrable del Tesoro provincial por $1.000 millones, motivada por la demora en la percepción de fondos nacionales del Régimen de Compensaciones Complementarias ("Atributo Social"). Es un ángulo Nación-Provincia real (la provincia tuvo que financiar de su bolsillo un atraso de transferencias nacionales), no una modificación presupuestaria de rutina — falta confirmar hace cuánto se viene demorando el giro nacional y si es un caso aislado o un patrón con otras partidas.
+**Estado**: `para investigar`.
+
+### 2026-09-14 — Resolución EPRE crea el "Certificado Tipo D" para usuarios generadores, falta la lectura práctica
+**De**: comunicado EPRE, Resolución 142/26 (`epre-nuevo-certificado-tipo-d-usuario-generador`).
+**Por qué es interesante**: crea un certificado nuevo para usuarios que generan su propia energía renovable e inyectan excedentes a la red (marco de la Ley 27.424), pero el texto que llegó a la cablera no explica qué cambia en la práctica (¿simplifica un trámite existente? ¿es solo procedimiento nuevo?). Toca el beat de energía ya mapeado en `docs/servicios-publicos-tarifas.md` — vale la pena leer la resolución completa antes de decidir si amerita nota.
+**Estado**: `para investigar`.
+
+### 2026-09-14 — Posible segundo cierre de fábrica en Paraná, o duplicado del caso Valentinuz (Concordia)
+**De**: `medios-el-enfoque-gn-0ff5c78128ad` ("Cerró una histórica fábrica de Paraná después de casi 50 años") vs. `medios-lt15-concordia-valentinuz-aberturas-cerro-tras-49-anos` (Valentinuz Aberturas, Concordia, no Paraná).
+**Por qué es interesante**: mismo perfil (fábrica, ~50 años, cierre) pero ciudad distinta en el título — puede ser un segundo cierre real (agravaría el patrón de crisis industrial ya visible en Concordia: PAMI, comercios, ahora industria) o un error de geolocalización del scraper de Medios. Confirmar antes de tratarlas como una sola historia o como dos.
+**Estado**: `para investigar`.
+
+### 2026-09-14 — Senador Vergara y $86M/mes en contratos legislativos: ¿investigación propia de FM del Este?
+**De**: `medios-fm-del-este-el-senador-provincial-oficialista-gustavo-vergara-dispone-de-casi-86-millones-mensuales-en-contratos-legislativos`.
+**Por qué es interesante**: único outlet que lo trae, con lenguaje de "trascendió" en vez de comunicado oficial — sugiere fuente propia de FM del Este sobre gasto en contratos legislativos, no un wire reempaquetado. Si el dato se sostiene al abrir el link y verificar la fuente, es el tipo de historia de gasto legislativo opaco que pasa las cuatro preguntas de `docs/criterios-noticiabilidad.md` (importante, sorprendente).
 **Estado**: `para investigar`.
 
 ### 2026-09-06 — Uso real de la Ley 10.529 (audiencias públicas) desde 2018, nunca relevado

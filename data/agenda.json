@@ -240,5 +240,82 @@
     "detalle": "Proyecto para crear un organo de seguimiento y analisis historico de la deuda publica entrerriana -- angulo institucional/de control a seguir si avanza.",
     "agregado_el": "2026-09-11T18:03:30Z",
     "estado": "pendiente"
+  },
+  {
+    "id": "stj-eleccion-consejo-magistratura-2026-10-02",
+    "fecha": "2026-10-02",
+    "evento": "Votacion para elegir representantes de empleados judiciales ante el Consejo de la Magistratura de Entre Rios",
+    "tipo": "evento",
+    "fuente": "Superior Tribunal de Justicia de Entre Rios",
+    "origen_id": "stjer-convocatoria-a-elecciones-de-representantes-de-empleados-judiciales-ante-el-consejo-de-la-magistratura-de-entre-rios",
+    "detalle": "Convocatoria bajo Ley 11.227. Asuncion de las nuevas autoridades electas el 10/10/2026.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "licitacion-modernizacion-poder-judicial-2026-10-01",
+    "fecha": "2026-10-01",
+    "evento": "Apertura de sobres de la Licitacion Publica 10/26 del Poder Judicial de ER (modernizacion tecnologica: PC de escritorio y salas de Oralidad)",
+    "tipo": "plazo",
+    "fuente": "Poder Judicial de Entre Rios (Boletin Oficial)",
+    "origen_id": "boletiner-28416-lic-55776",
+    "detalle": "Presupuesto oficial $590.650.000.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "licitacion-repavimentacion-chajari-2026-10-02",
+    "fecha": "2026-10-02",
+    "evento": "Apertura de sobres de la Licitacion Publica 016/2026 D.E. de la Municipalidad de Chajari (repavimentacion Av. Belgrano y Av. 1 de Mayo)",
+    "tipo": "plazo",
+    "fuente": "Municipalidad de Chajari (Boletin Oficial)",
+    "origen_id": "boletiner-28416-lic-55686",
+    "detalle": "Presupuesto oficial $700.000.000.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "mundial-canotaje-gualeguaychu-2026-10-19",
+    "fecha": "2026-10-19",
+    "evento": "Inicio del Mundial de Canotaje Maraton 2026 en Gualeguaychu (hasta el 25/10)",
+    "tipo": "evento",
+    "fuente": "Gobierno de Entre Rios",
+    "origen_id": "goberer-79857",
+    "detalle": "Frigerio participo de la presentacion del evento. Chequear si ya esta cargado por otra via antes de duplicar cobertura.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "ente-gestion-energetica-parana-tratamiento-concejo",
+    "fecha": null,
+    "evento": "El Concejo Deliberante de Parana trata el proyecto de creacion del Ente de Gestion Energetica municipal",
+    "tipo": "tramite en comision",
+    "fuente": "Municipalidad de Parana (via cobertura de Medios)",
+    "origen_id": "medios-analisis-digital-gn-e98ce380f046",
+    "detalle": "Proyecto presentado a concejales el 14/9/2026. Seguir si sale con dictamen o fecha de sesion.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-alivio-fiscal-comercio-tramite",
+    "fecha": null,
+    "evento": "El Senado de ER debate en comision el proyecto de alivio fiscal para el comercio",
+    "tipo": "tramite en comision",
+    "fuente": "Camara de Senadores de Entre Rios (via cobertura de Medios/Bicameral)",
+    "origen_id": "medios-bicameral-el-senado-debatira-en-comision-el-proyecto-de-alivio-fiscal-para-el-comercio",
+    "detalle": "Etapa temprana, sin dictamen todavia.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "senado-ludopatia-media-sancion-tramite",
+    "fecha": null,
+    "evento": "Piden que el Senado de ER retome un proyecto sobre ludopatia con media sancion",
+    "tipo": "tramite en comision",
+    "fuente": "Camara de Senadores de Entre Rios (via cobertura de Medios/Bicameral)",
+    "origen_id": "medios-bicameral-piden-que-el-senado-retome-un-proyecto-sobre-ludopatia-con-media-sancion",
+    "detalle": "Tramite estancado. Seguir si se destraba.",
+    "agregado_el": "2026-09-15T00:00:00Z",
+    "estado": "pendiente"
   }
 ]
