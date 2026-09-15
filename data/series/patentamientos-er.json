@@ -1,0 +1,627 @@
+{
+  "_metodologia": {
+    "nombre": "Patentamientos de automoviles en Entre Rios",
+    "que_mide": "Cantidad de automoviles (no incluye motovehiculos, transporte y carga, ni acoplados -- esas categorias existen en el mismo cuadro fuente pero no se bajaron) patentados por mes en la provincia de Entre Rios, en unidades. Valor mensual puntual, no acumulado.",
+    "productor": "INDEC (Direccion Nacional de Estadisticas Economicas, Direccion de Estadisticas de Comercio y Servicios), elaborado en base a datos de la Direccion Nacional de los Registros Nacionales de la Propiedad del Automotor y de Creditos Prendarios (DNRPAyCP).",
+    "fuente_descarga": "https://www.indec.gob.ar/ftp/cuadros/economia/cuadros_indices_patentamientos.xls",
+    "hoja_usada": "Cuadro 2.1 'Patentamientos de automoviles por jurisdiccion, en unidades', columna Entre Rios.",
+    "metodo_de_extraccion": "Descarga directa del archivo xls (no requiere autenticacion) y lectura programatica con pandas, columna Entre Rios del Cuadro 2.1. Extraido 2026-09-15.",
+    "alcance_geografico": "Entre Rios (el archivo fuente tiene las 24 jurisdicciones, solo se extrajo esta provincia).",
+    "periodicidad_dato": "Mensual.",
+    "periodicidad_actualizacion_fuente": "Trimestral (el informe de prensa de INDEC sale por trimestre, pero cada publicacion actualiza el cuadro completo con datos mensuales hasta el mes mas reciente disponible).",
+    "unidad": "Unidades (automoviles patentados).",
+    "cobertura_temporal": "2014-01 a 2026-06 (150 meses), continua sin saltos.",
+    "fecha_extraccion": "2026-09-15",
+    "notas": [
+      "Los meses 2024-07 a 2024-12 (y la etiqueta de los anios 2025 y 2026 en la primera fila de cada uno) aparecen marcados con un asterisco en la planilla fuente, sin leyenda explicita encontrada en la hoja que explique el significado -- se presume que marca dato provisorio/sujeto a revision (convencion habitual de INDEC), no confirmado con certeza. Los valores en si se cargaron igual, sin descartarlos.",
+      "Verificacion cruzada (2026-09-15): el valor de agosto 2026 (fuera de esta serie, que llega solo a junio 2026 -- INDEC todavia no publico ese mes) fue confirmado de forma independiente via cobertura de prensa citando ACARA: 915 unidades, -32,0% interanual, -9,4% mensual (fuente: Dos Florines, dosflorines.com.ar, sobre datos de ACARA) -- consistente en orden de magnitud con la cifra del informe de coyuntura del CEER (920 unidades) que origino esta busqueda.",
+      "La caida no es un mes atipico: calculando la variacion interanual mes a mes con esta serie, enero 2026 todavia daba +2,9% vs. enero 2025, pero se fue agravando cada mes (-8,9% feb, -3,7% mar, -19,0% abr, -27,9% may, -28,5% jun) hasta el -32% de agosto reportado por ACARA -- es una tendencia que se acelero durante el primer semestre, no una caida puntual.",
+      "Contexto nacional (verificado 2026-09-15, prensa sobre datos ACARA): el total pais tambien cayo en agosto 2026 (-19,1% interanual, octavo mes consecutivo en baja, acumulado enero-agosto -13,3%) -- la caida de Entre Rios (-32%) es sustancialmente mayor a la del promedio nacional, no es solo reflejo de una tendencia pareja en todo el pais.",
+      "No se bajaron las series de motovehiculos, transporte y carga, ni acoplados (existen en el mismo archivo, Cuadros 2.2 a 2.5) -- la cobertura de prensa sobre agosto 2026 senala que las motos en Entre Rios CRECIERON 14,5% interanual en el mismo mes, un dato que contrasta con la caida de autos y podria ser relevante para una nota (posible sustitucion hacia vehiculos mas baratos)."
+    ]
+  },
+  "series": {
+    "entre_rios_automoviles": [
+      {
+        "periodo": "2014-01",
+        "valor_unidades": 2665
+      },
+      {
+        "periodo": "2014-02",
+        "valor_unidades": 1077
+      },
+      {
+        "periodo": "2014-03",
+        "valor_unidades": 1044
+      },
+      {
+        "periodo": "2014-04",
+        "valor_unidades": 1046
+      },
+      {
+        "periodo": "2014-05",
+        "valor_unidades": 1126
+      },
+      {
+        "periodo": "2014-06",
+        "valor_unidades": 1096
+      },
+      {
+        "periodo": "2014-07",
+        "valor_unidades": 1255
+      },
+      {
+        "periodo": "2014-08",
+        "valor_unidades": 1228
+      },
+      {
+        "periodo": "2014-09",
+        "valor_unidades": 1142
+      },
+      {
+        "periodo": "2014-10",
+        "valor_unidades": 1032
+      },
+      {
+        "periodo": "2014-11",
+        "valor_unidades": 714
+      },
+      {
+        "periodo": "2014-12",
+        "valor_unidades": 509
+      },
+      {
+        "periodo": "2015-01",
+        "valor_unidades": 1544
+      },
+      {
+        "periodo": "2015-02",
+        "valor_unidades": 962
+      },
+      {
+        "periodo": "2015-03",
+        "valor_unidades": 1049
+      },
+      {
+        "periodo": "2015-04",
+        "valor_unidades": 1101
+      },
+      {
+        "periodo": "2015-05",
+        "valor_unidades": 994
+      },
+      {
+        "periodo": "2015-06",
+        "valor_unidades": 1205
+      },
+      {
+        "periodo": "2015-07",
+        "valor_unidades": 1254
+      },
+      {
+        "periodo": "2015-08",
+        "valor_unidades": 1234
+      },
+      {
+        "periodo": "2015-09",
+        "valor_unidades": 1335
+      },
+      {
+        "periodo": "2015-10",
+        "valor_unidades": 1280
+      },
+      {
+        "periodo": "2015-11",
+        "valor_unidades": 1021
+      },
+      {
+        "periodo": "2015-12",
+        "valor_unidades": 553
+      },
+      {
+        "periodo": "2016-01",
+        "valor_unidades": 1316
+      },
+      {
+        "periodo": "2016-02",
+        "valor_unidades": 1068
+      },
+      {
+        "periodo": "2016-03",
+        "valor_unidades": 1172
+      },
+      {
+        "periodo": "2016-04",
+        "valor_unidades": 1182
+      },
+      {
+        "periodo": "2016-05",
+        "valor_unidades": 1050
+      },
+      {
+        "periodo": "2016-06",
+        "valor_unidades": 1057
+      },
+      {
+        "periodo": "2016-07",
+        "valor_unidades": 1148
+      },
+      {
+        "periodo": "2016-08",
+        "valor_unidades": 1432
+      },
+      {
+        "periodo": "2016-09",
+        "valor_unidades": 1231
+      },
+      {
+        "periodo": "2016-10",
+        "valor_unidades": 1177
+      },
+      {
+        "periodo": "2016-11",
+        "valor_unidades": 965
+      },
+      {
+        "periodo": "2016-12",
+        "valor_unidades": 630
+      },
+      {
+        "periodo": "2017-01",
+        "valor_unidades": 1820
+      },
+      {
+        "periodo": "2017-02",
+        "valor_unidades": 1183
+      },
+      {
+        "periodo": "2017-03",
+        "valor_unidades": 1489
+      },
+      {
+        "periodo": "2017-04",
+        "valor_unidades": 1273
+      },
+      {
+        "periodo": "2017-05",
+        "valor_unidades": 1375
+      },
+      {
+        "periodo": "2017-06",
+        "valor_unidades": 1406
+      },
+      {
+        "periodo": "2017-07",
+        "valor_unidades": 1376
+      },
+      {
+        "periodo": "2017-08",
+        "valor_unidades": 1524
+      },
+      {
+        "periodo": "2017-09",
+        "valor_unidades": 1324
+      },
+      {
+        "periodo": "2017-10",
+        "valor_unidades": 1450
+      },
+      {
+        "periodo": "2017-11",
+        "valor_unidades": 1133
+      },
+      {
+        "periodo": "2017-12",
+        "valor_unidades": 676
+      },
+      {
+        "periodo": "2018-01",
+        "valor_unidades": 2478
+      },
+      {
+        "periodo": "2018-02",
+        "valor_unidades": 1389
+      },
+      {
+        "periodo": "2018-03",
+        "valor_unidades": 1728
+      },
+      {
+        "periodo": "2018-04",
+        "valor_unidades": 1479
+      },
+      {
+        "periodo": "2018-05",
+        "valor_unidades": 1594
+      },
+      {
+        "periodo": "2018-06",
+        "valor_unidades": 1095
+      },
+      {
+        "periodo": "2018-07",
+        "valor_unidades": 1213
+      },
+      {
+        "periodo": "2018-08",
+        "valor_unidades": 1083
+      },
+      {
+        "periodo": "2018-09",
+        "valor_unidades": 876
+      },
+      {
+        "periodo": "2018-10",
+        "valor_unidades": 776
+      },
+      {
+        "periodo": "2018-11",
+        "valor_unidades": 652
+      },
+      {
+        "periodo": "2018-12",
+        "valor_unidades": 369
+      },
+      {
+        "periodo": "2019-01",
+        "valor_unidades": 1169
+      },
+      {
+        "periodo": "2019-02",
+        "valor_unidades": 692
+      },
+      {
+        "periodo": "2019-03",
+        "valor_unidades": 706
+      },
+      {
+        "periodo": "2019-04",
+        "valor_unidades": 608
+      },
+      {
+        "periodo": "2019-05",
+        "valor_unidades": 572
+      },
+      {
+        "periodo": "2019-06",
+        "valor_unidades": 617
+      },
+      {
+        "periodo": "2019-07",
+        "valor_unidades": 930
+      },
+      {
+        "periodo": "2019-08",
+        "valor_unidades": 756
+      },
+      {
+        "periodo": "2019-09",
+        "valor_unidades": 582
+      },
+      {
+        "periodo": "2019-10",
+        "valor_unidades": 517
+      },
+      {
+        "periodo": "2019-11",
+        "valor_unidades": 358
+      },
+      {
+        "periodo": "2019-12",
+        "valor_unidades": 308
+      },
+      {
+        "periodo": "2020-01",
+        "valor_unidades": 753
+      },
+      {
+        "periodo": "2020-02",
+        "valor_unidades": 522
+      },
+      {
+        "periodo": "2020-03",
+        "valor_unidades": 334
+      },
+      {
+        "periodo": "2020-04",
+        "valor_unidades": 98
+      },
+      {
+        "periodo": "2020-05",
+        "valor_unidades": 444
+      },
+      {
+        "periodo": "2020-06",
+        "valor_unidades": 676
+      },
+      {
+        "periodo": "2020-07",
+        "valor_unidades": 470
+      },
+      {
+        "periodo": "2020-08",
+        "valor_unidades": 474
+      },
+      {
+        "periodo": "2020-09",
+        "valor_unidades": 590
+      },
+      {
+        "periodo": "2020-10",
+        "valor_unidades": 621
+      },
+      {
+        "periodo": "2020-11",
+        "valor_unidades": 520
+      },
+      {
+        "periodo": "2020-12",
+        "valor_unidades": 281
+      },
+      {
+        "periodo": "2021-01",
+        "valor_unidades": 814
+      },
+      {
+        "periodo": "2021-02",
+        "valor_unidades": 484
+      },
+      {
+        "periodo": "2021-03",
+        "valor_unidades": 547
+      },
+      {
+        "periodo": "2021-04",
+        "valor_unidades": 469
+      },
+      {
+        "periodo": "2021-05",
+        "valor_unidades": 373
+      },
+      {
+        "periodo": "2021-06",
+        "valor_unidades": 507
+      },
+      {
+        "periodo": "2021-07",
+        "valor_unidades": 500
+      },
+      {
+        "periodo": "2021-08",
+        "valor_unidades": 451
+      },
+      {
+        "periodo": "2021-09",
+        "valor_unidades": 405
+      },
+      {
+        "periodo": "2021-10",
+        "valor_unidades": 370
+      },
+      {
+        "periodo": "2021-11",
+        "valor_unidades": 347
+      },
+      {
+        "periodo": "2021-12",
+        "valor_unidades": 221
+      },
+      {
+        "periodo": "2022-01",
+        "valor_unidades": 650
+      },
+      {
+        "periodo": "2022-02",
+        "valor_unidades": 420
+      },
+      {
+        "periodo": "2022-03",
+        "valor_unidades": 529
+      },
+      {
+        "periodo": "2022-04",
+        "valor_unidades": 467
+      },
+      {
+        "periodo": "2022-05",
+        "valor_unidades": 499
+      },
+      {
+        "periodo": "2022-06",
+        "valor_unidades": 513
+      },
+      {
+        "periodo": "2022-07",
+        "valor_unidades": 635
+      },
+      {
+        "periodo": "2022-08",
+        "valor_unidades": 581
+      },
+      {
+        "periodo": "2022-09",
+        "valor_unidades": 473
+      },
+      {
+        "periodo": "2022-10",
+        "valor_unidades": 484
+      },
+      {
+        "periodo": "2022-11",
+        "valor_unidades": 496
+      },
+      {
+        "periodo": "2022-12",
+        "valor_unidades": 225
+      },
+      {
+        "periodo": "2023-01",
+        "valor_unidades": 824
+      },
+      {
+        "periodo": "2023-02",
+        "valor_unidades": 478
+      },
+      {
+        "periodo": "2023-03",
+        "valor_unidades": 578
+      },
+      {
+        "periodo": "2023-04",
+        "valor_unidades": 486
+      },
+      {
+        "periodo": "2023-05",
+        "valor_unidades": 526
+      },
+      {
+        "periodo": "2023-06",
+        "valor_unidades": 492
+      },
+      {
+        "periodo": "2023-07",
+        "valor_unidades": 688
+      },
+      {
+        "periodo": "2023-08",
+        "valor_unidades": 549
+      },
+      {
+        "periodo": "2023-09",
+        "valor_unidades": 392
+      },
+      {
+        "periodo": "2023-10",
+        "valor_unidades": 598
+      },
+      {
+        "periodo": "2023-11",
+        "valor_unidades": 436
+      },
+      {
+        "periodo": "2023-12",
+        "valor_unidades": 200
+      },
+      {
+        "periodo": "2024-01",
+        "valor_unidades": 462
+      },
+      {
+        "periodo": "2024-02",
+        "valor_unidades": 423
+      },
+      {
+        "periodo": "2024-03",
+        "valor_unidades": 417
+      },
+      {
+        "periodo": "2024-04",
+        "valor_unidades": 462
+      },
+      {
+        "periodo": "2024-05",
+        "valor_unidades": 471
+      },
+      {
+        "periodo": "2024-06",
+        "valor_unidades": 416
+      },
+      {
+        "periodo": "2024-07",
+        "valor_unidades": 586
+      },
+      {
+        "periodo": "2024-08",
+        "valor_unidades": 570
+      },
+      {
+        "periodo": "2024-09",
+        "valor_unidades": 583
+      },
+      {
+        "periodo": "2024-10",
+        "valor_unidades": 593
+      },
+      {
+        "periodo": "2024-11",
+        "valor_unidades": 478
+      },
+      {
+        "periodo": "2024-12",
+        "valor_unidades": 258
+      },
+      {
+        "periodo": "2025-01",
+        "valor_unidades": 1075
+      },
+      {
+        "periodo": "2025-02",
+        "valor_unidades": 693
+      },
+      {
+        "periodo": "2025-03",
+        "valor_unidades": 813
+      },
+      {
+        "periodo": "2025-04",
+        "valor_unidades": 843
+      },
+      {
+        "periodo": "2025-05",
+        "valor_unidades": 829
+      },
+      {
+        "periodo": "2025-06",
+        "valor_unidades": 859
+      },
+      {
+        "periodo": "2025-07",
+        "valor_unidades": 977
+      },
+      {
+        "periodo": "2025-08",
+        "valor_unidades": 849
+      },
+      {
+        "periodo": "2025-09",
+        "valor_unidades": 867
+      },
+      {
+        "periodo": "2025-10",
+        "valor_unidades": 785
+      },
+      {
+        "periodo": "2025-11",
+        "valor_unidades": 442
+      },
+      {
+        "periodo": "2025-12",
+        "valor_unidades": 267
+      },
+      {
+        "periodo": "2026-01",
+        "valor_unidades": 1106
+      },
+      {
+        "periodo": "2026-02",
+        "valor_unidades": 631
+      },
+      {
+        "periodo": "2026-03",
+        "valor_unidades": 783
+      },
+      {
+        "periodo": "2026-04",
+        "valor_unidades": 683
+      },
+      {
+        "periodo": "2026-05",
+        "valor_unidades": 598
+      },
+      {
+        "periodo": "2026-06",
+        "valor_unidades": 614
+      }
+    ]
+  }
+}
