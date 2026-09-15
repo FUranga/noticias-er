@@ -40,3 +40,10 @@ Contexto: `Agencia Entrerriana` funciona como una agencia (ver `docs/vision-y-et
    Al final del lote, si hay ítems que parecen la misma historia, agregar una línea aparte señalando cuáles.
 
 7. **No reescribas la noticia en este paso.** Si el usuario quiere avanzar con uno o más ítems del lote, señalale que puede pedir la reescritura completa con la skill `redactar-noticia` sobre esos ítems puntuales.
+
+8. **Escribir el resultado del triage en `data/backlog.json`, no solo listarlo en el chat** (2026-09-15, corrige un error real de la sesión del mismo día: se redactaron notas de más en vez de usar los estados que ya existen). El panel `admin/index.html` tiene tres estados de triage además de `pendiente`/`a_publicar` — usarlos en vez de dejar todo en `pendiente` esperando revisión manual uno por uno:
+   - **`a_investigar`**: el ítem parece un hueco o ángulo propio (ver `docs/vision-y-etapas.md`, sección "Foco actual") pero necesita más reporteo antes de decidir si da para nota. Podés marcarlo vos directamente, sin esperar confirmación item por item.
+   - **`referido`**: es noticiable pero ya está bien cubierto por otro medio (o por nosotros mismos en un borrador anterior — revisar `wp_edit_url` de ítems relacionados antes de dar por seguro que hace falta una nota nueva). Marcalo vos directamente con `setEstado`-equivalente (editar el campo `estado` a `"referido"` y `motivo_descarte` o un campo `nota_referido` con por qué vale la pena referirlo) — no reescribas la noticia, esto es exactamente para evitar ese caso.
+   - **`descartado`**: reservado para cuando el editor lo confirma explícitamente (individual o en lote) — **no lo marques vos sola/o sin que Francisco lo pida**, ni siquiera para lo que parece claramente sin valor. Señalalo en el resumen de triage para que él decida.
+   - Lo que quede genuinamente ambiguo (no parece hueco, no está claramente cubierto por otro lado, pero tampoco es obvio que no vale nada) se deja en `pendiente` — no fuerces una clasificación.
+   - Commitear el cambio de estados en un solo commit al final del lote, mismo criterio que `procesar-cablera`.

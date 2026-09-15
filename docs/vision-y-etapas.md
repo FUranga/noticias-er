@@ -42,6 +42,27 @@ Lo que parece alcanzable ya, sin redacción propia en el territorio: el hábito 
 
 **Trackers de leyes y ordenanzas — "SUPER CLAVE" (Francisco, 2026-09-04), pensados como herramienta interna primero, no necesariamente contenido publicado**: inspirados en el bill tracker de CT Mirror y la base de declaraciones juradas de VTDigger — un tracker del estado de los proyectos de ley en trámite en el Senado y Diputados de ER, y de ordenanzas del Concejo Deliberante de Paraná si es viable. No construir todavía; queda anotado en el roadmap (candidato natural para la Etapa 2, sección de datos) porque se puede armar en gran parte con lo que ya se ingesta de comunicados, sin depender de reporteo nuevo.
 
+## Foco actual (2026-09-15): investigación propia sobre huecos, no volumen
+
+Decisión de Francisco, a partir de una sesión de triage real donde quedó claro el problema en carne propia: varias notas redactadas mecánicamente ese mismo día terminaron pisando cobertura que **nosotros mismos** ya habíamos hecho días antes, o que otro medio ya cubría bien — mientras que el trabajo que más valor generó en la misma sesión fue el que no salió de reescribir un comunicado (cruzar un informe de una cámara empresaria contra fuentes primarias, conectar cuatro cierres de empresas que nadie había juntado, una discrepancia de coparticipación sin resolver, un tip para investigar). La "Visión aspiracional" de arriba (accountability sobre el anuncio, seguir la plata, ángulos que el comunicado no da) ya estaba escrita desde el 2026-09-04 — lo que cambia ahora es que deja de ser aspiración de etapas futuras y **pasa a ser el criterio central mientras el proyecto sea Francisco + una IA**, no una capacidad a construir más adelante.
+
+Esto no es un proyecto nuevo — es un reordenamiento de seis líneas de trabajo que ya estaban, dispersas, en este documento y en `docs/aliados-y-financiamiento.md`:
+
+1. **Investigaciones/huecos propios — el foco actual.** Cambia el criterio de triage de "¿esto se reescribe?" a "¿esto revela un hueco o un ángulo que nadie más tiene?". La mayoría de los comunicados sigue sin convertirse en nota (normal, ver arriba) — lo que sube es la barra para publicar. Conectado directo con la sinergia FUNDER (`docs/aliados-y-financiamiento.md`, sección "Sinergia con la investigación institucional de FUNDER"): un hueco de gobernanza real sirve a la vez de nota y de insumo para la agenda de reforma de la Fundación — no son dos tareas separadas.
+2. **Datos y visualizaciones**, 3. **Newsletter** (qué encontramos + qué hay que seguir) y 6. **Servicio** (agenda/alertas) son subproductos casi gratis del punto 1, no proyectos aparte — `data/series/` y `data/agenda.json` ya son la semilla de 2 y 6.
+4. **Agencia con destinatario otros medios** (el "despacho" de la sección de aliados) y 5. **Cobertura amplia para todo lector** son el modelo de volumen — quedan pospuestos explícitamente hasta que el punto 1 tenga trayectoria propia y/o haya más manos que Francisco solo.
+
+**El pipeline de monitoreo (los scripts de `pipeline/monitorear_*.py` y la cablera) no se apaga** — cambia su rol de fábrica de notas a **radar de huecos**: el volumen sigue entrando, pero la mayoría se triagea con la lógica de abajo en vez de convertirse en borrador.
+
+### Triage de tres capas (usar los estados que ya tiene `admin/index.html`, no inventar uno nuevo)
+
+El panel ya soporta `referido` y `a_investigar` desde el 2026-09-07 (ver comentario de diseño en `admin/index.html`) — la sesión del 09-15 los subutilizó, redactando de más en vez de usarlos. De acá en más:
+- **`a_investigar`**: candidato a hueco/ángulo propio, necesita más reporteo antes de decidir si da para nota.
+- **`referido`**: noticiable pero ya bien cubierto por otro medio — se atribuye y linkea (newsletter/redes/portada), no se reescribe (aplicación directa de "agencia, no repetición" y de la sección "Medios y empresas como fuente" de `docs/estilo-editorial.md`).
+- **`descartado`**: sin valor en ninguna capa. Reservado para cuando Francisco lo confirma explícitamente (individual o en lote) — no es una decisión que la IA tome sola.
+
+**Sobre el descarte en bloque por antigüedad (pregunta abierta de Francisco, 09-15)**: tiene sentido dejar de usarlo como default a medida que el proyecto profundiza. El descarte automático por vencimiento (`"Vencido: pasaron mas de 48 horas..."`) es una herramienta de triage por volumen — calza con el modelo de los puntos 4/5, no con el foco actual en huecos, donde un `pendiente` viejo sin revisar es candidato a hueco tanto como uno nuevo. Reemplazo propuesto: los ítems que hoy expirarían solos pasan primero por un filtro liviano (mecánico, tipo el que ya usa `monitorear_boletin_er.py` para lo puramente administrativo) y lo que sobrevive ese filtro se reparte entre `a_investigar`/`referido`/`descartado` con criterio, no por el simple paso del tiempo — todavía no implementado, evaluar cuando el volumen real lo exija.
+
 ## Etapas
 
 ### Etapa 0 — Fundamentos (ahora)
