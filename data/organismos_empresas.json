@@ -1736,5 +1736,16 @@
     "notas": "Desarrollador inmobiliario en Paraná/Santa Fe; feed WordPress con pocos posts (3 ítems), el más reciente de diciembre 2024 — actividad baja pero técnicamente disponible.",
     "cotiza_bolsa": false,
     "oferta_publica_cnv": null
+  },
+  {
+    "nombre": "iapser seguros",
+    "sitio": "https://iapserseguros.seg.ar/",
+    "prensa_url": "https://iapserseguros.seg.ar/feed/",
+    "rss": "https://iapserseguros.seg.ar/feed/",
+    "scrapeable": true,
+    "contacto": null,
+    "notas": "Aseguradora estatal de Entre Ríos (ente autárquico, ver docs/fuentes.md, sección 'Entes autárquicos'). WordPress con feed RSS real y funcional (confirmado 200 OK, 2026-09-15), ritmo bajo (~5 posts/mes). Contenido mayormente comercial/marketing de seguros (campañas agro, cursos de prevención laboral) — el filtro de pipeline/filtro_contenido_empresas.py debería descartar buena parte, pero no está verificado con casos reales todavía. Sumada a pedido de Francisco (2026-09-15) junto con Vialidad/DPV y CGE.",
+    "cotiza_bolsa": false,
+    "oferta_publica_cnv": null
   }
 ]
