@@ -48789,5 +48789,61 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-79960",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Secuestraron más de un kilo de cocaína en el puesto de control vial Brazo Largo",
+    "fecha": "2026-09-18",
+    "link": "https://portal.entrerios.gov.ar/noticias/79960",
+    "texto_original": "En el marco de los operativos viales que la Policía de Entre Ríos lleva adelante en las rutas provinciales, personal del puesto caminero Brazo Largo secuestró más de un kilo de clorhidrato de cocaína y detuvo a dos personas que circulaban a bordo de un automóvil.\n\nEl procedimiento se concretó el pasado 3 de septiembre, cuando los efectivos detuvieron la marcha de una Ford EcoSport Titanium conducida por un hombre de 35 años, quien viajaba acompañado por otro de 48, ambos oriundos del departamento Colón.\n\nDurante el control de rutina y con la intervención de la División Drogas Peligrosas de la Jefatura departamental Islas y un can antinarcóticos, se logró hallar un total de 1,052 kilogramos de cocaína.\n\nEn esta línea, se dió intervención a la Secretaría Penal del Juzgado Federal de Gualeguaychú -a cargo del Dr. Hernán Sergio Viri-, desde donde se dispuso la inmediata detención e incomunicación de ambos hombres, así como el secuestro de la sustancia, el vehículo y los teléfonos celulares utilizados por los sospechosos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-18T15:23:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-79952",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Entre Ríos desplegó un operativo de monitoreo y control por incendios forestales en el ejido de Victoria",
+    "fecha": "2026-09-18",
+    "link": "https://portal.entrerios.gov.ar/noticias/79952",
+    "texto_original": "La Brigada de Respuesta Ambiental (BRA), dependiente del plan provincial de Manejo del Fuego, concretó un operativo integral de monitoreo, detección y combate de focos ígneos en el ejido de Victoria; en el marco de las acciones desplegadas ante el incendio denominado La Milonga.\n\nLas tareas se desarrollaron en un esquema de articulación operativa que reunió a personal de la BRA, la Brigada Forestal de la Policía de Entre Ríos, Prefectura Naval Argentina seccional San Lorenzo, Protección Civil de Santa Fe y Alvear, Bomberos Voluntarios de Pueblo Esther y coordinadores del Servicio Nacional de Manejo del Fuego (SNMF).\n\nLos equipos realizaron reconocimiento terrestre, vuelos de monitoreo mediante drones e identificación de puntos calientes sobre los sectores afectados, con el propósito de enfriar y eliminar reactivaciones dentro del perímetro de control. En paralelo, un avión hidrante del SNMF ejecutó disparos de agua sobre el incendio denominado El Refugio y otros sectores activos en la zona insular.\n\nAsimismo, la Brigada Forestal de la Policía provincial se mantuvo en estado de alerta con unidades pesadas, realizando tareas de vigilancia sobre la ruta nacional 174 para prevenir afectaciones en la traza vial.\n\nTodas las actuaciones operativas, junto con la georreferenciación de las coordenadas de los incendios, son informadas de manera permanente al Juzgado Federal de Victoria para el seguimiento de la causa.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-18T15:23:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-79945",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Entre Ríos invita a construir entre todos una frase que represente a la provincia",
+    "fecha": "2026-09-18",
+    "link": "https://portal.entrerios.gov.ar/noticias/79945",
+    "texto_original": "El Gobierno de Entre Ríos presentó La Frase que Falta, la campaña participativa que convocará a entrerrianos y entrerrianas a construir de manera colectiva la frase que acompañará a la nueva Marca Entre Ríos.\n\nLa iniciativa parte de una idea sencilla: no hay una única manera de vivir Entre Ríos. Hay distintas miradas, experiencias, lugares, recuerdos y formas de sentir la provincia. Y justamente de esa diversidad busca surgir la frase que falta.\n\nPor eso, la campaña propone escuchar a quienes mejor conocen la provincia: quienes la viven todos los días. Cada participante podrá aportar su mirada y compartir aquello que siente que representa a Entre Ríos.\n\nNo se trata de encontrar una respuesta correcta ni de definir en pocas palabras todo lo que es la provincia. Se trata de reconocer aquello que tenemos en común, a partir de las muchas maneras de vivir y sentir Entre Ríos.\n\nLa participación es abierta y anónima, y está disponible a través de lafrasequefalta.entrerios.gov.ar.\n\nEsta primera etapa permitirá reunir las distintas miradas y expresiones de los entrerrianos. Luego, se abrirá una nueva instancia de participación para elegir entre todos la frase que finalmente acompañará a la nueva Marca Entre Ríos.\n\nDe esta manera, \"La Frase que Falta\" propone que la construcción de la identidad de la provincia sea también una construcción colectiva, incorporando las voces de quienes forman parte de ella.\n\nEl proyecto es impulsado de manera conjunta por las secretarías de Comunicación y Prensa; de Modernización, Ciencia, Tecnología e Innovación; de Participación y Atención Ciudadana; de Cultura y Emturer, con el objetivo de generar una construcción abierta, federal y colaborativa en cada localidad de la provincia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-18T15:23:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-79944",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "El hospital de Villa Paranacito sumó por primera vez equipamiento para realizar estudios cardiológicos",
+    "fecha": "2026-09-18",
+    "link": "https://portal.entrerios.gov.ar/noticias/79944",
+    "texto_original": "El hospital Paranacito incorporó por primera vez equipamiento para realizar estudios de Monitoreo Ambulatorio de Presión Arterial (MAPA) y Holter cardíaco. La adquisición demandó una inversión de 5 millones otorgada por el Ministerio de Salud de Entre Ríos a través de una partida extraordinaria.\n\nCon la incorporación de los equipos, ambos estudios cardiológicos podrán realizarse directamente en el hospital local. La disponibilidad de estas prestaciones permite evitar derivaciones ya que, hasta ahora, cuando desde el hospital se indicaba alguno de estos estudios, el paciente debía trasladarse a Gualeguaychú (en dos oportunidades) para realizar el monitoreo.\n\nCabe señalar que el MAPA permite monitorear la presión arterial durante 24 horas, mientras que el Holter registra la actividad eléctrica del corazón durante el mismo período.\n\nEl personal del establecimiento ya recibió la capacitación correspondiente por parte de la empresa proveedora. De esta manera, la enfermera Daniela Saldaña será la encargada de colocar los dispositivos a los pacientes y, posteriormente, la información registrada será enviada al cardiólogo de la institución, Santiago Elías, quien analizará los resultados y emitirá los informes correspondientes.\n\nLa directora del hospital Paranacito, María del Mar Solari Gatti, destacó la importancia de contar con estas prestaciones en la localidad: \"Disponer de estos equipos en el hospital es muy importante para nuestra comunidad, porque permite acercar estudios cardiológicos que antes requerían trasladarse a otras localidades. De esta manera, facilitamos el acceso a la atención y damos respuesta a una necesidad concreta de los vecinos de Villa Paranacito y de la zona\".\n\nDesde el establecimiento se informó que las prestaciones se brindarán mediante un sistema de turnos. Los habitantes de Villa Paranacito y de la zona de Islas del Ibicuy podrán acceder a estos estudios en el hospital local, sin necesidad de trasladarse a otras localidades para realizar este tipo de controles cardiológicos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-18T15:23:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
