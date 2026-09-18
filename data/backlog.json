@@ -50459,5 +50459,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-osde-consultorio-digital-mejoras-para-simplificar-tus-consultas",
+    "fuente": "osde",
+    "titulo": "Consultorio Digital: mejoras para simplificar tus consultas",
+    "fecha": "2026-09-18",
+    "link": "https://www.osde.com.ar/novedades/consultorio-digital-mejoras-para-simplificar-tus-consultas",
+    "texto_original": "Consultorio Digital\n\nes la plataforma desde donde realizás tus atenciones programadas con profesionales que elegís en nuestra cartilla.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-18T18:45:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
