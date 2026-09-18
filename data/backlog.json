@@ -51078,5 +51078,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-79975",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "El Plan Provincial de Alfabetización fortalece la formación docente en nivel inicial",
+    "fecha": "2026-09-18",
+    "link": "https://portal.entrerios.gov.ar/noticias/79975",
+    "texto_original": "El Consejo General de Educación (CGE) desarrolla esta semana el quinto y último encuentro del Plan Provincial de Alfabetización para el nivel inicial, una instancia de formación que reúne a docentes de distintos departamentos entrerrianos en cuatro nodos territoriales.\n\nLa propuesta comenzó el lunes 14 en el Nodo Concordia, con la participación de docentes de los departamentos Concordia, Federación, Federal, San Salvador y Colón. El martes continuó en el Nodo Gualeguaychú, donde participaron representantes de Gualeguaychú, Islas, Gualeguay y Uruguay.\n\nEste jueves se desarrolló el encuentro correspondiente al Nodo Paraná, que reúne a docentes de los departamentos Paraná, Diamante, Nogoyá, Victoria, Villaguay y Tala.\n\nEl cronograma finalizó el viernes en el Nodo La Paz, con la participación de docentes de los departamentos La Paz y Feliciano.\n\nA través de estos espacios, el Consejo General de Educación continúa generando instancias de trabajo territorial que permiten abordar las propuestas de alfabetización, compartir experiencias y fortalecer las herramientas pedagógicas de los equipos docentes.\n\nLa iniciativa forma parte de las acciones que lleva adelante la provincia para consolidar una política de alfabetización que acompañe las trayectorias educativas desde el nivel inicial y promueva mejores condiciones para el aprendizaje.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-18T21:14:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
