@@ -46559,5 +46559,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-79943",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Villa Elisa será sede de una nueva edición del encuentro sobre Información Financiera para el Desarrollo Productivo",
+    "fecha": "2026-09-18",
+    "link": "https://portal.entrerios.gov.ar/noticias/79943",
+    "texto_original": "El ciclo busca acercar a pymes, empresas y emprendedores información sobre alternativas de financiamiento, garantías y herramientas disponibles para impulsar sus proyectos.\n\nLa 3era edición del encuentro tendrá lugar el jueves 8 de octubre del corriente en el Salón Heraldo Peragallo, Avenida Mitre 1320 de Villa Elisa; de 14:00 a 17:30.\n\nLa actividad es gratuita, con cupos limitados. Para inscribirse, ingresar al siguiente link: \nhttps://forms.comunicacionentrerios.com/f/457",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-18T11:55:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
