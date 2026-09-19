@@ -55463,5 +55463,19 @@
     "lugares_matcheados": [
       "nogoyá"
     ]
+  },
+  {
+    "id": "cge-convocatoria-escuela-normal-superior-osvaldo-magnasco-ingles-26",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Convocatoria, Escuela Normal Superior “Osvaldo Magnasco”, Ingles",
+    "fecha": "2026-09-19",
+    "link": "https://cge.entrerios.gov.ar/2026/09/convocatoria-escuela-normal-superior-osvaldo-magnasco-ingles-26/",
+    "texto_original": "La Rectoría de la \nEscuela Normal Superior “Osvaldo Magnasco”, convoca a concurso \nde adjudicación de horas cátedras en el marco del Acuerdo Paritario /Reglamento de Concursos Resolución Ministerial Nº 783/12 M.T. Resolución 2300/22 CGE (art. 136)\n\nEl mismo se llevará a cabo el martes\n22 de septiembre de 2026\n en la sede de la escuela sita en Av. Centenario N° 288, según el siguiente detalle:\n\nPrimer llamado\n\n8:30 hs.\n\n03 hs. Inglés (STF) 1° 1ª. CBC. Días y horarios:  lunes 9:15 a 10:35 y martes 12:05 a 12:45\n\n03 hs. Inglés (STF) 1° 2ª. CBC. Días y horarios:  martes 9:15 a 9:55 y viernes 7:40 a 9:00\n\n03 hs. Inglés (STF) 1° 4ª. CBC. Días y horarios: lunes 10:45 a 12:05 y viernes 12:05 a 12:45\n\n03 hs. Inglés (STF) 3° 1ª. CBC.  Días y horarios:  jueves 12:45 a 13:25 y viernes 9:15 a 10:35\n\n03 hs. Inglés (STF) 3° 2ª. CBC.  Días y horarios: lunes 7:40 a 9:00 y miércoles 12:45 a 13:25\n\n03 hs. Inglés (STF) 4° Comunicación y Turismo. Días y horarios: martes 7:40 a 8:20 y jueves 9:55 a 10:35-10:45 a 11:25\n\nLos aspirantes deberán presentarse en el lugar y horario indicado con Credencial de Puntaje (impresa) y DNI. El equipo directivo constatará la condición de personal de la casa perteneciente al establecimiento a través de SAGE.\n\nQuienes participen sin Credencial de puntaje deberán presentar títulos o Constancia de Títulos Registrados en la Dirección de Recursos Humanos CGE. y la Solicitud de Credencial de Puntaje para la Reserva de Derecho.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-19T22:58:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
