@@ -58232,5 +58232,19 @@
     "lugares_matcheados": [
       "concepción del uruguay"
     ]
+  },
+  {
+    "id": "goberer-79983",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Alerta naranja por tormentas fuertes para gran parte de Entre Ríos",
+    "fecha": "2026-09-20",
+    "link": "https://portal.entrerios.gov.ar/noticias/79983",
+    "texto_original": "El Servicio Meteorológico Nacional actualizó este domingo el nivel de alerta por tormentas para Entre Ríos. Doce departamentos se encuentran bajo alerta naranja, mientras que otros cinco permanecen en nivel amarillo. Se prevén lluvias y tormentas fuertes, con ráfagas intensas y ocasional caída de granizo.\n\nPara las zonas bajo alerta naranja se esperan lluvias y tormentas fuertes, algunas localmente severas. Los fenómenos podrían estar acompañados por precipitaciones intensas en cortos períodos, caída de granizo de diversos tamaños y ráfagas que podrían superar los 100 kilómetros por hora.\n\nEl organismo estima valores de precipitación acumulada de entre 40 y 80 milímetros, que podrían ser superados de manera puntual.\n\nEn tanto, las zonas bajo alerta amarilla podrían registrar tormentas de variada intensidad, algunas localmente fuertes, acompañadas por precipitaciones intensas en cortos períodos, ocasional caída de granizo y ráfagas que podrían superar los 70 kilómetros por hora.\n\nPara este sector se prevén valores de precipitación acumulada de entre 15 y 30 milímetros, con posibilidad de superar esos registros de manera puntual.\n\nAnte este escenario, se recomienda a la población mantenerse informada a través de los canales oficiales, evitar actividades al aire libre durante las tormentas, resguardarse en lugares seguros y tomar precauciones ante posibles ráfagas, caída de granizo y anegamientos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-20T22:45:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
