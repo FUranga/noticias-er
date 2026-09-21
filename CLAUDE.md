@@ -1,3 +1,5 @@
+@../ai-workbench/AGENTS.md
+
 # CLAUDE.md
 
 Contexto para trabajar en este repo con Claude Code.
