@@ -59220,5 +59220,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-262068",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "",
+    "fecha": "2026-09-21",
+    "link": "https://www.jusentrerios.gov.ar/2026/09/262068/",
+    "texto_original": "El Instituto “Dr. Juan Bautista Alberdi” dictará el próximo miércoles 23 de septiembre a las 17 el webinar “Desafíos ante la digitalización de los servicios financieros”. La jornada académica está dirigida a integrantes de los Poderes Judiciales.\n\n \n\nLa actividad estará a cargo del destacado especialista Sebastián Barocelli, Doctor en Derecho, docente universitario y de posgrado (UBA, USAL, UCA, UNLPam), Secretario Académico del Instituto Argentino de Derecho del Consumidor (IADC) y miembro de la mesa directiva de la International Association of Consumer Law (IACL).\n\n \n\nDurante el encuentro se debatirán los aspectos centrales de la transformación digital, entre los que destacan la transformación digital de servicios financieros y nuevo perfil de consumidor; el surgimiento del Ecosistema FINTECH (billeteras virtuales, crédito digital, trading de inversiones, criptomonedas); la digitalización de la banca tradicional: banca hogareña, atención digital; la obligación de seguridad y responsabilidad de entidades financieras ante el fraude digital; y elrol del BCRA y la CNV en la materia.\n\n \n\nLa actividad es no arancelada y se transmitirá por la plataforma Zoom. Para participar, los interesados deberán completar el formulario de inscripción en \n\nhttps://institutoalberdi.jusentrerios.gov.ar/events/webinar-desafios-ante-la-digitalizacion-de-los-servicios-financieros/\n\n \n\nLos enlaces de acceso serán enviados por correo electrónico mañana martes 22 de septiembre por la tarde. Para la acreditación y emisión del certificado de participación correspondiente, los asistentes deberán mantener la conexión durante la totalidad del evento e ingresando con su nombre y apellido completo.\n\n \n\n \n\n21 de septiembre de 2026\n\n \n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-21T14:08:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "stjer-estudiantes-visitaron-los-tribunales-en-parana-2",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "Estudiantes visitaron los Tribunales en Paraná",
+    "fecha": "2026-09-21",
+    "link": "https://www.jusentrerios.gov.ar/2026/09/estudiantes-visitaron-los-tribunales-en-parana-2/",
+    "texto_original": "Alumnos de 6to año de la Escuela Secundaria N° 26 “Olegario V Andrade”, de Paraná, acompañados por profesoras, realizaron el viernes una visita guiada por los Tribunales de la ciudad, ubicados en calle Laprida 251.\n\n \n\nDurante su estadía en el edificio recorrieron los diferentes espacios y ámbitos de trabajo, se interiorizaron sobre la división funcional del Poder Judicial provincial, quiénes lo conforman, qué temáticas se tratan en la justicia, y en qué consiste el trabajo de los jueces y las juezas.  Se informaron acerca de  la tarea de los principales fueros, a través de sus distintas oficinas de gestión, el alcance de la función jurisdiccional y las distintas formas de acceso a la justicia.\n\n \n\nLas visitas guiadas son una manera efectiva de acercar el Poder Judicial a la comunidad, un aporte significativo para el afianzamiento de los valores democráticos y republicanos.\n\n \n\nLos turnos para las visitas guiadas al edificio del Poder Judicial pueden solicitarse a través de la oficina de Ceremonial: 0343- 4206100 (interno 6205) o enviando un mensaje a la cuenta electrónica \nceremonial@jusentrerios.gov.ar.\n\n \n\n21 de septiembre de 2026\n\nSIC STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-21T14:08:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
