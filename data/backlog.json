@@ -65527,5 +65527,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-347755",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "BANCO DE LA CIUDAD DE BUENOS AIRES Remate Oficial",
+    "fecha": "2026-09-21",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347755/20260921",
+    "texto_original": "BANCO DE LA CIUDAD DE BUENOS AIRES Remate Oficial Fecha de Publicacion: 21/09/2026 través del portal https://subastas.bancociudad.com.ar SUBASTAS ONLINE.1- ENTRE RIOS 1824/28, CONSTITUCION, C.A.B.A. Superficie: terreno: 342,60 m2. Exhibición:...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-21T20:47:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2417814",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DIRECCIÓN REGIONAL PARANÁ Licitación Pública 9/2026",
+    "fecha": "2026-09-21",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2417814/20260921",
+    "texto_original": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DIRECCIÓN REGIONAL PARANÁ Licitación Pública 9/2026 Fecha de Publicacion: 21/09/2026 PARANÁ - DGI - ARCA: sita en Av. Alameda de la Federación N° 575 – Paraná – Entre Ríos , en días hábiles administrativos y en el horario de 09:00 a 15:00 hs.e...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-21T20:47:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
