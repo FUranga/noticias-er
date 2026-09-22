@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python -m aiwb.synccheck --hook start",
+            "timeout": 90,
+            "statusMessage": "synccheck: git + blobsync vs la otra maquina"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python -m aiwb.synccheck --hook stop",
+            "timeout": 90,
+            "statusMessage": "synccheck: algo sin subir?"
+          }
+        ]
+      }
+    ]
+  }
+}
