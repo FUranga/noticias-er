@@ -69436,5 +69436,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-justicia-va-a-los-barrios-estuvo-en-31-localidades-en-su-xi-edicion-provincial",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "“Justicia va a los barrios” estuvo en 31 localidades en su XI edición provincial",
+    "fecha": "2026-09-22",
+    "link": "https://www.jusentrerios.gov.ar/2026/09/justicia-va-a-los-barrios-estuvo-en-31-localidades-en-su-xi-edicion-provincial/",
+    "texto_original": "La XI edición provincial de “Justicia va a los Barrios” se desarrolló el viernes próximo pasado en distintos puntos de Entre Ríos, con la participación de equipos judiciales y organismos que acercaron servicios, información y orientación a la comunidad. Con esta nueva edición, en la que se hicieron cuatrocientas atenciones en territorio, se cierra el ciclo anual de jornadas provinciales del programa del Poder Judicial que amplió, una vez más, su presencia en cada jurisdicción y reafirmó una modalidad de trabajo que busca una Justicia cercana, accesible y en contacto directo con la comunidad.\n\n \n\nLa iniciativa propone acercar el servicio de justicia a las personas y generar espacios de atención directa, especialmente para quienes necesitan orientación sobre situaciones que requieren intervención o información judicial y no pueden concurrir a los tribunales de su localidad.\n\n \n\n22 de septiembre de 2026\n\nSIC STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T15:42:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
