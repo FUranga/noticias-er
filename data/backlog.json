@@ -66647,5 +66647,469 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "medios-google-news-entre-rios-c2674fe6420c",
+    "fuente": "federalaldia.com.ar",
+    "titulo": "SENADORES DE JUNTOS POR ENTRE RÍOS EVALUARÁN POSIBLES CAMBIOS EN EL PROYECTO DE ALIVIO FISCAL PARA COMERCIOS",
+    "fecha": "2026-09-22",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORXlTQm1INTFTMXpYdlFTN0dEei0wZ2dzWFNsSGw0cnF1VUZ6U3doMjdObEpBdzBQR3lDU0h5VlZycE11RFJvRFFIUDJUUU9aLXQzcEJQQXIwNmZ4ell4YVlyUnVwWUtIR080S0FTSk8xcVRFRmhBMFNpLXFUN0lsMkNHaWw3TkpGUlQ3T0QtTWJxVUdCU0kxMlVUeW9tVVVaakYxc3p6LXNHRHJHZU9IeDlnUHRuOVlZbW1JYl84V2dCSUJFWmlTRjNScS05akMydUV0YWw4VjljbmZyOTJZQ3Zn?oc=5",
+    "texto_original": "SENADORES DE JUNTOS POR ENTRE RÍOS EVALUARÁN POSIBLES CAMBIOS EN EL PROYECTO DE ALIVIO FISCAL PARA COMERCIOS\n  \nfederalaldia.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "comercio",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-c711a86bcfb5",
+    "fuente": "Elonce.com",
+    "titulo": "La producción orgánica se incorporó a la agenda de Entre Ríos Entre Viñas",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEk4NFdScGl2bl9ud0FrNlFrOFNFZDVMTHh5YklUZl9MNVhoX2tuWk80bEJ6bzJpQWJNMV9VbF90SjRtNUJHWDJSTHBzclBHckh3WUQ3bmVieGR5RmoycUwwelp5MUpHXzRnT3oyRHo0MnhhS0hoc1ZvN19RWTFIN3o0T1JCay01djlEZGFTNzU5QXUwazQyaFJqUHo3WjA0T1JRZWhuNNIBpwFBVV95cUxNeEk4NFdScGl2bl9ud0FrNlFrOFNFZDVMTHh5YklUZl9MNVhoX2tuWk80bEJ6bzJpQWJNMV9VbF90SjRtNUJHWDJSTHBzclBHckh3WUQ3bmVieGR5RmoycUwwelp5MUpHXzRnT3oyRHo0MnhhS0hoc1ZvN19RWTFIN3o0T1JCay01djlEZGFTNzU5QXUwazQyaFJqUHo3WjA0T1JRZWhuNA?oc=5",
+    "texto_original": "La producción orgánica se incorporó a la agenda de Entre Ríos Entre Viñas\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-66f7022cda94",
+    "fuente": "Elentrerios.com",
+    "titulo": "Fallo del STJ sobre VITSA: \"Terminó una discusión procesal, no la discusión ambiental\", afirman desde Compromiso por Concordia - Noticias",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZlZKLVE3QTA3dm52SmV0TnBhS0pIWHZhYzJSaktUU282bXRjcjJ4dmlWekhLOFhPclR6UEpqbThwUmUtZW12dzZUWGk2aFdVWDVRNUlHU0N6SWpaRFRfN3V6NTBRMXVyU1ZobDd6bFJVN1dKNVVLOW9xMWJOTnlKc2JIWFZpWHVBenlvRXY3MEc0NnV4a25rMU1kU3BMTFB6MVZyQ0JHNjF3amhMUDUtTkR5TEN2eW9OcXB0N2NkeUNsSHpHN1N4Zjc4dWdEdHdxWUNTaDFMdVM1SVlCMlVSU0JBZGxJYVBrbWc?oc=5",
+    "texto_original": "Fallo del STJ sobre VITSA: \"Terminó una discusión procesal, no la discusión ambiental\", afirman desde Compromiso por Concordia - Noticias\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-ee2da404e491",
+    "fuente": "Elonce.com",
+    "titulo": "Un joven trabajador entrerriano murió tras quedar atrapado en una máquina agrícola",
+    "fecha": "2026-09-22",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVla2ZyM1Y0ajZiSkotdGxsdG5DdDUxS3hsaEFyekNLTkxqcElueXZCRF9YdVB3YVZmNlNIRG1zX05LaFhPUE5LUDJvWkpKTXN5VFFVd3FsU25TaGh5VUxDelJEOXNJbXJkTUVORW12VVVMcHRaQkFyTjZULUt0bFYxSmttODBjMGVDaVc5WlVUZmRlUDdfUDBkTC1QUDFtUzNuV09WY19iR2NhVlNDcmtIbklZYWFmOWRpetIBswFBVV95cUxOYWFwRXp6X3ZXdzgzX1BURXlXOThESENla3lybWlLYzBZQTVSZUR3a1dQeE42QnNIT0NRc1ltbDgybkVoNEdmQ1RHOUctWDlhQXliVVFXN3BpV0RlOG1iZ0hUTG5jUm5DQUl5SU9oSnZ2V19Dc0JkbGlFS1BmVlFkZGwtVUt6dDNEdG1FVjdoOHp4MHZNMGlmQS0tMzY0TXIyR1l1bmotWkRzcUNOM1NaSkZpUQ?oc=5",
+    "texto_original": "Un joven trabajador entrerriano murió tras quedar atrapado en una máquina agrícola\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-22T01:42:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Nota policial de un caso individual sin trascendencia institucional o economica. (automático)",
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-analisis-digital-gn-716f6dbb2972",
+    "fuente": "Análisis Digital",
+    "titulo": "Paraná pierde el 62% del agua que produce, según un informe oficial de la Municipalidad",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmlsSTJmX0FJcWV1dktVMVRFN0JXZF95Q3phQ2VQSmsxMDFqMktVSFQ2cnFHcVVEUS1ReWxycEU4UkdqQ3pYZGRsWVlKeWoxU0NZM3lBWjZQY0YtUVdQU0p1eVFEVk14cmdoQ3A1RThRY1NmQTFWZklEVEdBa0xHUUIySTlEeENKUTFNdl9ieEVLQVRzZFBndFlLUUZYdkdNa29mM1d6UEpMVzB6MXN5S2h6cVU1NkVYVzJ0RWlnWXQ3RS1mUC05cVdNQ1lPT2QybUY2MVhB?oc=5",
+    "texto_original": "Paraná pierde el 62% del agua que produce, según un informe oficial de la Municipalidad\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-31191cd30960",
+    "fuente": "APFDigital",
+    "titulo": "Ecoaliados suma cinco nuevas escuelas y fortalece el reciclaje en Paraná",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV05kbVhiSnU0b0c2VmhSdWw1eW9QTlpVaTI1a0lZcHJydV83QXVQbGpLWEJaTmhsVks3eGhQbGxJSmxNbjVISEluUEk5UmVlZG1YYlVsNWJ2NVZtajc2aXNlMjk3Zk1jN0VpUFBDc2xYR1pMRDZ3dTVvSjROWVBYeGR1ZnJDMEk2djlScjBXVDlkZ1F2UVBzb2NROHl4RUNHbXlpMXhYU3FiWmE1TTB2eDROMm9mSWV2WHh3SGp0YVFqYndtYTFOZmtUQ2d4d9IBzgFBVV95cUxNV05kbVhiSnU0b0c2VmhSdWw1eW9QTlpVaTI1a0lZcHJydV83QXVQbGpLWEJaTmhsVks3eGhQbGxJSmxNbjVISEluUEk5UmVlZG1YYlVsNWJ2NVZtajc2aXNlMjk3Zk1jN0VpUFBDc2xYR1pMRDZ3dTVvSjROWVBYeGR1ZnJDMEk2djlScjBXVDlkZ1F2UVBzb2NROHl4RUNHbXlpMXhYU3FiWmE1TTB2eDROMm9mSWV2WHh3SGp0YVFqYndtYTFOZmtUQ2d4dw?oc=5",
+    "texto_original": "Ecoaliados suma cinco nuevas escuelas y fortalece el reciclaje en Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-4526c9c52cad",
+    "fuente": "APFDigital",
+    "titulo": "Senadores de Juntos por Entre Ríos evaluarán posibles cambios en el proyecto de alivio fiscal para comercios",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVnVWeTBYVTF2b2psdjVQb3R6QnBTbDhOcmRaZ1hCSlJaMFptakdpVjdqa0lUQnN1YVFIU1ZCX2ZOSGlVVHpVMEwxQjRKMkJYQzBfeHZGdGpYejRRYTItLWxzOVpHeERfbVhHaEVNNVJvWXI4NndqNXFFaDZHeFQyRURPYl9jUWlEaG43YnhMbHZ2a2hJbEpneUE4aGc0WWN0MjVnSklwVGxtWEVTNUpaWVVyUUdLVWVDazhXOXNLTG5hYmQtcjhyZEF3d0VKaEFTLWhGQ3RvdmJ2SWYxbk1ZZ2lfbDBFclJKaEgwVUVRQlpPRHhWRkp4SldzRTNWQdIB_gFBVV95cUxNVnVWeTBYVTF2b2psdjVQb3R6QnBTbDhOcmRaZ1hCSlJaMFptakdpVjdqa0lUQnN1YVFIU1ZCX2ZOSGlVVHpVMEwxQjRKMkJYQzBfeHZGdGpYejRRYTItLWxzOVpHeERfbVhHaEVNNVJvWXI4NndqNXFFaDZHeFQyRURPYl9jUWlEaG43YnhMbHZ2a2hJbEpneUE4aGc0WWN0MjVnSklwVGxtWEVTNUpaWVVyUUdLVWVDazhXOXNLTG5hYmQtcjhyZEF3d0VKaEFTLWhGQ3RvdmJ2SWYxbk1ZZ2lfbDBFclJKaEgwVUVRQlpPRHhWRkp4SldzRTNWQQ?oc=5",
+    "texto_original": "Senadores de Juntos por Entre Ríos evaluarán posibles cambios en el proyecto de alivio fiscal para comercios\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "comercio",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-2115168a4c9b",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Identificaron al joven que murió atrapado por una máquina agrícola",
+    "fecha": "2026-09-22",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWllR2lYMS1aNDE4LTBCRklrMGtjeWZfTnlCSWFBcmtFZnBEd1BJWV9tb05tN1puVjlwa3RWSU0tYTdWSTA0TlRiUzhFTFdqYkszLUoxZ3FZZFNXcUprbFFOYTRBTHJzbW5rVHZQT1p1bl90aE1KUERuU2gtMkswNVcyclAwTDJ4MUs5WHV6Q0pjb2ZGa3VnU1NSLVhWX2JKWFQ3TDV4b092aHREb25MUGItWWo0MHM?oc=5",
+    "texto_original": "Identificaron al joven que murió atrapado por una máquina agrícola\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-22T01:42:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Nota policial de un caso individual sin trascendencia institucional o economica. (automático)",
+    "topicos_matcheados": [
+      "agro"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-se-prorroga-la-presentacion-del-feicac-2026",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Se prorroga la presentación del Feicac 2026",
+    "fecha": "2026-09-22",
+    "link": "https://entreriosahora.com/se-prorroga-la-presentacion-del-feicac-2026/",
+    "texto_original": "La Municipalidad de Paraná extendió el plazo de inscripción para la convocatoria 2026 del Fondo Económico de Incentivo a la Cultura, las Artes y la Ciencia (Feicac). Las personas interesadas podrán presentar sus proyectos hasta el lunes 28 de septiembre, a las 13, a través de mi.parana.gob.ar.\n\nLa convocatoria está destinada a personas físicas, jurídicas e instituciones con domicilio en Paraná y una antigüedad mayor a un año, cuya actividad sea de base cultural, artística y/o científica y esté orientada a la promoción y el desarrollo sociocultural de la ciudad.\n\nLos proyectos podrán acceder a aportes de entre $2.800.000 y $4.500.000, de acuerdo con la categoría correspondiente. En esta edición, el Feicac contempla propuestas vinculadas con cultura comunitaria, salud y ambiente, educación popular, salud mental y consumos problemáticos, espacios culturales independientes, memoria e identidad local, economía popular y organización comunitaria, carnaval, géneros y diversidades, nuevas tecnologías y mundo digital, y rescate e investigación cultural, artística y científica.\n\n \n\nTutorías para la formulación de proyectos\n\nComo parte del proceso de presentación, todos los proyectos deberán atravesar una instancia de tutoría al menos una vez antes de su presentación definitiva.\n\nLas tutorías podrán solicitarse hasta el miércoles 23 de septiembre a las 13 horas. Para hacerlo, las personas interesadas deberán enviar un correo a feicac@parana.gob.ar, con el asunto Tutorías, una breve descripción del proyecto y un contacto de teléfono.\n\nLas bases y condiciones de la convocatoria pueden consultarse en parana.gob.ar/convocatorias.\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:42:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "comercio",
+      "municipios",
+      "educacion",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-248a02f52401",
+    "fuente": "Elentrerios.com",
+    "titulo": "Fallo del STJ sobre VITSA: \"Terminó una discusión procesal, no la discusión ambiental\", afirman desde Compromiso por Concordia",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMDZYOU1VcXNyb3JOdWNubWRqTGYzRG00VlFRUXF5eFlZU0hqakwtWE9RU3lHdlRSVmV0bmRZVlRyYXZZQ2hmTkRfakgzenZIbENQSzlscXItOVRSSGZ0Tm9obmN2LUlBOEdDckQ5NVlkS0UyekJFb3JYQmhzaUlvSjc0bFlST3EzT1FYSC1sNTVxRHlfdkxvcEpta0JhOHFqSHc2MXVibWRGSDdKd3FvMGVRdU1aaFB3V2p6b2tNUHhXQjJhZ1dneXV4RVdpWmo3aVZZbmZLYzBCZmRnLXBsSkFQUDVDNUFKM3N2cDBkWnhKeEU?oc=5",
+    "texto_original": "Fallo del STJ sobre VITSA: \"Terminó una discusión procesal, no la discusión ambiental\", afirman desde Compromiso por Concordia\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-cra-en-maria-grande-campo-ecocidio-y-retenciones-en-el-centro-del-debate",
+    "fuente": "LT15 Concordia",
+    "titulo": "CRA en María Grande: campo, ecocidio y retenciones en el centro del debate",
+    "fecha": "2026-09-22",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/21/cra-en-maria-grande-campo-ecocidio-y-retenciones-en-el-centro-del-debate/",
+    "texto_original": "Hay temas que el campo no quiere dejar pasar sin decir algo, y la \nExposición Rural de María Grande\n, en \nEntre Ríos\n, fue el escenario elegido esta semana para ponerlos sobre la mesa. El vicepresidente de \nConfederaciones Rurales Argentinas (CRA)\n, \nJosé Ignacio Colombatto\n, tomó la palabra y no se guardó nada.\n\nEl primer punto que marcó fue el \nvandalismo rural\n, una problemática que viene creciendo en silencio y que los productores viven con una mezcla de impotencia y hartazgo. “\nEl productor no puede trabajar con la incertidumbre de que aquello que construyó durante años pueda ser destruido impunemente\n“, señaló Colombatto, reclamando herramientas concretas del Estado para prevenir, investigar y sancionar estos hechos. No es un reclamo menor: la propiedad privada y la seguridad en el campo son condiciones básicas para producir.\n\nOtro eje de peso fue el debate en torno al \nproyecto de ecocidio\n que se discute en el \nCongreso Nacional\n. Colombatto cuestionó la incorporación de figuras penales ambiguas y fue directo: “\nNo necesitamos poner bajo sospecha al que produce; necesitamos reglas claras, controles efectivos y responsabilidad ambiental sin criminalizar la producción\n“. La tensión entre cuidado ambiental y actividad productiva es real, pero el dirigente dejó en claro que la respuesta no puede ser convertir al productor en sospechoso por defecto.\n\nEn materia de \nmercados de carbono\n, CRA también fijó posición: los créditos deben quedar en manos de quienes producen y realizan las inversiones que los generan. Colombatto advirtió que esta herramienta tiene que ser una oportunidad para el productor y no un mecanismo de transferencia de derechos hacia terceros. Un punto que, con el avance de estos mercados en el mundo, va a dar mucho que hablar.\n\nEl vicepresidente de CRA también apuntó al \nSENASA\n, reclamando un organismo técnico, profesional, eficiente y con presencia real en el territorio. “\nCuidar la sanidad es cuidar la producción y también los mercados que tanto cuesta conseguir\n“, subrayó, en una frase que resume bien la lógica del sector: sin sanidad animal, los mercados de exportación se cierran, y eso le cuesta caro a toda la cadena.\n\nEn el plano económico, Colombatto planteó la necesidad de avanzar hacia una \nmenor presión fiscal\n y \nretenciones cero\n como condición para generar previsibilidad, inversión y empleo en el interior productivo. No es una novedad en el discurso del campo, pero el contexto actual le da más urgencia al planteo.\n\nAl cierre de su intervención, destacó el carácter federal de CRA y reconoció a la \nSociedad Rural de María Grande\n por sostener una exposición que, según sus palabras, representa el trabajo, el arraigo y la decisión de seguir produciendo desde el interior. La jornada dejó en claro que el sector agropecuario entrerriano tiene agenda propia y no piensa bajar la voz.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:04Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "agro",
+      "impuestos",
+      "servicios_publicos",
+      "justicia",
+      "comercio_exterior",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-que-piden-los-trabajadores-cuatro-rubros-ya-exigen-mas-de-2-millones",
+    "fuente": "LT15 Concordia",
+    "titulo": "Qué piden los trabajadores: cuatro rubros ya exigen más de $2 millones",
+    "fecha": "2026-09-22",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/21/que-piden-los-trabajadores-cuatro-rubros-ya-exigen-mas-de-2-millones/",
+    "texto_original": "La foto del mercado laboral argentino en \nseptiembre de 2026\n es elocuente: según las expectativas salariales relevadas entre trabajadores de distintos rubros, \ncuatro sectores ya exigen más de $2 millones mensuales\n para aceptar una propuesta de empleo. La brecha con los sectores de menor pretensión es tan marcada que obliga a preguntarse si estamos hablando del mismo país.\n\nEn el extremo opuesto, \nla expectativa salarial más baja apenas supera el millón de pesos\n. Una diferencia de casi el doble entre los extremos del mercado que refleja, con crudeza, la fragmentación del mundo del trabajo en Argentina: no hay un mercado laboral, hay varios, y cada uno vive en una realidad económica distinta.\n\nLo que muestran estos números no es solo una foto de lo que piden los trabajadores hoy, sino también una señal de lo que la \ninflación acumulada\n dejó como piso psicológico. El millón de pesos ya no suena a cifra astronómica: para muchos sectores, es el mínimo aceptable. Para otros, ni siquiera alcanza para arrancar la conversación.\n\nEl dato tiene impacto directo en la región. En provincias como \nEntre Ríos\n, donde sectores como la citricultura, el comercio y los servicios concentran buena parte del empleo formal e informal, las pretensiones salariales de los trabajadores chocan con frecuencia contra estructuras de costos que no acompañaron la misma velocidad. El resultado es una tensión permanente entre lo que se pide y lo que se ofrece, que termina empujando informalidad o fuga de talento hacia otras provincias o sectores.\n\nLa brecha entre el rubro que más exige y el que menos pretende no es solo un dato estadístico: es el termómetro de una economía que sigue procesando, de manera desigual, el impacto de años de deterioro del poder adquisitivo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:04Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-concordia-10-anos-de-prision-para-un-abusador",
+    "fuente": "El Heraldo",
+    "titulo": "Concordia: 10 años de prisión para un abusador",
+    "fecha": "2026-09-22",
+    "link": "https://www.elheraldo.com.ar/noticias/judiciales/concordia-10-anos-de-prision-para-un-abusador",
+    "texto_original": "Según consta en la resolución, G.E.H. cumplirá prisión preventiva bajo la modalidad de arresto domiciliario hasta tanto la sentencia quede firme, conforme el planteo formulado por su defensa técnica.Durante la audiencia de cesura, efectuada el 3 de septiembre último, la fiscal Josefina Penón Busaniche solicitó una pena de 16 años de prisión, en tanto que el defensor oficial Joaquín Garaycoechea pidió una condena de 8 años.\n\nSe trató del juicio por jurados número 170 realizado en Entre Ríos desde la implementación de este sistema de juzgamiento penal.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-paritaria-docente-gobierno-y-gremios-vuelven-a-la-mesa-este-martes",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Paritaria docente: Gobierno y gremios vuelven a la mesa este martes",
+    "fecha": "2026-09-21",
+    "link": "https://blancaciudadnoticias.com.ar/paritaria-docente-gobierno-y-gremios-vuelven-a-la-mesa-este-martes/",
+    "texto_original": "El Gobierno de Entre Ríos y los gremios docentes volverán a encontrarse este \nmartes 22 de septiembre\n, en una nueva reunión paritaria que se realizará desde las \n15 horas en la Secretaría de Trabajo\n.\n\nAl encuentro fueron convocados los representantes de \nAgmer, AMET, Sadop y UDA\n, los cuatro sindicatos que participan de la negociación salarial docente en la provincia.\n\nLa reunión se produce en el marco de una negociación que busca avanzar sobre la situación salarial de los trabajadores de la educación y encontrar una nueva propuesta que permita acercar posiciones entre el Ejecutivo provincial y las organizaciones gremiales.\n\nUna nueva instancia de negociación\n\nLa expectativa estará puesta en conocer si el Gobierno provincial llevará una nueva propuesta salarial y cuál será la respuesta de los sindicatos docentes.\n\nLa paritaria llega en un contexto en el que el salario, la inflación y el poder adquisitivo de los trabajadores continúan siendo algunos de los principales puntos de discusión.\n\nPor ahora, \nla negociación sigue abierta\n y ambas partes volverán a sentarse este martes a partir de las 15.\n\nDesde allí podría surgir una nueva propuesta, un principio de acuerdo o, en caso de no haber avances, la continuidad de las negociaciones.\n\nBCN Noticias seguirá de cerca la reunión y las novedades que surjan de la mesa paritaria docente.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "servicios_publicos",
+      "gobierno",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-cierra-una-autopartista-en-santa-fe-y-70-trabajadores-quedan-sin-empleo-las-butacas-llegaran-desde-brasil",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Cierra una autopartista en Santa Fe y 70 trabajadores quedan sin empleo: las butacas llegarán desde Brasil",
+    "fecha": "2026-09-21",
+    "link": "https://blancaciudadnoticias.com.ar/cierra-una-autopartista-en-santa-fe-y-70-trabajadores-quedan-sin-empleo-las-butacas-llegaran-desde-brasil/",
+    "texto_original": "Una planta autopartista ubicada en \nPueblo Esther, Santa Fe, cerrará sus puertas y dejará sin empleo a 70 trabajadores\n, luego de que la empresa decidiera abandonar la fabricación local de butacas y comenzar a importar esos componentes desde Brasil.\n\nLa medida había sido anticipada en mayo y fue comunicada formalmente a los trabajadores durante los últimos días. Según lo informado, \nla próxima semana será la última de actividad industrial en la planta\n, ubicada sobre la ruta provincial 16, a pocos metros del arroyo Frías y a unos 25 kilómetros de Rosario.\n\nLa fábrica producía las butacas destinadas a uno de los vehículos de mayor producción del complejo automotor ubicado en la localidad santafesina de Alvear. A partir del cierre, la compañía mantendrá el abastecimiento de esos componentes para el modelo, pero \ndejará de fabricarlos en la Argentina y comenzará a recibirlos desde sus instalaciones en Brasil\n.\n\nUna planta que llegó a tener 230 trabajadores\n\nDesde el \nSindicato de Mecánicos y Afines del Transporte Automotor (SMATA)\n señalaron que la planta atravesaba un proceso de recortes y reducción de personal desde 2019.\n\nEn su momento de mayor actividad, el establecimiento llegó a contar con \n230 trabajadores\n y produjo componentes para distintos vehículos ensamblados en el país.\n\nLa empresa responsable de la planta comenzó sus operaciones en 2016 y pertenece a un grupo internacional dedicado a la fabricación de asientos y otros componentes para la industria automotriz.\n\nEl cierre representa ahora un nuevo golpe para el empleo industrial en la región, con \n70 trabajadores que perderán sus puestos de trabajo\n.\n\nFabricar en Argentina o importar desde Brasil\n\nLa decisión empresarial está vinculada, según la información difundida, con la conveniencia económica de \nimportar las autopartes desde Brasil en lugar de continuar fabricándolas en el país\n.\n\nEntre los factores mencionados aparecen la retracción del mercado interno, las condiciones cambiarias y un escenario que facilita el ingreso de productos desde el exterior.\n\nAsí, una planta ubicada a pocos kilómetros del complejo automotor al que abastecía dejará de producir localmente las butacas que serán utilizadas en esos vehículos y pasará a recibirlas desde Brasil.\n\nEl caso vuelve a poner en el centro de la discusión el impacto que tienen las decisiones sobre producción nacional, importaciones y costos sobre el empleo industrial argentino.\n\n \n\nDIAMANTE – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "empleo",
+      "servicios_publicos",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-federal-entregaron-aportes-del-programa-provincial-la-juventud-emprende-2",
+    "fuente": "Federal Al Día",
+    "titulo": "FEDERAL: ENTREGARON APORTES DEL PROGRAMA PROVINCIAL “LA JUVENTUD EMPRENDE”",
+    "fecha": "2026-09-22",
+    "link": "https://federalaldia.com.ar/2026/09/21/federal-entregaron-aportes-del-programa-provincial-la-juventud-emprende-2/",
+    "texto_original": "El programa La Juventud Emprende es una política pública del Gobierno de Entre Ríos, impulsada por la Dirección de Juventud del Ministerio de Desarrollo Humano, que busca acompañar y fortalecer a jóvenes emprendedores de entre 18 y 35 años. Su objetivo principal es promover la autonomía económica juvenil, con un enfoque federal, inclusivo y sostenible. En Federal se entregaron $ 2.500.000,-\n\nEl municipio de Federal publicó sobre la entrega a Jesica y Daiana, dos jóvenes emprendedoras de Federal que forman parte del padrón de emprendedores y emprendedoras de nuestra ciudad.\n\nSe trata de dos aportes no reintegrables de $1.250.000 cada uno, destinados a gastos de capital, como maquinaria o herramientas; dándose prioridad a proyectos innovadores vinculados a la economía del conocimiento, economía circular y economías regionales, aunque cualquier iniciativa que cumpla con los requisitos podrá postularse.\n\n“Detrás de cada máquina, cada herramienta y cada nueva posibilidad hay horas de trabajo, esfuerzo y muchas ganas de crecer. Y eso también es juventud: animarse, aprender, emprender y proyectar un futuro acá, en Federal”, agregó la publicación oficial.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo",
+      "municipios",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-el-gobierno-y-los-gremios-docentes-vuelven-a-encontrarse-este-martes",
+    "fuente": "Federal Al Día",
+    "titulo": "EL GOBIERNO Y LOS GREMIOS DOCENTES VUELVEN A ENCONTRARSE ESTE MARTES",
+    "fecha": "2026-09-22",
+    "link": "https://federalaldia.com.ar/2026/09/21/el-gobierno-y-los-gremios-docentes-vuelven-a-encontrarse-este-martes/",
+    "texto_original": "Este martes 22 de septiembre, a las 15 se reanuda la paritaria con los gremios docentes, en la Secretaría de Trabajo.\n\nEstán convocados a la reunión los representantes de la Asociación del Magisterio de Entre Ríos (Agmer), de la Asociación del Magisterio de Enseñanza Técnica (AMET), del Sindicato Argentino de Docentes Privados (Sadop) y de la Unión Docentes Argentinos (UDA).\n\n#SecretariaComunicacionYPrensa #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-senadores-de-juntos-por-entre-rios-evaluaran-posibles-cambios-en-el-proyecto-de-alivio-fiscal-para-comercios",
+    "fuente": "Federal Al Día",
+    "titulo": "SENADORES DE JUNTOS POR ENTRE RÍOS EVALUARÁN POSIBLES CAMBIOS EN EL PROYECTO DE ALIVIO FISCAL PARA COMERCIOS",
+    "fecha": "2026-09-22",
+    "link": "https://federalaldia.com.ar/2026/09/21/senadores-de-juntos-por-entre-rios-evaluaran-posibles-cambios-en-el-proyecto-de-alivio-fiscal-para-comercios/",
+    "texto_original": "“Estamos en consulta con el Poder Ejecutivo analizando los alcances de las propuestas, que, si son factibles, seguramente se incorporarán al proyecto”, indicaron los legisladores oficialistas. Además, anticiparon que hay voluntad de trabajar a futuro en un nuevo proyecto. Por otra parte, señalaron que buscarán ponerlo a votación en el recinto el próximo miércoles.\n\nTras el enojo por parte del Centro Comercial de Paraná, el Bloque de Juntos por Entre Ríos indicó que evalúa incorporar algunos aportes al proyecto de alivio fiscal, que el pasado martes obtuvo dictamen para ser votado.\n\n“Estamos en consulta con el Poder Ejecutivo analizando los alcances de las propuestas, que, si son factibles, seguramente se incorporarán al proyecto”. Y agregó: “Para no demorar queremos darle tratamiento definitivo el miércoles de la otra semana en la sesión”.\n\nAdemás, en el comunicado se anticipó que hay voluntad de trabajar a futuro en un nuevo proyecto o en nuevas iniciativas que puedan contemplar los aportes realizados por la entidad, especialmente aquellos vinculados con financiamiento, costos energéticos, regularización de obligaciones, estímulo al consumo y fortalecimiento del comercio local.\n\n“Veremos que podemos incorporar en este proyecto pero, además, y como fue nuestro compromiso seguiremos en contacto y trabajo para avanzar en otros aspectos que también se plantearon y nos dejaron como iniciativa”, indicaron los senadores.\n\nCabe recordar que el titular de la Entidad, Muaricio Benintende, había indicado a APFDigital que las propuestas que expuso en la reunión de Comisión no habían sido tenidas en cuenta. Además, rechazó el proyecto porque consideró que el alivio fiscal que se establecía en el texto era “el valor de dos gaseosas”.\n\nAl respecto, el Bloque respondió: “Escuchar y analizar los planteos de los sectores involucrados es parte del proceso de construcción de políticas públicas. Por supuesto que eso no significa que todas las propuestas puedan incorporarse de manera inmediata a un proyecto que ya tiene un determinado alcance y un recorrido legislativo”.\n\nAsimismo, los legisladores oficialistas remarcaron: “Entendemos que este proyecto constituye un paso concreto para acompañar al sector comercial y por eso vamos a trabajar para que avance. Es una herramienta que puede comenzar a dar respuestas, inmediatas, en un contexto en el que sabemos que comerciantes y emprendedores atraviesan dificultades”.\n\n#APFDigital #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "empleo",
+      "comercio",
+      "gobierno",
+      "legislatura",
+      "justicia",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-pagani-dio-el-salto-a-la-politica",
+    "fuente": "Federal Al Día",
+    "titulo": "PAGANI DIO EL SALTO A LA POLÍTICA",
+    "fecha": "2026-09-22",
+    "link": "https://federalaldia.com.ar/2026/09/21/pagani-dio-el-salto-a-la-politica/",
+    "texto_original": "El exsecretario general de la Asociación Gremial del Magisterio de Entre Ríos (Agmer), Marcelo Pagani, anunció de manera oficial su inserción en la arena política de la provincia con el lanzamiento de la agrupación El Puente en la ciudad de Colón.\n\nTras finalizar en 2025 sus dos mandatos al frente del gremio docente de mayor representatividad provincial, el dirigente busca consolidar una alternativa dentro del peronismo de su ciudad, tal como anticipó Página Política.\n\nA través de sus redes sociales, Pagani detalló el origen y los objetivos del proyecto: “Compañeras y compañeros de Colón comenzamos a reunirnos para debatir, analizar, caracterizar no solo la realidad de nuestra ciudad sino también la de la provincia y del país. Tenemos en común la vocación militante y la convicción de reivindicar la política como una actividad humana fundamental y necesaria para hacer que la vida de cada persona merezca ser vivida”.\n\nSe definen como “una agrupación política y cultural de Colón, con profundas raíces en el pensamiento y los valores del peronismo y del campo nacional y popular, abierto y plural, integrada por compañeros que provienen de distintos sectores y experiencias”. Además, expresaron su postura respecto a la construcción colectiva: “El Puente no niega las diferencias. Las conecta. Somos el puente entre personas. Entre generaciones. Entre ideas. Entre sectores. Entre el presente y el futuro que queremos construir”.\n\nIntendencia\n\nLa irrupción de este nuevo frente se da en un escenario donde el Partido Justicialista local aspira a recuperar el gobierno de Colón, conducido desde 2019 por el vecinalismo a través de José Luis Walser, quien desplazó al peronismo tras los dos períodos de gobierno de Mariano Rebord.\n\nLa transición de Pagani a la vida política activa sucede a la conclusión de una extensa etapa dentro del ámbito sindical y educativo. Entre 2009 y 2014, el dirigente se desempeñó como secretario general de la seccional Agmer Colón, para luego ocupar el cargo de director obrero en el Iosper en representación del colectivo docente.\n\nEn noviembre de 2017 asumió la conducción provincial de Agmer encabezando la Lista Celeste Compromiso (en la alianza Integración). En septiembre de 2021 impulsó un acuerdo histórico que conformó la Agrupación Marcha Blanca, logrando la confluencia entre sectores tradicionalmente enfrentados como la Lista Celeste y la Rojo y Negro, junto a la Lista Blanca de Victoria y la Ñandubay de Federal. Tras ganar los comicios de ese año ante la Lista Multicolor, reasumió el 30 de diciembre de 2021 para completar su segundo mandato en el período 2022-2025.\n\nDe forma previa al término de su mandato sindical, en mayo de 2024, el exdirigente dio a conocer la obtención del beneficio jubilatorio luego de que la Caja de Jubilaciones y Pensiones de Entre Ríos acreditara 42 años, 1 mes y 8 días de servicio en el sistema educativo.\n\n#PaginaPolitica #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "empleo",
+      "servicios_publicos",
+      "justicia",
+      "infraestructura_obra_publica",
+      "construccion",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "colón",
+      "federal",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-r2820-gn-654d68c5e59a",
+    "fuente": "R2820",
+    "titulo": "En Gualeguaychú atraparon a un violador prófugo de la Justicia bonaerense",
+    "fecha": "2026-09-21",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWdUcW5xSlE4UEZPVHpUWm11eGZ3S3RvX3UySGxGeUdRUG0xdDVERE1xQnQxRmNBS0NfUDJ6X0lucGstNl9iOVlaaDJFaFFublFNU0w0ZHlhRkFVZnNFVDhFblZGZVpITEV2NjJ0bnpzUklWeHVOMmN1Ty1OaGNYSUN4RnFscnNGSDdrSHNGT3FwYWpHR1lCWEV1T21UUWtadmlHNzBPeFNFZFF2dlpwdHdBOTdxenJ2dS1yN3BHZ9IBxAFBVV95cUxOS2NuRkxlOGYybWNfcDMxT01XV1pqNVNNWVZiUkNkR1VHRU52WlpCY2V6MThSMlFTM2x1UXpMcTdqVFJrTWtTck5zR2QxT0ZpV0M2b0VkNHh4cmRqbklNZFAtTzNVMkVINXlUcXRDdTNOT1h1cnZFbFZmUklMT09oMVNwVHgxeHpSSElPR3pLeW5KeUtEQnUwOW5kaHViSW9hbHBLTW9sZVNObjhNUjl3Ulo0Mmo2YjdnSjNXTnBsYWdEblpy?oc=5",
+    "texto_original": "En Gualeguaychú atraparon a un violador prófugo de la Justicia bonaerense\n  \nR2820",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T01:43:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
   }
 ]
