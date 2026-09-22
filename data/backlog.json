@@ -67502,5 +67502,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-concordia-10-anos-de-prision-para-un-abusador",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "Concordia: 10 años de prisión para un abusador",
+    "fecha": "2026-09-21",
+    "link": "https://www.jusentrerios.gov.ar/2026/09/concordia-10-anos-de-prision-para-un-abusador/",
+    "texto_original": "El vocal del Tribunal de Juicio y Apelaciones de Concordia, Germán Dri, impuso hoy la pena de 10 años de prisión efectiva para G.E.H., a quien un jurado popular reunido el 28 de agosto pasado en Federación declaró culpable del delito de Abuso sexual gravemente ultrajante agravado por el vinculo. Fue en el marco del legajo “G.E.H. s/Abuso sexual gravemente ultrajante y Abuso sexual con acceso carnal agravado por el vínculo”.\n\n \n\nSegún consta en la resolución, G.E.H. cumplirá prisión preventiva bajo la modalidad de arresto domiciliario hasta tanto la sentencia quede firme, conforme el planteo formulado por su defensa técnica.\n\n \n\nDurante la audiencia de cesura, efectuada el 3 de septiembre último, la fiscal Josefina Penón Busaniche solicitó una pena de 16 años de prisión, en tanto que el defensor oficial Joaquín Garaycoechea pidió una condena de 8 años.\n\n \n\nSe trató del juicio por jurados número 170 realizado en Entre Ríos desde la implementación de este sistema de juzgamiento penal.\n\n \n\n21 de septiembre de 2026\n\nSIC-STJ",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-22T11:40:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
