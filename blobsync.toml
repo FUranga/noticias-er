@@ -1,0 +1,6 @@
+# Archivos grandes compartidos entre maquinas via rclone/Google Drive
+# (`python -m aiwb.blobsync pull|push|status`, ver ai-workbench/AGENTS.md).
+# Ejemplos/ son PDFs de referencia de estilo (copyright ajeno): solo consulta local, no git.
+
+[[sync]]
+path = "Ejemplos"
