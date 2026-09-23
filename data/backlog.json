@@ -75983,5 +75983,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-continua-la-construccion-de-calzadas-sumergibles-en-el-departamento-nogoya",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Continúa la construcción de calzadas sumergibles en el departamento Nogoyá",
+    "fecha": "2026-09-22",
+    "link": "https://www.dpver.gov.ar/2026/09/22/continua-la-construccion-de-calzadas-sumergibles-en-el-departamento-nogoya/",
+    "texto_original": "Con financiamiento provincial, se trabaja en la construcción de cuatro obras de arte sobre los arroyos Taperas, Las Piedras, Aguada y Angostura, en el distrito Crucesitas del departamento Nogoyá.  Las mejoras beneficiarán a escuelas, centros de salud y emprendimientos productivos de la zona.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T13:01:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
