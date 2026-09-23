@@ -80142,5 +80142,432 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-f01bdb64d89d",
+    "fuente": "Análisis Digital",
+    "titulo": "La Policía de Entre Ríos sumó vehículos y equipamiento con una inversión de $400 millones",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDBrN2xCTENVdGhVeEZtYnVEcHJ4NWZYN1pZNkRqMkNNTW1rQUZuUDlkUG9OSldvRUo2UlEtVjRsWHJZQUs2N3djNW1DQjU5WmRTcERFUUVWeWNsRnBoN0xleFRLaFN0TDB4M0FEVU92eldoWlI5OW1PVzd5X0NteEwwM0xsZUh2QlExUU94M1RaT0hvOWVqeGUzdWZ4VFp0NEU0QXhmdGxra3RsdWpsOUE3Tk5MZlNyUXo4TTFadVRsRmFoTjRCMUs3dk9vXzhXXzZ1aFM3VlFBejZWbUE?oc=5",
+    "texto_original": "La Policía de Entre Ríos sumó vehículos y equipamiento con una inversión de $400 millones\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:22:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-9b21eb8d4c58",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Escuela NINA N° 18 “El Aconcagua” – Taller de TIC",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHdUU29KMzk2THFsSWtfVGJkbi1ROWtBUWp4a3RRdHN6RDdIbkRadkhieTFWTGlvLTBydFFuQVBPQ2VhcGNwdGh4NVFEQUlodHFhZXhjSm9qdmpSbUF5WEp3VWU1clhuNWc1M3h3YWhpRVp3LWdqaDlKY2dhTFB1Q3Yya2VTQnY4cXNwQw?oc=5",
+    "texto_original": "Escuela NINA N° 18 “El Aconcagua” – Taller de TIC\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:22:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6d03a02f9043",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Condenan al remitente de una encomienda detectada en Entre Ríos con marihuana",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGJnb09QdXZhOFJvei1PeGFFck9IbHk1aGxWcDMxS1Vlekt2cUF2eXoya1M1QUM2aVRRZUY5Qlp4UGpDb1p2ZzBWcXc2NW1Genp6aGxldW1nNkFMN3NvRGtHTlAxX1RuVjZ2SUltVzF5dEQtSnpsMXFObVVNMGF6NEJITUx6bXhRZU01S3JMRElDNDhobDgxeVlYclVtbDFUQVhXWnlqSkV5VEk?oc=5",
+    "texto_original": "Condenan al remitente de una encomienda detectada en Entre Ríos con marihuana\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:22:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-b453ae026d9d",
+    "fuente": "APFDigital",
+    "titulo": "Comenzó la construcción de una calzada sumergible entre Concordia y Federación",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcTN0amotSFFXblN1cnlwMDYtRzBBaWRHa2hXY3d2dEh3eGV0enRncjZjYkRmWWl1dzc5VFkzbkwtbFhxYTlaU3h3bHRYaDEzdU94TXUxdGpjVFBCSFp5ZHhaMW9HN1l3OC0xVGg4d0lsaV9pT0JZblc2aUpIZzQ1dG9iVFB1b25wZ2h0WkhTbU1fSWFtUGxfVTA2dGdENVRNcHhNaU5hNDQ0N2NuYzRueW9mS1o3VTZzTDV3YWpRQlFQTkZ1NXJYU3pKSjNSSkJG0gHWAUFVX3lxTE4ybHJHYVVaRXN6cTBpTThGRlJwelllNVBfUXRuU0dRcE8xR1BkZ0NhdEdCajRoTkVicGhRbWd0T2dRczEtdTZ5RmlqT3NYakk2Mmd3UWtQZEtXMW1SZDlJX2pQTW1xRElsMFJTWHU5Qm9nY0xSSnJTYXJvc3VialZLYktDam9WQW15bWpOM3dySVBjNE9GMjQwUnN5ZzFMRFJYdjg4LTR4OHYzLTVSeXVCa1lXbXFkY0Z6UDJwcUx2WXA4WDFOdTBURlUwU1d5RVlxVXYtMHc?oc=5",
+    "texto_original": "Comenzó la construcción de una calzada sumergible entre Concordia y Federación\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "concordia",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-uno-entre-rios-gn-beaf1457102d",
+    "fuente": "Uno Entre Rios",
+    "titulo": "Verónica Edith González juró y se incorpora a la Cámara de Diputados de Entre Ríos",
+    "fecha": "2026-09-22",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkg4eU16cEozd0ZLY2xaYUFTcjZMUVNOUEctSUhYbkJkbEVNNlBrLVQ3YVV4NGJnektsQUFxcVdWTG9PMlkwQXlFZ2dZNEs2WnZSVE1yLXN5TVhjMkluRV9oakVpZndjWEVLUUc5akJyVEVwVlFNQmItUWdwb3hmemJwWkJwM0VKNWlCX3E5d3FPeXQyTG9MT1VGWjEwSldKcHZQc29Rb3pRZ3M2TVpDLU9JbGEyQkJlWnpYNUNXWmxsTUY3SHpn0gHMAUFVX3lxTE9INHJraU90VGs4ZktDelB0c01XaUVpdUlvVG9GcGxabnJjQmhiaGlLVkVIbFgwcW45ek1QZ29VbkRvOFRNYnJVWFNPc3E0U0NkNVRaaFp5T3k5LV91YUZYX0pjVjFWb1BKUFRHVmx5NzNWbDY0OHpqNjBNbjQxVGk5ZGRVM2JfY1dvUm9YWEpnZC14bi1LdEJDa0hCVTNQSkU4bnlKV0loVW1kMlo4VVZ4ZHNyV0ppeHhJdDFkX0ttZXh2MjZxbHFxZzdERg?oc=5",
+    "texto_original": "Verónica Edith González juró y se incorpora a la Cámara de Diputados de Entre Ríos\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-5819e1fd7739",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Diputados homenajearon a Calleros y aprobaron la Ley de Transformación Digital",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzdVbXFwSXNib19fcy05UzJGZlZ6T0k4M0IwT3ZmcDNpR29WSGNtMW9GcEhMaE1wZVhaMVd6aTF4N0ZQZV80b0dtYjVjeWtxYlFsVmJyQVVCa2Vpa2U4OXUyTW80ZWhuM09ZZ3QzVTlpYTduTWFkM1JjY1pkQ19JeHg1c05Bd25aejFCT0hlekFXWmdMVE0zdldxSGhlMmZ0MHRtTXFETFZuMHJ1?oc=5",
+    "texto_original": "Diputados homenajearon a Calleros y aprobaron la Ley de Transformación Digital\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-23T23:23:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Efemeride/acto protocolar sin dato o anuncio institucional nuevo. (automático)",
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-1751e9ba6eae",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El Municipio trabaja en distintos barrios de Paraná para anticiparse a la llegada de El Niño",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUFBbElESlBQQnlmYmlEWS0xYUlJaU16MDJtM2RaaVdtekhFRGkzdDZZRWcwRDRYNHI1RFh2d3ItZk9NTktoTkwzbV81QkV0dHNxRzhsMUlIV1gxdlU5ZFJ3THM0ZVF0VGdhcTVITnZ1ZHNjWHB4cTFMVzhsOFYwNVJGWEtvWXA1Q0JEZk96ZjNacHQ2dWhDeEhEMkJ3a1FjQTlWT09TbC11Y0QwTU1OR2QwSFZsUG5ieEV2N3oxUQ?oc=5",
+    "texto_original": "El Municipio trabaja en distintos barrios de Paraná para anticiparse a la llegada de El Niño\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-20de54b574a4",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El consumo en supermercados anotó una nueva baja en julio, aunque repuntó en mayoristas y shoppings",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlM4Zm1Nc2JSSThxYm9CcWlGVE5lcGJsZDdSNThHSFo5UkxWOHhyaXRJWHJrOE9qZEo3ZE9wVWNJNG5DSHJtTTU3VFZia3djRnYyOGplRVlmZlpPZTE0MGoyV1FwazcwaFl4c2hOQVZITmZ6ajVBN25meG0wSGVrc1B3Ykh5YmxpeXVlT3B1WmQyajRDQW9NRGs2TnRoY3FxSjBzVW9LWDllM3doaC1MU0Rvem4zWlEwa0NfY1p1LTEzREIwN000?oc=5",
+    "texto_original": "El consumo en supermercados anotó una nueva baja en julio, aunque repuntó en mayoristas y shoppings\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-53cd77bb2990",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "La Corte fijó la competencia en Paraná para el Amparo del transporte público",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkZRblRLcWEwNWRodG9YUUNBbDJkSFVJalBBUVhlc2Z1NFJSR2x2UE1ocGFHYnROUWNTeDZzc1FYMC1POV8zeUpNS3BCU1ZmZFVnazJZUld5UWF6SmV2Y2JXdUZWOVJJWXU0SXVqRi1XRF9aN013YUk4Z2pIekhUWEVnQ2czakJmNUxIc3hKYzJlUzNzb1ZmeE9mdkMtY1F0VlZiQ1J5TUFZdw?oc=5",
+    "texto_original": "La Corte fijó la competencia en Paraná para el Amparo del transporte público\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-expo-textil-2026-llega-a-concordia-este-fin-de-semana",
+    "fuente": "LT15 Concordia",
+    "titulo": "Expo Textil 2026 llega a Concordia este fin de semana",
+    "fecha": "2026-09-23",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/23/expo-textil-2026-llega-a-concordia-este-fin-de-semana/",
+    "texto_original": "El mundo de las telas, el diseño y la producción gráfica tiene cita en \nConcordia\n. Este \nsábado 26 y domingo 27 de septiembre\n, el \nCentro de Convenciones\n abre sus puertas para la \nExpo Textil Concordia – Industria Textil & Gráfica\n, un encuentro organizado por el sector privado que promete dos jornadas cargadas de contenido, intercambio y movimiento.\n\nEl evento funciona de \n13 a 21 horas\n en ambas jornadas y está pensado tanto para quienes ya trabajan en el rubro como para emprendedores que buscan dar el salto. La \nSecretaría de Desarrollo Productivo de la Municipalidad\n acompaña la propuesta, que tiene como concepto central \n“Ideas que impulsan tu negocio”\n.\n\nLa agenda es densa y variada: \ncharlas, capacitaciones, actividades prácticas y desfiles de moda\n se distribuyen a lo largo de las dos jornadas. Los temas van desde \nliderazgo y sustentabilidad\n hasta \ndiseño gráfico, tejido de punto industrial, bordado, sublimación e identidad textil\n. También hay espacio para oratoria y gestión productiva, lo que le da a la expo un perfil que va más allá del oficio puro y apunta a fortalecer el lado empresarial de cada emprendimiento.\n\nEntre los disertantes confirmados aparecen nombres como \nLorena Aguilar, Mariana Rossi, Flor Tristán, Gastón García\n de La École, \nCarolina Arce, Luis Otamendi, Iván Ibarra, Gabriel Lavacelli, Virginia Locaso, María Laura Ascargorta\n y \nAndrés Aguilar\n, entre otros. Una lista que mezcla perfiles técnicos con referentes del diseño y la comunicación.\n\nLa propuesta se plantea como un espacio de intercambio real: presentación de emprendimientos, experiencias concretas de producción y la posibilidad de conectar con otros actores del sector. Para una industria que en la región tiene presencia pero pocas vitrinas propias, una expo de este tipo es una oportunidad que no sobra.\n\nLa \nExpo Textil 2026\n se desarrolla el \nsábado 26 y domingo 27 de septiembre, de 13 a 21 horas\n, en el \nCentro de Convenciones de Concordia\n. La entrada y las condiciones de participación se pueden consultar a través de los canales de la organización.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "industria",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-dos-misioneros-detenidos-en-concordia-con-5-millones-dolares-y-joyas",
+    "fuente": "LT15 Concordia",
+    "titulo": "Dos misioneros detenidos en Concordia con $5 millones, dólares y joyas",
+    "fecha": "2026-09-23",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/23/dos-misioneros-detenidos-en-concordia-con-5-millones-dolares-y-joyas/",
+    "texto_original": "Llevaban una fortuna encima y no pudieron explicarla. \nDos hombres oriundos de la provincia de Misiones\n fueron detenidos en \nConcordia\n luego de que las fuerzas de seguridad les secuestraran \nmás de $5 millones en efectivo\n, \n500 dólares\n y una cantidad de \nalhajas de oro\n cuya procedencia no pudo acreditarse.\n\nEl hallazgo disparó de inmediato la intervención de la \nJusticia\n, que no tardó en encuadrar el caso: los dos sujetos quedaron detenidos bajo la figura de \nreceptación dolosa\n, el delito que aplica cuando alguien tiene en su poder bienes que provienen de un ilícito previo, aunque no haya participado directamente en ese delito original.\n\nNo es un dato menor. La \nreceptación dolosa\n implica que quien tiene la cosa sabe, o debería saber, que fue robada, estafada o de alguna manera sustraída. En este caso, el cóctel de efectivo en pesos, divisa extranjera y joyas de oro sin respaldo documental fue suficiente para que la autoridad judicial ordenara la detención sin demoras.\n\nLa cantidad de dinero incautada, sumada a las alhajas, configura un cuadro que las fuerzas de seguridad tomaron con seriedad desde el primer momento. \nConcordia\n es una ciudad de paso y de frontera, con una dinámica comercial y de tránsito que la convierte en escenario frecuente de este tipo de procedimientos. Que dos personas de otra provincia circulen con semejante volumen de bienes sin justificación válida es, cuanto menos, una señal que ningún investigador puede ignorar.\n\nLa causa quedó en manos de la \nJusticia entrerriana\n, que deberá determinar el origen de los bienes y si existe conexión con algún hecho delictivo previo. Los dos detenidos permanecen a disposición del juzgado interviniente mientras avanza la investigación.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-orrico-quedo-a-un-paso-de-la-carcel-el-stj-confirmo-los-5-anos-y-8-meses-por-la-muerte-de-cuatro-trabajadores",
+    "fuente": "El Heraldo",
+    "titulo": "Orrico quedó a un paso de la cárcel: el STJ confirmó los 5 años y 8 meses por la muerte de cuatro trabajadores",
+    "fecha": "2026-09-23",
+    "link": "https://www.elheraldo.com.ar/noticias/judiciales/orrico-quedo-a-un-paso-de-la-carcel-el-stj-confirmo-los-5-anos-y-8-meses-por-la-muerte-de-cuatro-trabajadores",
+    "texto_original": "La Sala Penal del Superior Tribunal de Justicia de Entre Ríos, integrada por Miguel Ángel Giorgio, Daniel Carubia y Claudia Mizawak, rechazó este miércoles 23 de septiembre la impugnación extraordinaria planteada por los defensores de Juan Enrique Ruiz Orrico contra la sentencia Nº 146 de la Sala II de la Cámara de Casación Penal, dictada el 3 de julio de 2026. De esta manera quedó confirmado el pronunciamiento que mantiene la condena a 5 años y 8 meses de prisión de cumplimiento efectivo.\n  \nLa resolución fue adoptada luego de una audiencia realizada en Paraná, con participación de la defensa, los representantes de las familias de las víctimas y el Ministerio Público Fiscal. El STJ también impuso las costas de esta instancia a la parte recurrente y reguló los honorarios de los abogados de la querella particular en 50 juristas, equivalentes a $4.736.624. La defensa dejó planteada la reserva del caso federal.\nLa madrugada que terminó con cuatro vidas\nEl hecho por el que Orrico fue condenado ocurrió durante la madrugada del 20 de junio de 2024, en el kilómetro 123 de la Ruta Provincial 39, departamento Uruguay.\n\nOrrico conducía un Volkswagen Passat oficial cuando se produjo la colisión frontal con un Chevrolet Corsa en el que viajaban cuatro trabajadores: Brian Izaguirre, Lucas Izaguirre, Leonardo Almada y Axel Rossi, quienes se dirigían a trabajar y murieron como consecuencia del impacto.\n\nUno de los elementos centrales del proceso fue la alcoholemia. La Justicia terminó condenando a Orrico por homicidio culposo agravado por el nivel de alcoholemia y por la cantidad de víctimas, conforme al artículo 84 bis del Código Penal. Durante la audiencia de este miércoles se mencionó una alcoholemia de 1,59 gramos por litro de sangre.\n\nEl juicio culminó con una condena impuesta por el juez Darío Crespo: 5 años y 8 meses de prisión efectiva y nueve años de inhabilitación especial para conducir vehículos con motor.\n\nLa defensa recurrió el fallo. Casación confirmó la condena y posteriormente se habilitó la impugnación extraordinaria ante el STJ. En la audiencia de este miércoles, los abogados de Orrico cuestionaron principalmente la determinación de la pena y sostuvieron, entre otros argumentos, que debían ponderarse de otra manera la confesión, la denominada “pena natural”, la falta de antecedentes y otras circunstancias. El Ministerio Público Fiscal y las querellas solicitaron el rechazo.\n\nEl STJ finalmente mantuvo lo decidido por Casación.\n¿Cuánto tiempo podría permanecer efectivamente en prisión?\nLa condena es de 5 años y 8 meses, es decir, 68 meses. Sin embargo, debe distinguirse entre la duración total de la pena y la posibilidad futura de acceder a un régimen de libertad condicional.\n\nEl Código Penal establece, para las penas superiores a tres años y cuando se cumplen los demás requisitos legales, la posibilidad de solicitar la libertad condicional una vez cumplidos los dos tercios de la condena. No se trata de una reducción automática ni significa que la sentencia quede acortada: debe existir una decisión del juez competente, con intervención de los organismos de ejecución y evaluación de la conducta y evolución del condenado.\n\nEn una pena de 5 años y 8 meses, los dos tercios representan aproximadamente 3 años, 9 meses y 10 días.\n\nPor lo tanto, si Orrico ingresa a prisión y reúne en el futuro todos los requisitos exigidos —entre ellos los relacionados con su conducta, concepto y evolución dentro del régimen penitenciario— podría, al alcanzar aproximadamente ese tiempo de cumplimiento computable, pedir la libertad condicional. Será el juez de Ejecución quien determine si corresponde concederla. La buena conducta, por sí sola, no descuenta automáticamente meses o años de la condena.\n\nSi la libertad condicional fuera concedida, la condena no desaparece: Orrico continuaría cumpliendo la pena fuera del establecimiento penitenciario y sujeto a las condiciones establecidas judicialmente hasta completar los 5 años y 8 meses. Si el beneficio no fuera otorgado, deberá continuar cumpliendo la pena según el régimen que determine la Justicia.\n\nTambién deberá considerarse en el cómputo definitivo cualquier período de privación de libertad que legalmente corresponda descontar. Esa cuenta concreta será realizada por la Justicia de Ejecución una vez que corresponda ejecutar la sentencia.\nLa causa todavía tiene una puerta federal\nEl rechazo dispuesto por el STJ representa un paso decisivo dentro de la Justicia provincial, aunque la defensa dejó formulada la reserva del caso federal, lo que abre la posibilidad de intentar llevar la discusión hacia la Corte Suprema de Justicia de la Nación por las vías procesales correspondientes.\n\nEl STJ anunció que los fundamentos completos de la resolución serán dados a conocer dentro del término legal. Será entonces cuando se conozca en detalle por qué los tres vocales rechazaron los cuestionamientos formulados por la defensa y mantuvieron la condena por una tragedia vial que dejó cuatro trabajadores muertos y que, más de dos años después, continúa atravesando distintas instancias judiciales.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "servicios_publicos",
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "crespo",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-convocatoria-2026-para-la-linea-de-investigacion-y-fomento-alicia-naput-del-iaaer",
+    "fuente": "El Heraldo",
+    "titulo": "Convocatoria 2026 para la línea de investigación y fomento Alicia Naput del IAAER",
+    "fecha": "2026-09-23",
+    "link": "https://www.elheraldo.com.ar/noticias/cultura/convocatoria-2026-para-la-linea-de-investigacion-y-fomento-alicia-naput-del-iaaer",
+    "texto_original": "El Instituto Autárquico Audiovisual de Entre Ríos (IAAER), en el marco de sus políticas de fomento al desarrollo audiovisual y cultural de la provincia, impulsa esta convocatoria con el propósito de promover la investigación y la producción de pensamiento en torno a las poéticas entrerrianas, entendidas como las formas de creación, representación y construcción de sentido que emergen de los territorios, sus historias, sus modos de habitar y la diversidad de sus expresiones culturales.La convocatoria está dirigida a artistas, realizadores audiovisuales, historiadores, investigadores, gestores culturales, cientistas sociales, escritores y demás personas interesadas en el estudio de las poéticas vinculadas al territorio entrerriano.\n\nLa convocatoria está abierta hasta el 23 de octubre a las 23:59 hsNaput apoyó e impulsó el desarrollo de distintas propuestas de investigación en el IAAER. Se formó en la Facultad de Ciencias de la Educación y posteriormente se desempeñó como profesora en la misma institución, en las cátedras Política de la Educación, Teoría Política e Historia de las Ideas de las carreras de Ciencias de la Educación y Comunicación Social. Asimismo, fue coordinadora de Carreras de Ciencias de la Educación entre 2009 y 2013. También fue consejera directiva de la Facultad. Por otra parte, dirigió proyectos de investigación y extensión en temáticas vinculadas con géneros, sexualidades, cine y política, educación, así como con políticas de formación en la universidad. Y tuvo una activa militancia en el Sindicato de Trabajadores de la Docencia Universitaria (Sitradu) y Conadu Histórica. Falleció en septiembre del 2025.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "empleo",
+      "servicios_publicos",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-ficha-limpia-el-senado-entrerriano-volvio-a-discutir-el-proyecto-y-ahora-busca-cerrar-un-dictamen",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Ficha Limpia: el Senado entrerriano volvió a discutir el proyecto y ahora busca cerrar un dictamen",
+    "fecha": "2026-09-23",
+    "link": "https://blancaciudadnoticias.com.ar/ficha-limpia-el-senado-entrerriano-volvio-a-discutir-el-proyecto-y-ahora-busca-cerrar-un-dictamen/",
+    "texto_original": "Las comisiones de Legislación General y de Asuntos Constitucionales y Acuerdos retomaron el debate sobre la Ley de Transparencia y Ética Pública. El proyecto tiene media sanción de Diputados y los senadores analizaron modificaciones sobre declaraciones juradas, patrimonio y el régimen de Ficha Limpia.\n\nEl proyecto de \nTransparencia y Ética Pública\n, conocido como \nFicha Limpia\n, volvió al centro del debate en la Legislatura de Entre Ríos.\n\nEste miércoles, las comisiones de \nLegislación General y de Asuntos Constitucionales y Acuerdos del Senado\n se reunieron durante casi dos horas para analizar modificaciones al texto que ya cuenta con media sanción de la Cámara de Diputados.\n\nLa discusión dejó en claro que el proyecto \nno será tratado simplemente tal como llegó desde Diputados\n. Los distintos bloques plantearon cambios y acordaron continuar negociando la redacción antes de avanzar hacia un dictamen conjunto.\n\nQué cambios se están discutiendo\n\nEntre los principales puntos abordados aparecen las \ndeclaraciones juradas de los funcionarios\n, el contenido que deberán incluir, la información relacionada con bienes y activos financieros y la definición de los sujetos alcanzados por la normativa.\n\nUno de los puntos centrales es precisamente el mecanismo conocido como \nFicha Limpia\n.\n\nEl senador \nJuan Pablo Cosso\n, presidente de la Comisión de Asuntos Constitucionales y Acuerdos, explicó que en ese aspecto hubo un acuerdo para incorporar la denominada \nregla del doble conforme\n.\n\nPor su parte, la senadora \nNancy Miranda\n, titular de Legislación General, señaló que las modificaciones vienen siendo trabajadas entre los diferentes bloques, el Poder Ejecutivo y los legisladores.\n\nAhora, el oficialismo analizará los cambios planteados y \nlas comisiones volverán a reunirse la próxima semana con el objetivo de intentar alcanzar un dictamen conjunto\n.\n\nUn proyecto que lleva meses en discusión\n\nLa iniciativa fue elaborada por el Poder Ejecutivo y ya obtuvo la sanción de Diputados. El proyecto consta de \n42 artículos\n y busca reglamentar los artículos 37 y 40 de la Constitución de Entre Ríos, estableciendo normas de conducta para quienes ejercen funciones públicas.\n\nEl texto establece obligaciones, prohibiciones, inhabilidades e incompatibilidades para quienes se desempeñen en los tres poderes del Estado.\n\nTambién contempla un \nrégimen de declaraciones juradas patrimoniales\n, normas sobre conflictos de intereses y restricciones para la recepción de regalos, obsequios o donaciones vinculadas con el ejercicio de la función pública.\n\nDos organismos para controlar la aplicación de la ley\n\nEl proyecto también contempla la creación del \nObservatorio Asesor de la Ley de Ética Pública\n, que funcionaría bajo la órbita de la Cámara de Diputados y tendría entre sus objetivos promover y monitorear el cumplimiento de la normativa.\n\nAdemás, propone crear la \nOficina de Ética Pública\n dentro del Poder Ejecutivo provincial, bajo dependencia del Ministerio de Gobierno y Trabajo.\n\nEste organismo sería la autoridad de aplicación para funcionarios y empleados del Poder Ejecutivo, incluyendo organismos centralizados y descentralizados, empresas estatales, órganos autónomos de control y sociedades con participación estatal.\n\nLa discusión entra en una etapa clave\n\nCon el proyecto ya aprobado por Diputados, el debate en el Senado entra ahora en una etapa decisiva: \nlos legisladores deberán definir qué modificaciones quedan finalmente incorporadas y si existe consenso suficiente para emitir un dictamen conjunto\n.\n\nLa próxima reunión de comisión será el nuevo capítulo de una discusión que busca establecer qué controles, declaraciones e impedimentos deberán afrontar quienes ocupen cargos públicos en Entre Ríos.\n\nBCN Noticias\n\nLa información que muchos se olvidan de decir.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "transparencia",
+      "gobierno",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-mes-de-la-adopcion-benitez-destaco-la-importancia-de-escuchar-la-voz-de-las-infancias",
+    "fuente": "TalCual Chajarí",
+    "titulo": "Mes de la Adopción: Benítez destacó la importancia de escuchar la voz de las infancias",
+    "fecha": "2026-09-23",
+    "link": "https://www.talcualchajari.com.ar/226161/mes-de-la-adopcion-benitez-destaco-la-importancia-de-escuchar-la-voz-de-las-infancias/",
+    "texto_original": "El Defensor General destacó el trabajo del RAUER durante el conversatorio “Adopción: entre los deseos adultos y los derechos de los niños, niñas y adolescentes”.\n\nEl conversatorio “Adopción: entre los deseos adultos y los derechos de los niños, niñas y adolescentes” se realizó este martes 22 de septiembre en el Centro Cultural La Hendija de Paraná, organizado por La Hendija Ediciones y el Registro Único de Aspirantes a Guarda con Fines Adoptivos de Entre Ríos (RUAER). Durante el encuentro, el defensor general de la Provincia, Maximiliano Benítez, remarcó: “Sigue habiendo una visión adultocéntrica. Por eso con estas actividades en el Mes de la Adopción buscamos que se pueda escuchar la voz del niño y no únicamente la voz de los adultos”.\n\n“La adopción es un instrumento por el cual podemos darle una familia a los niños que lo requieren. Cuando comenzamos con el Registro de Adoptantes en Entre Ríos, nunca pensé que iba a tener el éxito que ha tenido: el resultado superó largamente lo que uno esperaba, con cerca de 800 niños en adopción”, reflexionó Benítez. Y agregó que esto se debe, fundamentalmente, al trabajo de profesionales comprometidos con su tarea.\n\nPor otro lado, mencionó que a través de los años “ha sido una constante que el deseo de las personas que quieren adoptar va a contramano de las características de los chicos en declaración de adoptabilidad”, en referencia a que la disponibilidad es para adoptar niños y niñas en edad de la primera infancia y sin problemáticas de salud, mientras que la mayoría de quienes esperan una familia tienen más de 6 años y muchos presentan alguna discapacidad o necesitan tratamientos de salud, o bien integran un grupo de hermanos.\n\nEn otro orden, destacó los cambios legislativos y la jurisprudencia que posibilitaron dejar de lado el sistema de las entregas directas que regía anteriormente y su reemplazo por los Registros de Adoptantes, que garantizan un tratamiento igualitario de las personas interesadas en adoptar. De todos modos, advirtió que existen proyectos de ley que proponen un retroceso.\n\nAdemás de Benítez, participaron María Spais, secretaria del Registro de Adoptantes; Natividad Martínez Laca, hija adoptiva, y Laura Martincich, directora de La Hendija Ediciones y mamá por adopción.\n\nLa actividad se enmarcó en el Mes de la Adopción en Entre Ríos, declarado por la Ley 11.005, la cual establece que durante septiembre se debe difundir y sensibilizar sobre la realidad de este instituto y, fundamentalmente, promover el derecho de las infancias y adolescencias a vivir en familia.\n\nEl conversatorio fue abierto a la comunidad y también se pudo participar de modo virtual.\n\nhttps://www.youtube.com/watch?v=PAAX2k6g2W8",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-el-stj-rechazo-la-impugnacion-extraordinaria-y-confirmo-la-sentencia-para-juan-ruiz-orrico-por-homicidio-culposo",
+    "fuente": "TalCual Chajarí",
+    "titulo": "El STJ rechazó la impugnación extraordinaria y confirmó la sentencia para Juan Ruiz Orrico por “homicidio culposo”",
+    "fecha": "2026-09-23",
+    "link": "https://www.talcualchajari.com.ar/226156/el-stj-rechazo-la-impugnacion-extraordinaria-y-confirmo-la-sentencia-para-juan-ruiz-orrico-por-homicidio-culposo/",
+    "texto_original": "La Sala lo Penal del Superior Tribunal de Justicia, integrada por los vocales, Miguel Ángel Giorgio, Daniel Carubia y la vocal Claudia Mizawak rechazó la impugnación extraordinaria presentada por los defensores de Juan Enrique Ruiz Orrico contra la sentencia Nº 146 de la Sala II de la Cámara de Casación Penal, dictada el 3 de julio de 2026.\n\nLa resolución fue adoptada, en el marco del expediente “Ruiz Orrico, Juan Enrique s/ Homicidio culposo agravado s/ Impugnación extraordinaria”, Expte. Nº 5.912.\n\nLuego de realizada la audiencia que se desarrolló hoy en Paraná, y que contó con la participación de los integrantes de la Sala los representantes de la defensa, los querellantes particulares y el Ministerio Público Fiscal, el Tribunal pasó a deliberar y posteriormente comunicó a las partes la decisión adoptada.\n\nEn ese marco, resolvió rechazar la impugnación extraordinaria presentada por los defensores de Ruiz Orrico contra la sentencia N.º 146 de la Sala II de la Cámara de Casación Penal y, en consecuencia, confirmar dicho pronunciamiento.\n\nTambién dispuso imponer las costas de la impugnación extraordinaria a la parte recurrente vencida y regular los honorarios profesionales de los representantes de la querella particular en 50 juristas, equivalentes a $4.736.624 según el valor de la unidad arancelaria vigente.\n\nFinalmente, el Tribunal tuvo presente la reserva del caso federal formulada.\n\nLa lectura íntegra de la sentencia y sus fundamentos se realizará dentro del término de ley.\n\n \n\nAntecedente\n\nFinalizado el juicio oral y público realizado en los tribunales de Concepción del Uruguay, el 9 de marzo de 2025, el vocal del Tribunal de Juicio y Apelaciones de Gualeguay, Darío Crespo, aplicó a Juan Ruiz Orrico la pena de 5 años y 8 meses de cárcel de cumplimiento efectivo, por considerarlo autor material y responsable del delito de homicidio culposo por la muerte de cuatro trabajadores en un siniestro vial ocurrido el 20 de junio de 2024 en la ruta 39, en el departamento Uruguay.\n\nEl 27 de julio de este año la Cámara de Casación con asiento en Concordia concedió la impugnación extraordinaria ante la Sala Penal del STJ .",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "paraná",
+      "concordia",
+      "concepción del uruguay",
+      "gualeguay",
+      "crespo",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-rige-la-ley-de-consorcios-camineros-en-entre-rios-como-funcionan",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Rige la ley de Consorcios Camineros en Entre Ríos: cómo funcionan",
+    "fecha": "2026-09-23",
+    "link": "https://eldiadegualeguay.com/rige-la-ley-de-consorcios-camineros-en-entre-rios-como-funcionan/",
+    "texto_original": "El gobierno entrerriano publicó la ley en el Boletín Oficial. La DPV pondrá financiamiento y maquinaria y los controlará. Se definió quiénes podrán integrarlos.\n\nEl Gobierno de Entre Ríos promulgó la ley que crea el Régimen de Consorcios Camineros, un nuevo esquema mediante el cual vecinos, productores y gobiernos locales podrán organizarse para participar del mantenimiento, reparación y mejora de caminos rurales de la provincia.\n\nLa norma fue sancionada por la Legislatura el 1° de septiembre, promulgada por el Ejecutivo el 16 de septiembre y publicada en el Boletín Oficial este miércoles.\n\nLos consorcios serán entidades de bien público y sin fines de lucro, constituidas como asociaciones civiles. Su principal objetivo será realizar trabajos de conservación, mantenimiento, reparación y mejora de la red vial terciaria, comunal o vecinal. También podrán intervenir, con acuerdo de la Dirección Provincial de Vialidad (DPV), en determinados tramos de la red secundaria y ejecutar alcantarillas, puentes y otras obras viales menores.\n\nCómo funcionarán\n\nLa Dirección Provincial de Vialidad tendrá un papel central: será la encargada de promover la formación de los consorcios, asignarles caminos, celebrar convenios con ellos y controlar los trabajos.\n\nLa ley habilita a Vialidad a contratar directamente a los consorcios para mantener los caminos. Por esas tareas, cada entidad recibirá un importe relacionado con la cantidad de kilómetros que tenga asignados.\n\nEl mantenimiento será continuo durante la vigencia de cada convenio y los pagos estarán vinculados a las inspecciones y certificaciones realizadas por Vialidad. Además, la DPV podrá facilitar maquinaria, materiales y transporte, aunque los consorcios deberán hacerse cargo del mantenimiento y reparación de los equipos que reciban en préstamo o alquiler.\n\nLos municipios, comunas y juntas de Gobierno también podrán contratar directamente a estos consorcios para realizar trabajos similares, siempre que la normativa lo permita y que esas tareas no interfieran con su función principal.\n\nQuiénes podrán formar un consorcio\n\nPara poner en marcha uno de estos organismos deberá conformarse inicialmente una comisión promotora integrada por al menos siete personas mayores de 18 años, con domicilio en la zona de influencia.\n\nEl grupo deberá presentar ante Vialidad una solicitud acompañada por una nómina de al menos 20 futuros socios activos y un croquis que determine cuáles son los caminos que pretende atender. Vialidad tendrá hasta 60 días corridos para resolver si autoriza avanzar con la constitución.\n\nUna vez obtenida esa autorización, deberá tramitarse la personería jurídica correspondiente. Cada consorcio tendrá como mínimo una Asamblea General, una Comisión Directiva y una Comisión Revisora de Cuentas.\n\nEntre los socios activos podrán participar propietarios, arrendatarios e inquilinos de inmuebles rurales de la jurisdicción. También habrá representantes de municipios, comunas o juntas de Gobierno y una categoría de socios adherentes.\n\nDe dónde saldrá el dinero\n\nUno de los puntos centrales de la ley es el financiamiento. Los consorcios podrán recibir recursos del Fondo de Desarrollo y Conservación Vial, aportes adicionales de Vialidad, contribuciones de sus socios, pagos por determinados trabajos y fondos provenientes de otros organismos públicos.\n\nEl Fondo de Desarrollo y Conservación Vial se distribuirá anualmente entre los consorcios reconocidos y las zonales de Vialidad en proporción a los kilómetros de caminos secundarios y terciarios que tengan a su cargo. La reglamentación deberá establecer una fórmula que, además de la cantidad de kilómetros, contemple las condiciones climáticas de cada región y el tipo de suelo.\n\nPara los convenios destinados al mantenimiento o conservación periódica o permanente de caminos de tierra, ripio, broza u otro tipo de mejorado, Vialidad podrá financiar hasta el 80%. El 20% restante deberá completarse con otras fuentes previstas por la norma. En otras obras viales, el aporte de la DPV podrá alcanzar hasta el 85% del costo.\n\nLos consorcios también podrán trabajar sobre caminos o accesos de propiedad privada ubicados dentro de su zona de influencia, pero deberán hacerlo mediante un contrato con el propietario y esos trabajos no podrán realizarse gratuitamente.\n\nTambién podrán intervenir sobre canales y desagües\n\nLa nueva legislación no limita la actividad exclusivamente a los caminos. Los consorcios podrán realizar mantenimiento y rehabilitación de canales y sistemas naturales de escurrimiento de agua en áreas rurales, además de señalización, forestación y otras mejoras.\n\nCuando se trate de canales y desagües, deberá intervenir la Dirección Provincial de Hidráulica para realizar el control y la aprobación técnica de las obras, mientras Vialidad coordinará la relación con el consorcio.\n\nQuién los controlará\n\nLa Dirección Provincial de Vialidad será autoridad de aplicación y tendrá a su cargo el control técnico, contable y administrativo de los consorcios y de las obras que realicen. La Dirección de Inspección de Personas Jurídicas controlará, por su parte, los requisitos relacionados con la personería jurídica y el funcionamiento institucional.\n\nAdemás, cuando administren dinero o bienes públicos, los consorcios estarán sometidos al control externo del Tribunal de Cuentas de Entre Ríos.\n\nVialidad incluso podrá intervenir transitoriamente un consorcio si detecta violaciones a la ley o su reglamentación, falta de autoridades o incumplimientos de las obligaciones asumidas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "organos_control",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-cora-masip-profesora-del-club-neptunia-integra-la-seleccion-argentina-en-los-juegos-suramericanos-santa-fe-2026",
+    "fuente": "El Día Online",
+    "titulo": "Cora Masip, profesora del club Neptunia, integra la Selección Argentina en los Juegos Suramericanos",
+    "fecha": "2026-09-23",
+    "link": "https://www.eldiaonline.com/cora-masip-profesora-del-club-neptunia-integra-la-seleccion-argentina-en-los-juegos-suramericanos-santa-fe-2026",
+    "texto_original": "Los Juegos Suramericanos Santa Fe 2026, que reúnen a 40 deportes y cerca de 60 disciplinas, pusieron en marcha en su segunda semana de competencia el waterpolo, que se disputa en el Invencible Centro Acuático Provincial de Rosario.\n\nAllí, la Selección Argentina femenina “Las Tiburonas” comenzó con buen pie el torneo y este miércoles venció a Uruguay por un contundente 32 a 2. Previamente, había superado a Chile 27-7, a Colombia 17-11 y a Perú 24-5. Este jueves, al mediodía, cerrará la fase clasificatoria frente a Brasil, la principal potencia de la región y candidata a la medalla de oro.\n        Ver esta publicación en Instagram            \nUna publicación compartida por C.A.D.D.A. (@cadda1969)\n\nEntre las integrantes del equipo argentino se destaca una profesora del club Neptunia y referente histórica de este deporte en el país. La referencia es para Cora Masip, quien se había retirado de la Selección Argentina en 2014, luego formó su familia y se radicó en Gualeguaychú. Este año volvió al seleccionado nacional y compite en los Juegos Suramericanos.\n\nApodada la “Messi del waterpolo”, Masip fue durante muchos años la capitana de la Selección, además de ser la primera waterpolista argentina en jugar en Europa, primero en España y posteriormente en Italia.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-23T23:23:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Deportes, fuera de alcance tematico del medio. (automático)",
+    "topicos_matcheados": [
+      "impuestos",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-carolina-kopelioff-y-lorena-vega-contaron-como-fue-filmar-cautiva-la-serie-sobre-los-abusos-en-el-convento-de-nogoya",
+    "fuente": "El Día Online",
+    "titulo": "Carolina Kopelioff y Lorena Vega contaron cómo fue filmar “Cautiva”, la serie sobre los abusos en el convento de Nogoyá",
+    "fecha": "2026-09-23",
+    "link": "https://www.eldiaonline.com/carolina-kopelioff-y-lorena-vega-contaron-como-fue-filmar-cautiva-la-serie-sobre-los-abusos-en-el-convento-de-nogoya",
+    "texto_original": "Cautiva, la nueva miniserie dramática de Flow, lleva a la pantalla una historia atravesada por el encierro, el abuso de poder y la búsqueda de libertad. La ficción sigue a Clara, una joven religiosa que ingresa a un convento de clausura y, después de 15 años, consigue escapar del lugar donde sufrió violencia psicológica y fue retenida contra su voluntad.\n\nLa protagonista es interpretada por Carolina Kopelioff, mientras que Lorena Vega se pone en la piel de la madre superiora. En diálogo con TN Show, las actrices contaron cómo fue acercarse a una historia que, aunque toma elementos de la ficción, está inspirada en un caso real ocurrido en la Argentina.Para Kopelioff, la posibilidad de interpretar a una mujer que atraviesa 14 años de su vida en un contexto de encierro fue uno de los principales motivos para aceptar el proyecto.\n\n“Contar 14 años de una persona, en este contexto de encierro, de claustro, mostrar un mundo muy poco visto, todo me parecía espectacular. Cómo decir que no. A mí me transformó mucho”, contó la actriz.\n\nSu personaje, Clara, ingresa al convento en busca de refugio, pero termina enfrentándose a algo inesperado. “Ella entra a este convento para buscar refugio, porque sufre un abuso intrafamiliar, entonces va a este lugar no solo por la fe, pero es un poco lo de menos. Y se termina encontrando con esta fe extrema que ella se mete en su cabeza, en su cuerpo y en una madre superiora muy dura”, explicó Kopelioff.\nCarolina Kopelioff interpreta a Clara en “Cautiva”, la joven religiosa que logra escapar de un convento después de 15 años de encierro (Foto: Flow)Lorena Vega y un personaje atravesado por el poder\nEn la serie, Vega interpreta a Cecilia, la madre superiora del convento. Su personaje tiene una historia marcada por el abandono: fue dejada allí cuando era pequeña y llegó al convento a los cuatro años. Con el tiempo, desarrolló un fuerte vínculo con ese espacio, al que considera el lugar que le salvó la vida.\n\nPara la actriz, esa historia permite entender cómo su personaje construyó su relación con el poder y por qué está dispuesta a llevar determinadas situaciones hasta las últimas consecuencias.\n\n“El tema de ejercer poder, de los supuestos beneficios de estar en un lugar de poder, debe ser una complicación mucho más grande de lo que una cree”, reflexionó Vega.\n\nY agregó: “Sabemos que mi personaje fue abandonada de pequeña, que entró ahí a los 4 años, siente que eso le salvó la vida. Lo da todo por ese espacio. Esa sería una manera de entender que vaya hasta las últimas consecuencias”.La historia real detrás de “Cautiva”\n\nLa serie está inspirada en el caso de Silvia Albarenque, una exmonja que en 2016 hizo pública, junto a otra compañera, su historia de fuga de un convento de clausura en Nogoyá, Entre Ríos.\n\nSegún el relato que dio origen al caso judicial, ambas mujeres habían sido privadas de su libertad y sometidas a distintos tipos de maltrato por parte de la madre superiora. La causa terminó con una condena a prisión para la religiosa responsable.\n\nAunque Cautiva toma ese caso como punto de partida, la ficción construye su propia historia y sus personajes.\n\nVega contó que durante el rodaje tuvieron la posibilidad de conocer a la mujer que inspiró parte del relato: “Es una persona a la que pudimos conocer y fue un momento de mucha emoción conocerla. Nos acompañó en gran parte del rodaje”.\nSilvia Albarenque en 2021, cuatro años y medio después de haber denunciado aquel horror. (Foto: TN.com.ar)\nLa actriz destacó además la importancia de que aquella historia pudiera llegar a más personas a través de la ficción: “Creo que ella sabe lo importante que es, mucho más allá de ella, que se pueda conocer una historia que pasó en nuestro país”.\n\nAl mismo tiempo, aclaró que la serie toma elementos del caso real pero luego desarrolla un camino propio. “Por supuesto que se inspira en su caso y después hace su camino ficcional, muchas cosas que están en el relato no son parte de la realidad, pero nos dio ese puntapié”, explicó.\n\nPara Vega, la decisión de aquella mujer de contar lo que había vivido también tiene un valor que trasciende la serie: “Me emociona mucho que ella se haya animado a hacer todas esas peripecias que hizo. Eso es un lindo legado”.\nEl convento Carmelitas Descalzas de Nogoyá, donde la madre superiora torturaba a las monjas. (Foto: TN.com.ar)Dónde se puede ver “Cautiva”\nCautiva se estrenó el 18 de septiembre de 2026 por TNT. La temporada completa está disponible en Flow, mientras que HBO Max estrena los episodios de manera semanal.\n\nAdemás de Carolina Kopelioff y Lorena Vega, el elenco está integrado por Valeria Lois, Tomás Wicz, Lautaro Bettoni, Rocío Hernández, Mariano Saborido y Evitta Luna, con participaciones especiales de Luis Ziembrowski, Justina Bustos, Julieta Zylberberg y Rita Cortese.\n\nFuente: TN",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-23T23:23:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "nogoyá"
+    ]
   }
 ]
