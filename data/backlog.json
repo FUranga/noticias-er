@@ -85277,5 +85277,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-se-realizo-una-jornada-de-capacitacion-para-personal-de-mesa-de-entrada",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Se realizó una jornada de capacitación para personal de mesa de entrada",
+    "fecha": "2026-09-24",
+    "link": "https://www.dpver.gov.ar/2026/09/24/se-realizo-una-jornada-de-capacitacion-para-personal-de-mesa-de-entrada/",
+    "texto_original": "Organizado por el Departamento de Recursos Humanos de la Dirección Provincial de Vialidad (DPV).se llevó adelante ayer una capacitación para trabajadores de mesa de entrada. El lugar de encuentro fue la Facultad de Trabajo Social (UNER) y serán tres jornadas destinadas a personal de Paraná y las zonales. Estuvo a cargo de la disertación la Dirección de Asuntos Jurídicos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T17:09:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
