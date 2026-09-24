@@ -88178,5 +88178,778 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "medios-google-news-entre-rios-df9f1e1c4993",
+    "fuente": "Poder Judicial de Entre Ríos",
+    "titulo": "El STJ precisó que el Estado debe garantizar la alimentación saludable en comedores escolares",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnRkVktTS2RlTk5YSGdWa3MwLXpRbEg0UnR4WVMySHRHNzVaS05lQnhIMERFa2hmcExNRDdzTWhBTlBPcWRkb0xKY2ItWUtCck1uRmVEUVNBX3lYRzVyTS1oNkNpTjREbm5RMm0xTG1lZFhVQ0FGZEFTckUzNmtfSXllX040TVlrU1NQak9yX3EzX0FQdVJuMXBiVl9McmNKb0lzVUNHWnZEbnd6YVJjVW1RUDB1M3U0NGRlUTNPMkdIQ2hJV3VEaGo2N3ktRlk?oc=5",
+    "texto_original": "El STJ precisó que el Estado debe garantizar la alimentación saludable en comedores escolares\n  \nPoder Judicial de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ea991381e54d",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Comenzaron los trabajos de mejora en el acceso a Puerto Yeruá",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hWEhPU3dIcndjdWxoVG9NV3VBU3c2ZWszdWxwMTlkaExsNmt4Q1QzeW1ramcxSGRWcmJrYWFGWnVFQmF5RUYxUzRfN1AzUmt1TFlhZXlDSHotdw?oc=5",
+    "texto_original": "Comenzaron los trabajos de mejora en el acceso a Puerto Yeruá\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8fb613cd38dc",
+    "fuente": "La Política Ambiental",
+    "titulo": "Entre Ríos estrenó un nuevo régimen ambiental para las actividades productivas",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWTBKYlljYjVMeG02cmhxUkRKM0JGeF9MdDM3dzNWaDcwNlc3MUdtMDVyQzZzWFdoT1FVNTd5dGttUnRvQzQ2aDJZSTFpYkdpQm5xa1JmWEhxdVBKNE1OWXVDLTZINUFad2lNZ0QzdGVJYjl2SWtUSC1qMGMtUHZCWU5vLUFRdmdUWllIeGRnUUVCNkJ6YTRkbll5djZYZHpyUENvcmJjR2tYWnl1bGswMzNuT0lncDdpWnBRVjdxNGZoUXZZX3c?oc=5",
+    "texto_original": "Entre Ríos estrenó un nuevo régimen ambiental para las actividades productivas\n  \nLa Política Ambiental",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-30474ab930d4",
+    "fuente": "Informe Digital",
+    "titulo": "Zonas Frías: qué pasa con Entre Ríos y cómo votaron sus senadores",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbF9lX0xVZXY1QzZBRnNNX2hKLVRBRnQ2MXd4NlI4SGRXNnNZWU03MzJPOWpQZDFLNE90RlppRjV5WC05SkxfU1hXWkxzRTdoUGk5SHFZR2JwOWVCbHQ1aWpIRWo3SHE1QW91dGlkQ3pUZFM1M3M3Sk5jblVURHpJUXR0ZEZFT0dIRE1KMWRQYTNlZE54azAzUkc4WjZzOVk?oc=5",
+    "texto_original": "Zonas Frías: qué pasa con Entre Ríos y cómo votaron sus senadores\n  \nInforme Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b424b0167080",
+    "fuente": "7paginas",
+    "titulo": "La Justicia avaló la continuidad del nuevo sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVEyQkQ0TkV6LW11dEQ5Ym9GNXZOM1ZUd3FhTFEydy1KTldTYzFaY3dxcTAwQTQxMWJ3bkhPeUczSVRqaU4ydm1kRUNFVkNTZWhvQ25Qd2tnMy04QlNwWFNJXzhlNWhTOS00ZkN2NnBUUHhNT1kxVmtHSzN4bUdCNUkwNWk3QU9RaFhCU1lIZFdVb3Q0YnNaLS05eUpncHJHenJNUzl1U1RVNlZValRMR0RXNA?oc=5",
+    "texto_original": "La Justicia avaló la continuidad del nuevo sistema de alimentación escolar en Entre Ríos\n  \n7paginas",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-857df2b6a3e3",
+    "fuente": "DIAUNO",
+    "titulo": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVpfbXlxdDVfNHFzWEM1YUNBNWQtZ1FpSmg1ODJSSTdzb2hGX2ZaNnU0VHFpNTk0STM3MGZBcWV0YlFJazNveWlwSGY4WUJmeEtBYXM1U2ozNlRCN0ZVd1V5cXZXNFFtWUdkSmdoNUtzSmxMYXBiSVhja1k3bTlRMXFBd0tOSFFfTmEwVnk5NmNxS3U4NnhXMHl6WlN2UzhiRXhNZ2lZN280d2sxTWJoTDV1R2VQc09ERFBVcA?oc=5",
+    "texto_original": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos\n  \nDIAUNO",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-538bcc563cb9",
+    "fuente": "APFDigital",
+    "titulo": "El gobernador repasó el cronograma de obras viales y productivas financiadas por organismos internacionales en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcjNrUVlOcDIxSW9FYkRiNWZZZVZIWDlPVzhJZ2p5Y3A5RHh1VVAtTWtsd0trTWJTcnVjSFFqZVB6ZFotc294RHBEVDBhRlkxRUt3bmxBaHhfWlRWa2RzU0xPRDduT2tVYm9uV012MWZxa29XdnpQUjQ4OTRtQXhxTm5ZRXFjTXZDNUNleE5RZFBUMDdHX2M4dDhoMjRnM19zNTFVMmFaa0xHaTVnWEtCTnhEZ202Mm1reWg2cm14VnBJN0c1UUlGWkhsODNvNFJVMXVxMjB2N2NXWFNCb3AtcGQ2WDFjSXB6c3ZMZGk5ZGhxc3VISmRLcVR3b2JhN1dORzdqcmFCT01LNTRoVWNZ0gGPAkFVX3lxTE5yM2tRWU5wMjFJb0ViRGI1ZlllVkhYOU9XOElnanljcDlEeHVVUC1Na2x3S2tNYlNydWNIUWplUHpkWi1zb3hEcERUMGFGWTFFS3dubEFoeF9aVFZrZHNTTE9EN25Pa1Vib25XTXYxZnFrb1d2elBSNDg5NG1BeHFObllFcWNNdkM1Q2V4TlFkUFQwN0dfYzh0OGgyNGczX3M1MVUyYVprTEdpNWdYS0JOeERnbTYybWt5aDZybXhWcEk3RzVRSUZaSGw4M280UlUxdXEyMHY3Y1dYU0JvcC1wZDZYMWNJcHpzdkxkaTlkaHFzdUhKZEtxVHdvYmE3V05HN2pyYUJPTUs1NGhVY1k?oc=5",
+    "texto_original": "El gobernador repasó el cronograma de obras viales y productivas financiadas por organismos internacionales en Entre Ríos\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-4925ef2a2935",
+    "fuente": "elentrerios.com",
+    "titulo": "Diputados dio media sanción al proyecto que busca llevar a Entre Ríos hacia un Estado digital, aunque hubo reparos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3JpUlN6Y1dLVWZWb2RWYXlBdXB1ZkxRNGEzVlJoMGY4cFNRMklkaXRodGN3OWxrc0Y5TWI4WThCczRLUlFPcE92cWk5MVhNOHFLbEIyajAxMEN0VzBGLS00Uk9zSjN1eURwcnE4NkpHT204NDFMdTRUdnh6VlNJSmRvNURlOV9tMFp0bV8wU0szRGNUSXI3WTlyMFZpOWphMmE4cVYyN0lFeTg2andiN0FTSE9nLTJwcmtwaktKaGx3WURET0Q5ek5tMDlKVHF2cTViclVHZ1Z5Y0RmNlhDa2pRTzdTaXRKNXfSAeABQVVfeXFMTVFzNy1rX0tvUzJrLTNVWGswS2xWdWtadWJpdzd1enRpcUFxdzJKTlZITkJvTGtPcEkzLXBkVmJ4emVhOXM0SHo2U01MYWRqcFIya2k5ZVFLdnoyUWV1M0pqZUdqX3JSaWVOMVpaNG94S1RMNUY0ZW9kVW5uNW9VMUR6aGUxX3M0SFVYUG9pSnAwS3BoT3VSNkR1UlktTThyOTJUNGdxbFhEY3d4MUdKTzAxRUU2TURVZXNYWkR5SHl2MkdIR1RjNnpxWEROczU2cFFsZ0VRN2g0YlFLNW04Rkw?oc=5",
+    "texto_original": "Diputados dio media sanción al proyecto que busca llevar a Entre Ríos hacia un Estado digital, aunque hubo reparos\n  \nelentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-a2176b0241ba",
+    "fuente": "La voz 90.1",
+    "titulo": "El gobernador repasó el cronograma de obras viales y productivas financiadas por organismos internacionales en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOUpnVEZhY2xRSzVhX3dYcy1la0tldGwxeFRlR2pySG12OUE4UFNkTldNUExGajVGN3lKb1NWWmRiSlB5V0RhTXAtZXZZTTg5SmIzMnMzdTEtQXZIQkdOaXgxX0RCLVIxRVRrb3dFaldxbGR6WWtsdmtwd2c1Rml4U2ZkZ0E4TG9EUHNNbDhMbUZjY09KZl9PaHA2S05ZQ05HRjFlOGFyd3RWOUhPMDcxZ1BsSDVLMVdVWVRhd2xsN1k3SWFwVkFZWFI2TWM1bEpHbzBiLUJFVlVEYXhjb2x6aDFIY2M5OVnSAecBQVVfeXFMTzlKZ1RGYWNsUUs1YV93WHMtZWtLZXRsMXhUZUdqckhtdjlBOFBTZE5XTVBMRmo1Rjd5Sm9TVlpkYkpQeVdEYU1wLWV2WU04OUpiMzJzM3UxLUF2SEJHTml4MV9EQi1SMUVUa293RWpXcWxkellrbHZrcHdnNUZpeFNmZGdBOExvRFBzTWw4TG1GY2NPSmZfT2hwNktOWUNOR0YxZThhcnd0VjlITzA3MWdQbEg1SzFXVVlUYXdsbDdZN0lhcFZBWVhSNk1jNWxKR28wYi1CRVZVRGF4Y29semgxSGNjOTlZ?oc=5",
+    "texto_original": "El gobernador repasó el cronograma de obras viales y productivas financiadas por organismos internacionales en Entre Ríos\n  \nLa voz 90.1",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b756732b9be4",
+    "fuente": "El Día de Gualeguaychú",
+    "titulo": "La Provincia anunció la construcción de un puente sobre el arroyo El Sauce, en el departamento Gualeguaychú",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGhKcjVhMkx1cHlKaDR2LVlHMGQ5aG1IbzFERy1xX041RVZHMzF1TXVhREJDUGliM3RRNVNQN2tyU19NYjVDYUtsOXM3UWM3cHZzdlhWWW5XYVR0YTBYaWhFc1dNRU5qNmRsUWY1NE12akJ1dG9TR1g5Skdnb0FoVUtYZGVPbVB3eFB6Y0tsWDgydDVmUXFCR0czeU1Gb2phNjNzakI3aU5kZ0hZem41UktUQWFLU2dSb3Nwa1ltYllseS1ROF9WdTRhbmpMalk?oc=5",
+    "texto_original": "La Provincia anunció la construcción de un puente sobre el arroyo El Sauce, en el departamento Gualeguaychú\n  \nEl Día de Gualeguaychú",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-b140390b5514",
+    "fuente": "Elonce.com",
+    "titulo": "Finalizaron obra integral en calle Gobernador Manuel Crespo: Romero destacó que \"mejoró la calidad de vida\"",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDRMMWo1T0NPckJMZnU4ZzBXQXlYcElDT0FtWldOdlFSand5M1NQa245a3BJWm95RXUtYUJ0MEw3X0JiUUxXQ0d4MlFLTmZKYkNaYW92bkk5ZjZ3U2daUXZhb05EeU82Wi13MFFoMnNHeng3LWxmTUtsZ1JIMVdYZnNIdzFCellTeGZ3VXA0eExFOGcwMzZ1WTAzQ1Z4SmFoM0ZfNEdsaVZRblFOenZucWRCRU05VlJHcm9PWWg5NFl5Yzlz0gHAAUFVX3lxTE1KbTBzcVRaMlZxbTJIUjVUdElXNDN2UDR4cFVUR25FRWxzQmRoeXVlczgtWkZaNDFfNGxrTDBCaDhnQlUtSHJWcENTZy1aYW05NzdUQlZSN1MydUgwRFRYM1hzUDBiNlNMM0FVRUhjNjM0Z3Y2d2RLZWN1aEpjTGRSVXY4a19HX2hscmNkRlBERExrd1NESldTWG1FdmIwcmdKT01CMXJUTmZhRTRJSmpGdUxlTWlvT2UwMUlna2FHQw?oc=5",
+    "texto_original": "Finalizaron obra integral en calle Gobernador Manuel Crespo: Romero destacó que \"mejoró la calidad de vida\"\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:06Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-analisis-digital-gn-44b3cf8deeea",
+    "fuente": "Análisis Digital",
+    "titulo": "En campaña, Tennen evaluó la infraestructura vial de Paraná junto al sector del transporte",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ25YNHhXWlRYVUxwSEJ2X1JZeldWUlNVbFJ5dzdaeVVHQ21uV0F6OUNPaVNmMjRxNmltNFctUlZiZWhZamVWQjgzVHZUWEtSUnh4T3hSSjZSSGJnUFJUNGJRQ25sQmJVaV9YTF9QN2JQdFNFZ052VFRMMUtVWXk0ZXlYVGxUN2Y2ZklWeWZNcnllVDdNdHN2UnYyaGZWRmNtaHJ0YXBoTk9nSk15UkF6WlNRbFlWWUlEd3NHT0g1Q3djak5HVHZsMUJZdEVsVGxRVTU0NHoyUjJ6WUk?oc=5",
+    "texto_original": "En campaña, Tennen evaluó la infraestructura vial de Paraná junto al sector del transporte\n  \nAnálisis Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-3de783342ca1",
+    "fuente": "APFDigital",
+    "titulo": "La Mesa de Infraestructura avanza en la planificación de obras para escuelas entrerrianas",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkVpTjBsakxOMTZCRkE0empqeDVUZHJ3MzJmSjBrakR1OUY3RmRWVVlpS0RwRkVCX2J3TWJPRVMzek0wUFJmREZ3aGZkOFZrendVa1ZwTzNOdGE1R1Exd284dlFWTktvRzFYcXk0dDFNT1VfY29uWnUyTGhiejU5WHRQOUQ3SjBpUUluaTNtSjhaNXVscFpsaXAtM0I5S2owbFgxM0VBYU4tX1ZLOG5BYXg5ZUptVjNMNGxES2NSLTFYVkQyNUhyMk9iRXpORUUzMjNBd2N2UUJ1b1otV1Bn0gHkAUFVX3lxTE11UmZEb3J4b3J3elUzUzNNdmtBWjV5WnhGbTJ3R2pZbDJBcnR5bl9GVndCQUJ5c1BycDhmelJRV0hNRnloMGFvdmRRNXppeUFzd0x6V3VRZkFMd1dfUFI3N2JpX1QxRXRKdU45b0FfVjI4RmVwcGt6MnJ6TndvSkVUdlI2UVhzLWZxaUxxWV9KekdpMWd4clRUWlVRTmgtRHVBandncUNSS3pkLUN2V180UTBvZHlpcWdFUGxXRDJnOXdHVS13b3l1aHE3a08tR2hzLWdiQ2lfZUVVYVA3Q0pDTEY4eg?oc=5",
+    "texto_original": "La Mesa de Infraestructura avanza en la planificación de obras para escuelas entrerrianas\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-31cfcc245912",
+    "fuente": "APFDigital",
+    "titulo": "Paraná: La Municipalidad ejecuta obras de drenaje para mitigar las consecuencias de El Niño",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUi13Z1NvTWp3SEt4eGw2aGZTNUxqR2tHVENsaU8yaVcxMVNOSDBCRGx2ZkVYbG9wU3NZNWV6WG40R2RWNEdsM2FsRFBmSXVBV0lOZ3FOcFFUOWJCdmJaSE81VUFVVkM4Z2JwM2psRGxhOVlHcFdMcURsRnJuNWtpdm9iaVROZU5hODlBWkhIc2swNjFrZEZDX09oODlvbjBRMkZFU2ZOVUVyN2N0LW5CZkZubWVzVk5tTHBnUVo4M0dJV2ZOVXd0Z19KNE8ySHl4eElBdmtKZ2lJLVdJU2lZdjVHMkpTQdIB5gFBVV95cUxPUi13Z1NvTWp3SEt4eGw2aGZTNUxqR2tHVENsaU8yaVcxMVNOSDBCRGx2ZkVYbG9wU3NZNWV6WG40R2RWNEdsM2FsRFBmSXVBV0lOZ3FOcFFUOWJCdmJaSE81VUFVVkM4Z2JwM2psRGxhOVlHcFdMcURsRnJuNWtpdm9iaVROZU5hODlBWkhIc2swNjFrZEZDX09oODlvbjBRMkZFU2ZOVUVyN2N0LW5CZkZubWVzVk5tTHBnUVo4M0dJV2ZOVXd0Z19KNE8ySHl4eElBdmtKZ2lJLVdJU2lZdjVHMkpTQQ?oc=5",
+    "texto_original": "Paraná: La Municipalidad ejecuta obras de drenaje para mitigar las consecuencias de El Niño\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-8a5a798d5aa5",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El gobierno asegura que el fallo del STJ le permitirá \"continuar con la transformación del sistema de alimentación escolar\"",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ2pCZ0tPTmx0VHpaX1hiYXB4V1BJeDU4UzMtSEZrdVFJNnlobkFEWmpMcllVVHBKTzlwTW5oeFk0UkZiemkyRl9rTHBJTXFZVWRYbDd5bzQ5R3lWcFJUcHVXcGdnVk1waTE4aThnOHZRM004SHpuOEx6ckg3RmRpRkptalJaQ2w4c3BwUWlNUWE1a2RpdEI0dncyV3pBUkhGYnFhdEUtUW1rcVFCNDN6dElwclREWndOZFktM29Sb0dMbnBlNFZDT2tRM2twa2RRajBaQ0pzNGctN0hpeVRIUlo4a2p0Zw?oc=5",
+    "texto_original": "El gobierno asegura que el fallo del STJ le permitirá \"continuar con la transformación del sistema de alimentación escolar\"\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:09Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-160206_cafesg-abrio-las-ofertas-para-la-puesta-en-valor-de-la-historica-escuela-normal-de-concordia",
+    "fuente": "Diario Junio",
+    "titulo": "CAFESG abrió las ofertas para la puesta en valor de la histórica Escuela Normal de Concordia",
+    "fecha": "2026-09-24",
+    "link": "https://www.diariojunio.com.ar/160206_cafesg-abrio-las-ofertas-para-la-puesta-en-valor-de-la-historica-escuela-normal-de-concordia/",
+    "texto_original": "La obra tiene un presupuesto oficial de $1.498,8 millones y en esta segunda convocatoria se presentaron ocho empresas. La primera licitación había sido desestimada porque ninguna de las ofertas cumplía en su totalidad con los requisitos de los pliegos y las especificaciones técnicas. También se abrió la licitación para remodelar y terminar la Escuela N° 54 de San José.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-d85f465093ed",
+    "fuente": "elentrerios.com",
+    "titulo": "ATER detectó más de 1 millón de metros cuadrados en construcciones no declaradas en San José y Gualeguaychú",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHJOVFRBU29JYXBublF0ZjcyanA0YnlMQ3FHV0IzZzdCamF5cXBDbFptUW12XzhpQ01WZmlVeGZ1VnFhTjUtdUtFdGhOWWE5cEVxdnVTT2VKRGNCUWpYU0UxS3ZlMzhWZWdVV01fQ2M4Qk5ZQWl1WHFwd0lpSlRZNW1JOFZJVVotZW4wY2lfYXFaWElKV3psR3B1YWdDaThLdEkyRW4zSi1SU0VLeFBZLXhia05DR1hjX3Q1YlEwUXhjekpVMjd1enQ0RVZoUHA1a1JteU05TENFNV9DR3fSAdQBQVVfeXFMTjQ4ZTVXYkFydExvUU9sbWp5c3BwY2QzUktvSDVrSmNOSld3eW1Ca0w3ZTJOUzFBTmdhajJyeEFPX1UxNENkRlhUTXdYU3g1UjU3M01xZ1NUTGwyc3BoN1g2ckI2R0hISmhsazJQX2tMZ3ppQ2VNT1dtcVRTbzFVYzc4a1VGTzgzZGdFQ0ZIYU14cW1HbTRWWXY0TXNCdjFPQWhEdV9NWUxqeVdfbTE5d2Z4U0Z1MFlzT0Z0Qm1HUVNrWDl5TmQ3ODBMcjhCZmgwX1dmMS0?oc=5",
+    "texto_original": "ATER detectó más de 1 millón de metros cuadrados en construcciones no declaradas en San José y Gualeguaychú\n  \nelentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-35d2969710c1",
+    "fuente": "elentrerios.com",
+    "titulo": "En pleno 1815, Artigas impulsó una escuela en Entre Ríos: el lugar que vuelve a revelar una parte de su legado",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmZOdWlQSTk3UFU1Z2lvTW8xREZvdDdsdWhHaEpJYlNOT2tDeC1OdjZieHhacDFyTXVYRVNMTDJHWXVOY3hHMjQ0WTlrYVByWEZWZEVYcWtRY3ZrazVnV29nd0Q5eTR4eVl2NEVmMnc0am1uSGJsdlIyamJRd29MVEFiSXIyckdkV0NxeFRMVXV0SF8tMHBTXzluOE5vZkFHUE9fcHJmWmIxbzExamZ4d0xmdjMyd3paX0FWeWNKTzlaUTh3VF93Y2N0eTJReUwxcVdwMHIzRERuRzZhUlZIajkwb9IB2gFBVV95cUxPMkMyaTRINmljNUpOZG9WaEVLeTBCLW5zNWVnRHZIanF1YUhnclpFN1A3Zmstc1FVSEY1RVMzUW5oTWQ1WjVqZWJQSk56ZUpWZHE1eXVwRVBSdlVVTUMzLWl3SS1tMkhnMU1FYV9naGJTQVBZeG1oV1pkUkY5cFNNdEpveV9FQU1GYUl5SlRsclF0UEtNemI4a1FGcngtY1ZtclBUYXZKNzE3MmpZSDdpYjVoZ3R4RG1yQ2FxNDVJVnJQZnJyT0J1T1RsNjl0OEVSYS1JdWNuN29xZw?oc=5",
+    "texto_original": "En pleno 1815, Artigas impulsó una escuela en Entre Ríos: el lugar que vuelve a revelar una parte de su legado\n  \nelentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-5e0578eb1172",
+    "fuente": "elentrerios.com",
+    "titulo": "CAFESG abrió los sobres de licitación para obras en escuelas de Concordia y San José",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdjZBNU9aaDdsM21qcVJGQmpRdlhlRkFvWEpVUWtweEZadXQtMUxub0tHV1Y5ZjRmVWlXZVNmYUFxaGVEeXFyQ3l0OGYwbHNON09fRmJfRVdmT3BwNEREdml0U0xlN3oxMnloQi0wdmJTZFVUVnNJSWZsX3NDQlB5MVNqeGVOWC1fMW1uOHlPUVJMZ3lQSWxuNi11SF9iN2tyZE9lRFd4Z1lkenY4UkE3WWtad1Q0OWNKbFcxaE50ZFo4QdIBuAFBVV95cUxNTU1QQzVxUy1SaW9Ya2FZWDZnMEM5M1JzQW5oRjkzU2JXeGxKR2szWVA3eVd4X1NMQ0hzcS1CcmFtYlI4RXFQcFlod3ppVHNzdFkta29CdER4bDBaVTh0OVZKVXpacVRDUFJBbUsyMmlSazAyZV9aNGRXNkl4QTg5bHdHQVl4NWtDR1drV1NvampBRnpLdm8xRm52T01OalFodWwyUG9FcU1NM0ppQ0dUZVhSU29YLU9F?oc=5",
+    "texto_original": "CAFESG abrió los sobres de licitación para obras en escuelas de Concordia y San José\n  \nelentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-27bcd31f5194",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "Avanza la construcción de viviendas destinadas a familias que viven en zonas inundables",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHIyanQxZGRwOEVuRl80b1FiWTRPTXRBNTAwSVhZaVRYd2x1WXJfWVRXbHE3TTkxZjk4bWZEV0M1YVB0dllOYlRPeFZKOW8yUW9XSERVZllfcVZUNzZMZUxYYTJoaklIc0l3c2xrVkJRTE9lN0N4RXNYbWtmbTJCYU91a3k4SkZTMUc2Z25IaEtXWUlTWHFQN19JMlhyT0R3NFgzWVlINGdGVzNHV3F3cUhsOU52ck1TeUJ0ZHRreDBKaGZ3ZmFTdXVLY0RycnVsWmc?oc=5",
+    "texto_original": "Avanza la construcción de viviendas destinadas a familias que viven en zonas inundables\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-02a4ce40ab78",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmMzTW9CWGRlZDU4UWhzS1BZempQbTBoQ0haZ2dhRURLR2Rlb1ZvOGJ1LXVGcjZUaXlRQ1dLRVc5cmFwcmsyRFRhak9GR3NuZkRWUElWNG96N2tfa3ZNdFR4cnN6NkNlekx2M3BSZ2NySGlPWE0wOVdJM1p6RnRfazRXLU9ta2ZhQWZSaXdDcXFFemdBS1NVeDRIckJCNzZETFhkSzA5djA1dnlkSzl2NkpaOFFuTV93RWhWR1p6YUtsV3hBX3pnTXpYY2dOQWxlNHk4YTRQRktyVXlST3p1Q2tCS0g?oc=5",
+    "texto_original": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-el-municipio-espera-antes-de-fin-de-ano.html",
+    "fuente": "Diario Concordia",
+    "titulo": "El Municipio espera antes de fin de año trasladar a 15 familias que hoy viven en zona inundable al barrio Agua Patito",
+    "fecha": "2026-09-24",
+    "link": "https://www.diarioconcordia.com.ar/2026/09/el-municipio-espera-antes-de-fin-de-ano.html",
+    "texto_original": "En el barrio Agua Patito, el Gobierno de Entre Ríos y la Municipalidad, construyen 15 viviendas que serán destinadas a familias que viven en zonas inundables.\"Son casas de muy buena calidad que los vecinos recibirán con todos los servicios\", dijo el intendente Francisco Azcue. Las nuevas viviendas se suman al barrio que comenzó a contruirse en el 2015 durante la última gran inundación, y que",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:25Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-concordia-la-basura-a-vitsa-y-los-microbasurales-que-no-estaban-en-el-pliego",
+    "fuente": "LT15 Concordia",
+    "titulo": "Concordia: la basura a VITSA y los microbasurales que no estaban en el pliego",
+    "fecha": "2026-09-24",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/concordia-la-basura-a-vitsa-y-los-microbasurales-que-no-estaban-en-el-pliego/",
+    "texto_original": "El papel pesa, pero el número también. \nConcordia\n publicó el \nDecreto Nº 854/2026\n que le da la recolección de residuos a \nVITSA Soluciones Ambientales S.A.\n\nLa medida, fechada el \n18 de septiembre\n, formaliza la adjudicación de la \nLicitación Pública Nº 47/2026\n. El servicio queda por cuatro años, con un costo mensual de \n$268 millones\n e impuestos incluidos.\n\nEl monto total para el período contractual queda en \n$12.864 millones\n, con la salvedad de que puede variar según las readecuaciones previstas. En la apertura del \n13 de agosto\n, se presentaron \nseis empresas\n.\n\nEntre las ofertas figuraron seis empresas, con montos que iban de $243 millones a $400.520.000 mensuales. La Comisión Evaluadora declaró inadmisibles a \nAgrotécnica Fueguina\n y \nAVA\n por incumplimientos del pliego.\n\nEl pliego quedó entre \ncifras concretas\n. Ashira ofertó $289.034.000, Santa Elena $267.700.000, Transportes Malvinas $400.520.000, \nVITSA\n $268 millones y AVA $286.720.000 mensuales.\n\nLas propuestas de \nAshira\n, \nSanta Elena\n, \nTransportes Malvinas\n y \nVITSA\n fueron consideradas admisibles. En algunos casos hubo intimaciones para completar documentación, y luego las empresas cumplieron con lo solicitado.\n\nEl decreto incorpora dos informes técnicos del director de Recolección de Residuos, \nJulio C. Martinolli\n, y un pedido de información sobre habitantes de las \nocho zonas\n incluidas. La recomendación a favor de \nVITSA\n se adoptó por mayoría de la Comisión Evaluadora.\n\nAcá aparece el punto caliente: el texto reconoce que la limpieza de \nmicrobasurales\n no estaba expresamente establecida en el pliego, pero el Departamento Ejecutivo la valora como un \nahorro para la comunidad\n. Antes de la apertura, una empresa había consultado si esa tarea incluía solo detección, georreferenciación y reporte, o también recolección y limpieza integral.\n\nLa consulta no recibió una definición específica sobre el \nalcance de esa tarea\n, según consta en la documentación. Después, el decreto de adjudicación incorporó la \nlimpieza de microbasurales\n como un elemento favorable a \nVITSA\n, aunque admite que no estaba expresamente prevista en el pliego.\n\nEl silencio de las \nplanillas\n también genera fricción: el decreto no publica el detalle de puntajes ni el voto de cada integrante. Empresas participantes pidieron acceso a la documentación, y \nASHIRA\n solicitó conocer el dictamen final, las planillas, los informes técnicos, las actas y el voto disidente.\n\nLa basura es un servicio cotidiano, pero la \nlicitación\n dejó un rastro de \npreguntas\n: si un compromiso no estaba en el pliego, ¿cómo se lo convierte en ventaja? La respuesta, al menos en el texto, no aparece completa. ¿Y quién controla que la ventaja no se convierta en letra chica?",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "impuestos",
+      "gobierno",
+      "infraestructura_obra_publica",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "concordia",
+      "santa elena"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-bullrich-se-opuso-al-jury-contra-las-jueces-de-la-ley-penal-juvenil",
+    "fuente": "LT15 Concordia",
+    "titulo": "Bullrich se opuso al jury contra las jueces de la ley penal juvenil",
+    "fecha": "2026-09-24",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/bullrich-se-opuso-al-jury-contra-las-jueces-de-la-ley-penal-juvenil/",
+    "texto_original": "En la sede del \nAutomóvil Club Argentino\n, en la \nCiudad de Buenos Aires\n, la senadora \nPatricia Bullrich\n, jefa del bloque de senadores de La Libertad Avanza, volvió a marcar distancia con el Gobierno nacional por el \njuicio político\n contra las juezas que frenaron la ley penal juvenil.\n\nLa ex ministra de Seguridad se opuso a impulsar \njuicios políticos\n contra las juezas \nMarta Pascual\n y \nLaura De Marinis\n, quienes frenaron la aplicación del nuevo régimen penal juvenil, que bajó la edad de imputabilidad de 16 a 14 años. A su criterio, no corresponde iniciar un \njury\n contra un juez por el contenido de sus sentencias.\n\nSí, en cambio, consideró que puede haber responsabilidad por \ninconductas\n o por la comisión de \ndelitos\n. Bullrich sostuvo que, cuando un juez dicta una \nsentencia cuestionada\n, deben utilizarse las instancias superiores de la Justicia para revertirla.\n\nHizo esas declaraciones durante un \ncongreso anticorrupción\n organizado por la \nFundación Río Paraná\n, que preside \nAlberto Cohen\n. En ese marco, comparó el debate con los pedidos de \njuicio político\n que Cristina Kirchner impulsó contra el fiscal Carlos Stornelli y el juez Claudio Bonadio.\n\nTambién recordó los cuestionamientos contra la \nCorte Suprema\n durante el proceso por la \ncausa Vialidad\n, que terminó con la condena de Cristina Kirchner a \nseis años de prisión\n. Para Bullrich, haber juzgado al poder “cuando todavía estaba en el poder” es algo importante.\n\n“Creo que en los últimos años se ha avanzado mucho, porque la \ncausa Vialidad\n, la \ncausa Cuadernos\n y haber juzgado al poder cuando todavía estaba en el poder es algo importante”, dijo. Agregó que “el \npoder anterior\n se juzgó cuando aún estaba en el poder”.\n\nLuego señaló que “Hoy también este Gobierno tiene \ncausas de corrupción\n que están siendo juzgadas y tiene que atravesarlas y \ndar explicaciones\n por esas causas”. “Esa \nJusticia en tiempo real\n es muy importante”, advirtió.\n\n“Una cosa es alguien que está fuera del \nservicio público\n y otra una persona que tiene poder. Entonces, \nluchar contra el poder\n es fundamental”, remarcó Bullrich. “Y ese es el valor más importante que necesitamos de la \nJusticia\n”, sostuvo.\n\n“Por supuesto, con las \npruebas\n, haciendo las cosas correctamente y no juzgando por un sentido político de pertenencia”, añadió. “Hay que juzgar por los \nhechos concretos\n”, agregó.\n\n“Es importante porque se trata de \ncuidar el dinero de la gente\n. Tiene que haber \nejemplaridad de los jueces\n en su forma de vida, como tiene que haber ejemplaridad de los políticos”, afirmó. “Tenemos herramientas. Si tuviera que decir qué nueva ley podemos tener para combatir la corrupción, tenemos la \nley de ética pública\n y la \nley antimafia\n”, señaló.\n\n“¿Qué más necesitamos? Que ningún juez sea \ncombatido por sus sentencias\n. Me parece que ese es un tema que la política tiene que ordenar”, planteó Bullrich. “Yo estoy totalmente en contra de las dos juezas que pararon el \nrégimen penal juvenil\n. Totalmente en contra”, afirmó sobre Pascual y De Marinis.\n\n“Ahora viene lo que no sé si les va a gustar. \nY no les hago un juicio político\n por eso”, continuó la senadora. “¿Por qué? Porque es su \nsentencia\n. ¿Y qué pasó? La \nCámara\n se lo revocó. Es decir que la \nsegunda instancia\n le revocó la sentencia”, explicó.\n\n“Estamos en contra de que paren una \nley del Congreso\n que hace \n30 años\n que se está discutiendo”, remarcó. “Ahora, ¿vale hacerle un \njuicio político\n por una sentencia? Yo creo que no”, sostuvo Bullrich.\n\n“Hay que esperar, como se esperó en el caso de la \njueza Pascual\n de la \nprovincia de Buenos Aires\n, que vino la Cámara y le dijo: usted no tiene ninguna posibilidad de hacer esto”, agregó.\n\nEl debate vuelve a poner en el centro el \ncontrol político\n y la \nindependencia judicial\n. Bullrich dejó claro que está en contra de que se pare la \nley penal juvenil\n, pero no avala un \njury\n por una sentencia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "legislatura",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-hay-que-creer-ciegamente-en-uno-la-app-entrerriana-para-modernizar-granjas",
+    "fuente": "LT15 Concordia",
+    "titulo": "“Hay que creer ciegamente en uno”: la app entrerriana para modernizar granjas",
+    "fecha": "2026-09-24",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/hay-que-creer-ciegamente-en-uno-la-app-entrerriana-para-modernizar-granjas/",
+    "texto_original": "El dato fuerte no está en el nombre, sino en la idea. \nGregorio Santolaya\n convirtió un proyecto académico en \nGranja Control\n, una app pensada para \ndigitalizar información\n y mejorar la producción avícola.\n\nEn un sector donde todavía pesan los cuadernos, las planillas sueltas y la memoria de cada trabajador, \nempezar por lo digital\n no es un capricho: es una forma de ordenar el día a día. \nLa producción avícola\n necesita precisión, y la precisión se apoya en datos.\n\nEl propio \nSantolaya\n lo resume con una frase que suena a manual de emprendedor: \n“Hay que creer ciegamente en uno”\n. No es una promesa de éxito rápido; es una advertencia para vos si arrancás con una idea y sentís que el mundo te pide resultados de golpe.\n\nY ahí entra el otro verso, más terrenal: \n“Primero hay que empezar y después hay que mejorar”\n. Esa secuencia parece obvia, pero en la práctica muchas herramientas mueren antes de nacer porque se buscan perfectas desde el primer día. \nGranja Control\n aparece como una apuesta a ese ciclo: arrancar, medir, corregir.\n\n¿Y por qué importa que un \njoven entrerriano\n esté detrás de una herramienta para granjas? Porque la innovación no siempre llega de un laboratorio lejano: a veces nace en una aula, en una necesidad concreta, en las ganas de resolver un problema que se ve todos los días. \nLa digitalización\n no es un lujo para el campo; es una forma de competir mejor.\n\nClaro que una app no resuelve sola la \nproducción avícola\n: los procesos, la gestión y la información siguen siendo los protagonistas. Lo que sí puede hacer \nGranja Control\n es poner la información en un lugar útil, para que la decisión no dependa solo de la intuición. \nEmpezar\n es el primer paso; mejorar, el segundo.\n\nEl mensaje de fondo es más simple de lo que parece: no hace falta esperar a tener todo resuelto para arrancar. En el campo, como en el emprendimiento, si vos no medís difícilmente mejorás. \nCreer en uno\n y \nempezar por lo concreto\n puede ser la diferencia entre una idea que se queda en el tintero y una herramienta que sirve.\n\nAdemás, hay un detalle que no pesa poco: cuando la información se vuelve \ndigital\n, deja de estar atada a una sola persona o a un solo cuaderno. \nGranja Control\n puede facilitar que el productor tome decisiones con más contexto, sin perder de vista lo que pasa en la granja. \nLa modernización\n no es reemplazar al campo; es darle mejores herramientas para seguir produciendo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "agro",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-sergio-urribarri-relato-sus-primeros-dias-en-prision-y-dijo-que-evita-los-espacios-comunes-por-temor-a-agresiones",
+    "fuente": "El Heraldo",
+    "titulo": "Sergio Urribarri relató sus primeros días en prisión y dijo que evita los espacios comunes por temor a agresiones",
+    "fecha": "2026-09-24",
+    "link": "https://www.elheraldo.com.ar/noticias/judiciales/sergio-urribarri-relato-sus-primeros-dias-en-prision-y-dijo-que-evita-los-espacios-comunes-por-temor-a-agresiones",
+    "texto_original": "Por videoconferencia y desde la Unidad Penal Nº 9, Sergio Urribarri, Pedro Báez y Juan Pablo Aguilera comparecieron ante la jueza de Ejecución de Penas de Paraná, Cecilia Bértora. Fueron audiencias de conocimiento: un primer contacto entre los condenados y la magistrada encargada de supervisar el cumplimiento de sus penas. Participaron también la fiscal Fernanda Ruffatti y los defensores Miguel Ángel Cullen, por Urribarri y Aguilera, y José Velázquez, por Báez.\n Sergio UrribarriPedro BáezJuan Pablo Aguilera \nUrribarri centró su intervención en las condiciones de alojamiento y en las dificultades que, según dijo, enfrenta cada vez que debe atravesar sectores de la cárcel donde se encuentran otros internos.\n\n“Ahora me encuentro alojado en un lugar mucho mejor del que estaba la primera semana”, comenzó. Sobre aquellos primeros días, relató: “La primera semana compartía un espacio común de puertas abiertas con 14 condenados por violación y abusos, y con dos homicidas, uno de los cuales había matado a cuatro personas y era mi vecino de celda. Dormía de día algunas horas porque era imposible conciliar el sueño de noche. El otro homicida había asesinado de 21 puñaladas a un vecino. Fueron siete días horribles hasta que me trasladaron a un pabellón distinto”.\n\nEl exgobernador afirmó que ahora permanece junto a su cuñado, Aguilera, y que evita los lugares compartidos. “No puedo compartir ningún espacio común. A un exgobernador que tomó decisiones que afectaron a familiares o a ellos mismos, no les resulta grato verme. Me es imposible estar en una biblioteca, en una cancha de fútbol o en cualquier espacio común”, sostuvo.\n\nTambién resumió cómo transcurren sus días: “Estoy en ese reducto donde voy al baño, me cocino y duermo”. Reconoció, sin embargo, la intervención del personal penitenciario después del cambio de alojamiento: “No puedo adjudicarle nada negativo. Al contrario, creo que han hecho un esfuerzo en estas horas para darme la seguridad que evaluaron que no tenía al acceder al cambio de pabellón”.\n\nBértora le señaló que las restricciones para circular por temor a agresiones no son exclusivas de su caso. “Lo que usted está viviendo lo viven muchas otras personas de otra manera. Esto sucede con un porcentaje alto de la población penal: internos que no pueden salir por miedo a ser agredidos o que deben volver al confinamiento”, explicó. Agregó que en la Unidad Penal Nº 1 de Paraná estas situaciones son frecuentes y que corresponde al Servicio Penitenciario evitar encuentros entre personas que mantienen conflictos. “Entiendo que la privación de la libertad es lo más doloroso para un ser humano, pero quiero decirle que no es la única persona en esta situación”, expresó.\n\nUrribarri respondió: “Sinceramente no conozco el detalle de las condiciones en que están otros internos del penal. Lo que sí estoy seguro es que el Servicio Penitenciario Provincial tiene unidades carcelarias con distintos regímenes. No sé si tienen un régimen previsto para un exgobernador”.\n\n“No, la verdad que no”, contestó la jueza. Explicó que los regímenes penitenciarios se organizan considerando a la población alojada y no contemplan una categoría específica para quienes ocuparon cargos políticos.\n\nDurante la entrevista, Urribarri contó que cursó hasta quinto año de Ciencias Económicas y abandonó la carrera cuando asumió como intendente de General Campos. Consultado sobre la posibilidad de estudiar en la cárcel, dijo que por ahora no le interesa incorporarse a una propuesta educativa.\n\nBértora le sugirió realizar tratamiento psicológico, recomendación que también hizo a Báez y Aguilera. Le explicó que, cuando llegue el momento de solicitar salidas, se evaluarán distintos aspectos de su proceso de cumplimiento de la pena, además de su conducta. Urribarri respondió: “Gracias”.\n\nLos tres están alojados actualmente en un sector que, según describió la magistrada, cuenta con 14 habitaciones para ellos solos, climatización central y cuatro baños, aunque dos no funcionan. Se trata de un espacio construido originalmente para el área de Sanidad. El traslado se produjo después de que se informaran insultos y presiones de otros internos.\nBáez habló de su salud y de la rutina que intenta construir\nPedro Báez dijo que está organizando sus días entre la limpieza, la cocina, el lavado de ropa, la actividad física y la lectura. Cuenta con libros y fue autorizado a ingresar un dispositivo de lectura digital.\n\nEl exministro de Comunicación y Cultura explicó que tiene celiaquía y necesita evitar la contaminación de sus alimentos al compartir la cocina y los utensilios. La fiscal Ruffatti indicó que solicitaría a la dirección de la unidad resguardar su dieta cuando fuera necesario. Báez sostuvo que, tras el traslado, los tres se sienten “más seguros y con más comodidad”.\n\nSobre la posibilidad de estudiar, contó que cursó Ingeniería de Alimentos y obtuvo el título intermedio de Técnico Superior en Tecnología de Alimentos. Descartó retomar aquella carrera, aunque dijo que evaluará la oferta educativa de la cárcel el próximo año. También manifestó que ha dedicado tiempo a leer y reflexionar sobre su condena.\nAguilera busca seguir su carrera universitaria\nJuan Pablo Aguilera se mostró concentrado en continuar los estudios de Administración de Empresas que cursaba a distancia en la Universidad Siglo 21. Contó que ya conversó con el área educativa de la unidad sobre horarios de conexión y acceso a materiales. La fiscal informó que el Servicio Penitenciario había solicitado autorización para una computadora destinada al área de Educación.\n\nBértora expresó la disposición del juzgado para facilitar esa continuidad académica. Aguilera dijo que atraviesa una etapa de adaptación y que ocupa sus días con lectura. Durante la audiencia también habló de emprendimientos en los que afirmó haber participado en los últimos años. Según señaló ANÁLISIS, no mencionó allí su vínculo laboral con la Cámara de Senadores, un punto que requiere establecer documentalmente hasta cuándo estuvo vigente y en qué condiciones.\n\nLas audiencias se realizaron en el marco de la ejecución de las condenas del llamado Megajuicio, dictadas en abril de 2022. Los tres tienen, además, otras causas todavía en trámite; esas investigaciones no forman parte de las penas que comenzaron a cumplir. (I: El equipo de investigación periodística que dirige Daniel Enz obtuvo los registros y las fotografías de lo ocurrido en las audiencias, difundidos por ANÁLISIS.)",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "impuestos",
+      "municipios",
+      "legislatura",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-javier-milei-si-nuestro-gobierno-es-reelecto-el-2028-sera-el-mejor-ano-economico-de-la-historia",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Javier Milei: “Si nuestro gobierno es reelecto, el 2028 será el mejor año económico de la historia”",
+    "fecha": "2026-09-24",
+    "link": "https://blancaciudadnoticias.com.ar/javier-milei-si-nuestro-gobierno-es-reelecto-el-2028-sera-el-mejor-ano-economico-de-la-historia/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nEl presidente \nJavier Milei\n expuso este jueves ante empresarios, inversores y referentes financieros en \nThe Economic Club of New York\n, donde vinculó el futuro económico del país con la continuidad de su Gobierno después de las elecciones de 2027.\n\nDurante su discurso, Milei aseguró que, si su Gobierno es reelecto en 2027, \n2028 será “el mejor año económico de la historia argentina”\n, tanto en términos financieros como de economía real.\n\nEl mandatario también sostuvo que las inversiones en sectores como \nVaca Muerta, la minería y la agroindustria\n se acelerarán y afirmó que llegarán capitales vinculados con nuevas actividades económicas.\n\nLas cifras que presentó Milei\n\nEn otro tramo de su exposición, el Presidente afirmó que Argentina acumula \n27 meses de crecimiento sostenido\n y que actualmente la economía crece a un ritmo que, según sus palabras, \ncuadruplica el promedio histórico del país\n.\n\nTambién aseguró que \n13 de los 15 sectores productivos\n medidos por el Estimador Mensual de Actividad Económica se encuentran creciendo y sostuvo que se trata del mejor registro de al menos los últimos 15 años.\n\nMilei afirmó además que durante su gestión se generaron \n500.000 puestos de trabajo netos\n y sostuvo que el aumento de la mora financiera está relacionado con la expansión reciente del crédito.\n\nCríticas a la oposición y defensa de su gestión\n\nDurante su exposición, Milei cuestionó las críticas provenientes de sectores de la oposición, periodistas y economistas. Según sostuvo, existe un intento de instalar “una constante sensación de crisis para perjudicar al Gobierno”.\n\n“El mercado reconoció nuestro trabajo”, afirmó el Presidente.\n\nTambién volvió a cuestionar al \nperonismo y al kirchnerismo\n, a los que responsabilizó, según su interpretación, de intentar impedir que gobiernos no peronistas puedan consolidar cambios de largo plazo.\n\nInteligencia artificial y nuevas inversiones\n\nOtro de los temas abordados fue el desarrollo de la \ninteligencia artificial\n.\n\nMilei reiteró su posición contraria a una regulación preventiva de esta tecnología y señaló que su Gobierno trabaja en un marco jurídico que contemple, entre otros puntos, la \nresponsabilidad limitada para empresas que operen con agentes de inteligencia artificial y beneficios fiscales\n.\n\nSobre el escenario económico inmediato, el Presidente aseguró que \n“para el año que viene tenemos estabilidad asegurada”\n y vinculó nuevamente esa perspectiva con la continuidad de su programa económico.\n\nLa exposición se produjo en el marco de la agenda internacional de Milei en Nueva York, donde participó de distintas actividades durante su visita a Estados Unidos.\n\nBCN Noticias — La información que muchos se olvidan de decir. Lo que nadie te cuenta.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "empleo",
+      "agro",
+      "justicia",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-trabajos-de-saneamiento-en-barrio-belgrano-para-mejorar-el-escurrimiento-del-agua",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Trabajos de saneamiento en Barrio Belgrano para mejorar el escurrimiento del agua",
+    "fecha": "2026-09-24",
+    "link": "https://blancaciudadnoticias.com.ar/trabajos-de-saneamiento-en-barrio-belgrano-para-mejorar-el-escurrimiento-del-agua/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nSe llevan adelante \ntrabajos de zanjeo y recuperación de desagües pluviales en la zona de la rotonda del barrio Belgrano\n, con el objetivo de mejorar el escurrimiento del agua y prevenir anegamientos.\n\nLas tareas forman parte de un operativo de \nsaneamiento integral en puntos estratégicos de la ciudad\n, donde se busca evitar que el agua avance sobre la calzada y genere inconvenientes para el tránsito.\n\nEntre los trabajos realizados se encuentra el \ndestape y desembanque de alcantarillas transversales a la ruta\n, permitiendo recuperar el funcionamiento del sistema de desagüe pluvial.\n\nAdemás, se colocaron \nalcantarillas pluviales en las banquinas de avenida Kirchner, antes de calle Entre Ríos\n, con el objetivo de corregir el curso del agua y evitar que el escurrimiento atraviese la ruta y arrastre sedimentos.\n\nDesde el lugar se informó que las tareas apuntan a mejorar tanto el \ndrenaje de las aguas de lluvia como las condiciones de seguridad vial\n en ese sector de la ciudad.\n\nMientras continúen los trabajos, se solicita a los conductores \ncircular con precaución\n, debido a la presencia de maquinaria y personal trabajando en la zona.\n\nBCN Noticias — La información que muchos se olvidan de decir. Lo que nadie te cuenta.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-salud-mental-en-tiempos-complejos-profesionales-brindaron-herramientas-para-afrontar-los-desafios-actuales",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "“Salud mental en tiempos complejos”: profesionales brindaron herramientas para afrontar los desafíos actuales",
+    "fecha": "2026-09-24",
+    "link": "https://blancaciudadnoticias.com.ar/salud-mental-en-tiempos-complejos-profesionales-brindaron-herramientas-para-afrontar-los-desafios-actuales/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nLa ciudad de Diamante fue escenario este jueves 24 de septiembre de un encuentro denominado \n“Salud Mental en tiempos complejos: cómo afrontar lo que nos toca vivir”\n, una propuesta destinada a generar un espacio de reflexión e intercambio sobre los desafíos actuales de la salud mental y brindar herramientas para el bienestar personal y comunitario.\n\nLa actividad se desarrolló en el \nCentro de Investigaciones Diamante\n, en Diamante, Entre Ríos, y tuvo como disertantes a \nRaúl Fernando Ceballos y Sol Müller\n. La jornada fue organizada por la \ndiputada Silvina Decco\n.\n\nAntes de la disertación, \nBCN Noticias\n dialogó con los profesionales, quienes adelantaron algunos de los principales temas que serían abordados durante el encuentro.\n\nBienestar y herramientas para afrontar tiempos complejos\n\nMüller explicó que la propuesta buscó generar un espacio de diálogo y reflexión sobre la salud mental en un contexto atravesado por la incertidumbre.\n\n“Es un espacio para charlar y dialogar acerca de salud mental en estos tiempos complejos, difíciles, con tanta incertidumbre”, señaló.\n\nLa profesional adelantó que su exposición estaría centrada en el \nbienestar y las herramientas que pueden ayudar a las personas a afrontar las distintas circunstancias de la vida cotidiana\n.\n\n“Voy a estar hablando de bienestar, de cómo podemos estar bien a pesar de todas las circunstancias de estos tiempos”, explicó.\n\nMüller también señaló que su abordaje incorpora herramientas vinculadas con la \nterapia cognitivo-conductual y la psicología positiva\n.\n\n“El hospital termina siendo el pulso de la sociedad”\n\nPor su parte, Fernando Ceballos, enfermero formado en salud mental y oriundo de \nReconquista, Santa Fe\n, explicó que su propuesta surgió a partir de su experiencia cotidiana dentro de un hospital general.\n\n“Actualmente trabajo allá en un hospital general y además formo parte de un movimiento nacional de enfermería, de enfermeros formados en salud mental”, contó.\n\nCeballos puso el foco en el papel que cumplen los hospitales frente a diferentes problemáticas sociales y sostuvo que muchas de esas situaciones terminan llegando a las guardias.\n\n“Muchas veces el hospital general, la guardia del hospital general, termina siendo el pulso de la sociedad. Ahí recibimos todo lo que está roto”, expresó.\n\nSegún explicó, en el último tiempo observaron con mayor frecuencia situaciones relacionadas con \nintentos de suicidio, consumos problemáticos y violencia\n.\n\nFrente a este escenario, planteó que la salud mental no debe ser analizada únicamente desde la enfermedad o el trastorno, sino también teniendo en cuenta el contexto social en el que se encuentra cada persona.\n\n“La enfermedad mental existe, el trastorno existe, pero siempre hay algo que tiene que ver con el contexto”, sostuvo.\n\nLa comunidad como espacio de acompañamiento\n\nOtro de los ejes planteados durante la entrevista fue la importancia de generar \nespacios de escucha y acompañamiento\n.\n\nCeballos remarcó la necesidad de recuperar los vínculos comunitarios y evitar que las personas atraviesen situaciones de sufrimiento en soledad.\n\n“La comunidad tiene muchos recursos y por ahí no los estamos utilizando”, afirmó.\n\nEn ese sentido, sostuvo que los hospitales cumplen una función fundamental, pero que no pueden responder por sí solos a todas las demandas vinculadas con la salud mental.\n\n“El hospital no da abasto. Es necesario y todo, pero no da abasto. Necesitamos otra cosa y esa cosa está en la comunidad.”\n\nPara el profesional, recuperar el papel del \nbarrio, los vínculos y los espacios colectivos\n puede contribuir al acompañamiento de quienes atraviesan situaciones difíciles.\n\nEl papel de las políticas públicas\n\nDurante la entrevista también se abordó la importancia de las \npolíticas públicas\n para garantizar el acceso a la atención de salud.\n\nCeballos vinculó las dificultades que atraviesa el sistema con distintas cuestiones relacionadas con el financiamiento de áreas como \nPAMI, discapacidad y programas vinculados con medicamentos\n.\n\n“La política pública es fundamental para sostener, primero, la accesibilidad al sistema”, señaló.\n\nTambién destacó la necesidad de que quienes trabajan en hospitales y centros de salud cuenten con capacitación específica para poder abordar situaciones relacionadas con la salud mental.\n\n“La salud mental no depende solamente de los especialistas”\n\nUno de los conceptos centrales planteados durante la charla fue que la salud mental no constituye una responsabilidad exclusiva de psicólogos, psiquiatras, médicos o enfermeros.\n\n“Es fundamental entender la salud mental y que obviamente depende de especialistas, tal vez como nosotros, pero no solamente depende de eso. También depende de la comunidad”, sostuvo Ceballos.\n\nLa propuesta buscó así abordar la salud mental desde una mirada amplia, incorporando \nprevención, escucha, acompañamiento y vínculos comunitarios\n, además de la intervención de los especialistas.\n\nEl encuentro desarrollado en el \nCentro de Investigaciones Diamante\n permitió poner en agenda una problemática que atraviesa a personas, familias y comunidades, con una propuesta orientada a generar herramientas para afrontar situaciones complejas y fortalecer el bienestar personal y colectivo.\n\nBCN Noticias — La información que muchos se olvidan de decir. Lo que nadie te cuenta.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "comercio",
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-fuerte-choque-en-avenida-la-florida-una-suran-termino-en-la-banquina",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Fuerte choque en avenida La Florida: una Suran terminó en la banquina",
+    "fecha": "2026-09-24",
+    "link": "https://blancaciudadnoticias.com.ar/fuerte-choque-en-avenida-la-florida-una-suran-termino-en-la-banquina/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nUn accidente de tránsito se registró en Diamante, cuando un camión Iveco impactó desde atrás a un Volkswagen Suran que realizaba una maniobra para ingresar hacia la zona urbana.\n\nEl hecho ocurrió en la intersección de \navenida La Florida y calle Etchevere\n, donde personal de la Comisaría Strobel llegó rápidamente luego de ser alertado mientras realizaba tareas de prevención.\n\nDe acuerdo con la información recabada en el lugar, ambos vehículos circulaban en sentido \nnorte-sur por avenida La Florida\n. Al llegar a la intersección con Etchevere, el camión, conducido por un hombre de \n47 años\n, impactó en la parte trasera de la Suran, al mando de un hombre de \n56 años\n, que en ese momento maniobraba para ingresar hacia la ciudad en dirección oeste.\n\nComo consecuencia del impacto, el conductor de la Suran perdió el control del vehículo, que terminó desplazándose hacia el lateral de una alcantarilla y quedó en la banquina. El camión, en tanto, logró detener su marcha sin perder el control.\n\nAnte la situación, intervinieron \nBomberos Voluntarios de Diamante y personal de Salud\n, quienes asistieron al conductor de la Suran y posteriormente lo trasladaron al hospital local.\n\nMinutos después, el médico policial informó que \nlas lesiones no revestirían gravedad\n.\n\nPor disposición del \nMinisterio Público Fiscal\n, se iniciaron las actuaciones correspondientes y trabajó en el lugar personal de \nPolicía Científica de la Jefatura Departamental Diamante\n para determinar las circunstancias del accidente.\n\nBCN Noticias — La información que muchos se olvidan de decir. Lo que nadie te cuenta.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-24T23:49:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Nota policial de un caso individual sin trascendencia institucional o economica. (automático)",
+    "topicos_matcheados": [
+      "politica",
+      "impuestos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-el-stj-preciso-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares",
+    "fuente": "TalCual Chajarí",
+    "titulo": "El STJ precisó que el Estado debe garantizar la alimentación saludable en comedores escolares",
+    "fecha": "2026-09-24",
+    "link": "https://www.talcualchajari.com.ar/226186/el-stj-preciso-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares/",
+    "texto_original": "El Superior Tribunal de Justicia de Entre Ríos resolvió hacer lugar parcialmente al recurso de apelación presentado en el marco de una acción de amparo promovida por un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (AGMER) y la Fundación CAUCE, vinculada con la prestación alimentaria en establecimientos educativos dependientes del Consejo General de Educación.\n\nPrecisó que la obligación estatal comprende tanto la exclusión de productos alcanzados por sellos de advertencia como el cumplimiento de los estándares de alimentación saludable establecidos por la normativa provincial.\n\nEl Tribunal integrado por las vocales Susana Medina, Claudia Mizawak y el vocal Leonardo Portela precisó el alcance de la condena establecida en primera instancia y señaló que la obligación del Estado provincial no se agota en la exclusión de productos alcanzados por el artículo 12 de la Ley Nacional Nº 27.642, sino que comprende también el deber de ajustar la prestación alimentaria escolar a los estándares de alimentación saludable previstos por la Ley Provincial Nº 10.594.\n\nLa sentencia destacó que el cumplimiento de ese estándar no implica que el Poder Judicial sustituya al Poder Ejecutivo en la determinación de los medios técnicos u organizativos necesarios para alcanzarlo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:31Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-el-superior-tribunal-ratifico-que-el-estado-debe-garantizar-menus-escolares-saludables",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "El Superior Tribunal ratificó que el Estado debe garantizar menús escolares saludables",
+    "fecha": "2026-09-24",
+    "link": "https://eldiadegualeguay.com/el-superior-tribunal-ratifico-que-el-estado-debe-garantizar-menus-escolares-saludables/",
+    "texto_original": "El Superior Tribunal de Justicia de Entre Ríos resolvió hacer lugar parcialmente al recurso de apelación presentado en el marco de una Acción de Amparo promovida por un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (AGMER) y la Fundación CAUCE, vinculada con la prestación alimentaria en establecimientos educativos dependientes del Consejo General de Educación.\n\nEl STJ orecisó que la obligación estatal comprende tanto la exclusión de productos alcanzados por sellos de advertencia como el cumplimiento de los estándares de alimentación saludable establecidos por la normativa provincial.\n\nEl Tribunal integrado por las vocales Susana Medina, Claudia Mizawak y el vocal Leonardo Portela precisó el alcance de la condena establecida en primera instancia y señaló que la obligación del Estado provincial no se agota en la exclusión de productos alcanzados por el artículo 12 de la Ley Nacional Nº 27.642, sino que comprende también el deber de ajustar la prestación alimentaria escolar a los estándares de alimentación saludable previstos por la Ley Provincial Nº 10.594.\n\nAsimismo, advirtieron que reducir el mandato a una mera revisión de etiquetas habilitaría cambios o supresiones de rotulado sin modificar la composición real de los alimentos, vulnerando la tutela reforzada de los derechos a la salud de niños, niñas y adolescentes.\n\nEn la sentencia, el tribunal aclaró que el control judicial sobre el cumplimiento de estos pisos legales de salud pública no significa sustituir al Poder Ejecutivo en la determinación técnica de los medios concretos ni en la gestión de las contrataciones administrativas.\n\nPor último, el Superior Tribunal desestimó los pedidos de información pública adicional e intimaciones sobre hipotéticos incumplimientos futuros, indicando que estos canales deben tramitarse por la vía de acceso a la información pública (Ley N.º 11191) o en la etapa de ejecución de sentencia ante casos concretos que así lo acrediten.\n\nFuente: Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:35Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "transparencia",
+      "gobierno",
+      "justicia",
+      "educacion",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-la-provincia-anuncio-la-construccion-de-un-puente-sobre-el-arroyo-el-sauce-en-el-departamento-gualeguaychu",
+    "fuente": "El Día Online",
+    "titulo": "La Provincia anunció la construcción de un puente sobre el arroyo El Sauce, en el departamento Gualeguaychú",
+    "fecha": "2026-09-24",
+    "link": "https://www.eldiaonline.com/la-provincia-anuncio-la-construccion-de-un-puente-sobre-el-arroyo-el-sauce-en-el-departamento-gualeguaychu",
+    "texto_original": "El gobernador de Entre Ríos, Rogelio Frigerio, encabezó este jueves en Casa de Gobierno un encuentro clave con autoridades de la Unidad Ejecutora Provincial (UEP) y la Dirección Provincial de Vialidad (DPV) para definir el cronograma de ejecución de diversas obras públicas. Entre los anuncios más destacados para el sur provincial, se confirmó la planificación para la construcción del esperado puente sobre el arroyo El Sauce, en el departamento Gualeguaychú.\n\nSegún indicaron desde Provincia, la nueva infraestructura y sus respectivos accesos se enmarcan dentro del programa de Conectividad y Desarrollo Vial de la Provincia de Entre Ríos (Condver), y su ejecución será posible gracias al financiamiento del Banco Centroamericano de Integración Económica (BCIE).\n\nDurante la reunión, en la que participaron el titular de la UEP, Gustavo Cusinato, y el director administrador de Vialidad, Exequiel Donda, los equipos técnicos repasaron los plazos de llamado a licitación, la proyección de firmas de contratos y el esquema para abrir este y otros nuevos frentes de obra entre finales de este año y el próximo.\n\nAl término del encuentro, Cusinato destacó la importancia de la planificación conjunta: \"Nos reunimos con cada uno de los coordinadores de distintos programas y Vialidad, porque ya le vamos poniendo fecha a los plazos de llamado a licitación, la posibilidad de contrato y de que empiecen las obras\". El funcionario provincial advirtió además que el volumen de proyectos requerirá una gran organización técnica, en especial para las tareas de inspección.\n\nAdemás del puente sobre el arroyo El Sauce en Gualeguaychú, el paquete de obras con financiamiento externo (que incluye también fondos del BID y el FIDA) contempla la construcción del puente sobre el arroyo Desmochado en Tala, la rehabilitación de las rutas provinciales 1 y 2, la Circunvalación de Nogoyá, y obras hidráulicas y caminos productivos en distintos departamentos de la provincia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "infraestructura_obra_publica",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay",
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-mas-de-300-jovenes-participan-de-los-juegos-deportivos-juveniles-evita-2026-en-gualeguaychu",
+    "fuente": "El Día Online",
+    "titulo": "Más de 300 jóvenes participan de los Juegos Deportivos Juveniles Evita 2026 en Gualeguaychú",
+    "fecha": "2026-09-24",
+    "link": "https://www.eldiaonline.com/mas-de-300-jovenes-participan-de-los-juegos-deportivos-juveniles-evita-2026-en-gualeguaychu",
+    "texto_original": "Gualeguaychú recibió este jueves a más de 300 jóvenes deportistas para el inicio de la Final Provincial de los Juegos Deportivos Juveniles Evita 2026. Durante dos jornadas, la ciudad es sede de las competencias de básquet 3x3 Sub 16, vóley indoor Sub 14 y vóley playa Sub 16.\n\nLa actividad comenzó durante la mañana en el Centro de Convenciones “Malvinas Argentinas”, donde se realizó la recepción y acreditación de las delegaciones provenientes de diferentes puntos de la provincia. Llegaron jóvenes de Paraná, Cerrito, La Paz, Santa Elena, Diamante, Ramírez, Victoria, Feliciano, Federación, Concordia, Federal, Ubajay, Villaguay, Concepción del Uruguay, Villa Elisa, Chajarí, San Salvador, Nogoyá, San José, Basavilbaso, Gualeguay, Urdinarrain, Larroque e Ibicuy, entre otras localidades entrerrianas.\n\nLuego de las acreditaciones se desarrollaron las charlas técnicas y, al mediodía, las delegaciones compartieron un almuerzo en el Club Black River, como parte de la recepción organizada para los participantes antes del comienzo de las competencias.\n\nDurante la tarde comenzó la actividad deportiva en las distintas sedes. El básquet 3x3 masculino se desarrolla en el Club Neptunia, con participación de un equipo de Gualeguaychú, mientras que la rama femenina compite en el Club Central Entrerriano.\n\nEn el Polideportivo Municipal Suburbio Norte comenzaron las competencias de vóley playa Sub 16 y vóley indoor masculino Sub 14, mientras que el vóley indoor femenino Sub 14 tiene como sede el Ex Frigorífico. Tanto en vóley indoor masculino como femenino, Gualeguaychú cuenta con equipos locales que participan de esta instancia provincial.\n\nLa primera jornada finalizará con una cena en el Club Black River, donde los deportistas y las delegaciones volverán a compartir un espacio de encuentro que contará también con música en vivo.\n\nLos Juegos continuarán este viernes 25 de septiembre, con el reinicio de las competencias durante la mañana: desde las 9 h para vóley playa y desde las 10 h para básquet y vóley indoor. Durante la tarde se desarrollarán las instancias definitorias, finales y premiaciones de las distintas disciplinas.\n\n“Las competencias son abiertas al público, por lo que se invita a la comunidad a acercarse a las distintas sedes y acompañar a los jóvenes deportistas, especialmente a los equipos de Gualeguaychú, durante la continuidad de la Final Provincial\", señalaron desde la Municipalidad.\n\nE indicaron que “los equipos que obtengan la clasificación en esta instancia representarán a Entre Ríos en las Finales Nacionales de los Juegos Deportivos Juveniles Evita, que se desarrollarán en Mar del Plata”.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-24T23:49:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Deportes, fuera de alcance tematico del medio. (automático)",
+    "topicos_matcheados": [
+      "servicios_publicos",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "diamante",
+      "chajarí",
+      "feliciano",
+      "gualeguay",
+      "ibicuy",
+      "nogoyá",
+      "villaguay",
+      "santa elena",
+      "federación",
+      "federal",
+      "la paz",
+      "san salvador",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-la-piramide-gn-0a9724e9876e",
+    "fuente": "La Pirámide",
+    "titulo": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNzFyZjU3dDU4Y1k5OW51d0FUZ1docm1aT0hZSjRCeVNfa1hJeDJRaFpfSkY0OHdKa2xmXzlyejd4NkZFRVAxcVk4X3NfY0lqbDBCMHZoOWRMdFVjd21CMi1HZlNXRjJkOHoyb2RBdDZrRG9wZ2tRckhxLVM2OXBYdFpiNG85MXJ0OVhoMmRGV1pkX0dkTlN0UWtjaXJxa2Y0UjhNNElLcC1pcjdxUDE0RWc1SUNkN3FvSGh6LUN5NVpPZDkyb1NENTVsWVJmV21pOFlENkYtVlFpUDEtOFYyZ09sV0pJSUZEdG9n0gHwAUFVX3lxTE0yQTFKdmlLbG56VkV2MjkzMEk4enUtNVBRVklxaGlvQkRQTl8wWFZ5QVVxS1MzRS1aSTlkT3d6aWZROWNpdVNBT09SMHVVV01YNVhwMmxMWV9HNjFIWlR1RFhGTnU2LURvNHdabjBZTl9EX1UtNGY2Rmk3cFdueDZpUGJJWFlPQ1ZYWmYyYkVkVjNaQkdPMV9UUFlBbi0yRVJzWDd0TDJyS0Fha1FpME5LeWljYXNSNk9wVHhQa3otVkFkdmhCM3BlS2hVS3dveE1NWGVqd2FfOWdHclpoMzBXTmVZWmptY3VvRWNyZW5RVA?oc=5",
+    "texto_original": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos\n  \nLa Pirámide",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T23:49:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
   }
 ]
