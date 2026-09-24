@@ -87259,5 +87259,854 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "medios-google-news-entre-rios-e155c29b62fa",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83XzlEQ2pSR1ltbFZCV1EwU0huTmluS0wydm1seExzOHhVUGpqbUZBMHRRVnF1V1IxNl91bEVhclRPa0tUVVA3dmtGZGNLNnRnWVN4ZjZR?oc=5",
+    "texto_original": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-dd62d60f4a27",
+    "fuente": "Municipalidad de Paraná",
+    "titulo": "Moreno llega a Paraná y uno de sus referentes en Entre Ríos explicó los motivos de la visita",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmZfLW9RUVJqSzZZTmo1bU9jOWcyWjNqTlVxNjFoaFE4NF9fd1BVbWtEZFNad0pNaXp4TGdaYk41cENvcW9jeWIzUWFrdWNEWU85NGw4TkNhU0JRbTQ5Q2ZOTnppSGcxbmpIWVRHank4c2xaTkJHVXRIenIzR0VpSEUzYk1ub2lJOTlaUXNfZXJxejl2UzNDNlZ0QUZrR2YzM2libGN6cUsxZXFwdFFKbUdtODFESVNfX1dpSG1n?oc=5",
+    "texto_original": "Moreno llega a Paraná y uno de sus referentes en Entre Ríos explicó los motivos de la visita\n  \nMunicipalidad de Paraná",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-3ebbba5531c4",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Litigio Teknofood: el STJ impone garantizar alimentos saludables en comedores",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYzhrR1JaVmJIMjhfMjFrZ2V3OUVyNzVTcFR4ekxROFNkR2QwZHNEVlcwbVZxU3FmeEZaVHJENFd0bEVQbUU1RFVBekhLOFZMLXpLZV9uYVBGWjBObHVBZ05zeExmdU1BbFhqbGloYzg5SlFpbWk2UmpsUXZGVDR1Z3paUWZicGc5b1VfeWVBVjQyRFJIYzZmM3d6Ry11WXRTUzd1aHQ1SQ?oc=5",
+    "texto_original": "Litigio Teknofood: el STJ impone garantizar alimentos saludables en comedores\n  \nEntre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-364fe858636b",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "El gobierno provincial concretó el pago adeudado a los bomberos voluntarios",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BdmJybkdKa205SmY4dHpCSEJHeFRwOVZiZV9idm5tSEk3X1BoTUtJNlJIQkRxeHl2MGlhaVVBZDFXNktyOE41OTZHNmxUdnpUdUZKWTFLSTllUQ?oc=5",
+    "texto_original": "El gobierno provincial concretó el pago adeudado a los bomberos voluntarios\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8e145257a784",
+    "fuente": "Gobierno de Entre Ríos",
+    "titulo": "Frigerio anunció un programa para cuidar el salario y la capacidad económica de empleados públicos y jubilados",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wejZaSi1wandNMWJmTmxQOXlnZFF5WHI2SXpMT0ExVWVLS3F0RFg5MFo0SXp2R3pSSG9FNDc3LUROTUFOUmVoMXJJYTdaWFYtdHhDelB5YjV1Zw?oc=5",
+    "texto_original": "Frigerio anunció un programa para cuidar el salario y la capacidad económica de empleados públicos y jubilados\n  \nGobierno de Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8cd003267434",
+    "fuente": "Radio 3 Cadena Patagonia",
+    "titulo": "Entre Ríos: el diputado acusado de drogarse en la Legislatura dio negativo en el examen toxicológico",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObGlybHhzZTJ5cE5rcXlaQnZib0FOejVZVm55NnlqVllUUEVOS0dfakNNLS1iNDlIbEJIMWVGU2xtNTZwbHpiYkt4X1EtZXVoVmg4bVo3UndkY0oyT3RwcThialJKckFSQW5HSFVINXhoenJxNmpEb0YzNVhJbEUzcXlYX3BfNUlxeDBQVHB4MXBCdUFWdVNRYllzT0UtOG12b2VKaG5pV3V2bk5CSFhaVE4xV0lLcnBnWi1BR2dqZEpDSHZMZG5RYnItbVJTbVZPWk5Z?oc=5",
+    "texto_original": "Entre Ríos: el diputado acusado de drogarse en la Legislatura dio negativo en el examen toxicológico\n  \nRadio 3 Cadena Patagonia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "legislatura"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b6c5c18fe54e",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "El STJ ordenó garantizar la alimentación saludable en comedores escolares de Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTF2aTZjYWZLOHJGQVdWbWxPUERGVTBzeV9UcGhQNHdpb0ZwVmhtUmZOZW5PTS1yM0dzN3Zud2p6VGtIVWlqUlVSR0dHajk3OElkclZSdVdXTS1JNUZzd1o0V3hKZFFJVnFtazhqSm1ON2FnZlU0Z3lweVdib3d5b1V0QW9FaHN2NFBWV1AxNy1wQVpXY1FVRlZtUXZoZlRNZkg1cFl6UW0xRHhXaVJRdUR5c3lQLVhzMFVlYXhOQkI?oc=5",
+    "texto_original": "El STJ ordenó garantizar la alimentación saludable en comedores escolares de Entre Ríos\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-c88da0a4a9ee",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "El STJ de Entre Ríos ratificó que el Estado debe garantizar menús escolares sanos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3JLYU5oOEZkMERBTlF0ZkFiNFBIMEdobEZqZ3F2N2p5VmlsU05sRy1hRkhkUmpXd3hDcHFqQk5vaThWM1hnWTdyWFVmcllhTExzNk1paGp2RVctRVNHTFA5dEhwdHEyM01NLS1ZVGtsLTIxWkxEZ05NTkZQeENybktyV1pNcjFKZVlHb3g1eWo1a3BoeElKMkhNWXR1NXozRkMyOUJiOE8yZ0ZOX2REWldR?oc=5",
+    "texto_original": "El STJ de Entre Ríos ratificó que el Estado debe garantizar menús escolares sanos\n  \nDiarioVictoria.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-d2b6e49e1ad2",
+    "fuente": "Elentrerios.com",
+    "titulo": "En pleno 1815, Artigas impulsó una escuela en Entre Ríos: el lugar que vuelve a revelar una parte de su legado",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMkMyaTRINmljNUpOZG9WaEVLeTBCLW5zNWVnRHZIanF1YUhnclpFN1A3Zmstc1FVSEY1RVMzUW5oTWQ1WjVqZWJQSk56ZUpWZHE1eXVwRVBSdlVVTUMzLWl3SS1tMkhnMU1FYV9naGJTQVBZeG1oV1pkUkY5cFNNdEpveV9FQU1GYUl5SlRsclF0UEtNemI4a1FGcngtY1ZtclBUYXZKNzE3MmpZSDdpYjVoZ3R4RG1yQ2FxNDVJVnJQZnJyT0J1T1RsNjl0OEVSYS1JdWNuN29xZ9IB2gFBVV95cUxPMkMyaTRINmljNUpOZG9WaEVLeTBCLW5zNWVnRHZIanF1YUhnclpFN1A3Zmstc1FVSEY1RVMzUW5oTWQ1WjVqZWJQSk56ZUpWZHE1eXVwRVBSdlVVTUMzLWl3SS1tMkhnMU1FYV9naGJTQVBZeG1oV1pkUkY5cFNNdEpveV9FQU1GYUl5SlRsclF0UEtNemI4a1FGcngtY1ZtclBUYXZKNzE3MmpZSDdpYjVoZ3R4RG1yQ2FxNDVJVnJQZnJyT0J1T1RsNjl0OEVSYS1JdWNuN29xZw?oc=5",
+    "texto_original": "En pleno 1815, Artigas impulsó una escuela en Entre Ríos: el lugar que vuelve a revelar una parte de su legado\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-682189fb980d",
+    "fuente": "Mirador Provincial",
+    "titulo": "ATER detectó más de un millón de metros cuadrados en construcciones no declaradas en San José y Gualeguaychú",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUZVLUUtRDdUS3NsbVF4WEs5SDVrTFdBWksweEI5dnI1a0Q4aWgtamhsWDZwSnVac29Wb1AyV29RenVNNzNsYW4xMzlnbFBSWWhjVG1XU2J1d3U0b0xrclVObUVaaFF6c2dUSFVTQTlzMXUyUTdaUkpnOFF6UllSVWhfZVN3cDVmcktMQk1oaW1EcGFKRVl1Q2hucEZ0N1ZBeFNQQ3lVenFRdUpVR0pMMTlyLXFTcVdZVkRCN1FlTnpIYU0ydllMb0FuMDJSc01vQnAwTmc3VGhzMmkyX2dON2VpRm1XQzdpc1E?oc=5",
+    "texto_original": "ATER detectó más de un millón de metros cuadrados en construcciones no declaradas en San José y Gualeguaychú\n  \nMirador Provincial",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f2097a36f3f5",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "El Superior Tribunal ratificó que el Estado debe garantizar menús escolares saludables",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZkJWai1fWUd3S3pOTTJaSXNSREZ5aGdKcDRsSEo2eEpaVGdqajh6OENCbnRNZHRmTENaV1RFaC1fWG5RUmtWSlVZQ0R0Z1NqZkxnaXQ3dXVmX0pkRFRkdkpXMGxIdlVoWTQ1YmhMdFF4NjEtVzFkVUZDX0NSNi0yWWF6VFRSOWUtcXU4ZGFPaXdiWGlRN1RJdE12Z1loZ0tpXzRyeWFQWGZmNGVEcEEyalc4cmtXWnpJNFotbEV0Ukk?oc=5",
+    "texto_original": "El Superior Tribunal ratificó que el Estado debe garantizar menús escolares saludables\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-144a07361d46",
+    "fuente": "AIM Digital",
+    "titulo": "El gobernador repasó el cronograma de obras viales y productivas financiadas por organismos internacionales en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaXlRSDRpWEVGMkVMbVRHQk1lOUFaYkllN0M2R2RyX0h2QjBieERqNC1ld1FIS1R0UnlobV96cGo4TDJydzEzNDAyWlJXX1h2dWhxcmlCOFpHRUozdUtjenRGWW0xWjlBUHNrYWxWb1h0VGZmR0lEb3lCdXRleVdVN3pHV1dVZFZnSUt0ZmNaX1ZLcnVTclRhX2drSEZ4NnFVQ21ZNXRwSVRMN1JpUHN4ZUxNcVlRVDgzYzdPLWdNNGlBcmZUN05ENXZjaVVWUDVSNFNYNFI0UnhvLWE3V1pkUGNHQ1FHZnQtRlpjelotVS1UWmppR2VqQ1pn?oc=5",
+    "texto_original": "El gobernador repasó el cronograma de obras viales y productivas financiadas por organismos internacionales en Entre Ríos\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-elonce-gn-a750df184f7b",
+    "fuente": "Elonce.com",
+    "titulo": "Defensor General de Entre Ríos respaldó a la jueza que declaró la inconstitucional de la punibilidad a los 14 años",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnpMY2ZkN29DY3o0U3V3VTMzYkJ1cDZSNkZqVF94MEY2clNmT25NTFBxa0dTTDlzc0pTZmhnNndURXpHTGJsdVRSQVZXTkxtMUlnQ2kwTFZib3NuaXNVc19QcDhpdGt2emhwZTg3cGYwOUFxeFMyajlzazhNaHBERnBGRnhQZnBSSGp0dk15T3M3N0tKMTJ3N9IBkgFBVV95cUxNZ09hNWl4X1lhd0NTRGRKdEpHdGVXZDEtSmxtdUgwOENmYnBpck03VDBham1DOTUyLXh6cEhyMWJDX21haktKTnY4b2llTUVNTkZubWM5TTlKQkszMzNWbmpoNG1YdC04LUpIY0pYOEVaclMzbmREU3lOMVBrTUktQjBzRWxUVDRQM29oRTNfa2c4QQ?oc=5",
+    "texto_original": "Defensor General de Entre Ríos respaldó a la jueza que declaró la inconstitucional de la punibilidad a los 14 años\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-8dab2b6a1444",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "La actividad económica se desplomó un 2,9% mensual en julio",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlY1LVp0SUhDOWJRTVlRczNUbEF0UVZWRFZiUFFhYUZERlVVZ2tmLTJiSFJjUE1vdUc5R1I0dEs3V1dlVFpCdkRJWTl2dHo1SzdqUkNkSGJhTnFySUxDVUpZRzEza1g1SXhoVTlMdkMzT215Y3FRbGJKV2ZWUTgtOWEyZUplX2Z3dFRSRW1pR0Q?oc=5",
+    "texto_original": "La actividad económica se desplomó un 2,9% mensual en julio\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-6b98a6c040e0",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Volcó una camioneta que transportaba bloques de construcción en la Ruta 39",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHpWRzRLclROUkNHcWZEbF9wS3J5VWRQaFpWcEl0VHctZzFQWmhnSDduRHctMnFnTlBqTVdIMEdSa2NCNm5MUlVleEdCYVN2ZDM1X0VadG40dS1xc2dlT1JUWVZtc1ZCSmZHWW1ZN20wTlNWcXBUc3VGcmc3cmpXbVdmek9vZ3N3M1oybUJUcjBjOGRGeVdYMDY4YVpwTlZuVjItZ3lRYw?oc=5",
+    "texto_original": "Volcó una camioneta que transportaba bloques de construcción en la Ruta 39\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-8e27b08dc1c2",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "China y Trump extienden tregua comercial y buscan acuerdos por la IA: \"Socios, no adversarios",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWlBHWi1mbk96TjFsN3NueDQtWjdhRng4cm5BeDlqcUxTTkhUcUVUcG4zWlNsQy0zNC14YXpyU3Q2elBIVUhUVUpGU0gxTXQzMEhhWkUybWp3M1hBeWREZjBWZnlROFRONThhMzB4R0cwMTJJS29DdnVreG1fVzZVUC1pUkJPVTVvMVJNVlVfVTFoRTN6TEJ0Y1k4MjVOOHRFOFc5WklZU01fWk1jWlFYZUJ6ZG1ONnEwb1FCYjRoNEM2ZktUd2c?oc=5",
+    "texto_original": "China y Trump extienden tregua comercial y buscan acuerdos por la IA: \"Socios, no adversarios\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:28Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-litigio-teknofood-el-stj-impone-garantizar-alimentos-saludables-en-comedores",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Litigio Teknofood: el STJ impone garantizar alimentos saludables en comedores",
+    "fecha": "2026-09-24",
+    "link": "https://entreriosahora.com/litigio-teknofood-el-stj-impone-garantizar-alimentos-saludables-en-comedores/",
+    "texto_original": "El Superior Tribunal de Justicia (STJ)  resolvió hacer lugar parcialmente al recurso de apelación presentado en el marco de una acción de amparo promovida por un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (Agmer) y la Fundación Cauce, vinculada con la prestación alimentaria en establecimientos educativos dependientes del Consejo General de Educación.\n\nEn el voto de la jueza Claudia Mizawak se reseña que el grupo de padres de niños que asisten a comedores, Agmer y la Fundación pidieron al STJ que “disponga una ampliación de la parte resolutiva de la sentencia” dictada el 21 de agosto por el juez de juicio Juan Francisco Malvasio, que hizo lugar al amparo colectivo, “para que la tutela judicial no quede limitada a la prohibición de distribuir productos con sellos de advertencia (los octógonos previstos en la Ley N° 27.642, NdelR), sino que abarque el control integral de la adecuación nutricional de todo el nuevo sistema de desayunos y meriendas escolares”.\n\n“En otras palabras, la parte actora cuestiona que el fallo reduce el estándar de tutela a un dato meramente formal —la presencia o ausencia física del sello—, cuando la pretensión de fondo era más amplia: que el juez controle la calidad nutricional real de los alimentos, con independencia de que estén o no exceptuados del rotulado frontal por su modalidad de comercialización institucional”, observó Mizawak. También, los amparistas pidieron: que se ordene a la Provincia: i) acompañar los menús completos correspondientes al nuevo sistema de desayunos y meriendas escolares, discriminados por nivel educativo, franja etaria y modalidad institucional; ii) acreditar el cumplimiento de la Ley 27.642, sus normas reglamentarias, las Guías Alimentarias para la Población Argentina y los restantes estándares constitucionales, convencionales y legales aplicables; y iii) adecuar, en su caso, el contenido de la prestación alimentaria escolar a dichos parámetros, absteniéndose de distribuir aquellos productos cuya adecuación integral no haya sido debidamente acreditada y garantizando su reemplazo sin interrupción del servicio alimentario, en un todo de conformidad con las normas vigentes Ley 27642, ley provincial 10594 y sus concordantes y complementarias.\n\n“Preliminarmente, creo necesario explicitar que el pronunciamiento de grado no adolece de arbitrariedad, y que su contenido, correctamente interpretado, no se agota en una exigencia meramente formal de supresión de sellos de advertencia”, apuntó. Pero enseguida anotó: “Una interpretación restrictiva del resolutorio —que redujera el mandato judicial a la mera ausencia material de octógonos— habilitaría, en los hechos, un desvío del cumplimiento de la manda mediante el simple cambio, quita o sustitución de etiquetas sin alteración de la composición nutricional real de los productos; lo que configuraría un claro incumplimiento de la obligación estatal de garantizar una alimentación adecuada a niños, niñas y adolescentes que concurren a comedores escolares”.\n\nDijo la jueza: “Si bien comparto los fundamentos desarrollados por el juez de grado al resolver la aclaratoria (…) entiendo que la controversia suscitada en torno al alcance de lo decidido, lejos de disiparse, se profundizó con el trámite posterior, tornando conveniente y necesario precisar en la parte dispositiva aquello que hasta ahora solo constaba en los fundamentos del pronunciamiento. Máxime si se tiene en cuenta que el artículo 14 de la Ley N.° 8369 exige que la sentencia favorable de amparo contenga la mención concreta de la conducta a cumplir y las especificaciones necesarias para su debida ejecución, recaudo que —tratándose de una prestación de tracto sucesivo destinada a niños, niñas y adolescentes, sujetos de tutela convencional reforzada— impone extremar la claridad del mandato, de modo que su cumplimiento no quede librado a una lectura que lo reduzca a un recaudo de rotulación formal, disociado de la composición nutricional real de los alimentos efectivamente suministrados”.\n\nY agregó: “Por ello, voy a propiciar la receptación del recurso de apelación, exclusivamente a los efectos de explicitar el alcance de la condena: la obligación de la demandada no se agota en la exclusión de productos alcanzados por el artículo 12 de la Ley N.° 27642, sino que comprende también, de manera inescindible, el deber de ajustar la prestación alimentaria escolar a los estándares de alimentación saludable establecidos por la Ley Provincial N.° 10594 (…), sin que ello importe sustituir a la Administración en la determinación técnica de los medios concretos para alcanzar ese estándar -cuestión que permanece, como fue correctamente señalado en la instancia de grado, dentro de la esfera de competencia propia del Poder Ejecutivo-“.\n\n \n\nEl viernes 21 de agosto el vocal del Tribunal de Juicios y Apelaciones de Paraná Juan Francisco Malvasio hiciera lugar a aquel amparo colectivo y ordenara al Gobierno que «se abstenga de ofrecer, servir, entregar odistribuir en los establecimientos educativos públicos provinciales dependientes del Consejo General de Educación de la Provincia de Entre Ríos productos alimenticios no perecederos destinados a desayunos y meriendas que contenganuno o más sellos de advertencia o leyendas precautorias en los términos del artículo 12 de la Ley N.° 27642, debiendo garantizar en forma simultánea eininterrumpida la provisión de productos no alcanzados por dicha prohibición».\n\nAprendeNuevos Idiomas\n\n \n\nCon ese pronunciamiento, el \n \nEjecutivo\n\n decidió no apelar y manifestó en ese primer momento que estaba en libertad de acción para avanzar con el convenio con Teknofood SA. El director de Comedores, Lautaro Azzalini, barajó la posibilidad de que en la primera quincena de septiembre se pusiera en marcha el cambio. Pero ahora dicen que esperarán que la Justicia se pronuncie.\n\nEs que el grupo de padres, Agmer y Fundación Cauce decidieron apelar y el caso está a resolución del STJ.\n\nEl juez Malvasio había dicho que lo resuelto «no importa -como se dijo. que este Tribunal se arrogue facultades de gestión que la Constitución reserva al Poder Ejecutivo. El control aquí ejercido se ciñe a un juicio de legalidad estricto, circunscripto a la verificación del cumplimiento de un mandato legal puntual, previamente definido por el legislador». Y agregó: «Es precisamente esa verificación -el control de que la Administración se sujete a la ley y, en particular, a los derechos de quienes gozan de protección constitucional- la función que la Carta Magna encomienda a la magistratura. No juzgar sería, en este caso, la verdadera abdicación de una atribución propia. Ese mandato -la exclusión de productos con sellos de advertencia frontal en los entornos escolares- no constituye una formalidad normativa prescindible o postergable según las conveniencias de la gestión administrativa. Es la expresión concreta de una política de salud pública dirigida a sujetos de tutela constitucional reforzada, cuyo cumplimiento no admite matices ni excepciones fundadas en razones de conveniencia práctica».\n\nMediante la Licitación Pública N° 02/26, bajo la modalidad de Orden de Compra Abierta, el \n \nPoder Ejecutivo\n\n adjudicó la provisión de insumos para comedores a la firma Teknofood SA, mediante la compra centralizada y ya no con el giro de fondos a los directores de escuela, un mecanismo que se pensó permitirá “ajustar la provisión a la matrícula y asistencia escolar concreta de cada período, evitando compras excesivas o subejecuciones, dotando de flexibilidad y eficiencia al gasto público, garantizando la continuidad del servicio alimentario y asegurando que el Estado sólo erogue por las prestaciones realmente requeridas”.\n\nEl decreto de adjudicación N° 1.983/2026 fijó el importe total general de la oferta adjudicada, calculado de acuerdo con las cantidades máximas estimadas para los ciclos lectivos 2026 y 2027: $101.726.784.000. Aunque el decreto de llamado N° 852/2026 estimó una inversión de $42.669.617.445. Y el precio unitario adjudicado es de $1.600 por ración de alimento De acuerdo con el importe total general ($101.726.784.000) y el precio unitario por ración ($1.600), las cantidades máximas estimadas para ambos ciclos lectivos (2026 y 2027) ascienden a aproximadamente 63.579.240 raciones.\n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "comercio",
+      "impuestos",
+      "gobierno",
+      "justicia",
+      "infraestructura_obra_publica",
+      "educacion",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-pagina-judicial-el-stj-le-ordeno-al-gobierno-repartir-alimentos-saludables-en-las-escuelas",
+    "fuente": "Página Judicial",
+    "titulo": "El STJ le ordenó al Gobierno repartir alimentos saludables en las escuelas",
+    "fecha": "2026-09-24",
+    "link": "https://paginajudicial.com/2026/09/24/el-stj-le-ordeno-al-gobierno-repartir-alimentos-saludables-en-las-escuelas/",
+    "texto_original": "Juan Cruz Varela\n\nDe la Redacción de Página Judicial\n\n \n\nEl Superior Tribunal de Justicia (STJ) le asestó un nuevo golpe al Gobierno en torno a la implementación de un sistema centralizado en el reparto de desayunos y meriendas en los comedores escolares: no solo deberá repartir alimentos que no contengan sellos de advertencia, sino que además deberán ser saludables.\n\nSi bien el alto cuerpo no cuestiona el fallo de primera instancia, que prohibía entregar alimentos que contengan sellos, no exhibía con precisión en la parte resolutiva –como sí lo expresaba en los fundamentos– “el deber estatal de brindar alimentación saludable y adecuada en los comedores escolares”.\n\nLos vocales Claudia Mizawak, Susana Medina y Leonardo Portela no cuestionan la facultad de Gobierno de centralizar el esquema de reparto de desayunos y meriendas ni determinan un menú específico. Antes bien, explicita la obligación de ajustar la prestación alimentaria a los estándares de nutrición saludable.\n\nEl STJ explicó que la sentencia de un amparo debe contener “la mención concreta de la conducta a cumplir y las especificaciones necesarias para su debida ejecución, recaudo que impone extremar la claridad del mandato”, sobre todo cuando se trata de garantizar los derechos de niños, niñas y adolescentes, “de modo que su cumplimiento no quede librado a una lectura que lo reduzca a un recaudo de rotulación formal, disociado de la composición nutricional real de los alimentos efectivamente suministrados”.\n\nLos \nsuperiores\n aclararon, entonces, que la obligación estatal no se limita a la exclusión de productos que contengan sellos de advertencia, sino que también debe “ajustar la prestación alimentaria escolar a los estándares de alimentación saludable establecidos” en la ley provincial que promueve la alimentación saludable, variada y segura de los niños, niñas y adolescentes a través de políticas de prevención y promoción.\n\nEl origen del conflicto\n\nLa disputa surgió a partir de la decisión del Gobierno de reemplazar el sistema descentralizado de desayunos y meriendas escolares por un esquema centralizado y uniforme de productos industrializados no perecederos, que serían provistos por Teknofood SA, una empresa radicada en la Ciudad de Buenos Aires, que resultó la mejor oferta de una licitación pública.\n\nAnte ello, un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (Agmer) y la Fundación Cauce promovieron una acción de amparo colectivo para frenar la contratación de Teknofood, y pidiendo que se garantice una alimentación sin productos ultraprocesados ni que contengan sellos de advertencia.\n\nLa demanda patrocinada por los abogados Rubén Pagliotto, Aldana Sasia, Verónica Fischbach y Valeria Enderle cuestionaba que los productos sean ultraprocesados y no constituían una alimentación adecuada para niñas, niñas y adolescentes, como establece una ley provincial y distintas circulares del Consejo General de Educación (CGE).\n\nEl juez Juan Francisco Malvasio hizo lugar a la demanda\n e instó a que el Gobierno se abstenga de ofrecer, servir, entregar o distribuir en los establecimientos educativos productos alimenticios no perecederos destinados a desayunos y meriendas que contengan uno o más sellos de advertencia o leyendas precautorias, debiendo garantizar en forma simultánea e ininterrumpida la provisión de productos no alcanzados por dicha prohibición y que se debía “garantizar una alimentación escolar saludable”.\n\nEl Gobierno no apeló el fallo, pero conformó una mesa interinstitucional, de la que participan nutricionistas, académicos y representantes de Teknofood para el seguimiento de la dieta escolar.\n\nEn cambio, sí lo hicieron los padres, el gremio docente y la Fundación Cauce, quienes plantearon que la obligación del Estado no debería limitarse a la prohibición de sellos, sino que los desayunos y meriendas deben adecuarse a los estándares de una nutrición saludable para niños, niñas y adolescentes.\n\nLo que sí, lo que no\n\nEl STJ dejó en claro que “el pronunciamiento de grado no adolece de arbitrariedad” y que “su contenido, correctamente interpretado, no se agota en una exigencia meramente formal de supresión de sellos de advertencia”.\n\nLos vocales dijeron además que el juez Malvasio concibió la obligación estatal en términos sustancialmente más amplios que los expresados en la parte resolutiva de su sentencia e insistieron en que se debe “brindar alimentación saludable y adecuada en los comedores escolares, del cual la exclusión de productos sellados constituye solo una derivación necesaria, mas no su contenido íntegro”.\n\nEn cambio, rechazaron los \nsuperiores\n la pretensión de los padres, Agmer y Fundación Cauce para que el Gobierno brinde un detalle de los menús completos correspondientes al nuevo sistema de desayunos y meriendas escolares, discriminados por nivel educativo, franja etaria y modalidad institucional. Eso, en todo caso, se debatirá en la mesa interinstitucional.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:31Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "industria",
+      "empleo",
+      "servicios_publicos",
+      "justicia",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-160194_teknofood-el-stjer-ratifico-el-freno-a-los-alimentos-con-sellos-en-escuelas-y-que-dijo-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares",
+    "fuente": "Diario Junio",
+    "titulo": "Teknofood: el STJER ratificó el freno a los alimentos con sellos en escuelas y que dijo que el Estado debe garantizar la alimentación saludable en comedores escolares",
+    "fecha": "2026-09-24",
+    "link": "https://www.diariojunio.com.ar/160194_teknofood-el-stjer-ratifico-el-freno-a-los-alimentos-con-sellos-en-escuelas-y-que-dijo-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares/",
+    "texto_original": "El Superior Tribunal de Justicia de Entre Ríos confirmó este jueves la sentencia que había hecho lugar al amparo colectivo presentado por padres, AGMER y la Fundación CAUCE contra el Gobierno provincial por el nuevo sistema de provisión de desayunos y meriendas escolares adjudicado a la empresa Teknofood. Además, precisó que la obligación estatal no se limita a excluir productos con sellos de advertencia, sino que también debe garantizar una alimentación saludable conforme a la normativa provincial.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-junio-160196_el-gobierno-lanzo-un-programa-de-alivio-financiero-para-empleados-publicos-y-jubilados",
+    "fuente": "Diario Junio",
+    "titulo": "El Gobierno lanzó un programa de alivio financiero para empleados públicos y jubilados",
+    "fecha": "2026-09-24",
+    "link": "https://www.diariojunio.com.ar/160196_el-gobierno-lanzo-un-programa-de-alivio-financiero-para-empleados-publicos-y-jubilados/",
+    "texto_original": "El gobernador Rogelio Frigerio encabezó este jueves una conferencia de prensa en la que presentó un nuevo programa destinado a proteger el salario y fortalecer la capacidad económica de los empleados públicos y jubilados de Entre Ríos. Además, anunció que se incorporará la educación financiera en las aulas a través del Consejo General de Educación, según información enviada a DIARIOJUNIO.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:42Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-2a629a00381e",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "El gobierno provincial concretó el pago adeudado a los bomberos voluntarios",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXVDTTgwa2pyaHNYVmR3WVY5MnFHaGo4NjBLLTVlQnZLOVd4cjN2QVBrUXpIWWJXQ1Vyd0tjZ1YxdW00a19XTW5KdWxIT3VYTFVBZnJ1V1hDMGhCdnlPM20yWS1TdmtaeExRbGFKNzI2X1dQYzRNcElKSWRNdGJHdEdRZ0R3WWpGaHJBdjdLLUlUa3R1RUZfRE03SHFXMlp0bmFJNHRsWlg2bWhwd0U5aUs3UmpXY3RtaDF3Q2hUMHpoUQ?oc=5",
+    "texto_original": "El gobierno provincial concretó el pago adeudado a los bomberos voluntarios\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-04a54a4eccfc",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "El Superior Tribunal ratificó que el Estado debe garantizar menús escolares saludables",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdE9Sck1KRlBTUWs0Z0FWbG1RX2tkM290Qjctc2hjdnVYYmdtRHdCZnA2WW54c1I0NGVtTGMzeXROZThCTjkyODZsOThWbklobDJKaXpqYkY4YTFMTFUwcy1fNU83Q3FZNlh6V0wxWWhUZ3VmZV9lanRxeG1IYW1vZDZqZnZfWnVFTFRjZ1V3OFdxanZURVBhNVB5c1g2STB6NFp1Mjc1eWxOZTd0bHhHS3lmZmNfYnAxWlFpeDRlZEFtbWhGM2lGWGM3VkVPWW9m?oc=5",
+    "texto_original": "El Superior Tribunal ratificó que el Estado debe garantizar menús escolares saludables\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-fe0926d375a0",
+    "fuente": "Diario Digital de Concordia",
+    "titulo": "Avance urbano, respaldo a la comunidad y control de gestión marcaron la jornada en el Concejo Deliberante",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUmxGZEUwTXlSWXktUEwyeGpORmRyVG9lT3ZPZ0pOMXlhd2dsWmZMVGx6cWk4ejZjUjlQb3ZMZ29jMVhxM3FJQW9NZkpCNHNGZXhxOFRUUGtPUGpoOThzaHYtQjcxaHZXM2NScFJLR2pvZGtEVV9mMjNpSUo2cm4tUVM2NEU3RllxdXdlUmx1VlE0X3ZiQ0dyUmZJNjUwOU4zZ0RnWXlHTWl2Mk1DcnUzZUNZYll6SFVjZDJySTAxVDRMWWlxUjlqZzYxLVJscUo3N01ZcHRIa2w3STMyS0pnRmhyOVBrUU9v?oc=5",
+    "texto_original": "Avance urbano, respaldo a la comunidad y control de gestión marcaron la jornada en el Concejo Deliberante\n  \nDiario Digital de Concordia",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-cafesg-avanzo-con-la-apertura-de-sobres-para-dos-obras-en-concordia-y-san-jose",
+    "fuente": "LT15 Concordia",
+    "titulo": "CAFESG avanzó con la apertura de sobres para dos obras en Concordia y San José",
+    "fecha": "2026-09-24",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/cafesg-avanzo-con-la-apertura-de-sobres-para-dos-obras-en-concordia-y-san-jose/",
+    "texto_original": "Se llevaron a cabo los actos de apertura de ofertas para la puesta en valor de la histórica Escuela Normal de Concordia y la ampliación de la Escuela N° 54 “Carlos Souriques” de San José, con una importante participación de empresas oferentes y autoridades provinciales y locales.\n\nLa Comisión Administradora para el Fondo Especial de Salto Grande (CAFESG) llevó adelante de la apertura de sobres de dos nuevas licitaciones públicas orientadas a fortalecer la infraestructura educativa en la región, en el marco de las políticas impulsadas por el Gobierno de Entre Ríos.\n\n“Es una satisfacción continuar avanzando con el Plan de mejoramiento de infraestructura escolar y hospitalaria en la región, en dos meses ya licitamos 3 obras y el mes que viene vamos a licitar 3 más, que se suman a las más de 20 obras que tenemos en ejecución en este momento” dijo Carlos Cecco, presidente de CAFESG.\n\nPuesta en valor de la Escuela Normal de Concordia\n\nEn primer término, se concretó la apertura de sobres para la obra de refacción, restauración y puesta en valor de la emblemática Escuela N° 15 “Domingo Faustino Sarmiento” (Escuela Normal) de Concordia, un proyecto largamente esperado por toda la comunidad educativa local que cuenta con un presupuesto oficial superior a los 1.498 millones de pesos. Para este llamado se presentaron 8 empresas oferentes, reflejando el interés del sector privado en ejecutar los trabajos.   Esta nueva convocatoria surge tras la desestimación del anterior llamado a licitación – Licitación Pública N° 6/2026 – ya que el mismo se vio frustrado en virtud que de que luego del análisis técnico, legal y económico realizado sobre las propuestas presentadas por las empresas oferentes, se constató que ninguna de las mencionadas cumplía en su totalidad con los  requisitos formales establecidos en los pliegos de bases y condiciones de la licitación, como tampoco con las especificaciones técnicas de la obra.\n\nEl acto contó con la presencia del presidente de CAFESG, Carlos Cecco, acompañado por los vocales del organismo, Pablo Canali, Martín Dri y Marcelo Bisogni. Asimismo, participaron de la convocatoria el diputado provincial Marcelo López, el director departamental de escuelas de Concordia, Alejandro Ramírez y la directora de la institución, Carina Schanfeld.\n\nAmpliación largamente esperada en San José\n\nPor otra parte, se avanzó con la apertura de ofertas para la tan esperada obra de ampliación de la Escuela N° 54 “Carlos Souriques” del barrio Perucho de la ciudad de San José, un edificio cuya comunidad aguardaba la culminación de sus etapas constructivas para dar respuesta a la demanda escolar de la zona. Esta licitación cuenta con un presupuesto oficial de más de 508 millones de pesos y contó con la presentación de 6 empresas oferentes.  \n\nDel acto licitatorio participaron el presidente de CAFESG, Carlos Cecco, junto a los vocales Pablo Canali y Martín Dri, el diputado provincial Mauro Godein y el concejal por la ciudad de San José, Gabriel Truffa, además de las empresas oferentes y vecinos de la comunidad educativa sanjosina.\n\nCon estas iniciativas, la CAFESG y el Gobierno provincial ratifican su firme decisión política de sostener la inversión en infraestructura escolar, garantizando procesos transparentes que aseguren la correcta ejecución de obras de gran envergadura para el beneficio directo de estudiantes y docentes entrerrianos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "gobierno",
+      "municipios",
+      "legislatura",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-stjer-la-provincia-debe-garantizar-meriendas-y-desayunos-escolares-saludables",
+    "fuente": "LT15 Concordia",
+    "titulo": "STJER: la Provincia debe garantizar meriendas y desayunos escolares saludables",
+    "fecha": "2026-09-24",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/stjer-la-provincia-debe-garantizar-meriendas-y-desayunos-escolares-saludables/",
+    "texto_original": "El \nSTJER\n le puso un candado más al debate por los \ndesayunos y meriendas escolares\n en Entre Ríos. Acá no alcanza con que un producto tenga o no el \noctógono negro\n: el máximo tribunal provincial ordenó que la Provincia garantice una alimentación saludable de verdad.\n\nLa resolución la adoptaron las vocales \nClaudia Mónica Mizawak\n y \nSusana Medina\n, con la adhesión del vocal \nLeonardo Portela\n, en la causa “Varios Padres, AGMER y Fundación CAUCE c/ Superior Gobierno de la Provincia de Entre Ríos s/ Acción de Amparo”. El fallo de primera instancia, dictado en agosto por el juez \nJuan Francisco Malvasio\n, había ordenado a la Provincia abstenerse de distribuir en escuelas públicas alimentos destinados a desayunos y meriendas que contengan sellos de advertencia o leyendas precautorias previstos en la Ley Nacional de Promoción de la Alimentación Saludable.\n\nLos amparistas apelaron porque consideraron que la tutela judicial quedaba corta: miraba los \nsellos\n, pero no la \ncalidad nutricional integral\n de los productos. El conflicto apareció cuando el Gobierno entrerriano decidió reemplazar el sistema descentralizado de compra y elaboración de desayunos y meriendas por un esquema centralizado de provisión de productos industrializados no perecederos, adjudicado mediante licitación a \nTeknofood\n para los ciclos lectivos \n2026 y 2027\n. Los demandantes sostuvieron que el nuevo modelo podía vulnerar el derecho de niños, niñas y adolescentes a una alimentación saludable.\n\nLa Provincia, en su defensa, argumentó que \nEntre Ríos\n no adhirió a la \nLey Nacional 27.642\n y que el programa alimentario provincial está regulado por la \nLey Entrerriana 10.594\n. También sostuvo que el Poder Judicial no debía sustituir criterios técnicos ni decisiones de política pública adoptadas por el Ejecutivo. Para el \nSTJ\n, una lectura restringida que reduzca la obligación estatal a la simple ausencia de octógonos negros sería insuficiente y permitiría eludir el espíritu de la sentencia mediante cambios formales en el etiquetado sin modificar efectivamente la composición nutricional de los alimentos.\n\nPor eso, el tribunal resolvió incorporar expresamente que la obligación del Estado “no se agota en la exclusión de productos alcanzados por el artículo 12 de la \nLey 27.642\n”, sino que también comprende “el deber de ajustar la \nprestación alimentaria escolar\n a los estándares de alimentación saludable establecidos por la \nLey Provincial 10.594\n”. No obstante, los jueces aclararon que esa exigencia no implica que el Poder Judicial sustituya al Ejecutivo en las decisiones técnicas sobre cómo alcanzar esos estándares.\n\nEl \nSTJER\n desestimó otros planteos de los amparistas. Rechazó ordenar al Gobierno presentar los menús completos discriminados por edades y niveles educativos, al considerar que esa información debe tramitarse mediante los mecanismos de \nacceso a la información pública\n. También rechazó dictar una condena genérica sobre eventuales incumplimientos futuros, y señaló que cualquier controversia sobre la ejecución de la sentencia deberá plantearse oportunamente con \npruebas concretas\n.\n\nAunque la sentencia no cuestiona la licitación ni la contratación de \nTeknofood\n, deja fijado un criterio que podría tener consecuencias directas sobre los productos que integren los \ndesayunos y meriendas escolares\n. El mensaje del máximo tribunal provincial es claro: no alcanza con que los alimentos carezcan formalmente de sellos de advertencia. La Provincia deberá garantizar que la prestación alimentaria se ajuste efectivamente a los estándares de \nalimentación saludable\n exigidos por la legislación entrerriana.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "industria",
+      "transparencia",
+      "justicia",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-entre-rios-puso-tope-del-40-a-descuentos-por-prestamos-de-empleados",
+    "fuente": "LT15 Concordia",
+    "titulo": "Entre Ríos puso tope del 40% a descuentos por préstamos de empleados",
+    "fecha": "2026-09-24",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/entre-rios-puso-tope-del-40-a-descuentos-por-prestamos-de-empleados/",
+    "texto_original": "El crédito, que debería ser una salida, a veces se vuelve una trampa para quienes viven del sueldo. Por eso el \nGobierno de Entre Ríos\n presentó un programa de alivio financiero para \nempleados públicos y jubilados\n, con medidas que buscan ordenar préstamos, descuentos y deudas. La iniciativa se instrumenta a través de la \ntarjeta Sidecreer\n y fue presentada junto al secretario General de la Gobernación, \nMauricio Colello y Mariano Reyno Buch\n.\n\nEl gobernador \nFrigerio\n sostuvo que el programa cuenta «con medidas concretas para cuidar el salario y la capacidad económica de los empleados públicos y los jubilados de nuestra provincia». La frase no es decorativa: el mandatario reconoció que muchas veces la deuda y los descuentos se llevan una parte cada vez más grande del sueldo. Aun cuando \nEntre Ríos\n figura entre las provincias con menos sobreendeudamiento, el drama familiar no se mide en promedios.\n\nEl primer golpe de timón es un \ntope del 40 por ciento\n del haber para contraer cualquier préstamo personal o ayuda económica mediante código de descuento con entidades habilitadas por la provincia. Además, se creó un \ncódigo exclusivo de compra\n que permite descontar hasta el 30 por ciento del salario por consumos realizados con la tarjeta Sidecreer. La idea es simple: que el descuento no se coma el sueldo y que el trabajador sepa, antes de firmar, cuánto le van a descontar.\n\nEl segundo eje llega con plata: una nueva línea de adelanto de haberes a través de Sidecreer, con un cupo de hasta \n2.000 millones de pesos\n, devolución en hasta 12 meses y tasa nominal anual del 45 por ciento, presentada como una de las más bajas del mercado para este tipo de herramienta. En el tercer componente, el plan de refinanciamiento permite reordenar saldos de la tarjeta en hasta \n48 meses\n, con una tasa del 35 por ciento y un tope de cinco millones de pesos por usuario.\n\nEste refinanciamiento se suma al \nPlan de Alivio Financiero\n impulsado junto al \nBanco de Entre Ríos\n. El cuarto eje ordena la \nprelación de los descuentos\n sobre los recibos de haberes, para regularizar cómo impactan los distintos consumos y obligaciones, evitar prácticas abusivas y dar mayor previsibilidad a empleados y jubilados.\n\nEl presidente de Sidecreer, \nMariano Reyno Buch\n, explicó que la modalidad para gestionar los beneficios depende de la línea elegida. En el caso de los adelantos, dijo que se va a poder resolver vía la \naplicación de Sidecreer\n. La medida no resuelve todas las deudas de un día para el otro, pero sí intenta ponerle reglas claras a un mercado que, muchas veces, termina cobrando intereses sobre la angustia de una familia.\n\nLa otra pata del programa es educativa: desde el \nConsejo General de Educación\n se trabaja en incorporar \neducación financiera\n en las aulas. Frigerio la presentó como una necesidad de educar desde temprana edad y de manera creciente en esta materia. El Estado, en este esquema, no solo pone límites al endeudamiento y a las empresas que prestan; también intenta ayudar a sobrellevar una situación difícil para algunas familias y jubilados del sector público.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "comercio",
+      "impuestos",
+      "presupuesto",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-entre-rios-saldo-la-deuda-con-los-bomberos-voluntarios-y-anuncio-nuevas-medidas-para-estatales-y-jubilados",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Entre Ríos saldó la deuda con los bomberos voluntarios y anunció nuevas medidas para estatales y jubilados",
+    "fecha": "2026-09-24",
+    "link": "https://blancaciudadnoticias.com.ar/entre-rios-saldo-la-deuda-con-los-bomberos-voluntarios-y-anuncio-nuevas-medidas-para-estatales-y-jubilados/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nEl Gobierno de Entre Ríos aseguró que \ncanceló la deuda que mantenía con los bomberos voluntarios\n y anunció nuevas medidas vinculadas al financiamiento de empleados públicos y jubilados.\n\nLos anuncios fueron realizados luego de una nueva reunión de gabinete encabezada por el gobernador \nRogelio Frigerio\n.\n\nEl secretario general de la Gobernación, \nMauricio Colello\n, destacó que la actual gestión comenzó a cumplir con las obligaciones establecidas por la ley que regula el sistema de bomberos voluntarios.\n\nSegún explicó, esto incluye la \ncobertura de salud para los bomberos que no cuentan con obra social, los seguros de los vehículos de los cuarteles y el apoyo económico individual de carácter vitalicio\n.\n\nTambién se informó el cumplimiento de compromisos con la \nAsociación Mutual de Bomberos Voluntarios de Entre Ríos\n, el pago de pensiones correspondientes y el aporte de combustible a aquellos cuarteles que habían quedado pendientes por falta de documentación.\n\nCambios en Sidecreer para empleados públicos y jubilados\n\nDurante la reunión de gabinete también se analizaron las nuevas medidas vinculadas a la tarjeta estatal \nSidecreer\n.\n\nDe acuerdo con lo informado por Colello, se estableció que la \ncapacidad de endeudamiento de empleados públicos y jubilados será de hasta el 40% de sus ingresos\n, cuando anteriormente podía llegar al 80%.\n\nAdemás, se anunció un programa para \nrefinanciar las deudas existentes con Sidecreer\n, con una tasa informada del \n35% de interés\n, mientras que los nuevos créditos personales tendrán una tasa del \n45%\n.\n\nDesde el Gobierno provincial señalaron que la medida busca anticiparse a posibles dificultades de endeudamiento, pese a que, según Colello, Entre Ríos presenta actualmente una de las tasas de morosidad más bajas.\n\nAvanza el proyecto para terminar el Hospital de La Baxada\n\nOtro de los temas abordados fue la situación del \nHospital de La Baxada Dra. Teresa Ratto\n, en Paraná.\n\nColello confirmó que la Provincia ya cuenta con el \nproyecto ejecutivo para finalizar la obra\n y que se trabaja en obtener la no objeción del \nPAMI\n, requisito necesario para avanzar hacia el proceso de licitación.\n\nDesde el Gobierno provincial sostienen que la finalización del hospital permitirá ampliar y modificar la estructura del sistema sanitario de Paraná, su región y el resto de Entre Ríos.\n\nBCN Noticias — La información que muchos se olvidan de decir. Lo que nadie te cuenta.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "gobierno",
+      "presupuesto",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-la-pobreza-volvio-a-subir-y-alcanzo-al-323-de-los-argentinos-en-el-primer-semestre-de-2026",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "La pobreza volvió a subir y alcanzó al 32,3% de los argentinos en el primer semestre de 2026",
+    "fecha": "2026-09-24",
+    "link": "https://blancaciudadnoticias.com.ar/la-pobreza-volvio-a-subir-y-alcanzo-al-323-de-los-argentinos-en-el-primer-semestre-de-2026/",
+    "texto_original": "DIAMANTE – BCN NOTICIAS\n\nLa información que muchos se olvidan de decir\n\nLa pobreza volvió a aumentar en Argentina y alcanzó al \n32,3% de la población durante el primer semestre de 2026\n, según el informe difundido este jueves por el \nInstituto Nacional de Estadística y Censos (INDEC)\n.\n\nEl dato representa una suba de \n4,1 puntos porcentuales respecto del segundo semestre de 2025\n y de \n0,7 puntos frente al mismo período del año pasado\n.\n\nDe acuerdo con el relevamiento realizado por el INDEC en los 31 principales aglomerados urbanos del país, durante los primeros seis meses del año unas \n9,7 millones de personas\n quedaron por debajo de la línea de pobreza. La proyección sobre el total del territorio nacional lleva esa cifra a \nmás de 15 millones de argentinos\n.\n\nLa \nindigencia\n también registró un incremento. El indicador alcanzó el \n7,5%\n, con una suba de \n1,2 puntos porcentuales\n respecto del semestre anterior. En los aglomerados relevados, representa alrededor de \n2,2 millones de personas\n.\n\nLa diferencia entre ambos indicadores está determinada por la capacidad de los hogares para cubrir la \nCanasta Básica Alimentaria (CBA)\n y la \nCanasta Básica Total (CBT)\n.\n\nLa pobreza volvió a crecer después de varios semestres de descenso\n\nDesde el inicio de la gestión de \nJavier Milei\n, el nivel más alto de pobreza se registró durante el primer semestre de 2024, cuando llegó al \n52,9%\n.\n\nPosteriormente, el indicador comenzó a descender: \n38,1% en el segundo semestre de 2024, 31,6% en el primer semestre de 2025 y 28,2% en el segundo semestre de ese año\n.\n\nEl dato conocido este jueves marca un cambio en esa tendencia y vuelve a ubicar la pobreza por encima del 30%.\n\nEntre los factores mencionados en los análisis previos aparece el incremento de la \nCanasta Básica Total\n, que durante el período avanzó por encima de la evolución de los ingresos de determinados sectores.\n\nLos menores de 15 años, los más afectados\n\nEl informe del INDEC también mostró diferencias importantes según la edad.\n\nEl mayor nivel de pobreza se registró entre los \nniños y adolescentes de 0 a 14 años, con el 44,5%\n. Le siguieron las personas de \n15 a 29 años, con 36,9%\n; el grupo de \n30 a 64 años, con 28,8%\n; y los mayores de \n65 años, con 14,8%\n.\n\nPor regiones, el índice más elevado correspondió al \nNoreste argentino, con 41,5%\n, seguido por \nCuyo (36,7%)\n, \nGran Buenos Aires (32,1%)\n, \nNoroeste (31,5%)\n, \nregión Pampeana (30,3%)\n y \nPatagonia (28,4%)\n.\n\nTras conocerse las cifras, el ministro de Economía, \nLuis Caputo\n, señaló que tanto la pobreza como la indigencia aumentaron respecto del semestre anterior, aunque remarcó que los indicadores continúan por debajo de los niveles registrados durante el primer semestre de 2024.\n\nBCN Noticias — La información que muchos se olvidan de decir. Lo que nadie te cuenta.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-rossi-se-realizo-el-examen-toxicologico-y-dio-negativo-para-todas-las-sustancias-analizadas",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Rossi se realizó el examen toxicológico y dio negativo para todas las sustancias analizadas",
+    "fecha": "2026-09-24",
+    "link": "https://eldiadegualeguay.com/rossi-se-realizo-el-examen-toxicologico-y-dio-negativo-para-todas-las-sustancias-analizadas/",
+    "texto_original": "El diputado provincial Juan Manuel Rossi hizo público el resultado del estudio que había anunciado tras las acusaciones difundidas en redes sociales. El análisis dio negativo para cocaína y para todas las demás sustancias evaluadas. “No todo vale en política”, afirmó.\n\nLuego de las acusaciones que circularon en redes sociales sobre un supuesto consumo de drogas, el diputado provincial Juan Manuel Rossi cumplió con lo que había anunciado públicamente y se realizó un examen toxicológico.\n\nEl estudio fue realizado este miércoles 23 de septiembre en el Laboratorio del Este mediante un screening de drogas de abuso. El resultado fue negativo para cocaína, anfetaminas, marihuana, metadona, éxtasis, morfina y opiáceos, feniciclidina, barbitúricos, benzodiacepinas y antidepresivos tricíclicos. El informe también consigna que la muestra fue obtenida en presencia del bioquímico.\n\n“Para mí en política no vale todo. No me drogo ni me estaba drogando en la sesión. Con esta campaña sucia lo que buscan es desprestigiarme a mí y al gobierno provincial. Yo dije públicamente que me iba a hacer un examen toxicológico, fui, me lo hice y acá están los resultados: negativo para todas las sustancias analizadas”, sostuvo Rossi.\n\nAhora le toca a los dirigentes del PJ entrerriano explicar los contratos truchos de la Legislatura, la investigación sobre el patrimonio de Bordet, la condena por corrupción de Urribarri y los millones que investiga la Justicia en la causa SIRA.\n\nYo hice lo que dije que iba a… \npic.twitter.com/Fp1isorgeq\n\n— Juan Manuel Rossi (@juanrossips) \nSeptember 23, 2026\n\nEl legislador había rechazado previamente las acusaciones y atribuido la difusión del contenido a lo que definió como una “operación” de sectores ligados al PJ-kirchnerista. También había mencionado que no era casual que esta campaña sucia saliera justo ahora, cuando había cobrado protagonismo con distintas causas vinculadas a la malversación de fondos públicos durante los gobiernos de Urribarri y Bordet.\n\n“Con el test negativo yo ya rendí cuentas. Ahora invito a los dirigentes del PJ que impulsaron estas acusaciones a que hagan lo mismo: que se realicen el mismo examen toxicológico y hagan públicos sus resultados. Y, además, que den explicaciones por los hechos de corrupción que involucraron a sus gobiernos y dirigentes: que expliquen a los entrerrianos dónde está la plata de los contratos truchos del Senado, dónde está el dinero de los exfuncionarios y dirigentes condenados por corrupción, qué pasó con los millones de la causa SIRA y, por qué no, que devuelvan la plata que le robaron a los entrerrianos”, expresó Rossi.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:59:59Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "comercio",
+      "servicios_publicos",
+      "gobierno",
+      "legislatura",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-r2820-gn-cea901e94c6b",
+    "fuente": "R2820",
+    "titulo": "Un nuevo espacio busca renovar al peronismo de Gualeguaychú",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXJEWG5yb0dyc3FkZ2k5eDIzdzE0UUtUbzZiNk92X3lhNkljbXFrQ3Y1TUVVc3J2ZkF3X1E5enNWTGtkYzR6b1JCWHpYRG1nZFRIcFNacmFhUDJKZVh1bURMWmgyNE5RNXIzVVpodU9xcF9LZEkyelZtclVrdzJ6bnF0OVJqaDRlM3BEbWkzM0tZem1iTUFZdExTOVYwY1N5UjNzc0l3RENjcTlB0gGyAUFVX3lxTE9NZXlpeDRxb29Ma0x1SXg0bG5fVzU0cE9jSmUxY3JrXzBlbzBFekxmeDRSMTNSMldGS0tqUVZ6VC1KdlBEaVVSZ2VTWWlpMUltTkRkMU5RZkRVeVEtVVBwdlRhX19WSHYxMHdEdlRySkM3ZGZXb1BKYlFmVkI4blF3bm5ZOS03RGxzMENCdUV3c21vMlhSajJTNjRqVnlMSmRFNzBXTHNXNjgtMzZ1QnZqUEE?oc=5",
+    "texto_original": "Un nuevo espacio busca renovar al peronismo de Gualeguaychú\n  \nR2820",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-el-superior-tribunal-ratifico-que-el-estado-debe-garantizar-menus-escolares-saludables",
+    "fuente": "El Día Online",
+    "titulo": "El Superior Tribunal ratificó que el Estado debe garantizar menús escolares saludables",
+    "fecha": "2026-09-24",
+    "link": "https://www.eldiaonline.com/el-superior-tribunal-ratifico-que-el-estado-debe-garantizar-menus-escolares-saludables",
+    "texto_original": "El Superior Tribunal de Justicia de Entre Ríos resolvió hacer lugar parcialmente al recurso de apelación presentado en el marco de una Acción de Amparo promovida por un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (AGMER) y la Fundación CAUCE, vinculada con la prestación alimentaria en establecimientos educativos dependientes del Consejo General de Educación.\n\nEl STJ orecisó que la obligación estatal comprende tanto la exclusión de productos alcanzados por sellos de advertencia como el cumplimiento de los estándares de alimentación saludable establecidos por la normativa provincial.\n\nEl Tribunal integrado por las vocales Susana Medina, Claudia Mizawak y el vocal Leonardo Portela precisó el alcance de la condena establecida en primera instancia y señaló que la obligación del Estado provincial no se agota en la exclusión de productos alcanzados por el artículo 12 de la Ley Nacional Nº 27.642, sino que comprende también el deber de ajustar la prestación alimentaria escolar a los estándares de alimentación saludable previstos por la Ley Provincial Nº 10.594.\n\nAsimismo, advirtieron que reducir el mandato a una mera revisión de etiquetas habilitaría cambios o supresiones de rotulado sin modificar la composición real de los alimentos, vulnerando la tutela reforzada de los derechos a la salud de niños, niñas y adolescentes.\n\nEn la sentencia, el tribunal aclaró que el control judicial sobre el cumplimiento de estos pisos legales de salud pública no significa sustituir al Poder Ejecutivo en la determinación técnica de los medios concretos ni en la gestión de las contrataciones administrativas.\n\nPor último, el Superior Tribunal desestimó los pedidos de información pública adicional e intimaciones sobre hipotéticos incumplimientos futuros, indicando que estos canales deben tramitarse por la vía de acceso a la información pública (Ley N.º 11191) o en la etapa de ejecución de sentencia ante casos concretos que así lo acrediten.\n\nFuente: Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "transparencia",
+      "gobierno",
+      "justicia",
+      "educacion",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-este-viernes-se-realizara-la-eleccion-de-la-reina-del-desfile-de-carrozas-estudiantiles-2026",
+    "fuente": "El Día Online",
+    "titulo": "Este viernes se realizará la Elección de la Reina del Desfile de Carrozas Estudiantiles 2026",
+    "fecha": "2026-09-24",
+    "link": "https://www.eldiaonline.com/este-viernes-se-realizara-la-eleccion-de-la-reina-del-desfile-de-carrozas-estudiantiles-2026",
+    "texto_original": "Este viernes a las 21 horas tendrá lugar en el Teatro del Puerto la Elección de la Reina de la Edición 2026 de la Fiesta Nacional de Carrozas Estudiantiles de Gualeguaychú; un evento que ya es tradición a lo largo de su historia de 67 años. \n\nAsí lo informaron desde la comisión organizadora del Desfile, indicando que el costo de la entrada es de $ 5.000 y que la fiesta estará acompañada por la presencia de la batucada Sonido de Parche, de Leo Stefani. A su vez, confirmaron que los jurados para evaluar a las candidatas serán Mauro Basaldúa (Profesor de teatro de UADER y Licenciado en Artes de UNSAM), Erika Jozami (maquilladora profesional con más de 10 años de trayectoria en el mundo de la belleza y la estética), Mary Ann Morrison (Reina de Turismo de Gualeguaychú 2016 y actual Reina del Carnaval del País) y Sebastián Benedetti (más de 20 años de trayectoria en el maquillaje, el diseño y la realización de vestuario).\n\nSon 21 las jóvenes estudiantes que representan a las distintas carrozas y participan para erigirse como soberana de la nueva edición:\n\n1       Emma Vivas                                      Instituto Nuestra Señora de Guadalupe   5° A\n\n2       Abril Garcia                                     Escuela Normal Superior Olegario Víctor Andrade 5° 3ª\n\n3        Emma Minotto                  Colegio Las Victorias      5°\n\n4        Luisina Giglio                  Instituto Secundario Sirio Libanés       5°\n\n5        María Pía Farabello                   Instituto Nuestra Señora de Guadalupe   5° B\n\n6        Yamila Nahiara Zimmermann Alteño   Instituto Fernando Elgue D-221           5° U\n\n7        Maia Valentina Velázquez          Escuela Normal Superior Olegario Víctor Andrade      6°\n\n8        Catalina Osorio                    Escuela Normal Superior Olegario Víctor Andrade       5° 4ª\n\n9        Bianca Sanchez                  Colegio S. Mosto           6° A y B\n\n10      Joaquina Rébora               Instituto    XII        5° A\n\n15      Bianca Trocello                  Instituto Pío XII     5° B\n\n16      Angelina Capandeguy     Instituto Secundario Sirio Libanés      6°\n\n17      Dulce Joselin Godoy       Instituto Agrotécnico D-71         7°\n\n18      Marianela Folmer                 Colegio Luis Clavarino           5° 2ª\n\n19      Angelina Berenyi             Instituto Luis María Bettendorff           5°\n\n20      Luz Suarez                               Instituto Defensores del Oeste      5°\n\n21      Morena Lima                      EET N°3 15 de noviembre        \n\nPor otro lado, este miércoles 23 de septiembre, en el Instituto \"Sedes Sapientiae\", se llevó a cabo la elección del eslogan para la 67ª edición de la Fiesta Nacional del Desfile de Carrozas Estudiantiles 2026.\n\nEl eslogan seleccionado para identificar el desfile 2026 es: \"Cuando la juventud crea, Gualeguaychú se transforma: carrozas estudiantiles 2026\". Su creadora es Anahí Navarro, quien participó con el seudónimo \"Plumas\" y pertenece a 5° B del Instituto \"Nuestra Señora de Guadalupe\".\n\nLa ganadora recibirá su reconocimiento este viernes durante la fiesta de la Elección de la Reina de Carrozas 2026.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "servicios_publicos",
+      "elecciones",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-aparecio-el-cura-cesar-schmidt-acusado-del-intento-de-homicidio-de-un-nino-en-entre-rios",
+    "fuente": "El Día Online",
+    "titulo": "Apareció el cura César Schmidt, acusado del intento de homicidio de un niño en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://www.eldiaonline.com/aparecio-el-cura-cesar-schmidt-acusado-del-intento-de-homicidio-de-un-nino-en-entre-rios",
+    "texto_original": "El cura César Schmidt se presentó este jueves ante la Justicia en Paraná, en el marco de la causa que lo investiga por el intento de homicidio contra un niño de 12 años.\n\nSe trata del caso de Esteban Bogado, el pequeño que sufrió una electrocución en el ingreso de la vivienda del sacerdote, que había conectado una malla sima a 220 V.\n\nSegún la Fiscalía, a cargo de Patricia Yedro, pide la elevación de la causa a juicio y se adelantó que solicitarán una pena de 6 años y medio de prisión para el sacerdote.\n\n“Esta es una etapa de depuración de evidencias, para que el juez decida si la causa se puede llevar a un juicio oral y público o no”, explicó a Canal 9 Litoral Leopoldo Cappa, abogado querellante en representación de la víctima.\n\n“Lo que planteó la defensa, con un vestigio de dilatar la situación a criterio de este querellante, es que el padre César Schmidt es inimputable, que padece algunos problemas psiquiátricos que no le permitieron comprender la criminalidad del acto que estaba cometiendo cuando electrificó la cerca”, relató.\n\nEl sacerdote, entonces, deberá afrontar una pericia con un psiquiatra forense designado por el Poder Judicial. “Desde ya, sin ser un especialista en salud mental, puedo adelantar que esa pericia va a determinar que es imputable. Llegado al juicio se le va a establecer una pena de seis años y seis meses de prisión”, dijo Cappa.\n\nPara el abogado, el sacerdote era plenamente consciente de sus actos, ya que “el día del hecho se presentó en el domicilio y testeó el portón de ingreso si no estaba electrificado para poder ingresar”. Además, sostuvo también que “hasta el día del hecho estaba brindando misa, consagrando la eucaristía, sin ningún impedimento”.\nCésar Schmidt, el sacerdote que electrificó su casa\nEl hecho ocurrió el 7 de marzo, alrededor de las 13, en el domicilio de Schmidt ubicado en calle Lamadrid 2145, en Paraná. Según la reconstrucción fiscal, el sacerdote instaló una conexión precaria desde un tomacorriente del interior de su vivienda hacia una “malla sima” (tejido metálico) en el perímetro de su propiedad.\n\nEl riesgo se materializó cuando el niño intentó trasponer el tapial para rescatar una pelota que había caído al patio del imputado. Al entrar en contacto con el tejido, el menor recibió una fuerte descarga eléctrica que le ocasionó lesiones de extrema gravedad.\n\nEl informe médico de la División Pericias Médicas Policiales y las declaraciones de las pediatras del Hospital San Roque detallan que el niño sufrió quemaduras en la pierna izquierda, el muslo, la región inguinal, la palma de la mano izquierda y la zona temporal derecha, permaneciendo bajo sedación en la Unidad de Terapia Intensiva tras el incidente.\n\nLa fiscalía sostiene que la materialidad del hecho está acreditada mediante informes de la empresa de energía Enersa, que confirmó que la conexión era una instalación propia de la vivienda y no una falla de la red pública, calificándola como una “fuente permanente de energía altamente riesgosa y apta para producir la muerte”.\n\nUno de los puntos más contundentes del requerimiento fiscal es la determinación de la pena. El Ministerio Público Fiscal solicitó una condena de seis años y seis meses de prisión de cumplimiento efectivo.\n\nYedro subrayó como agravante la condición de sacerdote de Schmidt. Para la fiscalía, su investidura religiosa implica una “expectativa social de comportamiento ejemplar y de especial protección hacia el prójimo”.\n\nEl documento judicial al que accedió Cuestión de Fondo señala que, al instalar una trampa letal que podía afectar a cualquier transeúnte, el imputado actuó en flagrante contradicción con los valores que su ministerio representa, incrementando el “disvalor de su acción”.\n\nActualmente, Schmidt de 66 años, se encuentra domiciliado en la Residencia Sacerdotal “El Buen Pastor”. Durante el proceso se abstuvo de declarar. Ahora, será el Juez de Garantías, Eduardo Ruhl, quien deberá decidir la elevación de la causa a debate oral y público.\n\nFuente: Ahora / Canal 9",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos",
+      "servicios_publicos",
+      "justicia",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-la-prensa-federal-?utm_source=rss&utm_medium=rss&utm_campaign=el-stj-preciso-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares",
+    "fuente": "La Prensa Federal",
+    "titulo": "El STJ precisó que el Estado debe garantizar la alimentación saludable en comedores escolares",
+    "fecha": "2026-09-24",
+    "link": "https://www.laprensafederal.com.ar/el-stj-preciso-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares/?utm_source=rss&utm_medium=rss&utm_campaign=el-stj-preciso-que-el-estado-debe-garantizar-la-alimentacion-saludable-en-comedores-escolares",
+    "texto_original": "El Superior Tribunal de Justicia de Entre Ríos resolvió hacer lugar parcialmente al recurso de apelación presentado en el marco de una acción de amparo promovida por un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (AGMER) y la Fundación CAUCE, vinculada con la prestación alimentaria en establecimientos educativos dependientes del Consejo General de Educación.\n\nPrecisó que la obligación estatal comprende tanto la exclusión de productos alcanzados por sellos de advertencia como el cumplimiento de los estándares de alimentación saludable establecidos por la normativa provincial.\n\nEl Tribunal integrado por las vocales Susana Medina, Claudia Mizawak y el vocal Leonardo Portela precisó el alcance de la condena establecida en primera instancia y señaló que la obligación del Estado provincial no se agota en la exclusión de productos alcanzados por el artículo 12 de la Ley Nacional Nº 27.642, sino que comprende también el deber de ajustar la prestación alimentaria escolar a los estándares de alimentación saludable previstos por la Ley Provincial Nº 10.594.\nLa sentencia destacó que el cumplimiento de ese estándar no implica que el Poder Judicial sustituya al Poder Ejecutivo en la determinación de los medios técnicos u organizativos necesarios para alcanzarlo.\n\n24 de septiembre de 2026\n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-frigerio-anuncio-creditos-y-un-plan-para-aliviar-deudas-de-estatales-y-jubilados",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "Frigerio anunció créditos y un plan para aliviar deudas de estatales y jubilados",
+    "fecha": "2026-09-24",
+    "link": "https://diariovictoria.com.ar/frigerio-anuncio-creditos-y-un-plan-para-aliviar-deudas-de-estatales-y-jubilados/",
+    "texto_original": "La provincia fijará un límite a los préstamos descontados del sueldo, ofrecerá adelantos a través de Sidecreer y permitirá refinanciar saldos de la tarjeta. El anuncio llega en un contexto de creciente morosidad en el país, que también alcanza con fuerza a los jóvenes.\n\n \n\nEl gobernador Rogelio Frigerio presentó este jueves un programa dirigido a empleados públicos y jubilados de Entre Ríos que busca reducir el peso de las deudas sobre sus ingresos. Lo acompañaron el secretario general de la Gobernación, Mauricio Colello, y el presidente de Sidecreer, Mariano Reyno Buch.\n\n«Muchas veces el crédito, que debería ser una solución, termina transformándose en un problema», señaló Frigerio. Según explicó, esto ocurre cuando las cuotas y los descuentos absorben una porción cada vez mayor del salario o la jubilación.\n\nLa preocupación tiene un contexto nacional. De acuerdo con el Banco Central, en junio de 2026 el \n12,8% del crédito bancario a las familias estaba en situación de mora\n. El problema era aún más marcado entre los proveedores no financieros de crédito: en febrero, el \n26,9% de su cartera presentaba irregularidades\n, porcentaje que llegaba al \n34,1% en los préstamos personales\n. Son indicadores sobre montos prestados, no porcentajes de personas endeudadas, y corresponden a distintos períodos.\n\nEl endeudamiento juvenil merece especial atención. El acceso inmediato a préstamos desde aplicaciones y billeteras digitales facilita resolver un gasto urgente, pero también puede llevar a encadenar cuotas cuya carga total no siempre resulta clara al momento de solicitarlas. La situación afecta a jóvenes que recién comienzan su vida laboral y tienen ingresos inestables. Un relevamiento citado por Associated Press ubicó en \n37,6% la morosidad entre los deudores menores de 25 años\n; se trata de una cifra nacional, que no describe específicamente a Entre Ríos ni a los beneficiarios de este programa.\n\nFrigerio sostuvo que, aunque la provincia presenta menos problemas de sobreendeudamiento que otras jurisdicciones, cada familia afectada atraviesa una dificultad concreta. También anunció que el Consejo General de Educación trabaja para incorporar educación financiera en las aulas.\n\nQué medidas se anunciaron\n\nLa provincia establecerá un \nlímite del 40% del haber\n para préstamos personales y ayudas económicas que se descuenten mediante los códigos habilitados. Además, creará un código específico para compras con Sidecreer, con un tope de descuento del \n30% del salario\n.\n\nSidecreer ofrecerá una línea de adelanto de haberes con un cupo total de \n$2.000 millones\n, devolución de hasta \n12 meses\n y una \ntasa nominal anual del 45%\n. La Provincia la presentó como una de las tasas más bajas del mercado para este tipo de financiación.\n\nTambién se habilitará la refinanciación de saldos de la tarjeta Sidecreer por hasta \n$5 millones por usuario\n, con un plazo máximo de \n48 meses\n y una tasa anunciada del \n35%\n. Esta opción se sumará al plan de alivio financiero instrumentado junto al Banco de Entre Ríos. Antes de adherir, será importante conocer el costo financiero total, el valor de cada cuota y la suma final a pagar.\n\nPor último, el Gobierno modificará el orden en que se aplican los descuentos sobre los recibos de haberes, con el propósito de dar mayor previsibilidad a trabajadores y jubilados.\n\nSegún explicó Reyno Buch, los adelantos podrán solicitarse íntegramente desde la aplicación de Sidecreer. Quienes quieran refinanciar una deuda podrán iniciar la consulta en una sucursal, por correo electrónico o WhatsApp, aunque deberán concurrir presencialmente para evaluar su situación particular. Los empleados públicos y jubilados que todavía no tengan la tarjeta podrán adherirse en los locales de Sidecreer o mediante Mi Entre Ríos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:13Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo",
+      "presupuesto",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diariovictoria-el-stj-de-entre-rios-ratifico-que-el-estado-debe-garantizar-menus-escolares-sanos",
+    "fuente": "DiarioVictoria.com.ar",
+    "titulo": "El STJ de Entre Ríos ratificó que el Estado debe garantizar menús escolares sanos",
+    "fecha": "2026-09-24",
+    "link": "https://diariovictoria.com.ar/el-stj-de-entre-rios-ratifico-que-el-estado-debe-garantizar-menus-escolares-sanos/",
+    "texto_original": "La sentencia amplió la obligación: no basta con excluir productos con sellos, hay que cumplir estándares provinciales.\n\nEste lunes se acreditan los fondos de comedores\n\nEl Superior Tribunal de Justicia de Entre Ríos \nresolvió hacer lugar parcialmente al recurso de apelación \npresentado en el marco de una \nAcción de Amparo \npromovida por un grupo de padres, la Asociación Gremial del Magisterio de Entre Ríos (AGMER) y la Fundación CAUCE, vinculada con la prestación alimentaria en establecimientos educativos dependientes del Consejo General de Educación.\n\nPrecisó que \nla obligación estatal comprende tanto la exclusión de productos alcanzados por sellos de advertencia \ncomo el cumplimiento de los estándares de alimentación saludable establecidos por la normativa provincial.\n\nEl Tribunal integrado por las \nvocales Susana Medina, Claudia Mizawak y el vocal Leonardo Portela \nprecisó el alcance de la condena establecida en primera instancia y señaló que la obligación del Estado provincial no se agota en la exclusión de productos alcanzados por el artículo 12 de la Ley Nacional Nº 27.642, sino que comprende también el deber de ajustar la prestación alimentaria escolar a los estándares de alimentación saludable previstos por la Ley Provincial Nº 10.594.\n\nLa sentencia destacó que \nel cumplimiento de ese estándar no implica que el Poder Judicial sustituya al Poder Ejecutivo en la determinación de los medios técnicos u organizativos necesarios para alcanzarlo",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:13Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno",
+      "justicia",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-parana-lanzo-un-nuevo-sello-para-reconocer-proyectos-de-innovacion-tecnologica",
+    "fuente": "Paralelo32",
+    "titulo": "Paraná lanzó un nuevo sello para reconocer proyectos de innovación tecnológica",
+    "fecha": "2026-09-24",
+    "link": "https://www.paralelo32.com.ar/parana-lanzo-un-nuevo-sello-para-reconocer-proyectos-de-innovacion-tecnologica",
+    "texto_original": "En el marco del eje “Paraná Ciudad Inteligente”, Marca Paraná presentó el Sello de Distinción en Innovación Tecnológica, una nueva iniciativa destinada a reconocer proyectos y organizaciones que aportan soluciones vinculadas con la ciencia, la tecnología y la transformación digital.\n\nLa convocatoria está dirigida a organizaciones que desarrollen sus actividades en la ciudad de Paraná y ya se encuentra abierta, con inscripción gratuita.\nQué busca reconocer el nuevo sello\nLa distinción apunta a identificar proyectos que generen valor e impacto a partir del uso estratégico de la tecnología y el conocimiento.\n\nLa propuesta busca fortalecer el perfil de Paraná como una ciudad vinculada con la innovación, la modernización y el desarrollo tecnológico. La iniciativa toma como referencia el funcionamiento del Sello Verde, utilizado para identificar prácticas sostenibles en la ciudad.\nQuiénes pueden postularse\nLa convocatoria es pública y está destinada a distintos tipos de organizaciones que operen en Paraná. Pueden participar:\nEmpresas, startups y emprendimientos tecnológicos.Industrias y PyMEs innovadoras.Universidades, centros de investigación e instituciones educativas.Cooperativas, organizaciones sociales y proyectos colaborativos.Cuatro áreas de innovación\nLos proyectos serán evaluados por un jurado técnico e interdisciplinario integrado por referentes de los ámbitos público, privado, académico y científico.\n\nLa convocatoria contempla distintas dimensiones de innovación:\n\nTransformación digital: incluye automatización, Inteligencia Artificial, Ciencia de Datos, Internet de las Cosas (IoT) e Industria 4.0.\n\nInnovación en productos y servicios: contempla nuevas soluciones, patentes y modelos de negocio.\n\nInnovación pública, social y ambiental: abarca iniciativas de gobierno digital, inclusión y accesibilidad digital, eficiencia energética, movilidad inteligente y economía circular.\n\nEcosistema, vinculación y talento: considera proyectos de transferencia tecnológica, redes de colaboración y desarrollo del talento local.\nQué reciben las organizaciones distinguidas\nLas organizaciones seleccionadas podrán utilizar institucionalmente el Sello de Distinción en Innovación Tecnológica en sus sitios web, dossiers, empaques y presentaciones comerciales.\n\nAdemás, recibirán un certificado oficial y una placa de reconocimiento, y tendrán difusión a través de los canales de comunicación de Marca Paraná.\n\nTambién podrán ser presentadas como casos de éxito y tendrán prioridad e integración en actividades vinculadas con el ecosistema tecnológico e innovador de la ciudad.\nCómo inscribirse\nLa convocatoria se encuentra abierta y la postulación no tiene costo.\n\nLas organizaciones interesadas pueden completar el formulario digital de inscripción:\n\nFormulario de inscripción al Sello de Distinción en Innovación Tecnológica\n\nTambién se puede consultar información sobre la convocatoria en:\n\nMunicipalidad de Paraná – Convocatorias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "industria",
+      "comercio",
+      "municipios",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-estudiantes-de-santa-elena-fabricaron-un-andador-para-una-persona-mayor",
+    "fuente": "Paralelo32",
+    "titulo": "Estudiantes de Santa Elena fabricaron un andador para una persona mayor",
+    "fecha": "2026-09-24",
+    "link": "https://www.paralelo32.com.ar/estudiantes-de-santa-elena-fabricaron-un-andador-para-una-persona-mayor",
+    "texto_original": "Una necesidad de la comunidad se convirtió en un proyecto de formación para estudiantes de séptimo año del Instituto Privado de Educación Técnica D-67 Fernando Torres Vilches, de Santa Elena, departamento La Paz.\n\nEn el marco de sus Prácticas Profesionalizantes, los jóvenes diseñaron y fabricaron un andador de marcha y bipedestación con soporte axilar y pélvico, destinado a una persona adulta de la localidad.\n\nEl proyecto permitió trasladar al taller conocimientos que los estudiantes habían incorporado durante su formación técnica y aplicarlos a una situación concreta.\nDel aula a una necesidad real\nEl trabajo comenzó con el análisis de los requerimientos del dispositivo y de las condiciones de uso planteadas por su destinatario. A partir de esa información, los estudiantes planificaron las distintas etapas, seleccionaron materiales y desarrollaron una solución funcional.\n\nEl proceso incluyó dibujo técnico, cálculo de estructuras, resistencia de materiales, procesos de fabricación, soldadura, ergonomía y seguridad e higiene.\n\nTambién realizaron cálculos y definieron medidas antropométricas antes de avanzar con la construcción del andador. Una vez fabricado, el dispositivo fue sometido a distintas instancias de prueba y evaluación.\nAprender resolviendo problemas\nLa experiencia permitió que los contenidos trabajados en las aulas y el taller fueran aplicados a un problema concreto, al tiempo que los estudiantes desarrollaron herramientas vinculadas con la toma de decisiones y la resolución de problemas.\n\nLas y los docentes tutores acompañaron las diferentes etapas del proyecto, orientando y supervisando el trabajo. Por su parte, la persona que utilizará el andador aportó información sobre sus necesidades y las características que debía reunir el dispositivo.\nFormación técnica con impacto comunitario\nLa directora de Educación de Gestión Privada del Consejo General de Educación (CGE), Judith Trembecki, destacó el vínculo generado entre la formación técnica y la comunidad.\n\n“Lo que se presentaba como un obstáculo para una persona, fue transformado con orientación y atención al otro, en una oportunidad para el crecimiento de la comunidad educativa”, señaló.\n\nTrembecki también valoró las iniciativas que permiten contextualizar los aprendizajes a partir de necesidades concretas.\n\nAdemás de los conocimientos técnicos, el proyecto involucró aspectos vinculados con el trabajo colaborativo, la responsabilidad, la comunicación, la sensibilidad social y la ética profesional.\n\nDe esta manera, las Prácticas Profesionalizantes se convirtieron en una experiencia en la que los estudiantes pudieron aplicar herramientas de su formación para desarrollar una respuesta concreta a una necesidad de su comunidad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T21:00:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "impuestos",
+      "construccion",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "santa elena",
+      "la paz"
+    ]
   }
 ]
