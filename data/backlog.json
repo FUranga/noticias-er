@@ -83623,5 +83623,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-rus-realizo-sus-asambleas-distritales-2026",
+    "fuente": "río uruguay seguros",
+    "titulo": "RUS realizó sus Asambleas Distritales 2026",
+    "fecha": "2026-09-24",
+    "link": "https://riouruguayseguros.com/site/rus-realizo-sus-asambleas-distritales-2026/",
+    "texto_original": "WhatsApp Image 2026-09-22 at 20.58.14",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-24T15:39:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
