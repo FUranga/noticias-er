@@ -87203,5 +87203,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "boletinnac-347953",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial",
+    "fecha": "2026-09-24",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/347953/20260924",
+    "texto_original": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial Fecha de Publicacion: 24/09/2026 2026, a las 10:00 horas, en el asiento de la Jefatura de Agrupación V “ ENTRE RÍOS ”, para llevar a cabo la audiencia en la que se recibirá su declaración...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-24T20:16:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
