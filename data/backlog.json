@@ -94417,5 +94417,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-osde-autoriz%C3%A1-tus-%C3%B3rdenes-por-whatsapp-r%C3%A1pido-simple-y-en-todo-el-pa%C3%ADs",
+    "fuente": "osde",
+    "titulo": "Autorizá tus órdenes por WhatsApp: rápido, simple y en todo el país",
+    "fecha": "2026-09-25",
+    "link": "https://www.osde.com.ar/novedades/autoriz%C3%A1-tus-%C3%B3rdenes-por-whatsapp-r%C3%A1pido-simple-y-en-todo-el-pa%C3%ADs",
+    "texto_original": "En \n\nOSDE\n\n seguimos trabajando para darte respuestas ágiles y soluciones que simplifiquen tu día a día. Compartimos una importante novedad pensada para acompañar tu bienestar con la cercanía y tecnología que buscás.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-25T19:48:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
