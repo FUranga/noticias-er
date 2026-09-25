@@ -94459,5 +94459,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "iapv-3330",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "Son 19 las viviendas que el IAPV tiene en marcha en Nogoyá",
+    "fecha": "2026-09-25",
+    "link": "https://iapv.gob.ar/seccion/noticias/3330/son-19-las-viviendas-que-el-iapv-tiene-en-marcha-e",
+    "texto_original": "Así lo informó el presidente del organismo, Manuel Schönhals, tras recorrer la obra junto al intendente local, Bernardo Schneider.\nEl funcionario señaló que \"hemos tenido una importante jornada de trabajo, cumpliendo con el pedido del gobernador Rogelio Frigerio de recorrer cada obra que se ejecuta en el territorio provincial\".\nAsimismo, destacó que \"desde la gestión provincial trabajamos para garantizar el acceso a la casa propia para más familias. Construir viviendas no solo satisface una necesidad básica, sino que también impulsa un proceso productivo que genera empleo y dinamiza diversos sectores vinculados a la construcción\".\nDetalle de la obra\nLa empresa constructora Verco S.A. lleva adelante los trabajos, con un presupuesto superior a los 1.800 millones de pesos y un plazo de ejecución de 15 meses corridos.\nEl grupo habitacional contempla la construcción de 19 viviendas de dos dormitorios, una de ellas adaptada para situaciones especiales. Las unidades cuentan además con estar, cocina-comedor, baño y lavadero semicubierto.\nLa construcción de este conjunto habitacional permitirá dar respuesta a la demanda habitacional de la localidad y brindar a las familias adjudicatarias viviendas adecuadas a sus necesidades.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T20:27:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "iapv-3329",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "Funcionarios del IAPV participaron de la reunión de gabinete",
+    "fecha": "2026-09-25",
+    "link": "https://iapv.gob.ar/seccion/noticias/3329/funcionarios-del-iapv-participaron-de-la-reunion-d",
+    "texto_original": "Acompañado por el vicepresidente, Pablo Omarini, el funcionario hizo referencia a la construcción de unidades habitacionales en diversas localidades, las líneas de lotes con servicios e infraestructura, el desarrollo de los créditos hipotecarios Raíces para la construcción y ampliación de viviendas y el convenio entre el IAPV y el Banco Entre Ríos, que permitirá subsidiar dos puntos de la tasa de interés en créditos hipotecarios destinados a la compra de vivienda única.\nTambién se informó sobre las escrituraciones, cancelaciones y planes de pago, la mejora en la recaudación y el crecimiento del Fondo Nacional de la Vivienda (FONAVI), cuyos recursos son destinados íntegramente a la ejecución de nuevas viviendas.\nAdemás, se comenzó a implementar un nuevo sistema de adjudicación de viviendas, que permite que los aspirantes incluidos en el padrón de beneficiarios puedan acceder a una unidad habitacional mediante una oferta económica, como alternativa al tradicional sistema de sorteo.\nSchönhals hizo hincapié en el “compromiso permanente de la gestión provincial, junto a los gobiernos locales, de seguir construyendo más viviendas, para que cada vez más entrerrianos sean beneficiados y puedan cumplir con el sueño de tener una vivienda digna”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T20:27:13Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
