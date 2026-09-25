@@ -88979,5 +88979,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-concurso-nivel-primario-d-d-e-islas-del-ibicuy-91",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Concurso Nivel Primario. D.D.E.Islas del Ibicuy.",
+    "fecha": "2026-09-24",
+    "link": "https://cge.entrerios.gov.ar/2026/09/concurso-nivel-primario-d-d-e-islas-del-ibicuy-91/",
+    "texto_original": "Concurso Nivel Inicial, Primario y sus Modalidades. D.D.E.Islas del Ibicuy.\n\nLa Dirección Departamental de Escuelas Islas de Ibicuy, convoca a Concurso de Suplencias de Nivel Inicial, Primario y sus Modalidades, según Acuerdo Paritario/Reglamento de Concursos Resolución Ministerial Nº 783/12 M.T. (Res. 1000/13 CGE) – Resolución Nº 0691/21 CGE – Resolución 1382/23 CGE – De Director/Vicedirector Resolución Nº 1200/22 C.G.E. y modificatorias – Circular 1/26 JC – Listado Definitivo de Suplencias vigentes: Listado de Suplencias de Ascenso Nº 188 Actualizado y el Listado de Suplencias de Ingreso Nº 188. El mismo se realizará en esta Departamental en calle Los Cipreses Nº 1012 Villa Paranacito, el día lunes 28 de septiembre las 08:00 hs.\n\nConsideraciones para tener en cuenta:\n\n-Para adjudicar un cargo el/la docente deberá presentar DNI (vale la App. Mi Argentina), si en su lugar envía representante, éste deberá acreditar su identidad con DNI físico en mano y estar acompañado con la nota poder pertinente al concurso de la fecha y con copias de DNI del docente aspirante. En dicha nota poder, el aspirante deberá manifestar su voluntad a concursar por un cargo de una escuela en particular, en orden de prioridades o por todos los cargos que surjan.\n\n-Al empezar cada instancia se procederá con el listado prioritario y oficial. Se reiniciará tantas veces como sea necesario hasta que no queden aspirantes del mismo. Luego se pasará al listado complementario.\n\n-Para optimizar el concurso, solicitamos a los/as docentes conocer su ORDEN DE MÉRITOS en el Listado Prioritario y Oficial vigente y Listado Complementario.\n\nDIRECTOR DE PERSONAL ÚNICO (toma inmediata)\n\n*1 cargo suplente termino fijo,  turno mañana  Licencia Art 12 C,  hasta el 08/10/2026 en reemplazo de Malvina Obeid. En Escuela NEP N°5 CUE 3000158 Arroyo Brazo Chico, Zona Inhóspito, Villa Paranacito.\n\nLos cargos liberados en el concurso se cubriran en el mismo acto concursal.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-25T01:39:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "cge-escuela-secundaria-n-o-14-alejandro-carbo-concordia-19",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria N.º 14 “Alejandro Carbó” – Concordia",
+    "fecha": "2026-09-24",
+    "link": "https://cge.entrerios.gov.ar/2026/09/escuela-secundaria-n-o-14-alejandro-carbo-concordia-19/",
+    "texto_original": "Escuela Secundaria N.º 14 “Alejandro Carbó” – Concordia\n\nCONVOCATORIA A CONCURSO\n\nLa Rectoría de la Escuela Secundaria N.º 14 “Alejandro Carbó” convoca a concurso de adjudicación de horas cátedra, en el marco de la Resolución Ministerial 783/12 M.T. y sus modificatorias, Resolución 2300/22. En primera instancia se ofrecerá continuidad pedagógica Art. 140; de no cubrirse, se procederá con el orden de mérito según Art. 136.\n\n­\n\nEl concurso se llevará a cabo en la Institución \n\nel día lunes 28 de septiembre de 202\n\n6, según el siguiente detalle:\n\n09:00 hs.\n\nIntroducción a la Investigación en Ciencias Naturales\n\n🔴 3 hs. \n\nIntroducción a la Investigación en Ciencias Naturales\n\n – 6.º año, 2.ª División, C.O. – Suplente – Turno tarde.\n\nHorario: martes de 17:00 a 17:40 hs. y de 17:45 a 18:45 hs.\n\n \n\n \n\nLos aspirantes deberán presentarse en el local escolar, sito en Hipólito Yrigoyen 1352, con DNI y Credencial de Puntaje vigente, Resolución 5150/23 C.G.E., preferentemente en formato impreso.\n\nEn caso de obtener idéntica valoración se procederá según lo estipulado por Art. 37.º de la Res. Ministerial 783/12.\n\nEl Personal de la Casa deberá solicitar constancia en Secretaría de la institución; quedan debidamente notificados.\n\nProf. Rueda Liliana\n\nRectora",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-25T01:39:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
