@@ -89007,5 +89007,549 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "medios-google-news-entre-rios-84415d12650e",
+    "fuente": "Elonce.com",
+    "titulo": "El STJ ordenó garantizar alimentación saludable en comedores escolares de Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlpwR0FDRHJmZVUyeEp4UFNhYlBESkUxT0RzNWRydXFKdGt2U3pRZk0tSUg2TEE1dDlKSGIwOXpCbGFvWklGUVpSWEFGUUFXNHF0ZTJFaDlPdEdnb3JPRENUUmJHY1F3N3VNVldWaHJ6TnBuX2xUZDRkUjVnZktVNU1nbm5zN0xEZ1RORlJMREd0TU96WTdfUmxiRHJuNkdMek1UQk82cVkzWW02eVJJTU53YVJGUdIBtgFBVV95cUxPSlpwR0FDRHJmZVUyeEp4UFNhYlBESkUxT0RzNWRydXFKdGt2U3pRZk0tSUg2TEE1dDlKSGIwOXpCbGFvWklGUVpSWEFGUUFXNHF0ZTJFaDlPdEdnb3JPRENUUmJHY1F3N3VNVldWaHJ6TnBuX2xUZDRkUjVnZktVNU1nbm5zN0xEZ1RORlJMREd0TU96WTdfUmxiRHJuNkdMek1UQk82cVkzWW02eVJJTU53YVJGUQ?oc=5",
+    "texto_original": "El STJ ordenó garantizar alimentación saludable en comedores escolares de Entre Ríos\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-95c1833150ca",
+    "fuente": "Desde Entre Ríos",
+    "titulo": "Crespo: Se presentó el predio donde se construirá una moderna planta de biogás. Generará 84 puestos de trabajo",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONXRYSU5OcFVsRWplaXQ1YkE1bFZ5UHdNcnhIQVJ0VnRYUTF6ZGdaVXBYZ1dSVURTUWY2TXFIalcwUkJGc04xTGhPbXY0dmdkN2NDSWpvSmMxQ0ZUT3hYOFdRanBVcV9ULTZkdzdEMTZuNUNqeEZSemI2SWhCRk5fcTctREZZcGZ6TkM1NHVNNjNaQTJ2NlVvaGZJMHhOcXlGa2dZcDV0aEw5NEhINHV0WFNYWnFBVHZDT1dtRDA2TWR2dmpTNDBkRXduMjdxUXBjNWN0YWJuRm1LeHM?oc=5",
+    "texto_original": "Crespo: Se presentó el predio donde se construirá una moderna planta de biogás. Generará 84 puestos de trabajo\n  \nDesde Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "crespo"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-690ce6a15cf9",
+    "fuente": "Elentrerios.com",
+    "titulo": "Cresto cuestionó el rumbo económico de Milei por la pobreza: \"Con estos modelos Concordia no tiene piso para caer\"",
+    "fecha": "2026-09-25",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeXVyYk5xUDJvSUk3WU5iSDVWN1pNaFdiak1mRGRrbmRZLXNIcFIyU0tfdUNzNlhuOWhaOFJfdGFlSFBaeVBTU3BGX25oTG1adGNEY3RwanI2SUhCSW11OTR6aXZTOFhkRUR1d0NsOC1EMG9WbkRCRTQwS3BKRkYzSzJrY3RwU0Jhc2xTMzFWRzZiQzcxbWtiNGJDc01HTHgwNk9INnUwbEY0bEJyNGNGSGgybE8ydnFXX1Qwa3JPVWlGdno4XzBXQjRyaW1ENmtOOVZlbDlFd1JVLUdadEE?oc=5",
+    "texto_original": "Cresto cuestionó el rumbo económico de Milei por la pobreza: \"Con estos modelos Concordia no tiene piso para caer\"\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-b58430259e4b",
+    "fuente": "Elonce.com",
+    "titulo": "A través de un crédito internacional, construirán un nuevo puente en el departamento Gualeguaychú",
+    "fecha": "2026-09-25",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk1qZ0JRVU5lczNiX043X052M0JudGo0R0p2YXNVbENLY1dTVlZaMmFyRFVoLXpDNnpDa253MkJweUJUS1Y2SGxSZ2t6YWJiVlZ2SVFGeW9SX1VYc2ExbnJaODZNVnlBU2t0TFdrYmN2M1l3cW9MQUh1Ymw5TTNLdFYycGRaWEduWThWeURQd29fM0dURnlVNHFWRmZEZ1R2TGFzRnNTN2QxNzRWcGhGbEpfSWU3ZVhQNWlFWkg3aGd0TWpHT2fSAcYBQVVfeXFMTW5NamdCUVVOZXMzYl9ON19OdjNCbnRqNEdKdmFzVWxDS2NXU1ZWWjJhckRVaC16QzZ6Q2tudzJCcHlCVEtWNkhsUmdremFiYlZWdklRRnlvUl9VWHNhMW5yWjg2TVZ5QVNrdExXa2JjdjNZd3FvTEFIdWJsOU0zS3RWMnBkWlhHblk4VnlEUHdvXzNHVEZ5VTRxVkZmRGdUdkxhc0ZzUzdkMTc0VnBoRmxKX0llN2VYUDVpRVpIN2hndE1qR09n?oc=5",
+    "texto_original": "A través de un crédito internacional, construirán un nuevo puente en el departamento Gualeguaychú\n  \nElonce.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-8ccd7dd9f869",
+    "fuente": "La voz 90.1",
+    "titulo": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSnB4VTZpTnhBN0piZE5KZTY2SnZtaVFkX04teHJ5ZlBkLUhIUmZZQVBmVHBEMWZJZWdWWG9LclN6SllRYlQzSHpOM0pENF9rd0xMZFQ3UHNIR1RzcFU4TG04cF9uRWJOWHJENUdubEwtSTNnekhfZjNqTnZNX3VTMW5ZNDROR0pWb2NyeVA5U3EwR2tYX0d4U1VPX3lSNjd5bVFncGdldmhwTWpQSDlwVGlwbmxrOTRYNXJuMTduMzR1Z005bFhpa21Gc9IBywFBVV95cUxPSnB4VTZpTnhBN0piZE5KZTY2SnZtaVFkX04teHJ5ZlBkLUhIUmZZQVBmVHBEMWZJZWdWWG9LclN6SllRYlQzSHpOM0pENF9rd0xMZFQ3UHNIR1RzcFU4TG04cF9uRWJOWHJENUdubEwtSTNnekhfZjNqTnZNX3VTMW5ZNDROR0pWb2NyeVA5U3EwR2tYX0d4U1VPX3lSNjd5bVFncGdldmhwTWpQSDlwVGlwbmxrOTRYNXJuMTduMzR1Z005bFhpa21Gcw?oc=5",
+    "texto_original": "La Justicia permite continuar con la transformación del sistema de alimentación escolar en Entre Ríos\n  \nLa voz 90.1",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-ba26f0db694b",
+    "fuente": "Uno Entre Rios",
+    "titulo": "La Justicia avaló la continuidad del nuevo sistema de alimentación escolar en Entre Ríos",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDdXWWE2WkJiZVZFS1M2LXk5eG52OGZBTmRsUF9IOC1nQUcteU9WLVB4SzhfdS0ycl8yYjZBb08zUXU0RkItRXZtYWI2TGVXVHR0enVvejNkaDBFblg3Nlc5REw1MDFxaVloSElpLWNsbjNCcGFrVTNOeDZLOEZLMjhvV2x1MmJHNlhPSWhRWTVwOUdTN3NWTDhvenNnc3ZoUmNtemhCQ0R3RnZtdGE2aDVtSE9HR1U2bXcxYW9CTk44bGFSWWNSRXA0a05RUnNzWkxDbUhSWdIB1wFBVV95cUxQVDdXWWE2WkJiZVZFS1M2LXk5eG52OGZBTmRsUF9IOC1nQUcteU9WLVB4SzhfdS0ycl8yYjZBb08zUXU0RkItRXZtYWI2TGVXVHR0enVvejNkaDBFblg3Nlc5REw1MDFxaVloSElpLWNsbjNCcGFrVTNOeDZLOEZLMjhvV2x1MmJHNlhPSWhRWTVwOUdTN3NWTDhvenNnc3ZoUmNtemhCQ0R3RnZtdGE2aDVtSE9HR1U2bXcxYW9CTk44bGFSWWNSRXA0a05RUnNzWkxDbUhSWQ?oc=5",
+    "texto_original": "La Justicia avaló la continuidad del nuevo sistema de alimentación escolar en Entre Ríos\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-uno-entre-rios-gn-9c308416240a",
+    "fuente": "Uno Entre Rios",
+    "titulo": "La Municipalidad de Paraná repara veredas y senderos de plazas",
+    "fecha": "2026-09-23",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSllXTll5YmlUV1F0MnMtcllObWNocVlRcWZnVlhSYnlyRG5WUjQ1X0ZieXMtcnJqWWNOOEdCU3B6RnpCdFNidDVEZkY1cUJrbXduZG1QZ2FxbG1NNXFrWjBndnctZHdmbk9SY25jNlF4dWVjaVkzTEsxaHlfbGloMUhlZHNzbWJqMmN0U2FFalptbDdJazAxeTVmSXNNUDhIeExnU3ljMTN6WDBfaVJuZG1fOC1kMGvSAbwBQVVfeXFMT2lvNl9vQk91cjE0cGw0NEpEWFo3elFfMV9uMHZrOTJPWHFSamJCcmVwRkJyNG9VdGVqN1VfcXJYY1V1Sl94d2Flc0dQU0FpNWx2VzVodkVfYVNkbUZHTEI4RU9Oa2gxVjhaZzFyUFd5LUFTYVBRMWp3U1BMNG9ETGVjR29KMkpQSkJFQjZOZmR4LWxrWlNManNYRTJKZ2VOM0ctUDN1UkVRaVhORC1MbTFud1ZTRjc0bHo3cGQ?oc=5",
+    "texto_original": "La Municipalidad de Paraná repara veredas y senderos de plazas\n  \nUno Entre Rios",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-el-cura-anaya-salio-del-shock-septico",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "El cura Anaya salió del «shock séptico»",
+    "fecha": "2026-09-25",
+    "link": "https://entreriosahora.com/el-cura-anaya-salio-del-shock-septico/",
+    "texto_original": "Se conoció el último parte médico del sacerdote Luis Alfredo Anaya, responsable del Hogar Sacerdotal Jesús Buen Pastor, de Paraná, internado desde comienzos de mes en una clínica de la ciudad.\n\n“El médico informa que salió del shock séptico en el que estaba. Ahora punzaron el pulmón izquierdo, sacaron líquido y en el análisis salió un hongo que le estaba complicando el funcionamiento. Comenzó hoy con el tratamiento. Al sacarle líquido, el pulmón se vio descomprimido, lo que permitió bajar el flujo de oxígeno del respirador. Ahora, a esperar”, indicaron desde la curia.\n\nEl sacerdote está internado desde la madrugada del domingo 6 del actual en una clínica de calle San Martín. «Los médicos expresaron que seguirían haciendo todo lo que está a su alcance pero el cuadro cada vez se agrava más», contaron fuentes de la Iglesia de Paraná.\n\nCon una vasta trayectoria en la Arquidiócesis, Anaya estaba últimamente al frente de la Residencia Sacerdotal Jesús Buen Pastor, en Italia al 300, el lugar en el que residen los miembros del clero ya con avanzada edad o con problemas de salud.\n\nNacido en Buenos Aires, el 26 de marzo de 1953, Anaya fue ordenado sacerdote en Paraná el 8 de diciembre de 1985 por el fallecido arzobispo Estanislao Esteban Karlic.\n\nEstá en estado grave el cura Luis Anaya\n\n \n\nAnaya es sobrino de Jorge Anaya, el almirante que impulsó la guerra de Malvinas y que integró la tercera junta militar que gobernó el país durante la última dictadura, fallecido en 2008 mientras cumplía prisión domiciliaria acusado de graves violaciones a los derechos humanos en la ESMA.\n\nAunque porteño, se ordenó sacerdote en Paraná, en diciembre de 1985. Antes de ordenarse sacerdote, se graduó de abogado en la UCA Buenos Aires, en 1977, aunque también es doctor en Teología Moral, título que obtuvo en la Pontificia Universidad Lateranense de Roma. Es también magíster en Ética Biomédica, y, entre 2000 y 2002, integró el Consejo de Fe y Cultura del Episcopado Argentino. Fue, además, profesor del Seminario de Paraná, y en 2010, cuando las víctimas de los abusos de Ilarraz empezaron a reclamar sanciones en la Iglesia, integró el consejo presbiteral de la curia que atendió ese pedido.\n\nAnaya fue citado en 2018 por la Justicia pero no declaró en el proceso que se siguió al cura Justo José Ilarraz por los abusos denunciados en el Seminario Arquidiocesano de Paraná, que concluyó en condena, pero que se cerró con la prescripción resuelta por la Corte Suprema de Justicia de la Nación.\n\nDeclaró en la etapa instructoria:  «Lo conocía a Ilarraz como colegas de sacerdocio. Él fue sacerdote antes que yo. Yo no sabía nada, me enteré por los medios», dijo de la corrupción de menores ocurrida en el Seminario.\n\n \n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:47:54Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-el-entre-rios-gn-1ab782f0e464",
+    "fuente": "Elentrerios.com",
+    "titulo": "Cómo era el modus operandi de un hombre que estafaba a trabajadores de motomandado en Concordia",
+    "fecha": "2026-09-25",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOE5wRUx6eEdmZ09PTHZTaEtyRzNqR1YwUFpIV2xqLXlPcEV5ekl4YWQwMlNPLTNDa1htMGhJVjlYdFRIUDJmM1QyVjcyQTl5b2ZFMUlNYmN2OVl2MngtVmFmYUhwUnNtNW9KQkRyZnpTLW9CRER0QmZ5RkJaYmhXVWtrZmt1cGU1SkNfWjEtaVZEYTM2cUZmOEJLNVZwQVlLekVtOEJWQXVQd0dQcmtzdEhtemVnaEFIVVhIbkE0ZzNsZUZlS0tvR3dzOU1ua0dGYXNmTFVn?oc=5",
+    "texto_original": "Cómo era el modus operandi de un hombre que estafaba a trabajadores de motomandado en Concordia\n  \nElentrerios.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:07Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-el-stj-confirmo-el-fallo-por-discriminacion-laboral-en-el-hospital-urquiza",
+    "fuente": "LT15 Concordia",
+    "titulo": "El STJ confirmó el fallo por discriminación laboral en el Hospital Urquiza",
+    "fecha": "2026-09-25",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/el-stj-confirmo-el-fallo-por-discriminacion-laboral-en-el-hospital-urquiza/",
+    "texto_original": "El STJ de Entre Ríos\n le devolvió la razón a una trabajadora del \nHospital Justo José de Urquiza\n. El fallo confirmó la \ndiscriminación laboral\n y rechazó la apelación del \nMinisterio de Salud\n. No es un detalle menor: una mujer quedó sin empleo, salario ni obra social durante su embarazo.\n\nLa frase que duele es simple: \nquedó sin empleo, salario ni obra social\n. No es una pérdida abstracta, es un golpe directo sobre una mujer embarazada, en un momento donde el cuerpo pide cuidado y el trabajo pide estabilidad. En ese punto, la sentencia del \nSTJ\n no solo corrige un daño: le devuelve un piso de dignidad.\n\n¿Qué pasó? El dato es claro: la trabajadora del \nHospital Justo José de Urquiza\n perdió su lugar, su sueldo y su cobertura durante el embarazo. El \nMinisterio de Salud\n apeló, pero el \nSTJ de Entre Ríos\n mantuvo la decisión: hubo discriminación laboral. Ahí no queda espacio para el cinismo burocrático: la ley no es un adorno, es una línea que separa el trato justo del abuso.\n\nEl peso de la sentencia está en lo que implica para el \nsistema de salud\n. No es un conflicto menor entre una empleada y una oficina: es una señal sobre cómo se trata a quien sostiene la asistencia sanitaria. Si una trabajadora embarazada puede quedar expuesta a la exclusión, el mensaje que se envía es terrible: la \nmaternidad\n se convierte en un riesgo laboral.\n\nLa apelación del \nMinisterio de Salud\n muestra que la pelea no terminó en un despacho. En la práctica, el organismo apeló una decisión que, según el fallo, configuró \ndiscriminación laboral\n. Que la \njusticia provincial\n haya dicho que no a esa defensa es un recordatorio incómodo: no todo lo que sale de un organismo público es automáticamente correcto.\n\nPara la trabajadora, el fallo es una \nreparación\n, pero no borra el tiempo. Perder empleo, salario y obra social durante un embarazo no es un trámite: es una herida que se lleva a la casa, a la familia, a la salud. La sentencia dice que hubo \ndiscriminación laboral\n, y esa palabra pesa. No es un hecho menor, es una decisión que castiga una condición que no se elige.\n\n¿Y vos creés que un \nhospital\n puede ser un lugar de cuidado? Que este tipo de decisiones no se repita no es un capricho: es una necesidad. Si la \nobra social\n y el salario se cortan en el momento más vulnerable, el daño no se mide solo en números: se mide en salud, en miedo, en incertidumbre.\n\nEl fallo del \nSTJ de Entre Ríos\n también tiene un efecto político. No se trata de hacer bandera de un conflicto, sino de señalar que las \ninstituciones públicas\n deben responder por sus actos. Cuando un organismo de salud queda del lado de la exclusión, la sociedad entera pierde. La sentencia no es solo para una trabajadora: es un límite que se impone al poder.\n\nLa \nversión del Ministerio de Salud\n no aparece en el dato conocido; lo que está en pie es el \nfallo del STJ de Entre Ríos\n. Esa ausencia no quita el peso de la sentencia, pero deja una cuenta pendiente: saber qué va a cambiar en la práctica.\n\nLa otra cara es la responsabilidad de corregir. Si se confirmó la \ndiscriminación laboral\n, la pregunta incómoda es si el \nMinisterio de Salud\n va a revisar sus prácticas. ¿Y vos creés que alcanza con aceptar un fallo? Hay que cambiar la manera de tratar a quienes trabajan en salud. De lo contrario, la sentencia se vuelve una postal, y el problema sigue latiendo en la puerta de un consultorio, en un turno, en un expediente.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:09Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "justicia",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-sidecreer-lanzo-refinanciacion-y-adelantos-para-estatales-y-jubilados",
+    "fuente": "LT15 Concordia",
+    "titulo": "Sidecreer lanzó refinanciación y adelantos para estatales y jubilados",
+    "fecha": "2026-09-25",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/24/sidecreer-lanzo-refinanciacion-y-adelantos-para-estatales-y-jubilados/",
+    "texto_original": "El \ncrédito\n que se supone aliviar puede convertirse en una \nmordida\n que no suelta. Por eso el \ngobierno de Entre Ríos\n salió a ofrecer una salida ordenada para \nestatales y jubilados\n.\n\nEl jueves, el gobernador \nRogelio Frigerio\n presentó un programa que se instrumentará a través de la \ntarjeta Sidecreer\n. Lo hizo junto al secretario General de la Gobernación, \nMauricio Colello\n, y el presidente del organismo, \nMariano Reyno Buch\n.\n\nLa propuesta incluye una línea de \nrefinanciación al 35% anual\n con plazo de hasta \n48 meses\n y otra de \nadelanto de haberes al 45%\n a \n12 meses\n. Ambos beneficios alcanzan a empleados públicos, jubilados y usuarios municipales de Sidecreer.\n\nLa \ntarjeta Sidecreer\n vuelve a estar en el centro de la escena porque no solo distribuye créditos: también concentra \ndescuentos\n que pueden pesar en el bolsillo de los trabajadores. Por eso la nueva política aparece como un intento de poner \nreglas claras\n a un circuito que, cuando se desborda, termina afectando el \ningreso familiar\n.\n\nEl objetivo declarado es \nordenar el acceso al crédito\n y ofrecer \nfinanciamiento en mejores condiciones\n. También busca aliviar el \nendeudamiento\n y dar mayor \ntransparencia\n a los descuentos que impactan sobre los haberes.\n\nEn la presentación se subrayó que el programa está destinado a \nproteger el salario\n y fortalecer la \ncapacidad económica\n de los \nempleados públicos\n y \njubilados\n de Entre Ríos. No es una medida aislada: intenta ordenar un circuito donde el crédito puede convertirse en una carga cuando los descuentos se acumulan.\n\nFrigerio anunció además un \nlímite del 40 por ciento\n en los haberes para contraer préstamos personales o ayudas económicas. También habló de una nueva línea con la \ntasa más baja del mercado\n y una inversión de \n2000 millones de pesos\n.\n\n“Muchas veces el \ncrédito\n, que debería ser una solución, termina transformándose en un \nproblema\n”, sostuvo Frigerio. El gobernador reconoció que \nEntre Ríos\n tiene menos sobreendeudamiento que otras provincias, pero advirtió que para cada familia puede ser un drama.\n\nFrigerio remarcó que el Estado tiene el rol de poner límites al \nsobreendeudamiento\n y a las \nempresas\n que prestan. También señaló la necesidad de ayudar a \nfamilias\n y \njubilados\n del sector público a sobrellevar una situación difícil.\n\nLa otra pata de la política apunta a la formación. El gobernador anunció que, a través del \nConsejo General de Educación\n, se trabajará en incorporar \neducación financiera\n en las \naulas\n. La idea es educar desde \ntemprana edad\n y de manera creciente en esta materia.\n\nLa medida busca ordenar un mercado donde los descuentos pueden llevarse una \nproporción importante\n del sueldo. No es una solución mágica: es una política de \ncontención\n que intenta frenar el efecto bola de nieve del \nendeudamiento\n.\n\nEl programa se presentará como una alternativa dentro de la \ntarjeta Sidecreer\n, con foco en \nempleados públicos\n, \njubilados\n y usuarios municipales. La discusión queda instalada: cómo cuidar el \nsalario\n sin transformar el crédito en una trampa.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:09Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "impuestos",
+      "transparencia",
+      "presupuesto",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-frigerio-anuncio-creditos-y-un-plan-para-aliviar-deudas-de-estatales-y-jubilados",
+    "fuente": "El Heraldo",
+    "titulo": "Frigerio anunció créditos y un plan para aliviar deudas de estatales y jubilados",
+    "fecha": "2026-09-25",
+    "link": "https://www.elheraldo.com.ar/noticias/politica/frigerio-anuncio-creditos-y-un-plan-para-aliviar-deudas-de-estatales-y-jubilados",
+    "texto_original": "El gobernador Rogelio Frigerio presentó este jueves un programa dirigido a empleados públicos y jubilados de Entre Ríos que busca reducir el peso de las deudas sobre sus ingresos. Lo acompañaron el secretario general de la Gobernación, Mauricio Colello, y el presidente de Sidecreer, Mariano Reyno Buch.\n\n«Muchas veces el crédito, que debería ser una solución, termina transformándose en un problema», señaló Frigerio. Según explicó, esto ocurre cuando las cuotas y los descuentos absorben una porción cada vez mayor del salario o la jubilación.\n\nLa preocupación tiene un contexto nacional. De acuerdo con el Banco Central, en junio de 2026 el 12,8% del crédito bancario a las familias estaba en situación de mora. El problema era aún más marcado entre los proveedores no financieros de crédito: en febrero, el 26,9% de su cartera presentaba irregularidades, porcentaje que llegaba al 34,1% en los préstamos personales.\n\nSon indicadores sobre montos prestados, no porcentajes de personas endeudadas, y corresponden a distintos períodos. \n\nEl endeudamiento juvenil merece especial atención. El acceso inmediato a préstamos desde aplicaciones y billeteras digitales facilita resolver un gasto urgente, pero también puede llevar a encadenar cuotas cuya carga total no siempre resulta clara al momento de solicitarlas. La situación afecta a jóvenes que recién comienzan su vida laboral y tienen ingresos inestables. Un relevamiento citado por Associated Press ubicó en 37,6% la morosidad entre los deudores menores de 25 años; se trata de una cifra nacional, que no describe específicamente a Entre Ríos ni a los beneficiarios de este programa. \n\nFrigerio sostuvo que, aunque la provincia presenta menos problemas de sobreendeudamiento que otras jurisdicciones, cada familia afectada atraviesa una dificultad concreta. También anunció que el Consejo General de Educación trabaja para incorporar educación financiera en las aulas.\n\nQué medidas se anunciaron\n\nLa provincia establecerá un límite del 40% del haber para préstamos personales y ayudas económicas que se descuenten mediante los códigos habilitados. Además, creará un código específico para compras con Sidecreer, con un tope de descuento del 30% del salario.\n\nSidecreer ofrecerá una línea de adelanto de haberes con un cupo total de $2.000 millones, devolución de hasta 12 meses y una tasa nominal anual del 45%. La Provincia la presentó como una de las tasas más bajas del mercado para este tipo de financiación.\n\nTambién se habilitará la refinanciación de saldos de la tarjeta Sidecreer por hasta $5 millones por usuario, con un plazo máximo de 48 meses y una tasa anunciada del 35%. Esta opción se sumará al plan de alivio financiero instrumentado junto al Banco de Entre Ríos. Antes de adherir, será importante conocer el costo financiero total, el valor de cada cuota y la suma final a pagar.\n\nPor último, el Gobierno modificará el orden en que se aplican los descuentos sobre los recibos de haberes, con el propósito de dar mayor previsibilidad a trabajadores y jubilados.\n\nSegún explicó Reyno Buch, los adelantos podrán solicitarse íntegramente desde la aplicación de Sidecreer. Quienes quieran refinanciar una deuda podrán iniciar la consulta en una sucursal, por correo electrónico o WhatsApp, aunque deberán concurrir presencialmente para evaluar su situación particular. Los empleados públicos y jubilados que todavía no tengan la tarjeta podrán adherirse en los locales de Sidecreer o mediante Mi Entre Ríos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo",
+      "presupuesto",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-concordia-llego-al-562-de-pobreza-mientras-milei-hablo-de-una-nueva-tierra-prometida-para-las-inversiones",
+    "fuente": "El Heraldo",
+    "titulo": "Concordia llegó al 56,2% de pobreza mientras Milei habló de una «nueva tierra prometida» para las inversiones",
+    "fecha": "2026-09-25",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/concordia-llego-al-562-de-pobreza-mientras-milei-hablo-de-una-nueva-tierra-prometida-para-las-inversiones",
+    "texto_original": "El contraste entre dos noticias conocidas con un día de diferencia es difícil de pasar por alto. El miércoles, después de hablar ante la ONU, Javier Milei afirmó en Nueva York que «Argentina es la nueva tierra prometida», al responder una pregunta sobre la llegada de inversiones. Este jueves, el Indec informó que la pobreza alcanzó al 32,3% de las personas en los 31 aglomerados urbanos que releva: 4,1 puntos porcentuales más que en el segundo semestre de 2025. La indigencia subió del 6,3% al 7,5%. \n\nLas cantidades de personas están redondeadas a miles por el propio Indec. Concordia tuvo la mayor proporción de pobreza entre los 31 aglomerados. En Gran Paraná, la estimación de indigencia debe leerse con cautela por su margen de variación estadística, según advierte el informe.\n\nLa comparación muestra que la pobreza creció 6,3 puntos porcentuales en Concordia y 3,2 puntos en Gran Paraná respecto del semestre anterior. En el total de los aglomerados estudiados, el Indec estimó 9,7 millones de personas pobres, entre ellas 2,2 millones indigentes. Esas cifras corresponden al universo urbano relevado por la encuesta; no son un conteo de toda la población argentina.\nQué territorio representa el dato de Concordia\nHay una precisión necesaria para interpretar la cifra local. En la Encuesta Permanente de Hogares, «Concordia» es el nombre de un aglomerado urbano integrado por Concordia, Benito Legerén, Villa Adela y Villa Zorraquín. El 56,2% no es una medición del conjunto del departamento ni del norte entrerriano: no permite asignar ese porcentaje a Federación, Chajarí, Federal, San Salvador o sus zonas rurales. Gran Paraná comprende Paraná y las localidades colindantes de San Benito, Oro Verde, Colonia Avellaneda y Sauce Montrull. Así define ambos aglomerados la Dirección de Estadística y Censos de Entre Ríos.\n\nTampoco debe confundirse la ubicación de Concordia en el norte geográfico de la provincia con la clasificación estadística nacional: el Indec incluye a los dos aglomerados entrerrianos en la región Pampeana, no en la región Noreste.\n\nSegún el organismo, el deterioro nacional se explica porque, entre ambos semestres, el ingreso por persona de los hogares aumentó en promedio 11,5%, mientras que las canastas utilizadas para medir indigencia y pobreza subieron 21,4% y 19,6%, respectivamente. El resultado fue que más hogares quedaron por debajo del ingreso necesario para cubrirlas.\n\nMilei utilizó la expresión «nueva tierra prometida» al hablar sobre inversiones, acompañado por el ministro de Economía, Luis Caputo; no fue una frase de su discurso ante la ONU. Las inversiones que el Gobierno espera atraer y la evolución de la pobreza son asuntos relacionados, pero ocurren en tiempos distintos. La pregunta que dejan los nuevos números, especialmente para Concordia, es cuándo esa expectativa podrá traducirse en ingresos suficientes para las familias que hoy no llegan a cubrir sus necesidades básicas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná",
+      "concordia",
+      "chajarí",
+      "federación",
+      "federal",
+      "san salvador"
+    ]
+  },
+  {
+    "id": "medios-el-enfoque-gn-8c849570e6a5",
+    "fuente": "Diario El Enfoque",
+    "titulo": "Falsos paquetes y dinero adelantado: así estafaban a trabajadores de motomandados en Concordia",
+    "fecha": "2026-09-24",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjFNVjhPM1FYT1BFS2dUWllSYko0dHlVOUZIdFdNdGxtWDBPbFd0X28tdm90RWNRTDJCZ29kUTBXNmdaQThBTGFtRHFnQXB1OEVORGFrRWNycWl1RGFTbHhMWWJoVzlRbHVZN1B2MmhiSkNQSkItWi1Uc3ZXaFNLUzdwY2JqWU5mVktPd3V6UEtoNmk4cHRNU1N0ejNhVXh1UnZtVTU1N0NZcTBlcEgteDJSejJKRDVYVnNmZmxsdFlLTFYxWHc?oc=5",
+    "texto_original": "Falsos paquetes y dinero adelantado: así estafaban a trabajadores de motomandados en Concordia\n  \nDiario El Enfoque",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-talcual-chajari-el-secretario-de-trabajo-estuvo-en-chajari-nos-gustaria-dar-mucho-mas-aumento-salarial-pero-esto-es-lo-que-se-puede-afirmo",
+    "fuente": "TalCual Chajarí",
+    "titulo": "El Secretario de Trabajo estuvo en Chajarí “nos gustaría dar mucho más aumento salarial, pero esto es lo que se puede” afirmó",
+    "fecha": "2026-09-25",
+    "link": "https://www.talcualchajari.com.ar/226194/el-secretario-de-trabajo-estuvo-en-chajari-nos-gustaria-dar-mucho-mas-aumento-salarial-pero-esto-es-lo-que-se-puede-afirmo/",
+    "texto_original": "En la mañana de este jueves dialogamos en el programa AHORA NOTICIAS de Itel TV Canal 2 con el Secretario de Trabajo de Entre Ríos CPN Mariano Camoirano.\n\nIndependientemente de la tarea que como funcionario desarrolló en Chajarí le preguntamos al Secretario sobre algunos tópicos de su gestión al frente de la Secretaría.\n\nEn este sentido le consultábamos sobre el análisis que realizan sobre el mercado laboral actual y sus implicancias en el marco económico que estamos viviendo.\n\n“Nosotros tenemos como tarea, que el gobernador Rogelio Frigerio y el ministro Troncoso, nos delegó en la Secretaría de Trabajo el análisis del mercado laboral. No había un diagnóstico provincial, sigue habiendo mucha dificultad con las herramientas, las encuestas que se hacen a nivel nacional no llegan a nuestras localidades, con suerte abordan Paraná y Concordia”.\n\n“Creamos un observatorio del empleo con la Universidad Nacional de Entre Ríos, entonces tenemos hoy al menos algunos datos y vamos construyendo y vamos viendo la realidad de la transformación a nivel global del sistema productivo”.\n\n“Es decir que yo quisiera poner un análisis macroeconómico del empleo focalizado a la provincia de Entre Ríos o a la Argentina, lo tengo que dar en el marco de ciertas reglas nuevas que hay en la macroeconomía, que por ahí se habla mucho del equilibrio fiscal, de la apertura y la inserción, pero en contexto, el complejo entramado del mercado laboral nos muestra una época a nivel global de expulsión de trabajo, de ruptura de trabajo, por lo que es la tecnología, los grandes avances tecnológicos”.\n\nPARITARIAS PUBLICAS\n\nEn el ámbito de la Secretaría a su cargo se desarrollan las diversas reuniones de Paritarias entre el Gobierno y los Gremios estatales. Tomando el concepto de Paritarias que comprende la “discusión” de los aumentos salariales, le preguntábamos a Camoirano si realmente se producía dicha “discusión” y no como se ve en la actualidad un Gobierno inflexible que fija los aumentos y ante la negativa gremial los confirma por Decreto, a lo que nos contestó “sí, sí, sí, discusión hay un montón, no puedo decir que no la hay, y discusión acalorada, está claro que el momento no es el mejor. Y el planteo se da siempre sobre un discurso o un planteo gubernamental sobre el equilibrio fiscal. Eso no queda en duda”.\n\n“Creo que quizá cuando se lleva adelante la discusión paritaria, puede darse una herramienta sobre ciertas condiciones laborales, en donde el gobierno ha entendido, al menos en las últimas reuniones, que se puede dialogar sin la necesidad de entrar en un déficit fiscal o en un compromiso salarial”.\n\n“El tema es que hay una polarización de la discusión. Uno quisiera que en el medio haya condiciones laborales. En el caso de la mesa paritaria de educación, hay mesas o comisiones que después se continúan en el ámbito del Consejo General de Educación, en conversaciones como de infraestructura”.\n\n“Y en esto nosotros somos muy claros el mensaje del gobernador me gustaría dar mucho más de aumento, esto es lo que puedo, esto es lo real, esto es lo responsable”.\n\n“Lo que tenemos que entender también es que yo no le puedo pedir al sindicato, a UPCN o a ATE que deje de pensar en sus representados y que piense en la provincia, entonces está muy claro que ellos tienen que dar un mensaje para afuera muy contundente”.\n\nCon respecto a los integrantes del Gobierno que defienden la postura oficial Camoirano afirma “por supuesto, yo creo que los representantes del gobierno llevan la propuesta con mucha dignidad, pero muchas veces con mucha vergüenza. Hay una sensibilidad muy grande del gobierno en esa mesa paritaria, en transmitir y muchas veces en agachar la cabeza, irse abollado de frases de che, no tengo”.\n\n“Porque cuando uno va a la situación particular de la persona, porque nosotros estamos hablando de la macro, entonces el ordenamiento a veces es cruel. Yo te hablo de déficit fiscal y es triste, pero cuando viene un representante sindical y te habla de una familia o de un trabajador que no llega a fin de mes, con casos sensibles o sensibilizadores, es indudable de que el gobierno plantea un esquema en donde le duele el corazón, porque no dejan de ser personas de sus representantes, más allá de la responsabilidad con la que ejercen” finalizó diciendo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "servicios_publicos",
+      "gobierno",
+      "justicia",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "concordia",
+      "chajarí"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-el-lunes-comienza-el-juicio-oral-y-publico-en-el-que-esta-imputado-un-exfuncionario-municipal-de-federal",
+    "fuente": "Federal Al Día",
+    "titulo": "EL LUNES COMIENZA EL JUICIO ORAL Y PÚBLICO EN EL QUE ESTÁ IMPUTADO UN EXFUNCIONARIO MUNICIPAL DE FEDERAL",
+    "fecha": "2026-09-25",
+    "link": "https://federalaldia.com.ar/2026/09/24/el-lunes-comienza-el-juicio-oral-y-publico-en-el-que-esta-imputado-un-exfuncionario-municipal-de-federal/",
+    "texto_original": "José Luis Bustamante será juzgado por el presunto uso de bienes, servicios y recursos de la Municipalidad de Federal en trabajos realizados en una propiedad de un familiar directo. Está acusado de peculado de bienes y servicios e incumplimiento de los deberes de funcionario público. \nENTRE LOS TESTIGOS CONVOCADOS SE ENCUENTRA LA ACTUAL PRESIDENTA MUNICIPAL, ALICIA OVIEDO.\n\nEl próximo lunes 28 de septiembre comenzará en Concordia el juicio oral contra José Luis Bustamante, quien se desempeñó como secretario de Planificación, Obras y Servicios Públicos durante la gestión municipal de Gerardo Chapino en Federal. El juicio tiene programada su continuidad el miércoles 30.\n\nEl exfuncionario llega a esta instancia acusado de Peculado de Bienes y Servicios e Incumplimiento de los Deberes de Funcionario Público en Concurso Real, en el marco del Legajo Fiscal N.º 13.635.\n\nLa causa se inició a partir de una denuncia presentada luego del cambio de administración municipal, por la gestión encabezada por Alicia Oviedo, y, tras atravesar la investigación fiscal y la instancia de remisión a juicio, llegará ahora al debate oral.\n\nSegún supo FEDERAL AL DÍA, el proceso judicial buscará determinar si, mientras Bustamante estaba al frente de la Secretaría de Planificación, Obras y Servicios Públicos, dispuso o permitió la utilización de personal, materiales y servicios municipales para realizar trabajos en una propiedad perteneciente a un familiar directo, en inmediaciones de la calle 9 de Julio, entre Santa Fe e Itati del barrio Las Flores.\n\nUno de los puntos que deberá establecerse durante el debate es si esos recursos públicos fueron utilizados para generar un beneficio particular y si existió algún tipo de recupero por parte del municipio.\n\nEl juicio se determinó luego de que se investigara que habrían existido trabajos de infraestructura (tendido de red cloacal y colocado de tubos), en los que habría participado personal y recursos municipales. El eje de la discusión judicial estará puesto en establecer qué ocurrió con los bienes y servicios del Estado y cuál fue la responsabilidad que tuvo el entonces funcionario en esas decisiones.\n\nOVIEDO DEBERÁ DECLARÁR:\n\nLa presidente municipal de Federal, Alicia Oviedo, que recientemente en un video publicado en las redes oficiales del municipio, había anticipado que se aproximaba el inicio de esta instancia, y se había quejado por la demoras de las respuestas judiciales; durante el desarrollo del juicio en Concordia será convocada a declarar, al igual que otros trabajadores municipales. Bustamante comparecerá acompañado por su abogado defensor, el Abogado Juan Manuel Benitez.\n\nEl tribunal deberá analizar las pruebas y testimonios que se incorporen durante al debate y determinar, al finalizar el proceso, si existe responsabilidad penal por los hechos que forman parte de la acusación.\n\nCabe señalar que la acusación fiscal, a cargo de la Dra. Eugenia Molina, y el inicio del juicio no implican por sí mismos una declaración de culpabilidad, ya que esa determinación deberá surgir de la sentencia correspondiente.\n\nNOTICIAS DE ARCHIVO DE FEDERAL AL DÍA:\n\nLLEVARÁN A JUICIO ORAL AL EX SECRETARIO DE PLANIFICACIÓN, OBRAS Y SERVICIOS PÚBLICOS DE LA GESTIÓN CHAPINO\n\nPublicada: 30/09/2025 10:07 PM\n\nAsí se resolvió en la audiencia realizada en el Juzgado de Garantías de Federal, en la jornada de este martes. Bustamante, quien ocupara ese cargo en las dos gestiones municipales, entre 2015 y 2023, deberá enfrentar cargos “Por Incumplimiento de los Deberes de Funcionario Público y Peculado de Bienes y Servicios en Concurso Real”.\n\nEn la mañana de este martes 30, tras un par de reprogramaciones, se realizó en sede del Juzgado de Transición y Garantías de Federal, la audiencia en por la causa “Bustamente José Luis S/Peculado” – Tratamiento de Remisión de Causa a Juicio; de la que participaron la Jueza Dra. Susana Irurzun, la Fiscal Dra. Eugenia Molina y el Abogado Defensor Juan Manuel Benítez.\n\nEn esa audiencia se resolvió llevar a juicio oral al ex funcionario “Por Incumplimiento de los Deberes de Funcionario Público y Peculado de Bienes y Servicios en Concurso Real”, el que se deberá realizarse en la Sala Penal de la ciudad de Concordia.\n\nLA CAUSA:\n\nCabe recordar que la cuestión fue hecha pública por la presidenta municipal en conferencia de prensa el día 18-12-2023; donde expresó que “Resultó muy llamativa una colocación de tubos en un domicilio del ex secretario de obras públicas, y que hasta ahora no podemos encontrar los recuperos de obra; y también ha ocurrido con el mismo exfuncionario una conexión de cloacas con una extensión de obras de más de 30 metros, figurando un recupero de obra de solo $7000; y agregó “Una extensión de red cloacal es costosa, y el derecho de conexión de cloacas también es muy costoso, y los vecinos lo pagan”.\n\nEsta situación origino que el municipio presentara una denuncia en sede de la Fiscalía Local, para intentar recuperar valores que rondaban los $800.000,-; que este martes avanzó con la aprobación del pase a juicio oral de la causa “Por Incumplimiento de los Deberes de Funcionario Público y Peculado de Bienes y Servicios en Concurso Real”.\n\nEn resumen, en el juicio se discutirá si Bustamante, aprovechándose de su rol de funcionario público, ya que era el Secretario de Planificación, Obras y Servicios Públicos, beneficio a un tercero (su hijo) con una obra cloacal y colocación de tubos de H°A° en la propiedad ubicada en 9 de Julio al 1655; y si esos trabajos estaban dentro de las posibilidades de orden de ejecución por ostentar las facultades que en ese momento tenía.\n\nFEDERAL AL DÍA pudo saber que la Gestión Oviedo nunca le reclamó a Bustamante se presentara a regularizar la situación en el ámbito de la Tesorería Municipal, sino que prefirió llevar la cuestión directamente para que sea investigada por la Fiscalía; a pesar de que éste se habría presentado oportunamente en el municipio para hacerse cargo de los gastos que hubieren generado las obras.\n\nBustamante, que está representado por el Abogado Juan Manuel Benítez, deberá entonces enfrentar un juicio oral por Peculado, tipificado en el Artículo 261 del Código Penal Argentino, y que se configura cuando un funcionario público sustrae fondos o bienes cuya administración, percepción o custodia le ha sido confiada por su cargo, o cuando utiliza en provecho propio o de terceros trabajos o servicios pagados por la administración pública.\n\nUna vez sustanciado el juicio el imputado podría ser sobreseído de los cargos, o enfrentar, según dice el mismo Artículo del Código Penal, el castigo con reclusión o prisión de dos a diez años y una inhabilitación absoluta perpetua, afectando el patrimonio del Estado.\n\nNOTICIA DE ARCHIVO: PUBLICADA EL 20-05-2025\n\nSERÍA INMINENTE LA REMISIÓN A JUICIO DE LA CAUSA POR PECULADO EN LA QUE ESTA IMPUTADO UN EX FUNCIONARIO DE LA MUNICIPALIDAD DE FEDERAL\n\nEl SIC-STJER comunicó en la mañana de este martes sobre la audiencia que se llevaría a cabo a las 9, en dependencias judiciales, para la remisión de la causa a juicio caratulada “Bustamante, José Luis s/Incumplimiento de los Deberes de Funcionario Público y Peculado”.\n\nSegún las consultas realizadas por FEDERAL AL DÍA, pasadas las 9 de la mañana de este martes, en el edificio de Urquiza y Tucumán, se llevó a cabo la audiencia programada para disponer la remisión a juicio de la causa por Incumplimiento de los Deberes de Funcionario Público y Peculado, en la que está imputado el ex funcionario de la Secretaría de Planeamiento, Obras y Servicios Públicos de las administraciones que transcurrieron entre los años 2015 y 2023.\n\nPor lo que se supo, en esta audiencia no pudo determinarse el envío de la causa a juicio, por cuestiones de técnica judicial, por lo que habrá una nueva audiencia en 20 días para concretar la cuestión.\n\nSe trata de una denuncia presentada por el Departamento Ejecutivo Municipal, de la que oportunamente brindó detalles la Presidenta Municipal de Federal, Alicia Oviedo. Se trataría de la instalación de cloacas, tubos, y la utilización de materiales y personal municipal, para la realización de obras que favorecieron a un familiar directo del imputado.\n\nALICIA OVIEDO HABIA EXPRESADO, EN CONFERENCIA DE PRENSA, EL 18-12-2023:\n\n• Resultó muy llamativa una colocación de tubos en un domicilio del ex secretario de obras públicas, y que hasta ahora no podemos encontrar los recuperos de obra; y también ha ocurrido con el mismo exfuncionario una conexión de cloacas con una extensión de obras de más de 30 metros, figurando un recupero de obra de solo $7000.\n\n• Una extensión de red cloacal es costosa, y el derecho de conexión de cloacas también es muy costoso, y los vecinos lo pagan.\n\nINCUMPLIMIENTO DE LOS DEBERES DE FUNCIONARIO PÚBLICO:\n\n• El incumplimiento de los deberes de funcionario público, en el contexto legal argentino, se refiere a la violación de las obligaciones que impone la ley a los funcionarios públicos en el ejercicio de su cargo. Esta violación puede constituir un delito, según la gravedad y el tipo de obligación incumplida, y también puede generar responsabilidad administrativa o disciplinaria.\n\nPECULADO:\n\n• También conocido como malversación de fondos públicos, es un delito que se comete cuando un funcionario público se apropia o utiliza indebidamente caudales o bienes públicos que le han sido confiados por razón de su cargo. Es decir, el funcionario usa esos recursos para su beneficio personal o el de terceros, en lugar de utilizarlos para el interés público.\n\n#federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "justicia",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "concordia",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-frigerio-anuncio-un-programa-para-cuidar-el-salario-y-la-capacidad-economica-de-empleados-publicos-y-jubilados",
+    "fuente": "Federal Al Día",
+    "titulo": "FRIGERIO ANUNCIÓ UN PROGRAMA PARA CUIDAR EL SALARIO Y LA CAPACIDAD ECONÓMICA DE EMPLEADOS PÚBLICOS Y JUBILADOS",
+    "fecha": "2026-09-25",
+    "link": "https://federalaldia.com.ar/2026/09/24/frigerio-anuncio-un-programa-para-cuidar-el-salario-y-la-capacidad-economica-de-empleados-publicos-y-jubilados/",
+    "texto_original": "El gobernador Rogelio Frigerio encabezó este jueves una conferencia de prensa en la que presentó un nuevo programa destinado a proteger el salario y fortalecer la capacidad económica de los empleados públicos y jubilados de Entre Ríos. Además, anunció que se incorporará la educación financiera en las aulas a través del Consejo General de Educación.\n\nLa iniciativa, que se instrumentará a través de la tarjeta Sidecreer, fue presentada junto al secretario General de la Gobernación, Mauricio Colello, y el presidente de Sidecreer, Mariano Reyno Buch. El programa reúne medidas orientadas a ordenar el acceso al crédito, ofrecer financiamiento en mejores condiciones, aliviar el endeudamiento y brindar mayor transparencia en los descuentos que impactan sobre los haberes.\n\nAl respecto, el gobernador dijo que el programa cuenta “con medidas concretas para cuidar el salario y la capacidad económica de los empleados públicos y los jubilados de nuestra provincia porque sabemos que muchas veces el crédito, que debería ser una solución, termina transformándose en un problema. Esto pasa cuando las deudas y los descuentos empiezan a llevarse cada vez más una proporción importante de los salarios”, detalló.\n\nSi bien “Entre Ríos es una de las provincias en la Argentina con menos problemas de sobreendeudamiento, eso no quiere decir que para cada familia de nuestra provincia que sufre esta situación, eso no sea un drama. Por lo cual, nosotros tenemos que actuar y por eso hemos decidido plantear algunas políticas”, remarcó.\n\nEn ese sentido, Frigerio sostuvo: “Como Estado no solo tenemos el rol de poner límites al endeudamiento y a las empresas que tienen detrás, de prestarle a la gente un negocio, sino también el rol de ayudar a sobrellevar una situación difícil para algunas familias y jubilados del sector público de la provincia, y el rol de capacitar y educar desde el punto de vista financiero a nuestros jóvenes. Por eso también desde el Consejo General de Educación estamos trabajando en la incorporación de educación financiera en nuestras aulas porque tenemos que educar desde temprana edad y de manera creciente en esta materia”, precisó.\n\nA modo de síntesis, el mandatario finalmente repasó las medidas. “Vamos a poner un límite del 40 por ciento en los haberes para contraer cualquier tipo de préstamo personal o ayuda económica. Vamos a lanzar una nueva línea de préstamos con la tasa más baja del mercado a cargo de Sidecreer, y en eso se invertirá 2000 millones de pesos, y vamos a hacer un nuevo plan de refinanciamiento de deudas que se suma al del Banco de Entre Ríos, también con las tasas más bajas de mercado, del 35 por ciento y plazos de amortización de 48 meses”.\n\nCuatro ejes para proteger el ingreso de los trabajadores\n\nComo primer eje, el gobierno provincial estableció un nuevo límite del 40 por ciento del haber para contraer cualquier tipo de préstamo personal o ayuda económica mediante código de descuento con entidades habilitadas por la provincia. Además, creó un código exclusivo de compra que permitirá descontar hasta el 30 por ciento del salario por consumos realizados con la tarjeta Sidecreer.\n\nEn segundo lugar, se lanzó una nueva línea de adelanto de haberes a través de Sidecreer, con un cupo de hasta 2.000 millones de pesos. El financiamiento podrá devolverse en hasta 12 meses y tendrá una tasa nominal anual del 45 por ciento, presentada como una de las más bajas del mercado para este tipo de herramienta.\n\nEl tercer componente del programa es un plan de refinanciamiento de deudas con Sidecreer. Como complemento del Plan de Alivio Financiero impulsado junto al Banco de Entre Ríos, la propuesta permitirá refinanciar saldos de la tarjeta en hasta 48 meses, con una tasa del 35 por ciento, y con un tope de cinco millones de pesos por usuario.\n\nFinalmente, el gobierno dispuso un nuevo orden de prelación de los descuentos sobre los recibos de haberes. La medida busca regularizar el modo en que impactan los distintos consumos y obligaciones, con el objetivo de evitar prácticas abusivas y otorgar mayor previsibilidad a empleados y jubilados.\n\nCómo acceder\n\nEl presidente de Sidecreer, Mariano Reyno Buch, detalló que la modalidad para gestionar los beneficios depende de la línea elegida. Respecto a la línea de adelantos, afirmó que “se va a poder resolver vía la aplicación de Sidecreer de manera 100 por ciento online”. Para el desendeudamiento y reordenamiento crediticio, indicó que el trámite comienza “acercándose de manera presencial a cualquiera de nuestras sucursales en la provincia o bien remitiendo correo electrónico o por los canales de atención que tenemos por WhatsApp”, aunque precisó que “se lo va a hacer concurrir de manera presencial porque tiene que ver con la precisión de lo que se quiere reestructurar”, requiriendo “un análisis particular y un trabajo personalizado con cada uno de los interesados”.\n\nFinalmente, para la incorporación de nuevos usuarios, señaló que “aquellos empleados públicos o jubilados que todavía no tienen la tarjeta Sidecreer fácilmente pueden adherirse e ir a los locales de Sidecreer o a través de Mi Entre Ríos”, de forma digital.\n\n#SecretariaComunicacionYPrensa #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "empleo",
+      "comercio",
+      "impuestos",
+      "transparencia",
+      "gobierno",
+      "presupuesto",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-la-justicia-permite-continuar-con-la-transformacion-del-sistema-de-alimentacion-escolar-en-entre-rios",
+    "fuente": "Federal Al Día",
+    "titulo": "LA JUSTICIA PERMITE CONTINUAR CON LA TRANSFORMACIÓN DEL SISTEMA DE ALIMENTACIÓN ESCOLAR EN ENTRE RÍOS",
+    "fecha": "2026-09-25",
+    "link": "https://federalaldia.com.ar/2026/09/24/la-justicia-permite-continuar-con-la-transformacion-del-sistema-de-alimentacion-escolar-en-entre-rios/",
+    "texto_original": "El máximo tribunal provincial hizo lugar parcialmente a la apelación presentada por los amparistas y estableció que la prestación deberá ajustarse también a los estándares de alimentación saludable previstos por la legislación provincial. La resolución no sustituye al Ejecutivo en la definición de los mecanismos técnicos para implementar la política alimentaria.\n\nEl Superior Tribunal de Justicia de Entre Ríos se expidió este jueves sobre la acción de amparo promovida por un grupo de padres, Agmer y la Fundación Cauce en relación con el nuevo sistema de desayunos y meriendas escolares implementado por la Provincia.\n\nEl máximo tribunal provincial resolvió hacer lugar parcialmente al recurso de apelación presentado por los amparistas, precisando el alcance de la sentencia dictada el 21 de agosto. En concreto, estableció que la obligación de la Provincia no se limita a excluir productos alcanzados por sellos de advertencia, sino que también comprende el deber de adecuar la prestación alimentaria escolar a los estándares de alimentación saludable establecidos por la Ley Provincial 10.594.\n\nLa resolución, al mismo tiempo, mantiene el criterio de que corresponde al Poder Ejecutivo determinar los medios técnicos y organizativos para alcanzar esos estándares, sin que ello implique una sustitución de las facultades propias de la Administración.\n\nEn este sentido, el Tribunal sostuvo que el cumplimiento de la sentencia no puede reducirse a una cuestión formal vinculada con la presencia o ausencia de etiquetas, sino que debe contemplar la composición nutricional y el cumplimiento efectivo de las normas que regulan la alimentación saludable.\n\nEl fallo no dispone el regreso al sistema anterior ni establece la sustitución del esquema de organización adoptado por el Gobierno provincial. Por el contrario, deja a salvo las facultades del Ejecutivo para definir los mecanismos concretos mediante los cuales se implementa la política alimentaria escolar.\n\nAsimismo, el Superior Tribunal rechazó otros planteos formulados por los amparistas. Entre ellos, desestimó el pedido de ordenar en este proceso la presentación de los menús completos del nuevo sistema y la acreditación genérica y anticipada del cumplimiento de todos los estándares invocados. El Tribunal señaló que cualquier controversia futura sobre el cumplimiento deberá plantearse, de existir un incumplimiento concreto, en la etapa de ejecución de sentencia.\n\n#SecretariaComunicacionYPrensa #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "gobierno",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-queda-en-manos-del-senado-la-ley-que-habilita-poner-en-manos-privadas-nacionales-o-extranjeras-servicios-esenciales",
+    "fuente": "Federal Al Día",
+    "titulo": "QUEDA EN MANOS DEL SENADO LA LEY QUE HABILITA PONER EN MANOS PRIVADAS NACIONALES O EXTRANJERAS “SERVICIOS ESENCIALES”",
+    "fecha": "2026-09-25",
+    "link": "https://federalaldia.com.ar/2026/09/24/queda-en-manos-del-senado-la-ley-que-habilita-poner-en-manos-privadas-nacionales-o-extranjeras-servicios-esenciales/",
+    "texto_original": "La Comisión de Obras Públicas del Senado analiza la reforma al Régimen General de Concesiones que ya obtuvo media sanción de Diputados. La iniciativa impulsada por el oficialismo habilita la concesión a terceros públicos o privados, nacionales o extranjeros, de actividades y funciones esenciales del Estado, entre ellas educación, salud, servicios sanitarios, seguridad, administración de justicia y sistema penitenciario. El proyecto modifica una Ley sancionada este mismo año que había excluido expresamente esas áreas de cualquier modalidad de concesión.\n\nEl futuro de la reforma que abre la posibilidad de poner en manos de terceros áreas esenciales del Estado entrerriano quedó ahora en manos de la Cámara de Senadores, luego de que el oficialismo y sus aliados aprobaran en Diputados los cambios a la Ley Nº 11.280 de Régimen General de Concesiones.\n\nLa iniciativa deberá atravesar el debate en comisión antes de llegar al recinto de la Cámara Alta. El punto central de la reforma es el artículo quinto, que altera sustancialmente el límite que había fijado la propia Legislatura meses atrás para impedir que servicios esenciales quedaran alcanzados por el régimen de concesiones.\n\nEl texto que obtuvo media sanción establece que las actividades y funciones esenciales, propias o inherentes del Estado, podrán ser objeto de distintas modalidades de concesión a favor de terceros, sean personas humanas o jurídicas, públicas o privadas, nacionales o extranjeras. En esos casos, la titularidad, la potestad regulatoria y la fiscalización permanecerán formalmente bajo responsabilidad estatal.\n\nLa modificación alcanza expresamente a la educación pública en todos sus niveles; la salud pública y los servicios sanitarios esenciales; la seguridad pública y la protección civil; los servicios vinculados a la administración de justicia y el sistema penitenciario.\n\nUna Ley modificada pocos meses después\n\nLa particularidad del proyecto radica en que busca cambiar una norma sancionada recientemente. Durante el tratamiento original del Régimen General de Concesiones, el justicialismo había logrado incorporar una prohibición expresa para evitar que precisamente esas funciones esenciales pudieran concesionarse, delegarse, privatizarse o transferirse a terceros.\n\nSin embargo, poco después de promulgada la Ley, el bloque Juntos por Entre Ríos presentó una reforma impulsada por la diputada Noelia Taborda. Durante el debate en comisión, la legisladora reconoció que la modificación respondió a un pedido del poder Ejecutivo provincial.\n\nDe ese modo, donde la norma vigente estableció una prohibición expresa, el nuevo texto admite mecanismos de concesión o gestión indirecta, aunque mantiene en cabeza del Estado la titularidad, regulación y fiscalización.\n\nLos fundamentos del oficialismo sostienen que el objetivo es compatibilizar el carácter esencial de esas funciones con mecanismos de gestión destinados a mejorar la eficiencia, capacidad operativa, infraestructura y calidad de los servicios. Como antecedentes, la iniciativa mencionó el Hospital de la Baxada “Doctora Teresa Ratto” y las instituciones educativas públicas de gestión privada.\n\nAsimismo, la propuesta determina que una eventual transferencia de la titularidad de esas funciones deberá contar con autorización expresa de la Legislatura mediante una ley especial.\n\nEl rechazo opositor y sindical\n\nDesde el bloque Más para Entre Ríos en la Cámara de Diputados cuestionaron desde el inicio la reforma y advirtieron que “elimina la prohibición expresa de concesionar la educación, la salud, la seguridad, la justicia y el sistema penitenciario, y abre la puerta a su privatización”. Para el justicialismo, esas áreas constituyen responsabilidades indelegables del Estado.\n\nLa Asociación Trabajadores del Estado (ATE) también repudió la iniciativa y sostuvo que el proyecto pretende entregar a la lógica del lucro funciones que corresponden al Estado. El gremio puso el foco particularmente en el alcance de la reforma sobre educación pública, salud, servicios sanitarios, seguridad, protección civil, administración de justicia y sistema penitenciario.\n\nEl 2 de septiembre, el oficialismo consiguió finalmente la media sanción en Diputados sin el acompañamiento del peronismo. Con esa votación, el expediente pasó al Senado, que tendrá ahora la responsabilidad política de ratificar, modificar o rechazar una reforma que redefine hasta dónde puede avanzar la participación privada en servicios esenciales de la provincia.\n\n#AIM #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "empleo",
+      "gobierno",
+      "legislatura",
+      "justicia",
+      "infraestructura_obra_publica",
+      "educacion",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-dia-de-gualeguay-se-licita-la-finalizacion-de-la-nueva-escuela-n-40-en-el-departamento-gualeguay",
+    "fuente": "El Día de Gualeguay",
+    "titulo": "Se licita la finalización de la nueva escuela N° 40 en el departamento Gualeguay",
+    "fecha": "2026-09-24",
+    "link": "https://eldiadegualeguay.com/se-licita-la-finalizacion-de-la-nueva-escuela-n-40-en-el-departamento-gualeguay/",
+    "texto_original": "La intervención cuenta con un presupuesto oficial de 986 millones de pesos, que se orienta a concretar y poner en funcionamiento un edificio escolar destinado a garantizar el acceso a la educación para estudiantes del territorio.\n\nEl Gobierno de Entre Ríos, a través del Ministerio de Planeamiento e Infraestructura, licitará la finalización del nuevo edificio de la escuela N° 40 José Enrique Rodó, que se encuentra emplazado en el Paraje Monte Redondo, a 65 kilómetros de la localidad de Gualeguay, en una zona rural del Séptimo Distrito.\n\nLa intervención cuenta con un presupuesto oficial de 986 millones de pesos, que se orienta a concretar y poner en funcionamiento un edificio escolar destinado a garantizar el acceso a la educación para estudiantes del territorio.\n\nEn el marco de la Licitación Pública N° 11/26, el proyecto contempla la ejecución integral de los trabajos pendientes, además de la reparación y reconstrucción de componentes que pudieran haberse deteriorado por el tiempo transcurrido y la exposición ambiental.\n\nEl edificio original donde funcionaba la escuela fue afectado por un incendio en julio de 2021, que provocó la pérdida de la infraestructura y del equipamiento escolar. Tras el relevamiento técnico, se constató que la estructura había sufrido daños irreversibles, por lo que se determinó la construcción de un nuevo establecimiento.\n\n“Estamos retomando una obra que surgió de la necesidad de dar respuesta a una comunidad educativa que perdió su edificio”, señaló el ministro de Planeamiento e Infraestructura, Hernán Jacob. Además sostuvo el alcance e impacto que tendrá la intervención en la región. “Con esta licitación damos un paso concreto para la conclusión de la obra y hacer posible que los chicos puedan contar con un espacio propio para su formación y desarrollo”.\n\nAl respecto, la obra fue proyectada para albergar estudiantes de los niveles Inicial, Primario y Secundario, con sectores diferenciados e independencia funcional. Contará con una sala multiaño, aulas, patio institucional, patio de juegos y un Salón de Usos Múltiples (SUM), que funcionará como comedor.\n\nTambién incluirá espacios para la gestión institucional, sanitarios generales, para Nivel Inicial y accesibles para personas con movilidad reducida, cocina, residencia para docente, patio de servicios, además de galerías y circulaciones interiores que vinculan los distintos sectores.\n\nEl proyecto tendrá una superficie total de 494 metros cuadrados, entre espacios cubiertos y semicubiertos y prevé además las instalaciones y obras complementarias necesarias para garantizar la puesta en servicio del establecimiento, entre ellas los sistemas de provisión y reserva de agua, desagües, alimentación eléctrica y gas envasado.\n\nPresentación de ofertas y pliegos\n\nLa apertura de sobres se realizará el viernes 23 de octubre de 2026, a las 10, en el Salón de los Escudos de Casa de Gobierno, ubicado en calle De la Puente N° 220, Paraná.\n\nLa venta de pliegos estará disponible hasta el 7 de octubre de 2026, mientras que las consultas técnicas podrán efectuarse hasta el 13 de octubre de 2026 en la Dirección General de Arquitectura y Construcciones, de 7 a 13, o mediante correo electrónico a \nminplan@entrerios.gov.ar\n, con copia a \ndirecciongeneralarq@gmail.com\n. Más información del llamado: \nhttps://www.entrerios.gov.ar/minplan/licitaciones/lpn_dgayc_2026-11",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "presupuesto",
+      "infraestructura_obra_publica",
+      "construccion",
+      "educacion",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-dos-allanamientos-por-un-robo-terminaron-con-el-secuestro-de-celulares-una-garrafa-y-otros-elementos",
+    "fuente": "El Día Online",
+    "titulo": "Dos allanamientos por un robo terminaron con el secuestro de celulares, una garrafa y otros elementos",
+    "fecha": "2026-09-25",
+    "link": "https://www.eldiaonline.com/dos-allanamientos-por-un-robo-terminaron-con-el-secuestro-de-celulares-una-garrafa-y-otros-elementos",
+    "texto_original": "Personal de la Comisaría Quinta y de la División Investigaciones e Inteligencia Criminal de Gualeguaychú realizó dos allanamientos durante la tarde del jueves, en el marco de una investigación por un hecho de robo.\n\nLos procedimientos tuvieron lugar en dos domicilios ubicados sobre Camino Ñandubaysal, en distintos complejos habitacionales. Las medidas contaron con la intervención del Juzgado de Garantías y Transición N.º 2 de Gualeguaychú.\n\nDurante los registros, los efectivos secuestraron distintos elementos considerados de interés para la causa. Entre ellos se encuentran un ventilador de pared, varios teléfonos celulares, una garrafa de 15 kilogramos y un disco de hierro negro de tres patas, además de otros objetos.\n\nTras los allanamientos, los elementos quedaron a disposición de las autoridades judiciales intervinientes. La investigación continúa bajo la intervención de la Fiscalía de Propiedad y otros delitos, con el objetivo de avanzar en el esclarecimiento del robo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-locura-por-la-despedida-de-messi-las-entradas-se-agotaron-en-menos-de-dos-horas",
+    "fuente": "Nogoyá Times",
+    "titulo": "Locura por la despedida de Messi: las entradas se agotaron en menos de dos horas",
+    "fecha": "2026-09-25",
+    "link": "https://nogoyatimes.com/generales/noticias/locura-por-la-despedida-de-messi-las-entradas-se-agotaron-en-menos-de-dos-horas/",
+    "texto_original": "Furor por el último partido del capitán\n\nLa venta comenzó este jueves a las 18 para el último partido de Lionel Messi con la Selección Argentina, que será el 6 de octubre ante Benín en el Monumental. Las populares volaron primero y antes de las 20 ya no quedaban localidades disponibles.\n\nLa \ndespedida de Lionel Messi de la Selección Argentina\n provocó este jueves una demanda extraordinaria de entradas para el amistoso que la Albiceleste disputará ante Benín el próximo \n6 de octubre en el estadio Monumental\n. La venta comenzó a las 18 y, antes de las 20, la plataforma Deportick ya informaba que no quedaban localidades disponibles.\n\nEl encuentro será el último de Messi con la camiseta argentina. La Asociación del Fútbol Argentino confirmó que el capitán estará disponible para el compromiso frente a Benín, que cerrará una serie de tres amistosos de la Selección durante esta ventana internacional.\n\nLa expectativa se trasladó rápidamente a la venta de tickets. Según reportaron usuarios que intentaban ingresar al sistema, la enorme cantidad de conexiones generó demoras y extensas filas virtuales. Las populares fueron las primeras en agotarse y, poco después, comenzaron a desaparecer las restantes ubicaciones.\n\nLas populares duraron menos de una hora\n\nLas entradas habían salido a la venta a través de Deportick y del sistema de AFA Tickets. Los valores anunciados iban desde \n90.000 pesos para las populares hasta 480.000 pesos para las plateas medias San Martín y Belgrano\n.\n\nA poco más de una hora de iniciada la comercialización, usuarios que lograban superar la fila virtual mostraban que únicamente quedaban disponibles algunas de las ubicaciones más costosas. Cerca de las 19.15, por ejemplo, todavía aparecían plateas de 320.000 pesos.\n\nMinutos después, alrededor de las 19.28, comenzaron a multiplicarse en redes sociales las capturas que indicaban que las localidades estaban agotadas. Mientras tanto, otras personas continuaban dentro de la fila virtual con tiempos de espera que superaban una hora.\n\nDeportick informó que ya no quedaban entradas\n\nFinalmente, cerca de las \n19.50\n, Deportick comunicó que las entradas se encontraban agotadas. De esta manera, el expendio general duró menos de dos horas desde su apertura.\n\nLa enorme demanda estuvo vinculada al carácter histórico del encuentro. Messi había anunciado oficialmente su retiro de la Selección y eligió el partido del 6 de octubre para cerrar su trayectoria internacional.\n\nLa AFA programó para esta ventana tres amistosos: Argentina enfrentará a Bolivia el 30 de septiembre en el estadio Mario Alberto Kempes de Córdoba, a Burkina Faso el 3 de octubre en el Monumental y finalmente a Benín, el martes 6, también en la cancha de River.\n\nEl Monumental, escenario del último partido de Messi\n\nLa presentación frente a Benín tendrá una carga emocional particular. Será la última oportunidad de ver a \nLionel Messi jugando oficialmente con la camiseta de la Selección Argentina\n, después de más de dos décadas de trayectoria internacional.\n\nEl rosarino cerrará así un ciclo en el que consiguió, entre otros títulos, la Copa América 2021, la Finalissima 2022, el Mundial de Qatar 2022 y la Copa América 2024.\n\nPor el momento, resta conocer si la AFA dispone de algún remanente de localidades que pueda habilitarse en una nueva instancia. Hasta que exista una comunicación oficial, la venta general aparece agotada tras una jornada marcada por las largas filas virtuales y la enorme demanda. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nLocura por la despedida de Messi: las entradas se agotaron en menos de dos horas\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-25T02:48:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Deportes, fuera de alcance tematico del medio. (automático)",
+    "topicos_matcheados": [
+      "comercio",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "nogoyá"
+    ]
+  },
+  {
+    "id": "medios-nogoya-times-la-palista-entrerriana-magdalena-garro-conquisto-el-oro-en-k4-500-metros-en-santa-fe-2026",
+    "fuente": "Nogoyá Times",
+    "titulo": "La palista entrerriana Magdalena Garro conquistó el oro en K4 500 metros en Santa Fe 2026",
+    "fecha": "2026-09-25",
+    "link": "https://nogoyatimes.com/generales/noticias/la-palista-entrerriana-magdalena-garro-conquisto-el-oro-en-k4-500-metros-en-santa-fe-2026/",
+    "texto_original": "Canotaje velocidad en los Juegos Suramericanos\n\nLa palista de Concepción del Uruguay conquistó este jueves la medalla de oro junto a Candelaria Sequeira, Paulina Barreiro y Lucía Dalto. El equipo argentino se impuso en la Laguna Setúbal con un tiempo de 1:31.25.\n\na entrerriana \nMagdalena Garro\n sumó un nuevo logro a su destacada trayectoria en el canotaje al conquistar este jueves la \nmedalla de oro en la final femenina de K4 500 metros de los Juegos Suramericanos Santa Fe 2026\n. La deportista oriunda de Concepción del Uruguay integró la embarcación argentina junto a Candelaria Sequeira, Paulina Barreiro y Lucía Dalto.\n\nLa definición se disputó en la \nLaguna Setúbal\n, donde el cuarteto argentino completó los 500 metros en \n1 minuto, 31 segundos y 25 centésimas (1:31.25)\n. El registro le permitió quedarse con el primer puesto y subir a lo más alto del podio.\n\nLa actuación volvió a colocar a Garro entre las protagonistas del canotaje argentino en una competencia internacional. La uruguayense llegó a Santa Fe 2026 con una extensa trayectoria y antecedentes en diferentes ediciones de los Juegos Panamericanos.\n\nArgentina dominó la final del K4\n\nEl segundo puesto quedó para \nColombia\n, cuya embarcación estuvo conformada por Narem Molina, Tatiana Muñoz, Ximena Rodríguez y Mónica Hincapié. Las colombianas completaron la prueba con un tiempo de \n1:34.40\n, poco más de tres segundos después de las argentinas.\n\nLa \nmedalla de bronce fue para Chile\n, que presentó a Daniela Castillo, Fernanda Sepúlveda, Francisca Medina y Florencia Muñoz. El equipo trasandino registró \n1:36.56\n.\n\nPor su parte, \nUruguay finalizó con un tiempo de 1:38.55\n. De esta manera, Argentina encabezó la clasificación de una final en la que logró establecer diferencias desde su registro definitivo.\n\nMagdalena Garro, una referente entrerriana del canotaje\n\nEl oro conseguido en Santa Fe representó otro capítulo destacado en la carrera deportiva de \nMagdalena Garro\n, nacida en Concepción del Uruguay y con una extensa presencia en competencias internacionales representando a Argentina.\n\nLa entrerriana ya había conseguido \ncuatro medallas en Juegos Panamericanos entre 2015 y 2023\n, en las modalidades K2 y K4 sobre 500 metros.\n\nSu recorrido panamericano comenzó en \nToronto 2015\n, donde consiguió una medalla en K4 500 metros. Cuatro años después, en \nLima 2019\n, volvió a subir al podio en dos oportunidades, tanto en K2 500 metros como en K4 500 metros.\n\nEn \nSantiago 2023\n, Garro amplió su cosecha panamericana al conseguir otra presea en K2 500 metros. De esta manera, acumuló cuatro medallas en esa competencia continental a lo largo de tres ediciones.\n\nUn nuevo oro con sello entrerriano\n\nLa experiencia de la palista de Concepción del Uruguay fue nuevamente importante para la embarcación nacional. Junto a Sequeira, Barreiro y Dalto, logró imponerse en una prueba que exige coordinación y sincronización entre las cuatro integrantes del bote.\n\nEl triunfo obtenido en las aguas de la Laguna Setúbal permitió que \nEntre Ríos sumara otra actuación dorada a través de uno de sus representantes en Santa Fe 2026\n. Fuente: El Once\n\nEscuchá La 100 #Nogoyá\n\n en vivo\n\n Seguinos en \n\nFacebook\n\n Seguinos en \n\nTwitter\n\nNogoyá Radios es una Agencia de Medios que cuenta con espacios publicitarios adecuados para la difusión de su Empresa, Profesión y/o Servicios.\n\n#Nogoyá\n\n Radios \n\n3435-429289 / 3435-616203 contacto@nogoyaradios.com\n\nLa entrada \nLa palista entrerriana Magdalena Garro conquistó el oro en K4 500 metros en Santa Fe 2026\n se publicó primero en \nNogoyá Times\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T02:48:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concepción del uruguay",
+      "nogoyá"
+    ]
   }
 ]
