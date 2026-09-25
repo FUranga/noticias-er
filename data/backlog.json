@@ -94431,5 +94431,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "boletinnac-348018",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial",
+    "fecha": "2026-09-25",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348018/20260925",
+    "texto_original": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial Fecha de Publicacion: 25/09/2026 2026, a las 10:00 horas, en el asiento de la Jefatura de Agrupación V “ ENTRE RÍOS ”, para llevar a cabo la audiencia en la que se recibirá su declaración...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T20:16:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2418064",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DIRECCIÓN REGIONAL PARANÁ Licitación Pública 10/2026",
+    "fecha": "2026-09-25",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2418064/20260925",
+    "texto_original": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - DIRECCIÓN REGIONAL PARANÁ Licitación Pública 10/2026 Fecha de Publicacion: 25/09/2026 OBJETO: Locación de un inmueble en la ciudad de Paraná, provincia de Entre Ríos , destinado al funcionamiento de las oficinas y archivos de la Dirección...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T20:16:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
