@@ -88951,5 +88951,33 @@
     "lugares_matcheados": [
       "entre ríos"
     ]
+  },
+  {
+    "id": "goberer-80095",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "María Grande inauguró su Centro Emisor de Licencias Nacionales y la provincia suma 66 Centros Homologados",
+    "fecha": "2026-09-24",
+    "link": "https://portal.entrerios.gov.ar/noticias/80095",
+    "texto_original": "El Ministerio de Seguridad y Justicia acompañó la puesta en marcha del nuevo Centro Tipo A en la localidad de María Grande. Dicho avance es producto del trabajo conjunto con el municipio y la Agencia Nacional de Seguridad Vial (ANSV) para unificar exigencias y elevar los estándares de seguridad vial y control en calles y rutas.\n\nEn el marco del proceso de modernización y fortalecimiento de la seguridad vial en todo el territorio entrerriano, se llevó a cabo la presentación oficial y puesta en marcha del nuevo Centro Emisor de Licencias Nacionales (CEL) Tipo A en la localidad de María Grande.\n\n \n\nEl acto estuvo encabezado por el presidente municipal, Héctor Solari, y contó con la participación de la Directora General de Prevención y Seguridad Vial de la provincia de Entre Ríos, Ana Elle. El nuevo centro es el resultado de la gestión y el trabajo conjunto entre el municipio, el Gobierno de Entre Ríos y la Agencia Nacional de Seguridad Vial.\n\n \n\nCon esta incorporación, la provincia alcanza un total de 66 Centros Emisores de Licencias Nacionales homologados por la ANSV. De esta manera, se consolida la Red Provincial y se amplía el acceso de la ciudadanía a un sistema unificado, federal y con altos criterios de exigencia técnica.\n\n \n\nLa implementación del nuevo Centro Emisor se rige bajo la órbita del Sistema Nacional de Licencias (Sinalic). Este marco normativo nacional establece procedimientos comunes para todo el país, regulando la emisión de las habilitaciones, los exámenes teóricos y prácticos obligatorios, y la totalidad de los requisitos indispensables para su otorgamiento.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T00:00:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80094",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Comenzaron los trabajos de mejora en el acceso a Puerto Yeruá",
+    "fecha": "2026-09-24",
+    "link": "https://portal.entrerios.gov.ar/noticias/80094",
+    "texto_original": "En el marco del avance de los trabajos de rehabilitación de rutas y accesos a localidades entrerrianas comprendidos en el Grupo II de Bacheo, la Dirección Provincial de Vialidad informó que comenzaron este jueves las tareas de mejora en el acceso a Puerto Yeruá desde la autovía de la ruta Nacional 14.\n\nSe trata del tramo V, donde se prevé intervenir 16,9 kilómetros para mejorar las condiciones de transitabilidad y accesibilidad a la localidad del departamento Concordia, beneficiando de manera directa a vecinos y productores de la zona.\n\nDesde el organismo vial señalaron que, como parte del Grupo II de Bacheo, también se ejecutan otras obras complementarias. Entre ellas, esta semana comenzó la construcción de una calzada sumergible sobre el arroyo Gualeguaycito, entre los departamentos Concordia y Federación.\n\nAsimismo, se prevé la reparación y protección del puente sobre el Paso Duarte, en el río Gualeguay, departamento Federal; la construcción de alcantarillas sobre el río Gualeguaychú, en proximidades del acceso a Arroyo Barú, departamento Colón; y la construcción de una calzada sumergible sobre el arroyo San Miguel, entre la ruta Nacional 130 y Colonia Suiza.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-25T00:00:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
