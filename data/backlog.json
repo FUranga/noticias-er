@@ -101150,5 +101150,554 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "medios-google-news-entre-rios-d866088f1137",
+    "fuente": "AIM Digital",
+    "titulo": "Entre Ríos reúne financiamiento internacional para obras y producción",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU82b3V6RHZQR0ptOW8xd1ZRLU9VSW1MUHpEckpUT1A2QnM1U0FxempNN0lnYUpKVmdmUFhxVzQzTFFZUldzbnFpd2dDM3hYcnBpS2VCMWJ3VWl2b3g5SERmaG9ibjhnZDFQX3Z2SW1LSV93bTA1NFVXaWROUTZ0aENvY3NSSmcyZTZidFdnTzg2aHBDY1dpVWtGNjB6cnhicEoxZnk3VUt0WmVpdHp2bk1BNA?oc=5",
+    "texto_original": "Entre Ríos reúne financiamiento internacional para obras y producción\n  \nAIM Digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-d37d8d0ed2a6",
+    "fuente": "Diario El Debate Pregón",
+    "titulo": "El trabajo “La geometría de la naturaleza” representará a Entre Ríos en la Feria Nacional de Ciencia a realizarse en San Luis",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaDlfbnFXUjctNS1MZ3M2cTBpNU9sSTZSU3hUQWs4LUE3WkMybWVvZFlxeWdObFZhTURZYUtyc2JjX3Bqdm9HemdTSVlqTEJtb3o3ZVNGWThadWtqa1lDV2h3VFk2N0c1ODJSekVYLVNzanlLSjRpc21XdkZEOXZoRkJRMWZvRExsNUZHeGJzMlkxVkJ4YXBqVzY4SlNUUHZNUGE5V2RSQlhGRmJwYzc4MGFuR093V1RIeE0yckpXTDE3TC0wOXVXLVBZZkZYalpYYUdZenNWd2lRaHVETmlMaFFLUm9DTVBZTk9OdVRJem1NZGd2MDZ2OWxR?oc=5",
+    "texto_original": "El trabajo “La geometría de la naturaleza” representará a Entre Ríos en la Feria Nacional de Ciencia a realizarse en San Luis\n  \nDiario El Debate Pregón",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-6a058a5b6aa4",
+    "fuente": "Diario El Argentino",
+    "titulo": "Organismos internacionales financian obras en Entre Ríos, entre ellas la planta depuradora y el puente del Arroyo El Sauce en Gualeguaychú",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQenJzeFdOSzNDNk5mSFZnMjIwWVhUWjNhYVFjWDV2V3V3SlE0TDQ4N2lrbFVsN081ZEFWa2pCTGY2ZkVUUmZORHRmU2t1b0VxT3BQNlNUVVRjdFptUFVFdHBEMVJ5UmQ3aDhYOTlydUZNZklnTVd2Zy12OFVIeWtOZlRkVWkyZWJ2WndNcXp5QU9xdnc4Y3VraUo5Z1pNT3F0V3IxTlBKU1RQdjg2S0NkV3ZUNFR3cU1kajVWUnJZZlFhOXBuWHotUWE5Q1FyaVN4S004c0dIakpYcGtFeEpBcHpXODnSAeQBQVVfeXFMUHpyc3hXTkszQzZOZkhWZzIyMFlYVFozYWFRY1g1dld1d0pRNEw0ODdpa2xVbDdPNWRBVmtqQkxmNmZFVFJmTkR0ZlNrdW9FcU9wUDZTVFVUY3RabVBVRXRwRDFSeVJkN2g4WDk5cnVGTWZJZ01XdmctdjhVSHlrTmZUZFVpMmVidlp3TXF6eUFPcXZ3OGN1a2lKOWdaTU9xdFdyMU5QSlNUUHY4NktDZFd2VDRUd3FNZGo1VlJyWWZRYTlwblh6LVFhOUNRcmlTeEtNOHNHSGpKWHBrRXhKQXB6Vzg5?oc=5",
+    "texto_original": "Organismos internacionales financian obras en Entre Ríos, entre ellas la planta depuradora y el puente del Arroyo El Sauce en Gualeguaychú\n  \nDiario El Argentino",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f4a87cb9c0c6",
+    "fuente": "Desde Entre Ríos",
+    "titulo": "La producción porcina creció 12,4%",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mSmg0YWtHQlh4UldYeGliWVZOUFJ0aWktdjhuSXl0RVFJamRpaXl1RVJoLXpyOTl2YmpucTh4Tnp5aUU1MmppYTlrZTZYV0tIcEtCcFhmS0g5Z1I1cVZmWEprUy0yWi1udzMxNUozT1ZBTlhpaEE?oc=5",
+    "texto_original": "La producción porcina creció 12,4%\n  \nDesde Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-101a8285df01",
+    "fuente": "APFDigital",
+    "titulo": "El turismo de Paraná celebrará su día con una jornada de construcción colectiva",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeXFQSUlMcFBJSmJjbDJPdEw2dEhCQnZTWW9LODI1R29waWFrTmNRQm9PYTlfSzZkRmRqU0lENFNMTWhQRDJZWWI1OE81RlZhSmlRd1hDNHZNdEVJSmJBMURzRGN2bG9TM2kxTGtLVVEtT1ZqZk95YW1VZGY3Y2c2OVIyVFVOb2ltbVpwSEtDaU1DNjNRcWpCNDVkbGhScWdNbW5sM0MzaC01WGl1LXlUSDJjREZJNzU2VGtINXAtZ29JV01McDdxQXFPeWs0a0pCM2fSAdcBQVVfeXFMTzdNVXZENUFkWl9EclZwUDBFaXU1VHBMb3RSRUQyeTMyZmVlM0oxUHcyT2xxNm9FQm5LTnZpT0N1bGo3X09ocDFHQ1duZ0pFWmUtb0Ryc28tX052WE5YcmxxSFlmS01vSGlwSW5FWmZlUzktSkxLeVBNOVlOT3RvRnVRS2ZJTHRvRmx3TGdmNDJGeUZiTU1wUjdrRFMweHc0Wm4yTVJ1VGJLN09xY2EzTjFPc3kySUFEWG9iYjBLczVhVC1fa1N4NjZmdDItZm1uV204LXowT0U?oc=5",
+    "texto_original": "El turismo de Paraná celebrará su día con una jornada de construcción colectiva\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-f38309a603b5",
+    "fuente": "APFDigital",
+    "titulo": "Cooperativismo y comunidad: la propuesta pedagógica que impulsa la Escuela N° 37 Manuel Belgrano de Paraná",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmFxaTk5ZzlBb1hQZ0Y3QjR3d1dXeFB1OURSZlREcVhGeGUwRkplTklmVUowdmVTS2hNdzdxbUhOZVlHTjlmUW9DX1B1NmYzTXpNNjdqaTRzcTh2MzV2QXFNOUZTdGJWRGFuZHRwZzRuQUc4clRXa04xVXBwUHJsLWVpSjc3cllJOEt3UjVpRjBPMGRDM3phTmNqdEtNUkRXTzVUVDJYTmdwd2xnZ0t4cGJjRVpDUnRFcXlwRXNzeW0tQTZHSGFuNTVIMU01OGJXaVpnZE1vcVN6eVZHdkVMSHVjYnd2WHdMVURSaXpqSFA1ZlBBQUVBONIB-AFBVV95cUxNNmFxaTk5ZzlBb1hQZ0Y3QjR3d1dXeFB1OURSZlREcVhGeGUwRkplTklmVUowdmVTS2hNdzdxbUhOZVlHTjlmUW9DX1B1NmYzTXpNNjdqaTRzcTh2MzV2QXFNOUZTdGJWRGFuZHRwZzRuQUc4clRXa04xVXBwUHJsLWVpSjc3cllJOEt3UjVpRjBPMGRDM3phTmNqdEtNUkRXTzVUVDJYTmdwd2xnZ0t4cGJjRVpDUnRFcXlwRXNzeW0tQTZHSGFuNTVIMU01OGJXaVpnZE1vcVN6eVZHdkVMSHVjYnd2WHdMVURSaXpqSFA1ZlBBQUVBOA?oc=5",
+    "texto_original": "Cooperativismo y comunidad: la propuesta pedagógica que impulsa la Escuela N° 37 Manuel Belgrano de Paraná\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-apf-digital-gn-8c8e6d86d678",
+    "fuente": "APFDigital",
+    "titulo": "El CIC La Floresta de Paraná celebró 20 años de trabajo junto a la comunidad",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXlqSEhDaEhScUtGNUR3SFB1R2ozQlIyWE1BT1BnazdJajdOazViZHFIZHpBelF3UkE3dTY4U2xhUEZVRUJhNDdfNXJrRG02emEydi1hc1lkSEhINGYySHJWOC1lOHZONE5nQUtTWDh6NVVBeDQ5QWQ0SUNzQVVTbzBxOXQzZXhjQUNxZUlKWWhfOUFKa3lwcDc0b3ZJclEtVEV3TlNERGtHdURZYko4TVNTNTFtdDJjRm5vdWg5OWszVGVWRjFpZFo5Q0tlN1NnMU1Z0gHTAUFVX3lxTE9JeWpISENoSFJxS0Y1RHdIUHVHajNCUjJYTUFPUGdrN0lqN05rNWJkcUhkekF6UXdSQTd1NjhTbGFQRlVFQmE0N181cmtEbTZ6YTJ2LWFzWWRISEg0ZjJIclY4LWU4dk40TmdBS1NYOHo1VUF4NDlBZDRJQ3NBVVNvMHE5dDNleGNBQ3FlSUpZaF85QUpreXBwNzRvdklyUS1URXdOU0REa0d1RFliSjhNU1M1MW10MmNGbm91aDk5azNUZVZGMWlkWjlDS2U3U2cxTVk?oc=5",
+    "texto_original": "El CIC La Floresta de Paraná celebró 20 años de trabajo junto a la comunidad\n  \nAPFDigital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-174f820b3e60",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Día del Empleado de Comercio: qué pasará con supermercados y shoppings",
+    "fecha": "2026-09-27",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVd5c1JYZkhWQUJfdDNyeDlTRkpyN2xIc1R5NTlWUms4ZVN4bkpLODE4OU5ZQWdJX2RENllGR3NhaHM3akdNd0lzeXJkamJyUk1RZF9sbWZQNHpkcHd1Zm4xTzBCSnAyY3RuSkNUejlHcmRfNkRwSFNzQ09fVTBIelRXM3lSMmE3WUhFaFhhZEtrNmI0YjRldDhfem4tUFpa?oc=5",
+    "texto_original": "Día del Empleado de Comercio: qué pasará con supermercados y shoppings\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:35:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-entre-rios-en-alerta-13511-empleos.html",
+    "fuente": "Diario Concordia",
+    "titulo": "Entre Ríos en alerta: 13.511 empleos menos y 1.074 empresas fuera de juego",
+    "fecha": "2026-09-27",
+    "link": "https://www.diarioconcordia.com.ar/2026/09/entre-rios-en-alerta-13511-empleos.html",
+    "texto_original": "“Esto va a terminar mal”: Convergencia Provincial advierte por la caída del empleo, los cierres y la actividad económica.Entre Ríos atraviesa un escenario de deterioro productivo que, según un informe citado por Convergencia Provincial, se traduce en 13.544 puestos de trabajo registrados menos y alrededor de 1.074 empresas que habrían cerrado o dejado de operar entre noviembre de 2023 y mediados",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "economia",
+      "empleo"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-de-concordia-es-el-primer-vinedo.html",
+    "fuente": "Diario Concordia",
+    "titulo": "De Concordia es el primer viñedo orgánico certificado de Entre Ríos",
+    "fecha": "2026-09-27",
+    "link": "https://www.diarioconcordia.com.ar/2026/09/de-concordia-es-el-primer-vinedo.html",
+    "texto_original": "La Finca Fénix, emprendimiento de la familia Rigoni ubicado en La Criolla, departamento Concordia; obtuvo la certificación orgánica de su lote de uva Tannat.El logro es resultado de un proceso de transición y acompañamiento articulado entre las áreas de Producción Orgánica de Entre Ríos y de Nación, en el marco del Programa Federal de Vitivinicultura orgánica.La certificación corresponde a un",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-mujeres-peronistas-de-concordia.html",
+    "fuente": "Diario Concordia",
+    "titulo": "Mujeres peronistas de Concordia convocaron a una “gran mesa de unidad” para reconstruir un proyecto basado en la “justicia social”",
+    "fecha": "2026-09-27",
+    "link": "https://www.diarioconcordia.com.ar/2026/09/mujeres-peronistas-de-concordia.html",
+    "texto_original": "Mujeres peronistas de Concordia se reunieron en la sede del Partido Justicialista y difundieron un documento en el que expresan su preocupación por lo que describen como un “retroceso social e institucional” y convocan a construir una alternativa política basada en la unidad.Las mujeres se reunieron en la sede del Partido Justicialista para analizar la situación social y política actual y",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-entre-rios-y-uruguay-programan-una.html",
+    "fuente": "Diario Concordia",
+    "titulo": "Entre Ríos y Uruguay programan una agenda turística conjunta que incluye la visita del Papa León XIV",
+    "fecha": "2026-09-27",
+    "link": "https://www.diarioconcordia.com.ar/2026/09/entre-rios-y-uruguay-programan-una.html",
+    "texto_original": "Los tres pasos internacionales que vinculan Argentina y Uruguay a través de Entre Ríos serán ejes de articulación ante la llegada de visitantes prevista para noviembre y de futuras acciones de promoción turística bilateral.El presidente del Ente Mixto de Turismo de Entre Ríos (Emturer), Jorge Satto, y el secretario Ejecutivo, Sebastián Bel, mantuvieron una reunión con el ministro de Turismo de",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-no-hablamos-de-numeros-el-llamado-a-la-unidad-del-pj-en-concordia",
+    "fuente": "LT15 Concordia",
+    "titulo": "“No hablamos de números”: el llamado a la unidad del PJ en Concordia",
+    "fecha": "2026-09-27",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/27/no-hablamos-de-numeros-el-llamado-a-la-unidad-del-pj-en-concordia/",
+    "texto_original": "La palabra que repite el documento no es \nnúmeros\n, sino \npersonas\n. En la sede del \nPartido Justicialista\n de Concordia, dirigentes y militantes peronistas se encontraron para pedir unidad y marcar una advertencia sobre el desfinanciamiento y el abandono de políticas sociales.\n\nEl pronunciamiento pone el dedo en la llaga: \nniñez\n, \nsalud\n, \neducación\n, discapacidad, violencia de género y jubilados. También entra la \nprecarización laboral\n, con efectos sobre miles de familias. No es una lista de reclamos sueltos: es un mapa de lo que, según ellas, está quedando al descubierto.\n\n“No hablamos de números. Hablamos de personas. Hablamos de dignidad”, sostiene el texto, que reivindica el rol del \nEstado\n como herramienta para garantizar derechos. La frase no suena a discurso viejo: suena a una lectura dura de lo que están viendo en el territorio. Y ahí aparece la \njusticia social\n, que piden volver a poner en el centro de la agenda.\n\nLa reivindicación a \nEva Perón\n no fue un adorno. Las dirigentes y militantes la usaron para marcar una responsabilidad política: organizarse frente a las demandas de la comunidad, especialmente de los sectores más vulnerables. En ese marco, el encuentro no se limitó a mirar hacia afuera: también apuntó a la \nfragmentación interna\n que atraviesa al espacio.\n\nPor eso propusieron una \ngran mesa de unidad\n en Concordia y Entre Ríos. La idea no es tapar diferencias con una foto: es superar las tensiones sectoriales y fortalecer al \nPartido Justicialista\n como herramienta política. “No vamos a resignarnos, no vamos a naturalizar el abandono y no vamos a aceptar que los derechos conquistados sean presentados como privilegios”, expresaron.\n\nLa convocatoria, además, muestra que el \ndebate\n no se queda en la queja. Pone sobre la mesa la \nconstrucción política\n: una mesa de unidad que no sea solo un nombre, sino un espacio para discutir agenda, representación y responsabilidad pública. En \nConcordia\n, eso se traduce en una pregunta incómoda: ¿quién va a hablar por los que más necesitan?\n\nEl documento también mira a las \nelecciones de 2027\n. Las mujeres peronistas plantearon que quienes representen al PJ deberán asumir públicamente el compromiso de priorizar una agenda vinculada con la niñez, la familia, la salud, la educación y la \nprotección social\n. Fuerte. Y con nombre y apellido político.\n\nConcordia no es solo la sede de la reunión: es el escenario donde el \nperonismo\n discute si puede volver a ser una fuerza de propuesta. El mensaje quedó claro: si hay \nunidad\n, hay agenda. Si no, el riesgo no es solo perder una elección, sino dejar a miles de personas esperando respuestas que no llegan.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:13Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "partidos_politicos",
+      "servicios_publicos",
+      "justicia",
+      "construccion",
+      "elecciones",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-entre-rios-tercera-en-transferencias-nacionales-73413-millones-en-ocho-meses",
+    "fuente": "LT15 Concordia",
+    "titulo": "Entre Ríos, tercera en transferencias nacionales: 73.413 millones en ocho meses",
+    "fecha": "2026-09-27",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/27/entre-rios-tercera-en-transferencias-nacionales-73413-millones-en-ocho-meses/",
+    "texto_original": "El número no se esconde: \nEntre Ríos\n llegó a \n73.413 millones de pesos\n en transferencias no automáticas entre \nenero y agosto de 2026\n. Con ese monto, la provincia quedó \ntercera a nivel nacional\n, detrás de Buenos Aires y la Ciudad Autónoma de Buenos Aires. No es un dato menor: en un año donde varias provincias perdieron recursos, acá el registro muestra una suba fuerte.\n\nLa lectura por habitante también pesa: \n51.497 pesos per cápita\n colocan a \nEntre Ríos\n en el \ntercer lugar entre las 24 jurisdicciones\n, detrás de \nLa Pampa y Catamarca\n. Eso significa que no solo creció la torta total, sino que el reparto por persona también quedó arriba. En un país donde la discusión por fondos no automáticos sigue siendo caliente, el dato se lee como un logro de gestión provincial.\n\nEl salto interanual es el que más llama la atención: \n91,2%\n de incremento frente al mismo período del año anterior. Mientras varias provincias registraron caídas fuertes en las transferencias nacionales no automáticas, \nEntre Ríos\n hizo lo contrario. Ahí aparece la pregunta que no se puede esconder: ¿qué pasó en la relación con \nNación\n para que el flujo de recursos cambie de signo?\n\nUna parte importante de esos fondos tiene destino puntual: financiar el déficit de la \nCaja de Jubilaciones y Pensiones de Entre Ríos\n. Ese es un frente sensible, porque toca el bolsillo de jubilados y pensionados y pone a prueba la capacidad de la provincia para sostener \ncompromisos\n. No es plata que se gasta sin más: es un recurso que busca tapar un agujero que venía presionando las cuentas públicas.\n\nA eso se suman los \nAportes del Tesoro Nacional\n, o ATN. Entre enero y agosto, la provincia recibió \n15.000 millones de pesos\n por ese concepto y quedó \nsegunda\n en transferencias, solo detrás de \nMisiones, con 20.000 millones\n. Ese ranking muestra que el flujo no fue un golpe de suerte: fue un movimiento sostenido en el tiempo.\n\nDesde la \nProvincia\n lo presentan como el resultado de una \nestrategia de diálogo y gestión ante Nación\n. “Los datos reflejan el resultado de una estrategia de diálogo y gestión ante Nación para recuperar los recursos que corresponden a Entre Ríos y sostener una relación institucional que permita obtener respuestas concretas para la provincia”, destacaron. La frase no es casual: convierte el número en política y la política en método.\n\nQueda la advertencia: los \nrecursos nacionales\n no son un destino final, sino una herramienta. Si esa plata se convierte en caja para el presente, el problema de fondo no se resuelve; si se usa para ordenar cuentas, pagar compromisos y sostener servicios, el número puede tener continuidad. La \ngestión pública\n se mide así: no solo en cuánto llega, sino en qué hacés con lo que llega.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-martes-29-feriado-provincial-en-entre-rios-y-un-dia-menos-de-clases",
+    "fuente": "LT15 Concordia",
+    "titulo": "Martes 29: feriado provincial en Entre Ríos y un día menos de clases",
+    "fecha": "2026-09-27",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/27/martes-29-feriado-provincial-en-entre-rios-y-un-dia-menos-de-clases/",
+    "texto_original": "Martes 29 de septiembre\n: la semana se acorta en \nEntre Ríos\n y el dato no es menor. El feriado provincial por \nSan Miguel Arcángel\n, patrono de la provincia, va a dejar un día menos de clases y también un cambio en el ritmo de los servicios. No es un simple descanso: es una fecha que ordena el calendario y obliga a repensar la agenda.\n\nLa escuela, como siempre, queda en el centro del debate. Si hay un día menos de clases, la pregunta aparece de inmediato: ¿cómo se compensa, cómo se organiza, cómo se explica a las familias? El anuncio es claro en lo esencial: \nno habrá actividad escolar\n ese día. Lo demás, como en casi todo \ncalendario educativo\n, se resuelve con organización, comunicación y un poco de paciencia.\n\nEl efecto no se queda en el aula. El feriado también alcanza a la \nAdministración Pública\n y a los \nbancos\n, que no van a tener actividad. Para quien necesita hacer un trámite, sacar un turno o resolver un asunto administrativo, el dato es práctico: ese martes el Estado provincial y el sistema bancario se detienen. Mejor mirar la agenda antes de salir de casa.\n\nCon los \ncomercios\n, la duda queda en el aire. Ese es el punto que genera más preguntas. La regla no aparece cerrada en el dato, y por eso conviene revisar cada caso. Lo que sí conviene es no asumir: si tenés que comprar algo, pagar un servicio o esperar una atención, \nconfirmar antes\n es lo más sensato.\n\nLa fecha tiene peso propio. \nSan Miguel Arcángel\n no es un santo cualquiera en el calendario entrerriano: es el patrono de la provincia, y por eso el feriado provincial le da un lugar visible en la semana. Más allá de la organización, el dato práctico es simple: el \nmartes 29\n se suma a la lista de días que hay que marcar en rojo. Y en una agenda ya cargada, cada día menos cuenta.\n\nEl dato también obliga a mirar la semana con otro ojo. Cuando un \nferiado cae en martes\n, la semana se reacomoda: hay \nmenos días hábiles\n, menos días de clase y menos margen para resolver pendientes. No es un tema menor para las familias, los trabajadores y los que dependen de los \nservicios públicos\n. Y menos en un calendario que ya viene cargado de fechas, turnos y compromisos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "comercio",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-coninagro-reconocio-a-cooperativistas-entrerrianos-campo-con-bronca",
+    "fuente": "LT15 Concordia",
+    "titulo": "Coninagro reconoció a cooperativistas entrerrianos: campo con bronca",
+    "fecha": "2026-09-27",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/27/coninagro-reconocio-a-cooperativistas-entrerrianos-campo-con-bronca/",
+    "texto_original": "El campo volvió a estar en la foto, pero con una advertencia que \nvos no podés tragar\n. \nConinagro\n distinguió a \nGonzalo Álvarez Maldonado\n, de la cooperativa \nLa Ganadera\n, por su extensa trayectoria en el cooperativismo agropecuario.\n\nEl reconocimiento no cayó solo sobre una persona. Álvarez Maldonado lo presentó como un \nhomenaje colectivo\n y recordó a \nEdelmiro Oertlin, Edgardo Barzola, Daniel Kindebaluc, Edgardo Schneider, Enrique Funes y Ronald Garnier\n. Detrás de cada nombre hay años de trabajo, de asambleas y de decisiones tomadas en la producción.\n\nPara el dirigente, la distinción es también una \nreivindicación histórica\n. Puso de relieve el lugar de \nEntre Ríos\n en la construcción del movimiento cooperativo y subrayó que \nFedeco\n fue fundadora de \nConinagro\n hace 70 años.\n\nÁlvarez Maldonado repasó su recorrido sin perder el eje: empezó en el \ncooperativismo de base\n, siguió en \nFedeco\n y llegó a la \nconducción nacional de Coninagro\n. Para él, esa trayectoria fue un abanico de posibilidades, con logros y fracasos propios de la \ndirigencia agropecuaria\n.\n\nEn esa misma línea, sostuvo que \nConinagro\n es una entidad \nviva\n y que representa a los productores a través de sus \ncooperativas\n y sus \nfederaciones\n. Esa estructura territorial, dijo, le da peso a la Confederación y explica su capacidad de representación.\n\n«Es un regocijo el reconocimiento que Coninagro hizo a tantos años dedicados al sector cooperativo», expresó. Y remarcó un dato que no es menor: el \nprimer presidente de Coninagro\n fue un \nentrerriano\n. Eso no es anécdota: es memoria viva de una provincia que ayudó a construir la Confederación.\n\nEl dirigente también leyó la coyuntura con ojo de productor. Reconoció que el sector agropecuario recuperó \nreconocimiento social\n y que las exportaciones, sobre todo de \ncereales\n y \ncarne\n, pusieron al campo en el centro de la economía por el ingreso de \ndivisas\n.\n\nTambién amplió la mirada más allá del agro. Señaló que \nArgentina\n tiene un futuro promisorio en \nminería, tierras raras, petróleo y gas\n. Pero esa promesa no borra el problema de fondo: si no hay rentabilidad, el productor termina extremando cada decisión.\n\n«Hay buenos precios, pero en el sector agropecuario hay que decírselo a los gobiernos municipales, provinciales y nacionales: no hay rentabilidad», advirtió. Y sumó los problemas que pesan sobre los \npequeños y medianos productores\n: falta de \ncrédito\n y \npresión impositiva\n.\n\nLa advertencia es clara: el precio internacional no alcanza si adentro la rentabilidad no llega. En ese escenario, cada decisión se toma con \ncuidado\n, porque la situación obliga a \nextremar cuidados\n. Y si el campo vuelve a ser protagonista, la pregunta es simple: ¿vos creés que el productor puede seguir produciendo sin \nrentabilidad\n?",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "economia",
+      "empleo",
+      "agro",
+      "servicios_publicos",
+      "construccion",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-concordia-amiano-advirtio-que-todo-conducia-a-vitsa-en-residuos",
+    "fuente": "LT15 Concordia",
+    "titulo": "Concordia: Amiano advirtió que todo conducía a VITSA en residuos",
+    "fecha": "2026-09-27",
+    "link": "https://lt15concordia.com.ar/index.php/2026/09/27/concordia-amiano-advirtio-que-todo-conducia-a-vitsa-en-residuos/",
+    "texto_original": "Concordia\n volvió a discutir la recolección de residuos. \nCarolina Amiano\n, presidenta del bloque justicialista, cargó contra el proceso que terminó en la adjudicación de la \nLicitación Pública Nº 47/2026\n a \nVITSA\n.\n\nPara la concejal, no se trata de un hecho aislado. \n“Lo advertimos antes de la contratación directa y lo volvimos a advertir antes de la licitación pública”\n, sostuvo. Según su relato, en ambas etapas el procedimiento parecía conducir a la misma empresa y, al final, \nVITSA terminó siendo la beneficiada\n.\n\nLa primera señal apareció el \n19 de marzo\n, cuando se trató sobre tablas la \nemergencia ambiental\n. Amiano recordó que, antes de aprobarse la ordenanza, los camiones de la empresa ya habían ingresado a Concordia la noche anterior. Ese episodio, dijo, quedó expuesto en el recinto y, a las pocas horas, la empresa ya estaba trabajando en la ciudad.\n\nLa ordenanza buscaba, entre otros objetivos, erradicar los \nmicrobasurales\n, proteger la salud y mejorar la gestión de residuos. También habilitó al Ejecutivo a \ncontratar por excepción\n y a concesionar el servicio. Ahí aparece, según Amiano, la primera grieta: la emergencia se justificó por los microbasurales, pero ese problema no quedó claramente incorporado al pliego.\n\nLa concejal sostiene que la problemática de los \nmicrobasurales\n debió ser una prestación que todos los oferentes conocieran, dimensionaran y cotizaran en igualdad de condiciones. En cambio, afirma, esa cuestión terminó apareciendo como un elemento valorado positivamente en la propuesta de \nVITSA\n. \n“Eso hay que explicarlo”\n, resumió.\n\nCuando el Municipio decidió reemplazar la contratación directa por una licitación pública, el bloque justicialista volvió a marcar las mismas preocupaciones. Según Amiano, las \ncondiciones\n, los \nplazos\n, la experiencia exigida y la forma de asignar puntajes podían favorecer a la empresa que ya estaba instalada. Lo dijo antes de conocer las ofertas y antes del resultado.\n\nLa licitación terminó adjudicada a \nVITSA\n por \ncuatro años\n, mediante el \nDecreto Nº 854/2026\n. La mayoría de la Comisión Evaluadora la consideró la oferta de mayor puntaje entre las admisibles. Según Amiano, también quedaron en discusión la \ncomisión evaluadora dividida\n, la documentación no entregada en forma completa a las demás empresas y los criterios de evaluación.\n\nEn el medio hay una \ndenuncia penal\n y actuaciones ante el \nTribunal de Cuentas\n por la etapa anterior. Amiano consideró que el Ejecutivo todavía está a tiempo de frenar el proceso: \n“Después nadie podrá decir que no fue advertido”\n. En el relato de la concejal, no aparece una respuesta del Departamento Ejecutivo ni de la empresa.\n\nLa discusión sigue abierta. El Municipio deberá responder las \nimpugnaciones\n y los \npedidos de información\n que quedaron pendientes, mientras Concordia espera una explicación clara sobre cómo se definió el servicio de \nresiduos\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "gobierno",
+      "municipios",
+      "justicia",
+      "organos_control",
+      "infraestructura_obra_publica",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-la-bolsa-de-cereales-de-entre-rios-se-achica-y-vende-propiedades",
+    "fuente": "El Heraldo",
+    "titulo": "La Bolsa de Cereales de Entre Ríos se \"achica\" y vende propiedades",
+    "fecha": "2026-09-27",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/la-bolsa-de-cereales-de-entre-rios-se-achica-y-vende-propiedades",
+    "texto_original": "El comunicado destaca que esa situación derivó en una merma de importancia en los recursos económicos, \"con los que la entidad contaba para destinar al cumplimiento de sus fines y llegar a los objetivos que han caracterizado su tradicional y exitosa proyección institucionall\". En esa línea, agregaron que, \"desafortunadamente, este nuevo escenario –no imaginado hace algún tiempo- obliga a tomar decisiones difíciles y no deseadas, pero estrictamente necesarias para lograr una restructuración que permita no sólo la subsistencia de la Bolsa de Cereales de Entre Ríos sino volver luego a la senda de crecimiento que evidencia desde su fundación\", resaltan desde la entidad.La Bolsa de Cereales, y también la Cámara Arbitral, mantienen gran parte de su  operatoria basados en los ingresos que les generaba un porcentaje de las operaciones comerciales en cada boleto de compra-venta de cereales y oleaginosos y los contratos de compra-venta de granos “a fijar precio”.A través de normativas de simplificación dictadas entre 2024 y 2025 (como las resoluciones que unificaron registros del agro y eliminaron trámites duplicados), el mercado agropecuario avanzó hacia la libertad de contratación. Esto permitió a las partes realizar operaciones comerciales privadas sin obligación de pagar aranceles institucionales de intermediación, afectando el caudal de registros y los ingresos habituales de estas entidades, que percibían tradicionalmente un arancel o tasa de registro que oscilaba entre el 0,1% y el 0,5% sobre el valor total computable de la operación comercial (cobrado en partes proporcionales a comprador y vendedor).Continuando con la comunicación oficial de la Bolsa de Cereales, informaron que entre las medidas  dispuesta para reducir costos operativos, \"se ha concretado la desvinculación por mutuo acuerdo de Manuel Villagra, gerente de la entidad\".Al respecto, el presidente de la institución, Diego Camuñas manifestó que “con gran pesar se llegó a tal determinación conjunta, ya que hay conciencia de la gran tarea que ha desarrollado Manuel Villagra, la que se ha visto cristalizada en una permanente presencia institucional y en la prolijidad del manejo de la asociación”. Villagra cerrará su paso por la entidad, al finalizar septiembre.La entidad convocó a sus asociados a realizar una asamblea extraordinaria, para lograr la autorización de la venta de todos sus inmuebles, incluida la sede de la entidad en la calle San Martín 553 de la ciudad de Paraná.La primer convocatoria, prevista para el 5 de octubre, tiene en el orden del día solicitar también, la autorización para la venta de dos campos, propiedad de la Institución, ubicados, uno en Alcaraz Segundo, departamento La Paz, y el otro en el departamento Nogoyá. (Campo en Acción )",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:14Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "comercio",
+      "agro",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "nogoyá",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-blanca-ciudad-noticias-un-arbol-cayo-sobre-la-ruta-11-y-bomberos-trabajaron-para-liberar-la-circulacion",
+    "fuente": "Blanca Ciudad Noticias",
+    "titulo": "Un árbol cayó sobre la Ruta 11 y Bomberos trabajaron para liberar la circulación",
+    "fecha": "2026-09-27",
+    "link": "https://blancaciudadnoticias.com.ar/un-arbol-cayo-sobre-la-ruta-11-y-bomberos-trabajaron-para-liberar-la-circulacion/",
+    "texto_original": "DIAMANTE –\n Un árbol cayó este domingo sobre la \nRuta Provincial N° 11, a la altura del kilómetro 52\n, y obstruyó una de las manos de circulación. Bomberos Voluntarios de Diamante y del Destacamento Las Cuevas trabajaron en el lugar para retirar el ejemplar y liberar la ruta.\n\nEl hecho fue informado alrededor de las \n9:40\n, cuando personal policial se presentó en el cuartel de Bomberos Voluntarios de Diamante para comunicar la situación.\n\nDe inmediato se dispuso la salida de una dotación integrada por \ncuatro bomberos\n, que se trasladó en el \nMóvil N° 9\n.\n\nTambién acudió en apoyo una dotación de \ntres Bomberos Voluntarios del Destacamento Las Cuevas\n, que se desplazó en el \nMóvil N° 10\n.\n\nUna vez en el lugar, los bomberos realizaron las tareas necesarias para \ncortar y retirar el árbol que se encontraba sobre la calzada\n, permitiendo recuperar la circulación vehicular con normalidad.\n\nLas tareas finalizaron alrededor de las \n11\n, momento en que ambas unidades emprendieron el regreso hacia sus respectivas bases, sin registrarse novedades.\n\nBCN Noticias",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "diamante"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-una-entrerriana-hablara-con-el-papa-cuando-visite-el-cottolengo-don-orione",
+    "fuente": "El Día Online",
+    "titulo": "Una entrerriana hablará con el Papa cuando visite el Cottolengo “Don Orione”",
+    "fecha": "2026-09-27",
+    "link": "https://www.eldiaonline.com/una-entrerriana-hablara-con-el-papa-cuando-visite-el-cottolengo-don-orione",
+    "texto_original": "Marta está semiacostada sobre su silla de ruedas. Habla con la cabeza inclinada hacia arriba, apoyada sobre un almohadón. La luz que entra por el ventanal le da de lleno en la cara y alumbra uno de sus ojos, con el que ve “algunas sombras nada más”; el otro se lo tuvieron que extirpar. La arrimaron hasta la mesada que ocupa el centro del salón, donde sus compañeras amasan los bollos de las prepizzas que serán la cena de esa noche en el Cottolengo. Tiene 78 años. Cumplirá 79 el 12 de noviembre. Tres días antes, ella va a hablarle al Papa León XIV. Será la encargada de decir unas palabras en representación del resto de los internos del Pequeño Cottolengo Don Orione, durante unos minutos que van a ser televisados para todo el mundo. No está para nada nerviosa. Estuvo pensando el discurso, cuenta, con ayuda de su psicopedagoga:\n\n—Solo quiero que otras mujeres como yo encuentren un camino de sanación. Con eso me alcanza. Que sepa que necesitamos ayuda. Y que él haga como Jesús, que caminó sobre las ciudades curando, sanando, escuchando… todo eso. No puedo expresar mucho con palabras, pero bueno, espero que me entiendan —dice. Y se ríe.\n\nCiega de nacimiento, Marta se crió en María Grande (a 60 kilómetros de Paraná). Desde muy chica tuvo también problemas para caminar. Recuerda que su hermano Rolando la llevaba en brazos al río. En aquellos años, su pueblo de origen no tenía muchos más habitantes que la comunidad donde ahora vive.\n\nEn el Don Orione, en Claypole, viven unas 400 personas con discapacidad y patologías severas. Hay además otras 100 que se atienden de día, de forma ambulante. Unos 370 trabajadores (enfermeras, psicólogas, terapeutas, kinesiólogos, médicos) entran y salen todos los días. El predio tiene alrededor de 50 hectáreas. “Acá todo queda a tres cuadras de distancia”, bromea Fernando Montero, director de la institución, mientras lo recorre junto al diario Página/12. Con la salvedad del encierro, el aislamiento y los padecimientos —físicos, emocionales, sociales— de quienes llegan a la institución como última instancia, el Cottolengo funciona casi como si fuera un pueblo chico de algún rincón perdido del país.\n\nLa visita del Papa —cuentan esperanzados— les servirá para revertir esa mirada externa que oscila entre la indiferencia y el estigma. “El hecho de que León venga al Don Orione es coherente con el mensaje que se quiere transmitir desde la Iglesia Católica en este momento. Tiene que ver con la encíclica “Magnífica Humanidad”, con la resistencia a la cultura del descarte. Sobre todo teniendo en cuenta que las personas con discapacidad son las primeras en ser excluidas, porque no pueden producir. Entonces la Iglesia va al rescate de la idea de que son personas que merecen dignidad. La encíclica habla de eso, que cualquier ser humano, por ser humano, tiene derecho a vivir dignamente. Y eso no está pasando”, dice Montero.\n\nMás allá del mensaje religioso, la visita del Papa al Don Orione conlleva otro particularmente político, que tiene que ver con las condiciones en que el Cottolengo y las instituciones de apoyo están trabajando producto del ajuste del gobierno de Javier Milei, que se suma al destrato general —que la Iglesia describe como “cruel”— que baja desde el Estado hacia las personas con discapacidad.\n\n“Evidentemente, hay una coincidencia”, explica Montero sobre el cruce entre ambos mensajes. El Área de Discapacidad de la Pastoral Social se expresó este domingo en el mismo sentido, y criticó además en duros términos los ajustes en el sector (incluidas las pensiones no contributivas) que el Gobierno incluyó en el Presupuesto 2027, que luego tuvo que rectificar, consignó el diario Página/12.\n\nEl Don Orione, remarca Montero, participó de todas y cada una de las marchas del colectivo por la Ley de Emergencia, que el Presidente vetó y luego incumplió. Aun aplicada a medias, la ley fue un salvoconducto para un sector, el de las prestaciones en discapacidad, cuya crisis —que ya venía de antes— se profundizó con el congelamiento del nomenclador durante todo 2024 y 2025. “Eso nos golpeó mucho”, dice Fernando y aclara que la llegada de León XIV también es una reivindicación “para todos los profesionales que trabajan con nosotros y para todo el colectivo”.Fuente: AHORA",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "servicios_publicos",
+      "presupuesto"
+    ],
+    "lugares_matcheados": [
+      "entrerrian",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-rutas-saneamiento-y-desarrollo-las-obras-clave-que-entre-rios-ejecuta-con-creditos-internacionales",
+    "fuente": "El Día Online",
+    "titulo": "Rutas, saneamiento y desarrollo: las obras clave que Entre Ríos ejecuta con créditos internacionales",
+    "fecha": "2026-09-27",
+    "link": "https://www.eldiaonline.com/rutas-saneamiento-y-desarrollo-las-obras-clave-que-entre-rios-ejecuta-con-creditos-internacionales",
+    "texto_original": "La provincia cuenta con una cartera de proyectos con financiamiento internacional destinada a mejorar la infraestructura vial, el saneamiento, la conectividad y el desarrollo productivo en distintos puntos del territorio entrerriano.\n\nEstos recursos permiten concretar proyectos de gran escala que requieren inversiones que exceden las posibilidades de financiamiento de corto plazo de la administración provincial. Así, el financiamiento internacional permite ampliar la capacidad de inversión y avanzar en obras de infraestructura y apoyo a la producción.\n\nLos préstamos alcanzan los 492,5 millones de dólares distribuidos en seis programas financiados por el BID, CAF, FIDA y BCIE, que se encuentran en distintas etapas: algunos ya finalizados, otros en ejecución y otros que avanzan hacia su implementación.\n\nLa Secretaría General de la Gobernación, a cargo de Mauricio Colello, a través de la Unidad Ejecutora Provincial (UEP) tiene a su cargo la gestión y ejecución de estos programas y articula su desarrollo con los organismos provinciales que intervienen en cada proyecto.\n\n\"Pese al contexto económico nacional, la Provincia logró estabilizar sus cuentas, recuperar obra pública y mejorar indicadores financieros\", indicó Colello al respecto.\n\n\"Los programas con financiamiento internacional responden a necesidades concretas y a las prioridades de inversión definidas por el gobierno provincial\", señaló el coordinador general de la UEP, Gustavo Cusinato.\n\nObras que ya se traducen en resultados\n\nEl Programa de Desarrollo e Integración de la Región de Salto Grande, financiado por el BID con 50 millones de dólares y recientemente finalizado, permitió concretar la readecuación integral del Aeropuerto Comodoro Pierrestegui de Concordia.\n\nTambién invirtió en tecnología para modernizar el Centro de Frontera Concordia-Salto, mejorando los controles de seguridad y contribuyendo a agilizar los tiempos de espera.\n\nA través del Fondo Multisectorial de Salto Grande, se destinaron 2.667 millones de pesos en Aportes No Reembolsables (ANR) para 296 inversiones privadas de los sectores productivo y turístico de Concordia, Colón y Federación. Además, una línea específica de energías renovables permitió concretar 78 proyectos por 1.376 millones de pesos en ANR, cubriendo el 60 por ciento de cada inversión privada.\n\nEl programa también financió equipamiento de accesibilidad para personas con discapacidad que fue destinado a complejos turísticos, mejoras en los espacios recreativos del Perilago de Concordia y estudios sobre cadenas de valor, desarrollo termal y alternativas logísticas, entre ellas la proyección de un puerto de barcazas en Concordia.\n\nSaneamiento e infraestructura vial\n\nEn materia de saneamiento, el Programa de Saneamiento Integral de las Ciudades de la Cuenca del Río Uruguay, financiado por el BID con 80 millones de dólares, contempla la optimización de la planta depuradora de efluentes de Gualeguaychú, la construcción y remodelación integral del sistema cloacal de Concepción del Uruguay y una nueva planta de tratamiento de aguas residuales en Colón.\n\nEn cuanto a la infraestructura vial, a través del Programa de Caminos para el Desarrollo Productivo, financiado por CAF con 40 millones de dólares, se reconstruyen 64,7 kilómetros del camino Viale-Arroyo El Durazno. La obra atraviesa una zona de fuerte actividad agrícola, ganadera y láctea y permitirá mejorar la transitabilidad y facilitar la salida de la producción.\n\nTambién se encuentra en ejecución el PROSAF - Programa de Desarrollo Productivo del Sector Apícola, financiado por FIDA con 15 millones de dólares, que contempla infraestructura vial y accesos, equipamiento y otras herramientas para fortalecer al sector.\n\nEl financiamiento de mayor magnitud corresponde al Programa de Infraestructura Vial Sostenible para el Desarrollo Productivo de Entre Ríos, financiado por el BID por 280 millones de dólares. Entre sus principales intervenciones se encuentran la rehabilitación y reconstrucción de las rutas provinciales 1 y 2, la construcción de la Circunvalación de Nogoyá, la reconstrucción del puente sobre el arroyo Sauce y la readecuación del Canal Mihura, en Gualeguay.\n\nPor último, el Programa de Conectividad y Desarrollo Vial de la provincia de Entre Ríos (Condver), es financiado por el BCIE con 27,5 millones de dólares. El programa contempla intervenciones sobre la ruta provincial A08, en Islas del Ibicuy, y la construcción de dos nuevos puentes: uno sobre el arroyo Desmochado, en el departamento Tala, y otro sobre el arroyo El Sauce, en el departamento Gualeguaychú, junto con sus respectivos accesos.\n\n\"No se trata de tomar financiamiento por tomarlo, sino de definir con claridad para qué se necesitan esos recursos y orientarlos hacia las prioridades que tiene la provincia\", sostuvo Cusinato.\n\nEn ese sentido, la cartera de proyectos administrada por la UEP representa una herramienta para convertir financiamiento en infraestructura concreta, con obras que se ejecutan en distintos puntos de Entre Ríos y que buscan generar condiciones para el desarrollo productivo y mejorar la calidad de vida de los entrerrianos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "agro",
+      "impuestos",
+      "servicios_publicos",
+      "gobierno",
+      "infraestructura_obra_publica",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "concordia",
+      "gualeguaychú",
+      "concepción del uruguay",
+      "gualeguay",
+      "ibicuy",
+      "nogoyá",
+      "colón",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-la-provincia-y-el-uruguay-programan-una-agenda-turistica-conjunta-que-incluye-la-visita-del-papa-leon-xiv",
+    "fuente": "El Día Online",
+    "titulo": "El Gobierno provincial y Uruguay programan una agenda turística conjunta que incluye la visita del Papa León XIV",
+    "fecha": "2026-09-27",
+    "link": "https://www.eldiaonline.com/la-provincia-y-el-uruguay-programan-una-agenda-turistica-conjunta-que-incluye-la-visita-del-papa-leon-xiv",
+    "texto_original": "El presidente del Ente Mixto de Turismo de Entre Ríos (Emturer), Jorge Satto, y el secretario Ejecutivo, Sebastián Bel, mantuvieron una reunión con el ministro de Turismo de Uruguay, Pablo Menoni. Fue el primer encuentro oficial de vinculación entre las autoridades en el marco de la Feria Internacional de Turismo de América Latina - FIT 2026, que comenzó este sábado en La Rural de Palermo y se extenderá hasta el martes.\n\nLa reunión tuvo como eje la programación de una agenda conjunta con vistas a la próxima visita del Papa León XIV, quien estará en Uruguay y Argentina del 6 al 11 de noviembre.\n\n\"Este es un momento histórico para la Argentina y la República Oriental del Uruguay, pero también para Entre Ríos, especialmente, porque el Papa va a estar en la vecina ciudad de Paysandú. Estamos articulando todos los medios para que los peregrinos estén contenidos por las comunidades de los tres pasos internacionales: Concordia - Salto, Colón - Paysandú y Gualeguaychú - Fray Bentos. De acá a noviembre vamos a trabajar de forma institucional\", detalló Satto.\n\nEl encuentro permitió avanzar, además, en acciones de promoción cruzada para acercar las propuestas turísticas de ambos países y en la posibilidad de desarrollar un circuito binacional que recorra el litoral del río Uruguay desde sus dos márgenes.\n\nLas autoridades acordaron, asimismo, mantener el intercambio de información y coordinación ante los pronósticos de fenómenos hidrometeorológicos, con el objetivo de fortalecer las medidas preventivas y los protocolos de actuación en los pasos internacionales y destinos vinculados.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "gobierno"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia",
+      "gualeguaychú",
+      "gualeguay",
+      "colón"
+    ]
+  },
+  {
+    "id": "medios-ap-noticias-gn-f96dce05c9e3",
+    "fuente": "apnoticias.com.ar",
+    "titulo": "Robaron elementos de cocina en la Escuela San Cayetano de Villaguay",
+    "fecha": "2026-09-26",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSekNRekMxSVczelVsLTFsYnhkTVdDU2hPdWU3akhCYkhQa0Z6UHdlSWN6TVJIQ1VpZFZHU1MwUnA3M05HdXQ3SkdJZzY1cFRRbjMxNE5UTThhUzlQT3FYWno0ZUQzRVdaUzNYWjRiMjU5SVpJd0VVNXlfNjZSdw?oc=5",
+    "texto_original": "Robaron elementos de cocina en la Escuela San Cayetano de Villaguay\n  \napnoticias.com.ar",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-paralelo32-ernestina-otegui-llevo-a-entre-rios-al-podio-nacional-en-la-fiesta-de-los-estudiantes",
+    "fuente": "Paralelo32",
+    "titulo": "Ernestina Otegui llevó a Entre Ríos al podio nacional en la Fiesta de los Estudiantes",
+    "fecha": "2026-09-27",
+    "link": "https://www.paralelo32.com.ar/ernestina-otegui-llevo-a-entre-rios-al-podio-nacional-en-la-fiesta-de-los-estudiantes",
+    "texto_original": "La entrerriana Ernestina Otegui, representante de la provincia y estudiante del Instituto John F. Kennedy de Victoria, fue distinguida como 2ª Representante Nacional durante la elección de la Fiesta Nacional de los Estudiantes, realizada este viernes por la noche en el Estadio 23 de Agosto de San Salvador de Jujuy.\n\nLa elección reunió a representantes estudiantiles de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires, en una de las actividades centrales de la 75ª edición de la Fiesta Nacional de los Estudiantes.\n\nLa santiagueña Constanza Lastra Errasti fue elegida Representante Nacional, mientras que Julieta Valentina Torres Morsucci, de Mendoza, obtuvo el título de 1ª Representante Nacional.\nEntre Ríos, entre las cinco estudiantes distinguidas\nLuego de las diferentes pasadas de las participantes ante el jurado y el público, Otegui quedó entre las cinco estudiantes seleccionadas.\n\nLa nómina final quedó conformada de la siguiente manera:\nRepresentante Nacional: Constanza Lastra Errasti, Santiago del Estero.1ª Representante Nacional: Julieta Valentina Torres Morsucci, Mendoza.2ª Representante Nacional: Ernestina Otegui, Entre Ríos.1ª Dama de Honor: Agustina Rapretti, Chubut.2ª Dama de Honor: Morella Gira López, Jujuy.\nMedios de Jujuy también utilizaron la denominación tradicional de “segunda princesa” para referirse a la distinción obtenida por Otegui. Sin embargo, la organización oficial identifica el reconocimiento como 2ª Representante Nacional.\nEl camino de Ernestina Otegui\nLa joven es estudiante del Instituto John F. Kennedy de Victoria y llegó a la instancia nacional luego de ser elegida Representante Provincial de los Estudiantes Secundarios durante la 56ª Fiesta Provincial del Estudiante, realizada en Villaguay en 2025.\n\nAquella elección reunió a representantes de diferentes localidades entrerrianas y le permitió obtener el lugar para representar a Entre Ríos en la tradicional celebración estudiantil de Jujuy.\n\nUn año después, Otegui consiguió integrar el grupo de cinco estudiantes distinguidas durante la elección nacional.\nUna noche de gala en San Salvador de Jujuy\nLa elección comenzó alrededor de las 21:00 en el Estadio 23 de Agosto. Las representantes realizaron distintas pasadas ante el público, acompañadas por las delegaciones provinciales que participaron de la celebración.\n\nLa gala contó además con una puesta artística protagonizada por más de 150 estudiantes, entre bailarines y artistas.\n\nEntre los integrantes del jurado estuvo Carolina “Pampita” Ardohain, quien regresó a la Fiesta Nacional de los Estudiantes 32 años después de haber sido elegida representante nacional en 1994.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-27T18:36:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "servicios_publicos",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "villaguay",
+      "san salvador",
+      "victoria"
+    ]
   }
 ]
