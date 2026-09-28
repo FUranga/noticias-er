@@ -107186,5 +107186,19 @@
       "entrerrian",
       "santa elena"
     ]
+  },
+  {
+    "id": "empresa-fadel-auxiliar-de-compras",
+    "fuente": "fadel",
+    "titulo": "Auxiliar de compras",
+    "fecha": "2026-09-28",
+    "link": "https://fadelsa.com.ar/auxiliar-de-compras/",
+    "texto_original": "Auxiliar de compras Fecha: 28/09/2026 Ubicación: Planta de Procesamiento, Pronunciamiento, Entre Ríos Requisitos: • Formación en Administración de Empresas, Contabilidad o carreras afines. • Experiencia previa en tareas administrativas (deseable). • Manejo de paquete Office. • Organización, atención al detalle,\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-09-28T20:55:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
