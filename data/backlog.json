@@ -104602,5 +104602,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-entre-rios-convierte-financiamiento-internacional-en-obras-estrategicas-en-todo-el-territorio",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Entre Ríos convierte financiamiento internacional en obras estratégicas en todo el territorio",
+    "fecha": "2026-09-28",
+    "link": "https://www.dpver.gov.ar/2026/09/28/entre-rios-convierte-financiamiento-internacional-en-obras-estrategicas-en-todo-el-territorio/",
+    "texto_original": "La provincia cuenta con una cartera de proyectos con financiamiento internacional destinada a mejorar la infraestructura vial, el saneamiento, la conectividad y el desarrollo productivo en distintos puntos del territorio entrerriano.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-28T17:07:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
