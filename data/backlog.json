@@ -107452,5 +107452,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-348028",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "CONTRATOS Decreto 1104/2026",
+    "fecha": "2026-09-28",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348028/20260928",
+    "texto_original": "CONTRATOS Decreto 1104/2026 Fecha de Publicacion: 28/09/2026 DECTO-2026-1104-APN-PTE - Aprobación. para el Desarrollo Productivo de Entre Ríos (PIVS-ER)”, propuesto para ser suscripto entre la Provincia de ENTRE RÍOS y el BANCO INTERAMERICANO DE DESARROLLO...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-28T22:24:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-348072",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "COMISIÓN ADMINISTRADORA DEL RÍO URUGUAY Resolución Sintetizada 63/2026",
+    "fecha": "2026-09-28",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348072/20260928",
+    "texto_original": "COMISIÓN ADMINISTRADORA DEL RÍO URUGUAY Resolución Sintetizada 63/2026 Fecha de Publicacion: 28/09/2026 Pesca y Devolución en la Zona de Seguridad Aguas Abajo de la Represa de Salto Grande ”, el que quedará redactado de la siguiente forma: “Capítulo 1. Disposiciones...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-28T22:24:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
