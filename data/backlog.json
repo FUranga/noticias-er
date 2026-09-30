@@ -119363,5 +119363,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-348151",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - ADUANA GUALEGUAYCHÚ Aviso Oficial",
+    "fecha": "2026-09-29",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348151/20260929",
+    "texto_original": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - ADUANA GUALEGUAYCHÚ Aviso Oficial Fecha de Publicacion: 29/09/2026 la Aduana de Gualeguaychú, sita en Av. Del Valle 275 de Gualeguaychú, Entre Ríos , Tel. 03446-426263.German Gabriel Weckesser, Administrador de Aduana.e...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-30T21:13:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
