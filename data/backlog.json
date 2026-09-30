@@ -116624,5 +116624,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-mas-del-62-por-ciento-de-avance-en-la-mejora-de-seis-rutas-y-un-acceso",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Más del 62 por ciento de avance en la mejora de seis rutas y un acceso",
+    "fecha": "2026-09-30",
+    "link": "https://www.dpver.gov.ar/2026/09/30/mas-del-62-por-ciento-de-avance-en-la-mejora-de-seis-rutas-y-un-acceso/",
+    "texto_original": "Con financiamiento provincial, se ejecuta el Grupo I de bacheo que prevé la recuperación de las rutas 11, 16, 20, 26, 45, 51 y el acceso a Tres Bocas. Constituye una intervención de 469 km de la red vial.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-09-30T15:16:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
