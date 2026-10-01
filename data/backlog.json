@@ -126314,5 +126314,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "boletinnac-348342",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD Resolución 729/2026",
+    "fecha": "2026-10-01",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348342/20261001",
+    "texto_original": "ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD Resolución 729/2026 Fecha de Publicacion: 01/10/2026 RESFC-2026-729-APN-DIRECTORIO#ENREGE las Licenciatarias de Transporte correspondientes al período comprendido entre el 1º de octubre de 2026 y el 30 de abril de 2027, cuestión que motivó la...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-01T21:34:04Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
