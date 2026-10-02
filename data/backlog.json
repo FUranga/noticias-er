@@ -127174,5 +127174,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-contratacion-directa-con-cotejo-12-2026-2",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "CONTRATACIÓN DIRECTA CON COTEJO 12-2026",
+    "fecha": "2026-10-02",
+    "link": "https://www.dpver.gov.ar/2026/10/01/contratacion-directa-con-cotejo-12-2026-2/",
+    "texto_original": "OBRA: CONSTRUCCIÓN DE OBRAS DE ARTE EN EL DEPARTAMENTO LA PAZ. 1) OBRA: CONSTRUCCIÓN DE CALZADA SUMERGIBLE EN R.P. S/Nº SOBRE Aº ESTACAS – “CAMINO SAUCECITO” – TRAMO: R.P.Nº 1 – ESCUELA Nº 62 – DISTRITO ESTACAS – DEPARTAMENTO LA PAZ – 2) OBRA: CONSTRUCCIÓN DE CALZADA SUMERGIBLE SOBRE Aº ESTACAS SAN GUSTAVO – TRAMO: […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-02T00:57:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
