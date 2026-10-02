@@ -129758,5 +129758,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-fadel-la-revista-2026-edicion-n-27",
+    "fuente": "fadel",
+    "titulo": "La Revista – 2026 – Edición N° 27",
+    "fecha": "2026-10-02",
+    "link": "https://fadelsa.com.ar/la-revista-2026-edicion-n-27/",
+    "texto_original": "La Revista – 2026 – Edición N° 27",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-02T14:16:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
