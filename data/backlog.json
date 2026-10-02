@@ -133859,5 +133859,19 @@
     "lugares_matcheados": [
       "nogoyá"
     ]
+  },
+  {
+    "id": "cge-escuela-secundaria-n-o-16-profesor-gerardo-victorin-concordia-29",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria N.º 16 “Profesor Gerardo Victorín” – Concordia",
+    "fecha": "2026-10-02",
+    "link": "https://cge.entrerios.gov.ar/2026/10/escuela-secundaria-n-o-16-profesor-gerardo-victorin-concordia-29/",
+    "texto_original": "Escuela Secundaria N.º 16 “Profesor Gerardo Victorín” – Concordia\n\nCONVOCATORIA A CONCURSO\n\nLa Rectoría de la Escuela Secundaria N.º 16 “Profesor Gerardo Victorín” convoca a Concurso de adjudicación de horas, en el marco del Reglamento de Concursos, Resolución Ministerial N.º 783/12 M.T. y sus modificatorias, Resolución N.º 2300/22 CGE, Art. 136 de Jurado de Concursos.\n\n \n\n­\n\nEl mismo se llevará a cabo\n\n el día lunes 5 de octubre de 2026 –\n\n Alas 16:30 hs.\n\nARTES VISUALES\n\n🔴 2 hs.\n\n Artes Visuales,\n\n 4.º año, división “7”, CO, suplente, turno tarde.\n\nHorario: lunes de 14:50 a 16:10 hs.\n\n🔴 2 hs. \n\nArtes Visuales\n\n, 4.º año, división “6”, CO, suplente, turno tarde.\n\nHorario: lunes de 17:45 a 19:00 hs.\n\n \n\n­\n\nLos aspirantes deberán presentarse en el establecimiento escolar, ingresando por calle Urquiza, en el día y horario indicado, con DNI y Credencial de Puntaje vigente, impresa con código QR.\n\nLa Constancia de Personal perteneciente al establecimiento deberá presentarse en formato papel, debidamente firmada por algún directivo del establecimiento.\n\nQuienes participen sin Credencial de Puntaje (incisos C y D) deberán presentar título o Constancia de Títulos Registrados en la Dirección de Recursos Humanos (CGE) y la Solicitud de Credencial de Puntaje para la Reserva de Derecho.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-02T22:09:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
