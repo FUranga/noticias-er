@@ -137944,5 +137944,709 @@
     "lugares_matcheados": [
       "nogoyá"
     ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-e632722465bd",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Piedras Blancas: el intendente reclama a Salud por las guardias",
+    "fecha": "2026-10-03",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmFsM2NfT01waUhLNVh5MjFTWktGVVNPMWw4TlVwVDhid19ldTdmZDQ3WVpPZUVuZFJQc19NVWliWkRrQnJxNHA3d3FDMTR4ZWFOemtMdnM4ZTJYclByQzlCQkxHalF5eDFuSzRLRU9hYXgyWkxiNDc0aU1jalNwSy1pR2VUVkZLUXlNNmY0N1FfQmN5?oc=5",
+    "texto_original": "Piedras Blancas: el intendente reclama a Salud por las guardias\n  \nEntre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:19:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-5dac2199249d",
+    "fuente": "La voz 90.1",
+    "titulo": "La Esperanza detrás de un proyecto: Entre Ríos y su desarrollo industrial. Reunión en Villaguay",
+    "fecha": "2026-10-03",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMEtjLWNmbFFsQlQtRzZqbnNOTlg5aE0teVZKcDNiTlAxdlVrUXVGR082NVJNeHJGN3VhTFVfM3pLVFB2Uk8zeXVNdGhpWWZsQVAwdkFxaklSdkcybmxOVklmNzFOT013bmx4cHl3aEYtZV9LWjlUZHB5S0locUFGYzJ0NC1BSXdKT2pVRUNQS3FLSE1HTmc1Wk1obTZEaVN2d2ZwTV8wOTZzWFFJVXdsZTF0bGZoejRiazhFWlVGWmLSAcABQVVfeXFMTzBLYy1jZmxRbEJULUc2am5zTk5YOWhNLXlWSnAzYk5QMXZVa1F1RkdPNjVSTXhyRjd1YUxVXzN6S1RQdlJPM3l1TXRoaVlmbEFQMHZBcWpJUnZHMm5sTlZJZjcxTk9Nd25seHB5d2hGLWVfS1o5VGRweUtJaHFBRmMydDQtQUl3Sk9qVUVDUEtxS0hNR05nNVpNaG02RGlTdndmcE1fMDk2c1hRSVV3bGUxdGxmaHo0Yms4RVpVRlpi?oc=5",
+    "texto_original": "La Esperanza detrás de un proyecto: Entre Ríos y su desarrollo industrial. Reunión en Villaguay\n  \nLa voz 90.1",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:19:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-google-news-entre-rios-f61e0b0c0d91",
+    "fuente": "Cuestión Entrerriana",
+    "titulo": "Repudio por la agresión al intendente de Basavilbaso",
+    "fecha": "2026-10-03",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlREMFlGTURlVVV5d2NuVFFkYXdWTXBRSGs2anhVUzhLN3JKLTlHWnI4T3JfSF92a2I1THU5c0lvZnNDTlF4VFYzeTBrN214alZCc1EyUVA3SUhQZFlsck43U0FZYTRnVkk1NC1TS2N3V2kzY1BnZDhacHhGQ2JGcFAza00zeElLRUtWelBIWU5RZG5Lb3oyZWxPdWVqM3h6b3d1OVRVcEViUzQxemFrdWFhZjRwNFhJdkE2RVJPWXY?oc=5",
+    "texto_original": "Repudio por la agresión al intendente de Basavilbaso\n  \nCuestión Entrerriana",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:19:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-ahora-entre-rios-gn-ff61b50ce21a",
+    "fuente": "AHORA Entre Ríos",
+    "titulo": "Milei fue premiado en París por sus reformas económicas",
+    "fecha": "2026-10-02",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVd2R1JlSVFpTUVBTUFnOWNEMDN4bEg1dmdlcDljaFZIaDJhR0c1UGFuVkxCNUxOYnZ5ZDNJQ2F4eEFFb2pFamVqZ1BtLXhsekJkRnJSMEhadDVqZVdtZy1ZOXJvSHBYQV9MQ2NWVHJkY3FSeHFZTS1mLUhxRVMwcVpudzVhU1V0cTNUUUhR?oc=5",
+    "texto_original": "Milei fue premiado en París por sus reformas económicas\n  \nAHORA Entre Ríos",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-enersa-avanza-con-obras-en-parana",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Enersa avanza con obras en Paraná",
+    "fecha": "2026-10-04",
+    "link": "https://entreriosahora.com/enersa-avanza-con-obras-en-parana/",
+    "texto_original": "Autoridades de la distribuidora Energía Entre Ríos SA (Enersa) y la Municipalidad de Paraná abordaron temas relacionados a la iluminación de la Circunvalación y la conexión del Parque Solar Fotovoltaico municipal a la red eléctrica.\n\nAl respecto, Enersa anunció que trabaja en la conexión del Parque Solar Fotovoltaico municipal a su red de distribución y tendrá a su cargo, por disposición del Gobierno de Entre Ríos, la ejecución del alumbrado de la Circunvalación de Paraná. Ambas iniciativas fueron abordadas durante una reunión de trabajo con autoridades municipales realizada en la sede de la empresa.\n\nDel encuentro participaron el presidente de Enersa, Uriel Brupbacher; el gerente general, Leandro Fernández; la intendenta de Paraná, Rosario Romero; el jefe de Gabinete municipal, Santiago Halle; y demás autoridades de ambas instituciones.\n\nEn la Circunvalación, la obra de Enersa comprenderá aproximadamente 3,8 kilómetros de la Ruta Nacional 12, desde el arroyo Saucecito hasta avenida Almafuerte, e incluirá la autovía, las calles colectoras y sectores bajo puente.\n\nEl proyecto contempla la instalación de más de 400 luminarias LED de alta eficiencia, además de nuevas columnas, redes eléctricas, tableros de comando y sistemas automáticos de encendido. La intervención mejorará la visibilidad y la seguridad durante la circulación nocturna, con menor consumo energético y menores requerimientos de mantenimiento.\n\nOtro de los temas tratados fue la próxima puesta en funcionamiento del Parque Solar Fotovoltaico municipal, ubicado al sur del Parque Industrial General Belgrano. Enersa trabaja en su vinculación con el sistema eléctrico y en la adecuación de los recursos e instalaciones necesarios para recibir la energía producida e inyectarla a su red de distribución.\n\n«Estamos preparando desde Enersa todos los recursos e instalaciones necesarios para recibir la energía generada por el Parque Solar y que la Municipalidad pueda aprovecharla en sus distintos consumos», explicó Brupbacher.\n\nLa conexión se realizará en el marco de la normativa provincial sobre generación distribuida, que posibilitará compensar la energía generada con consumos de la municipalidad.\n\n«Son dos temas concretos que tienen un impacto genuino en toda la ciudad de Paraná», destacó el presidente de Enersa.\n\nDe esta manera, Enersa, el Gobierno de Entre Ríos y la Municipalidad de Paraná articulan recursos en proyectos concretos que suman infraestructura, energía renovable y mejores condiciones de viales para la capital provincial.\n\n \n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria",
+      "empleo",
+      "comercio",
+      "municipios",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-entre-rios-ahora-piedras-blancas-el-intendente-reclama-a-salud-por-las-guardias",
+    "fuente": "Entre Ríos Ahora",
+    "titulo": "Piedras Blancas: el intendente reclama a Salud por las guardias",
+    "fecha": "2026-10-03",
+    "link": "https://entreriosahora.com/piedras-blancas-el-intendente-reclama-a-salud-por-las-guardias/",
+    "texto_original": "“Como intendente, pero principalmente como vecino de Piedras Blancas, hoy me siento profundamente triste y preocupado. Nuestro Centro de Salud Teresa Schreiner dejará de contar con guardias nocturnas de lunes a viernes y guardias de 24 horas los fines de semana y feriados. Una decisión que significa un enorme retroceso para toda nuestra comunidad”.\n\nDe ese modo, Jorge Fabricio Mesquida, intendente de Piedras Blancas -una localidad ubicada en el departamento La Paz, a 102 kilómetros de Paraná-, alertó por la situación que afecta a sus vecinos tras la decisión del Ministerio de Salud de Entre Ríos de poner fin a un convenio de colaboración que se había firmado en 2022.\n\nEl 1° de noviembre de 2022, la Municipalidad de Piedras Blancas y el Ministerio de Salud suscribieron un Convenio de Fortalecimiento en el ámbito del Centro de Salud Teresa Schreiner, con el objeto de fortalecer la atención sanitaria en la localidad mediante un esquema de cooperación institucional. Salud asumió la cobertura de las guardias pasivas necesarias para ampliar la atención sanitaria del establecimiento, mientras que la Municipalidad de Piedras Blancas aportaría recursos humanos destinados al funcionamiento del Centro de Salud.\n\nLa Municipalidad aportó tres enfermeras; un chofer de ambulancia; y un administrativo para el Centro de Salud. También ha colaborado en el mantenimiento y ampliación del edificio, y ha mantenido operativa la ambulancia, mediante la provisión de combustible, adquisición de cubiertas y realización de servicios mecánicos.\n\nEl 28 de mayo último, la Dirección General del Primer Nivel de Atención del Ministerio de Salud informó que “no continuará sosteniendo el esquema de guardias de enfermería previsto en el convenio”, y que el Centro de Salud Teresa Schreiner funcionará “únicamente” en el horario de 7 a 19.  De ese modo, se deja de prestar servicios de lunes a viernes de 19 a 7; sábados, domingos y feriados.\n\nLa situación deriva en que los pacientes de Piedras Blanas deberán movilizarse a la vecina Hernandarias de requerir atención médica de noche, en fines de semana o en feriados.\n\n“Somos un municipio chico y hace tiempo venimos haciendo un gran esfuerzo para acompañar: hoy aportamos 3 enfermeras, una administrativa y un chofer de ambulancia a un Centro de Salud que depende de la Provincia. Pero hay responsabilidades que no pueden trasladarse ni abandonarse. La salud de nuestros vecinos tiene que estar por encima de cualquier diferencia. Como intendente voy a seguir reclamando donde sea necesario para que Piedras Blancas recupere sus guardias”, señaló el intendente Mesquida.\n\nEl 19 de agosto el jefe comunal efectuó una presentación en Salud y planteó “nuestra preocupación y disconformidad” con una medida que “implique una reducción de las prestaciones actualmente disponibles para nuestra comunidad”.\n\n“Entendemos que las políticas públicas en materia de salud deben orientarse a avanzar en la calidad, cobertura y accesibilidad de los servicios, procurando ampliar y fortalecer la atención a los vecinos, y no retraer prestaciones que resultan particularmente importantes para una comunidad como la nuestra”, planteó.\n\nDe la Redacción de Entre Ríos Ahora",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "impuestos",
+      "municipios",
+      "salud_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-cn-digital-gn-0f5bb33d2d20",
+    "fuente": "CN digital",
+    "titulo": "Intendentes de Juntos Por Entre Ríos repudian el hecho de violencia sufriendo por el intendente de Basavilbaso",
+    "fecha": "2026-10-03",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLTF6OEdRSl91Q1pzdm4wWkdtMUxDT2Q2Sl93alpNWHp5eTZFZERzeUlqb1dJTWpGckZmTjJNZV9HX1ZSUzlBOHZiV1I3R2hNMFJGU1NBYU5GRy1sRDBqSjJ3Z2ZOWHhWUm92X3Zyd0MyTXQyU1lqMGNocDBFMVJqalhaRmRKQ0w5SGdmbTQ3OTk4WHpiZHNmQTlLRGVkZWJrTDBMb2NWbVZoYkVGM1YxblhrNUZtUTE2empSVy00bXlibng3R0oyYXQyVS1MYUljTEtnTGFQaHp6a2o3SU45bXBOeWFJR0NaR2NWUmNuamI?oc=5",
+    "texto_original": "Intendentes de Juntos Por Entre Ríos repudian el hecho de violencia sufriendo por el intendente de Basavilbaso\n  \nCN digital",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-petit-sale-al-cruce-de-loggio-concordia.html",
+    "fuente": "Diario Concordia",
+    "titulo": "Petit sale al cruce de Loggio: “Concordia no acepta tutelas ni candidaturas apresuradas”",
+    "fecha": "2026-10-03",
+    "link": "https://www.diarioconcordia.com.ar/2026/10/petit-sale-al-cruce-de-loggio-concordia.html",
+    "texto_original": "María de los Ángeles Petit, ex diputada nacional y referente de la Agrupación \"Justa, Libre y Soberana\", reflexiona en un documento publicado por El Entre Ríos sobre las declaraciones del exlegislador provincial Néstor Loggio, quien dijo que ve a Ángel Giano como el indicado para ser el candidato a Intendente del peronismo en el 2027.“Sorprende que dirigentes como Loggio que representa a un",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "servicios_publicos",
+      "municipios",
+      "legislatura",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia"
+    ]
+  },
+  {
+    "id": "medios-diario-concordia-entre-rios-y-su-desarrollo-industrial.html",
+    "fuente": "Diario Concordia",
+    "titulo": "Entre Ríos y su desarrollo industrial: surge el Movimiento Francisco Ramírez",
+    "fecha": "2026-10-03",
+    "link": "https://www.diarioconcordia.com.ar/2026/10/entre-rios-y-su-desarrollo-industrial.html",
+    "texto_original": "El viernes 2 de octubre se realizó en Villaguay una reunión a la que concurrieron un grupo de dirigentes políticos y técnicos entrerrianos de diferentes ciudades de la provincia, proveniente de diversos espacios políticos partidarios. Según trascendió, el objetivo de la misma fue fijar el comienzo de una forma de pensar en una “Propuesta de Desarrollo Integral para Entre Ríos”. De esta",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "villaguay"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-brasil-vota-sondeos-dejan-a-lula-y-flavio-bolsonaro-casi-empatados",
+    "fuente": "LT15 Concordia",
+    "titulo": "Brasil vota: sondeos dejan a Lula y Flávio Bolsonaro casi empatados",
+    "fecha": "2026-10-03",
+    "link": "https://lt15concordia.com.ar/index.php/2026/10/03/brasil-vota-sondeos-dejan-a-lula-y-flavio-bolsonaro-casi-empatados/",
+    "texto_original": "En \nBrasil\n, y no en Entre Ríos, no confundas el escenario: el domingo llega la única encuesta que nadie discute: cerca de \n160 millones\n de electores decidirán su voto en la primera vuelta de unas elecciones que definen el destino de la \nsegunda economía del hemisferio\n y del subcontinente.\n\nLos últimos sondeos aprietan el pulso: \nDataFolha\n le da a \nLula da Silva\n \n45%\n en la primera vuelta, contra 42% de \nFlávio Bolsonaro\n. Esa diferencia, de tres puntos, se achicó frente a los cinco puntos que el jueves le daban al mandatario.\n\nEn el balotaje, la misma firma lo ubica con \n47%\n frente a \n46%\n; \nPoderData\n lo muestra más parejo, con \n45%\n para cada uno. El empate total y el resultado imprevisible ya no son una advertencia de campaña: son el escenario que se instala en las conversaciones.\n\nAmbos cerraron campaña en \nSan Pablo\n sin romper la paridad que se mantuvo por semanas. \nLula\n encabezó un acto en la \nAvenida Paulista\n de la capital del estado, mientras su rival, al estilo de su padre, el ex presidente \nJair Bolsonaro\n, realizó una caravana de motocicletas en Santa Bárbara d’Oeste, en el interior de ese estado, el mayor colegio electoral del país.\n\n“Por un lado está la \ndemocracia\n y por el otro la \nbarbarie\n”, lanzó \nLula\n en la capital paulista. Ese cruce marca una pelea que va más allá de la ideología: se trata de procedimientos, prioridades y del modo en que cada uno piensa el Estado.\n\nLa elección también renueva \ngobernadores\n, las \n513 bancas\n de diputados y \n54 senadores\n de 81. En San Pablo, el favorito es \nTarcisio de Freitas\n, actual mandatario del Estado, que supera en sondeos a Fernando Haddad, ex ministro de Hacienda, y se anticipa que ganaría fácilmente en la primera vuelta.\n\nEl campamento de \nLula\n lee una reacción positiva por la prohibición del \njuego en línea\n y el aumento del \nBolsa Familia\n, que motiva a los sectores de menores ingresos, de hasta dos sueldos básicos, el espacio tradicional de los votantes del mandatario socialdemócrata.\n\nTambién pesó la polémica por la \npatrona católica de Brasil\n, con versiones de que \nFlávio Bolsonaro\n, un evangelista duro, la destronaría. En el PT rechazan una influencia definitoria de ese episodio, y el candidato opositor desmintió que tenga esas intenciones.\n\nEl debate, en el fondo, no es solo de banderas: \nLula\n es un socialdemócrata promercado que defiende la multilateralidad y una distribución más igualitaria de la renta, pero termina su tercer gobierno con deudas sociales significativas en los sectores de menores ingresos. \nFlávio Bolsonaro\n, a su vez, es un senador de Río de Janeiro sin mayor dimensión política, un avatar de su padre, con estrechos vínculos con \nEE.UU.\n, que le ha brindado un apoyo público significativo.\n\nEl domingo, Brasil vota y el resultado de la primera vuelta puede confirmar un \nbalotaje\n el \n25\n. La definición final quedará en manos de unos 160 millones de electores, en una elección que también renovará gobernadores, diputados y parte del Senado.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "economia",
+      "impuestos",
+      "legislatura",
+      "elecciones"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-lt15-concordia-lluvias-de-hasta-500-mm-en-brasil-alerta-por-las-nacientes-del-rio-uruguay",
+    "fuente": "LT15 Concordia",
+    "titulo": "Lluvias de hasta 500 mm en Brasil: alerta por las nacientes del río Uruguay",
+    "fecha": "2026-10-03",
+    "link": "https://lt15concordia.com.ar/index.php/2026/10/03/lluvias-de-hasta-500-mm-en-brasil-alerta-por-las-nacientes-del-rio-uruguay/",
+    "texto_original": "La señal no llega desde el sur de Entre Ríos\n: viene desde el \nsur de Brasil\n, donde un pronóstico anticipa \nlluvias extremas\n durante octubre. El dato no es menor: se habla de precipitaciones excesivas o extraordinarias en sectores vinculados a las nacientes del río Uruguay. Y el número que corre es fuerte: hasta \n500 mm\n.\n\nEl pronóstico pone el foco en \nSanta Catarina\n, \nParaná\n y el \nnorte de Rio Grande do Sul\n, una zona que importa para el noreste. No es un detalle técnico: esas nacientes están vinculadas al \nrío Uruguay\n, y cuando llueve con esa intensidad, el agua no se queda quieta. El dato obliga a mirar el mapa de nuevo con otra lupa.\n\nEl detalle importa porque no se trata de una lluvia aislada en un punto cualquiera. El pronóstico habla de \nprecipitaciones excesivas\n o extraordinarias, un lenguaje que en meteorología no se usa para una tormenta pasajera. Y cuando el escenario se extiende a varios sectores del \nsur de Brasil\n, la escala cambia.\n\nLo que asusta no es solo la cifra, sino la escala: \n500 mm\n en octubre no es una llovizna de fin de semana. Es un escenario de precipitaciones excesivas que puede poner a prueba el curso del río Uruguay. Y cuando el pronóstico habla de sectores del \nsur de Brasil\n, la pregunta queda en el aire: ¿qué pasa cuando esa agua baja?\n\nPara el noreste entrerriano\n, el tema no es lejano. El \nrío Uruguay\n no es un dato de geografía de manual: es parte de la vida cotidiana, del comercio, del paisaje y del riesgo. Si en las nacientes llueve con esa fuerza, el resto del sistema lo siente. No se trata de asustar, sino de leer el pronóstico con la seriedad que corresponde.\n\nTampoco hay que confundir el dato con una catástrofe ya consumada. El pronóstico anticipa un \nrégimen de lluvias\n que puede ser extremo, y eso obliga a estar atentos. \nEn el noreste\n, el río no se piensa solo cuando sube: se piensa cuando llueve lejos.\n\nEl pronóstico señala \noctubre\n como el mes de mayor atención, con los mayores acumulados esperados en \nSanta Catarina\n, \nParaná\n y el \nnorte de Rio Grande do Sul\n. La información queda sobre la mesa: no hay que esperar a que el agua llegue para empezar a pensar en el río. El seguimiento del pronóstico será clave para medir la magnitud real de lo que viene en octubre.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "comercio"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "paraná"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-carne-a-japon-el-ruralismo-entrerriano-celebra-la-apertura-y-reclama-reglas-claras",
+    "fuente": "El Heraldo",
+    "titulo": "Carne a Japón: el ruralismo entrerriano celebra la apertura y reclama reglas claras",
+    "fecha": "2026-10-04",
+    "link": "https://www.elheraldo.com.ar/noticias/economia/carne-a-japon-el-ruralismo-entrerriano-celebra-la-apertura-y-reclama-reglas-claras",
+    "texto_original": "La posibilidad de volver a vender carne vacuna argentina a Japón generó expectativas en la Federación de Asociaciones Rurales de Entre Ríos (Farer). Su presidente, Sergio Dalcol, destacó la oportunidad de ingresar a un mercado de alto valor, aunque advirtió que aprovecharla requiere inversiones, continuidad comercial y controles sanitarios sólidos.\n\nEl dirigente valoró la reapertura después de dos décadas y señaló que fue el resultado de un prolongado proceso. Explicó, además, que las preferencias del consumidor japonés abren posibilidades para una producción diferenciada, con características que no coinciden necesariamente con las más demandadas en la Argentina.\n\nEntre ellas mencionó los cortes con mayor presencia de grasa intramuscular, conocida como marmoleo. Para obtenerlos se necesitan determinadas condiciones de crianza y cruzamientos de razas. Según indicó, en Entre Ríos ya existen productores que trabajan con animales orientados a ese segmento.\n\nSin embargo, adecuar un establecimiento y alcanzar una oferta sostenida demanda tiempo. Dalcol estimó que pueden transcurrir entre tres y cuatro años desde la decisión de invertir hasta disponer de los primeros animales con las características buscadas. Por eso, consideró indispensable que el productor tenga garantías de continuidad en el acceso al mercado.\n\nEl riesgo, explicó, es afrontar costos elevados para obtener una carne cuyo precio diferencial depende de la exportación. Si esa posibilidad se interrumpe, colocar el producto en el mercado interno podría resultar menos conveniente, debido a las distintas preferencias de los consumidores.\n\nEn ese contexto, Farer planteó la necesidad de reglas estables, menos obstáculos para producir y herramientas crediticias que acompañen las inversiones ganaderas. El dirigente también pidió evitar restricciones futuras a la venta externa de determinados cortes, por sus efectos sobre la planificación y los vínculos comerciales.\n\nOtro aspecto central es la sanidad. Dalcol destacó el papel del Senasa como garante de los controles y la inocuidad de la carne, tanto para exportación como para consumo interno. Sostuvo que el cumplimiento de las exigencias sanitarias resulta fundamental para consolidar la confianza de los compradores.\n\nA esos desafíos se suman los costos logísticos. La distancia hasta Japón obliga a considerar el peso del transporte en el precio final y la competencia con proveedores mejor ubicados, como Australia.\n\nDalcol señaló que los conflictos internacionales pueden encarecer los fletes, los combustibles y los seguros. Una reducción de esos costos, junto con una oferta continua y el cumplimiento de los requisitos del mercado, permitiría mejorar la competitividad de la carne argentina.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "desarrollo_economico",
+      "comercio",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federación"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-entre-rios-registro-siete-femicidios-y-11-tentativas-en-lo-que-va-de-2026",
+    "fuente": "El Heraldo",
+    "titulo": "Entre Ríos registró siete femicidios y 11 tentativas en lo que va de 2026",
+    "fecha": "2026-10-03",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/entre-rios-registro-siete-femicidios-y-11-tentativas-en-lo-que-va-de-2026",
+    "texto_original": "El Observatorio de Femicidios en Argentina “Adriana Marisel Zambrano”, de La Casa del Encuentro, difundió un nuevo informe sobre la violencia de género en el país, correspondiente al período comprendido entre el 1° de enero y el 30 de septiembre de 2026.\n\nDe acuerdo con el relevamiento, durante esos nueve meses se produjeron 164 femicidios y femicidios vinculados de mujeres y niñas, nueve transfemicidios y 19 femicidios vinculados de varones adultos y niños, lo que totaliza 192 víctimas fatales.\n\nAdemás, el informe contabilizó 401 tentativas de femicidio, de las cuales 392 tuvieron como víctimas a mujeres y adolescentes y nueve correspondieron a femicidios vinculados. En 103 de estos episodios había niñas, niños o adolescentes presentes en el lugar del ataque.\n\nSiete femicidios en Entre Ríos\n\nEntre Ríos registró siete femicidios durante el período analizado. De acuerdo con el informe, la provincia quedó en el noveno lugar en cantidad de casos, junto con Mendoza y Corrientes.\n\nEl relevamiento ubicó a Buenos Aires en el primer lugar, con 57 casos; seguida por Santa Fe, con 29; Córdoba, con 12; Santiago del Estero, con 10; Salta y Tucumán, con ocho cada una; y Mendoza, Corrientes y Entre Ríos, con siete casos cada una.\n\nEn cuanto a las tentativas de femicidio, Entre Ríos contabilizó 11 casos, ubicándose en el decimocuarto lugar del listado nacional.\n\nBuenos Aires concentró 106 casos, seguida por Santiago del Estero, con 45; Santa Fe, con 28; Salta, con 23; Chaco, con 20; Jujuy, con 19; Río Negro, con 17; Chubut, Mendoza y Misiones, con 15 cada una; San Juan, con 14; Córdoba, con 12; y Neuquén y Entre Ríos, con 11 casos cada una.\n\nEl hogar, principal escenario de los femicidios\n\nEntre los principales datos del informe se destaca que 226 hijas e hijos quedaron sin madre como consecuencia de los femicidios registrados durante el período. El 55% de ellos son menores de edad.\n\nAsimismo, el relevamiento indicó que el 54% de los agresores eran parejas o exparejas de las víctimas.\n\nEl documento también señaló que la vivienda continúa siendo uno de los principales escenarios de estos crímenes: el 56% de las víctimas fueron asesinadas en su hogar, ya sea propio o compartido con el agresor.\n\nEn términos absolutos, Buenos Aires fue la provincia con mayor cantidad de casos, seguida por Santa Fe y Córdoba.\n\nTentativas: denuncias previas y medidas de prevención\n\nEn relación con las 401 tentativas de femicidio contabilizadas a nivel nacional, el Observatorio indicó que 59 mujeres o adolescentes habían realizado una denuncia previa, mientras que 44 agresores tenían dictada una medida cautelar de prevención.\n\nEl informe señaló además que 17 de los agresores pertenecían o habían pertenecido a fuerzas de seguridad. En 16 casos se detectaron indicios de abuso sexual y 15 de las víctimas estaban embarazadas. También se registró el suicidio de ocho agresores.\n\nPara La Casa del Encuentro, estos datos deben ser analizados en relación con las respuestas institucionales frente a las situaciones de violencia. Desde la organización se sostuvo que la existencia de denuncias previas y medidas cautelares en algunos de los casos evidencia la necesidad de revisar el acceso a la Justicia y las herramientas de protección disponibles para las víctimas.\n\nReclamo ante una posible interpretación restrictiva de la figura de femicidio\n\nEn su informe, La Casa del Encuentro también manifestó su preocupación por una eventual interpretación restrictiva de la figura de femicidio prevista en el artículo 80, inciso 11, del Código Penal.\n\nLa organización recordó su participación, desde 2008, en el relevamiento de estos crímenes y en el proceso que permitió incorporar el femicidio como agravante a la legislación argentina.\n\nEn ese sentido, planteó que el contexto de violencia de género debe ser probado respetando las garantías del debido proceso, pero consideró que exigir requisitos como una relación de pareja, convivencia o antecedentes previos de violencia cuando la ley no los establece podría restringir el alcance de la figura.\n\nLa organización vinculó esta discusión con la Ley 26.485 de Protección Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres, y reclamó que los derechos reconocidos por la legislación sean efectivamente garantizados.\n\nOtros datos del relevamiento\n\nEl informe nacional también consignó que, entre las víctimas de femicidio:\n\n22 habían realizado una denuncia previa.\n\n11 tenían agresores con medidas cautelares de prevención.\n\nOcho de los femicidas pertenecían o habían pertenecido a fuerzas de seguridad.\n\n15 víctimas estaban vinculadas a contextos de narcocriminalidad.\n\n14 presentaban indicios de abuso sexual.\n\nSiete eran migrantes.\n\nCinco estaban embarazadas.\n\nTres se encontraban en situación de presunta prostitución o trata.\n\nUna pertenecía a pueblos originarios.\n\n29 femicidas se suicidaron.\n\nSe registraron 19 femicidios vinculados de varones adultos y niños.\n\nTambién fueron contabilizados nueve transfemicidios.\n\nNiñas, niños y adolescentes, entre las víctimas colaterales\n\nLa Casa del Encuentro contabilizó 226 hijas e hijos afectados por los femicidios. De ese total, 126 eran menores de edad, 91 eran adultos y en nueve casos no se contaba con información sobre la edad.\n\nEl informe advierte que las consecuencias de estos hechos no se limitan a las víctimas directas. En los casos de tentativa, además de las agresiones físicas, se destacó el impacto de la violencia psicológica sobre las niñas, niños y adolescentes que presenciaron los ataques.\n\nEn total, 103 niñas, niños y adolescentes estaban presentes en el lugar donde se produjo una tentativa de femicidio.\n\nEl reclamo de La Casa del Encuentro\n\nDesde la organización reclamaron el cumplimiento efectivo de las leyes vinculadas con la prevención y atención de las violencias de género, entre ellas la Ley 26.485, la Ley Micaela (27.499), la Ley Brisa (27.452), la normativa que creó el Cuerpo de Abogadas y Abogados para Víctimas de Violencia de Género y la Ley 26.364 de Prevención y Sanción de la Trata de Personas.\n\nEl Observatorio remarcó que detrás de cada femicidio existen víctimas colaterales y sostuvo que la violencia de género debe ser abordada como una problemática de derechos humanos.\n\nEl relevamiento, elaborado ante la ausencia de estadísticas oficiales con el mismo alcance, busca dimensionar la violencia de género a partir del seguimiento de casos publicados en medios de comunicación y otras fuentes.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-el-heraldo-mas-de-1200-empleados-publicos-se-inscribieron-para-los-creditos-del-iapv",
+    "fuente": "El Heraldo",
+    "titulo": "Más de 1.200 empleados públicos se inscribieron para los créditos del IAPV",
+    "fecha": "2026-10-03",
+    "link": "https://www.elheraldo.com.ar/noticias/interes-general/mas-de-1200-empleados-publicos-se-inscribieron-para-los-creditos-del-iapv",
+    "texto_original": "Más de 1.200 empleados públicos entrerrianos se postularon para acceder a los créditos hipotecarios impulsados por el IAPV y el Banco Entre Ríos. El vicepresidente del instituto, Pablo Omarini, explicó que ahora se verificará el cumplimiento de los requisitos antes de enviar las solicitudes precalificadas al banco, que realizará la evaluación crediticia.\n\nLa línea dispone inicialmente de $20.000 millones y está destinada a empleados provinciales de planta permanente sin vivienda propia. Ofrece préstamos de hasta $100 millones para comprar una vivienda única y permanente, cubre hasta el 75% del valor del inmueble y tiene una tasa anual del 6%, con subsidio provincial.\n\nEl IAPV busca ampliar el convenio para alcanzar a más familias y analiza opciones para empleados privados y monotributistas, especialmente ante las dificultades que representan los ingresos mínimos exigidos y el ahorro previo.\n\nAdemás, trabaja con el Colegio de Corredores Inmobiliarios para identificar propiedades aptas para crédito. Omarini también señaló que la morosidad del instituto ronda el 40% y recordó que hasta fin de año continúa vigente un régimen extraordinario de cancelación y moratoria, cuyo recupero contribuye a financiar nuevas viviendas.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "servicios_publicos",
+      "inmobiliario"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-condena-para-un-abogado-federalense-que-debera-pagar-mas-de-61-millones-por-una-decada-de-estafas-inmobiliarias",
+    "fuente": "Federal Al Día",
+    "titulo": "CONDENA PARA UN ABOGADO FEDERALENSE QUE DEBERÁ PAGAR MÁS DE $61 MILLONES POR UNA DÉCADA DE ESTAFAS INMOBILIARIAS",
+    "fecha": "2026-10-03",
+    "link": "https://federalaldia.com.ar/2026/10/03/condena-para-un-abogado-federalense-que-debera-pagar-mas-de-61-millones-por-una-decada-de-estafas-inmobiliarias/",
+    "texto_original": "Reconoció su participación en la asociación ilícita que, según la Fiscalía, lideraron los hermanos Alfonso y Agustín Storni. La investigación reúne más de un centenar de damnificados y maniobras con terrenos ajenos y documentación falsificada.\n\nUn abogado entrerriano fue condenado este martes por la Justicia santafesina, tras reconocer su responsabilidad como miembro de una asociación ilícita que durante una década cometió estafas inmobiliarias en Santa Fe y la zona metropolitana. Deberá pagar $61.352.515 en concepto de reparación a las víctimas y quedó inhabilitado para ejercer la abogacía y el corretaje inmobiliario.\n\nLa condena recayó sobre Javier Andrés Cóceres, de 51 años, oriundo de Federal, Entre Ríos, y fue dictada por el juez penal Pablo Spekuljak en el marco de un juicio abreviado acordado entre la fiscal de Delitos Complejos del MPA Bárbara Ilera y el defensor particular Héctor Acuña.\n\nEl acuerdo contempló una pena de tres años y el cese de la prisión preventiva, que Cóceres cumplía desde hacía 25 meses. El abogado querellante, Ricardo Veglia, ratificó los términos del acuerdo propuesto por la fiscalía.\n\nLa sentencia alcanzó al abogado por su participación en una estructura que, de acuerdo con la acusación, estuvo dedicada a cometer distintos delitos vinculados con operaciones inmobiliarias. En su caso fueron considerados 27 hechos que incluyeron estafas, ejercicio ilegal del corretaje inmobiliario y falsificaciones de documentos públicos y privados, sellos oficiales y timbrados.\n\nUna década de estafas\n\nLa investigación tiene como figuras centrales a los hermanos Alfonso y Agustín Storni y permitió reconstruir una organización que funcionó desde mediados de 2014 hasta el 23 de agosto de 2024, cuando se realizaron los primeros allanamientos. Su composición fue cambiando con el paso de los años, pero la Fiscalía sostuvo que conservó un funcionamiento “permanente, estable y organizado”.\n\nEl mecanismo consistía en ofrecer terrenos cuyos propietarios no habían autorizado las operaciones y generar una apariencia de legalidad mediante documentación que contenía información falsa. Para captar interesados se utilizaban publicaciones en redes sociales y oficinas inmobiliarias que llegaron a cambiar de domicilio en siete oportunidades.\n\nLos locales funcionaron en distintos puntos de Santa Fe, entre ellos el centro, barrio Candioti, el sur de la ciudad y la zona del Puerto.\n\nEn las reuniones con los potenciales compradores se exhibían planos de mensura, escrituras, boletos de compraventa y otros documentos. La presencia de abogados, escribanos y corredores inmobiliarios contribuía, según la acusación, a darle apariencia legítima a las operaciones.\n\nLa organización llegó incluso a intervenir en expedientes de la Justicia Civil. De acuerdo con la Fiscalía, la documentación adulterada fue utilizada para intentar avanzar en procesos de escrituración y otras actuaciones relacionadas con inmuebles que no pertenecían a quienes aparecían como vendedores.\n\nLa pesquisa acumuló más de un centenar de damnificados y operaciones vinculadas con inmuebles de Santa Fe, Colastiné Norte, Santo Tomé, Sauce Viejo y Arroyo Leyes. Uno de los casos más numerosos correspondió a un loteo de tres hectáreas en Colastiné, donde se detectaron 22 operaciones fraudulentas.\n\nLos hermanos Storni\n\nEn la estructura investigada, Alfonso Storni fue señalado como el principal organizador. Su hermano Agustín, corredor inmobiliario, ocupó también un lugar central. La Fiscalía sostuvo que hacia 2021 la organización se dividió en dos grupos, aunque ambos conservaron vínculos con la estructura original.\n\nAgustín Storni fue condenado en mayo de 2025 a tres años de prisión efectiva mediante un juicio abreviado. También recibió diez años de inhabilitación para ejercer como corredor inmobiliario y acordó una reparación de $ 6,9 millones para las víctimas.\n\nAlfonso Storni, en tanto, permanece como uno de los principales acusados de la causa y espera el juicio oral. En 2025 obtuvo el beneficio de la prisión domiciliaria por razones vinculadas con su estado de salud, luego de que se planteara que el Servicio Penitenciario no podía garantizar el tratamiento que necesitaba.\n\nCinco condenas\n\nLa sentencia dictada este martes se suma a otras cuatro condenas alcanzadas mediante procedimientos abreviados dentro de la misma investigación.\n\nAdemás de Agustín Storni, fueron condenados Emiliano Lihuel Chacón, Diego Marcelo Parisse y María Fernanda Guerra. Las resoluciones permitieron avanzar sobre distintos roles que la investigación atribuyó a quienes integraban la organización.\n\nGuerra, quien había trabajado como empleada doméstica de la esposa de Alfonso Storni, recibió una condena de tres años de prisión efectiva por su intervención en operaciones vinculadas con el loteo de Colastiné.\n\nEn ese expediente aparecieron documentos destinados a acreditar derechos sobre un inmueble cuya propietaria había permanecido internada durante décadas en el hospital Moyano y había fallecido en 1959.\n\nChacón y Parisse también admitieron su responsabilidad mediante juicios abreviados y acordaron distintos mecanismos de reparación para los damnificados.\n\nLa reparación\n\nEn el caso de Cóceres, de los $61.352.515 comprometidos para reparar a las víctimas, $30.800.000 ya fueron depositados en una cuenta del Banco Santa Fe del MPA. Ese dinero será distribuido entre los damnificados de manera proporcional, según los cálculos realizados por el equipo contable del organismo.\n\nEl resto será abonado en 15 cuotas iguales y consecutivas.\n\nLa fiscal Ilera explicó durante la audiencia que la Fiscalía mantuvo reuniones con las personas afectadas y que la amplia mayoría aceptó los términos del acuerdo. Aquellas que consideraron insuficiente el monto acordado igualmente recibirán la reparación proporcional y conservarán la posibilidad de reclamar una indemnización adicional por la vía Civil.\n\nAl momento de dictar la sentencia, Spekuljak destacó que los hechos atribuidos a Cóceres se encontraban acreditados y consideró razonable el esquema de reparación acordado.\n\nEl abogado recuperó así la libertad después de más de dos años de prisión preventiva, aunque deberá cumplir las reglas fijadas por el tribunal: mantener un domicilio en Santa Fe, no contactar a las víctimas ni acercarse a ellas a menos de 200 metros y cumplir con el compromiso económico asumido.\n\n#ElLitoral #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "servicios_publicos",
+      "justicia",
+      "inmobiliario"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-regimen-penal-juvenil-estamos-estudiando-protocolos-para-hacerlo-lo-menos-punible-dijo-benitez",
+    "fuente": "Federal Al Día",
+    "titulo": "RÉGIMEN PENAL JUVENIL: “ESTAMOS ESTUDIANDO PROTOCOLOS PARA HACERLO LO MENOS PUNIBLE”, DIJO BENÍTEZ",
+    "fecha": "2026-10-03",
+    "link": "https://federalaldia.com.ar/2026/10/03/regimen-penal-juvenil-estamos-estudiando-protocolos-para-hacerlo-lo-menos-punible-dijo-benitez/",
+    "texto_original": "El Defensor General de la Provincia, Maximiliano Benítez, cuestionó aspectos de la nueva Ley Penal Juvenil y explicó cómo Entre Ríos analiza alternativas a la privación de libertad.\n\nEl defensor general de la Provincia, Maximiliano Benítez, analizó las implicancias de la Ley Penal Juvenil sancionada por el Congreso de la Nación, que reduce de 16 a 14 años la edad de imputabilidad. En declaraciones al programa Un martillo para darle forma (Radio Plaza 94.7), cuestionó especialmente que el nuevo régimen no establezca diferencias suficientes entre niños, adolescentes y mayores de edad, y explicó que la provincia trabaja en protocolos y alternativas a la privación de libertad.\n\nBenítez señaló que las estadísticas de delitos atribuidos a personas de entre 14 y 18 años deben ser interpretadas con cautela, ya que una imputación no implica necesariamente que el caso avance hasta un juicio o termine en una condena. En ese marco, sostuvo que durante 2025 los hechos atribuidos a esa franja etaria fueron de escasa magnitud.\n\nEl defensor general indicó además que, en lo que va del año, se registra un homicidio cometido por una persona de entre 14 y 18 años en Entre Ríos. También explicó que la provincia cuenta con dos centros cerrados para adolescentes, ubicados en las costas del Paraná y del Uruguay, bajo la órbita del Copnaf.\n\nUno de los aspectos que cuestionó de la nueva legislación fue la equiparación entre delitos cometidos por menores y aquellos cometidos por mayores, así como la posibilidad de trasladar a los jóvenes al sistema penitenciario una vez que cumplen los 18 años. Según explicó, distintas jurisdicciones ya plantearon cuestionamientos constitucionales sobre algunos aspectos de la normativa.\n\nEn ese sentido, Benítez sostuvo que la principal dificultad del nuevo régimen estaba vinculada con la ausencia de una diferenciación adecuada según la edad y el desarrollo de las personas involucradas. “El problema más grave de esta ley es que no discrimina entre niños y mayores”, afirmó.\n\nEl funcionario vinculó esa cuestión con los aportes de la neurociencia sobre el desarrollo de la capacidad para comprender las consecuencias de los propios actos. Explicó que esa capacidad no es equivalente entre un niño de 14 años, un adolescente de 17 y una persona mayor de edad.\n\nTambién señaló que el régimen anterior contempla diferencias según el tipo de delito. Como ejemplo, mencionó que adolescentes de 16 años no quedaban sometidos a un proceso penal por determinados hechos, como amenazas o lesiones leves, mientras que la nueva legislación modifica ese criterio.\n\nProtocolos y alternativas\n\nFrente al nuevo escenario normativo, Benítez explicó que la Defensoría trabaja junto con el Ministerio Público Fiscal en la elaboración de protocolos para aplicar la nueva legislación dentro de las facultades que conserva la provincia.\n\n“Nosotros lo que estamos estudiando, lo que estamos haciendo, y ya hemos avanzado muchísimo con el Ministerio Público Fiscal, es en establecer protocolos para hacerlo lo menos punible a esta ley”, sostuvo.\n\nEl defensor general señaló que Entre Ríos puede recurrir a herramientas que permanecen dentro de las competencias provinciales para evitar que las respuestas frente a los adolescentes impliquen necesariamente una privación de libertad. Entre esas alternativas mencionó la mediación, la probation y otras salidas alternativas.\n\nEn ese sentido, explicó que el objetivo de esos mecanismos es utilizar las facultades no delegadas en la Nación para establecer respuestas diferentes al encarcelamiento cuando las características del caso lo permitan.\n\n#PlazaWeb #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-frigerio-evaluo-en-paris-herramientas-de-financiamiento-para-proyectos-estrategicos-de-entre-rios",
+    "fuente": "Federal Al Día",
+    "titulo": "FRIGERIO EVALUÓ EN PARÍS HERRAMIENTAS DE FINANCIAMIENTO PARA PROYECTOS ESTRATÉGICOS DE ENTRE RÍOS",
+    "fecha": "2026-10-03",
+    "link": "https://federalaldia.com.ar/2026/10/03/frigerio-evaluo-en-paris-herramientas-de-financiamiento-para-proyectos-estrategicos-de-entre-rios/",
+    "texto_original": "En el marco de la Argentina Week que se desarrolla en París, el gobernador Rogelio Frigerio evaluó nuevas alternativas de financiamiento para concretar proyectos estratégicos de Entre Ríos. En ese contexto, mantuvo un encuentro con representantes de la Agencia Francesa de Desarrollo (AFD), donde se analizaron herramientas para impulsar iniciativas de la provincia.\n\nDurante la reunión se evaluaron alternativas para proyectos vinculados al tratamiento de residuos y la transición energética, dos áreas estratégicas para el desarrollo sostenible de Entre Ríos. También se analizó la posibilidad de integrar al CFI con mecanismos de garantía que permitan facilitar y acelerar los procesos necesarios para que estas iniciativas puedan avanzar hacia su concreción.\n\n“El financiamiento es clave para que las inversiones se concreten”, sostuvo Frigerio, y destacó el rol del Estado para generar las condiciones necesarias para que los proyectos puedan desarrollarse. En ese sentido, remarcó la importancia de acercar herramientas financieras y de garantía que permitan reducir obstáculos y facilitar el acceso a recursos para iniciativas estratégicas.\n\nEl gobernador señaló que este tipo de encuentros forman parte de los objetivos de la participación de Entre Ríos en la Argentina Week: generar vínculos con organismos e instituciones internacionales y abrir nuevas posibilidades para la concreción de proyectos en la provincia. La articulación entre organismos nacionales, provinciales y actores internacionales permite ampliar las herramientas disponibles para transformar proyectos en inversiones.\n\nLa agenda también permitió poner en valor el potencial de Entre Ríos para desarrollar iniciativas vinculadas a la transición energética y la gestión de residuos, sectores que requieren inversiones de largo plazo y mecanismos de financiamiento adecuados. En ese marco, Frigerio destacó la necesidad de que el Estado acompañe los proyectos estratégicos generando condiciones que permitan acelerar su ejecución.\n\nEncuentro con Macron\n\nComo parte de la agenda institucional de la Argentina Week, Frigerio participó del encuentro con el presidente de Francia, Emmanuel Macron, junto a autoridades nacionales, gobernadores y representantes de distintos sectores. La actividad formó parte de la agenda desarrollada en París para fortalecer los vínculos internacionales y generar nuevas oportunidades de inversión y cooperación para las provincias argentinas.\n\n#SecretariaComunicacionYPrensa #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-enersa-provincia-y-municipio-coordinan-obras-estrategicas-para-parana",
+    "fuente": "Federal Al Día",
+    "titulo": "ENERSA, PROVINCIA Y MUNICIPIO COORDINAN OBRAS ESTRATÉGICAS PARA PARANÁ",
+    "fecha": "2026-10-03",
+    "link": "https://federalaldia.com.ar/2026/10/03/enersa-provincia-y-municipio-coordinan-obras-estrategicas-para-parana/",
+    "texto_original": "Autoridades de Enersa y la Municipalidad de Paraná abordaron la iluminación de la Circunvalación y la conexión del Parque Solar Fotovoltaico municipal a la red eléctrica.\n\nEnersa trabaja en la conexión del Parque Solar Fotovoltaico municipal a su red de distribución y tendrá a su cargo, por disposición del Gobierno de Entre Ríos, la ejecución del alumbrado de la Circunvalación de Paraná. Ambas iniciativas fueron abordadas durante una reunión de trabajo con autoridades municipales realizada en la sede de la empresa.\n\nDel encuentro participaron el presidente de Enersa, Uriel Brupbacher; el gerente general, Leandro Fernández; la intendenta de Paraná, Rosario Romero; el jefe de Gabinete municipal, Santiago Halle; y demás autoridades de ambas instituciones.\n\nNueva iluminación para la Circunvalación\n\nLa obra de Enersa comprenderá aproximadamente 3,8 kilómetros de la Ruta Nacional N.º 12, desde el arroyo Saucecito hasta avenida Almafuerte, e incluirá la autovía, las calles colectoras y sectores bajo puente.\n\nEl proyecto contempla la instalación de más de 400 luminarias LED de alta eficiencia, además de nuevas columnas, redes eléctricas, tableros de comando y sistemas automáticos de encendido. La intervención mejorará la visibilidad y la seguridad durante la circulación nocturna, con menor consumo energético y menores requerimientos de mantenimiento.\n\nConexión del Parque Solar\n\nOtro de los temas tratados fue la próxima puesta en funcionamiento del Parque Solar Fotovoltaico municipal, ubicado al sur del Parque Industrial General Belgrano. Enersa trabaja en su vinculación con el sistema eléctrico y en la adecuación de los recursos e instalaciones necesarios para recibir la energía producida e inyectarla a su red de distribución.\n\n“Estamos preparando desde Enersa todos los recursos e instalaciones necesarios para recibir la energía generada por el Parque Solar y que la Municipalidad pueda aprovecharla en sus distintos consumos”, explicó Brupbacher.\n\nLa conexión se realizará en el marco de la normativa provincial sobre generación distribuida, que posibilitará compensar la energía generada con consumos de la Municipalidad.\n\n“Son dos temas concretos que tienen un impacto genuino en toda la ciudad de Paraná”, destacó el presidente de Enersa.\n\nDe esta manera, Enersa, el Gobierno de Entre Ríos y la Municipalidad de Paraná articulan recursos en proyectos concretos que suman infraestructura, energía renovable y mejores condiciones de viales para la capital provincial.\n\n#ENERSA #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "industria",
+      "empleo",
+      "comercio",
+      "municipios",
+      "infraestructura_obra_publica"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "paraná",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-reforma-previsional-nuevo-recibo-de-haberes-para-jubilados-de-entre-rios-como-es-el-formato-que-usa-la-caja",
+    "fuente": "Federal Al Día",
+    "titulo": "REFORMA PREVISIONAL: NUEVO RECIBO DE HABERES PARA JUBILADOS DE ENTRE RÍOS: CÓMO ES EL FORMATO QUE USA LA CAJA",
+    "fecha": "2026-10-03",
+    "link": "https://federalaldia.com.ar/2026/10/03/reforma-previsional-nuevo-recibo-de-haberes-para-jubilados-de-entre-rios-como-es-el-formato-que-usa-la-caja/",
+    "texto_original": "La Caja de Jubilaciones de Entre Ríos implementa a partir de la liquidación de septiembre un nuevo formato para identificar mejor el haber previsional y los aumentos que se otorguen.\n\nLa Caja de Jubilaciones y Pensiones de Entre Ríos implementa, a partir de la liquidación correspondiente a septiembre, un nuevo formato de recibo de haberes para jubiladas, jubilados, pensionadas y pensionados provinciales, en el marco de la entrada en vigencia de la reforma previsional.\n\nEl esquema busca “simplificar la lectura, ordenar los conceptos y brindar mayor claridad sobre la composición y actualización de los haberes”, informaron desde el organismo a AHORA.\n\nEl nuevo recibo incorpora dos códigos principales: el 5000, denominado Haber Previsional, que concentra la liquidación correspondiente al período anterior, y el 5001, correspondiente a Movilidad, donde se identificarán de manera diferenciada los incrementos que correspondan en cada período.\n\nEl presidente de la Caja, Gastón Bagnat, explicó: “Es más simple porque el código 5000 corresponde al Haber Previsional y reúne lo que el jubilado percibió como total de haberes en el mes anterior. El código 5001 permitirá identificar de manera clara el aumento correspondiente a la movilidad”.\n\nEn el caso de septiembre, el incremento salarial del 3,5 por ciento correspondiente al sector docente será abonado mediante liquidación complementaria, debido a que la definición se produjo una vez cerrada la liquidación mensual.\n\nSobre este punto, Bagnat señaló: “Una vez establecido el pago del incremento del 3,5 por ciento para los docentes activos, la Caja aplicará esa misma movilidad a los jubilados y pensionados, de acuerdo con el nuevo esquema previsto por la normativa”.\n\nAsimismo, destacó que “este nuevo sistema permitirá ordenar la liquidación, simplificar la lectura del recibo y agilizar los procesos, brindando mayor claridad a cada beneficiario”.\n\nLa implementación del nuevo recibo forma parte del proceso de adecuación de los procedimientos de la Caja a la nueva normativa previsional, con el objetivo de avanzar hacia un sistema de liquidación más simple, ordenado y transparente.\n\n#ahora #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-federal-al-dia-el-defensor-general-presento-su-informe-de-gestion-con-la-salud-mental-y-ninez-y-adolescencia-como-ejes",
+    "fuente": "Federal Al Día",
+    "titulo": "EL DEFENSOR GENERAL PRESENTÓ SU INFORME DE GESTIÓN CON LA SALUD MENTAL Y NIÑEZ Y ADOLESCENCIA COMO EJES",
+    "fecha": "2026-10-03",
+    "link": "https://federalaldia.com.ar/2026/10/03/el-defensor-general-presento-su-informe-de-gestion-con-la-salud-mental-y-ninez-y-adolescencia-como-ejes/",
+    "texto_original": "Maximiliano Benítez encabezó la reunión anual del Ministerio Público de la Defensa. La jornada contó con la participación de Stella Maris Martínez, ex defensora general de la Nación.\n\nEl defensor general de la Provincia, Maximiliano Benítez, encabezó este viernes en Concordia la reunión anual del Ministerio Público de la Defensa (MPD), donde presentó el informe de gestión y política institucional del organismo. El acto contó con la presencia de Carlos Federico Tepsich, vicepresidente del Superior Tribunal de Justicia (STJ); Stella Maris Martínez, ex defensora general de la Nación; el presidente de la Asociación de la Magistratura y la Función Judicial de Entre Ríos, Rafael Cotorruelo, y el ex defensor general de la Provincia, Arsenio Francisco Mendoza.\n\nLuego del informe se realizaron talleres en que se abordaron situaciones vinculadas a temas Penales, de Familia, Niñez y Adolescencia y Equipos Técnicos Interdisciplinarios. Para cerrar la jornada, Stella Martis Martínez brindó una conferencia sobre la historia y el presente de la Defensa Pública en el país, en tanto garante de los derechos humanos en el sistema de justicia. De la actividad participó Susana Medina, vocal del STJ.\n\nEl encuentro, que es organizado en conjunto por el MPD y la Asociación de la Magistratura y la Función Judicial de Entre Ríos, congregó a integrantes de la Defensa Pública en cumplimiento de los deberes y atribuciones que la Ley Orgánica del Ministerio Público N° 10.407 le confiere al Defensor General.\n\nEn su informe, Benítez realizó un repaso pormenorizado de las acciones llevadas adelante por el MPD en todo Entre Ríos, con ejes en salud mental –particularmente en la problemática del suicidio–, el Régimen Penal Juvenil, la realidad de la adopción con una merma en la cantidad de inscriptos en el Registro de Adoptantes, la difusión del Dispositivo Referentes de Cuidado y Acompañamiento de Niños, Niñas y Adolescentes, la expansión del Dispositivo de Entrevistas Testimoniales Videograbadas a casi todo el territorio provincial con equipos técnicos interdisciplinarios, la problemática carcelaria y el trabajo de las defensorías y los principales temas abordados tanto en materia Penal como Civil y de Familia, entre otros.\n\n“Tenemos que destacar el esfuerzo que hacen todos los defensores públicos y defensoras públicas para poder darle acceso a justicia a la gente. Es un trabajo cotidiano que no se puede cuantificar y que en épocas de crisis como la actual es cuando más se incrementa”, sostuvo Benítez.\n\nLuego agregó: “Nos hicimos cargo de los derechos que se ampliaron y por eso tenemos instituciones como el Órgano de Revisión de Salud Mental y la Unidad de Letrados en Procesos de Salud Mental”. Tras destacar la tarea desarrollada en este ámbito, llamó a trabajar para contribuir a revertir las altas tasas de suicidio con que cuenta Entre Ríos y que afectan sobre todo a las personas jóvenes.\n\nEntre otras autoridades, estuvieron presentes el secretario general de la Asociación de la Magistratura, Germán Dri, y los vocales Gaspar Reca y Victoria Federik; la viceintendenta y presidenta del Concejo Deliberante de Concordia, Magdalena Reta de Urquiza y la presidenta del Colegio de la Abogacía de Entre Ríos Sección Concordia Graciela Chiappa.\n\n#ComunicaciónMPD #federalaldia #radiointegracion905",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "empleo",
+      "impuestos",
+      "servicios_publicos",
+      "municipios",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "concordia",
+      "federal",
+      "victoria"
+    ]
+  },
+  {
+    "id": "medios-r2820-gn-86d87bc61b9d",
+    "fuente": "r2820.com",
+    "titulo": "El Foro de Intendentes de Juntos por Entre Ríos repudió la agresión contra Hernán Besel",
+    "fecha": "2026-10-03",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWF6SWEwWUp1ZkliUEQteUxIemEwdHp6U1BMVWxURS13eFl1QmpvenJydjc3Z2ZXVURRZVNJS2tYdnk2VDlDRGVleU9wRjhhSFE4eXRRRUlaVVJUd0k1NC1jeG1qZU0xaXU0WTQ2eVRzVGsxM0I2SXFxUWNhNTlyWkJZTVhtQlRjUUpPQjhBU1FRbERSenc4YUNzVEQ1VlZwOXIxQjBLM29FRDJQY3U4dk4yUkpKdlRYTkgwN3JfNlJkc2VvNENXTGNXRDdkdEVXSEF6U1p1TdIB1wFBVV95cUxPTWF6SWEwWUp1ZkliUEQteUxIemEwdHp6U1BMVWxURS13eFl1QmpvenJydjc3Z2ZXVURRZVNJS2tYdnk2VDlDRGVleU9wRjhhSFE4eXRRRUlaVVJUd0k1NC1jeG1qZU0xaXU0WTQ2eVRzVGsxM0I2SXFxUWNhNTlyWkJZTVhtQlRjUUpPQjhBU1FRbERSenc4YUNzVEQ1VlZwOXIxQjBLM29FRDJQY3U4dk4yUkpKdlRYTkgwN3JfNlJkc2VvNENXTGNXRDdkdEVXSEF6U1p1TQ?oc=5",
+    "texto_original": "El Foro de Intendentes de Juntos por Entre Ríos repudió la agresión contra Hernán Besel\n  \nr2820.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "partidos_politicos",
+      "municipios"
+    ],
+    "lugares_matcheados": [
+      "entre ríos"
+    ]
+  },
+  {
+    "id": "medios-r2820-gn-1959e756982f",
+    "fuente": "r2820.com",
+    "titulo": "Educación y trabajo: Gualeguaychú será sede de una de las actividades de la Mesa provincial del CGE",
+    "fecha": "2026-10-03",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbEZ3clBaNVhUV1NOb0NSODRIM3RuTXNxcEdWeHgzUFhJWFg5enUtNUN1OFl5dVVja2NwX2V5MFdiZGNpQlV4RVlEeGxkYk5wS3MyM2piTnRsU2lMNGk1aDhlcllITDliZU9PU095OHZYRmRvZGdtc1hLRG9PWUpMWmt3ZktFX2NlZk9faExMZUZlNGRuRDdqWlhGOWZOX2JqcTZOc2lHQzgzeGRXR1phMkxJZEItb3Nwb0JMZk1jcTE3SWhpeC1oREVOUzlYUW9OeHBibFlkd1FpcVcxQmFlUdIB5gFBVV95cUxOTFY4QlFNRWRCZV9VcHAwTVo2d2ZpVWhLdDZaMmtOT3FKeXE1UEJZNnJyd2RuUm03TE1RSElhS2dBSjlxRng2Q0Y2eTlDNkowLVlQT014MFlKS3FuTDhvd3NkV0JpazhfY0FhMTdSQUNwNWd4ZndONFNoQjhNcFJTVjc1QkEwNWhSWmRWYVdFWWlWOTJzcUM3ZkIwQjRVcF8zQVQwQ3c2elJub1lSa2NPYUhncjJXSDljdUpvVWlXc3gzdlkydXpwZjFQWkkwYTBXbXJiZ1Rablg3TWxwMEd0OEJMaFltZw?oc=5",
+    "texto_original": "Educación y trabajo: Gualeguaychú será sede de una de las actividades de la Mesa provincial del CGE\n  \nr2820.com",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-productores-y-entidades-gremiales-reclaman-medidas-urgentes-ante-el-avance-del-delito-rural",
+    "fuente": "El Día Online",
+    "titulo": "Productores y entidades gremiales reclaman medidas urgentes ante el avance del delito rural",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/productores-y-entidades-gremiales-reclaman-medidas-urgentes-ante-el-avance-del-delito-rural",
+    "texto_original": "Cerca de un centenar de productores entrerrianos, junto a representantes de las entidades gremiales del sector —FAA Filial Entre Ríos, SRA Distrito Entre Ríos y Farer—, se reunieron en el Establecimiento Yola, en cercanías de Sir Leonard, departamento La Paz, con autoridades policiales para reclamar medidas urgentes ante el avance descontrolado del delito rural y la violación permanente de la propiedad privada de los productores.\n\nEntre las medidas solicitadas se encuentra el pedido a funcionarios judiciales que \"cumplan con su deber público, que investiguen las innumerables denuncias efectuadas, que adopten medidas efectivas para esclarecer los hechos delictivos, que impulsen los procesos en tiempo y forma y que logren sentencias que condenen a los responsables\".\n\n\"Situaciones que, a esta altura, son demandas de toda la sociedad local. La falta de estos cambios, considerados necesarios y urgentes, hace que los productores rurales continúen viviendo como si el Estado de derecho no existiera\", señalaron desde la Sociedad Rural en un comunicado.\n\nY ampliaron que durante el encuentro se destacó la labor realizada por el personal de la Policía Rural, pero también se reclamó el otorgamiento del equipamiento necesario e imprescindible para que pueda desarrollar eficazmente su tarea de prevención y seguridad. \"En concreto, se solicitó que cada destacamento cuente con drones térmicos y miras nocturnas\", se agregó.\n\nAsimismo, se reclamó la colocación de cámaras de seguridad en rutas, caminos rurales y accesos, integradas a un sistema de monitoreo y control policial que permita una respuesta rápida ante situaciones delictivas. El epicentro del reclamo está dirigido a las zonas agropecuarias cercanas a las localidades de Bovril, Avigdor, Sauce de Luna, Santa Elena, La Paz y Villaguay.\n\nLa firma del petitorio que reúne los reclamos estuvo encabezada por los dirigentes gremiales, Matías Martiarena, Sebastián Klug y Marcelo Schreiner, por FAA Entre Ríos; Mariano Berisso y Mayda Spiazzi, por SRA Entre Ríos; y Maximiliano Müller, por Farer, y contó con el acompañamiento de la mayoría de los productores presentes.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "agro",
+      "servicios_publicos"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "villaguay",
+      "santa elena",
+      "la paz"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-caleb-tiene-2-anos-multiples-discapacidades-y-su-familia-pide-ayuda-para-terminar-una-casa-adaptada",
+    "fuente": "El Día Online",
+    "titulo": "Caleb tiene 2 años, múltiples discapacidades y su familia pide ayuda para terminar una casa adaptada",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/caleb-tiene-2-anos-multiples-discapacidades-y-su-familia-pide-ayuda-para-terminar-una-casa-adaptada",
+    "texto_original": "A sus apenas 2 años, Caleb atraviesa una realidad que obliga a su familia a reorganizar cada aspecto de la vida cotidiana. El pequeño padece múltiples discapacidades —entre ellas microcefalia, epilepsia y ceguera—, presenta dificultades para deglutir y se alimenta a través de una sonda gástrica mientras aguarda el procedimiento para la colocación de un botón gástrico.\n\nEn paralelo a los cuidados permanentes, sus padres enfrentan una preocupación urgente: terminar la casa en la que viven para convertirla en un espacio seguro y adecuado.\n\n“Nuestro principal objetivo es terminar nuestra casa\", contó David, el papá de Caleb, en diálogo con Ahora ElDía. La obra quedó paralizada y hoy no cuentan con los recursos para continuar. \"Nos falta comprar el techo, cuatro chapas, una puerta y materiales... son cosas que hoy por hoy no están a nuestro alcance”, explicó.\n\nLa situación económica es compleja, ya que David no tiene empleo. Si bien la búsqueda laboral es prioritaria, las constantes demandas de atención y los viajes médicos dificultan sostener una rutina estable.\n\n \n\nUna vida marcada por los cuidados\n\nEvelyn, la mamá de Caleb, detalló las necesidades diarias que enfrenta el niño: “Tiene epilepsia y está medicado para evitar las convulsiones. Además, presenta un desarrollo lento; por eso se alimenta por sonda y con leche de fórmula mientras esperamos el procedimiento del botón gástrico”.\n\nA estas condiciones se suman la ceguera y la imposibilidad de sostener su propio cuerpo. Por este motivo, la familia requiere una silla postural que le brinde seguridad y estabilidad. Si bien disponen de un cochecito para trasladarlo, este resulta insuficiente para sus necesidades motrices.\n\n“Precisamos ayuda para salir adelante. Necesitamos unos lentes especiales porque no puede ver el sol, así como una silla postural, porque él no sostiene su cuerpo\", señaló Evelyn, destacando que una vivienda apta para un niño con ceguera y sin humedad es clave para su evolución.\n\nActualmente, la familia reside en una habitación de la casa de la abuela. En el fondo del terreno comenzaron la edificación de su vivienda propia, pero el proyecto quedó detenido. \"Tuvimos que viajar mucho y no la pudimos terminar; el tiempo y los recursos se destinaron a los tratamientos de Caleb\", relató.\n\n \n\nLos viajes al Garrahan, otra preocupación constante\n\nCaleb debe concurrir al Hospital Garrahan a mediados de octubre y se prevén nuevos turnos antes de fin de año. Cada traslado desde Gualeguaychú hacia Buenos Aires implica gastos de combustible, pasajes, comida y movilidad interna.\n\n“Tratamos de recaudar fondos para cubrir los gastos de traslado y todo lo que implica la estadía allá\", contó David.\n\nLa atención médica de Caleb requiere continuidad y, por eso, los viajes forman parte de una rutina que la familia debe sostener pese a sus dificultades económicas. David reconoció lo difícil de la situación: \"Es muy doloroso y nos cuesta expresarnos, pero necesitamos un trabajo para poder ordenar la economía familiar”.\n\nEn ese contexto, la familia intenta avanzar en distintos frentes al mismo tiempo: conseguir un trabajo, terminar la vivienda, afrontar los viajes y reunir los elementos que Caleb necesita para mejorar sus condiciones de vida.\n\n \n\nUna habitación pensada para Caleb\n\nLa construcción de la vivienda tiene un significado especial para la familia. No se trata solamente de terminar una obra que quedó inconclusa, sino de contar con un lugar que pueda responder a las necesidades de un niño que no ve, que no puede desplazarse por sus propios medios y que necesita asistencia permanente.\n\nEl objetivo es que Caleb pueda vivir en un espacio seguro y accesible, sin humedad que perjudique su evolución y donde su familia pueda realizar sus cuidados cotidianos con mayor comodidad.\n\nPara eso todavía faltan materiales básicos. El techo es una de las principales prioridades y la familia también necesita una puerta y otros elementos para poder continuar con la construcción.\n\nMientras tanto, siguen viviendo en la casa de la abuela, a la espera de poder completar el lugar que habían comenzado a construir.\n\nLa situación laboral también pesa. David se encuentra actualmente sin empleo y busca una oportunidad que le permita generar ingresos y volver a ordenar la economía familiar: “Necesito un trabajo para poder alinear las cosas como deberían ser”.\n\n \n\nCómo colaborar\n\nFrente a esta situación, la familia decidió compartir un alias para quienes quieran acompañarlos económicamente. David reconoce que no es sencillo para él, como papá, pedir ayuda, pero entiende que cualquier aporte puede colaborar para avanzar con la vivienda, afrontar los viajes y cubrir algunas de las necesidades de Caleb.\n\n“Formas de ayudarnos no puedo decirle, porque me pone en un lugar incómodo como papá. Aquellas personas que sientan la necesidad de ayudar, bienvenido sea”, expresó.\n\nQuienes quieran colaborar pueden hacerlo a través del alias (todosporcaleb77).\n\nAdemás, quienes puedan aportar materiales de construcción también pueden hacerlo contactándose con la familia, ya que detrás del pedido de terminar su casa hay un objetivo concreto: que Caleb pueda crecer en un espacio adecuado a sus condiciones, mientras continúa con sus controles y tratamientos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "economia",
+      "empleo",
+      "impuestos",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-frutas-y-verduras-compras-fuertes-en-la-primera-quincena-y-menos-movimiento-a-fin-de-mes",
+    "fuente": "El Día Online",
+    "titulo": "Frutas y verduras: compras fuertes en la primera quincena y menos movimiento a fin de mes",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/frutas-y-verduras-compras-fuertes-en-la-primera-quincena-y-menos-movimiento-a-fin-de-mes",
+    "texto_original": "En una verdulería, que un producto aumente no significa necesariamente que todos los demás sigan el mismo camino. La cebolla puede subir con fuerza mientras la lechuga baja, y unos días después la situación puede volver a cambiar. La época del año, el clima, la disponibilidad de mercadería y las condiciones de traslado tienen un peso decisivo en esos movimientos.\n\nEn Gualeguaychú, esa dinámica se combina con otro factor: la cantidad de comercios que compiten por los mismos clientes. Para quienes llevan años en el rubro, el desafío no pasa solamente por abastecerse y sostener los precios, sino también por mantener las ventas y una clientela estable.\n\nJonathan Bacigalupo es verdulero y explicó que se produjo una caída en las ventas, aunque no fue tan pronunciada como en otras temporadas: “Las ventas bajaron en invierno. Siempre hay meses que caen, un poco más o un poco menos. Sin embargo, este año el movimiento logró mantenerse relativamente estable y con la llegada de la primavera comenzó la recuperación”.\n\nLa estacionalidad es una característica propia del sector. Hay momentos en los que determinados productos tienen mayor disponibilidad y otros en los que las condiciones para producirlos o trasladarlos pueden provocar variaciones en sus precios.\n\nUno de los principales factores que explican los cambios de precios en las verdulerías es el clima. Lluvias excesivas, sequías, heladas o problemas en las zonas de producción pueden afectar tanto la cantidad disponible como la calidad de la mercadería.\n\nBacigalupo manifestó que no necesariamente cada aumento responde a una decisión del comerciante: “La suba de precios se da en productos fuera de estación o por el clima”.\n\nEn ese sentido, planteó que mirar solamente cuánto aumenta una fruta o una verdura en un momento determinado puede ofrecer una visión incompleta de lo que ocurre. Incluso, aseguró que existen algunos productos cuyos valores actuales se encuentran en niveles similares a los de hace casi un año.\n\nUn mercado donde los precios van en direcciones opuestasEl Centro de Economía Política Argentina (CEPA) muestra justamente esa dinámica dispar. De acuerdo con su informe sobre la evolución de precios en el Mercado Central de Buenos Aires (MCBA) y en grandes cadenas de supermercados, no todas las frutas y verduras se movieron en la misma dirección.\n\nEn el Mercado Central, el promedio ponderado de seis hortalizas que representan el 75,3% del volumen comercializado aumentó un 3,2% durante agosto respecto de julio. Pero detrás de ese promedio hubo comportamientos muy diferentes: la cebolla subió un 35%, la batata un 17,2%, el zapallo un 9,4% y la papa un 5,1%. Al mismo tiempo, la lechuga cayó un 39,3% y el tomate bajó un 8,3%.\n\nEl informe atribuyó parte de los aumentos de la papa y la cebolla a menores ingresos de mercadería durante la primera mitad del mes de agosto, asociados a condiciones climáticas y a la escasez de lotes de buena calidad. Hacia el final del mes, la mejora del abastecimiento comenzó a corregir esos valores.\n\nEn el caso de la lechuga, ocurrió lo contrario: el mercado estuvo bien abastecido y las bajas temperaturas redujeron la demanda, lo que favoreció una caída del precio.\n\nEn las frutas, la variación fue todavía mayor. El promedio ponderado mayorista de cuatro productos aumentó un 11,8% en agosto.\n\nLa principal incidencia correspondió a la banana, que registró una suba del 42%. El limón aumentó un 7% y la naranja tuvo una variación positiva de 0,6%, mientras que la manzana bajó un 2,4%.\n\nEn este caso, el CEPA vinculó el aumento de la banana con una situación logística particular: el cierre prolongado del Paso Cristo Redentor debido a las nevadas restringió el ingreso de fruta ecuatoriana, generó demoras y elevó los costos de traslado.\n\nEl dato sirve para mostrar hasta qué punto el precio que finalmente encuentra el consumidor en una verdulería puede estar condicionado por situaciones que ocurren a cientos o miles de kilómetros de la ciudad.\n\nEl informe puso además el foco en una cuestión central para entender por qué el precio que paga el consumidor puede diferir considerablemente del valor mayorista. La brecha entre los precios del Mercado Central y los supermercados también se amplió.\n\nEl dato más importante que surge del análisis es que los movimientos del mercado mayorista no se trasladan automáticamente y en la misma proporción al precio final. Entre un punto y otro intervienen costos de transporte, logística, almacenamiento, alquileres, personal, impuestos, márgenes comerciales y distintas estrategias de venta.\n\nDe hecho, el CEPA remarcó que la evolución de agosto confirma que las variaciones mayoristas no se trasladan de manera lineal a los precios minoristas.\n\nLas compras se concentran después del cobroMás allá de los precios puntuales, Bacigalupo observa un comportamiento particular de los consumidores a lo largo del mes. Según su experiencia, la primera mitad del mes concentra las compras más importantes: “Este año he tenido buenas ventas. El ticket promedio depende la fecha del mes. Durante la primera quincena, la gente lleva de todo, pero la situación cambia a medida que transcurren los días y llega el fin del mes”.\n\nEl testimonio permite observar que el consumo no es homogéneo a lo largo del mes. Según la experiencia del comerciante, las compras son más importantes durante los días posteriores al cobro y se vuelven más acotadas hacia fin de mes.\n\nMás locales, más competencia por el clienteOtro de los fenómenos que se observa localmente es la proliferación de nuevos comercios dedicados a la venta de frutas y verduras.\n\nPara Bacigalupo, la mayor cantidad de locales tiene un impacto concreto sobre quienes trabajan en el rubro desde hace tiempo: “Hay muchas y mucha competencia desleal y eso perjudica un poco”.\n\nSin embargo, también considera que la constancia y el vínculo con los clientes son claves para sostener el negocio: “Los consumidores buscan precio y en este rubro siempre gana el que tiene constancia. Hay que estar todo el día trabajando”.\n\nPara las verdulerías locales, el escenario combina entonces varios factores: una demanda que se recuperó con la primavera, consumidores que concentran sus compras durante determinadas semanas del mes, una fuerte competencia entre comercios y precios que dependen de la estacionalidad y de las condiciones de producción y traslado.\n\nMientras los datos nacionales muestran aumentos importantes en determinados productos y fuertes diferencias entre canales de comercialización, los verduleros locales aseguran que la realidad cotidiana es más cambiante: “Así como suben los precios, a veces bajan”, remarcó Bacigalupo y agregó: “El desafío es sostener ese nivel de ventas en un mercado con cada vez más competencia y con consumidores que buscan precios y calidad”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "comercio",
+      "impuestos",
+      "servicios_publicos",
+      "ambiente"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-el-crimen-del-sereno-un-asado-que-termino-en-muerte-y-un-condenado-que-se-excedio",
+    "fuente": "El Día Online",
+    "titulo": "El crimen del sereno: un asado que terminó en muerte y un condenado que se excedió",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/el-crimen-del-sereno-un-asado-que-termino-en-muerte-y-un-condenado-que-se-excedio",
+    "texto_original": "Hay noches que parecen destinadas a terminar como comenzaron: con un buen momento entre amigos, una comida compartida, algunas cervezas, conversaciones que se estiran más de la cuenta y la promesa de volver a encontrarse otro día. Sin embargo, la madrugada del 3 de abril de 2019 no terminó así.\n\nCon la salida del sol, justo en la entrada del complejo Campos del Río, sobre la Calle 2, a pocos metros del Camino de la Costa y del río Gualeguaychú, fue hallado tendido el cuerpo de Dionel Benítez, un misionero de 51 años que desde hacía varios años trabajaba como sereno del lugar.\n\nLa víctima tenía el rostro desfigurado, múltiples traumatismos, fracturas y piezas dentarias perdidas. Lo que unas horas antes había sido una reunión entre conocidos se había transformado en una pelea brutal y, finalmente, en una muerte.\n\nDurante las primeras horas, la escena parecía contar una historia mucho más sencilla y mucho más oscura: un hombre había sido atacado hasta matarlo. Pero la investigación descubriría que detrás de aquella imagen había otra historia. Una historia de insultos, amenazas, un cuchillo, forcejeos, miedo, golpes y una defensa que, para la Justicia, existió realmente, aunque terminó sobrepasando los límites permitidos.\n\nY esa diferencia, pequeña en las palabras, pero enorme en sus consecuencias, sería la que separaría una posible condena a 12 años de cárcel de una sentencia de cuatro años de prisión.\n\n \n\nUn brindis pasado de copas\n\nLa noche del martes 2 de abril había comenzado sin ningún indicio de tragedia. Dionel Benítez recibió en el complejo a Rubén Da Silva, otro misionero de 28 años que se había radicado en la zona. También estaba Marcelo Daniel Morel, un vecino que compartía cierta confianza con ambos.\n\nLos tres comieron un asado y tomaron cerveza. La reunión se extendió durante varias horas, en una escena que, vista después, adquirió la apariencia inquietante de una última fotografía: tres hombres compartiendo una mesa, sin saber que antes de que terminara la noche uno de ellos estaría muerto.\n\nMorel se retiró durante los primeros minutos del 3 de abril. Había quedado atrás la comida y la conversación, y en el complejo solamente permanecieron Benítez y Da Silva. Y ese fue el punto ciego de la historia.\n\nNo hubo testigos directos de lo que ocurrió después. No existió una persona que pudiera reconstruir, minuto a minuto, qué pasó entre ambos. Lo que quedó fue una escena, un cadáver, rastros materiales y, tiempo después, dos versiones enfrentadas sobre el mismo episodio.\n\nLa primera versión surgió de la investigación policial. La segunda, mucho más tarde, de boca del propio acusado.\n\nEl cuerpo en la tranquera\n\nA la mañana siguiente, un vecino que había estado con Benítez durante la noche volvió a pasar por las inmediaciones del complejo. Llevaba a su hija en moto hacia la casa de su expareja cuando vio algo extraño en la entrada. Había un cuerpo tirado.\n\nAl principio no sabía que era Benítez. Se acercó, comprendió la gravedad de la situación y dio aviso a la Policía. A partir de ese momento, el lugar comenzó a llenarse de investigadores, uniformados y peritos. Trabajaron efectivos de la División Criminalística, Homicidios, la Comisaría Quinta y el Comando Radioeléctrico.\n\nLa tranquera del complejo se convirtió entonces en una escena del crimen. Benítez estaba muerto y su rostro mostraba una violencia que inicialmente llevó a los investigadores a pensar que habían utilizado algún elemento externo para golpearlo. Por el estado del cadáver se llegó a sospechar que el agresor podía haber empleado un palo, una madera o incluso un fierro. Todo parecía indicar que había sido víctima de una paliza deliberada y sólo faltaba establecer el motivo, el móvil.\n\nAunque estaba claro que no se trataba de un robo. En la cabaña no había signos de violencia ni faltantes que permitieran sostener que alguien había ingresado para llevarse objetos de valor. La investigación se concentró entonces en la reunión de la noche anterior y, especialmente, en la persona que había permanecido con Benítez después de que el tercer integrante del encuentro se retirara.\n\nEl nombre apareció rápidamente: Rubén Da Silva. Vivía en la zona y la Policía pudo localizarlo y detenerlo rápidamente. Este misionero fue trasladado a la Jefatura Departamental y ya en las primeras horas de la investigación quedó imputado por el homicidio. Cuando fue convocado a declarar ante la fiscal Martina Cedrés, por recomendación del defensor público Martín Clapier, decidió guardar silencio. Mientras tanto, la autopsia comenzaba a cambiar la primera lectura de la escena.\n\n \n\nNo había palo, había puños El médico forense Marcelo Benetti examinó el cuerpo y descartó una de las primeras hipótesis. No había un palo ni un fierro que explicara las lesiones. Benítez presentaba una profunda desfiguración del rostro, hematomas, múltiples heridas, fracturas y pérdida de piezas dentarias. El análisis forense determinó que las lesiones podían haber sido provocadas por un elemento contundente y romo, como por ejemplo el puño. La conclusión agregó otro elemento que adquiriría importancia: Da Silva presentaba hinchazón y lesiones en su mano derecha.\n\nLa causa de muerte también tenía una particularidad. El informe estableció una asfixia traumática. No se trataba de que Benítez hubiera sido estrangulado. Las lesiones producidas por los golpes habían provocado la pérdida de reflejos, un estado de coma y un edema que terminó generando la obstrucción de la vía aérea.\n\nLa cuestión que quedaba por resolver era otra: ¿cómo había comenzado esa pelea? Durante meses, la respuesta quedó encerrada entre la escena del crimen y el silencio de Da Silva. Pero eso terminó en el juicio, cuando el imputado contó su verdad, lo cual había preferido callar durante la etapa investigativa.\n\nFue recién en el debate oral, cuando ya se encontraba frente a los jueces y el proceso había llegado a su instancia decisiva, cuando decidió ejercer su derecho de defensa y relató lo que, según él, había sucedido aquella madrugada. Sus palabras modificaron el eje de la historia y el transcurso del juicio.\n\n“Eran las 00.30, casi la 1 de la madrugada, cuando me pregunta: ‘¿Cuánto salió la comida así te doy mi parte?’. ‘No dejá, vos ya pagaste como tres veces, hoy pago yo, quedate tranquilo’, le contesté y me respondió: ‘Tenés plata y te hacés el agrandado, negro de mierda’. Lo miré y me reí pensando que me estaba cargando, pero me dice: ‘De qué te reís, encima te reís, te burlás. Te cago a trompadas y no te cobro nada’”, relató Da Silva sobre el inicio del conflicto que culminó con Benítez muerto.\n\n“Me insulta y en eso agarra el cuchillo que estaba en la mesa y me empieza a amenazar: ‘Movete que te degollo acá mismo, te mato ya mismo’. Yo le digo que se tranquilice. Lo miro y me entró mucho miedo. Le digo: ‘Sabes qué, yo me voy y otro día hablamos’, pero cuando me levanto de la silla y salgo, él me ataca con el cuchillo”. Luego de eso fueron empujándose hasta la tranquera del frente del complejo y se tranzan en una lucha que termina con la muerte del hombre de 51 años a golpes de puño.\n\n \n\nLa oscuridad de la nocheEn su declaración ante el Tribunal, Da Silva reconstruyó aquella madrugada como una sucesión de retrocesos y forcejeos. Contó que logró sacarse de encima a Benítez después de que este intentara derribarlo. Dijo que hubo empujones y golpes menores y que, en determinado momento, recibió un golpe en el pecho, e incluso fue sujetado por el sereno.\n\nDespués vino otro forcejeo y finalmente llegaron hasta la tranquera. Era una zona oscura del predio y allí volvieron a enfrentarse. Da Silva reconoció que golpeó a Benítez, pero la diferencia entre su versión y la acusación fiscal estaba en el significado de esos golpes.\n\nPara la Fiscalía, el resultado final demostraba un homicidio y no había elementos suficientes para acreditar que hubiera existido un ataque previo de la magnitud que el acusado relataba. Durante los alegatos, la fiscal Martina Cedrés sostuvo esa hipótesis y pidió una pena de 12 años de prisión.\n\nEn cambio, para la defensa, los golpes habían sido la respuesta a una agresión ilegítima y para los jueces, había suficientes elementos para considerar que esa agresión había existido, pero no para justificar todo lo que ocurrió después. Porque tras golpear a Benítez, Da Silva se retiró, fue hasta su casa, tomó una cerveza, escuchó música y se acostó a dormir. Mientras tanto, Benítez agonizaba en la puerta del complejo de cabañas.\n\nLa investigación estableció que las lesiones se habían producido entre aproximadamente las 0.30 y las 7.55 del 3 de abril, y que la muerte se produjo posteriormente, como consecuencia de la gravedad de las heridas. Entre ellas se encontraba una fractura expuesta del tabique nasal.\n\nEl juicio no tenía una cámara que mostrara la pelea. Tampoco había un testigo que pudiera decir quién comenzó el enfrentamiento. La Fiscalía debía demostrar la culpabilidad de Da Silva. Él, en cambio, no tenía la obligación de demostrar su inocencia. Y ese principio ocupó un lugar central en el razonamiento del Tribunal.\n\nEn el adelanto de veredicto, los jueces Arturo Dumón, Mauricio Derudi y Alicia Vivian señalaron que la hipótesis acusatoria no lograba explicar adecuadamente los elementos objetivos incorporados al debate. Para ellos, la Fiscalía había mantenido su posición acusatoria sin valorar de manera suficiente distintos indicios, documentos, elementos gráficos y testimonios que, según entendieron, daban sustento a buena parte de la versión de Da Silva.\n\nLa escena del crimen volvió a adquirir entonces una importancia decisiva. El cuerpo de Benítez no era solamente la evidencia de una muerte. También era parte de la reconstrucción de lo que había ocurrido. Para el Tribunal, el escenario primario contenía información que permitía vincular determinados elementos materiales con la versión entregada por el acusado. Y allí comenzó a tomar forma la tercera posibilidad que definiría el juicio: no una absolución, pero tampoco el homicidio simple tal como lo había planteado la acusación.\n\nLos jueces consideraron acreditado que Da Silva había sido agredido de manera ilegítima. Según el veredicto, Benítez lo había atacado verbal y físicamente, y había utilizado un cuchillo. También consideraron que Da Silva había logrado desarmarlo durante su retirada y que, después de eso, Benítez continuó con las agresiones físicas.\n\nLa Justicia encontró en la prueba elementos suficientes para otorgar a ese relato un grado de “verosimilitud” que permitía reconstruir el episodio de esa manera. Para ellos, Da Silva había actuado en su defensa. ¿Pero hasta dónde puede ser legítima?\n\nLa gravedad de las lesiones sufridas por Benítez demostraba que la respuesta había ido demasiado lejos. La cantidad y la intensidad de los golpes habían producido una golpiza de tal grado que superaba los límites de la defensa legítima. Según la propia reconstrucción de Da Silva, en determinado momento Benítez ya había caído al suelo luego del forcejeo y su capacidad ofensiva se había reducido. Y aun así los golpes continuaron.\n\nEse fue el límite que el Tribunal consideró sobrepasado. La Justicia no desconoció el miedo, la perturbación y la situación de violencia en la que se encontraba Da Silva. Tampoco desconoció que había existido una agresión previa. Pero se entendió que una respuesta defensiva puede perder su carácter justificante cuando deja de guardar relación con la amenaza que pretende repeler. Y la muerte de Benítez era la evidencia más concreta de ese exceso.\n\n \n\nLa condena a prisión efectivaEl jueves 5 de septiembre de 2019, cinco meses después de aquella madrugada, en los Tribunales de Gualeguaychú se puso punto final al juicio. Fue Arturo Dumón quien leyó el adelanto del veredicto: Rubén Da Silva fue condenado a cuatro años de prisión efectiva.\n\nNo por el homicidio simple que había sostenido la Fiscalía, con un pedido de 12 años, sino por homicidio simple cometido en exceso de legítima defensa. La diferencia no era una cuestión meramente técnica: Benítez había agredido, Da Silva se había defendido, pero esa defensa había continuado más allá de lo necesario.\n\nEl Tribunal también recurrió al principio jurídico de in dubio pro reo: ante la duda, la solución debía favorecer al acusado. Los magistrados entendieron que, aun cuando no pudiera alcanzarse certeza absoluta sobre cada uno de los elementos de la reconstrucción, la prueba disponible impedía sostener la hipótesis acusatoria con el grado de certeza necesario para una condena por homicidio simple sin esa atenuación.\n\nAsí terminó aquel juicio. Con una condena de cuatro años y una figura que, por sí sola, parecía resumir la contradicción de toda la causa: defenderse no había sido el delito; el delito había estado en no detenerse a tiempo.\n\nUn tiempo después, en 2021, en plena pandemia, el caso fue llevado a la Cámara de Casación Penal en Concordia y los magistrados que intervinieron ante el planteo hecho por la Fiscalía, dispusieron rechazar el recurso y confirmar el fallo de primera instancia.\n\nDe esta forma, Da Silva comenzó a cumplir la sentencia en la Unidad Penal 9, pero tras el tiempo que permaneció bajo prisión preventiva, que se contabiliza dentro de la pena, salió en libertad condicional el 22 de abril de 2022.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "impuestos",
+      "justicia",
+      "construccion"
+    ],
+    "lugares_matcheados": [
+      "concordia",
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-frigerio-destaco-en-paris-las-oportunidades-de-entre-rios-para-crecer-y-exportar-al-mundo",
+    "fuente": "El Día Online",
+    "titulo": "Frigerio destacó en París las oportunidades de Entre Ríos para crecer y exportar al mundo",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/frigerio-destaco-en-paris-las-oportunidades-de-entre-rios-para-crecer-y-exportar-al-mundo",
+    "texto_original": "En el tercer día de actividades, Frigerio participó junto a otros gobernadores y el ministro de Desregulación y Transformación del Estado, Federico Sturzenegger, de un encuentro en la Cámara de Comercio Internacional (ICC), donde las provincias presentaron su potencial de negocios y exportaciones. Allí, el gobernador puso en valor el perfil productivo entrerriano y las oportunidades que existen para ampliar la presencia de sus productos en los mercados europeos.\n\n\"Entre Ríos tiene un perfil productivo que ya está encontrando oportunidades en Europa y que puede crecer mucho más a partir del acuerdo entre el Mercosur y la Unión Europea\", sostuvo Frigerio. En ese sentido, señaló que la producción entrerriana ya tiene una importante presencia en los mercados europeos y consideró que el acuerdo puede ampliar las posibilidades para las economías regionales, además de generar nuevas oportunidades de inversión y cooperación.\n\nDurante su exposición ante representantes del sector privado, Frigerio destacó especialmente el potencial agroindustrial de la provincia. Sostuvo, además, que la Argentina atraviesa una transformación que puede generar nuevas condiciones para el desarrollo productivo y planteó que históricamente el país enfrentó dos grandes restricciones para crecer: el desequilibrio fiscal permanente y la falta de dólares. En ese sentido, señaló las oportunidades que pueden abrirse a partir del crecimiento de las exportaciones de petróleo, gas y minería, junto con el potencial de sectores como la agroindustria.\n\nEl gobernador también remarcó la necesidad de reducir los obstáculos que afectan a quienes producen e invierten, entre ellos los impuestos distorsivos, la burocracia y las regulaciones que dificultan el desarrollo de proyectos. Sostuvo que  \"el Estado tiene que ser un facilitador\" del proceso de generación de riqueza, inversiones, exportaciones y empleo, al tiempo que destacó la importancia de crear condiciones que permitan que el sector privado pueda desarrollar todo su potencial.\n\nFrigerio destacó además que la presencia de representantes de 14 provincias en la Argentina Week demuestra el peso del federalismo en la estrategia de inserción internacional del país. \"El peso de las provincias en la política y en la trayectoria de la Argentina futura no es marginal, es trascendental\", subrayó. En ese sentido, señaló que el vínculo con la ICC constituye una puerta para potenciar las oportunidades de negocios y conectar cada vez más la producción entrerriana con los mercados del mundo.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "industria",
+      "empleo",
+      "comercio",
+      "agro",
+      "impuestos",
+      "servicios_publicos",
+      "justicia",
+      "comercio_exterior"
+    ],
+    "lugares_matcheados": [
+      "entre ríos",
+      "entrerrian",
+      "federal"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-este-domingo-expondran-una-muestra-con-los-disenos-y-tematicas-de-las-carrozas-estudiantiles-2026",
+    "fuente": "El Día Online",
+    "titulo": "Este domingo expondrán una muestra con los diseños y temáticas de las carrozas estudiantiles",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/este-domingo-expondran-una-muestra-con-los-disenos-y-tematicas-de-las-carrozas-estudiantiles-2026",
+    "texto_original": "Este domingo, a partir de las 17 horas, se expondrán en el Teatro del Puerto los bocetos con los diseños y temáticas de las 23 carrozas partícipes de esta edición del tradicional desfile estudiantil. Un adelanto en vísperas del evento que tendrá lugar el próximo sábado 10 de octubre en el Corsódromo “José Luis Gestro”.\n\nSegún informaron sus organizadores, la propuesta es abierta, libre y gratuita para toda la comunidad y consiste en una muestra donde se exponen todos los dibujos que los chicos intentan plasmar luego en sus carrozas. También se encontrarán allí, alumnos representantes de cada curso participante para explicar y que puedan hacerles preguntas sobre cada carroza y su temática, ya sea Libre o Primaveral.\n\nEste año, el desfile de la Fiesta Nacional de Carrozas Estudiantiles de Gualeguaychú llevará el nombre “Prof. Edgardo Henchoz”. Al respecto, desde la comisión organizadora del Desfile señalaron: “No es solo un nombre en un programa, es un homenaje sentido y merecido a quien supo hacer del galpón y de la carroza una verdadera escuela de vida. Edgardo no fue un espectador, fue parte de la esencia misma de la fiesta durante años, de forma silenciosa y constante, acompañó a generaciones de alumnos carroceros. Estuvo en las noches de soldadura, en los mates fríos, en los contratiempos de último momento y en la alegría de cada desfile. Fue consejo, fue aliento cuando las fuerzas flaqueaban y fue abrazo en cada logro, transmitiendo valores de trabajo en equipo, compromiso y pertenencia que van mucho más allá del papel maché y las luces. Ponerle su nombre a este desfile 2026 es reconocer que la Fiesta de Carrozas no la hacen solo las flores y los hierros, la hacen además,  las personas que dejan huella”.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "agro",
+      "servicios_publicos",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-el-dia-online-inclusion-deportiva-el-valor-de-saber-donde-buscar",
+    "fuente": "El Día Online",
+    "titulo": "Inclusión deportiva: el valor de saber dónde buscar",
+    "fecha": "2026-10-03",
+    "link": "https://www.eldiaonline.com/inclusion-deportiva-el-valor-de-saber-donde-buscar",
+    "texto_original": "Durante muchos años, una de las grandes dificultades que atravesaron las personas con discapacidad y sus familias no fue solamente encontrar una actividad deportiva. El problema, muchas veces, fue saber dónde existe, quién la ofrece, para qué edades está destinada, qué apoyos requiere y si realmente es posible acceder a ella.\n\nEn ese contexto, la creación de la primera Red de Clubes Adaptados de Argentina constituye una noticia que excede el ámbito estrictamente deportivo.\n\nLa plataforma, puesta en funcionamiento el 28 de septiembre de 2026, se propone de manera colaborativa reunir en un mismo espacio a clubes, equipos, federaciones, asociaciones, fundaciones y organismos deportivos que desarrollan actividades adaptadas, permitiendo localizar propuestas situadas y específicas según el lugar donde vive cada persona.\n\nNo se trata de una simple página web. Esta Red podría convertirse con el tiempo en una importante herramienta para la inclusión deportiva.\n\nPuede que en algunas localidades sea más sencillo identificar referentes o consultar información sobre espacios o instituciones que brindan propuestas de actividad física o deportes para personas con discapacidad, pero en otros casos, detrás de cada búsqueda hay una familia que no sabe dónde llevar a su hijo, un adolescente buscando pertenencia, un adulto intentando recuperar vínculos o un deportista que quiere pasar del ámbito recreativo al competitivo.\n\n \n\n¿En qué se basa la propuesta?Cada institución debe ingresar e inscribirse en el sitio www.redclubesadaptados.com y su funcionamiento requiere, además, una responsabilidad compartida: son las propias instituciones las que deben cargar sus propuestas para que puedan ser encontradas. Luego, la información es validada por la Red que solicita cierta documentación que respalde la membresía.\n\nEl proyecto es impulsado por las dos fundaciones (Paradeportes y Turismo Accesible) y cabe destacar que es gratuita. En nuestra provincia, por el momento, figuran dos instituciones: Club Deportivo Juventud Unida y la ONG Ateneo Inclusión, ambas de Gualeguaychú.\n\nIdentificar un club, Fundación, ONG, taller o propuesta de actividad física o deporte adaptado es apenas el primer paso. Posteriormente habrá que analizar en cada caso que lo requiera, las barreras económicas, geográficas, de transporte, de infraestructura y de formación profesional.\n\nUna familia puede encontrar el club adecuado y, sin embargo, no poder pagar la cuota. Puede existir una propuesta deportiva y no existir transporte accesible. Puede haber una pileta adaptada, pero faltar profesionales capacitados. Puede haber voluntad institucional, pero no recursos suficientes para sostener una actividad durante todo el año.\n\nEs por ello que la Red también es accesibilidad ya que puede convertirse en una herramienta para pensar nuevas formas de articulación entre el Estado, los clubes, las organizaciones sociales y el sector privado.\n\nComo ejemplos locales están el Club Deportivo Juventud Unida que bonifica un 50% la cuota social a quienes posean CUD y la ONG Ateneo Inclusión que otorga semestralmente Becas totales o parciales en Natación o en su Colonia de Verano.\n\nLa propia existencia de un mapa nacional de instituciones adaptadas permitiría, con el tiempo, conocer dónde están las propuestas, qué disciplinas se desarrollan, qué edades atienden, los distintos tipos de discapacidad que abordan y qué necesidades permanecen sin respuesta. Ese relevamiento puede convertirse en una herramienta para planificar políticas públicas, orientar inversiones y detectar territorios donde la oferta es insuficiente.\n\nUna expansión real del deporte adaptado no solo significa más personas practicando actividad física, sino que también genera nuevas oportunidades laborales. Profesores de Educación Física, entrenadores, kinesiólogos, terapistas ocupacionales, acompañantes y otros profesionales pueden encontrar nuevos ámbitos de desempeño. Así, la formación continua en accesibilidad pasa de ser un conocimiento complementario a una especialización con demanda concreta. Este auge demandará también espacios y profesionales capacitados para la inclusión de personas adultas y adultas mayores.\n\nMás clubes adaptados exigen más profesionales capacitados. Y aquí aparece una cuestión central: inclusión no es solo abrir una puerta, sino generar las condiciones para entrar, participar, progresar y permanecer.\n\nUna institución inclusiva no debería ser solamente aquella que permite que una persona con discapacidad ingrese y circule en sus instalaciones. Debería ser aquel que piensa sus actividades, sus espacios, su comunicación y sus vínculos considerando la diversidad de quienes lo integran.\n\nTambién puede modificar la mirada social. Durante demasiado tiempo, el deporte de las personas con discapacidad fue presentado exclusivamente desde el esfuerzo individual, la superación o las medallas. Pero antes del deportista de alto rendimiento existe una persona que necesita jugar, aprender, divertirse, hacer amigos, mejorar su salud, sentirse parte de una institución y ocupar un lugar en la comunidad. La importancia de esta Red no debería medirse solamente por la cantidad de clubes que consiga reunir. También habrá que observar cuántas personas que antes no encontraban una propuesta ahora pueden hacerlo; cuántas familias acceden a información que desconocían; cuántos clubes comienzan a incorporar actividades; cuántos profesionales se capacitan y cuántas oportunidades laborales aparecen alrededor de este proceso.\n\nEl desafío será lograr que el mapa no sea solamente un registro de lo que ya existe, sino también un punto de partida para identificar lo que todavía falta y quizás ese sea uno de los mayores aportes que puede hacer esta nueva Red: ayudarnos a pasar de preguntarnos “¿dónde puede hacer deporte una persona con discapacidad?” a construir una realidad en la que esa pregunta tenga cada vez más respuestas.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-04T00:20:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Deportes, fuera de alcance tematico del medio. (automático)",
+    "topicos_matcheados": [
+      "politica",
+      "desarrollo_economico",
+      "economia",
+      "infraestructura_obra_publica",
+      "educacion"
+    ],
+    "lugares_matcheados": [
+      "gualeguaychú",
+      "gualeguay"
+    ]
+  },
+  {
+    "id": "medios-infor-villaguay-villa-dominguez-recuperan-10-animales-vacunos",
+    "fuente": "Infor-Villaguay.com",
+    "titulo": "VILLA DOMÍNGUEZ: RECUPERAN 10 ANIMALES VACUNOS",
+    "fecha": "2026-10-03",
+    "link": "https://infor-villaguay.com/villa-dominguez-recuperan-10-animales-vacunos/",
+    "texto_original": "En el marco de tareas preventivas e investigativas desarrolladas en zona rural, personal de Comisaría Villa Domínguez, junto a efectivos de la Dirección de Prevención de Delitos Rurales – Brigada Villaguay, logró establecer la procedencia de 10 animales vacunos que se encontraban en un establecimiento de la zona.\n\nLas actuaciones se iniciaron a partir del aviso sobre la presencia de los animales, por lo que el personal policial comenzó a realizar tareas de campo y averiguaciones entre productores de la zona, con el objetivo de determinar su procedencia y establecer la propiedad de los mismos.\n\nPosteriormente, durante un operativo preventivo conjunto, se logró localizar a quien acreditó la propiedad de 10 semovientes que habían sido denunciados como sustraídos días atrás desde otro establecimiento rural ubicado en colonia San Gregorio, donde habrían sido retirados luego de producirse un corte en el alambrado perimetral.\n\nMediante la verificación de marcas, documentación y demás elementos identificatorios, se pudo establecer la correspondencia de los animales y determinar su legítima procedencia.\n\nDe esta manera, el trabajo policial permitió recuperar los 10 animales y frustrar la continuidad del ilícito, dando intervención a la autoridad judicial competente y remitiéndose las actuaciones a la Fiscalía interviniente.\n\nEl procedimiento destaca la importancia de las tareas preventivas en zonas rurales, la comunicación entre productores y Policía y el trabajo coordinado con la Dirección de Prevención de Delitos Rurales, herramientas fundamentales para la prevención y esclarecimiento de delitos vinculados al ámbito rural.\n\nPersonal interviniente: Comisaría Villa Domínguez y Dirección de Prevención de Delitos Rurales – Brigada Villaguay.\n\nLa entrada \nVILLA DOMÍNGUEZ: RECUPERAN 10 ANIMALES VACUNOS\n se publicó primero en \nInfor-Villaguay\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-04T00:20:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null,
+    "topicos_matcheados": [
+      "empleo",
+      "justicia"
+    ],
+    "lugares_matcheados": [
+      "villaguay"
+    ]
   }
 ]
