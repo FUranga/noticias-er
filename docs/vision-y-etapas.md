@@ -42,7 +42,18 @@ Lo que parece alcanzable ya, sin redacción propia en el territorio: el hábito 
 
 **Trackers de leyes y ordenanzas — "SUPER CLAVE" (Francisco, 2026-09-04), pensados como herramienta interna primero, no necesariamente contenido publicado**: inspirados en el bill tracker de CT Mirror y la base de declaraciones juradas de VTDigger — un tracker del estado de los proyectos de ley en trámite en el Senado y Diputados de ER, y de ordenanzas del Concejo Deliberante de Paraná si es viable. No construir todavía; queda anotado en el roadmap (candidato natural para la Etapa 2, sección de datos) porque se puede armar en gran parte con lo que ya se ingesta de comunicados, sin depender de reporteo nuevo.
 
-## Foco actual (2026-09-15): investigación propia sobre huecos, no volumen
+## Foco actual (2026-10-08): el newsletter como producto principal — por ahora
+
+Decisión de Francisco: el circuito "ver la noticia posible → verificarla → reescribirla" resultó demasiado engorroso para el tamaño actual del proyecto. Se adelanta el newsletter (antes previsto como distribución de la Etapa 1 y como subproducto del punto 3 de abajo) y pasa a ser **el producto principal**: un newsletter temático de política y economía de Entre Ríos, del medio (sin firma personal), con panorama de apertura, temas numerados con lectura propia (análisis, no opinión), estado de la Legislatura y lo que falta saber. Referencia de formato: Times Politics. Detalle de formato, reglas y proceso en [newsletter.md](newsletter.md).
+
+"Por ahora", explícitamente: si el proyecto evoluciona, el producto también. Lo que no cambia:
+- **La cablera sigue siendo el radar** — el trabajo pasa de "reescribir ítems" a "agrupar ítems en temas y leerlos bien". `referido` encuentra su destino natural (el newsletter), y `a_investigar` alimenta los temas propios.
+- **El foco del 2026-09-15 (abajo) sigue vigente**: el newsletter es el formato donde los huecos propios se publican sin necesidad de una nota completa — "esto es lo que no sabemos todavía" es contenido válido.
+- **La nota individual no desaparece**: queda para cuando un tema propio da para más que un bloque del newsletter. El frontend (`frontend/`) suma el archivo de ediciones como contenido web.
+- Le da cuerpo a la vinculación con medios (cada edición deriva tráfico atribuido) y es la primera versión visible del tracker legislativo (línea "En la Legislatura").
+- Subproductos temáticos (deporte, cultura): no ahora. Fuera de alcance en el cuerpo; a lo sumo, derivaciones con link en el futuro si el principal se sostiene.
+
+## Criterio de fondo (2026-09-15, sigue vigente): investigación propia sobre huecos, no volumen
 
 Decisión de Francisco, a partir de una sesión de triage real donde quedó claro el problema en carne propia: varias notas redactadas mecánicamente ese mismo día terminaron pisando cobertura que **nosotros mismos** ya habíamos hecho días antes, o que otro medio ya cubría bien — mientras que el trabajo que más valor generó en la misma sesión fue el que no salió de reescribir un comunicado (cruzar un informe de una cámara empresaria contra fuentes primarias, conectar cuatro cierres de empresas que nadie había juntado, una discrepancia de coparticipación sin resolver, un tip para investigar). La "Visión aspiracional" de arriba (accountability sobre el anuncio, seguir la plata, ángulos que el comunicado no da) ya estaba escrita desde el 2026-09-04 — lo que cambia ahora es que deja de ser aspiración de etapas futuras y **pasa a ser el criterio central mientras el proyecto sea Francisco + una IA**, no una capacidad a construir más adelante.
 

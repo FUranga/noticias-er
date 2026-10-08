@@ -8,6 +8,8 @@ Contexto para trabajar en este repo con Claude Code.
 
 `Agencia Entrerriana` (nombre todavía provisorio, ver README) es un medio digital en formación para cubrir política y economía institucional de Paraná y Entre Ríos, proyecto de la Fundación para el Desarrollo Entrerriano, editado por Francisco Uranga. Funciona con lógica de agencia: monitorea comunicados de organismos y organizaciones, el editor decide qué es noticiable, un agente de IA lo reescribe en estilo Bloomberg/WSJ, el editor revisa y publica. Contexto completo en `README.md` y `docs/vision-y-etapas.md`.
 
+**Producto principal (por ahora, desde 2026-10-08): un newsletter temático de política y economía de ER, del medio y sin firma personal** — la cablera pasa a alimentar sus ediciones en vez de reescribirse ítem por ítem. Ver `docs/newsletter.md`.
+
 Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fundación (`desarrolloentrerriano.org`, theme Kadence) construido de punta a punta — ver `docs/sitio-fundacion.md`; pipeline de publicación y cablera (`admin/` + `data/backlog.json`) funcionando de punta a punta con ítems reales cargados y notas ya publicadas como borrador; frontend público del medio (`frontend/`, Next.js/Tailwind, deploy en Vercel en curso) en desarrollo activo — portada, nota individual, recirculación y footer construidos, calibrados contra NYT/El País/WSJ. Ver README para el detalle actualizado.
 
 **Importante**: son dos WordPress totalmente separados con credenciales separadas — el del medio (`pipeline/.env`) y el de la Fundación (`fundacion-wp/.env`). No confundir ni reusar credenciales entre uno y otro.
@@ -27,6 +29,7 @@ Estado actual: WordPress del medio (backend privado) instalado; sitio de la Fund
 
 - `docs/vision-y-etapas.md` — visión completa y hoja de ruta por etapas. Leer antes de proponer cualquier funcionalidad nueva, para ubicarla en la etapa que corresponde.
 - `docs/arquitectura-tecnica.md` — decisión de infraestructura (WordPress + pipeline de agencia propio) y el razonamiento detrás. Leer antes de proponer cambios de stack.
+- `docs/newsletter.md` — formato, reglas (análisis sí, opinión no) y proceso del newsletter, el producto principal por ahora. Borradores de ediciones en `newsletter/borradores/`.
 - `docs/estilo-editorial.md` — reglas de redacción compartidas por las skills editoriales. Es la fuente de verdad del estilo; las skills la referencian, no la duplican.
 - `docs/politica-imagenes.md` — de dónde sale la foto de cada nota del medio (cascada de niveles: fuente propia/redes oficiales → libres de derechos tipo Wikimedia Commons → banco propio curado/stock genérico) y cómo se acredita (visible, distinto del criterio de la Fundación). Consumida por `procesar-cablera` y `pipeline/publicar_borrador.py`.
 - `docs/aliados-y-financiamiento.md` — pensamiento en curso sobre alianzas con otros medios/instituciones y vías de sostenibilidad.
