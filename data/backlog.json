@@ -166153,5 +166153,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "iapv-3340",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El gobierno provincial construye 10 viviendas en Santa Anita",
+    "fecha": "2026-10-12",
+    "link": "https://iapv.gob.ar/seccion/noticias/3340/el-gobierno-provincial-construye-10-viviendas-en-s",
+    "texto_original": "Durante la recorrida, las autoridades observaron el desarrollo de los trabajos y dialogaron sobre la ejecución del grupo habitacional, destinado a brindar una respuesta a las familias que esperan acceder a su vivienda.\nSchönhals señaló que estas visitas responden a la premisa del gobernador Rogelio Frigerio de \"gobernar desde el territorio\", ya que permiten conocer de cerca la realidad de cada comunidad e identificar las necesidades sobre las que se debe trabajar.\nAsimismo, remarcó la importancia del trabajo articulado con los gobiernos locales para dar continuidad a las obras y sostener la actividad de la construcción, con el objetivo de que más familias entrerrianas puedan concretar el sueño de la casa propia.\nEl grupo habitacional contempla 10 viviendas de dos dormitorios, una de ellas adaptada para personas con discapacidad o trasplantadas. Las obras se llevan adelante a través del programa Ahora Tu Hogar y están a cargo de la Cooperativa de Provisión de Obras y Servicios Públicos Uruguay Limitada (COPUL).",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-12T17:50:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
