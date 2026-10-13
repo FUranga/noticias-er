@@ -168235,5 +168235,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-348865",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "HONORABLE SENADO DE LA NACIÓN Aviso Oficial",
+    "fecha": "2026-10-13",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/348865/20261013",
+    "texto_original": "HONORABLE SENADO DE LA NACIÓN Aviso Oficial Fecha de Publicacion: 13/10/2026 presencial ante la Comisión Bicameral de la Defensoría del Pueblo, sita en Av. Entre Ríos 149, 6º piso, oficina D, en el horario de 9 a 18 h, o por correo electrónico...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-13T21:44:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2418844",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "UNIVERSIDAD NACIONAL DE ENTRE RÍOS Licitación Pública 01/2026",
+    "fecha": "2026-10-13",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2418844/20261013",
+    "texto_original": "UNIVERSIDAD NACIONAL DE ENTRE RÍOS Licitación Pública 01/2026 Fecha de Publicacion: 13/10/2026 EXPTE_RECT-UER 000732/2026 La Universidad Nacional de Entre Ríos llama a Licitación Pública para la construcción de la “Obra Gimnasio Deportivo y Salón...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-13T21:44:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
