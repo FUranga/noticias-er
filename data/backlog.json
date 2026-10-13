@@ -166699,5 +166699,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-licitacion-publica-n-17-26",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "LICITACIÓN PÚBLICA N° 17/26",
+    "fecha": "2026-10-13",
+    "link": "https://www.dpver.gov.ar/2026/10/13/licitacion-publica-n-17-26/",
+    "texto_original": "OBJETO: ADQUISICIÓN DE CUBIERTAS, CAMARAS Y PROTECTORES. – APERTURA: El 02/11/26 a las 10:00 horas o siguiente/s si aquél fuera inhábil, en la Dirección Provincial de Vialidad, Av. Ramírez N° 2.197, Dirección de DESPACHO, 1° PISO, Paraná, Entre Ríos.- CONSULTA DE PLIEGOS: Departamento I SUMINISTROS, Avda. Ramírez Nº 2.197, Paraná, E. Ríos, T.E. 0343-4248750, o […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-13T11:58:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
