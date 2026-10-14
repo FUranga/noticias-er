@@ -169047,5 +169047,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-ceer-?utm_source=rss&utm_medium=rss&utm_campaign=situacion-del-sistema-financiero-en-entre-rios",
+    "fuente": "Consejo Empresario de Entre Ríos",
+    "titulo": "Situación del sistema financiero en Entre Ríos",
+    "fecha": "2026-10-14",
+    "link": "https://www.ceer.org/situacion-del-sistema-financiero-en-entre-rios/?utm_source=rss&utm_medium=rss&utm_campaign=situacion-del-sistema-financiero-en-entre-rios",
+    "texto_original": "El Instituto de Investigaciones Económicas y Sociales del Consejo Empresario de Entre Ríos presentó un análisis sobre la evolución del sector financiero en Argentina y la provincia de Entre Ríos a junio de 2026, evaluando el comportamiento de préstamos y depósitos de los sectores público y privado no financiero tanto en moneda nacional como extranjera.\n\nEn el contexto nacional, el sector privado no financiero mostró a junio de 2026 una variación real interanual positiva del 2% en los préstamos medidos en pesos constantes a precios de julio de 2026, mientras que los depósitos en moneda local presentaron una leve retracción del 1%. Por el contrario, las operaciones en dólares registraron un incremento interanual del 49% en préstamos y del 29% en depósitos. Esta tendencia impulsó la relación entre préstamos y depósitos, la cual creció 0,34 puntos en pesos reales y 0,39 puntos en dólares respecto a diciembre de 2022, reflejando una mayor intermediación financiera. En cuanto al sector público no financiero nacional, los préstamos evidenciaron caídas interanuales del 28% real en pesos y del 37% en dólares, en tanto que los depósitos tuvieron una baja del 1% real en pesos y un alza del 4% en moneda extranjera.\n\nA nivel provincial, el sector privado no financiero de Entre Ríos registró en el segmento en pesos a precios constantes del segundo trimestre de 2026 variaciones reales interanuales negativas del 14% en préstamos y del 26% en depósitos a junio de 2026. El sector público provincial exhibió una evolución similar en pesos, con una retracción real interanual del 76% en préstamos durante el segundo trimestre de 2026 y una baja del 2% en depósitos.\n\nSin embargo, la actividad en moneda extranjera dentro de la provincia mostró una marcada evolución creciente impulsada por el Régimen de Regularización de Activos implementado en 2024 y por la demanda de financiamiento de empresas vinculadas al comercio exterior. A junio de 2026, los depósitos en dólares del sector público y privado no financiero provincial crecieron un 22% y un 20% interanual respectivamente, mientras que los préstamos al sector privado se expandieron un 61%.\n\nEl análisis per cápita del primer semestre de 2026 en comparación con el mismo período del año anterior confirma una expansión significativamente más intensa en moneda extranjera que en pesos. En Entre Ríos, el crédito privado por habitante aumentó un 58% en dólares y un 11% en pesos, en tanto los depósitos provinciales crecieron un 19% en dólares y un 5% en pesos.\n\nEn conclusión, el primer semestre de 2026 consolida un proceso de reactivación del crédito bancario donde la moneda extranjera actúa como el principal motor de recuperación, tanto a nivel nacional como provincial, impulsando una mayor intermediación financiera y afianzando el financiamiento al sector privado.\n\n \n\nDescargar Informe\n\n \n\nDescargar Infografía\n\nLa entrada \nSituación del sistema financiero en Entre Ríos\n aparece primero en \nCEER\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-14T14:06:56Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
