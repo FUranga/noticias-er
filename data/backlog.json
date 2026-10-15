@@ -171234,5 +171234,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "datosabiertoser-escala-salarial-de-autoridades-superiores-y-personal-fuera-de-escalafon-2026-10-15",
+    "fuente": "Portal de Datos Abiertos de Entre Ríos",
+    "titulo": "Dataset actualizado: Escala salarial de autoridades superiores y personal fuera de escalafón del Gobierno de Entre Ríos",
+    "fecha": "2026-10-15",
+    "link": "https://datos.entrerios.gov.ar/dataset/escala-salarial-de-autoridades-superiores-y-personal-fuera-de-escalafon",
+    "texto_original": "Conocé la escala salarial de los sueldos percibidos por autoridades superiores y personal superior fuera de escalafón en la provincia de Entre Ríos.\r\n\n\nOrganización responsable: Secretaría de Modernización.\n\nIncluye 91 recurso(s) descargable(s).",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-15T16:13:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
