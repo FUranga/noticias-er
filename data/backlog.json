@@ -172530,5 +172530,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "boletinnac-2418966",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "UNIVERSIDAD NACIONAL DE ENTRE RÍOS Licitación Pública 01/2026",
+    "fecha": "2026-10-15",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2418966/20261015",
+    "texto_original": "UNIVERSIDAD NACIONAL DE ENTRE RÍOS Licitación Pública 01/2026 Fecha de Publicacion: 15/10/2026 EXPTE_RECT-UER 000732/2026 La Universidad Nacional de Entre Ríos llama a Licitación Pública para la construcción de la “Obra Gimnasio Deportivo y Salón...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-15T20:10:51Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
