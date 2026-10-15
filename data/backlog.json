@@ -170590,5 +170590,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-uier-uier-participo-de-actividades-del-cfi-con-eje-en-el-desarrollo-productivo-y-financiero",
+    "fuente": "Unión Industrial de Entre Ríos",
+    "titulo": "UIER participó de actividades del CFI con eje en el desarrollo productivo y financiero",
+    "fecha": "2026-10-14",
+    "link": "https://uier.org.ar/uier-participo-de-actividades-del-cfi-con-eje-en-el-desarrollo-productivo-y-financiero/",
+    "texto_original": "La Unión Industrial de Entre Ríos (UIER) participó, a través de la representación de su presidenta Celeste Valenti y su vicepresidente Raúl Marsó, de actividades organizadas por el Consejo Federal de Inversiones (CFI) junto a la Provincia, con el objetivo de promover el desarrollo productivo y financiero.\n\nPor un lado, se desarrolló este martes en la sede de Concordia de la Comisión Administradora para el Fondo Especial de Salto Grande (Cafesg) de un encuentro de mujeres entrerrianas, del que participó Valenti, donde también se entregaron certificados de financiamiento a proyectos productivos de la provincia.\n\nEl encuentro contó con la presencia del gobernador Rogelio Frigerio, el intendente de Concordia, Francisco Azcué; el secretario general del CFI, Ignacio Lamothe; y la jefa de Gabinete de Asesores, Marcela Garavano.\n\nLa actividad que se dio en el marco del Programa para el Desarrollo Productivo y Financiero de Mujeres del CFI, incluyó, además, la presentación del programa para mujeres entrerrianas, a cargo de representantes del CFI, y charlas sobre herramientas de financiamiento productivo y soberanía financiera.\n\nA través del trabajo conjunto con el CFI, Entre Ríos registra más de 50 proyectos gestionados a través de dicho programa, por un monto superior a los $5.000 millones. La iniciativa busca acompañar el crecimiento de emprendimientos y empresas liderados por mujeres mediante herramientas de financiamiento y capacitación.\n\nDesarrollo portuario\n\nPor otro lado, Marsó participó este miércoles en el Centro Provincial de Convenciones de Paraná del Encuentro «Hacia un Plan de Inversiones Estratégicas para la infraestructura logística y portuaria de Entre Rios», donde se presentaron resultados y agenda para el desarrollo provincial. La actividad fue encabezada por el gobernador Frigerio y el titular del CFI Ignacio Lamothe.\n\nEn ese marco, el mandatario entrerriano destacó la incorporación de Entre Ríos a la Hidrovía Paraná-Paraguay y aseguró que representará “un punto de inflexión” para el desarrollo económico y productivo de la provincia. En ese sentido, planteó el rol estratégico del Puerto de Ibicuy.\n\nFrigerio reconoció que Entre Ríos no supo aprovechar su ubicación estratégica a lo largo de la historia y, a partir de ahora, se abren nuevas posibilidades para fortalecer el sistema portuario y mejorar las condiciones de transporte de la producción entrerriana.\n\nEl mandatario explicó que el proceso requirió estudios técnicos y morfológicos destinados a respaldar ante el Gobierno nacional la incorporación de Entre Ríos a la Hidrovía. Según detalló, el CFI brindó la asistencia necesaria para elaborar esa documentación y presentarla dentro de los plazos establecidos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-15T06:37:29Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
