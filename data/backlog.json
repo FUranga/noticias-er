@@ -173048,5 +173048,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-concluyo-la-capacitacion-para-el-personal-de-mesa-de-entrada",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Concluyó la capacitación para el personal de Mesa de Entrada",
+    "fecha": "2026-10-16",
+    "link": "https://www.dpver.gov.ar/2026/10/16/concluyo-la-capacitacion-para-el-personal-de-mesa-de-entrada/",
+    "texto_original": "Con la participación de trabajadores de mesa de entradas de las distintas zonales de la repartición, finalizaron las jornadas de actualización de procedimientos administrativos y notificaciones. Fueron tres encuentros realizados en la Facultad de Trabajo Social.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-16T10:48:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
