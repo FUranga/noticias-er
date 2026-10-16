@@ -172726,5 +172726,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "cge-escuela-secundaria-de-adultos-n-o-38-concordia-4",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria de Adultos N.º 38 – Concordia",
+    "fecha": "2026-10-16",
+    "link": "https://cge.entrerios.gov.ar/2026/10/escuela-secundaria-de-adultos-n-o-38-concordia-4/",
+    "texto_original": "Escuela Secundaria de Adultos N.º 38 – Concordia\n\nCONVOCATORIA A CONCURSO\n\nLa Rectoría de la Escuela Secundaria de Adultos N.º 38, sita en calle Bolivia 581 (Escuela Juan Blasco, 2.º piso), convoca de forma presencial a concurso para la adjudicación de horas cátedra y/o cargos, en el marco del Acuerdo Paritario/Reglamento de Concursos, Resolución Ministerial N.º 783/12 M.T. y sus modificatorias vigentes, Resolución N.º 2300/22 C.G.E., artículo 136.º.\n\n \n\n \n\nEl acto concursal se llevará a cabo \n\nel día lunes 19 de octubre de 2026\n\n, en el siguiente horario:\n\n18:30 hs.\n\nLENGUA Y LITERATURA\n\n🔴 4 hs. \n\nLengua y Literatura\n\n – 3.º año, división “U” – Interino. Horario: martes de 19:20 a 20:40 hs. y jueves de 17:50 a 19:10 hs.\n\n \n\n­\n\nEl concurso se realizará en el local escolar, sito en calle Bolivia 581, en el horario indicado.\n\nLos aspirantes deberán presentarse con la siguiente documentación:\n\n– Credencial de puntaje vigente, según Resolución N.º 3735/25 C.G.E. y Circular N.º 02/26 J.C., en formato digital y papel. – D.N.I. – Constancia de Personal Perteneciente al Establecimiento, de corresponder. – Copia de la credencial de puntaje. – Copia del D.N.I. – F.U. (Formulario Único). – Constancia de antigüedad en SAGE o certificación de servicios.\n\nQuienes participen sin credencial de puntaje (incisos c) y d)) deberán presentar título o constancia de título registrado en la Dirección de Recursos Humanos del C.G.E. y la solicitud de credencial de puntaje para la reserva de derecho.\n\nEl personal de la institución queda debidamente notificado por este medio.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-16T05:58:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
