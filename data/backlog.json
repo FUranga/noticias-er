@@ -175072,5 +175072,61 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-80580",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Entre Ríos registra una mora crediticia inferior al promedio nacional",
+    "fecha": "2026-10-17",
+    "link": "https://portal.entrerios.gov.ar/noticias/80580",
+    "texto_original": "La irregularidad de los créditos a las familias alcanza el 13,4 por ciento en la provincia, frente al 17,5 por ciento registrado a nivel nacional. El dato surge de un informe elaborado por Eco Go y la Universidad Austral, con información del Banco Central de la República Argentina.\n\nEntre Ríos registra una mora crediticia inferior al promedio nacional, según el informe Crédito a las familias: monto consolidado y regional, elaborado por Eco Go y la Facultad de Ciencias Empresariales de la Universidad Austral, con datos de la Central de Deudores del Banco Central de la República Argentina (BCRA).\n\n \n\nDe acuerdo con el relevamiento, correspondiente a junio de 2026, la mora por monto en Entre Ríos se ubicó en el 13,4 por ciento del crédito informado, mientras que el promedio nacional alcanzó el 17,5 por ciento. De esta manera, la provincia presenta una diferencia de 4,1 puntos porcentuales por debajo de la media del país.\n\n \n\nEl indicador mide la proporción del saldo de crédito que se encuentra en situación irregular y permite observar la evolución de la capacidad de pago de las personas físicas en las distintas jurisdicciones.\n\n \n\nEl estudio también señala que Entre Ríos registra una mora inferior a la de otras provincias de la región, como Corrientes, donde el indicador alcanzó el 19,6 por ciento, y se ubica por debajo de Santa Fe y Córdoba, ambas con un 14,2 por ciento.\n\n \n\nEn cuanto a la evolución interanual, la mora por monto en Entre Ríos aumentó 7,8 puntos porcentuales respecto de junio de 2025, una suba menor que los 10,5 puntos porcentuales registrados en el promedio nacional. Esto permite observar que, aunque el indicador también creció en la provincia, su incremento fue más moderado que el del conjunto del país.\n\n \n\nEl informe analiza el financiamiento a las personas físicas por jurisdicción y tipo de otorgante, a partir de información del BCRA y datos del Indec y la Cepal. El relevamiento distingue entre los créditos otorgados por el sistema financiero y los correspondientes a proveedores no financieros de crédito.\n\n \n\nA nivel nacional, la mora de los créditos otorgados por proveedores no financieros llegó al 31 por ciento, más del doble de la registrada en el sistema financiero tradicional, que se ubicó en el 15,2 por ciento.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-17T14:03:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80579",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Plaza Mansilla fue sede de una concurrida Feria del Día de la Madre de Manos Entrerrianas",
+    "fecha": "2026-10-17",
+    "link": "https://portal.entrerios.gov.ar/noticias/80579",
+    "texto_original": "Con la participación de más de 70 emprendedores entrerrianos, espectáculos musicales en vivo y un variado patio gastronómico, se desarrolló en la Plaza Mansilla una nueva edición de la tradicional Feria del Día de la Madre organizada por el Ministerio de Desarrollo Humano de la provincia.\n\nUna gran cantidad de familias se acercó este viernes a la explanada de Casa de Gobierno y Plaza Mansilla para disfrutar de la Feria del Día de la Madre, una jornada organizada por la Dirección de Economía Social y Políticas Comunitarias perteneciente a la Secretaría de Integración Económica y Desarrollo Comunitario. Desde las 17, el espacio se convirtió en paseo de compras, con espectáculos en vivo y stands informativos.\n\nLa jornada contó con la participación de emprendedores de la marca provincial Manos Entrerrianas, que acercaron sus producciones a través de más de 70 stands. La feria permitió visibilizar el trabajo que se desarrolla en distintos puntos de la provincia y generar un espacio de encuentro directo con la comunidad.\n\nEntre las presentaciones artísticas resaltó la actuación del saxofonista Jorge Cuscueta, así como el show de la Banda de Música de la Policía de Entre Ríos, que deleitaron a los presentes con un variado repertorio.\n\nAdemás de la propuesta comercial y cultural, la feria funcionó como un espacio de encuentro y prevención comunitaria mediante la instalación de diversos stands institucionales. Estuvieron presentes el Punto Móvil de la Dirección de Mujeres, Lalcec Concordia (Liga Argentina de Lucha Contra el Cáncer), el Instituto Provincial del Cáncer, el Observatorio de Género y Derechos Humanos de la Vicegobernación. A través de estos puestos, profesionales y personal técnico brindaron asesoramiento, folletería informativa y promoción de la salud preventiva, visibilizando las herramientas y programas con los que cuenta la provincia para el acompañamiento ciudadano.\n\n \n\nLa propuesta contó además con el acompañamiento de la Empresa de Energía de Entre Ríos (Enersa) y el Instituto Autárquico Provincial del Seguro (Iapser), que sumaron recursos para hacer posible el desarrollo de la jornada. De esta manera, la iniciativa volvió a reafirmarse como una vidriera fundamental para fortalecer a emprendedores entrerrianos y ofrecer un espacio integral de recreación y servicios a la comunidad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-17T14:03:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80578",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "El Cineclub Noble continúa el ciclo de películas orientadas a los adultos mayores",
+    "fecha": "2026-10-17",
+    "link": "https://portal.entrerios.gov.ar/noticias/80578",
+    "texto_original": "El Cineclub Noble propone un ciclo con el Programa de Adulteces y Vejeces de la Facultad de Humanidades, Artes y Ciencias Sociales (Uader) y el Instituto Autárquico Audiovisual (Iaaer). Este jueves 22, proyectarán La estrella que perdí, de Luz Orlando Brennan. La proyección será a las 17 en la Sala Noble (Matorras 861), con acceso libre y gratuito. Invita la Secretaría de Cultura de Entre Ríos.\n\nEn La estrella que perdí, actúan Mirta Busnelli, Ana Pauls, Gustavo Garzón, Fabián Arenillas y Susana Varela. Y su historia pone en escena cuestiones como el paso del tiempo, la vejez, la soledad, el posible punto de no retorno en una carrera artística y otras reflexiones. Se trata de una comedia dramática agridulce, donde la historia sigue a Norma Reyes (Busnelli), una consagrada pero decadente actriz de 76 años que, para mantenerse activa, acepta protagonizar una obra comercial bastante mediocre donde interpreta a una anciana con Alzheimer. \n\nAl mismo tiempo, su hija Celeste (Ana Pauls), una guionista que siempre ha vivido bajo la sombra del éxito de su madre, le anuncia que va a casarse y mudarse de la casa.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-17T14:03:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80577",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Docentes de la Escuela Marsiglia dictarán un taller virtual sobre computación, robótica y diseño 3D",
+    "fecha": "2026-10-17",
+    "link": "https://portal.entrerios.gov.ar/noticias/80577",
+    "texto_original": "En el marco de las Jornadas Argentinas de Didáctica de la Programación (Jadipro), docentes de la Escuela de Educación Técnica N° 3 Dr. Miguel Ángel Marsiglia estarán a cargo del taller virtual Computación - Robótica - Diseño 3D: Articulación, reciclaje tecnológico y resolución de problemas del Ciclo Básico Técnico, en el marco de Jadicc 2026.\n\nLa capacitación se realizará el lunes 26 de octubre, de 9 a 11, a través de la plataforma Google Meet. La iniciativa propone abordar la integración de la computación, la robótica y el diseño 3D, con énfasis en el reciclaje tecnológico y la resolución de problemas en el ámbito de la educación técnica.\n\nLos disertantes serán la profesora Andrea González y Camilo Fervenza, ambos docentes de la Escuela de Educación Técnica N° 3 Dr. Miguel Ángel Marsiglia, Anexo Formación Profesional, quienes compartirán sus conocimientos y experiencias vinculados con estas áreas.\n\nLa actividad está destinada al público general interesado en la temática. Como requisito para participar, se solicitan conocimientos mínimos de programación, robótica y pensamiento computacional.\n\nLas Jornadas Argentinas de Didáctica de las Ciencias de la Computación (Jadicc) tienen sus antecedentes en las jornadas de didáctica de la programación realizadas en 2018 y 2019. Desde 2021, el encuentro amplió su enfoque a las Ciencias de la Computación y recorrió distintas universidades del país. En 2026, la Facultad de Ciencia y Tecnología de la Universidad Autónoma de Entre Ríos (Uader), sede Concepción del Uruguay, será la anfitriona del evento.\n\nLa inscripción es obligatoria y los cupos son limitados. Las personas interesadas pueden registrarse a través del siguiente formulario:",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-17T14:03:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
