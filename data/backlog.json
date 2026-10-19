@@ -177009,5 +177009,61 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-fadel-operario-de-mantenimiento-y-servicios-generales",
+    "fuente": "fadel",
+    "titulo": "Operario de Mantenimiento y Servicios Generales",
+    "fecha": "2026-10-19",
+    "link": "https://fadelsa.com.ar/operario-de-mantenimiento-y-servicios-generales/",
+    "texto_original": "Operario de Mantenimiento y Servicios Generales Fecha: 19/10/2026 Lugar: Granja de cerdos / Talita, ER Tareas principales: • Mantenimiento edilicio: Arreglos diarios en galpones, soldadura y confección de elementos de taller o ergonomía. • Apoyo a producción: Lavado de salas\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-19T20:50:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-fadel-auxiliar-de-produccion-porcina",
+    "fuente": "fadel",
+    "titulo": "Auxiliar de Producción Porcina",
+    "fecha": "2026-10-19",
+    "link": "https://fadelsa.com.ar/auxiliar-de-produccion-porcina/",
+    "texto_original": "Auxiliar de Producción Porcina Fecha: 19/10/2026 Lugar: Granja de cerdos / Talita, ER Tareas principales: • Carga de capones y recepción/bajada de lechones según agenda semanal. • Aplicación de esquema de vacunación. • Recorridas periódicas en sitios zonales. • Cierre\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-19T20:50:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales",
+    "fuente": "río uruguay seguros",
+    "titulo": "La Bolsa de Comercio de Rosario reconoció a RUS Futuro por su innovación en el mercado de capitales",
+    "fecha": "2026-10-19",
+    "link": "https://riouruguayseguros.com/site/la-bolsa-de-comercio-de-rosario-reconocio-a-rus-futuro-por-su-innovacion-en-el-mercado-de-capitales/",
+    "texto_original": "RUS FUTURO RECONOCIMIENTO",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-19T20:52:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-iapser-seguros-novedad-v2-prueba",
+    "fuente": "iapser seguros",
+    "titulo": "[Prueba V2] IAPSER Seguros sostiene su calidad de atención según las normas IRAM",
+    "fecha": "2026-10-19",
+    "link": "https://www.iapserseguros.seg.ar/2026/10/19/novedad-v2-prueba/",
+    "texto_original": "La compañía obtuvo nuevamente la certificación IRAM-ISO 9001:2015 para los servicios de atención al público, gestión de reclamos de riesgos del trabajo y rehabilitación que brinda en el Centro Integral de Atención Médica (CIAM) de Paraná. Este reconocimiento respalda el trabajo de la empresa para garantizar procesos de calidad y una atención eficiente.\n\nIAPSER Seguros renovó su certificación de calidad otorgada por el Instituto Argentino de Normalización y Certificación (IRAM), conforme a los requisitos de la norma internacional ISO 9001:2015. La certificación comprende los servicios de atención al público y reclamos de riesgos del trabajo, así como las prestaciones de rehabilitación, fisioterapia, kinesioterapia, terapia ocupacional y seguimiento de la evolución de pacientes que se desarrollan en el Centro Integral de Atención Médica (CIAM), ubicado en calle Alem de la ciudad de Paraná.\n\nSobre la norma ISO 9001\n\nLa norma ISO 9001:2015 establece requisitos internacionales para los sistemas de gestión de calidad, promoviendo la mejora continua, la eficiencia de los procesos y la satisfacción de los usuarios. En este sentido, mantener la certificación implica sostener procedimientos de trabajo definidos, evaluar su funcionamiento e identificar oportunidades de mejora que contribuyan a fortalecer la prestación de los servicios.\n\nINSTITUTO AUTÁR 9000 iram\n\nDescarga\n\nLa entrada \n[Prueba V2] IAPSER Seguros sostiene su calidad de atención según las normas IRAM\n se publicó primero en \nIAPSER Seguros\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-19T20:52:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
