@@ -177219,5 +177219,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-salud-mamaria-prevencion-deteccion-temprana-y-redes-de-acompanamiento",
+    "fuente": "río uruguay seguros",
+    "titulo": "Salud mamaria: prevención, detección temprana y redes de acompañamiento",
+    "fecha": "2026-10-19",
+    "link": "https://riouruguayseguros.com/site/salud-mamaria-prevencion-deteccion-temprana-y-redes-de-acompanamiento/",
+    "texto_original": "VOCES POR LA SALUD MAMARIA - KARINA, JUDITH Y MARU",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-20T00:02:41Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
