@@ -178995,5 +178995,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "iapv-3344",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El gobierno provincial realizará la terminación de 10 viviendas en Ramírez",
+    "fecha": "2026-10-20",
+    "link": "https://iapv.gob.ar/seccion/noticias/3344/el-gobierno-provincial-realizara-la-terminacion-de",
+    "texto_original": "La obra cuenta con un presupuesto oficial superior a los 675 millones de pesos y un plazo de ejecución de ocho meses corridos. La apertura de las ofertas económicas se realizará el 12 de noviembre, a las 10.30, en la sede del organismo.\nAl respecto, el presidente del IAPV, Manuel Schönhals, señaló que \"la construcción de viviendas es una de las obras públicas más significativas, ya que fomenta el arraigo en las comunidades entrerrianas y dignifica a las familias, ofreciéndoles un lugar para vivir con calidad\".\nAsimismo, destacó la importancia de la gestión que encabeza el gobernador Rogelio Frigerio, basada en mantener un contacto permanente con los gobiernos locales y trabajar de manera conjunta para encontrar soluciones a las distintas problemáticas que atraviesan las comunidades entrerrianas.\nLas unidades habitacionales serán de dos dormitorios. Una de ellas estará adaptada para familias que cuenten entre sus integrantes a personas con discapacidad o personas trasplantadas, con las adecuaciones necesarias para garantizar la accesibilidad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-20T20:44:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
