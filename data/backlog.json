@@ -177877,5 +177877,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-cremigal-torta-de-frutos-rojos-y-queso-crema",
+    "fuente": "cremigal",
+    "titulo": "Torta de frutos rojos y queso crema",
+    "fecha": "2026-10-20",
+    "link": "https://cremigal.com/torta-de-frutos-rojos-y-queso-crema/",
+    "texto_original": "Imprimí esta receta\n\nTorta de frutos rojos y queso crema\n\n\t\n\n\t\t\nHoy preparamos una torta fresca, cremosa y llena de color, perfecta para compartir. El protagonista de esta receta es nuestro queso crema, que le aporta una textura suave y deliciosa al relleno.\n\n\t\n\n\t\n\n\t\t\n\n\t\t\t\t\t\t\t\n\nAuthor:\n \nCremigal\n\n\t\t\t\t\t\n\n\t\n\n\t\n\n\t\t\nIngredientes\n\n\t\t\t\t\n\nPara el bizcochuelo:\n\n2\n huevos.\n\n100 g\n de azúcar.\n\n100 g\n de harina leudante.\n\n1\n cucharadita de esencia de vainilla.\n\nPara el relleno y cobertura:\n\n400 g\n de queso crema Cremigal.\n\n200\n ml de crema de leche Cremigal.\n\n100 g\n de azúcar impalpable.\n\n1\n cucharadita de esencia de vainilla.\n\nPara decorar:\n\nFrutillas.\n\nFrambuesas.\n\nArándanos.\n\nMoras.\n\nAzúcar impalpable, opcional.\n\n\t\n\n\t\n\n\t\t\n\n\t\t\t\nPreparación\n\n\t\t\t\t\t\n\n\t\t\n\nBatir los huevos con el azúcar y la esencia de vainilla hasta obtener una preparación aireada y de color claro.\n\nIncorporar la harina tamizada de a poco, mezclando suavemente con movimientos envolventes.\n\nColocar la preparación en un molde y cocinar en horno precalentado a 180 °C durante aproximadamente 20 minutos, o hasta que al insertar un palillo salga limpio.\n\nPara preparar la crema, batir el queso crema Cremigal junto con el azúcar impalpable y la vainilla.\n\nAgregar la crema de leche Cremigal y continuar batiendo hasta obtener una crema firme y aireada.\n\nUna vez frío el bizcochuelo, cortarlo en dos capas.\n\nColocar una capa generosa de la crema de queso crema Cremigal y cubrir con la segunda parte del bizcochuelo.\n\nDecorar la superficie con más crema y terminar con abundantes frutos rojos.\n\nLlevar a la heladera durante al menos 2 horas antes de servir.\n\n\t\n\n\t\n\n\t\t\nNotas\n\n\t\t\nPara lograr un relleno bien firme y cremoso, usá el queso crema Cremigal bien frío y dejá reposar la torta en la heladera antes de decorarla con los frutos rojos. ¡Así queda perfecta para cortar y disfrutar!\n\n\t\n\n\t\n¿HICISTE ESTA RECETA?\n\n\t\nEtiqueta a \n@Cremigal\n en Instagram\t\t\t\t\ty añade el hashtag  \n#recetas #ideasdeliciosas #cocinemosjuntos\n\n\t\t\t\n\nLa entrada \nTorta de frutos rojos y queso crema\n se publicó primero en \nCremigal\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-20T14:03:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Receta/contenido de blog gastronomico (filtro automatico de contenido no editorial)."
   }
 ]
