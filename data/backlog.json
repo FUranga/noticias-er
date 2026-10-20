@@ -178939,5 +178939,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-bolsacer-se-constituyo-la-mesa-de-arroz-del-pacn",
+    "fuente": "Bolsa de Cereales de Entre Ríos",
+    "titulo": "Se constituyó la Mesa de Arroz del PACN",
+    "fecha": "2026-10-20",
+    "link": "https://www.bolsacer.org.ar/site/se-constituyo-la-mesa-de-arroz-del-pacn/",
+    "texto_original": "El Programa Argentino de Carbono Neutro (PACN) incorporó una nueva mesa sectorial a su ecosistema de trabajo: la \nMesa de Arroz\n, constituida oficialmente el lunes 19 de octubre con la participación de 11 empresas referentes del sector.\n\nLa iniciativa dará comienzo a un proceso de trabajo de nueve meses, durante el cual se avanzará en la \nmodelización de los distintos sistemas productivos de arroz en Argentina\n, con el objetivo de calcular la huella de carbono por producto conforme a la norma ISO 14.067 y a las categorías de producto aplicables, integrando los requisitos metodológicos de los estándares que habilitan el acceso a mercados en diversos esquemas y destinos.\n\nLa participación de actores directamente vinculados a la producción arrocera permitirá incorporar el conocimiento técnico del sector para desarrollar una \nherramienta de cálculo de huella de carbono\n, acompañada por un manual de usuario y un manual de buenas prácticas ambientales específicamente orientado al carbono equivalente por producto.\n\nComo primer paso metodológico, se realizará un \nanálisis de ciclo de vida local\n, que permitirá definir formularios para la carga de información adaptados a las prácticas productivas de Argentina.\n\nPosteriormente, se avanzará en la construcción de una biblioteca de perfiles y factores de emisión, priorizando fuentes nacionales y aquellas que cuenten con validación y acreditación internacional.\n\nEl manual de usuario estará diseñado para que cualquier interesado pueda implementar de manera autónoma el cálculo de la huella de carbono, \nsin costos adicionales\n. Finalmente, el manual de buenas prácticas destacará las acciones que contribuyan a la mitigación de emisiones y, en consecuencia, a una mayor agregación de valor ambiental del producto.\n\nConvocatoria abierta al sector arrocero\n\nSi bien la primera reunión de la Mesa de Arroz se realizó el 19 de octubre, la convocatoria continúa abierta para todas las empresas del país interesadas en incorporarse al ecosistema del PACN y participar de este espacio sectorial.\n\nLas empresas que deseen sumarse pueden manifestar su intención de participación a través del correo electrónico \n\ncarbononeutro@bc.org.ar\n\n.\n\nLa entrada \nSe constituyó la Mesa de Arroz del PACN\n se publicó primero en \n.: BOLSA DE CEREALES DE ENTRE RIOS :.\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-20T18:48:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-rus-1000-productores-capacitados-ia",
+    "fuente": "río uruguay seguros",
+    "titulo": "RUS alcanza los 1.000 productores capacitados en inteligencia artificial",
+    "fecha": "2026-10-20",
+    "link": "https://riouruguayseguros.com/site/rus-1000-productores-capacitados-ia/",
+    "texto_original": "u-rus-1000-pas-capacitados-ia",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-20T18:50:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
