@@ -181640,5 +181640,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-capacitaciones-de-reflejar",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "Capacitaciones de REFLEJAR",
+    "fecha": "2026-10-21",
+    "link": "https://www.jusentrerios.gov.ar/2026/10/capacitaciones-de-reflejar/",
+    "texto_original": "El Superior Tribunal de Justicia recordó las siguientes actividades que se llevarán a cabo a través del Instituto de Capacitación Judicial de las Provincias Argentinas y Ciudad Autónoma de Buenos Aires (REFLEJAR) .\n\n \n\nEl organismo llevará a cabo las jornadas de capacitación sobre “Ley Malvinas”, 2da. Edición; “Ley Lucio” y “Derechos Humanos y Salud Mental. Estándares del Derecho Internacional de los Derechos Humanos”.\n\n \n\nLas mismas se llevarán a cabo el día 26 de octubre próximo mediante el Campus virtual de REFLEJAR.\n\n \n\n \n\n21 de octubre de 2026\n\n \n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-21T18:32:12Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
