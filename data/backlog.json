@@ -181864,5 +181864,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-bolsacer-reunion-con-diputados-nacionales-por-el-tratamiento-del-proyecto-de-ley-de-biocombustibles",
+    "fuente": "Bolsa de Cereales de Entre Ríos",
+    "titulo": "Reunión con diputados nacionales por el tratamiento del proyecto de ley de biocombustibles",
+    "fecha": "2026-10-21",
+    "link": "https://www.bolsacer.org.ar/site/reunion-con-diputados-nacionales-por-el-tratamiento-del-proyecto-de-ley-de-biocombustibles/",
+    "texto_original": "El presidente de la Bolsa de Cereales de Entre Ríos, CPN Diego Camuñas, encabezó este miércoles una reunión virtual junto a los directores Héctor Bolzán y Juan Carlos Álvarez, con los diputados nacionales Guillermo Michel y Marianela Marclay, con el objetivo de dialogar sobre aspectos centrales del proyecto de ley de biocombustibles, en el marco de su tratamiento legislativo.\n\nDurante el encuentro, se intercambiaron opiniones sobre la iniciativa y sus implicancias para la cadena de valor de los biocombustibles, con especial atención a su relevancia para el sector productivo entrerriano.\n\nLa BolsaCER reafirma la importancia de generar este tipo de espacios de diálogo con los representantes públicos, acercando información y fundamentos técnicos que contribuyan a enriquecer el debate parlamentario y permitan contemplar las necesidades y oportunidades de las empresas productoras de biocombustibles, así como el impacto de esta actividad en toda la cadena de valor agroindustrial de la provincia.\n\nLa entrada \nReunión con diputados nacionales por el tratamiento del proyecto de ley de biocombustibles\n se publicó primero en \n.: BOLSA DE CEREALES DE ENTRE RIOS :.\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-21T22:51:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
