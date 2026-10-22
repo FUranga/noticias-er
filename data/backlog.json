@@ -184188,5 +184188,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-se-otorgaron-reconocimientos-politicos-provisorios-a-partidos-politicos",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "Se otorgaron reconocimientos políticos provisorios a partidos políticos",
+    "fecha": "2026-10-22",
+    "link": "https://www.jusentrerios.gov.ar/2026/10/se-otorgaron-reconocimientos-politicos-provisorios-a-partidos-politicos/",
+    "texto_original": "El presidente del Superior Tribunal de Justicia de Entre Ríos (STJER), vocal Germán Carlomagno, en ejercicio de la Presidencia del Honorable Tribunal Electoral de la provincia, recibió hoy a representantes de partidos políticos que solicitaron su reconocimiento jurídico-político provisorio para las jurisdicciones municipales de Victoria, Paraná, Puerto Yeruá y Federación, respectivamente.\n\n \n\n \n\nEn el encuentro, realizado en el Salón de Acuerdos del STJER, se otorgó el reconocimiento jurídico-político provisorio a la agrupación política “Somos Victoria ”, para actuar a nivel municipal en la ciudad de Victoria. Estuvieron presentes los representantes Carla Almada, Federico Almada, Ailén Guerra y Carlos Franceschelli.\n\n \n\nTambién se otorgó reconocimiento jurídico-político provisorio a la agrupación política “Raíz Democrática”, para actuar a nivel municipal en la ciudad de Paraná. Concurrieron Ariel Ramírez, Adriana Martínez, Gastón Ávila, María Celia Estadella y Gustavo Andolfo.\n\n \n\nAdemás, se dio reconocimiento jurídico-político provisorio a la agrupación política “Primero Puerto Yeruá ”, para actuar a nivel municipal en la ciudad de Puerto Yeruá. Asistieron Julieta Ferrer y Rubén Bonelli.\n\n \n\nPor otra parte, obtuvo el reconocimiento jurídico-político provisorio la agrupación política “Vamos Federación ”, para actuar a nivel municipal en la ciudad de Federación. Estuvieron presentes Juan José Losco, Jesica Bauche, Mario Romero y Daniela Burna.\n\n \n\nPara conseguir el reconocimiento definitivo los partidos políticos deben cumplir con una serie de requisitos. Entre ellos, el de contar con una determinada cantidad de afiliados, para lo que recibieron las fichas correspondientes.\n\n \n\nJunto al vocal Carlomagno estuvieron los restantes miembros del Honorable Tribunal Electoral, el vocal del STJER, Leonardo Portela y la jueza Gabriela Sione.\n\n \n\nEn representación del Ministerio Público Fiscal concurrió el fiscal Coordinador Álvaro Piérola; el secretario general del Tribunal Electoral de la provincia, Lisandro Minigutti, y el prosecretario, Luciano Chiavaro.\n\n \n\n22 de octubre de 2026\n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-22T19:21:13Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
