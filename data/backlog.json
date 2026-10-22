@@ -184524,5 +184524,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-rus-realizo-su-64a-asamblea-general-ordinaria-y-renovo-autoridades",
+    "fuente": "río uruguay seguros",
+    "titulo": "RUS realizó su 64ª Asamblea General Ordinaria y renovó autoridades",
+    "fecha": "2026-10-22",
+    "link": "https://riouruguayseguros.com/site/rus-realizo-su-64a-asamblea-general-ordinaria-y-renovo-autoridades/",
+    "texto_original": "Garro y Godoy",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-22T23:49:22Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
