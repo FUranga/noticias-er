@@ -186945,5 +186945,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-fadel-operario-de-recepcion-y-acondicionamiento",
+    "fuente": "fadel",
+    "titulo": "Operario de Recepción y Acondicionamiento",
+    "fecha": "2026-10-23",
+    "link": "https://fadelsa.com.ar/operario-de-recepcion-y-acondicionamiento/",
+    "texto_original": "Operario de Recepción y Acondicionamiento/a Fecha: 23/10/2026 Ubicación: Planta de Alimentos Ruta 39, Concepción del Uruguay (Entre Ríos) Principales responsabilidades: • Recepción, descarga, secado y transportes internos de materias primas. • Organización y almacenamiento en el sector de acopio. •\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-23T21:07:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
