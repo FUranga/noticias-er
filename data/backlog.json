@@ -185252,5 +185252,47 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-la-provincia-avanza-con-las-tareas-de-bacheo-en-distintas-rutas-provinciales",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "La provincia avanza con las tareas de bacheo en distintas rutas provinciales",
+    "fecha": "2026-10-23",
+    "link": "https://www.dpver.gov.ar/2026/10/23/la-provincia-avanza-con-las-tareas-de-bacheo-en-distintas-rutas-provinciales/",
+    "texto_original": "El gobierno provincial continúa con el Plan de Recuperación y Mantenimiento Vial que comprende distintas rutas provinciales consideradas estratégicas para la producción. Se trabaja sobre 691 kilómetros de extensión divididos en dos grupos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-23T15:21:59Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "dpver-avanzan-los-convenios-de-colaboracion-para-fortalecer-el-mantenimiento-de-caminos-rurales",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Avanzan los convenios de colaboración para fortalecer el mantenimiento de caminos rurales",
+    "fecha": "2026-10-23",
+    "link": "https://www.dpver.gov.ar/2026/10/23/avanzan-los-convenios-de-colaboracion-para-fortalecer-el-mantenimiento-de-caminos-rurales/",
+    "texto_original": "La provincia, a través de la Dirección Provincial de Vialidad (DPV), avanza con los convenios entre municipios y comunas con la finalidad de continuar fortaleciendo el mantenimiento y conservación de trazas rurales de vital importancia para la salida de la producción, accesibilidad a escuelas rurales, centros de salud y vecinos de los departamentos Paraná, Diamante, Victoria, Colón, Gualeguay, Uruguay, Villaguay, San Salvador, Federación, Tala y La Paz.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-23T15:21:59Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "dpver-concurso-de-anteproyecto-no-02-26",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "CONCURSO DE ANTEPROYECTO Nº 02/26",
+    "fecha": "2026-10-23",
+    "link": "https://www.dpver.gov.ar/2026/10/23/concurso-de-anteproyecto-no-02-26/",
+    "texto_original": "PROYECTO A CONTRATAR: PROYECTO EJECUTIVO DE LA OBRA: RUTA PROVINCIAL Nº 20 – TRAMO: R.P. Nº 39 – R.N. Nº 130 – PROVINCIA DE ENTRE RÍOS CONSULTA DE PLIEGOS: www.dpver.gov.ar – despacho.licitaciones@vialidadentrerios.gob.ar APERTURA DE LAS OFERTAS: El Acto de Apertura de las propuestas se llevará a cabo el día 11 denoviembre de 2026 a las […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-23T15:21:59Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
