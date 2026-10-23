@@ -184650,5 +184650,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-fueron-absueltos-dos-hombres-imputados-por-homicidio-simple-en-concordia",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "Fueron absueltos dos hombres imputados por Homicidio simple en Concordia",
+    "fecha": "2026-10-22",
+    "link": "https://www.jusentrerios.gov.ar/2026/10/fueron-absueltos-dos-hombres-imputados-por-homicidio-simple-en-concordia/",
+    "texto_original": "Luego de tres jornadas de debate, un jurado popular reunido hoy en Concordia declaró no culpables a los dos hombres que fueron imputados en el marco del legajo “Heis, Ángel Marcos-Heis, Johann Nazareth s/ Homicidio simple”.\n\n \n\nConocido el veredicto del jurado en el salón de la Sección Concordia del Colegio de la Abogacía, el juez técnico y vocal del Tribunal de Juicio de esa ciudad, Aníbal Lafourcade, dictó la absolución de los imputados, concluyendo así la persecución penal.\n\n \n\nDurante el juicio el Ministerio Público Fiscal estuvo representado por el fiscal José Arias, en tanto que los imputados -que llegaron a las audiencias en libertad-, fueron asistidos por los abogados Pablo Palacio y Martín Lombardo.\n\n \n\nSe trató del juicio por jurados número 172 que se efectuó en Entre Ríos desde la entrada en vigencia de este sistema de juzgamiento penal.\n\n \n\n22 de octubre de 2026\n\nSIC-STJ",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-23T10:54:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
