@@ -187057,5 +187057,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-80777",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Entre Ríos alcanzó un récord histórico con 10 distinciones en el Sello de Buen Diseño Argentino",
+    "fecha": "2026-10-24",
+    "link": "https://portal.entrerios.gov.ar/noticias/80777",
+    "texto_original": "Diez productos y líneas de empresas entrerrianas fueron reconocidos en la 14.ª edición del Sello de Buen Diseño Argentino. La provincia pasó de ocho distinciones en 2025 a diez en 2026, y consolidó el crecimiento del diseño como herramienta de innovación y agregado de valor a la producción.\n\nEntre Ríos obtuvo 10 distinciones en la 14.ª edición del Sello de Buen Diseño Argentino, el reconocimiento nacional que distingue productos y líneas que se destacan por su innovación, calidad y aporte al desarrollo productivo. Se trata de la cifra más alta alcanzada por la provincia desde su primera participación, en 2014.\n\nEl resultado refleja un crecimiento sostenido en los últimos años. Luego de obtener una distinción en 2014 y otra en 2020, Entre Ríos alcanzó cuatro reconocimientos en 2022, ocho en 2025 y diez en la edición actual. De esta manera, incrementó un 25 por ciento la cantidad de distinciones respecto del año pasado y reunió 18 reconocimientos en las dos últimas ediciones.\n\nLos productos distinguidos corresponden a empresas y emprendimientos de Paraná, Gualeguaychú, Urdinarrain, Aranguren, Concordia y Concepción del Uruguay, y abarcan actividades diversas, desde la producción en madera y la industria textil hasta la maquinaria agrícola, el calzado, la moda circular, la tecnología forense, la movilidad y el equipamiento deportivo.\n\nEntre los reconocimientos se encuentran las líneas END GRAIN y TONAL, de DM Diseños en Madera, de Paraná; las batas de Dichi y los pijamas de dichi.taller, de Gualeguaychú; el soporte para maquinaria agrícola de Soportes AMC, de Urdinarrain; las alpargatas de diseño de La Rosa Blanca, de Aranguren; y la línea Pet, de MOR moda reciclable, de Paraná.\n\nTambién fueron distinguidos el microscopio digital de identificación forense de Micro Digital Tecnología Forense, de Concordia; el vehículo Guayra, de Velos Tec, de Concepción del Uruguay; y el equipamiento deportivo Performance Guatambú, de Max Pilates, de Gualeguaychú.\n\nDiseño, innovación y valor agregado\n\nEl diseño constituye una herramienta estratégica para el desarrollo productivo, ya que permite mejorar productos y procesos, incorporar tecnología, fortalecer la identidad y generar nuevas oportunidades de crecimiento para empresas y emprendimientos.\n\nEn este sentido, las distinciones obtenidas por Entre Ríos ponen de relieve la capacidad de los sectores productivos de la provincia para desarrollar propuestas que combinan creatividad, conocimiento, calidad e innovación, con potencial para mejorar su competitividad y posicionarse en nuevos mercados.\n\nEl resultado también destaca el trabajo de diseñadores, profesionales, trabajadores y empresas que generan valor desde el territorio provincial y contribuyen a diversificar y fortalecer la producción entrerriana.\n\nCon estos 10 reconocimientos, Entre Ríos consolida una trayectoria creciente en el Sello de Buen Diseño Argentino y reafirma la importancia de impulsar el diseño como parte de una estrategia de desarrollo que promueva la innovación, la competitividad y el valor agregado.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-24T11:21:37Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
