@@ -187631,5 +187631,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-la-reconstruccion-del-camino-viale-arroyo-durazno-tiene-un-45-por-ciento-de-avance",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "La reconstrucción del camino Viale – Arroyo Durazno tiene un 45 por ciento de avance",
+    "fecha": "2026-10-26",
+    "link": "https://www.dpver.gov.ar/2026/10/26/la-reconstruccion-del-camino-viale-arroyo-durazno-tiene-un-45-por-ciento-de-avance/",
+    "texto_original": "Continúan los trabajos de mejora de las rutas provinciales 31,33, 34 y 43, entre Viale y arroyo Durazno. Las tareas abarcan zonas productivas de los departamentos Paraná, Nogoyá y Tala, en una extensión de más de 64 kilómetros. Vecinos y productores destacaron la importancia de la obra.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-26T13:31:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
