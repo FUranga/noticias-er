@@ -188458,5 +188458,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-fadel-coordinador-de-obras-villaguay",
+    "fuente": "fadel",
+    "titulo": "Coordinador de Obras Villaguay",
+    "fecha": "2026-10-26",
+    "link": "https://fadelsa.com.ar/coordinador-de-obras-villaguay/",
+    "texto_original": "Coordinador de Obras Villaguay Fecha: 26/10/2026 Ubicación: Villaguay y zona, Entre Ríos Principales tareas: • Planificar y coordinar obras en granjas. • Supervisar cuadrillas en terreno. • Controlar avance, calidad y cumplimiento de plazos. • Coordinar compra de materiales. Requisitos:\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-26T22:00:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
