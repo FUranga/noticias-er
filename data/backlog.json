@@ -188514,5 +188514,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-desconvoca-esc-sec-n3presbiero-eliseo-melchiori",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "DESCONVOCA ESC SEC N°3″PRESBIERO ELISEO MELCHIORI”",
+    "fecha": "2026-10-27",
+    "link": "https://cge.entrerios.gov.ar/2026/10/desconvoca-esc-sec-n3presbiero-eliseo-melchiori/",
+    "texto_original": "La Rectoría de la Escuela Secundaria N° 3 Presbítero Melchiori de la localidad de\n\nArroyo Barú, CUE 300-1388/00, llama a concurso, según Resolución 2300/22 CGE,\n\nResolución Nº 783/2012 M.T. CGE y Resolución N° 5150/23 CGE, para cubrir el día\n\nmartes 27 de octubre a las 7:40 hs, las siguientes horas cátedras correspondientes al\n\nTurno Mañana que a continuación se detallan:\n\nSegundo llamado:\n\n– 02 hs Música – 1º año – Suplente – martes 8:50 a 10:20.\n\n– 02 hs Música – 2º año – Suplente – martes 10:20 a 11:50.\n\n– 02 hs Música – 3º año – Suplente – martes 7:30 a 8:50.\n\n– 02 hs Música – 4º año – Suplente – martes 11:50 a 13:10.\n\nLos interesados deberán presentarse en la Escuela de la localidad de Arroyo Barú, Calle\n\nAvenida General Ramírez, en el día y hora mencionada con D.N.I., credencial de\n\npuntaje impresa, carpeta de antecedentes, Planilla de Incompatibilidad y, constancia\n\nde personal de la casa, si correspondiera. La reserva de derecho tendrá validez\n\npresentando el troquel de Inscripción y la nota personal correspondiente. Toma de\n\nposesión inmediata.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-27T01:40:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "cge-desconvoca-por-falta-de-funcionamiento-de-sage-esc-sec-n11hipolito-vieytes",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "DESCONVOCA POR  FALTA DE FUNCIONAMIENTO DE SAGE ESC SEC N°11″HIPOLITO VIEYTES”",
+    "fecha": "2026-10-27",
+    "link": "https://cge.entrerios.gov.ar/2026/10/desconvoca-por-falta-de-funcionamiento-de-sage-esc-sec-n11hipolito-vieytes/",
+    "texto_original": "LLAMADO A CONCURSO\n\nLa Rectoría de la Escuela Secundaria N° 11 “Hipólito Vieytes”, sito en calle Pte.\n\nPerón 451 de Pueblo Liebig de acuerdo a lo establecido por Resolución\n\nNormativa Res783/12 MT y modificatoria Nº 2300/22 Consejo General de\n\nEducación, llama a concurso lo que a continuación se detalla:\n\n5 horas ECONOMIA:\n\n2 hs. 4°año CSO LUNES de 14:00 hs. A 15:20 hs.\n\n3 hs. 5° año CSO LUNES de 15:30 a 17:10 hs.\n\nPresentarse en la Dirección del establecimiento el día martes 27 de octubre de\n\n2026 a las 14:30 hs con credencial de puntaje y/o carpeta de\n\nantecedentes, DNI y si correspondiera constancia de personal de la casa.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-27T01:40:26Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
