@@ -193281,5 +193281,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-coordinan-tareas-viales-para-la-zona-de-aranguren",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Coordinan tareas viales para la zona de Aranguren",
+    "fecha": "2026-10-27",
+    "link": "https://www.dpver.gov.ar/2026/10/27/coordinan-tareas-viales-para-la-zona-de-aranguren/",
+    "texto_original": "Autoridades de la Dirección Provincial de Vialidad y del Municipio de Aranguren, repasaron la situación de los accesos y caminos de esa zona del departamento Nogoyá.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-27T13:42:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
