@@ -194060,5 +194060,61 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-80871",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "El gobierno provincial y la industria arrocera buscan potenciar la competitividad de la producción en Entre Ríos",
+    "fecha": "2026-10-27",
+    "link": "https://portal.entrerios.gov.ar/noticias/80871",
+    "texto_original": "El gobernador Rogelio Frigerio encabezó una recorrida institucional por las instalaciones de la empresa La Loma Alimentos, junto a autoridades provinciales y directivos de la firma, con el objetivo de conocer el proceso productivo de la planta y coordinar agendas de trabajo orientadas al desarrollo regional.\n\nAl respecto, el ministro de Desarrollo Económico, Guillermo Bernaudo, resaltó la capacidad exportadora de la empresa y remarcó: \"Es importantísimo el trabajo que hace esta empresa porque exporta al mundo desde Entre Ríos. Una de las principales exportadoras del país y además con marcas en todo el mundo que realmente pone nuestro arroz en las góndolas mundiales\". Asimismo, el funcionario provincial subrayó que durante la recorrida observaron \"el detalle en la calidad\" de los procesos.\n\n \n\nDurante la actividad se abrió un espacio de intercambio donde la empresa expuso sus principales desafíos operativos. Sobre este punto, Bernaudo señaló que los directivos manifestaron \"necesidades que el gobernador recibió. Los temas de logística y de costo energético fueron algunos de los temas que nos plantearon y que van a la agenda del gobernador para seguir trabajando\", remarcó.\n\n \n\nPor su parte, en representación de La Loma Alimentos, Julio Peinado de la Puerta, expresó su agradecimiento por la visita e hizo hincapié en el rol de la transformación industrial: \"La industria no deja de ser una facilitadora de la venta del grano nacional, que se le agrega un valor en el proceso y tiene otra salida\".\n\n \n\nPeinado de la Puerta profundizó sobre la coyuntura del sector y la importancia del diálogo directo con la gestión provincial: \"En un contexto en el que los costos de producción son elevados, tener ayuda y poder plantear la problemática con la que se encuentran los diferentes operadores, es muy positivo\", destacó.\n\n \n\nFinalmente, el empresario precisó que fue \"una conversación amigable donde se han podido poner sobre la mesa diferentes temas con total franqueza y con cercanía\".",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-27T20:57:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80870",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Frigerio recorrió la obra de 10 viviendas destinadas personal policial en Chajarí",
+    "fecha": "2026-10-27",
+    "link": "https://portal.entrerios.gov.ar/noticias/80870",
+    "texto_original": "El gobernador Rogelio Frigerio recorrió en Chajarí la obra de construcción de 10 viviendas destinadas a la Mutual de Ayuda Integral del Personal Policial de Entre Ríos (Maiper), que registra un avance físico del 43,54 por ciento y cuenta con una inversión superior a los 856 millones de pesos. La ejecución está a cargo del Instituto Autárquico de Planeamiento y Vivienda (IAPV).\n\nEl grupo habitacional está compuesto por 10 unidades de dos dormitorios, una de ellas adaptada para personas con discapacidad. Los trabajos comenzaron el 27 de mayo de este año y tienen un plazo de ejecución de 12 meses.\n\nTras la recorrida, el titular del IAPV, Manuel Schönhals, destacó la importancia de la obra y señaló que forma parte de las 550 viviendas que se encuentran en ejecución en distintos agrupamientos de 23 localidades de la provincia. Además, indicó que se trata de un nuevo prototipo habitacional destinado a integrantes de la mutual policial.\n\nEn ese marco, el funcionario sostuvo que la recorrida permitió conocer el avance de distintas soluciones habitacionales que lleva adelante el organismo en la provincia. También mencionó la visita a seis viviendas de madera en construcción en Los Conquistadores y a una vivienda financiada mediante un crédito individual del IAPV en Chajarí.\n\nPor otra parte, Schönhals señaló que en Villa del Rosario existe el compromiso de licitar cinco viviendas en los próximos días, mientras que en Santa Ana se gestiona un crédito para el municipio destinado a la construcción de 12 viviendas.\n\nEl titular del IAPV valoró el desarrollo de estas iniciativas y destacó la importancia de orientar los recursos a obras que permitan dar respuesta a las necesidades habitacionales de los entrerrianos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-27T20:57:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80869",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Estudiantes entrerrianos participan por primera vez de las Olimpíadas Internacionales de Matemática Atacalar",
+    "fecha": "2026-10-27",
+    "link": "https://portal.entrerios.gov.ar/noticias/80869",
+    "texto_original": "Una delegación de 18 estudiantes entrerrianos de nivel secundario representará a la provincia en la competencia que se desarrollará del 27 al 30 de octubre en Córdoba.\n\nLa participación en esta instancia internacional constituye una oportunidad para que los estudiantes pongan en juego sus conocimientos y habilidades matemáticas, compartan experiencias con jóvenes de otros lugares y afronten nuevos desafíos vinculados con el pensamiento lógico y la resolución de problemas.\n\nLos representantes entrerrianos provienen de los departamentos Gualeguaychú, La Paz, Villaguay, Paraná y abarcan todos los años de la educación secundaria, desde primero hasta sexto año.\n\nDe esta manera, Entre Ríos se suma por primera vez a esta propuesta, promoviendo el aprendizaje de la matemática y el desarrollo de capacidades que fortalecen las trayectorias educativas de los estudiantes.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-27T20:57:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-80868",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "OSER mejora su sede de Rosario del Tala",
+    "fecha": "2026-10-27",
+    "link": "https://portal.entrerios.gov.ar/noticias/80868",
+    "texto_original": "La Obra Social de Entre Ríos continúa con la puesta en valor de sus delegaciones para ofrecer una atención más cómoda, moderna y accesible a sus afiliados.\n\nDesde fines del año 2025 OSER se encuentra llevando adelante un plan de refacciones destinado a mejorar las instalaciones de todas las sedes que lo necesitan. A la fecha son doce las oficinas que fueron reacondicionadas y dos aperturas, a la que se le suma la localidad de Rosario del Tala, ubicada en 25 de Mayo 549 de la localidad.\n\nAdemás, contempla la readecuación funcional de las oficinas, la renovación de la identidad visual institucional y la optimización de las áreas de espera. Este plan busca recuperar las instalaciones y transformarlas en espacios  accesibles y confortables tanto para los afiliados como para los trabajadores que allí se desempeñan.\n\nLas mejoras en la sede de Rosario del Tala se centraron en refacciones estructurales, como la impermeabilización del techo, mejoras en baños junto con la mencionada readecuación de la fachada y el interior a la identidad visual de la institución.\n\nCabe destacar que los trabajos fueron íntegramente realizados por personal del área de Servicios Generales de la OSER, poniendo en valor y optimizando los recursos de la Obra Social.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-27T20:57:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
