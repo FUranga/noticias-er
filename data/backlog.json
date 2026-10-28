@@ -195152,5 +195152,47 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-la-agricola-regional-lar-participa-del-iv-simposio-sudamericano-de-pecan",
+    "fuente": "la agrícola regional",
+    "titulo": "LAR participa del IV Simposio Sudamericano de Pecán",
+    "fecha": "2026-10-28",
+    "link": "https://www.lar.coop/2026/10/28/lar-participa-del-iv-simposio-sudamericano-de-pecan/",
+    "texto_original": "La Agrícola Regional participa del IV Simposio Sudamericano de Pecán y la Convención Anual de la Cámara Argentina de Productores de Pecán (CAPPECÁN), que se desarrolla del 28 al 30 de octubre de 2026 en las provincias de Tucumán y Catamarca.\nEn representación de nuestra Cooperativa participan Cristian Axt, responsable de la planta, y la ingeniera Carolina Holzheier, quienes forman parte de este espacio de actualización, intercambio de experiencias y vinculación con los distintos actores de la actividad.\nEl encuentro, que se realiza por primera vez en Argentina, constituye un ámbito de referencia para el desarrollo del cultivo de pecán en Sudamérica. Su programa contempla conferencias de especialistas nacionales e internacionales, presentación de investigaciones, recorridas por establecimientos productivos y espacios destinados a promover oportunidades comerciales. Entre los ejes abordados se encuentran la genética, el manejo agronómico, la innovación tecnológica, la poscosecha y el acceso a nuevos mercados.\n\nIV Simposio Sudamericano del Pecán.\n\nLas actividades comenzaron el miércoles 28 en la Sociedad Rural de San Miguel de Tucumán, con conferencias y espacios de intercambio científico. La agenda continúa con visitas técnicas a establecimientos productivos y culmina el viernes 30 en Catamarca, con nuevas instancias de capacitación y una ronda de negocios para fortalecer los vínculos comerciales de la cadena.\n\nEl compromiso de LAR con el desarrollo del sector\n\nComo sponsor del Simposio, LAR reafirma su compromiso con el acompañamiento de iniciativas que promueven el conocimiento, la innovación y el crecimiento de las actividades productivas.\nAsimismo, la participación de nuestra Cooperativa fortalece su visibilidad y representatividad en un ámbito de alcance internacional, permitiéndole compartir experiencias, estrechar vínculos y estar presente en las conversaciones que contribuyen al futuro de la actividad.\n\nThe post \nLAR participa del IV Simposio Sudamericano de Pecán\n first appeared on \nLAR\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-28T14:38:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "empresa-resinas-concordia-meet-bakelites-september-2026-north-america-driver-of-the-month-cortez-nixon",
+    "fuente": "resinas concordia",
+    "titulo": "Meet Bakelite’s September 2026 North America Driver of the Month: Cortez Nixon",
+    "fecha": "2026-10-28",
+    "link": "https://bakelite.com/meet-bakelites-september-2026-north-america-driver-of-the-month-cortez-nixon/",
+    "texto_original": "At Bakelite, success on the road is about more than making deliveries. It’s about reliability, teamwork, and a willingness to step up whenever needed. \n\nThose qualities are exactly why \nCortez Nixon\n has been named Bakelite’s \nSeptember 2026 Driver of the Month\n.\n\n \n\nDuring his three years with the company, Cortez has earned a reputation as a dependable team member who consistently goes above and beyond his day-to-day responsibilities. While his primary role is behind the wheel, his contributions extend far beyond driving.\n\n \n\nCortez regularly assists with transportation dispatch and equipment allocation, helping coordinate the tractors, trailers, and resources needed to keep operations running efficiently. His willingness to support both fellow drivers and the broader transportation team reflects a strong understanding that success depends on people working together toward a common goal.\n\n \n\nThat team-first mindset is one of the qualities that sets Cortez apart. Whether helping solve operational challenges, supporting a colleague, or taking on additional responsibilities, he approaches every task with professionalism, initiative, and a commitment to getting the job done right.\n\n \n\nAs Bakelite continues to serve customers across North America, associates like Cortez play an important role in ensuring products are delivered safely, efficiently, and reliably. His dedication, versatility, and strong work ethic make him a valued member of the transportation team and a deserving recipient of this recognition.\n\n \n\nPlease join us in congratulating Cortez Nixon on being named Bakelite’s September 2026 Driver of the Month. \n\n \n\n\t\t\t\n\n\t\t\t\n\t\t\n\n\t\n\nThe post \nMeet Bakelite’s September 2026 North America Driver of the Month: Cortez Nixon\n appeared first on \nBakelite\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-28T14:40:05Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-el-grupo-cooperativo-rus-participo-de-la-bienal-de-la-produccion-2026",
+    "fuente": "río uruguay seguros",
+    "titulo": "El Grupo Cooperativo RUS participó de la Bienal de la Producción 2026",
+    "fecha": "2026-10-28",
+    "link": "https://riouruguayseguros.com/site/el-grupo-cooperativo-rus-participo-de-la-bienal-de-la-produccion-2026/",
+    "texto_original": "Luciano Rey - Grupo RUS",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-28T14:40:30Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
