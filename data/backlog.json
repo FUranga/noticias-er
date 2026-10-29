@@ -197182,5 +197182,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-vialidad-realiza-limpieza-y-saneado-de-arroyos-del-departamento-feliciano",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Vialidad realiza limpieza y saneado de arroyos del departamento Feliciano",
+    "fecha": "2026-10-29",
+    "link": "https://www.dpver.gov.ar/2026/10/29/vialidad-realiza-limpieza-y-saneado-de-arroyos-del-departamento-feliciano/",
+    "texto_original": "Con el objetivo de mejorar la transitabilidad de caminos productivos y de uso social, la Dirección Provincial de Vialidad (DPV), lleva adelante tareas de limpieza y saneado en arroyos del camino de La Costa en el departamento Feliciano.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-29T16:03:31Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
