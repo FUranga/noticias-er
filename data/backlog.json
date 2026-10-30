@@ -198181,5 +198181,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-uier-el-departamento-tributario-analizo-las-novedades-impositivas-fal-sircip-y-plan-de-pagos-de-ater",
+    "fuente": "Unión Industrial de Entre Ríos",
+    "titulo": "El Departamento Tributario analizó las novedades impositivas: FAL, SIRCIP y plan de pagos de ATER",
+    "fecha": "2026-10-29",
+    "link": "https://uier.org.ar/el-departamento-tributario-analizo-las-novedades-impositivas-fal-sircip-y-plan-de-pagos-de-ater/",
+    "texto_original": "Se llevó a cabo una nueva reunión del Departamento Tributario de la Unión Industrial de Entre Ríos (UIER) este jueves 29 por la tarde, en modalidad híbrida, con participación presencial y virtual. Durante el encuentro se abordaron distintos temas de interés para el sector empresario, con foco en las novedades tributarias, el Fondo de Asistencia Laboral (FAL) y el Sistema Integrado de Recaudación, Control e Información de Agentes de Percepción (SIRCIP).\n\nPrimeramente, se compartieron las principales novedades vinculadas al plan de facilidades de pago de la Administradora Tributaria de Entre Ríos (ATER), establecido por la Resolución Nº 385/26. En este marco, se analizaron las obligaciones que pueden incluirse en el régimen, las alternativas de financiación en cuotas, los plazos previstos, la tasa de financiación aplicable y las condiciones que pueden dar lugar a la caducidad del plan.\n\nPor otro lado, se analizaron los principales aspectos normativos y operativos del Fondo de Asistencia Laboral (FAL), incluyendo los sujetos alcanzados, las alícuotas aplicables y el cálculo de la base para la liquidación. Asimismo, se repasó el procedimiento paso a paso, la identificación mediante el ID FAL, los aspectos vinculados a la portabilidad y el régimen de sanciones.\n\nAsimismo, se abordaron las principales características del Sistema Integrado de Recaudación, Control e Información de Agentes de Percepción (SIRCIP), las obligaciones correspondientes a los agentes alcanzados y las últimas novedades vinculadas a su implementación. En este marco, las empresas que ya fueron notificadas como agentes compartieron sus experiencias y comentaron los desafíos que presenta la incorporación de este nuevo sistema, así como las adecuaciones administrativas, operativas y de gestión interna en las que se encuentran trabajando para dar cumplimiento a las nuevas obligaciones.\n\nLa reunión constituyó un espacio de actualización e intercambio de información y experiencias, que permitió compartir inquietudes y analizar cuestiones tributarias y laborales relevantes. Desde UIER se destacó la continuidad de estos espacios de trabajo conjunto, que permiten compartir información de interés y acompañar a las empresas frente a las novedades normativas que impactan en su actividad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-30T02:13:49Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
