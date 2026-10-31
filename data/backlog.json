@@ -200187,5 +200187,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-escuela-secundaria-de-jovenes-y-adultos-n-o-40-concordia",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria de Jóvenes y Adultos N.º 40 – Concordia",
+    "fecha": "2026-10-31",
+    "link": "https://cge.entrerios.gov.ar/2026/10/escuela-secundaria-de-jovenes-y-adultos-n-o-40-concordia/",
+    "texto_original": "Escuela Secundaria de Jóvenes y Adultos N.º 40 – Concordia\n\nLLAMADO A CONCURSO\n\nLa Rectoría de la Escuela Secundaria de Jóvenes y Adultos N.º 40, sita en C.º 1.º González N.º 138, barrio La Bianca, de la ciudad de Concordia, convoca a concurso para la cobertura de cargo y/u horas, en el marco del Acuerdo Paritario, Resolución N.º 783/12 M.T. y sus modificatorias, y Resolución N.º 2300/22 C.G.E., Art. 136, para cubrir lo siguiente:\n\n \n\n \n\nEl acto concursal se llevará a cabo \n\nel día lunes 2 de noviembre de 2026.\n\n18:30 hs.\n\nEDUCACIÓN TECNOLÓGICA\n\n🔴 2 hs. \n\nEducación Tecnológica\n\n – 1.º año, división “A” – Suplente.\n\nHorario: lunes de 18:30 a 19:30 hs.\n\n \n\n \n\nSe tendrán en cuenta prioritariamente, en cada instancia concursal, los requisitos exigibles para la modalidad, establecidos en el Art. 123 de la Resolución N.º 2300/22 C.G.E. Para acreditarlos, los aspirantes deberán presentar constancia de servicio, según lo establecido en el Art. 152 de la Resolución N.º 2300/22 C.G.E., firmada por el directivo de la institución que la emite.\n\nLos aspirantes deberán presentarse con la siguiente documentación:\n\nCredencial de Puntaje vigente (Resolución N.º 3735/25 C.G.E.).\n\nD.N.I.\n\nQuienes participen sin Credencial de Puntaje deberán presentar título o constancia de título registrado en la Dirección de Recursos Humanos del C.G.E.\n\nPlanilla impresa del SIED, firmada por el responsable escolar pertinente.\n\nNota solicitando “Reserva de Derechos”, cuando corresponda.\n\nEl personal de la casa queda debidamente notificado por este medio.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-31T01:47:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "cge-escuela-secundaria-de-jovenes-y-adultos-n-o-42-manuel-jose-belgrano-concordia-8",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria de Jóvenes y Adultos N.º 42 “Manuel José Belgrano” – Concordia",
+    "fecha": "2026-10-30",
+    "link": "https://cge.entrerios.gov.ar/2026/10/escuela-secundaria-de-jovenes-y-adultos-n-o-42-manuel-jose-belgrano-concordia-8/",
+    "texto_original": "Escuela Secundaria de Jóvenes y Adultos N.º 42 “Manuel José Belgrano” – Concordia\n\nLLAMADO A CONCURSO – SEGUNDA CONVOCATORIA\n\nLa Rectoría de la Escuela Secundaria de Jóvenes y Adultos N.º 42 “Manuel José Belgrano”, CUE 3003247, ubicada en Entre Ríos 1015 de la ciudad de Concordia, con Orientación en Ciencias Sociales y Humanidades, convoca a concurso para la cobertura de horas cátedra y/o cargos, en el marco del Acuerdo Paritario/Reglamento de Concursos, según Resolución Ministerial N.º 783/12 M.T. y sus modificatorias, Resolución N.º 2300/22 C.G.E., Art. 136.\n\n \n\n­\n\nEl acto concursal se llevará a cabo \n\nel día lunes 2 de noviembre de 2026.\n\nTOMA INMEDIATA.\n\n19:30 hs.\n\nASESORÍA PEDAGÓGICA\n\n🔴 12 hs. \n\nAsesoría Pedagógica\n\n – Suplente – Turno noche.\n\nHorarios:\n\nLunes: 19:00 a 21:20 hs.\n\nMiércoles: 19:00 a 21:20 hs.\n\nViernes: 19:00 a 21:20 hs.\n\n \n\n­\n\nEl concurso se realizará en el local escolar, sito en Entre Ríos 1015, de la ciudad de Concordia.\n\nLos aspirantes deberán presentarse en el lugar y horario indicado, con Credencial de Puntaje Digital vigente según Resolución 3735/25 CGE, y circular 2/2026 JC, DNI y de corresponder Constancia de Personal Perteneciente al Establecimiento firmada por el Directivo de la Institución, en formato papel.\n\nQuienes participen sin Credencial de puntaje deberán presentar solicitud de credencial (impresa de SAGE) y nota para la Reserva de Derecho.\n\nEl personal del establecimiento queda notificado por este medio.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-10-31T01:47:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
