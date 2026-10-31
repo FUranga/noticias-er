@@ -200215,5 +200215,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3354",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "Entre Ríos proyecta una inversión de 905.394 millones para infraestructura en el presupuesto 2027",
+    "fecha": "2026-10-31",
+    "link": "https://iapv.gob.ar/seccion/noticias/3354/entre-rios-proyecta-una-inversion-de-905394-millon",
+    "texto_original": "El Ministerio de Planeamiento e Infraestructura del Gobierno de Entre Ríos presentó ante la Cámara de Diputados el proyecto de inversión en infraestructura previsto en el presupuesto provincial 2027. Se contempla una asignación de 905.394 millones para fortalecer la obra pública en todo el territorio entrerriano.\nDurante la exposición, el ministro Hernán Jacob detalló los principales lineamientos de la propuesta, que establece una distribución de los recursos con un 55 por ceinto destinado a nuevas obras y un 45 por ciento a aquellas que se encuentran en ejecución. El esquema busca avanzar en nuevos proyectos y, al mismo tiempo, garantizar la continuidad de los trabajos en marcha.\nJacob puso el acento en que la planificación responde a una política de obra pública basada en el equilibrio, la transparencia y el uso eficiente de los recursos provinciales. En ese sentido, señaló que el presupuesto también permitirá sostener trabajos de mantenimiento edilicio y obras de emergencia en escuelas, hospitales y otros edificios públicos.\nLas principales líneas de inversión abarcan infraestructura educativa, hospitalaria, vial, sanitaria e hídrica, además de proyectos habitacionales y la finalización de obras estratégicas en los distintos departamentos del territorio provincial. Al respecto, Jacob afirmó que \"este presupuesto busca consolidar una obra pública planificada, transparente y eficiente, que dé respuesta a las necesidades de los entrerrianos, garantice la continuidad de los proyectos prioritarios y sume al desarrollo de toda la provincia\".\nAcompañaron al ministro el jefe administrador de Vialidad Provincial, Exequiel Donda, y el titular del Instituto Autárquico de Planeamiento y Vivienda (IAPV), Manuel Schönhals, quienes brindaron detalles sobre las áreas a su cargo; y el secretario de la Coordinación General del Ministerio, Gonzalo Atencio.\nTambién participaron el senador Gustavo Vergara y el diputado provincial Bruno Sarubi, presidente de la Comisión de Hacienda, Presupuesto y Cuentas de la Cámara de Diputados.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-10-31T05:30:17Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
