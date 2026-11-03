@@ -202348,5 +202348,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-futura-hnos-hello-world",
+    "fuente": "futura hnos.",
+    "titulo": "Hello world!",
+    "fecha": "2026-10-29",
+    "link": "https://futura.com.ar/hello-world/",
+    "texto_original": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!\n\nThe post \nHello world!\n appeared first on \nFutura\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-03T01:24:58Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-el-legado-de-justina-una-historia-que-sigue-multiplicando-oportunidades-de-vida",
+    "fuente": "río uruguay seguros",
+    "titulo": "El legado de Justina: una historia que sigue multiplicando oportunidades de vida",
+    "fecha": "2026-11-02",
+    "link": "https://riouruguayseguros.com/site/el-legado-de-justina-una-historia-que-sigue-multiplicando-oportunidades-de-vida/",
+    "texto_original": "LO CANE Y CASAS",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-03T01:26:20Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
