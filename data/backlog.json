@@ -203847,5 +203847,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-fadel-personal-de-shop",
+    "fuente": "fadel",
+    "titulo": "Personal de Shop",
+    "fecha": "2026-11-03",
+    "link": "https://fadelsa.com.ar/personal-de-shop/",
+    "texto_original": "Personal de Shop Fecha: 03/11/2026 Ubicación: Estación de servicio Axion – Colón. Modalidad: Temporal. Principales tareas: • Atención y asesoramiento al cliente. • Manejo de caja y cobros. • Reposición de productos. • Control de stock y orden del sector.\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-03T22:08:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-grantec-grantec-en-el-iv-congreso-porcino-del-atlantico-2026",
+    "fuente": "grantec",
+    "titulo": "Grantec en el IV Congreso Porcino del Atlántico 2026",
+    "fecha": "2026-11-03",
+    "link": "https://grantecsa.com/grantec-en-el-iv-congreso-porcino-del-atlantico-2026/",
+    "texto_original": "Un encuentro para conocer las últimas tendencias del sector, intercambiar experiencias y fortalecer vínculos con productores y referentes de la porcicultura argentina.\n\nLos días 22 y 23 de octubre de 2026 se llevó a cabo en Mar del Plata el IV Congreso Porcino del Atlántico, un espacio de encuentro y actualización que reunió a productores, profesionales y empresas vinculadas a la actividad porcina.\n\nGrantec estuvo presente a través de sus representantes comerciales \nTomás Lanza y Fernando Albornoz\n, quienes participaron de las jornadas con el objetivo de conocer las principales novedades del sector, intercambiar experiencias y continuar fortaleciendo el vínculo con clientes y productores.\n\nTecnología, bienestar animal y nuevos desafíos\n\nDurante el congreso se abordaron temáticas fundamentales para el desarrollo de la actividad, como la eficiencia productiva, el bienestar animal, la sanidad y la incorporación de tecnologías aplicadas a los establecimientos porcinos.\n\nEntre las tendencias destacadas se encuentra el avance de la digitalización de las granjas, mediante sistemas de control y monitoreo, sensores y nuevas herramientas que permiten recopilar información para acompañar la toma de decisiones productivas.\n\nTambién se compartieron perspectivas sobre la evolución de los sistemas de gestación grupal y las nuevas necesidades de equipamiento del sector.\n\nCerca de nuestros clientes y del sector\n\nMás allá de las conferencias, el encuentro representó una valiosa oportunidad para conversar con productores, escuchar sus experiencias, conocer sus necesidades y compartir distintas perspectivas sobre los desafíos de la actividad.\n\nEn Grantec creemos que estar presentes en estos espacios nos permite mantenernos actualizados, identificar oportunidades de mejora y continuar trabajando en soluciones que respondan a las necesidades reales de la producción.\n\nSeguimos acompañando al sector porcino argentino, apostando a la tecnología, el conocimiento y las relaciones de confianza con nuestros clientes.\n\nLa entrada \nGrantec en el IV Congreso Porcino del Atlántico 2026\n se publicó primero en \nGRANTEC\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-03T22:08:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
