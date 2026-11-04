@@ -203973,5 +203973,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-vialidad-coordina-tareas-preventivas-ante-el-fenomeno-del-nino",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Vialidad coordina tareas preventivas ante el fenómeno del Niño",
+    "fecha": "2026-11-04",
+    "link": "https://www.dpver.gov.ar/2026/11/04/vialidad-coordina-tareas-preventivas-ante-el-fenomeno-del-nino/",
+    "texto_original": "Autoridades de la Dirección Provincial de Vialidad se reunieron con representantes Defensa Civil y del Consejo Regulador del Uso de Fuentes de Agua (Corufa). Coordinaron tareas preventivas ante el fenómeno climatológico del Niño.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-04T15:45:01Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
