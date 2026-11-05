@@ -205794,5 +205794,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3356",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El gobierno provincial firmó el contrato para la construcción de 18 viviendas en Larroque",
+    "fecha": "2026-11-04",
+    "link": "https://iapv.gob.ar/seccion/noticias/3356/el-gobierno-provincial-firmo-el-contrato-para-la-c",
+    "texto_original": "Las unidades habitacionales serán ejecutadas por la empresa Aguará Constructora SA, representada por Erika Gómez, con un presupuesto superior a los 1.631 millones de pesos y un plazo de ejecución de 15 meses corridos.\nEl acto de firma contó con la presencia del presidente del organismo, Manuel Schönhals, y de la escribana Mayor de Gobierno, Sandra Taborda.\nAl respecto, Schönhals manifestó su \"alegría por seguir aportando soluciones habitacionales en todo el territorio provincial\" y destacó que \"estas obras impulsadas por el gobernador Rogelio Frigerio son una manera más de dar respuestas concretas a las necesidades de los entrerrianos\".\nAsimismo, señaló que \"cada unidad habitacional que construimos implica no solo que una familia pueda acceder a su hogar, sino también que se dinamice la economía local, a través de la compra de materiales y la generación de mano de obra\". En ese sentido, sostuvo que \"estas obras permitirán mejorar la calidad de vida de muchas familias que esperan tener su casa propia y ofrecerles a sus hijos un nuevo bienestar\".\nEl proyecto consiste en la construcción de 18 viviendas en la zona norte de la ciudad de Larroque. Las obras incluyen la ejecución de prototipos del Programa Ahora Tu Hogar en construcción tradicional; 17 viviendas serán de tipología en dúplex y uno vivienda especial en planta baja, de las cuales, se implantarán 16 en forma apareadas y dos individuales en esquina.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-05T09:24:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
