@@ -205752,5 +205752,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-81089",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Frigerio reunió a su gabinete para repasar los principales temas de gestión",
+    "fecha": "2026-11-04",
+    "link": "https://portal.entrerios.gov.ar/noticias/81089",
+    "texto_original": "El gobernador Rogelio Frigerio presidió este miércoles una nueva reunión de gabinete en Casa de Gobierno, donde se abordaron distintos temas vinculados con la gestión provincial, el avance del plan de obras, las acciones preventivas ante el fenómeno El Niño y las políticas de salud mental.\n\nEl encuentro se desarrolló en el Salón de los Gobernadores y contó con la participación de la vicegobernadora y presidenta del Senado, Alicia Aluani; el presidente de la Cámara de Diputados, Gustavo Hein; además de ministros y secretarios.\n\n \n\nTras la reunión, el ministro de Economía y Servicios Públicos, Fabián Boleas, precisó que uno de los temas abordados fue la reciente inauguración del centro de día de salud mental en Diamante. Al respecto, destacó que se trata de \"una acción más en la política de salud mental que lleva adelante el gobierno provincial\".\n\n \n\nAsimismo, indicó que se repasó la marcha y ejecución del plan de obras provincial, junto con las tareas preventivas y el seguimiento de las acciones previstas ante el fenómeno El Niño. También se abordaron cuestiones vinculadas a la administración del Estado, la planificación presupuestaria y la agenda legislativa.\n\n \n\nPor otro lado, Boleas invitó a participar de la entrega del premio El Sauce al conductor Santiago Miguel Rinaldi, que se realizará este jueves a las 21, en el Centro Cultural La Vieja Usina. Se trata de la segunda edición de esta distinción, cuyo primer reconocimiento fue otorgado el año pasado a Roberto Romani.\n\n \n\nFinalmente, el ministro señaló que el gobernador reiteró a los integrantes del gabinete la importancia de \"realizar el seguimiento estricto de todas las líneas de acción que tenemos que llevar adelante\" y estar \"permanentemente haciendo un seguimiento para poder lograr la mayor ejecución posible de todas las políticas implementadas\".",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-05T01:46:32Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81088",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Música, danzas y gastronomía en la nueva edición de la Fiesta Provincial de las Aldeas",
+    "fecha": "2026-11-04",
+    "link": "https://portal.entrerios.gov.ar/noticias/81088",
+    "texto_original": "Se presentó en Paraná la Fiesta Provincial de las Aldeas que se realizará el sábado 14 de noviembre en Aldea Brasilera, con música, danzas, gastronomía y propuestas que recuperan las costumbres y tradiciones de los alemanes del Volga.\n\nLa actividad se realizó en el marco de la agenda de presentaciones de fiestas populares que impulsa el Ente Mixto de Turismo de Entre Ríos (Emturer). La propuesta forma parte del calendario turístico entrerriano y pone en valor la identidad cultural de las aldeas de alemanes del Volga, una herencia que se expresa en sus costumbres, música, danzas y gastronomía.\n\nDurante la presentación, el secretario ejecutivo del Emturer, Sebastián Bel, destacó el valor de estas manifestaciones para diversificar la oferta turística provincial. \"Cada noviembre tenemos una agenda nutrida de eventos y fiestas populares en todo el territorio. La Fiesta de las Aldeas suma su folclore, su vestimenta y sus sabores típicos a esa propuesta. El disfrute turístico también está en descubrir una cultura, sus costumbres y tradiciones\", expresó.\n\nPor su parte, el intendente de Aldea Brasilera, Hugo Ramírez, invitó a visitar la localidad, ubicada en la microrregión El Paraná y sus Aldeas, y brindó detalles de la programación. El encuentro se desarrollará en el Club San José, con apertura del predio a las 18.30 y comienzo de la grilla artística a las 20. La propuesta incluirá presentaciones de grupos coreográficos y musicales, además del convocante concurso de tomadores de cerveza.\n\nLa celebración pone en primer plano la historia de una comunidad fundada en 1879 por inmigrantes alemanes del Volga. En ese sentido, José Gareis, encargado del Área de Cultura y Turismo municipal, recordó que Aldea Brasilera fue la sexta aldea fundada por esta corriente migratoria en Entre Ríos y recuperó una expresión transmitida por sus antepasados para definir el espíritu de la convocatoria: \"Cuando hay fiesta en la aldea, son todos bienvenidos\".",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-05T01:46:32Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
