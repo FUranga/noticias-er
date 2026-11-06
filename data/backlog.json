@@ -208095,5 +208095,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "empresa-cremigal-budin-de-yogur-con-chips-de-chocolate-y-corazon-de-dulce-de-leche",
+    "fuente": "cremigal",
+    "titulo": "Budín de yogur con chips de chocolate y corazón de dulce de leche",
+    "fecha": "2026-11-06",
+    "link": "https://cremigal.com/budin-de-yogur-con-chips-de-chocolate-y-corazon-de-dulce-de-leche/",
+    "texto_original": "Imprimí esta receta\n\nBudín de yogur con chips de chocolate y corazón de dulce de leche\n\n\t\n\n\t\t\nUn budín húmedo, esponjoso y con una sorpresa irresistible en su interior. La combinación de chips de chocolate y dulce de leche lo convierte en el acompañamiento ideal para una rica merienda.\n\n\t\n\n\t\n\n\t\t\n\n\t\t\t\t\t\t\t\n\nAuthor:\n \nNancy Gon\n\n\t\t\t\t\t\n\n\t\n\n\t\n\n\t\t\nIngredientes\n\n\t\t\t\t\n\n1\n pote de yogur natural Cremigal.\n\n1\n pote de aceite.\n\n2\n potes de azúcar.\n\n3\n potes de harina leudante.\n\n3\n huevos.\n\nEsencia de vainilla a gusto.\n\nChips de chocolate a gusto.\n\nDulce de leche repostero Cremigal, cantidad necesaria.\n\nTip: utilizá el mismo pote de yogur como medida para todos los ingredientes. ¡No necesitás balanza!\n\n\t\n\n\t\n\n\t\t\n\n\t\t\t\nPreparación\n\n\t\t\t\t\t\n\n\t\t\n\nEn un recipiente, mezclá los huevos con el azúcar, el yogur natural Cremigal, el aceite y la esencia de vainilla.\n\nIncorporá la harina leudante de a poco, mezclando hasta obtener una preparación homogénea.\n\nAgregá los chips de chocolate e integrá.\n\nVolcá la mitad de la mezcla en una budinera previamente enmantecada y enharinada.\n\nColocá una capa de dulce de leche repostero Cremigal en el centro, sin llegar a los bordes. Cubrí con el resto de la preparación.\n\nLlevá a horno precalentado a 170 °C durante 45 a 55 minutos, aproximadamente. Para comprobar la cocción, insertá un palillo en una parte de masa sin dulce de leche: debe salir sin restos de mezcla cruda.\n\n\t\n\n\t\n¿HICISTE ESTA RECETA?\n\n\t\nEtiqueta a \n@Cremigal\n en Instagram\t\t\t\t\ty añade el hashtag  \n#recetas #ideasdeliciosas #cocinemosjuntos\n\n\t\t\t\n\nLa entrada \nBudín de yogur con chips de chocolate y corazón de dulce de leche\n se publicó primero en \nCremigal\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-06T16:25:48Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Receta/contenido de blog gastronomico (filtro automatico de contenido no editorial)."
   }
 ]
