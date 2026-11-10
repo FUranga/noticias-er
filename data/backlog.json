@@ -209733,5 +209733,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-dptal-pna-convocatoria-concurso-cargos-de-mayor-jerarquia-e-ingreso-miercoles-11-de-noviembre-de-2026-nivel-inicial-primario-y-modalidades",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Dptal. Pná. – Convocatoria Concurso – Cargos de Mayor Jerarquía e Ingreso – Miércoles 11 de Noviembre de 2026 – Nivel Inicial, Primario y Modalidades.",
+    "fecha": "2026-11-10",
+    "link": "https://cge.entrerios.gov.ar/2026/11/dptal-pna-convocatoria-concurso-cargos-de-mayor-jerarquia-e-ingreso-miercoles-11-de-noviembre-de-2026-nivel-inicial-primario-y-modalidades/",
+    "texto_original": "La Dirección Departamental de Escuelas Paraná Convoca a concurso presencial \n\npara el día Miércoles 11 de Noviembre de 2026,\n\n a partir de las \n\n08:00 horas\n\n, en salón de concursos de la Dirección Departamental de Escuelas de Paraná, sita en calle Don Bosco N°749 \n\nde la Ciudad de Paraná\n\n,\n para la cobertura de Cargos de Ascenso e Ingreso de Nivel Inicial – Primario y Modalidades. En el marco del Acuerdo Paritario /Reglamento de Concursos Resolución Ministerial N°783 M.T. (Res. 1000/13) – Resolución N°0691/21 CGE y sus modificatorias,- De Director, Resolución N°1200/22 C.G.E. y modificatorias – De Vicedirector, Resolución N°1200/22 C.G.E. y modificatorias  – Listado de Suplencias vigentes: Listado de Suplencias de Ascenso N°188 y el Listado de Suplencias de Ingreso N°188. Según el siguiente detalle:\n\n \n\nOrden de Merito 11 de Noviembre de 2026\n\nSe recuerda:\n\nEstá habilitado el Art.40 – según  \nCircular Nº 04-22 CGE Designaciones personal docente por Artículo 40\n\n– \n(Concurrir al acto concursal con las constancias en papel requeridas firmadas y selladas).\n\nToda necesidad de cobertura de \ncargos de ingreso\n originada por el movimiento hacia un cargo de ascenso o mayor jerarquía funcional publicado o convocado a concurso; \nse cubrirá/cubrirán \n\nen el mismo acto concursal.\n\nLos cargos de \nAscenso\n licenciados se cubrirán en la próxima instancia concursal previa publicación.\n\nConcurrir en el día y horario establecido con DNI.\n\nLos cargos liberados y/o licenciados se podrán observar sincrónicamente por el siguiente link: \n\nLista de Cargos",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-10T10:24:37Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
