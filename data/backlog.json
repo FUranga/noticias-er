@@ -209705,5 +209705,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81179",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "El gobierno provincial refuerza el trabajo preventivo ante la crecida del río en Paraná",
+    "fecha": "2026-11-09",
+    "link": "https://portal.entrerios.gov.ar/noticias/81179",
+    "texto_original": "El director de Defensa Civil de Entre Ríos, Víctor Chanenko, junto al secretario del organismo, Cristian Galli, recorrió este lunes distintos sectores de la zona de Bajada Grande, en Paraná, donde ocho familias debieron ser evacuadas ante la crecida del río.\n\nDurante la jornada mantuvo reuniones con autoridades municipales para evaluar la situación y coordinar las medidas de asistencia y prevención.\n\nDe la recorrida participaron el secretario de Desarrollo Humano de Paraná, Enrique Ríos, y el coordinador de Protección Civil municipal, Lucas García. Se relevaron distintas arterias y sectores de la ribera, con el objetivo de analizar el avance del agua y las condiciones de seguridad para los vecinos.\n\nEn ese marco, se recomendó sostener la estrategia de evacuación a pie seco, priorizando que los traslados se realicen de manera anticipada y sin exponer a las personas a situaciones de riesgo. Asimismo, se planteó la necesidad de disponer de centros de evacuación en espacios preparados y con condiciones adecuadas para responder ante tormentas y otros eventos climáticos asociados al fenómeno de El Niño.\n\nDesde el Gobierno provincial se remarcó que la prioridad es garantizar que las familias sean trasladadas de manera segura a lugares apropiados, con condiciones que permitan resguardar su integridad y brindarles una respuesta adecuada, evitando soluciones meramente transitorias que no contemplen las necesidades de las personas evacuadas.\n\nSituación en La Paz\n\nPor otra parte, en la ciudad de La Paz se registró la autoevacuación de seis familias en la zona del puerto, debido a que la elevación del nivel del río está provocando el aumento del caudal del arroyo Cabayú.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-10T02:41:46Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
