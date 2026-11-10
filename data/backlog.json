@@ -210433,5 +210433,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "senadoer-senadores-analizaron-el-proyecto-de-ley-que-modifica-el-regimen-general-de-concesiones-de-obras",
+    "fuente": "Cámara de Senadores de Entre Ríos",
+    "titulo": "Senadores analizaron el proyecto de ley que modifica el Régimen General de Concesiones de Obras",
+    "fecha": "2026-11-10",
+    "link": "https://www.senadoer.gob.ar/2026/11/senadores-analizaron-el-proyecto-de-ley-que-modifica-el-regimen-general-de-concesiones-de-obras/",
+    "texto_original": "El presidente de la Comisión de Obras Públicas, Juan Diego Conti (Tala-Más para Entre Ríos), junto a sus pares Ramiro Favre (Colón-Juntos por Entre Ríos), Gloria Cozzi (Concordia-Juntos por Entre Ríos) y Nancy Miranda (Federal-Frente Cimarrón), se reunieron para analizar el proyecto de ley por el que se modifica el artículo 5° (Exclusiones) de la Ley N°11.280 del Régimen General de Concesiones de Obras, Infraestructuras Públicas y Servicios Públicos de la Provincia. La iniciativa ya cuenta con la aprobación de la Cámara de Diputados.\n\nEn representación del Poder Ejecutivo asistieron el secretario Legal y Técnico de la Provincia, Esteban Vitor, y el coordinador de la Secretaría, Leonel Rodríguez, quien estuvo a cargo de la redacción de la iniciativa.\n\n \n\nModificaciones y alcance del proyecto\n\nDurante el encuentro, Vitor explicó las modificaciones introducidas al texto original proveniente de la Cámara de Diputados. En este marco, Rodríguez señaló que en el actual contexto económico complejo es necesario apelar a herramientas que permitan la participación del sector privado en determinadas cuestiones del Estado, aclarando que “no es la intención del gobierno privatizar todo”.\n\nRodríguez profundizó sobre el espíritu del proyecto e indicó que la herramienta del Régimen de Concesiones no se ha aplicado tradicionalmente en Entre Ríos. “No vamos a concesionar la salud pública, no es el fin, sino que es una herramienta más”, sostuvo, a la vez que aclaró que su aplicación dependerá de la existencia de inversores interesados.\n\nPor su parte, el presidente de la comisión, el senador Conti, planteó la necesidad de fijar con precisión los límites normativos: “La transferencia de la titularidad es el tema. Tenemos que establecer los límites”.\n\nEl debate continuará en el ámbito de la comisión para evaluar en detalle el alcance de la norma y los resguardos institucionales correspondientes.\n\n \n\nMás aportes al proyecto de Ley\n\nEste miércoles 11 de noviembre, a partir de la hora 9:00, se llevará adelante nuevamente una reunión de la Comisión de Obras Públicas para continuar con el tratamiento del Expediente N°29.302. En esta oportunidad, está convocado a dar su aporte el secretario General de la Unión del Personal Civil de la Nación, (UPCN) seccional Entre Ríos, José Ángel Allende.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-10T19:05:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
