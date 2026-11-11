@@ -211106,5 +211106,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "cge-escuela-agrotecnica-n-o-24-general-san-martin",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "EEscuela de Educación Agrotécnica N.º 24 “Gral. San Martín” – Concordia",
+    "fecha": "2026-11-11",
+    "link": "https://cge.entrerios.gov.ar/2026/11/escuela-agrotecnica-n-o-24-general-san-martin/",
+    "texto_original": "Supervisión de Educación Secundaria – Zona II –  Concordia\n\nPRIMERA CONVOCATORIA A CONCURSO\n\nLa Supervisión de Educación Secundaria – Zona II, del Departamento Concordia, convoca a concurso en el marco del Acuerdo Paritario/Reglamento de Concursos, Resolución Ministerial N.º 783/12 M.T. y sus modificatorias, Resolución N.º 2300/22 C.G.E., artículo 136, requisitos según artículo 124 y Circular 02/2026 J.C., para cubrir:\n\n \n\n­El acto de adjudicación se llevará a cabo \n\nel día jueves 12 de noviembre de 2026\n\n08:15 hs.\n\n🔴 6 (seis) horas cátedra de \n\nTutor Docente Domiciliario Hospitalario\n\n – 7.º año, división “2” – Turno mañana – Escuela de Educación Agrotécnica N.º 24 “Gral. San Martín” , CUE 3001237 – Suplente, artículo 80 –\n\nPeríodo de cobertura: hasta el 11 de diciembre de 2026.\n\n \n\n \n\nEl acto de adjudicación se llevará a cabo el día jueves 12 de noviembre de 2026, en la oficina de Supervisión de Educación Secundaria, ubicada en la sede de la Dirección Departamental de Escuelas Concordia, en Hipólito Yrigoyen y Roque Sáenz Peña.\n\nLos aspirantes deberán concurrir con la correspondiente Credencial de Puntaje vigente, impresa; DNI físico o digital de la aplicación Mi Argentina y antigüedad de SAGE impresa.\n\nLos docentes pertenecientes al establecimiento deberán presentarse con constancia emitida por las autoridades de la Escuela Agrotécnica N.º 24 “General San Martín”.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T09:38:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "cge-escuela-secundaria-n-o-19-generala-juana-azurduy",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria N.º 19 “Generala Juana Azurduy” – Concordia",
+    "fecha": "2026-11-11",
+    "link": "https://cge.entrerios.gov.ar/2026/11/escuela-secundaria-n-o-19-generala-juana-azurduy/",
+    "texto_original": "Supervisión de Educación Secundaria – Zona II –  Concordia\n\nPRIMERA CONVOCATORIA A CONCURSO\n\nLa Supervisión de Educación Secundaria – Zona II, del Departamento Concordia, convoca a concurso en el marco del Acuerdo Paritario/Reglamento de Concursos, Resolución Ministerial N.º 783/12 M.T. y sus modificatorias, Resolución N.º 2300/22 C.G.E., artículo 136, requisitos según artículo 124 y Circular 02/2026 J.C., para cubrir:\n\n \n\n­El acto de adjudicación se llevará a cabo \n\nel día jueves 12 de noviembre de 2026\n\n08:00 hs.\n\n🔴 4 (cuatro) horas cátedra de \n\nTutor Docente Domiciliario Hospitalario\n \n– 4.º año, división “A” – Turno tarde – Escuela Secundaria N.º 19 “Generala Juana Azurduy”, CUE 3002627 – Suplente, artículo 80 –\n\nPeríodo de cobertura: hasta el 11 de diciembre de 2026.\n\n \n\n \n\nEl acto de adjudicación se llevará a cabo el día jueves 12 de noviembre de 2026, en la oficina de Supervisión de Educación Secundaria, ubicada en la sede de la Dirección Departamental de Escuelas Concordia, en Hipólito Yrigoyen y Roque Sáenz Peña.\n\nLos aspirantes deberán concurrir con la correspondiente Credencial de Puntaje vigente, impresa; DNI físico o digital de la aplicación Mi Argentina y antigüedad de SAGE impresa.\n\nLos docentes pertenecientes al establecimiento deberán presentarse con constancia emitida por las autoridades de la Escuela Secundaria N.º 19 “Generala Juana Azurduy”.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T09:38:52Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
