@@ -211162,5 +211162,61 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-metalurgica-albace-piletas-para-lodos-de-perforacion-para-mandservice-group",
+    "fuente": "metalúrgica albace",
+    "titulo": "Piletas para lodos de perforación para MandService Group",
+    "fecha": "2026-11-11",
+    "link": "https://metalurgicaalbace.com.ar/piletas-para-lodos-de-perforacion-para-mandservice-group/",
+    "texto_original": "Metalúrgica Albace y Axura finalizaron la fabricación y entrega de dos piletas destinadas al almacenamiento y la agitación de lodo […]\n\nThe post \nPiletas para lodos de perforación para MandService Group\n appeared first on \nMetalúrgica Albace\n.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-11T16:45:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "empresa-metalurgica-albace-fabricacion-de-recipientes-a-presion-para-enerflex",
+    "fuente": "metalúrgica albace",
+    "titulo": "Fabricación de recipientes a presión para Enerflex",
+    "fecha": "2026-11-11",
+    "link": "https://metalurgicaalbace.com.ar/fabricacion-de-recipientes-a-presion-para-enerflex/",
+    "texto_original": "Albace y Axura se encuentran fabricando para Enerflex dos scrubbers y ocho botellones, recipientes sometidos a presión destinados a sistemas […]\n\nThe post \nFabricación de recipientes a presión para Enerflex\n appeared first on \nMetalúrgica Albace\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T16:45:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-metalurgica-albace-nuevo-tunel-de-congelamiento-continuo-para-frigorifico-las-camelias",
+    "fuente": "metalúrgica albace",
+    "titulo": "Nuevo Túnel de congelamiento continuo para Frigorífico Las Camelias",
+    "fecha": "2026-11-11",
+    "link": "https://metalurgicaalbace.com.ar/nuevo-tunel-de-congelamiento-continuo-para-frigorifico-las-camelias/",
+    "texto_original": "Para Frigorífico Las Camelias, en San Justo, Entre Ríos, desarrollamos un túnel de congelamiento continuo con capacidad estática de 12.960 […]\n\nThe post \nNuevo Túnel de congelamiento continuo para Frigorífico Las Camelias\n appeared first on \nMetalúrgica Albace\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T16:45:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-metalurgica-albace-desafio-superado-tuneles-de-congelado-para-demanda-de-50-400-cajas",
+    "fuente": "metalúrgica albace",
+    "titulo": "Desafío superado: Túneles de congelado para demanda de 50.400 cajas.",
+    "fecha": "2026-11-11",
+    "link": "https://metalurgicaalbace.com.ar/desafio-superado-tuneles-de-congelado-para-demanda-de-50-400-cajas/",
+    "texto_original": "En Metalúrgica Albace realizamos el diseño, la fabricación y el montaje de dos túneles de congelamiento continuo para importante establecimiento […]\n\nThe post \nDesafío superado: Túneles de congelado para demanda de 50.400 cajas.\n appeared first on \nMetalúrgica Albace\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T16:45:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
