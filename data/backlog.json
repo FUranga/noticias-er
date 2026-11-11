@@ -211878,5 +211878,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "iapv-3358",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El IAPV prorrogó la apertura de sobres para la terminación de 10 viviendas en General Ramírez",
+    "fecha": "2026-11-11",
+    "link": "https://iapv.gob.ar/seccion/noticias/3358/el-iapv-prorrogo-la-apertura-de-sobres-para-la-ter",
+    "texto_original": "La medida responde a la imposibilidad de garantizar la presencia de un escribano público, debido a que los profesionales deberán asistir este jueves a una capacitación obligatoria sobre actualización de la normativa de la Unidad de Información Financiera (UIF).\nEn consecuencia, el acto se realizará el viernes 13 de noviembre de 2026, a las 10:30 horas. Los trabajos están incluidos en el programa Ahora Tu Hogar.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-11T23:42:02Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
