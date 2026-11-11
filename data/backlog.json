@@ -211766,5 +211766,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-fadel-tecnico-avicola",
+    "fuente": "fadel",
+    "titulo": "Técnico Avícola",
+    "fecha": "2026-11-11",
+    "link": "https://fadelsa.com.ar/tecnico-avicola/",
+    "texto_original": "Técnico Avícola Fecha: 11/11/2026 Requisitos • Técnico Avícola (excluyente). • Se valorará experiencia en producción avícola, granjas o incubación. • Conocimientos de manejo de aves, bioseguridad e indicadores productivos. • Manejo de Excel y herramientas informáticas. • Movilidad propia. •\n […]",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T23:12:10Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-eriochem-noviembre-azul",
+    "fuente": "eriochem",
+    "titulo": "Noviembre Azul",
+    "fecha": "2026-11-11",
+    "link": "https://eriochem.com.ar/noviembre-azul/",
+    "texto_original": "La entrada \nNoviembre Azul\n se publicó primero en \nERIOCHEM SA\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-11T23:12:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
