@@ -213686,5 +213686,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-nexo-aberturas-renovamos-iso-90012015",
+    "fuente": "nexo aberturas",
+    "titulo": "¡Renovamos ISO 9001:2015!",
+    "fecha": "2026-11-12",
+    "link": "https://www.nexo-aberturas.com.ar/renovamos-iso-90012015/",
+    "texto_original": "Durante agosto de 2026, superamos una nueva auditoría de mantenimiento realizada por IRAM, reafirmando nuestro compromiso con la calidad, la mejora continua y la eficiencia de nuestros procesos.\n\nEn Nexo Aberturas renovamos nuestra certificación bajo la norma internacional \nISO 9001:2015\n, luego de atravesar satisfactoriamente una auditoría de mantenimiento de nuestro Sistema de Gestión de Calidad, realizada por IRAM.\n\nEsta certificación respalda nuestro compromiso con una gestión organizada y eficiente, basada en procesos estandarizados, controles de calidad y la búsqueda permanente de oportunidades de mejora.\n\nLa renovación representa un paso más en el trabajo que desarrollamos diariamente para garantizar la calidad y confiabilidad de nuestros productos, optimizar nuestros procesos y responder a las necesidades y expectativas de nuestros clientes.\n\nEste logro es también resultado del \ncompromiso de todo el equipo Nexo\n, que contribuye desde cada área a sostener y fortalecer nuestros estándares de calidad.\n\nPorque en Nexo entendemos que la calidad va más allá de una certificación: \nes una forma de trabajar, mejorar y seguir creciendo.\n\nThe post \n¡Renovamos ISO 9001:2015!\n first appeared on \nNexo | Aberturas\n.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-12T21:14:38Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-venta-digital-de-seguros-rus-y-sus-pas-crecen-27",
+    "fuente": "río uruguay seguros",
+    "titulo": "RUS y sus PAS crecen en la venta digital más que el comercio online argentino",
+    "fecha": "2026-11-12",
+    "link": "https://riouruguayseguros.com/site/venta-digital-de-seguros-rus-y-sus-pas-crecen-27/",
+    "texto_original": "marketplace-rus-codigo-pas-seguros",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-12T21:14:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
