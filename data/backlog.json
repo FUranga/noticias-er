@@ -213714,5 +213714,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
+  },
+  {
+    "id": "boletinnac-350207",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "DIRECCIÓN REGIONAL PARANÁ Disposición 39/2026",
+    "fecha": "2026-11-11",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350207/20261111",
+    "texto_original": "DIRECCIÓN REGIONAL PARANÁ Disposición 39/2026 Fecha de Publicacion: 11/11/2026 DI-2026-39-E-ARCA-DIRPAR#SDGOPII Paraná, Entre Ríos , 05/11/2026VISTOQue mediante el expediente EX-2026-03388566- -ARCA-OJURSERESEPA#SDGOPII se da inicio a la solicitud de la Agencia Sede...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-12T22:35:36Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
