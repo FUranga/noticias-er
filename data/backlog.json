@@ -214316,5 +214316,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-269938",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "",
+    "fecha": "2026-11-13",
+    "link": "https://www.jusentrerios.gov.ar/2026/11/269938/",
+    "texto_original": "El jueves 19 de noviembre a las 17 se dictará el Webinar “Control de convencionalidad” a cargo de la jueza del Tribunal de Gestión Judicial Asociada en lo Tributario de Mendoza, Gabriela Ábalos.\n\n \n\nLa actividad no es arancelada y se realizará a través de la plataforma Zoom. Está destinada a integrantes de Poderes Judiciales de Argentina, a profesionales de la abogacía y a personas interesadas en la temática.\n\n \n\nLas inscripciones se realizan de manera online en \n\nhttps://institutoalberdi.jusentrerios.gov.ar/events/webinar-control-de-convencionalidad-2026/\n\n \n\n \n\n13 de noviembre de 2026\n\n \n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-13T13:08:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "stjer-269922",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "",
+    "fecha": "2026-11-13",
+    "link": "https://www.jusentrerios.gov.ar/2026/11/269922/",
+    "texto_original": "El próximo miércoles 18 de noviembre, a partir de las 15, se realizará un conversatorio sobre la Automatización de Procesos Sucesorios sin Testamentar, destinada a profesionales de la abogacía de la Sección Tala del CAER que hayan participado del “Curso Virtual Automatización del Proceso Sucesorio para Profesionales de la Abogacía”.\n\n \n\nLa actividad se realizará vía Zoom y estará a cargo de los integrantes de la Comisión de Trabajo para la Automatización de Procesos Sucesorios sin Testamentar. Será moderada por el presidente de la Sección Tala del CAER, Alfonso Albornoz.\n\n \n\nQuienes deseen participar deberán inscribirse en \n\nhttps://institutoalberdi.jusentrerios.gov.ar/events/automatizacion-del-proceso-sucesorio-conversatorio-tala/\n\n \n\nDurante los próximos meses se replicará esta actividad en las distintas jurisdicciones de la provincia.\n\n \n\n \n\n13 de noviembre de 2026\n\n \n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-13T13:08:47Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
