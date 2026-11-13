@@ -220804,5 +220804,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3359",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "Se presentaron tres empresas para la terminación de 10 viviendas con fondos provinciales en General Ramírez",
+    "fecha": "2026-11-13",
+    "link": "https://iapv.gob.ar/seccion/noticias/3359/se-presentaron-tres-empresas-para-la-terminacion-d",
+    "texto_original": "En el proceso se presentaron tres empresas oferentes. Tras la evaluación de la documentación administrativa y técnica, dos de ellas cumplieron con los requisitos establecidos y avanzaron a la instancia de apertura de las propuestas económicas, que se realizó en la sede del organismo provincial.\nEl acto fue encabezado por el vicepresidente del IAPV, Pablo Omarini, y contó con la presencia de la intendenta, Flavia Pamberger; el secretario general del Sindicato de Trabajadores Municipales de esa localidad, Marcos Romero; el vocal, Eduardo López Segura; representantes de las empresas constructoras y personal técnico de la repartición provincial, entre otras autoridades.\nAl respecto, Omarini expresó que \"por decisión del gobernador Rogelio Frigerio seguimos avanzando con los diferentes municipios y las entidades intermedias. Esto es el resultado de un trabajo conjunto por el bienestar de sus comunidades, que permitirá incorporar nuevas soluciones habitacionales a lo largo de la geografía entrerriana y refleja el compromiso de administrar los recursos con responsabilidad para que lleguen donde más se necesitan\".\nEn tanto, la intendenta de General Ramírez, Flavia Pamberger, aseguró que \"es un día importante, que permitirá darle continuidad a la obra y culminarla, para que diez familias de trabajadores municipales puedan acceder a una vivienda digna. Era una obra muy anhelada para nuestra comunidad, donde tenemos una importante demanda habitacional\".\nPor su parte, el secretario general del Sindicato de Trabajadores Municipales, Marcos Romero, agradeció \"al Gobierno provincial y a las autoridades del IAPV por darnos la posibilidad de llevar adelante soluciones habitacionales para los trabajadores afiliados al gremio\".\nLas ofertas económicas presentadas corresponden a las empresas Verco SA, que cotizó 632.880.602,33 pesos, y Edico SA, con una propuesta de 769.181.424,24 pesos.\nLas unidades habitacionales tendrán dos dormitorios, estar-comedor con cocina integrada, baño completo y lavadero. Una de ellas estará adaptada para familias que tengan entre sus integrantes a personas con discapacidad o trasplantadas, con las adecuaciones necesarias para garantizar la accesibilidad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-13T22:02:23Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
