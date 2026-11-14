@@ -220832,5 +220832,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-rectoria-de-la-escuela-secundaria-n1-jose-rafael-hernandez",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Rectoría de la Escuela Secundaria N°1 “José Rafael Hernández”",
+    "fecha": "2026-11-13",
+    "link": "https://cge.entrerios.gov.ar/2026/11/rectoria-de-la-escuela-secundaria-n1-jose-rafael-hernandez/",
+    "texto_original": "SEGUNDO LLAMADO A CONCURSO – CARGO DE CONDUCCIÓN DIRECTIVA\n\nLa Rectoría de la Escuela Secundaria N°1 “José Rafael Hernández”, de la Comuna de San Víctor, departamento Feliciano, llama a Concurso de Adjudicación de Cargo De CONDUCCIÓN DIRECTIVA en el marco del Acuerdo Paritario/Resolución Ministerial N°783/12 MT y sus modificatorias y Res. N° 2.300/22 C.G.E, Res. Nº 5.150/23 CGE:\n\nSecretario 3ra Categoría, Suplencia Término fijo – Turno Tarde. Horarios: de lunes a viernes de 12:00 a 17:50 hs – (suplencia hasta el 07/12/2026)\n\nSegún ART. N° 138- inciso A al H a las 11:30 Hs.\n\nDe no presentarse aspirantes con credencial de puntaje, se procederá a cubrir el cargo por artículo 80 del Estatuto del Docente Entrerriano.\n\nLos interesados deberán presentarse en la sede del establecimiento escolar, sito en Ruta Provincial N° 1 km 70, el día LUNES 16 de noviembre de 2026 a las 11:30 hs. con credencial de puntaje impresa vigente, D.N.I., constancia de personal perteneciente al establecimiento, si correspondiese. Constancia de antigüedad impresa.\n\nEn caso de no poder concurrir personalmente, podrá ser representado por un tercero quien deberá presentar el poder que lo avala y D.N.I junto a la documentación solicitada (Art. 135. Res. N° 2300/22 C.G.E).\n\nComuna de San Víctor, departamento Feliciano, 13 de noviembre de 2\n\n026.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-14T01:47:43Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
