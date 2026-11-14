@@ -220846,5 +220846,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-269979",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "",
+    "fecha": "2026-11-14",
+    "link": "https://www.jusentrerios.gov.ar/2026/11/269979/",
+    "texto_original": ".",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-14T07:27:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
