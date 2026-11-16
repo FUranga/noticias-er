@@ -221798,5 +221798,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3360",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El IAPV y la comuna de Jubileo analizaron políticas habitacionales para la localidad",
+    "fecha": "2026-11-16",
+    "link": "https://iapv.gob.ar/seccion/noticias/3360/el-iapv-y-la-comuna-de-jubileo-analizaron-politica",
+    "texto_original": "Durante el encuentro, se consideraron las herramientas que ofrece el organismo provincial , a través del programa Ahora Tu Hogar, que contempla distintas líneas de asistencia técnica y financiera para acompañar a municipios y comunas en el desarrollo de proyectos de viviendas.\nSchönhals señaló que, por indicación del gobernador Rogelio Frigerio, se trabaja en fortalecer el vínculo con los gobiernos locales y acompañar sus gestiones para dar respuestas a las demandas habitacionales de cada comunidad. En ese sentido, destacó la importancia de la planificación conjunta para avanzar en nuevas propuestas.\nPor su parte, Orcellet valoró la posibilidad de reunirse con las autoridades del IAPV y expresó que \"estos encuentros nos permiten plantear las necesidades de nuestra localidad y trabajar en conjunto para encontrar alternativas que nos permitan avanzar en materia de vivienda\".",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-16T19:31:57Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
