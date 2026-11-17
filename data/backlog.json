@@ -222352,5 +222352,19 @@
     "wp_edit_url": null,
     "motivo_descarte": null,
     "prioridad": "alta"
+  },
+  {
+    "id": "boletinnac-350326",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "CONTRATOS Decreto 1365/2026",
+    "fecha": "2026-11-16",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350326/20261116",
+    "texto_original": "CONTRATOS Decreto 1365/2026 Fecha de Publicacion: 16/11/2026 DECTO-2026-1365-APN-PTE - Aprobación. Desarrollo Vial de la Provincia de Entre Ríos (CONDVER)”, propuesto para ser suscripto entre la Provincia de ENTRE RÍOS y el BANCO CENTROAMERICANO DE INTEGRACIÓN...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-17T00:39:35Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
