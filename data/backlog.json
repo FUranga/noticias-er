@@ -223714,5 +223714,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-350414",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "ADMINISTRACIÓN DE PARQUES NACIONALES Resolución 453/2026",
+    "fecha": "2026-11-17",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350414/20261117",
+    "texto_original": "ADMINISTRACIÓN DE PARQUES NACIONALES Resolución 453/2026 Fecha de Publicacion: 17/11/2026 RESFC-2026-453-APN-D#APNAC Caranday (Copernicia alba), entre otras especies, en Parques Nacionales como El Palmar, Iberá, Mburucuyá, Río Pilcomayo y Chaco, entre otros.Que, atento a ello...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-17T23:44:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2420661",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "UNIVERSIDAD NACIONAL DE ENTRE RIOS Licitación Pública 03/2026",
+    "fecha": "2026-11-17",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420661/20261117",
+    "texto_original": "UNIVERSIDAD NACIONAL DE ENTRE RIOS Licitación Pública 03/2026 Fecha de Publicacion: 17/11/2026 EXPTE_RECT-UER 956/2026 La Universidad Nacional de Entre Ríos llama a Licitación Pública para la construcción de la “OBRA REFACCIÓN BLOQUE Nº3 Y OBRAS...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-17T23:44:50Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
