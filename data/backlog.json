@@ -223896,5 +223896,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3362",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "Se rubricó el contrato para construir 18 nuevas viviendas con fondos provinciales en Herrera",
+    "fecha": "2026-11-17",
+    "link": "https://iapv.gob.ar/seccion/noticias/3362/se-rubrico-el-contrato-para-construir-18-nuevas-vi",
+    "texto_original": "La firma del contrato se desarrolló en la sede de la Escribanía Mayor de Gobierno y contó con la presencia del presidente del organismo, Manuel Schönhals, el representante  de la empresa constructora Ernesto Ricardo Hornus SA, Alejandro Ferrer y la escribana mayor de Gobierno, Sandra Taborda.\nAl respecto, el titular del IAPV afirmó que el acceso a la vivienda propia \"les permite a las familias entrerrianas proyectar un futuro mejor, y nuestro deber es trabajar para que haya cada vez más hogares en la provincia donde nuestros hijos se puedan realizar y donde progresamos como comunidad\".\nHizo hincapié en el compromiso permanente de la gestión, junto a los gobiernos locales, de \"seguir construyendo más viviendas para que cada vez más entrerrianos puedan cumplir el sueño de la casa propia\".\nPor último, señaló que \"la política habitacional que lleva adelante el gobernador Rogelio Frigerio nos exige que continuemos trabajando, hasta el último día de la gestión, en la instrumentación de diferentes planes de viviendas para ayudar a más familias a cumplir el sueño de tener la casa propia\".\nLa empresa Ernesto Ricardo Hornus SA, con un presupuesto de más de 1.431 millones de pesos, tendrá a su cargo la obra. Las unidades habitacionales cuentan con un plazo de ejecución de 15 meses.\nEl proyecto prevé la construcción de seis viviendas de un dormitorio y 12 de dos dormitorios, una de ellas adaptada para personas con discapacidad.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-18T01:55:08Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
