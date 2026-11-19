@@ -228013,5 +228013,47 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "boletinnac-350574",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - ADUANA CONCORDIA Aviso Oficial",
+    "fecha": "2026-11-19",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350574/20261119",
+    "texto_original": "AGENCIA DE RECAUDACIÓN Y CONTROL ADUANERO - ADUANA CONCORDIA Aviso Oficial Fecha de Publicacion: 19/11/2026 este medio, a la Sección Inspección Técnica de la Aduana de Concordia – Entre Ríos - sita en calle 1º de Mayo Nº 202, a los efectos de su intervención en...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-19T23:24:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-350577",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial",
+    "fecha": "2026-11-19",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350577/20261119",
+    "texto_original": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial Fecha de Publicacion: 19/11/2026 EX-2026-04762327-APN-AGRUNRIOS#GNA, registro de la inactiva Agrupación V “ ENTRE RIOS ”; el Jefe de Región II ha establecido fecha para el día 30 de noviembre...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-19T23:24:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2420801",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "UNIVERSIDAD NACIONAL DE ENTRE RIOS Licitación Pública 03/2026",
+    "fecha": "2026-11-19",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420801/20261119",
+    "texto_original": "UNIVERSIDAD NACIONAL DE ENTRE RIOS Licitación Pública 03/2026 Fecha de Publicacion: 19/11/2026 EXPTE_RECT-UER 956/2026 La Universidad Nacional de Entre Ríos llama a Licitación Pública para la construcción de la “OBRA REFACCIÓN BLOQUE Nº3 Y OBRAS...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-19T23:24:27Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
