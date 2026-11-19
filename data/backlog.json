@@ -225733,5 +225733,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-contratacion-directa-via-excepcion-01-2026",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "CONTRATACIÓN DIRECTA VÍA EXCEPCIÓN 01-2026",
+    "fecha": "2026-11-18",
+    "link": "https://www.dpver.gov.ar/2026/11/18/contratacion-directa-via-excepcion-01-2026/",
+    "texto_original": "PROVISIÓN DE TUBOS METÁLICOS Y DE HORMIGÓN – TRAMO 1: ACC. A ÑANCAY. TRAMO 2: ACC. A PARANACITO. COMISARIA ÑANCAY – ARROYO HONDO – DEPARTAMENTO ISLAS DEL IBICUY. PRESUPUESTO OFICIAL: PESOS SETENTA Y CINCO MILLONES OCHOCIENTOS UN MIL DOSCIENTOS CINCUENTA Y CUATRO CON CUARENTA Y NUEVE CENTAVOS ($75.801.254,49), actualizado al mes de septiembre/26. CAPACIDAD DE […]",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-19T00:34:39Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
