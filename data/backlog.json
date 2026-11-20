@@ -228181,5 +228181,47 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "dpver-repasan-obras-en-ejecucion-y-necesidades-viales-para-el-departamento-uruguay",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Repasan obras en ejecución y necesidades viales para el departamento Uruguay",
+    "fecha": "2026-11-20",
+    "link": "https://www.dpver.gov.ar/2026/11/20/repasan-obras-en-ejecucion-y-necesidades-viales-para-el-departamento-uruguay/",
+    "texto_original": "Autoridades de la Dirección Provincial de Vialidad, del municipio de Santa Anita y legisladores; analizaron la situación de las obras y necesidades del departamento Uruguay.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-20T12:48:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "dpver-se-realizo-una-capacitacion-para-operadores-de-las-nuevas-maquinarias-viales",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Se realizó una capacitación para operadores de las nuevas maquinarias viales",
+    "fecha": "2026-11-20",
+    "link": "https://www.dpver.gov.ar/2026/11/20/se-realizo-una-capacitacion-para-operadores-de-las-nuevas-maquinarias-viales/",
+    "texto_original": "Más de 50 operadores de las distintas zonales de la Dirección Provincial de Vialidad, recibieron capacitación teórica y práctica para el correcto uso de las nuevas maquinarias de la repartición.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-20T12:48:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "dpver-frigerio-presento-mas-de-60-equipos-nuevos-para-reforzar-la-recuperacion-de-la-red-vial-de-entre-rios",
+    "fuente": "Dirección Provincial de Vialidad de Entre Ríos",
+    "titulo": "Frigerio presentó más de 60 equipos nuevos para reforzar la recuperación de la red vial de Entre Ríos",
+    "fecha": "2026-11-20",
+    "link": "https://www.dpver.gov.ar/2026/11/20/frigerio-presento-mas-de-60-equipos-nuevos-para-reforzar-la-recuperacion-de-la-red-vial-de-entre-rios/",
+    "texto_original": "La inversión superó los 15.000 millones de pesos. Cada zonal de Vialidad recibió una motoniveladora y el resto de los equipos se destinó a los programas de conservación vial en distintas regiones de la provincia.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-20T12:48:33Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
