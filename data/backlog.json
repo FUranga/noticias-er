@@ -228237,5 +228237,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-rio-uruguay-seguros-renovo-la-certificacion-de-su-sistema-de-gestion-de-la-calidad-bajo-la-norma-iso-90012015",
+    "fuente": "río uruguay seguros",
+    "titulo": "Río Uruguay Seguros renovó la certificación de su Sistema de Gestión de la Calidad bajo la norma ISO 9001:2015",
+    "fecha": "2026-11-20",
+    "link": "https://riouruguayseguros.com/site/rio-uruguay-seguros-renovo-la-certificacion-de-su-sistema-de-gestion-de-la-calidad-bajo-la-norma-iso-90012015/",
+    "texto_original": "RECERTIFICACIÓN RUS",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-20T14:32:55Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
