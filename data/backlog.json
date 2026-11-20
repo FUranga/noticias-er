@@ -228223,5 +228223,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "stjer-270931",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": ".",
+    "fecha": "2026-11-20",
+    "link": "https://www.jusentrerios.gov.ar/2026/11/270931/",
+    "texto_original": "",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-20T12:51:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
