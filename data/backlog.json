@@ -230066,5 +230066,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-escuela-secundaria-n-o-16-profesor-gerardo-victorin-concordia-83",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Escuela Secundaria N.º 16 “Profesor Gerardo Victorín” – Concordia",
+    "fecha": "2026-11-20",
+    "link": "https://cge.entrerios.gov.ar/2026/11/escuela-secundaria-n-o-16-profesor-gerardo-victorin-concordia-83/",
+    "texto_original": "Escuela Secundaria N.º 16 “Profesor Gerardo Victorín” – Concordia\n\nCONVOCATORIA A CONCURSO\n\nLa Rectoría de la Escuela Secundaria N.º 16 “Profesor Gerardo Victorín” convoca a concurso de adjudicación de cargos, en el marco del Reglamento de Concursos, Resolución Ministerial N.º 783/12 M.T. y sus modificatorias, Resolución N.º 2300/22 C.G.E., artículo 123, y Circular 2/2026 de Jurado de Concursos. Modalidad ESA.\n\n \n\n \n\nEl acto concursal se llevará a cabo\n\n el día martes 24 de noviembre de 2026.\n\n18:00 hs.\n\nMATEMÁTICA\n\n🔴 4 hs. \n\nMatemática\n\n – 1.er año, división “A” – Suplente – Turno noche.\n\nHorario:\n Miércoles de 21:30 a 22:30 hs. y jueves de 21:30 a 22:30 hs.\n\n🔴 4 hs. \n\nMatemática\n\n – 1.er año, división “B” – Suplente – Turno noche.\n\nHorario:\n Martes de 21:30 a 22:30 hs. y jueves de 19:10 a 20:10 hs.\n\n🔴 4 hs. \n\nMatemática\n\n – 1.er año, división “C” – Suplente – Turno noche.\n\nHorario:\n Martes de 20:20 a 21:20 hs. y miércoles de 19:10 a 20:10 hs.\n\n🔴 4 hs. \n\nMatemática\n\n – 2.º año, división “B” – Suplente – Turno noche.\n\nHorario:\n Jueves de 20:20 a 21:20 hs. y miércoles de 20:20 a 21:20 hs.\n\n \n\n \n\nLos aspirantes deberán presentarse en el establecimiento escolar, con entrada por calle Urquiza, en el día y horario indicado, con la siguiente documentación:\n\nDNI.\n\nCredencial de puntaje vigente, impresa con QR.\n\nConstancia de Personal Perteneciente al Establecimiento, en formato papel y debidamente firmada por algún directivo del establecimiento.\n\nQuienes participen sin credencial de puntaje (incisos C y D) deberán presentar título o constancia de título registrado en la Dirección de Recursos Humanos (C.G.E.) y la solicitud de credencial de puntaje para la reserva de derecho.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-21T00:24:40Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
