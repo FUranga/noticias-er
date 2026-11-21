@@ -230164,5 +230164,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "empresa-rio-uruguay-seguros-grupo-rus-presento-en-parana-y-santa-fe-una-nueva-forma-de-invertir-en-ladrillos",
+    "fuente": "río uruguay seguros",
+    "titulo": "Grupo RUS presentó en Paraná y Santa Fe una nueva forma de invertir en ladrillos",
+    "fecha": "2026-11-21",
+    "link": "https://riouruguayseguros.com/site/grupo-rus-presento-en-parana-y-santa-fe-una-nueva-forma-de-invertir-en-ladrillos/",
+    "texto_original": "IMG_5169",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-21T18:26:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Descripcion de producto/servicio sin hecho noticioso (filtro automatico de contenido no editorial)."
   }
 ]
