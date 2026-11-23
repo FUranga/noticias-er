@@ -230360,5 +230360,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-696323",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "",
+    "fecha": "2026-11-23",
+    "link": "https://cge.entrerios.gov.ar/2026/11/696323/",
+    "texto_original": "",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-23T21:49:41Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "cge-se-realizara-una-capacitacion-sobre-alfabetizacion-en-la-formacion-docente",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "Se realizará una capacitación sobre alfabetización en la formación docente",
+    "fecha": "2026-11-23",
+    "link": "https://cge.entrerios.gov.ar/2026/11/se-realizara-una-capacitacion-sobre-alfabetizacion-en-la-formacion-docente/",
+    "texto_original": "Con el objetivo de generar espacios de reflexión e intercambio de saberes sobre los desafíos actuales de la alfabetización, se llevará adelante la capacitación Alfabetización en la formación docente: desafíos y perspectivas, una iniciativa del Consejo General de Educación (CGE) está destinada a docentes, equipos directivos, estudiantes avanzados de los institutos de formación docente y público interesado. Se desarrollará en dos encuentros virtuales los días 25 de noviembre y 9 de diciembre.\n\n“Es importante abordar esta temática desde una mirada actual. La alfabetización constituye un desafío central para la formación docente. Estos espacios de reflexión e intercambio  permiten a los docentes revisar las prácticas, compartir experiencias y construir nuevas perspectivas para acompañar los procesos de enseñanza y aprendizaje” destacó la directora de Educación Superior del CGE, Verónica Evangelina Villagra.\n\nLa capacitación constará de dos encuentros virtuales, que se realizarán el 25 de noviembre y el 9 de diciembre, ambos a las 17 y contarán con transmisión en vivo a través de YouTube. Podrán participar docentes de Institutos de Educación Superior (ISFD), equipos directivos, estudiantes avanzados de cuarto año y público interesado en la temática.\n\nCabe destacar que la propuesta otorgará puntaje docente exclusivamente a quienes se desempeñen como docentes. Para acceder a este reconocimiento, deberán completar y aprobar la instancia evaluativa obligatoria disponible en el aula virtual de Atama.\n\nLos interesados en inscribirse deben hacerlo en el siguiente link: \nInscripción al curso de capacitación",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-23T21:49:41Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
