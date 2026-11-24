@@ -230388,5 +230388,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "stjer-271244",
+    "fuente": "Superior Tribunal de Justicia de Entre Ríos",
+    "titulo": "",
+    "fecha": "2026-11-23",
+    "link": "https://www.jusentrerios.gov.ar/2026/11/271244/",
+    "texto_original": "La Corte Suprema de Justicia de Santa Fe realizará una jornada en homenaje a su actual presidente, doctor Rafael Francisco Gutiérrez, en reconocimiento a su trayectoria, su destacada labor y su permanente compromiso con la Justicia santafesina.\n\n \n\nLa actividad se desarrollará mañana martes, de 15.30 a 17, bajo modalidad híbrida, con sede presencial en el Salón de Actos de la Corte Suprema de Justicia de Santa Fe, ubicado en San Jerónimo 1551, primer piso, de la ciudad de Santa Fe.\n\n \n\nDurante la jornada, el doctor Rodolfo Luis Vigo brindará la exposición titulada “Rol del Poder Judicial en el Siglo XXI”.\n\n \n\nLa propuesta es organizada por la Corte Suprema de Justicia y el Centro de Capacitación Judicial de la provincia de Santa Fe.\n\n \n\nLa actividad constituye un espacio de reconocimiento a la trayectoria del doctor Gutiérrez y de reflexión sobre el papel de la Justicia en la sociedad contemporánea.\n\n \n\nLas personas interesadas en participar podrán inscribirse a través del código QR incluido en la convocatoria.\n\n \n\n \n\n \n\n \n\n23 de noviembre de 2026\n\n \n\nSIC-STJER",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-24T00:17:53Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
