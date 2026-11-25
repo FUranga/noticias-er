@@ -233008,5 +233008,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3363",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "La provincia inició la ejecución de 34 nuevas viviendas en Feliciano",
+    "fecha": "2026-11-25",
+    "link": "https://iapv.gob.ar/seccion/noticias/3363/la-provincia-inicio-la-ejecucion-de-34-nuevas-vivi",
+    "texto_original": "La obra está a cargo de la Unión Transitoria de Empresas (UTE) Szczech S.A. - L y C Construcciones S.A., cuenta con una inversión superior a los 4.037 millones de pesos y tiene un plazo de ejecución de 15 meses corridos.\nLas viviendas estarán ubicadas en calle Pueyrredón, entre San Juan y Catamarca. El acto de firma contó con la presencia del presidente del IAPV, Manuel Schönhals, y del representante de la empresa constructora, Iván Szczech.\nAl respecto, Schönhals expresó que \"una de las obras públicas más significativas es la construcción de viviendas, que ofrecen arraigo en cada comunidad entrerriana y dignifican a las familias, para que puedan vivir dignamente\".\nAsimismo, destacó la importancia de \"seguir aportando más soluciones habitacionales en todo el territorio provincial\" y subrayó que \"estas obras impulsadas por el gobernador Rogelio Frigerio son una manera más de dar respuestas concretas a las necesidades de todos los entrerrianos\".\nCaracterísticas\nCada unidad habitacional está compuesta por dos dormitorios, comedor-cocina y baño.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-25T20:11:24Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
