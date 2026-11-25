@@ -232294,5 +232294,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "cge-esc-sec-n9heroes-de-malvinas-llama-a-concurso-38",
+    "fuente": "Consejo General de Educación de Entre Ríos",
+    "titulo": "ESC SEC N°9″HEROES DE MALVINAS” LLAMA A CONCURSO",
+    "fecha": "2026-11-25",
+    "link": "https://cge.entrerios.gov.ar/2026/11/esc-sec-n9heroes-de-malvinas-llama-a-concurso-38/",
+    "texto_original": "La Rectoría de la Escuela Secundaria N° 9 “HÉROES DE MALVINAS”, sito en calle MITRE 2470 de la ciudad de San José, convoca a concurso de horas en el marco del Acuerdo Paritario Resolución 783/12 MT y Modificatorias Resolución Nº 2300/22 Consejo General de Educación, carácter SUPLENTE TERMINO FIJO lo que a continuación se detalla:\n\nPrimer llamado\n\n16:40  HS.\n\n1 Cargo preceptor. STF. TURNO VESPERTINO. LUNES Y MIÉRCOLES DE 16:30 A 21 HS. MARTES, JUEVES Y VIERNES DE 17 A 21:30 HS. TOMA INMEDIATA.\n\nPresentarse en la Dirección del establecimiento el DÍA  JUEVES 26 DE NOVIEMBRE DE 2026 en el horario establecido, con credenciales de puntaje impresas vigentes y carpeta de antecedentes, DNI y si correspondiera constancia de personal de la casa.",
+    "imagen_url": "",
+    "estado": "descartado",
+    "agregado_el": "2026-11-25T09:23:11Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
   }
 ]
