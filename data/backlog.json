@@ -232238,5 +232238,47 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "boletinnac-350728",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial",
+    "fecha": "2026-11-24",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350728/20261124",
+    "texto_original": "GENDARMERÍA NACIONAL ARGENTINA Aviso Oficial Fecha de Publicacion: 24/11/2026 EX-2026-04762327-APN-AGRUNRIOS#GNA, registro de la inactiva Agrupación V “ ENTRE RIOS ”; el Jefe de Región II ha establecido fecha para el día 30 de noviembre...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-25T01:15:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2420976",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "UNIVERSIDAD NACIONAL DE ENTRE RIOS Licitación Pública 03/2026",
+    "fecha": "2026-11-24",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420976/20261124",
+    "texto_original": "UNIVERSIDAD NACIONAL DE ENTRE RIOS Licitación Pública 03/2026 Fecha de Publicacion: 24/11/2026 EXPTE_RECT-UER 956/2026 La Universidad Nacional de Entre Ríos llama a Licitación Pública para la construcción de la “OBRA REFACCIÓN BLOQUE Nº3 Y OBRAS...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-25T01:15:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2420983",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "COMISIÓN TÉCNICA MIXTA DE SALTO GRANDE Contrato SG-790",
+    "fecha": "2026-11-24",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2420983/20261124",
+    "texto_original": "COMISIÓN TÉCNICA MIXTA DE SALTO GRANDE Contrato SG-790 Fecha de Publicacion: 24/11/2026 A TALLER DE MANTENIMIENTO ELÉCTRICO EN EL COMPLEJO HIDROELÉCTRICO DE SALTO GRANDE ” PLIEGO DE BASES Y CONDICIONES Disponible en www.saltogrande.org, apartado...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-25T01:15:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
