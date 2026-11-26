@@ -233632,5 +233632,61 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81566",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Frigerio inauguró un nuevo destacamento policial en Paraná",
+    "fecha": "2026-11-25",
+    "link": "https://portal.entrerios.gov.ar/noticias/81566",
+    "texto_original": "El gobernador Rogelio Frigerio encabezó este miércoles la inauguración del nuevo Destacamento Policial Ribera del Paraná, en la ciudad de Paraná. La dependencia está ubicada en inmediaciones de calle Ambrosetti Nº 295, en la sede El Plumín del Club Atlético Estudiantes (CAE). \"Un destacamento es un lugar muy importante donde hacía mucha falta esta respuesta rápida de la policía. Tiene que ver con escuchar a la gente, con la cercanía de la policía con los vecinos, con un reclamo de mucho tiempo\", subrayó Frigerio.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T02:20:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81565",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Crear una empresa en Entre Ríos pasa de meses a días: La SAS ya es 100% digital",
+    "fecha": "2026-11-25",
+    "link": "https://portal.entrerios.gov.ar/noticias/81565",
+    "texto_original": "Se presentó Tu SAS 100% Digital, una herramienta que permite constituir e inscribir Sociedades por Acciones Simplificadas de manera íntegramente online, a través de Mi Entre Ríos. El nuevo sistema reduce los plazos de tres o cuatro meses a entre cuatro y seis días hábiles y, desde el 1 de diciembre, el trámite será exclusivamente digital.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T02:20:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81564",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "OSER facilita el acceso a su cartilla médica a través de una nueva plataforma web",
+    "fecha": "2026-11-25",
+    "link": "https://portal.entrerios.gov.ar/noticias/81564",
+    "texto_original": "En el marco de la renovación integral de su sitio web, la Obra Social de Entre Ríos (OSER) puso en marcha esta herramienta digital disponible las 24 horas para facilitar el acceso a toda la cartilla médica y de servicios.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T02:20:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81563",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Entre Ríos reafirma su compromiso con las políticas de prevención y abordaje de las violencias contra las mujeres",
+    "fecha": "2026-11-25",
+    "link": "https://portal.entrerios.gov.ar/noticias/81563",
+    "texto_original": "En el marco del 25N, el gobierno provincial destacó la continuidad de las políticas de cuidado, el fortalecimiento de la articulación institucional y las acciones territoriales para acompañar a las mujeres y promover su autonomía.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T02:20:21Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
