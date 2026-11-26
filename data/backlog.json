@@ -235516,5 +235516,19 @@
     "wp_edit_url": null,
     "motivo_descarte": null,
     "prioridad": "alta"
+  },
+  {
+    "id": "empresa-uier-se-realizo-una-capacitacion-sobre-educacion-financiera-junto-a-iapser",
+    "fuente": "Unión Industrial de Entre Ríos",
+    "titulo": "Se realizó una capacitación sobre educación financiera junto a IAPSER",
+    "fecha": "2026-11-20",
+    "link": "https://uier.org.ar/se-realizo-una-capacitacion-sobre-educacion-financiera-junto-a-iapser/",
+    "texto_original": "En el marco de una actividad de capacitación conjunta entre la Unión Industrial de Entre Ríos (UIER) y el Instituto Autartico Provincial del Seguro de Entre Ríos (IAPSER), referentes de los departamentos de Recursos Humanos, Tributario y PyMI participaron de una charla sobre educación financiera, realizada en Mirador TEC, en Paraná, este jueves 19 de noviembre.\n\nEl encuentro propuso brindar herramientas para tomar decisiones económicas más conscientes, ordenar las finanzas personales y planificar objetivos a mediano y largo plazo. Durante la capacitación se abordaron temas como la organización de ingresos y gastos, el ahorro, la inflación, las alternativas de inversión, el riesgo y la planificación financiera, incluyendo la previsión para el retiro.\n\nAdemás, los participantes tuvieron la oportunidad de recorrer las instalaciones del Mirador TEC, un espacio orientado a la innovación, la tecnología, el conocimiento y el desarrollo de proyectos, que promueve el encuentro entre empresas, emprendedores y el ecosistema tecnológico.\n\nDesde UIER se agradeció especialmente a IAPSER por impulsar y acompañar esta propuesta de capacitación, así como a todas las empresas socias que participaron, por su interés y compromiso con estos espacios de aprendizaje e intercambio.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T22:40:18Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
