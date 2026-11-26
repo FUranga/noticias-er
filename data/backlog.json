@@ -234150,5 +234150,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3364",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El IAPV y el Banco de Entre Ríos realizarán una jornada sobre el crédito hipotecario como política habitacional",
+    "fecha": "2026-11-26",
+    "link": "https://iapv.gob.ar/seccion/noticias/3364/el-iapv-y-el-banco-de-entre-rios-realizaran-una-jo",
+    "texto_original": "La actividad se desarrollará el viernes 4 de diciembre, a partir de las 9, en el Centro Provincial de Convenciones (CPC) de Paraná.\nLa jornada propone generar un ámbito de intercambio técnico e institucional para abordar los desafíos del financiamiento habitacional y analizar herramientas que contribuyan a ampliar las posibilidades de acceso a la vivienda en Entre Ríos.\nEl encuentro contará con la participación de especialistas invitados. Entre ellos, el especialista en políticas públicas de hábitat y desarrollo urbano, ex secretario de Vivienda de la Nación y ex presidente de Procrear, Iván Kerr; el economista y analista del mercado inmobiliario, Federico González Rouco; y el cofundador de Adequate, Ariel Alejandro Sosa, quien trabaja en el desarrollo de soluciones fintech y herramientas de ahorro programado para el acceso a la primera vivienda.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T11:38:16Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
