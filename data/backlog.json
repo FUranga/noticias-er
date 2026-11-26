@@ -234962,5 +234962,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "iapv-3365",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "El IAPV y Santa Ana firmaron un convenio para construir viviendas con financiamiento provincial",
+    "fecha": "2026-11-26",
+    "link": "https://iapv.gob.ar/seccion/noticias/3365/el-iapv-y-santa-ana-firmaron-un-convenio-para-cons",
+    "texto_original": "La rúbrica se llevó adelante en la Escribanía Mayor de Gobierno y las obras se enmarcan en la línea de asistencia técnica y financiera del programa provincial Ahora tu Hogar.\nAl respecto, el titular del organismo provincial señaló que \"una de las obras públicas más significativas es la construcción de viviendas, ya que ofrecen arraigo en cada comunidad entrerriana y permiten que las familias puedan vivir dignamente\".\nAsimismo, el funcionario destacó el \"compromiso permanente de la gestión de Rogelio Frigerio de seguir construyendo, junto a los gobiernos locales, más unidades para que cada vez más entrerrianos puedan cumplir el sueño de acceder a una casa propia\".\nPor su parte, el intendente Zanandrea puso de manifiesto \"la importancia que tiene la ejecución de estas obras para que más familias tengan la posibilidad de acceder a un techo digno\" y valoró \"el trabajo conjunto que llevan adelante el gobierno provincial y el municipio para avanzar en nuevos proyectos habitacionales que nos den esperanza y proyección para nuestra comunidad\".\nLas viviendas demandarán una inversión provincial superior a los 1.133 millones de pesos y tendrán un plazo de ejecución de 12 meses corridos.\nEsta línea de asistencia a municipios, comunas y entidades intermedias está orientada a financiar o cofinanciar la construcción de nuevas unidades habitacionales, así como la terminación o reactivación de obras paralizadas o en ejecución.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-26T20:31:34Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
