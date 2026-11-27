@@ -235530,5 +235530,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81603",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "El ministro Troncoso y Filipuzzi repasaron las inversiones que la provincia prevé en la Uader",
+    "fecha": "2026-11-26",
+    "link": "https://portal.entrerios.gov.ar/noticias/81603",
+    "texto_original": "El ministro de Gobierno y Trabajo de Entre Ríos, Manuel Troncoso, recibió al rector de la Universidad Autónoma de Entre Ríos (Uader), Luciano Filipuzzi. Durante el encuentro, dialogaron sobre las inversiones en infraestructura universitaria contempladas en el proyecto de Presupuesto 2027, que ascienden a 3.525 millones de pesos y representan un incremento del 605 por ciento respecto de 2026.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-27T02:48:31Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81602",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Entre Ríos aplicó un innovador sistema de barreras desplegables para la defensa contra inundaciones",
+    "fecha": "2026-11-26",
+    "link": "https://portal.entrerios.gov.ar/noticias/81602",
+    "texto_original": "El Ministerio de Planeamiento e Infraestructura a través de la Dirección de Hidráulica y la Dirección de Defensa Civil (DC), junto al municipio de Paraná, realizaron una prueba en Puerto Sánchez de un nuevo sistema de muros lineales de contención. La tecnología, utilizada en otros países, permite montar defensas de manera rápida, con facilidad de transporte y sin requerir una gran cantidad de personal.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-27T02:48:31Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
