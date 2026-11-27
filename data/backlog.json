@@ -236062,5 +236062,19 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "senadoer-presupuesto-2027-y-codigo-electoral-en-la-agenda-de-comisiones-del-senado",
+    "fuente": "Cámara de Senadores de Entre Ríos",
+    "titulo": "Presupuesto 2027 y Código Electoral en la agenda de comisiones del Senado",
+    "fecha": "2026-11-27",
+    "link": "https://www.senadoer.gob.ar/2026/11/presupuesto-2027-y-codigo-electoral-en-la-agenda-de-comisiones-del-senado/",
+    "texto_original": "Las reuniones se desarrollarán el miércoles 2 de diciembre, a partir de las 8:30, en la Sala de Comisiones y en el Recinto.\n\nCronograma de reuniones\n\n• 8:30 | Comisión de Presupuesto y Hacienda (Sala de Comisiones)\n\n◦ Expediente N° 29.775: Proyecto de ley sobre el Presupuesto de la Administración Provincial para el Ejercicio 2027.\n\n◦ Expediente N° 29.870: Proyecto de ley mediante el cual se faculta al Poder Ejecutivo a otorgar las autorizaciones solicitadas por el Nuevo Banco de Entre Ríos S.A., en su carácter de Agente Financiero de la Provincia, referentes a las Cláusulas Novena y Vigésimo Segunda, y para la realización de los actos necesarios para garantizar la prestación ininterrumpida del servicio de agente financiero y caja obligada.\n\n◦ Expediente N° 15.839: Proyecto de ley por el que se modifica el inciso D del artículo 197° del Código Fiscal (t.o. 2022).\n\n• 9:30 | Comisión de Legislación General (Sala de Comisiones)\n\n◦ Abordaje de asuntos pendientes en comisión.\n\n• 10:30 | Comisión de Obras Públicas (Sala de Comisiones)\n\n◦ Expediente N° 29.302: Proyecto de ley por el que se modifica el artículo 5° de la Ley N° 11.280, régimen general de concesiones de obras, infraestructuras públicas y servicios públicos de la provincia.\n\n◦ Invitado: Prof. Abel Aníbal Antivero, secretario general de la Asociación Gremial del Magisterio de Entre Ríos (Agmer).\n\n• 11:30 | Comisión de Asuntos Constitucionales y Acuerdos (Sala de Comisiones)\n\n◦ Expediente N° 15.877: Proyecto de ley sobre la reforma parcial de la Ley N° 11.190, Código Electoral de la provincia de Entre Ríos.\n\n◦ Invitados: Lic. Fanny Natali Maidana, directora general de Asuntos Políticos de Entre Ríos; Dr. Esteban Vitor, secretario Legal y Técnico de la Provincia; y Dr. Germán Carlomagno, presidente del Tribunal Electoral de la Provincia.\n\n• 16:00 | Comisión de Asuntos Constitucionales y Acuerdos (Recinto del HCS)\n\n◦ Expediente N° 15.877: Continuación del tratamiento del proyecto de ley sobre la reforma parcial de la Ley N° 11.190 (Código Electoral de Entre Ríos).\n\n◦ Invitados: Representantes de los partidos políticos con representación distrital y provincial.\n\n—————————————–",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-27T19:05:44Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
