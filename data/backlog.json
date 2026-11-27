@@ -237215,5 +237215,19 @@
     "wp_edit_url": null,
     "motivo_descarte": null,
     "prioridad": "alta"
+  },
+  {
+    "id": "iapv-3366",
+    "fuente": "Instituto Autárquico de Planeamiento y Vivienda de Entre Ríos",
+    "titulo": "Avanzan las viviendas que se construyen en San Salvador",
+    "fecha": "2026-11-27",
+    "link": "https://iapv.gob.ar/seccion/noticias/3366/avanzan-las-viviendas-que-se-construyen-en-san-sal",
+    "texto_original": "Al término de la recorrida, Schönhals expresó: \"Desde la gestión provincial trabajamos para garantizar el acceso a la vivienda a más familias. Con cada una que proyectamos y ejecutamos, estamos cumpliendo el sueño de la casa propia y generando más puestos de trabajo en la provincia\".\nAsimismo, señaló: \"Las visitas a estas obras van en concordancia con lo que el gobernador Rogelio Frigerio nos pide, que es gobernar desde el territorio. Esto nos pone frente a los problemas que debemos ir resolviendo durante la gestión\".\nLas 48 viviendas son ejecutadas por la empresa Traza SA y cuentan con financiamiento del programa provincial Ahora Tu Hogar.\nCabe destacar que más de 40 trabajadores participan de la construcción del complejo habitacional, generando empleo directo y dinamizando la actividad económica local. La ejecución de estas viviendas también representa un aporte al desarrollo de San Salvador y permitirá que nuevas familias accedan a una solución habitacional.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-27T21:42:45Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
