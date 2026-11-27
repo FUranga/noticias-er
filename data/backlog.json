@@ -235600,5 +235600,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": "Gestion rutinaria de cargos docentes (concurso/interinato/suplencia/junta de clasificacion) -- filtro automatico de ruido estructural, ver pipeline/filtro_contenido_cge.py."
+  },
+  {
+    "id": "goberer-81606",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Salud realizará una jornada de concientización, prevención y actualización sobre VIH en Paraná",
+    "fecha": "2026-11-27",
+    "link": "https://portal.entrerios.gov.ar/noticias/81606",
+    "texto_original": "Con el objetivo de fortalecer la prevención, promover el acceso a la información y garantizar una atención integral de la salud, el próximo martes 1 de diciembre se realizará una jornada en el marco del Día Internacional de Respuesta al Virus de Inmunodeficiencia Humana (VIH). Allí se ofrecerán testeos voluntarios de Infecciones de Transmisión Sexual (ITS), controles de tensión arterial y glucemia, se entregarán preservativos y se brindará consejería en salud sexual y la posibilidad de completar esquemas de vacunación de adultos.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-27T11:30:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "goberer-81605",
+    "fuente": "Gobierno de Entre Rios - SEC. DE COMUNICACION Y PRENSA  - SECRETARIA GENERAL DE LA GOBERNACION - PODER EJECUTIVO",
+    "titulo": "Frigerio recorrió los avances de la obra de saneamiento en Concepción del Uruguay",
+    "fecha": "2026-11-27",
+    "link": "https://portal.entrerios.gov.ar/noticias/81605",
+    "texto_original": "El gobernador Rogelio Frigerio recorrió este jueves la obra de remodelación integral del sistema cloacal de Concepción del Uruguay. \"Si queremos cuidar a nuestro río en serio, no solamente de palabra, tenemos que hacer obras como estas que estamos terminando en toda la costa del Uruguay\", subrayó el mandatario. Los trabajos forman parte del Programa de Saneamiento Integral de las Ciudades de la Cuenca del Río Uruguay.",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-27T11:30:19Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
