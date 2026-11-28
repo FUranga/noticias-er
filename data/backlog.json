@@ -237243,5 +237243,33 @@
     "procesado_el": null,
     "wp_edit_url": null,
     "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-350883",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "MINISTERIO DE ECONOMÍA Resolución 2025/2026",
+    "fecha": "2026-11-27",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/primera/350883/20261127",
+    "texto_original": "MINISTERIO DE ECONOMÍA Resolución 2025/2026 Fecha de Publicacion: 27/11/2026 RESOL-2026-2025-APN-MEC principios fundamentales se enumeran en el artículo 2° de la mencionada ley, entre los que se destacan la administración de la infraestructura ferroviaria por...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-28T00:22:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
+  },
+  {
+    "id": "boletinnac-2421264",
+    "fuente": "Boletín Oficial de la República Argentina",
+    "titulo": "COMISIÓN TÉCNICA MIXTA DE SALTO GRANDE Contrato SG-790",
+    "fecha": "2026-11-27",
+    "link": "https://www.boletinoficial.gob.ar/detalleAviso/tercera/2421264/20261127",
+    "texto_original": "COMISIÓN TÉCNICA MIXTA DE SALTO GRANDE Contrato SG-790 Fecha de Publicacion: 27/11/2026 A TALLER DE MANTENIMIENTO ELÉCTRICO EN EL COMPLEJO HIDROELÉCTRICO DE SALTO GRANDE ” PLIEGO DE BASES Y CONDICIONES Disponible en www.saltogrande.org, apartado...",
+    "imagen_url": "",
+    "estado": "pendiente",
+    "agregado_el": "2026-11-28T00:22:15Z",
+    "procesado_el": null,
+    "wp_edit_url": null,
+    "motivo_descarte": null
   }
 ]
